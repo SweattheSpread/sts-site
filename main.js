@@ -1,5 +1,5 @@
 /* Purchase link for the Daily Betting Breakdown ($300/mo or $3,000/yr). Single slot: set to the checkout URL when it exists. '#' = checkout not open yet. */
-const PURCHASE_URL = '#';
+const PURCHASE_URL = 'https://whop.com/checkout/plan_p6b5fbuIhXaM1';
 document.querySelectorAll('.js-purchase').forEach(a => {
   a.href = PURCHASE_URL;
   if (PURCHASE_URL === '#') a.addEventListener('click', e => { e.preventDefault(); document.querySelectorAll('.js-purchase-status').forEach(s => { s.textContent = 'Checkout opening soon. Check back shortly.'; s.style.color = '#A6FF00'; }); });
