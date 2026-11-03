@@ -40,7 +40,7 @@ const odds = o => (o > 0 ? '+' : '') + o, uu = u => u.toFixed(2) + 'u', sg = u =
 const when = iso => { if (!iso) return ''; const d = new Date(iso); return d.toLocaleString('en-US', { weekday: 'short', month: 'numeric', day: 'numeric', hour: 'numeric', minute: '2-digit' }) + ' PT'; };
 function card(c) {
   const gap = c.gap != null ? `<div><dt>Gap</dt><dd class="scramble lime">${c.gap} pts</dd></div>` : '';
-  return `<article class="card${c.gap != null ? ' gap' : ''}"><header><span class="lg">${esc(c.league)}</span><span class="mk">${esc(c.type)}${c.gap != null ? ' · Gap play' : ''}</span></header><h4>${esc(c.pick)}</h4><p class="m">${esc(c.matchup)} · ${when(c.start)}</p><dl><div><dt>Odds</dt><dd class="scramble">${odds(c.odds)}</dd></div><div><dt>Stake</dt><dd class="scramble">${uu(c.units)}</dd></div>${gap}</dl></article>`;
+  return `<article class="card${c.gap != null ? ' gap' : ''}${c.espn ? ' has-live' : ''}" data-n="${c.n}"${c.espn ? ' tabindex="0" role="button" aria-expanded="false"' : ''}><header><span class="lg">${esc(c.league)}</span><span class="mk">${esc(c.type)}${c.gap != null ? ' · Gap play' : ''}</span></header><h4>${esc(c.pick)}</h4><p class="m">${esc(c.matchup)} · ${when(c.start)}</p><dl><div><dt>Odds</dt><dd class="scramble">${odds(c.odds)}</dd></div><div><dt>Stake</dt><dd class="scramble">${uu(c.units)}</dd></div>${gap}</dl></article>`;
 }
 async function loadData() {
   if (!document.getElementById('latest')) return;
@@ -56,6 +56,7 @@ async function loadData() {
     $('cards-up').innerHTML = d.picks.length ? d.picks.map(card).join('') : '<p class="empty">No upcoming official plays yet. New plays post here first.</p>';
     $('cards-aw').innerHTML = d.awaiting.length ? d.awaiting.map(card).join('') : '<p class="empty">Nothing awaiting a result.</p>';
     $('p-upd').textContent = `Updated ${d.updated}.`;
+    window.STS_DATA = d; document.dispatchEvent(new CustomEvent('sts:data', { detail: d }));
     ['r-wl', 'r-u', 'r-roi'].forEach(id => { $(id).classList.add('scramble'); delete $(id).dataset.final; });
   } catch (e) { console.warn('data.json not loaded', e); }
   document.querySelectorAll('.scramble:not([data-final])').forEach(el => io.observe(el));

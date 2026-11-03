@@ -1,5 +1,5 @@
 {
- "updated": "Nov 3, 2026, 5:31 AM PT",
+ "updated": "Nov 3, 2026, 5:54 AM PT",
  "record": {
   "w": 84,
   "l": 89,
@@ -129,7 +129,22 @@
    "units": 1.0,
    "gap": null,
    "start": "2026-11-03T16:10:00",
-   "timed": true
+   "timed": true,
+   "espn": {
+    "legs": [
+     {
+      "kind": "prop",
+      "player": "Mason McTavish",
+      "ou": "O",
+      "line": 0.5,
+      "stat": "points",
+      "path": "hockey/nhl",
+      "event": "401892637",
+      "date": "20261103"
+     }
+    ],
+    "sport": "NHL"
+   }
   },
   {
    "n": 622,
@@ -141,7 +156,22 @@
    "units": 1.0,
    "gap": null,
    "start": "2026-11-03T16:10:00",
-   "timed": true
+   "timed": true,
+   "espn": {
+    "legs": [
+     {
+      "kind": "prop",
+      "player": "Chris Kreider",
+      "ou": "O",
+      "line": 0.5,
+      "stat": "points",
+      "path": "hockey/nhl",
+      "event": "401892634",
+      "date": "20261103"
+     }
+    ],
+    "sport": "NHL"
+   }
   },
   {
    "n": 573,
@@ -153,7 +183,20 @@
    "units": 1.0,
    "gap": 4.7,
    "start": "2026-11-09T17:15:00",
-   "timed": true
+   "timed": true,
+   "espn": {
+    "legs": [
+     {
+      "kind": "spread",
+      "side": "Minnesota Vikings",
+      "line": 2.5,
+      "path": "football/nfl",
+      "event": "401873051",
+      "date": "20261109"
+     }
+    ],
+    "sport": "NFL"
+   }
   }
  ],
  "awaiting": [
@@ -167,7 +210,28 @@
    "units": 1.0,
    "gap": null,
    "start": "2026-11-03T01:00:00",
-   "timed": true
+   "timed": true,
+   "espn": {
+    "legs": [
+     {
+      "kind": "ml",
+      "side": "Novak Djokovic",
+      "path": "tennis/atp",
+      "event": "13-2026",
+      "comp": "186458",
+      "date": "20261103"
+     },
+     {
+      "kind": "ml",
+      "side": "Taylor Fritz",
+      "path": "tennis/atp",
+      "event": "13-2026",
+      "comp": "186457",
+      "date": "20261103"
+     }
+    ],
+    "sport": "Tennis"
+   }
   },
   {
    "n": 620,
@@ -179,7 +243,20 @@
    "units": 1.0,
    "gap": null,
    "start": "2026-11-03T04:05:00",
-   "timed": true
+   "timed": true,
+   "espn": {
+    "legs": [
+     {
+      "kind": "ml",
+      "side": "Learner Tien",
+      "path": "tennis/atp",
+      "event": "13-2026",
+      "comp": "186473",
+      "date": "20261103"
+     }
+    ],
+    "sport": "Tennis"
+   }
   }
  ],
  "daily": {
