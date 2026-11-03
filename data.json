@@ -1,5 +1,5 @@
 {
- "updated": "Nov 2, 2026, 9:26 PM PT",
+ "updated": "Nov 2, 2026, 9:27 PM PT",
  "record": {
   "w": 73,
   "l": 79,
@@ -11,7 +11,7 @@
   "first": "2026-10-12",
   "last": "2026-11-01"
  },
- "pending": 24,
+ "pending": 25,
  "latest": [
   {
    "n": 597,
@@ -119,6 +119,18 @@
   }
  ],
  "picks": [
+  {
+   "n": 620,
+   "league": "Tennis",
+   "type": "Moneyline",
+   "matchup": "ATP Paris R2: Learner Tien vs Stefanos Tsitsipas",
+   "pick": "Learner Tien ML",
+   "odds": -135,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-03T03:10:00",
+   "timed": true
+  },
   {
    "n": 573,
    "league": "NFL",
