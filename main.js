@@ -45,7 +45,7 @@ function card(c) {
 async function loadData() {
   if (!document.getElementById('latest')) return;
   try {
-    const d = await (await fetch('/sts-site/data.json', { cache: 'no-cache' })).json(), r = d.record, $ = id => document.getElementById(id);
+    const d = await (await fetch('/data.json', { cache: 'no-cache' })).json(), r = d.record, $ = id => document.getElementById(id);
     $('r-wl').textContent = `${r.w}–${r.l}–${r.p}`; $('r-n').textContent = `${r.n} graded official bets`;
     $('r-u').textContent = sg(r.units); $('r-risk').textContent = `${r.risked.toFixed(2)}u risked`;
     if (r.roi != null) $('r-roi').textContent = (r.roi > 0 ? '+' : '') + r.roi.toFixed(2) + '%';
