@@ -1,5 +1,5 @@
 {
- "updated": "Nov 2, 2026, 9:27 PM PT",
+ "updated": "Nov 2, 2026, 9:28 PM PT",
  "record": {
   "w": 73,
   "l": 79,
@@ -11,7 +11,7 @@
   "first": "2026-10-12",
   "last": "2026-11-01"
  },
- "pending": 25,
+ "pending": 26,
  "latest": [
   {
    "n": 597,
@@ -119,6 +119,18 @@
   }
  ],
  "picks": [
+  {
+   "n": 606,
+   "league": "Tennis",
+   "type": "Parlay",
+   "matchup": "ATP Paris R2 2-leg parlay: Djokovic vs Vacherot + Fritz vs Bonzi",
+   "pick": "Novak Djokovic ML -220 + Taylor Fritz ML -425 (Fritz vs Bonzi Tue 11/3 6:30 AM PT)",
+   "odds": 80,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-03T01:00:00",
+   "timed": true
+  },
   {
    "n": 620,
    "league": "Tennis",
