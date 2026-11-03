@@ -1,0 +1,92 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<title>STS Analytics — Sweat the Spread (v3 preview)</title>
+<meta name="description" content="Model-first betting analytics. Every official pick posted free, graded in units.">
+<meta name="robots" content="noindex,nofollow">
+<meta name="theme-color" content="#07080a">
+<link rel="icon" href="/sts-site/assets/favicon.ico">
+<link rel="preload" href="/sts-site/assets/sweat_the_spread_profile.webp" as="image">
+<link rel="stylesheet" href="/sts-site/style.css">
+</head>
+<body>
+<a class="skip" href="#picks">Skip to picks</a>
+<header class="nav">
+  <a class="brand" href="/sts-site/"><img src="/sts-site/assets/sweat_the_spread_profile.webp" alt="" width="34" height="34"><span>STS<b>Analytics</b></span></a>
+  <nav><a href="/sts-site/#picks" class="glitch" data-text="Picks">Picks</a><a href="/sts-site/#record" class="glitch" data-text="Record">Record</a><a href="/sts-site/pricing/" class="glitch" data-text="Pricing">Pricing</a><a href="/sts-site/about/" class="glitch" data-text="About">About</a></nav>
+  <button id="sound" class="sound" aria-pressed="false" aria-label="Ambient sound off"><span class="bars"><i></i><i></i><i></i><i></i></span><span class="lbl">Sound off</span></button>
+</header>
+
+<section id="top" class="hero">
+  <div id="hero3d" class="hero3d" aria-hidden="true"><img class="hero-fallback" src="/sts-site/assets/sweat_the_spread_profile.webp" alt="" width="420" height="420"></div>
+  <div class="hero-copy">
+    <p class="kicker scramble">STS Analytics · Units only</p>
+    <h1 class="glitch big" data-text="We price the game first.">We price the game first.</h1>
+    <p class="lede">Then we compare that number to the book. A play is official only when the edge clears 4% against a sharp no‑vig price. Every official pick is posted free in the Sweat the Spread Telegram channel and on this website.</p>
+    <div class="ctas"><a class="btn glitch" data-text="Today's picks" href="#picks">Today's picks</a><a class="btn ghost glitch" data-text="See the record" href="#record">See the record</a></div>
+  </div>
+  <div class="scrollhint"><span>Scroll</span><i></i></div>
+</section>
+
+<section id="record" class="sect reveal">
+  <p class="kicker">Public record</p>
+  <h2 class="glitch" data-text="The record">The record</h2>
+  <div class="stats">
+    <div class="stat"><span class="n" id="r-wl">—</span><span class="l" id="r-n">graded official bets</span></div>
+    <div class="stat"><span class="n lime" id="r-u">—</span><span class="l" id="r-risk">units</span></div>
+    <div class="stat"><span class="n" id="r-roi">—</span><span class="l">ROI (units won ÷ units risked)</span></div>
+  </div>
+  <p class="fine" id="r-fine">Past bets are a report, not a forecast.</p>
+  <div class="cal" id="cal" aria-label="Units by day">
+    <div class="calh"><button class="calnav" id="cal-prev" aria-label="Previous month">&#8249;</button><h3 id="cal-m">—</h3><button class="calnav" id="cal-next" aria-label="Next month">&#8250;</button></div>
+    <p class="caltot" id="cal-tot"></p>
+    <div class="calg calw"><span>Sun</span><span>Mon</span><span>Tue</span><span>Wed</span><span>Thu</span><span>Fri</span><span>Sat</span></div>
+    <div class="calg" id="cal-g"></div>
+    <p class="fine">Units won or lost per day on graded official plays (all sports, tennis included), by game date.</p>
+  </div>
+  <h3>Latest graded</h3>
+  <ul class="graded" id="latest"></ul>
+</section>
+
+<section id="picks" class="sect picks">
+  <p class="kicker">Today's official picks</p>
+  <h2 class="glitch" data-text="Picks">Picks</h2>
+  <p class="fine">Every official pick lives here and in the Sweat the Spread Telegram channel. Lines move, so check the price at your book. <span id="p-upd"></span></p>
+  <h3>Upcoming</h3>
+  <div class="cards" id="cards-up"></div>
+  <h3>Started · awaiting result</h3>
+  <div class="cards" id="cards-aw"></div>
+  <noscript><p class="fine">Turn on JavaScript to load today's picks.</p></noscript>
+</section>
+
+<section id="method" class="sect reveal">
+  <p class="kicker">Methodology</p>
+  <h2 class="glitch" data-text="How a price gets made">How a price gets made</h2>
+  <ol class="steps">
+    <li class="reveal"><b>01</b><h4>Build our own number</h4><p>The model prices the game before we look at the book.</p></li>
+    <li class="reveal"><b>02</b><h4>Compare to sharp no‑vig</h4><p>A play is official only when the edge clears 4%.</p></li>
+    <li class="reveal"><b>03</b><h4>Size in units</h4><p>1u standard and max. Gap plays up to 2u. Prices longer than +200 at 0.5u.</p></li>
+    <li class="reveal"><b>04</b><h4>Grade everything</h4><p>Every published play is official and goes on the record.</p></li>
+  </ol>
+  <div class="cta-band reveal"><p>Picks are free in Telegram. The Daily Betting Breakdown is the paid product.</p><a class="btn glitch" data-text="Get the breakdown" href="mailto:sweatthespread@stsanalytics.co?subject=Daily%20Betting%20Breakdown">Get the breakdown</a></div>
+</section>
+
+<footer class="foot">
+  <canvas id="particles" aria-hidden="true"></canvas>
+  <p class="kicker">Follow the sweat</p>
+  <ul class="socials">
+    <li><a data-icon="telegram" href="/sts-site/#picks" id="tg-link">Telegram</a></li>
+    <li><a data-icon="x" href="https://x.com/SweattheSpread" rel="noopener" target="_blank">X</a></li>
+    <li><a data-icon="youtube" href="https://www.youtube.com/@sweatthespread" rel="noopener" target="_blank">YouTube</a></li>
+    <li><a data-icon="instagram" href="https://instagram.com/sweatthespread" rel="noopener" target="_blank">Instagram</a></li>
+  </ul>
+  <p class="fine">© 2026 STS Analytics · sweatthespread@stsanalytics.co · 21+. Bet responsibly. Gambling problem? Call 1-800-GAMBLER. Preview build, not the live site.</p>
+</footer>
+<script src="/sts-site/vendor/gsap.min.js" defer></script>
+<script src="/sts-site/vendor/ScrollTrigger.min.js" defer></script>
+<script src="/sts-site/vendor/lenis.min.js" defer></script>
+<script type="module" src="/sts-site/main.js"></script>
+</body>
+</html>
