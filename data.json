@@ -1,5 +1,5 @@
 {
- "updated": "Nov 3, 2026, 5:56 AM PT",
+ "updated": "Nov 3, 2026, 7:46 AM PT",
  "record": {
   "w": 84,
   "l": 89,
@@ -11,7 +11,7 @@
   "first": "2026-10-12",
   "last": "2026-11-02"
  },
- "pending": 5,
+ "pending": 6,
  "latest": [
   {
    "n": 619,
@@ -167,6 +167,30 @@
       "stat": "points",
       "path": "hockey/nhl",
       "event": "401892634",
+      "date": "20261103"
+     }
+    ],
+    "sport": "NHL"
+   }
+  },
+  {
+   "n": 623,
+   "league": "NHL",
+   "type": "Moneyline",
+   "matchup": "Carolina Hurricanes @ Nashville Predators",
+   "pick": "Carolina Hurricanes ML",
+   "odds": -200,
+   "units": 1.5,
+   "gap": null,
+   "start": "2026-11-03T17:10:00",
+   "timed": true,
+   "espn": {
+    "legs": [
+     {
+      "kind": "ml",
+      "side": "Carolina Hurricanes",
+      "path": "hockey/nhl",
+      "event": "401892642",
       "date": "20261103"
      }
     ],
