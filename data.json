@@ -1,5 +1,5 @@
 {
- "updated": "Nov 4, 2026, 12:10 AM PT",
+ "updated": "Nov 4, 2026, 4:44 AM PT",
  "record": {
   "w": 91,
   "l": 95,
@@ -11,7 +11,7 @@
   "first": "2026-10-12",
   "last": "2026-11-03"
  },
- "pending": 2,
+ "pending": 4,
  "latest": [
   {
    "n": 632,
@@ -120,6 +120,30 @@
  ],
  "picks": [
   {
+   "n": 633,
+   "league": "NBA",
+   "type": "Moneyline",
+   "matchup": "Chicago Bulls @ New York Knicks",
+   "pick": "Chicago Bulls ML",
+   "odds": 475,
+   "units": 0.5,
+   "gap": null,
+   "start": "2026-11-04T16:30:00",
+   "timed": true,
+   "espn": {
+    "legs": [
+     {
+      "kind": "ml",
+      "side": "Chicago Bulls",
+      "path": "basketball/nba",
+      "event": "401909926",
+      "date": "20261104"
+     }
+    ],
+    "sport": "NBA"
+   }
+  },
+  {
    "n": 625,
    "league": "NCAAB",
    "type": "Total",
@@ -143,6 +167,33 @@
      }
     ],
     "sport": "NCAAB"
+   }
+  },
+  {
+   "n": 634,
+   "league": "NHL",
+   "type": "Prop",
+   "matchup": "Calgary Flames @ Seattle Kraken",
+   "pick": "Jordan Eberle Under 0.5 points",
+   "odds": 135,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-04T19:00:00",
+   "timed": true,
+   "espn": {
+    "legs": [
+     {
+      "kind": "prop",
+      "player": "Jordan Eberle",
+      "ou": "U",
+      "line": 0.5,
+      "stat": "points",
+      "path": "hockey/nhl",
+      "event": "401892647",
+      "date": "20261104"
+     }
+    ],
+    "sport": "NHL"
    }
   },
   {
