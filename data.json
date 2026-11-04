@@ -1,5 +1,5 @@
 {
- "updated": "Nov 4, 2026, 7:15 AM PT",
+ "updated": "Nov 4, 2026, 8:49 AM PT",
  "record": {
   "w": 91,
   "l": 95,
@@ -11,7 +11,7 @@
   "first": "2026-10-12",
   "last": "2026-11-03"
  },
- "pending": 5,
+ "pending": 7,
  "latest": [
   {
    "n": 632,
@@ -197,6 +197,31 @@
    }
   },
   {
+   "n": 637,
+   "league": "NFL",
+   "type": "Spread",
+   "matchup": "Jacksonville Jaguars @ Baltimore Ravens",
+   "pick": "Jacksonville Jaguars -10",
+   "odds": -108,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-05T17:15:00",
+   "timed": true,
+   "espn": {
+    "legs": [
+     {
+      "kind": "spread",
+      "side": "Jacksonville Jaguars",
+      "line": -10.0,
+      "path": "football/nfl",
+      "event": "401873037",
+      "date": "20261105"
+     }
+    ],
+    "sport": "NFL"
+   }
+  },
+  {
    "n": 635,
    "league": "NFL",
    "type": "Player prop",
@@ -216,6 +241,31 @@
       "line": 12.5,
       "path": "football/nfl",
       "event": "401873041",
+      "date": "20261108"
+     }
+    ],
+    "sport": "NFL"
+   }
+  },
+  {
+   "n": 636,
+   "league": "NFL",
+   "type": "Spread",
+   "matchup": "Green Bay Packers @ New England Patriots",
+   "pick": "Green Bay Packers +3",
+   "odds": -105,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-08T13:25:00",
+   "timed": true,
+   "espn": {
+    "legs": [
+     {
+      "kind": "spread",
+      "side": "Green Bay Packers",
+      "line": 3.0,
+      "path": "football/nfl",
+      "event": "401873049",
       "date": "20261108"
      }
     ],
