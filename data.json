@@ -1,5 +1,5 @@
 {
- "updated": "Nov 3, 2026, 7:46 AM PT",
+ "updated": "Nov 3, 2026, 8:31 PM PT",
  "record": {
   "w": 84,
   "l": 89,
@@ -11,7 +11,7 @@
   "first": "2026-10-12",
   "last": "2026-11-02"
  },
- "pending": 6,
+ "pending": 15,
  "latest": [
   {
    "n": 619,
@@ -120,81 +120,29 @@
  ],
  "picks": [
   {
-   "n": 621,
-   "league": "NHL",
-   "type": "Prop",
-   "matchup": "St. Louis Blues @ New York Rangers",
-   "pick": "Mason McTavish OVER 0.5 points",
-   "odds": 115,
-   "units": 1.0,
-   "gap": null,
-   "start": "2026-11-03T16:10:00",
+   "n": 625,
+   "league": "NCAAB",
+   "type": "Total",
+   "matchup": "North Dakota St Bison @ Saint Mary's Gaels",
+   "pick": "Under 149.5",
+   "odds": -110,
+   "units": 0.5,
+   "gap": 7.5,
+   "start": "2026-11-04T19:00:00",
    "timed": true,
    "espn": {
     "legs": [
      {
-      "kind": "prop",
-      "player": "Mason McTavish",
-      "ou": "O",
-      "line": 0.5,
-      "stat": "points",
-      "path": "hockey/nhl",
-      "event": "401892637",
-      "date": "20261103"
+      "kind": "total",
+      "side": null,
+      "ou": "U",
+      "line": 149.5,
+      "path": "basketball/mens-college-basketball",
+      "event": "401917512",
+      "date": "20261104"
      }
     ],
-    "sport": "NHL"
-   }
-  },
-  {
-   "n": 622,
-   "league": "NHL",
-   "type": "Prop",
-   "matchup": "Winnipeg Jets @ Montreal Canadiens",
-   "pick": "Chris Kreider OVER 0.5 points",
-   "odds": 150,
-   "units": 1.0,
-   "gap": null,
-   "start": "2026-11-03T16:10:00",
-   "timed": true,
-   "espn": {
-    "legs": [
-     {
-      "kind": "prop",
-      "player": "Chris Kreider",
-      "ou": "O",
-      "line": 0.5,
-      "stat": "points",
-      "path": "hockey/nhl",
-      "event": "401892634",
-      "date": "20261103"
-     }
-    ],
-    "sport": "NHL"
-   }
-  },
-  {
-   "n": 623,
-   "league": "NHL",
-   "type": "Moneyline",
-   "matchup": "Carolina Hurricanes @ Nashville Predators",
-   "pick": "Carolina Hurricanes ML",
-   "odds": -200,
-   "units": 1.5,
-   "gap": null,
-   "start": "2026-11-03T17:10:00",
-   "timed": true,
-   "espn": {
-    "legs": [
-     {
-      "kind": "ml",
-      "side": "Carolina Hurricanes",
-      "path": "hockey/nhl",
-      "event": "401892642",
-      "date": "20261103"
-     }
-    ],
-    "sport": "NHL"
+    "sport": "NCAAB"
    }
   },
   {
@@ -280,6 +228,287 @@
      }
     ],
     "sport": "Tennis"
+   }
+  },
+  {
+   "n": 621,
+   "league": "NHL",
+   "type": "Prop",
+   "matchup": "St. Louis Blues @ New York Rangers",
+   "pick": "Mason McTavish OVER 0.5 points",
+   "odds": 115,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-03T16:10:00",
+   "timed": true,
+   "espn": {
+    "legs": [
+     {
+      "kind": "prop",
+      "player": "Mason McTavish",
+      "ou": "O",
+      "line": 0.5,
+      "stat": "points",
+      "path": "hockey/nhl",
+      "event": "401892637",
+      "date": "20261103"
+     }
+    ],
+    "sport": "NHL"
+   }
+  },
+  {
+   "n": 622,
+   "league": "NHL",
+   "type": "Prop",
+   "matchup": "Winnipeg Jets @ Montreal Canadiens",
+   "pick": "Chris Kreider OVER 0.5 points",
+   "odds": 150,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-03T16:10:00",
+   "timed": true,
+   "espn": {
+    "legs": [
+     {
+      "kind": "prop",
+      "player": "Chris Kreider",
+      "ou": "O",
+      "line": 0.5,
+      "stat": "points",
+      "path": "hockey/nhl",
+      "event": "401892634",
+      "date": "20261103"
+     }
+    ],
+    "sport": "NHL"
+   }
+  },
+  {
+   "n": 623,
+   "league": "NHL",
+   "type": "Moneyline",
+   "matchup": "Carolina Hurricanes @ Nashville Predators",
+   "pick": "Carolina Hurricanes ML",
+   "odds": -200,
+   "units": 1.5,
+   "gap": null,
+   "start": "2026-11-03T17:10:00",
+   "timed": true,
+   "espn": {
+    "legs": [
+     {
+      "kind": "ml",
+      "side": "Carolina Hurricanes",
+      "path": "hockey/nhl",
+      "event": "401892642",
+      "date": "20261103"
+     }
+    ],
+    "sport": "NHL"
+   }
+  },
+  {
+   "n": 624,
+   "league": "NCAAB",
+   "type": "Spread",
+   "matchup": "Cleveland St Vikings @ Missouri Tigers",
+   "pick": "Missouri Tigers -26.5",
+   "odds": -110,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-03T17:00:00",
+   "timed": true,
+   "espn": {
+    "legs": [
+     {
+      "kind": "spread",
+      "side": "Missouri Tigers",
+      "line": -26.5,
+      "path": "basketball/mens-college-basketball",
+      "event": "401921165",
+      "date": "20261103"
+     }
+    ],
+    "sport": "NCAAB"
+   }
+  },
+  {
+   "n": 626,
+   "league": "NCAAB",
+   "type": "Spread",
+   "matchup": "Wagner Seahawks @ Boston College Eagles",
+   "pick": "Wagner +20.5",
+   "odds": -110,
+   "units": 0.5,
+   "gap": null,
+   "start": "2026-11-03T16:00:00",
+   "timed": true,
+   "espn": {
+    "legs": [
+     {
+      "kind": "spread",
+      "side": "Wagner",
+      "line": 20.5,
+      "path": "basketball/mens-college-basketball",
+      "event": "401909551",
+      "date": "20261103"
+     }
+    ],
+    "sport": "NCAAB"
+   }
+  },
+  {
+   "n": 627,
+   "league": "NCAAB",
+   "type": "Spread",
+   "matchup": "Holy Cross Crusaders @ Rhode Island Rams",
+   "pick": "Holy Cross +20.5",
+   "odds": -115,
+   "units": 0.5,
+   "gap": null,
+   "start": "2026-11-03T16:00:00",
+   "timed": true,
+   "espn": {
+    "legs": [
+     {
+      "kind": "spread",
+      "side": "Holy Cross",
+      "line": 20.5,
+      "path": "basketball/mens-college-basketball",
+      "event": "401920061",
+      "date": "20261103"
+     }
+    ],
+    "sport": "NCAAB"
+   }
+  },
+  {
+   "n": 628,
+   "league": "NCAAB",
+   "type": "Total",
+   "matchup": "Stetson Hatters @ South Carolina Gamecocks",
+   "pick": "Under 148.5",
+   "odds": -105,
+   "units": 0.5,
+   "gap": null,
+   "start": "2026-11-03T16:00:00",
+   "timed": true,
+   "espn": {
+    "legs": [
+     {
+      "kind": "total",
+      "side": null,
+      "ou": "U",
+      "line": 148.5,
+      "path": "basketball/mens-college-basketball",
+      "event": "401921819",
+      "date": "20261103"
+     }
+    ],
+    "sport": "NCAAB"
+   }
+  },
+  {
+   "n": 629,
+   "league": "NCAAB",
+   "type": "Spread",
+   "matchup": "Drexel Dragons @ Virginia Cavaliers",
+   "pick": "Drexel +31.5",
+   "odds": -105,
+   "units": 0.5,
+   "gap": null,
+   "start": "2026-11-03T16:30:00",
+   "timed": true,
+   "espn": {
+    "legs": [
+     {
+      "kind": "spread",
+      "side": "Drexel",
+      "line": 31.5,
+      "path": "basketball/mens-college-basketball",
+      "event": "401920422",
+      "date": "20261103"
+     }
+    ],
+    "sport": "NCAAB"
+   }
+  },
+  {
+   "n": 630,
+   "league": "NCAAB",
+   "type": "Total",
+   "matchup": "Drexel Dragons @ Virginia Cavaliers",
+   "pick": "Under 142.5",
+   "odds": -105,
+   "units": 0.5,
+   "gap": null,
+   "start": "2026-11-03T16:30:00",
+   "timed": true,
+   "espn": {
+    "legs": [
+     {
+      "kind": "total",
+      "side": null,
+      "ou": "U",
+      "line": 142.5,
+      "path": "basketball/mens-college-basketball",
+      "event": "401920422",
+      "date": "20261103"
+     }
+    ],
+    "sport": "NCAAB"
+   }
+  },
+  {
+   "n": 631,
+   "league": "NCAAB",
+   "type": "Spread",
+   "matchup": "Arkansas-Pine Bluff Golden Lions @ Arkansas Razorbacks",
+   "pick": "Arkansas-Pine Bluff +41.5",
+   "odds": -105,
+   "units": 0.5,
+   "gap": null,
+   "start": "2026-11-03T17:00:00",
+   "timed": true,
+   "espn": {
+    "legs": [
+     {
+      "kind": "spread",
+      "side": "Arkansas-Pine Bluff",
+      "line": 41.5,
+      "path": "basketball/mens-college-basketball",
+      "event": "401929372",
+      "date": "20261103"
+     }
+    ],
+    "sport": "NCAAB"
+   }
+  },
+  {
+   "n": 632,
+   "league": "NCAAB",
+   "type": "Total",
+   "matchup": "Lipscomb Bisons @ Iowa Hawkeyes",
+   "pick": "Under 149.5",
+   "odds": -110,
+   "units": 0.5,
+   "gap": null,
+   "start": "2026-11-03T17:00:00",
+   "timed": true,
+   "espn": {
+    "legs": [
+     {
+      "kind": "total",
+      "side": null,
+      "ou": "U",
+      "line": 149.5,
+      "path": "basketball/mens-college-basketball",
+      "event": "401920702",
+      "date": "20261103"
+     }
+    ],
+    "sport": "NCAAB"
    }
   }
  ],
