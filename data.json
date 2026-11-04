@@ -1,5 +1,5 @@
 {
- "updated": "Nov 4, 2026, 9:41 AM PT",
+ "updated": "Nov 4, 2026, 3:08 PM PT",
  "record": {
   "w": 91,
   "l": 95,
@@ -11,7 +11,7 @@
   "first": "2026-10-12",
   "last": "2026-11-03"
  },
- "pending": 11,
+ "pending": 12,
  "latest": [
   {
    "n": 632,
@@ -119,6 +119,32 @@
   }
  ],
  "picks": [
+  {
+   "n": 643,
+   "league": "NBA",
+   "type": "Player Prop",
+   "matchup": "Atlanta Hawks @ Washington Wizards",
+   "pick": "Kyshawn George Over 4.5 rebounds",
+   "odds": -105,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-04T16:10:00",
+   "timed": true,
+   "espn": {
+    "legs": [
+     {
+      "kind": "team_total",
+      "side": "Kyshawn George",
+      "ou": "O",
+      "line": 4.5,
+      "path": "basketball/nba",
+      "event": "401909923",
+      "date": "20261104"
+     }
+    ],
+    "sport": "NBA"
+   }
+  },
   {
    "n": 633,
    "league": "NBA",
