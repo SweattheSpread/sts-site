@@ -1,5 +1,5 @@
 {
- "updated": "Nov 4, 2026, 8:49 AM PT",
+ "updated": "Nov 4, 2026, 9:07 AM PT",
  "record": {
   "w": 91,
   "l": 95,
@@ -11,7 +11,7 @@
   "first": "2026-10-12",
   "last": "2026-11-03"
  },
- "pending": 7,
+ "pending": 9,
  "latest": [
   {
    "n": 632,
@@ -144,6 +144,31 @@
    }
   },
   {
+   "n": 638,
+   "league": "NBA",
+   "type": "Spread",
+   "matchup": "Chicago Bulls @ New York Knicks",
+   "pick": "Chicago Bulls +12.5",
+   "odds": 100,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-04T16:40:00",
+   "timed": true,
+   "espn": {
+    "legs": [
+     {
+      "kind": "spread",
+      "side": "Chicago Bulls",
+      "line": 12.5,
+      "path": "basketball/nba",
+      "event": "401909926",
+      "date": "20261104"
+     }
+    ],
+    "sport": "NBA"
+   }
+  },
+  {
    "n": 625,
    "league": "NCAAB",
    "type": "Total",
@@ -241,6 +266,31 @@
       "line": 12.5,
       "path": "football/nfl",
       "event": "401873041",
+      "date": "20261108"
+     }
+    ],
+    "sport": "NFL"
+   }
+  },
+  {
+   "n": 639,
+   "league": "NFL",
+   "type": "Spread",
+   "matchup": "New York Jets @ Kansas City Chiefs",
+   "pick": "Kansas City Chiefs -9.5",
+   "odds": -108,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-08T10:00:00",
+   "timed": true,
+   "espn": {
+    "legs": [
+     {
+      "kind": "spread",
+      "side": "Kansas City Chiefs",
+      "line": -9.5,
+      "path": "football/nfl",
+      "event": "401873045",
       "date": "20261108"
      }
     ],
