@@ -1,5 +1,5 @@
 {
- "updated": "Nov 4, 2026, 4:44 AM PT",
+ "updated": "Nov 4, 2026, 7:15 AM PT",
  "record": {
   "w": 91,
   "l": 95,
@@ -11,7 +11,7 @@
   "first": "2026-10-12",
   "last": "2026-11-03"
  },
- "pending": 4,
+ "pending": 5,
  "latest": [
   {
    "n": 632,
@@ -194,6 +194,32 @@
      }
     ],
     "sport": "NHL"
+   }
+  },
+  {
+   "n": 635,
+   "league": "NFL",
+   "type": "Player prop",
+   "matchup": "Denver Broncos @ Carolina Panthers",
+   "pick": "Darren Waller longest reception Over 12.5",
+   "odds": -115,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-08T10:00:00",
+   "timed": true,
+   "espn": {
+    "legs": [
+     {
+      "kind": "team_total",
+      "side": "Darren Waller longest reception",
+      "ou": "O",
+      "line": 12.5,
+      "path": "football/nfl",
+      "event": "401873041",
+      "date": "20261108"
+     }
+    ],
+    "sport": "NFL"
    }
   },
   {
