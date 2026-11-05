@@ -1,5 +1,5 @@
 {
- "updated": "Nov 5, 2026, 8:09 AM PT",
+ "updated": "Nov 5, 2026, 9:45 AM PT",
  "record": {
   "w": 95,
   "l": 102,
@@ -11,7 +11,7 @@
   "first": "2026-10-12",
   "last": "2026-11-04"
  },
- "pending": 15,
+ "pending": 18,
  "latest": [
   {
    "n": 647,
@@ -119,6 +119,57 @@
   }
  ],
  "picks": [
+  {
+   "n": 659,
+   "league": "NCAAB",
+   "type": "Spread",
+   "matchup": "Wake Forest Demon Deacons @ Vanderbilt Commodores",
+   "pick": "Wake Forest +18.5",
+   "odds": -110,
+   "units": 0.5,
+   "gap": null,
+   "start": "2026-11-05T15:00:00",
+   "timed": true,
+   "espn": {
+    "legs": [
+     {
+      "kind": "spread",
+      "side": "Wake Forest",
+      "line": 18.5,
+      "path": "basketball/mens-college-basketball",
+      "event": "401909726",
+      "date": "20261105"
+     }
+    ],
+    "sport": "NCAAB"
+   }
+  },
+  {
+   "n": 661,
+   "league": "NCAAB",
+   "type": "Total",
+   "matchup": "Central Connecticut Blue Devils @ Syracuse Orange",
+   "pick": "Over 135.5",
+   "odds": -105,
+   "units": 0.5,
+   "gap": null,
+   "start": "2026-11-05T16:00:00",
+   "timed": true,
+   "espn": {
+    "legs": [
+     {
+      "kind": "total",
+      "side": null,
+      "ou": "O",
+      "line": 135.5,
+      "path": "basketball/mens-college-basketball",
+      "event": "401909717",
+      "date": "20261105"
+     }
+    ],
+    "sport": "NCAAB"
+   }
+  },
   {
    "n": 655,
    "league": "NHL",
@@ -273,6 +324,32 @@
      }
     ],
     "sport": "NFL"
+   }
+  },
+  {
+   "n": 660,
+   "league": "NCAAB",
+   "type": "Total",
+   "matchup": "Pennsylvania Quakers @ Illinois Fighting Illini",
+   "pick": "Under 173.5",
+   "odds": -105,
+   "units": 0.5,
+   "gap": null,
+   "start": "2026-11-05T17:30:00",
+   "timed": true,
+   "espn": {
+    "legs": [
+     {
+      "kind": "total",
+      "side": null,
+      "ou": "U",
+      "line": 173.5,
+      "path": "basketball/mens-college-basketball",
+      "event": "401913526",
+      "date": "20261105"
+     }
+    ],
+    "sport": "NCAAB"
    }
   },
   {
