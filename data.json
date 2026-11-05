@@ -1,5 +1,5 @@
 {
- "updated": "Nov 4, 2026, 7:47 PM PT",
+ "updated": "Nov 4, 2026, 8:20 PM PT",
  "record": {
   "w": 91,
   "l": 95,
@@ -11,7 +11,7 @@
   "first": "2026-10-12",
   "last": "2026-11-03"
  },
- "pending": 16,
+ "pending": 17,
  "latest": [
   {
    "n": 632,
@@ -119,6 +119,33 @@
   }
  ],
  "picks": [
+  {
+   "n": 648,
+   "league": "Tennis",
+   "type": "Total",
+   "matchup": "ATP Paris Masters: Casper Ruud vs Jan-Lennard Struff",
+   "pick": "Over 23.5 total games",
+   "odds": -103,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-05T07:20:00",
+   "timed": true,
+   "espn": {
+    "legs": [
+     {
+      "kind": "total",
+      "side": null,
+      "ou": "O",
+      "line": 23.5,
+      "path": "tennis/atp",
+      "event": "13-2026",
+      "comp": "187334",
+      "date": "20261105"
+     }
+    ],
+    "sport": "Tennis"
+   }
+  },
   {
    "n": 637,
    "league": "NFL",
