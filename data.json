@@ -1,5 +1,5 @@
 {
- "updated": "Nov 5, 2026, 4:41 AM PT",
+ "updated": "Nov 5, 2026, 8:02 AM PT",
  "record": {
   "w": 95,
   "l": 102,
@@ -11,7 +11,7 @@
   "first": "2026-10-12",
   "last": "2026-11-04"
  },
- "pending": 13,
+ "pending": 15,
  "latest": [
   {
    "n": 647,
@@ -120,33 +120,6 @@
  ],
  "picks": [
   {
-   "n": 648,
-   "league": "Tennis",
-   "type": "Total",
-   "matchup": "ATP Paris Masters: Casper Ruud vs Jan-Lennard Struff",
-   "pick": "Over 23.5 total games",
-   "odds": -103,
-   "units": 1.0,
-   "gap": null,
-   "start": "2026-11-05T07:20:00",
-   "timed": true,
-   "espn": {
-    "legs": [
-     {
-      "kind": "total",
-      "side": null,
-      "ou": "O",
-      "line": 23.5,
-      "path": "tennis/atp",
-      "event": "13-2026",
-      "comp": "187334",
-      "date": "20261105"
-     }
-    ],
-    "sport": "Tennis"
-   }
-  },
-  {
    "n": 655,
    "league": "NHL",
    "type": "Prop",
@@ -171,6 +144,32 @@
      }
     ],
     "sport": "NHL"
+   }
+  },
+  {
+   "n": 658,
+   "league": "NCAAF",
+   "type": "Total",
+   "matchup": "UTSA Roadrunners @ Florida Atlantic Owls",
+   "pick": "Under 73.5",
+   "odds": -109,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-05T16:30:00",
+   "timed": true,
+   "espn": {
+    "legs": [
+     {
+      "kind": "total",
+      "side": null,
+      "ou": "U",
+      "line": 73.5,
+      "path": "football/college-football",
+      "event": "401862817",
+      "date": "20261105"
+     }
+    ],
+    "sport": "NCAAF"
    }
   },
   {
@@ -274,6 +273,31 @@
      }
     ],
     "sport": "NFL"
+   }
+  },
+  {
+   "n": 657,
+   "league": "NBA",
+   "type": "Spread",
+   "matchup": "Orlando Magic @ Phoenix Suns",
+   "pick": "Phoenix Suns +1.5",
+   "odds": -118,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-05T18:10:00",
+   "timed": true,
+   "espn": {
+    "legs": [
+     {
+      "kind": "spread",
+      "side": "Phoenix Suns",
+      "line": 1.5,
+      "path": "basketball/nba",
+      "event": "401909936",
+      "date": "20261105"
+     }
+    ],
+    "sport": "NBA"
    }
   },
   {
@@ -456,7 +480,35 @@
    }
   }
  ],
- "awaiting": [],
+ "awaiting": [
+  {
+   "n": 648,
+   "league": "Tennis",
+   "type": "Total",
+   "matchup": "ATP Paris Masters: Casper Ruud vs Jan-Lennard Struff",
+   "pick": "Over 23.5 total games",
+   "odds": -103,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-05T07:20:00",
+   "timed": true,
+   "espn": {
+    "legs": [
+     {
+      "kind": "total",
+      "side": null,
+      "ou": "O",
+      "line": 23.5,
+      "path": "tennis/atp",
+      "event": "13-2026",
+      "comp": "187334",
+      "date": "20261105"
+     }
+    ],
+    "sport": "Tennis"
+   }
+  }
+ ],
  "daily": {
   "2026-10-12": {
    "u": 5.67,
