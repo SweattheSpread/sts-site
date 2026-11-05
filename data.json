@@ -1,5 +1,5 @@
 {
- "updated": "Nov 4, 2026, 5:41 PM PT",
+ "updated": "Nov 4, 2026, 6:17 PM PT",
  "record": {
   "w": 91,
   "l": 95,
@@ -11,7 +11,7 @@
   "first": "2026-10-12",
   "last": "2026-11-03"
  },
- "pending": 15,
+ "pending": 16,
  "latest": [
   {
    "n": 632,
@@ -120,58 +120,6 @@
  ],
  "picks": [
   {
-   "n": 645,
-   "league": "NBA",
-   "type": "Over/Under",
-   "matchup": "Toronto Raptors @ Denver Nuggets",
-   "pick": "Denver Nuggets team total Over 117.5",
-   "odds": 100,
-   "units": 1.0,
-   "gap": null,
-   "start": "2026-11-04T18:00:00",
-   "timed": true,
-   "espn": {
-    "legs": [
-     {
-      "kind": "total",
-      "side": "Denver Nuggets team total",
-      "ou": "O",
-      "line": 117.5,
-      "path": "basketball/nba",
-      "event": "401909931",
-      "date": "20261104"
-     }
-    ],
-    "sport": "NBA"
-   }
-  },
-  {
-   "n": 646,
-   "league": "NBA",
-   "type": "Player Prop",
-   "matchup": "Toronto Raptors @ Denver Nuggets",
-   "pick": "Jakob Poeltl Over 5.5 rebounds",
-   "odds": 109,
-   "units": 1.0,
-   "gap": null,
-   "start": "2026-11-04T18:00:00",
-   "timed": true,
-   "espn": {
-    "legs": [
-     {
-      "kind": "team_total",
-      "side": "Jakob Poeltl",
-      "ou": "O",
-      "line": 5.5,
-      "path": "basketball/nba",
-      "event": "401909931",
-      "date": "20261104"
-     }
-    ],
-    "sport": "NBA"
-   }
-  },
-  {
    "n": 625,
    "league": "NCAAB",
    "type": "Total",
@@ -222,6 +170,32 @@
      }
     ],
     "sport": "NHL"
+   }
+  },
+  {
+   "n": 647,
+   "league": "NBA",
+   "type": "Player Prop",
+   "matchup": "Miami Heat @ Los Angeles Clippers",
+   "pick": "Brook Lopez Under 10.5 points",
+   "odds": 100,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-04T19:40:00",
+   "timed": true,
+   "espn": {
+    "legs": [
+     {
+      "kind": "team_total",
+      "side": "Brook Lopez",
+      "ou": "U",
+      "line": 10.5,
+      "path": "basketball/nba",
+      "event": "401909935",
+      "date": "20261104"
+     }
+    ],
+    "sport": "NBA"
    }
   },
   {
@@ -498,6 +472,58 @@
       "line": 12.5,
       "path": "basketball/nba",
       "event": "401909927",
+      "date": "20261104"
+     }
+    ],
+    "sport": "NBA"
+   }
+  },
+  {
+   "n": 645,
+   "league": "NBA",
+   "type": "Over/Under",
+   "matchup": "Toronto Raptors @ Denver Nuggets",
+   "pick": "Denver Nuggets team total Over 117.5",
+   "odds": 100,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-04T18:00:00",
+   "timed": true,
+   "espn": {
+    "legs": [
+     {
+      "kind": "total",
+      "side": "Denver Nuggets team total",
+      "ou": "O",
+      "line": 117.5,
+      "path": "basketball/nba",
+      "event": "401909931",
+      "date": "20261104"
+     }
+    ],
+    "sport": "NBA"
+   }
+  },
+  {
+   "n": 646,
+   "league": "NBA",
+   "type": "Player Prop",
+   "matchup": "Toronto Raptors @ Denver Nuggets",
+   "pick": "Jakob Poeltl Over 5.5 rebounds",
+   "odds": 109,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-04T18:00:00",
+   "timed": true,
+   "espn": {
+    "legs": [
+     {
+      "kind": "team_total",
+      "side": "Jakob Poeltl",
+      "ou": "O",
+      "line": 5.5,
+      "path": "basketball/nba",
+      "event": "401909931",
       "date": "20261104"
      }
     ],
