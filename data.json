@@ -1,121 +1,121 @@
 {
- "updated": "Nov 4, 2026, 8:20 PM PT",
+ "updated": "Nov 4, 2026, 11:27 PM PT",
  "record": {
-  "w": 91,
-  "l": 95,
+  "w": 95,
+  "l": 102,
   "p": 0,
-  "n": 186,
-  "units": 22.04,
-  "risked": 294.5,
-  "roi": 7.48,
+  "n": 197,
+  "units": 21.15,
+  "risked": 304.5,
+  "roi": 6.95,
   "first": "2026-10-12",
-  "last": "2026-11-03"
+  "last": "2026-11-04"
  },
- "pending": 17,
+ "pending": 6,
  "latest": [
   {
-   "n": 632,
-   "date": "2026-11-03",
-   "day": "2026-11-03",
-   "league": "NCAAB",
-   "type": "Total",
-   "matchup": "Lipscomb Bisons @ Iowa Hawkeyes",
-   "pick": "Under 149.5",
-   "odds": -110,
-   "units": 0.5,
-   "result": "W",
-   "pl": 0.45
-  },
-  {
-   "n": 631,
-   "date": "2026-11-03",
-   "day": "2026-11-03",
-   "league": "NCAAB",
-   "type": "Spread",
-   "matchup": "Arkansas-Pine Bluff Golden Lions @ Arkansas Razorbacks",
-   "pick": "Arkansas-Pine Bluff +41.5",
-   "odds": -105,
-   "units": 0.5,
+   "n": 647,
+   "date": "2026-11-04",
+   "day": "2026-11-04",
+   "league": "NBA",
+   "type": "Player Prop",
+   "matchup": "Miami Heat @ Los Angeles Clippers",
+   "pick": "Brook Lopez Under 10.5 points",
+   "odds": 100,
+   "units": 1.0,
    "result": "L",
-   "pl": -0.5
+   "pl": -1.0
   },
   {
-   "n": 630,
-   "date": "2026-11-03",
-   "day": "2026-11-03",
-   "league": "NCAAB",
-   "type": "Total",
-   "matchup": "Drexel Dragons @ Virginia Cavaliers",
-   "pick": "Under 142.5",
-   "odds": -105,
-   "units": 0.5,
+   "n": 646,
+   "date": "2026-11-04",
+   "day": "2026-11-04",
+   "league": "NBA",
+   "type": "Player Prop",
+   "matchup": "Toronto Raptors @ Denver Nuggets",
+   "pick": "Jakob Poeltl Over 5.5 rebounds",
+   "odds": 109,
+   "units": 1.0,
    "result": "L",
-   "pl": -0.5
+   "pl": -1.0
   },
   {
-   "n": 629,
-   "date": "2026-11-03",
-   "day": "2026-11-03",
-   "league": "NCAAB",
-   "type": "Spread",
-   "matchup": "Drexel Dragons @ Virginia Cavaliers",
-   "pick": "Drexel +31.5",
-   "odds": -105,
-   "units": 0.5,
-   "result": "W",
-   "pl": 0.48
-  },
-  {
-   "n": 628,
-   "date": "2026-11-03",
-   "day": "2026-11-03",
-   "league": "NCAAB",
-   "type": "Total",
-   "matchup": "Stetson Hatters @ South Carolina Gamecocks",
-   "pick": "Under 148.5",
-   "odds": -105,
-   "units": 0.5,
-   "result": "W",
-   "pl": 0.48
-  },
-  {
-   "n": 627,
-   "date": "2026-11-03",
-   "day": "2026-11-03",
-   "league": "NCAAB",
-   "type": "Spread",
-   "matchup": "Holy Cross Crusaders @ Rhode Island Rams",
-   "pick": "Holy Cross +20.5",
-   "odds": -115,
-   "units": 0.5,
-   "result": "L",
-   "pl": -0.5
-  },
-  {
-   "n": 626,
-   "date": "2026-11-03",
-   "day": "2026-11-03",
-   "league": "NCAAB",
-   "type": "Spread",
-   "matchup": "Wagner Seahawks @ Boston College Eagles",
-   "pick": "Wagner +20.5",
-   "odds": -110,
-   "units": 0.5,
-   "result": "L",
-   "pl": -0.5
-  },
-  {
-   "n": 624,
-   "date": "2026-11-03",
-   "day": "2026-11-03",
-   "league": "NCAAB",
-   "type": "Spread",
-   "matchup": "Cleveland St Vikings @ Missouri Tigers",
-   "pick": "Missouri Tigers -26.5",
-   "odds": -110,
+   "n": 645,
+   "date": "2026-11-04",
+   "day": "2026-11-04",
+   "league": "NBA",
+   "type": "Over/Under",
+   "matchup": "Toronto Raptors @ Denver Nuggets",
+   "pick": "Denver Nuggets team total Over 117.5",
+   "odds": 100,
    "units": 1.0,
    "result": "W",
-   "pl": 0.91
+   "pl": 1.0
+  },
+  {
+   "n": 644,
+   "date": "2026-11-04",
+   "day": "2026-11-04",
+   "league": "NBA",
+   "type": "Player Prop",
+   "matchup": "Indiana Pacers @ Memphis Grizzlies",
+   "pick": "Aaron Nesmith Over 12.5 points",
+   "odds": -111,
+   "units": 1.0,
+   "result": "W",
+   "pl": 0.9
+  },
+  {
+   "n": 643,
+   "date": "2026-11-04",
+   "day": "2026-11-04",
+   "league": "NBA",
+   "type": "Player Prop",
+   "matchup": "Atlanta Hawks @ Washington Wizards",
+   "pick": "Kyshawn George Over 4.5 rebounds",
+   "odds": -105,
+   "units": 1.0,
+   "result": "L",
+   "pl": -1.0
+  },
+  {
+   "n": 642,
+   "date": "2026-11-04",
+   "day": "2026-11-04",
+   "league": "NCAAB",
+   "type": "Total",
+   "matchup": "SE Louisiana Lions @ Auburn Tigers",
+   "pick": "Under 151.5",
+   "odds": -110,
+   "units": 1.5,
+   "result": "W",
+   "pl": 1.36
+  },
+  {
+   "n": 641,
+   "date": "2026-11-04",
+   "day": "2026-11-04",
+   "league": "NCAAB",
+   "type": "Spread",
+   "matchup": "SE Louisiana Lions @ Auburn Tigers",
+   "pick": "SE Louisiana +29.5",
+   "odds": -110,
+   "units": 0.5,
+   "result": "L",
+   "pl": -0.5
+  },
+  {
+   "n": 638,
+   "date": "2026-11-04",
+   "day": "2026-11-04",
+   "league": "NBA",
+   "type": "Spread",
+   "matchup": "Chicago Bulls @ New York Knicks",
+   "pick": "Chicago Bulls +12.5",
+   "odds": 100,
+   "units": 1.0,
+   "result": "L",
+   "pl": -1.0
   }
  ],
  "picks": [
@@ -273,291 +273,7 @@
    }
   }
  ],
- "awaiting": [
-  {
-   "n": 625,
-   "league": "NCAAB",
-   "type": "Total",
-   "matchup": "North Dakota St Bison @ Saint Mary's Gaels",
-   "pick": "Under 149.5",
-   "odds": -110,
-   "units": 0.5,
-   "gap": 7.5,
-   "start": "2026-11-04T19:00:00",
-   "timed": true,
-   "espn": {
-    "legs": [
-     {
-      "kind": "total",
-      "side": null,
-      "ou": "U",
-      "line": 149.5,
-      "path": "basketball/mens-college-basketball",
-      "event": "401917512",
-      "date": "20261104"
-     }
-    ],
-    "sport": "NCAAB"
-   }
-  },
-  {
-   "n": 633,
-   "league": "NBA",
-   "type": "Moneyline",
-   "matchup": "Chicago Bulls @ New York Knicks",
-   "pick": "Chicago Bulls ML",
-   "odds": 475,
-   "units": 0.5,
-   "gap": null,
-   "start": "2026-11-04T16:30:00",
-   "timed": true,
-   "espn": {
-    "legs": [
-     {
-      "kind": "ml",
-      "side": "Chicago Bulls",
-      "path": "basketball/nba",
-      "event": "401909926",
-      "date": "20261104"
-     }
-    ],
-    "sport": "NBA"
-   }
-  },
-  {
-   "n": 634,
-   "league": "NHL",
-   "type": "Prop",
-   "matchup": "Calgary Flames @ Seattle Kraken",
-   "pick": "Jordan Eberle Under 0.5 points",
-   "odds": 135,
-   "units": 1.0,
-   "gap": null,
-   "start": "2026-11-04T19:00:00",
-   "timed": true,
-   "espn": {
-    "legs": [
-     {
-      "kind": "prop",
-      "player": "Jordan Eberle",
-      "ou": "U",
-      "line": 0.5,
-      "stat": "points",
-      "path": "hockey/nhl",
-      "event": "401892647",
-      "date": "20261104"
-     }
-    ],
-    "sport": "NHL"
-   }
-  },
-  {
-   "n": 638,
-   "league": "NBA",
-   "type": "Spread",
-   "matchup": "Chicago Bulls @ New York Knicks",
-   "pick": "Chicago Bulls +12.5",
-   "odds": 100,
-   "units": 1.0,
-   "gap": null,
-   "start": "2026-11-04T16:40:00",
-   "timed": true,
-   "espn": {
-    "legs": [
-     {
-      "kind": "spread",
-      "side": "Chicago Bulls",
-      "line": 12.5,
-      "path": "basketball/nba",
-      "event": "401909926",
-      "date": "20261104"
-     }
-    ],
-    "sport": "NBA"
-   }
-  },
-  {
-   "n": 641,
-   "league": "NCAAB",
-   "type": "Spread",
-   "matchup": "SE Louisiana Lions @ Auburn Tigers",
-   "pick": "SE Louisiana +29.5",
-   "odds": -110,
-   "units": 0.5,
-   "gap": null,
-   "start": "2026-11-04T17:00:00",
-   "timed": true,
-   "espn": {
-    "legs": [
-     {
-      "kind": "spread",
-      "side": "SE Louisiana",
-      "line": 29.5,
-      "path": "basketball/mens-college-basketball",
-      "event": "401920798",
-      "date": "20261104"
-     }
-    ],
-    "sport": "NCAAB"
-   }
-  },
-  {
-   "n": 642,
-   "league": "NCAAB",
-   "type": "Total",
-   "matchup": "SE Louisiana Lions @ Auburn Tigers",
-   "pick": "Under 151.5",
-   "odds": -110,
-   "units": 1.5,
-   "gap": null,
-   "start": "2026-11-04T17:00:00",
-   "timed": true,
-   "espn": {
-    "legs": [
-     {
-      "kind": "total",
-      "side": null,
-      "ou": "U",
-      "line": 151.5,
-      "path": "basketball/mens-college-basketball",
-      "event": "401920798",
-      "date": "20261104"
-     }
-    ],
-    "sport": "NCAAB"
-   }
-  },
-  {
-   "n": 643,
-   "league": "NBA",
-   "type": "Player Prop",
-   "matchup": "Atlanta Hawks @ Washington Wizards",
-   "pick": "Kyshawn George Over 4.5 rebounds",
-   "odds": -105,
-   "units": 1.0,
-   "gap": null,
-   "start": "2026-11-04T16:10:00",
-   "timed": true,
-   "espn": {
-    "legs": [
-     {
-      "kind": "team_total",
-      "side": "Kyshawn George",
-      "ou": "O",
-      "line": 4.5,
-      "path": "basketball/nba",
-      "event": "401909923",
-      "date": "20261104"
-     }
-    ],
-    "sport": "NBA"
-   }
-  },
-  {
-   "n": 644,
-   "league": "NBA",
-   "type": "Player Prop",
-   "matchup": "Indiana Pacers @ Memphis Grizzlies",
-   "pick": "Aaron Nesmith Over 12.5 points",
-   "odds": -111,
-   "units": 1.0,
-   "gap": null,
-   "start": "2026-11-04T17:10:00",
-   "timed": true,
-   "espn": {
-    "legs": [
-     {
-      "kind": "team_total",
-      "side": "Aaron Nesmith",
-      "ou": "O",
-      "line": 12.5,
-      "path": "basketball/nba",
-      "event": "401909927",
-      "date": "20261104"
-     }
-    ],
-    "sport": "NBA"
-   }
-  },
-  {
-   "n": 645,
-   "league": "NBA",
-   "type": "Over/Under",
-   "matchup": "Toronto Raptors @ Denver Nuggets",
-   "pick": "Denver Nuggets team total Over 117.5",
-   "odds": 100,
-   "units": 1.0,
-   "gap": null,
-   "start": "2026-11-04T18:00:00",
-   "timed": true,
-   "espn": {
-    "legs": [
-     {
-      "kind": "total",
-      "side": "Denver Nuggets team total",
-      "ou": "O",
-      "line": 117.5,
-      "path": "basketball/nba",
-      "event": "401909931",
-      "date": "20261104"
-     }
-    ],
-    "sport": "NBA"
-   }
-  },
-  {
-   "n": 646,
-   "league": "NBA",
-   "type": "Player Prop",
-   "matchup": "Toronto Raptors @ Denver Nuggets",
-   "pick": "Jakob Poeltl Over 5.5 rebounds",
-   "odds": 109,
-   "units": 1.0,
-   "gap": null,
-   "start": "2026-11-04T18:00:00",
-   "timed": true,
-   "espn": {
-    "legs": [
-     {
-      "kind": "team_total",
-      "side": "Jakob Poeltl",
-      "ou": "O",
-      "line": 5.5,
-      "path": "basketball/nba",
-      "event": "401909931",
-      "date": "20261104"
-     }
-    ],
-    "sport": "NBA"
-   }
-  },
-  {
-   "n": 647,
-   "league": "NBA",
-   "type": "Player Prop",
-   "matchup": "Miami Heat @ Los Angeles Clippers",
-   "pick": "Brook Lopez Under 10.5 points",
-   "odds": 100,
-   "units": 1.0,
-   "gap": null,
-   "start": "2026-11-04T19:40:00",
-   "timed": true,
-   "espn": {
-    "legs": [
-     {
-      "kind": "team_total",
-      "side": "Brook Lopez",
-      "ou": "U",
-      "line": 10.5,
-      "path": "basketball/nba",
-      "event": "401909935",
-      "date": "20261104"
-     }
-    ],
-    "sport": "NBA"
-   }
-  }
- ],
+ "awaiting": [],
  "daily": {
   "2026-10-12": {
    "u": 5.67,
@@ -646,6 +362,10 @@
   "2026-11-03": {
    "u": 0.86,
    "n": 13
+  },
+  "2026-11-04": {
+   "u": -0.89,
+   "n": 11
   }
  }
 }
