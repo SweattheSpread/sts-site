@@ -1,5 +1,5 @@
 {
- "updated": "Nov 4, 2026, 4:53 PM PT",
+ "updated": "Nov 4, 2026, 5:22 PM PT",
  "record": {
   "w": 91,
   "l": 95,
@@ -11,7 +11,7 @@
   "first": "2026-10-12",
   "last": "2026-11-03"
  },
- "pending": 13,
+ "pending": 14,
  "latest": [
   {
    "n": 632,
@@ -120,76 +120,25 @@
  ],
  "picks": [
   {
-   "n": 641,
-   "league": "NCAAB",
-   "type": "Spread",
-   "matchup": "SE Louisiana Lions @ Auburn Tigers",
-   "pick": "SE Louisiana +29.5",
-   "odds": -110,
-   "units": 0.5,
+   "n": 645,
+   "league": "NBA",
+   "type": "Over/Under",
+   "matchup": "Toronto Raptors @ Denver Nuggets",
+   "pick": "Denver Nuggets team total Over 117.5",
+   "odds": 100,
+   "units": 1.0,
    "gap": null,
-   "start": "2026-11-04T17:00:00",
-   "timed": true,
-   "espn": {
-    "legs": [
-     {
-      "kind": "spread",
-      "side": "SE Louisiana",
-      "line": 29.5,
-      "path": "basketball/mens-college-basketball",
-      "event": "401920798",
-      "date": "20261104"
-     }
-    ],
-    "sport": "NCAAB"
-   }
-  },
-  {
-   "n": 642,
-   "league": "NCAAB",
-   "type": "Total",
-   "matchup": "SE Louisiana Lions @ Auburn Tigers",
-   "pick": "Under 151.5",
-   "odds": -110,
-   "units": 0.5,
-   "gap": null,
-   "start": "2026-11-04T17:00:00",
+   "start": "2026-11-04T18:00:00",
    "timed": true,
    "espn": {
     "legs": [
      {
       "kind": "total",
-      "side": null,
-      "ou": "U",
-      "line": 151.5,
-      "path": "basketball/mens-college-basketball",
-      "event": "401920798",
-      "date": "20261104"
-     }
-    ],
-    "sport": "NCAAB"
-   }
-  },
-  {
-   "n": 644,
-   "league": "NBA",
-   "type": "Player Prop",
-   "matchup": "Indiana Pacers @ Memphis Grizzlies",
-   "pick": "Aaron Nesmith Over 12.5 points",
-   "odds": -111,
-   "units": 1.0,
-   "gap": null,
-   "start": "2026-11-04T17:10:00",
-   "timed": true,
-   "espn": {
-    "legs": [
-     {
-      "kind": "team_total",
-      "side": "Aaron Nesmith",
+      "side": "Denver Nuggets team total",
       "ou": "O",
-      "line": 12.5,
+      "line": 117.5,
       "path": "basketball/nba",
-      "event": "401909927",
+      "event": "401909931",
       "date": "20261104"
      }
     ],
@@ -427,6 +376,57 @@
    }
   },
   {
+   "n": 641,
+   "league": "NCAAB",
+   "type": "Spread",
+   "matchup": "SE Louisiana Lions @ Auburn Tigers",
+   "pick": "SE Louisiana +29.5",
+   "odds": -110,
+   "units": 0.5,
+   "gap": null,
+   "start": "2026-11-04T17:00:00",
+   "timed": true,
+   "espn": {
+    "legs": [
+     {
+      "kind": "spread",
+      "side": "SE Louisiana",
+      "line": 29.5,
+      "path": "basketball/mens-college-basketball",
+      "event": "401920798",
+      "date": "20261104"
+     }
+    ],
+    "sport": "NCAAB"
+   }
+  },
+  {
+   "n": 642,
+   "league": "NCAAB",
+   "type": "Total",
+   "matchup": "SE Louisiana Lions @ Auburn Tigers",
+   "pick": "Under 151.5",
+   "odds": -110,
+   "units": 0.5,
+   "gap": null,
+   "start": "2026-11-04T17:00:00",
+   "timed": true,
+   "espn": {
+    "legs": [
+     {
+      "kind": "total",
+      "side": null,
+      "ou": "U",
+      "line": 151.5,
+      "path": "basketball/mens-college-basketball",
+      "event": "401920798",
+      "date": "20261104"
+     }
+    ],
+    "sport": "NCAAB"
+   }
+  },
+  {
    "n": 643,
    "league": "NBA",
    "type": "Player Prop",
@@ -446,6 +446,32 @@
       "line": 4.5,
       "path": "basketball/nba",
       "event": "401909923",
+      "date": "20261104"
+     }
+    ],
+    "sport": "NBA"
+   }
+  },
+  {
+   "n": 644,
+   "league": "NBA",
+   "type": "Player Prop",
+   "matchup": "Indiana Pacers @ Memphis Grizzlies",
+   "pick": "Aaron Nesmith Over 12.5 points",
+   "odds": -111,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-04T17:10:00",
+   "timed": true,
+   "espn": {
+    "legs": [
+     {
+      "kind": "team_total",
+      "side": "Aaron Nesmith",
+      "ou": "O",
+      "line": 12.5,
+      "path": "basketball/nba",
+      "event": "401909927",
       "date": "20261104"
      }
     ],
