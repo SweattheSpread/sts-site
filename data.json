@@ -1,5 +1,5 @@
 {
- "updated": "Nov 5, 2026, 3:24 AM PT",
+ "updated": "Nov 5, 2026, 4:41 AM PT",
  "record": {
   "w": 95,
   "l": 102,
@@ -11,7 +11,7 @@
   "first": "2026-10-12",
   "last": "2026-11-04"
  },
- "pending": 11,
+ "pending": 13,
  "latest": [
   {
    "n": 647,
@@ -147,6 +147,33 @@
    }
   },
   {
+   "n": 655,
+   "league": "NHL",
+   "type": "Prop",
+   "matchup": "St. Louis Blues @ New Jersey Devils",
+   "pick": "Jack Hughes OVER 1.5 points",
+   "odds": 180,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-05T16:10:00",
+   "timed": true,
+   "espn": {
+    "legs": [
+     {
+      "kind": "prop",
+      "player": "Jack Hughes",
+      "ou": "O",
+      "line": 1.5,
+      "stat": "points",
+      "path": "hockey/nhl",
+      "event": "401892651",
+      "date": "20261105"
+     }
+    ],
+    "sport": "NHL"
+   }
+  },
+  {
    "n": 637,
    "league": "NFL",
    "type": "Spread",
@@ -215,6 +242,32 @@
       "side": "Zay Flowers longest reception",
       "ou": "O",
       "line": 19.5,
+      "path": "football/nfl",
+      "event": "401873037",
+      "date": "20261105"
+     }
+    ],
+    "sport": "NFL"
+   }
+  },
+  {
+   "n": 656,
+   "league": "NFL",
+   "type": "Player prop",
+   "matchup": "Jacksonville Jaguars @ Baltimore Ravens",
+   "pick": "Derrick Henry UNDER 67.5 rushing yards",
+   "odds": -120,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-05T17:15:00",
+   "timed": true,
+   "espn": {
+    "legs": [
+     {
+      "kind": "team_total",
+      "side": "Derrick Henry",
+      "ou": "U",
+      "line": 67.5,
       "path": "football/nfl",
       "event": "401873037",
       "date": "20261105"
