@@ -1,5 +1,5 @@
 {
- "updated": "Nov 4, 2026, 6:17 PM PT",
+ "updated": "Nov 4, 2026, 7:47 PM PT",
  "record": {
   "w": 91,
   "l": 95,
@@ -119,85 +119,6 @@
   }
  ],
  "picks": [
-  {
-   "n": 625,
-   "league": "NCAAB",
-   "type": "Total",
-   "matchup": "North Dakota St Bison @ Saint Mary's Gaels",
-   "pick": "Under 149.5",
-   "odds": -110,
-   "units": 0.5,
-   "gap": 7.5,
-   "start": "2026-11-04T19:00:00",
-   "timed": true,
-   "espn": {
-    "legs": [
-     {
-      "kind": "total",
-      "side": null,
-      "ou": "U",
-      "line": 149.5,
-      "path": "basketball/mens-college-basketball",
-      "event": "401917512",
-      "date": "20261104"
-     }
-    ],
-    "sport": "NCAAB"
-   }
-  },
-  {
-   "n": 634,
-   "league": "NHL",
-   "type": "Prop",
-   "matchup": "Calgary Flames @ Seattle Kraken",
-   "pick": "Jordan Eberle Under 0.5 points",
-   "odds": 135,
-   "units": 1.0,
-   "gap": null,
-   "start": "2026-11-04T19:00:00",
-   "timed": true,
-   "espn": {
-    "legs": [
-     {
-      "kind": "prop",
-      "player": "Jordan Eberle",
-      "ou": "U",
-      "line": 0.5,
-      "stat": "points",
-      "path": "hockey/nhl",
-      "event": "401892647",
-      "date": "20261104"
-     }
-    ],
-    "sport": "NHL"
-   }
-  },
-  {
-   "n": 647,
-   "league": "NBA",
-   "type": "Player Prop",
-   "matchup": "Miami Heat @ Los Angeles Clippers",
-   "pick": "Brook Lopez Under 10.5 points",
-   "odds": 100,
-   "units": 1.0,
-   "gap": null,
-   "start": "2026-11-04T19:40:00",
-   "timed": true,
-   "espn": {
-    "legs": [
-     {
-      "kind": "team_total",
-      "side": "Brook Lopez",
-      "ou": "U",
-      "line": 10.5,
-      "path": "basketball/nba",
-      "event": "401909935",
-      "date": "20261104"
-     }
-    ],
-    "sport": "NBA"
-   }
-  },
   {
    "n": 637,
    "league": "NFL",
@@ -327,6 +248,32 @@
  ],
  "awaiting": [
   {
+   "n": 625,
+   "league": "NCAAB",
+   "type": "Total",
+   "matchup": "North Dakota St Bison @ Saint Mary's Gaels",
+   "pick": "Under 149.5",
+   "odds": -110,
+   "units": 0.5,
+   "gap": 7.5,
+   "start": "2026-11-04T19:00:00",
+   "timed": true,
+   "espn": {
+    "legs": [
+     {
+      "kind": "total",
+      "side": null,
+      "ou": "U",
+      "line": 149.5,
+      "path": "basketball/mens-college-basketball",
+      "event": "401917512",
+      "date": "20261104"
+     }
+    ],
+    "sport": "NCAAB"
+   }
+  },
+  {
    "n": 633,
    "league": "NBA",
    "type": "Moneyline",
@@ -348,6 +295,33 @@
      }
     ],
     "sport": "NBA"
+   }
+  },
+  {
+   "n": 634,
+   "league": "NHL",
+   "type": "Prop",
+   "matchup": "Calgary Flames @ Seattle Kraken",
+   "pick": "Jordan Eberle Under 0.5 points",
+   "odds": 135,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-04T19:00:00",
+   "timed": true,
+   "espn": {
+    "legs": [
+     {
+      "kind": "prop",
+      "player": "Jordan Eberle",
+      "ou": "U",
+      "line": 0.5,
+      "stat": "points",
+      "path": "hockey/nhl",
+      "event": "401892647",
+      "date": "20261104"
+     }
+    ],
+    "sport": "NHL"
    }
   },
   {
@@ -407,7 +381,7 @@
    "matchup": "SE Louisiana Lions @ Auburn Tigers",
    "pick": "Under 151.5",
    "odds": -110,
-   "units": 0.5,
+   "units": 1.5,
    "gap": null,
    "start": "2026-11-04T17:00:00",
    "timed": true,
@@ -524,6 +498,32 @@
       "line": 5.5,
       "path": "basketball/nba",
       "event": "401909931",
+      "date": "20261104"
+     }
+    ],
+    "sport": "NBA"
+   }
+  },
+  {
+   "n": 647,
+   "league": "NBA",
+   "type": "Player Prop",
+   "matchup": "Miami Heat @ Los Angeles Clippers",
+   "pick": "Brook Lopez Under 10.5 points",
+   "odds": 100,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-04T19:40:00",
+   "timed": true,
+   "espn": {
+    "legs": [
+     {
+      "kind": "team_total",
+      "side": "Brook Lopez",
+      "ou": "U",
+      "line": 10.5,
+      "path": "basketball/nba",
+      "event": "401909935",
       "date": "20261104"
      }
     ],
