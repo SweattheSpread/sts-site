@@ -1,5 +1,5 @@
 {
- "updated": "Nov 5, 2026, 12:05 AM PT",
+ "updated": "Nov 5, 2026, 3:24 AM PT",
  "record": {
   "w": 95,
   "l": 102,
@@ -11,7 +11,7 @@
   "first": "2026-10-12",
   "last": "2026-11-04"
  },
- "pending": 6,
+ "pending": 11,
  "latest": [
   {
    "n": 647,
@@ -172,6 +172,84 @@
    }
   },
   {
+   "n": 650,
+   "league": "NFL",
+   "type": "Player prop",
+   "matchup": "Jacksonville Jaguars @ Baltimore Ravens",
+   "pick": "Rashod Bateman longest reception Over 10.5",
+   "odds": -120,
+   "units": 1.5,
+   "gap": null,
+   "start": "2026-11-05T17:15:00",
+   "timed": true,
+   "espn": {
+    "legs": [
+     {
+      "kind": "team_total",
+      "side": "Rashod Bateman longest reception",
+      "ou": "O",
+      "line": 10.5,
+      "path": "football/nfl",
+      "event": "401873037",
+      "date": "20261105"
+     }
+    ],
+    "sport": "NFL"
+   }
+  },
+  {
+   "n": 651,
+   "league": "NFL",
+   "type": "Player prop",
+   "matchup": "Jacksonville Jaguars @ Baltimore Ravens",
+   "pick": "Zay Flowers longest reception Over 19.5",
+   "odds": -110,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-05T17:15:00",
+   "timed": true,
+   "espn": {
+    "legs": [
+     {
+      "kind": "team_total",
+      "side": "Zay Flowers longest reception",
+      "ou": "O",
+      "line": 19.5,
+      "path": "football/nfl",
+      "event": "401873037",
+      "date": "20261105"
+     }
+    ],
+    "sport": "NFL"
+   }
+  },
+  {
+   "n": 652,
+   "league": "NFL",
+   "type": "Player prop",
+   "matchup": "Cincinnati Bengals @ Atlanta Falcons",
+   "pick": "Dohnte Meyers longest reception Over 10.5",
+   "odds": -125,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-08T06:30:00",
+   "timed": true,
+   "espn": {
+    "legs": [
+     {
+      "kind": "team_total",
+      "side": "Dohnte Meyers longest reception",
+      "ou": "O",
+      "line": 10.5,
+      "path": "football/nfl",
+      "event": "401873038",
+      "date": "20261108"
+     }
+    ],
+    "sport": "NFL"
+   }
+  },
+  {
    "n": 635,
    "league": "NFL",
    "type": "Player prop",
@@ -216,6 +294,58 @@
       "line": -9.5,
       "path": "football/nfl",
       "event": "401873045",
+      "date": "20261108"
+     }
+    ],
+    "sport": "NFL"
+   }
+  },
+  {
+   "n": 653,
+   "league": "NFL",
+   "type": "Player prop",
+   "matchup": "Denver Broncos @ Carolina Panthers",
+   "pick": "Troy Franklin longest reception Over 8.5",
+   "odds": -115,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-08T10:00:00",
+   "timed": true,
+   "espn": {
+    "legs": [
+     {
+      "kind": "team_total",
+      "side": "Troy Franklin longest reception",
+      "ou": "O",
+      "line": 8.5,
+      "path": "football/nfl",
+      "event": "401873041",
+      "date": "20261108"
+     }
+    ],
+    "sport": "NFL"
+   }
+  },
+  {
+   "n": 654,
+   "league": "NFL",
+   "type": "Player prop",
+   "matchup": "Denver Broncos @ Carolina Panthers",
+   "pick": "Marvin Mims Jr. longest reception Over 9.5",
+   "odds": -125,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-08T10:00:00",
+   "timed": true,
+   "espn": {
+    "legs": [
+     {
+      "kind": "team_total",
+      "side": "Marvin Mims Jr. longest reception",
+      "ou": "O",
+      "line": 9.5,
+      "path": "football/nfl",
+      "event": "401873041",
       "date": "20261108"
      }
     ],
