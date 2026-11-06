@@ -1,5 +1,5 @@
 {
- "updated": "Nov 6, 2026, 8:07 AM PT",
+ "updated": "Nov 6, 2026, 8:25 AM PT",
  "record": {
   "w": 100,
   "l": 110,
@@ -11,7 +11,7 @@
   "first": "2026-10-12",
   "last": "2026-11-05"
  },
- "pending": 11,
+ "pending": 12,
  "latest": [
   {
    "n": 663,
@@ -352,6 +352,32 @@
       "line": 9.5,
       "path": "football/nfl",
       "event": "401873045",
+      "date": "20261108"
+     }
+    ],
+    "sport": "NFL"
+   }
+  },
+  {
+   "n": 669,
+   "league": "NFL",
+   "type": "Over/Under",
+   "matchup": "Los Angeles Rams @ Washington Commanders",
+   "pick": "Over 48.5 total points",
+   "odds": -108,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-08T10:00:00",
+   "timed": true,
+   "espn": {
+    "legs": [
+     {
+      "kind": "total",
+      "side": null,
+      "ou": "O",
+      "line": 48.5,
+      "path": "football/nfl",
+      "event": "401873043",
       "date": "20261108"
      }
     ],
