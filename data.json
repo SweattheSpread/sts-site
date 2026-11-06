@@ -1,5 +1,5 @@
 {
- "updated": "Nov 6, 2026, 8:25 AM PT",
+ "updated": "Nov 6, 2026, 11:05 AM PT",
  "record": {
   "w": 100,
   "l": 110,
@@ -11,7 +11,7 @@
   "first": "2026-10-12",
   "last": "2026-11-05"
  },
- "pending": 12,
+ "pending": 14,
  "latest": [
   {
    "n": 663,
@@ -145,6 +145,31 @@
    }
   },
   {
+   "n": 671,
+   "league": "NCAAB",
+   "type": "Spread",
+   "matchup": "Detroit Mercy Titans @ Marquette Golden Eagles",
+   "pick": "Detroit +32.5",
+   "odds": -105,
+   "units": 0.5,
+   "gap": null,
+   "start": "2026-11-06T17:00:00",
+   "timed": true,
+   "espn": {
+    "legs": [
+     {
+      "kind": "spread",
+      "side": "Detroit",
+      "line": 32.5,
+      "path": "basketball/mens-college-basketball",
+      "event": "401909523",
+      "date": "20261106"
+     }
+    ],
+    "sport": "NCAAB"
+   }
+  },
+  {
    "n": 667,
    "league": "NBA",
    "type": "Spread",
@@ -167,6 +192,32 @@
      }
     ],
     "sport": "NBA"
+   }
+  },
+  {
+   "n": 670,
+   "league": "NCAAB",
+   "type": "Total",
+   "matchup": "Cal Baptist Lancers @ Oregon St Beavers",
+   "pick": "Under 157.5",
+   "odds": -105,
+   "units": 0.5,
+   "gap": null,
+   "start": "2026-11-06T18:30:00",
+   "timed": true,
+   "espn": {
+    "legs": [
+     {
+      "kind": "total",
+      "side": null,
+      "ou": "U",
+      "line": 157.5,
+      "path": "basketball/mens-college-basketball",
+      "event": "401920344",
+      "date": "20261106"
+     }
+    ],
+    "sport": "NCAAB"
    }
   },
   {
