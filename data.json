@@ -1,5 +1,5 @@
 {
- "updated": "Nov 5, 2026, 9:45 AM PT",
+ "updated": "Nov 5, 2026, 4:48 PM PT",
  "record": {
   "w": 95,
   "l": 102,
@@ -11,7 +11,7 @@
   "first": "2026-10-12",
   "last": "2026-11-04"
  },
- "pending": 18,
+ "pending": 20,
  "latest": [
   {
    "n": 647,
@@ -120,110 +120,6 @@
  ],
  "picks": [
   {
-   "n": 659,
-   "league": "NCAAB",
-   "type": "Spread",
-   "matchup": "Wake Forest Demon Deacons @ Vanderbilt Commodores",
-   "pick": "Wake Forest +18.5",
-   "odds": -110,
-   "units": 0.5,
-   "gap": null,
-   "start": "2026-11-05T15:00:00",
-   "timed": true,
-   "espn": {
-    "legs": [
-     {
-      "kind": "spread",
-      "side": "Wake Forest",
-      "line": 18.5,
-      "path": "basketball/mens-college-basketball",
-      "event": "401909726",
-      "date": "20261105"
-     }
-    ],
-    "sport": "NCAAB"
-   }
-  },
-  {
-   "n": 661,
-   "league": "NCAAB",
-   "type": "Total",
-   "matchup": "Central Connecticut Blue Devils @ Syracuse Orange",
-   "pick": "Over 135.5",
-   "odds": -105,
-   "units": 0.5,
-   "gap": null,
-   "start": "2026-11-05T16:00:00",
-   "timed": true,
-   "espn": {
-    "legs": [
-     {
-      "kind": "total",
-      "side": null,
-      "ou": "O",
-      "line": 135.5,
-      "path": "basketball/mens-college-basketball",
-      "event": "401909717",
-      "date": "20261105"
-     }
-    ],
-    "sport": "NCAAB"
-   }
-  },
-  {
-   "n": 655,
-   "league": "NHL",
-   "type": "Prop",
-   "matchup": "St. Louis Blues @ New Jersey Devils",
-   "pick": "Jack Hughes OVER 1.5 points",
-   "odds": 180,
-   "units": 1.0,
-   "gap": null,
-   "start": "2026-11-05T16:10:00",
-   "timed": true,
-   "espn": {
-    "legs": [
-     {
-      "kind": "prop",
-      "player": "Jack Hughes",
-      "ou": "O",
-      "line": 1.5,
-      "stat": "points",
-      "path": "hockey/nhl",
-      "event": "401892651",
-      "date": "20261105"
-     }
-    ],
-    "sport": "NHL"
-   }
-  },
-  {
-   "n": 658,
-   "league": "NCAAF",
-   "type": "Total",
-   "matchup": "UTSA Roadrunners @ Florida Atlantic Owls",
-   "pick": "Under 73.5",
-   "odds": -109,
-   "units": 1.0,
-   "gap": null,
-   "start": "2026-11-05T16:30:00",
-   "timed": true,
-   "espn": {
-    "legs": [
-     {
-      "kind": "total",
-      "side": null,
-      "ou": "U",
-      "line": 73.5,
-      "path": "football/college-football",
-      "event": "401862817",
-      "date": "20261105"
-     }
-    ],
-    "sport": "NCAAF"
-   }
-  },
-  {
    "n": 637,
    "league": "NFL",
    "type": "Spread",
@@ -318,6 +214,58 @@
       "side": "Derrick Henry",
       "ou": "U",
       "line": 67.5,
+      "path": "football/nfl",
+      "event": "401873037",
+      "date": "20261105"
+     }
+    ],
+    "sport": "NFL"
+   }
+  },
+  {
+   "n": 662,
+   "league": "NFL",
+   "type": "Player prop",
+   "matchup": "Jacksonville Jaguars @ Baltimore Ravens",
+   "pick": "Travon Walker Over 0.5 sacks",
+   "odds": 150,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-05T17:15:00",
+   "timed": true,
+   "espn": {
+    "legs": [
+     {
+      "kind": "team_total",
+      "side": "Travon Walker",
+      "ou": "O",
+      "line": 0.5,
+      "path": "football/nfl",
+      "event": "401873037",
+      "date": "20261105"
+     }
+    ],
+    "sport": "NFL"
+   }
+  },
+  {
+   "n": 663,
+   "league": "NFL",
+   "type": "Player prop",
+   "matchup": "Jacksonville Jaguars @ Baltimore Ravens",
+   "pick": "Josh Hines-Allen Over 0.5 sacks",
+   "odds": 125,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-05T17:15:00",
+   "timed": true,
+   "espn": {
+    "legs": [
+     {
+      "kind": "team_total",
+      "side": "Josh Hines-Allen",
+      "ou": "O",
+      "line": 0.5,
       "path": "football/nfl",
       "event": "401873037",
       "date": "20261105"
@@ -583,6 +531,110 @@
      }
     ],
     "sport": "Tennis"
+   }
+  },
+  {
+   "n": 655,
+   "league": "NHL",
+   "type": "Prop",
+   "matchup": "St. Louis Blues @ New Jersey Devils",
+   "pick": "Jack Hughes OVER 1.5 points",
+   "odds": 180,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-05T16:10:00",
+   "timed": true,
+   "espn": {
+    "legs": [
+     {
+      "kind": "prop",
+      "player": "Jack Hughes",
+      "ou": "O",
+      "line": 1.5,
+      "stat": "points",
+      "path": "hockey/nhl",
+      "event": "401892651",
+      "date": "20261105"
+     }
+    ],
+    "sport": "NHL"
+   }
+  },
+  {
+   "n": 658,
+   "league": "NCAAF",
+   "type": "Total",
+   "matchup": "UTSA Roadrunners @ Florida Atlantic Owls",
+   "pick": "Under 73.5",
+   "odds": -109,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-05T16:30:00",
+   "timed": true,
+   "espn": {
+    "legs": [
+     {
+      "kind": "total",
+      "side": null,
+      "ou": "U",
+      "line": 73.5,
+      "path": "football/college-football",
+      "event": "401862817",
+      "date": "20261105"
+     }
+    ],
+    "sport": "NCAAF"
+   }
+  },
+  {
+   "n": 659,
+   "league": "NCAAB",
+   "type": "Spread",
+   "matchup": "Wake Forest Demon Deacons @ Vanderbilt Commodores",
+   "pick": "Wake Forest +18.5",
+   "odds": -110,
+   "units": 0.5,
+   "gap": null,
+   "start": "2026-11-05T15:00:00",
+   "timed": true,
+   "espn": {
+    "legs": [
+     {
+      "kind": "spread",
+      "side": "Wake Forest",
+      "line": 18.5,
+      "path": "basketball/mens-college-basketball",
+      "event": "401909726",
+      "date": "20261105"
+     }
+    ],
+    "sport": "NCAAB"
+   }
+  },
+  {
+   "n": 661,
+   "league": "NCAAB",
+   "type": "Total",
+   "matchup": "Central Connecticut Blue Devils @ Syracuse Orange",
+   "pick": "Over 135.5",
+   "odds": -105,
+   "units": 0.5,
+   "gap": null,
+   "start": "2026-11-05T16:00:00",
+   "timed": true,
+   "espn": {
+    "legs": [
+     {
+      "kind": "total",
+      "side": null,
+      "ou": "O",
+      "line": 135.5,
+      "path": "basketball/mens-college-basketball",
+      "event": "401909717",
+      "date": "20261105"
+     }
+    ],
+    "sport": "NCAAB"
    }
   }
  ],
