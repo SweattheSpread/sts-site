@@ -1,5 +1,5 @@
 {
- "updated": "Nov 6, 2026, 3:22 AM PT",
+ "updated": "Nov 6, 2026, 4:45 AM PT",
  "record": {
   "w": 100,
   "l": 110,
@@ -11,7 +11,7 @@
   "first": "2026-10-12",
   "last": "2026-11-05"
  },
- "pending": 9,
+ "pending": 11,
  "latest": [
   {
    "n": 663,
@@ -119,6 +119,56 @@
   }
  ],
  "picks": [
+  {
+   "n": 666,
+   "league": "NCAAF",
+   "type": "Spread",
+   "matchup": "Virginia Tech Hokies @ SMU Mustangs",
+   "pick": "SMU -6.5",
+   "odds": -108,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-06T16:00:00",
+   "timed": true,
+   "espn": {
+    "legs": [
+     {
+      "kind": "spread",
+      "side": "SMU",
+      "line": -6.5,
+      "path": "football/college-football",
+      "event": "401858288",
+      "date": "20261106"
+     }
+    ],
+    "sport": "NCAAF"
+   }
+  },
+  {
+   "n": 667,
+   "league": "NBA",
+   "type": "Spread",
+   "matchup": "Minnesota Timberwolves @ New Orleans Pelicans",
+   "pick": "New Orleans Pelicans +4.5",
+   "odds": -110,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-06T17:10:00",
+   "timed": true,
+   "espn": {
+    "legs": [
+     {
+      "kind": "spread",
+      "side": "New Orleans Pelicans",
+      "line": 4.5,
+      "path": "basketball/nba",
+      "event": "401909293",
+      "date": "20261106"
+     }
+    ],
+    "sport": "NBA"
+   }
+  },
   {
    "n": 664,
    "league": "Tennis",
