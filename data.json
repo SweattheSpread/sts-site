@@ -1,5 +1,5 @@
 {
- "updated": "Nov 5, 2026, 8:13 PM PT",
+ "updated": "Nov 5, 2026, 8:28 PM PT",
  "record": {
   "w": 95,
   "l": 102,
@@ -11,7 +11,7 @@
   "first": "2026-10-12",
   "last": "2026-11-04"
  },
- "pending": 20,
+ "pending": 21,
  "latest": [
   {
    "n": 647,
@@ -119,6 +119,40 @@
   }
  ],
  "picks": [
+  {
+   "n": 664,
+   "league": "Tennis",
+   "type": "Parlay",
+   "matchup": "ATP Paris Masters QF 2-leg parlay",
+   "pick": "Tommy Paul +1.5 Sets vs Ben Shelton (5:00 AM PT) + Carlos Alcaraz ML vs Taylor Fritz (10:00 AM PT)",
+   "odds": -147,
+   "units": 1.5,
+   "gap": null,
+   "start": "2026-11-06T23:59:00",
+   "timed": false,
+   "espn": {
+    "legs": [
+     {
+      "kind": "spread",
+      "side": "Tommy Paul",
+      "line": 1.5,
+      "path": "tennis/atp",
+      "event": "13-2026",
+      "comp": "186445",
+      "date": "20261107"
+     },
+     {
+      "kind": "ml",
+      "side": "Carlos Alcaraz",
+      "path": "tennis/atp",
+      "event": "13-2026",
+      "comp": "186480",
+      "date": "20261107"
+     }
+    ],
+    "sport": "Tennis"
+   }
+  },
   {
    "n": 652,
    "league": "NFL",
