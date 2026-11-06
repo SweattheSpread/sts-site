@@ -1,5 +1,5 @@
 {
- "updated": "Nov 5, 2026, 4:48 PM PT",
+ "updated": "Nov 5, 2026, 8:13 PM PT",
  "record": {
   "w": 95,
   "l": 102,
@@ -119,212 +119,6 @@
   }
  ],
  "picks": [
-  {
-   "n": 637,
-   "league": "NFL",
-   "type": "Spread",
-   "matchup": "Jacksonville Jaguars @ Baltimore Ravens",
-   "pick": "Jacksonville Jaguars -10",
-   "odds": -108,
-   "units": 1.0,
-   "gap": null,
-   "start": "2026-11-05T17:15:00",
-   "timed": true,
-   "espn": {
-    "legs": [
-     {
-      "kind": "spread",
-      "side": "Jacksonville Jaguars",
-      "line": -10.0,
-      "path": "football/nfl",
-      "event": "401873037",
-      "date": "20261105"
-     }
-    ],
-    "sport": "NFL"
-   }
-  },
-  {
-   "n": 650,
-   "league": "NFL",
-   "type": "Player prop",
-   "matchup": "Jacksonville Jaguars @ Baltimore Ravens",
-   "pick": "Rashod Bateman longest reception Over 10.5",
-   "odds": -120,
-   "units": 1.5,
-   "gap": null,
-   "start": "2026-11-05T17:15:00",
-   "timed": true,
-   "espn": {
-    "legs": [
-     {
-      "kind": "team_total",
-      "side": "Rashod Bateman longest reception",
-      "ou": "O",
-      "line": 10.5,
-      "path": "football/nfl",
-      "event": "401873037",
-      "date": "20261105"
-     }
-    ],
-    "sport": "NFL"
-   }
-  },
-  {
-   "n": 651,
-   "league": "NFL",
-   "type": "Player prop",
-   "matchup": "Jacksonville Jaguars @ Baltimore Ravens",
-   "pick": "Zay Flowers longest reception Over 19.5",
-   "odds": -110,
-   "units": 1.0,
-   "gap": null,
-   "start": "2026-11-05T17:15:00",
-   "timed": true,
-   "espn": {
-    "legs": [
-     {
-      "kind": "team_total",
-      "side": "Zay Flowers longest reception",
-      "ou": "O",
-      "line": 19.5,
-      "path": "football/nfl",
-      "event": "401873037",
-      "date": "20261105"
-     }
-    ],
-    "sport": "NFL"
-   }
-  },
-  {
-   "n": 656,
-   "league": "NFL",
-   "type": "Player prop",
-   "matchup": "Jacksonville Jaguars @ Baltimore Ravens",
-   "pick": "Derrick Henry UNDER 67.5 rushing yards",
-   "odds": -120,
-   "units": 1.0,
-   "gap": null,
-   "start": "2026-11-05T17:15:00",
-   "timed": true,
-   "espn": {
-    "legs": [
-     {
-      "kind": "team_total",
-      "side": "Derrick Henry",
-      "ou": "U",
-      "line": 67.5,
-      "path": "football/nfl",
-      "event": "401873037",
-      "date": "20261105"
-     }
-    ],
-    "sport": "NFL"
-   }
-  },
-  {
-   "n": 662,
-   "league": "NFL",
-   "type": "Player prop",
-   "matchup": "Jacksonville Jaguars @ Baltimore Ravens",
-   "pick": "Travon Walker Over 0.5 sacks",
-   "odds": 150,
-   "units": 1.0,
-   "gap": null,
-   "start": "2026-11-05T17:15:00",
-   "timed": true,
-   "espn": {
-    "legs": [
-     {
-      "kind": "team_total",
-      "side": "Travon Walker",
-      "ou": "O",
-      "line": 0.5,
-      "path": "football/nfl",
-      "event": "401873037",
-      "date": "20261105"
-     }
-    ],
-    "sport": "NFL"
-   }
-  },
-  {
-   "n": 663,
-   "league": "NFL",
-   "type": "Player prop",
-   "matchup": "Jacksonville Jaguars @ Baltimore Ravens",
-   "pick": "Josh Hines-Allen Over 0.5 sacks",
-   "odds": 125,
-   "units": 1.0,
-   "gap": null,
-   "start": "2026-11-05T17:15:00",
-   "timed": true,
-   "espn": {
-    "legs": [
-     {
-      "kind": "team_total",
-      "side": "Josh Hines-Allen",
-      "ou": "O",
-      "line": 0.5,
-      "path": "football/nfl",
-      "event": "401873037",
-      "date": "20261105"
-     }
-    ],
-    "sport": "NFL"
-   }
-  },
-  {
-   "n": 660,
-   "league": "NCAAB",
-   "type": "Total",
-   "matchup": "Pennsylvania Quakers @ Illinois Fighting Illini",
-   "pick": "Under 173.5",
-   "odds": -105,
-   "units": 0.5,
-   "gap": null,
-   "start": "2026-11-05T17:30:00",
-   "timed": true,
-   "espn": {
-    "legs": [
-     {
-      "kind": "total",
-      "side": null,
-      "ou": "U",
-      "line": 173.5,
-      "path": "basketball/mens-college-basketball",
-      "event": "401913526",
-      "date": "20261105"
-     }
-    ],
-    "sport": "NCAAB"
-   }
-  },
-  {
-   "n": 657,
-   "league": "NBA",
-   "type": "Spread",
-   "matchup": "Orlando Magic @ Phoenix Suns",
-   "pick": "Phoenix Suns +1.5",
-   "odds": -118,
-   "units": 1.0,
-   "gap": null,
-   "start": "2026-11-05T18:10:00",
-   "timed": true,
-   "espn": {
-    "legs": [
-     {
-      "kind": "spread",
-      "side": "Phoenix Suns",
-      "line": 1.5,
-      "path": "basketball/nba",
-      "event": "401909936",
-      "date": "20261105"
-     }
-    ],
-    "sport": "NBA"
-   }
-  },
   {
    "n": 652,
    "league": "NFL",
@@ -507,6 +301,31 @@
  ],
  "awaiting": [
   {
+   "n": 637,
+   "league": "NFL",
+   "type": "Spread",
+   "matchup": "Jacksonville Jaguars @ Baltimore Ravens",
+   "pick": "Jacksonville Jaguars -10",
+   "odds": -108,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-05T17:15:00",
+   "timed": true,
+   "espn": {
+    "legs": [
+     {
+      "kind": "spread",
+      "side": "Jacksonville Jaguars",
+      "line": -10.0,
+      "path": "football/nfl",
+      "event": "401873037",
+      "date": "20261105"
+     }
+    ],
+    "sport": "NFL"
+   }
+  },
+  {
    "n": 648,
    "league": "Tennis",
    "type": "Total",
@@ -534,6 +353,58 @@
    }
   },
   {
+   "n": 650,
+   "league": "NFL",
+   "type": "Player prop",
+   "matchup": "Jacksonville Jaguars @ Baltimore Ravens",
+   "pick": "Rashod Bateman longest reception Over 10.5",
+   "odds": -120,
+   "units": 1.5,
+   "gap": null,
+   "start": "2026-11-05T17:15:00",
+   "timed": true,
+   "espn": {
+    "legs": [
+     {
+      "kind": "team_total",
+      "side": "Rashod Bateman longest reception",
+      "ou": "O",
+      "line": 10.5,
+      "path": "football/nfl",
+      "event": "401873037",
+      "date": "20261105"
+     }
+    ],
+    "sport": "NFL"
+   }
+  },
+  {
+   "n": 651,
+   "league": "NFL",
+   "type": "Player prop",
+   "matchup": "Jacksonville Jaguars @ Baltimore Ravens",
+   "pick": "Zay Flowers longest reception Over 19.5",
+   "odds": -110,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-05T17:15:00",
+   "timed": true,
+   "espn": {
+    "legs": [
+     {
+      "kind": "team_total",
+      "side": "Zay Flowers longest reception",
+      "ou": "O",
+      "line": 19.5,
+      "path": "football/nfl",
+      "event": "401873037",
+      "date": "20261105"
+     }
+    ],
+    "sport": "NFL"
+   }
+  },
+  {
    "n": 655,
    "league": "NHL",
    "type": "Prop",
@@ -558,6 +429,57 @@
      }
     ],
     "sport": "NHL"
+   }
+  },
+  {
+   "n": 656,
+   "league": "NFL",
+   "type": "Player prop",
+   "matchup": "Jacksonville Jaguars @ Baltimore Ravens",
+   "pick": "Derrick Henry UNDER 67.5 rushing yards",
+   "odds": -120,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-05T17:15:00",
+   "timed": true,
+   "espn": {
+    "legs": [
+     {
+      "kind": "team_total",
+      "side": "Derrick Henry",
+      "ou": "U",
+      "line": 67.5,
+      "path": "football/nfl",
+      "event": "401873037",
+      "date": "20261105"
+     }
+    ],
+    "sport": "NFL"
+   }
+  },
+  {
+   "n": 657,
+   "league": "NBA",
+   "type": "Spread",
+   "matchup": "Orlando Magic @ Phoenix Suns",
+   "pick": "Phoenix Suns +1.5",
+   "odds": -118,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-05T18:10:00",
+   "timed": true,
+   "espn": {
+    "legs": [
+     {
+      "kind": "spread",
+      "side": "Phoenix Suns",
+      "line": 1.5,
+      "path": "basketball/nba",
+      "event": "401909936",
+      "date": "20261105"
+     }
+    ],
+    "sport": "NBA"
    }
   },
   {
@@ -612,6 +534,32 @@
    }
   },
   {
+   "n": 660,
+   "league": "NCAAB",
+   "type": "Total",
+   "matchup": "Pennsylvania Quakers @ Illinois Fighting Illini",
+   "pick": "Under 173.5",
+   "odds": -105,
+   "units": 0.5,
+   "gap": null,
+   "start": "2026-11-05T17:30:00",
+   "timed": true,
+   "espn": {
+    "legs": [
+     {
+      "kind": "total",
+      "side": null,
+      "ou": "U",
+      "line": 173.5,
+      "path": "basketball/mens-college-basketball",
+      "event": "401913526",
+      "date": "20261105"
+     }
+    ],
+    "sport": "NCAAB"
+   }
+  },
+  {
    "n": 661,
    "league": "NCAAB",
    "type": "Total",
@@ -635,6 +583,58 @@
      }
     ],
     "sport": "NCAAB"
+   }
+  },
+  {
+   "n": 662,
+   "league": "NFL",
+   "type": "Player prop",
+   "matchup": "Jacksonville Jaguars @ Baltimore Ravens",
+   "pick": "Travon Walker Over 0.5 sacks",
+   "odds": 150,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-05T17:15:00",
+   "timed": true,
+   "espn": {
+    "legs": [
+     {
+      "kind": "team_total",
+      "side": "Travon Walker",
+      "ou": "O",
+      "line": 0.5,
+      "path": "football/nfl",
+      "event": "401873037",
+      "date": "20261105"
+     }
+    ],
+    "sport": "NFL"
+   }
+  },
+  {
+   "n": 663,
+   "league": "NFL",
+   "type": "Player prop",
+   "matchup": "Jacksonville Jaguars @ Baltimore Ravens",
+   "pick": "Josh Hines-Allen Over 0.5 sacks",
+   "odds": 125,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-05T17:15:00",
+   "timed": true,
+   "espn": {
+    "legs": [
+     {
+      "kind": "team_total",
+      "side": "Josh Hines-Allen",
+      "ou": "O",
+      "line": 0.5,
+      "path": "football/nfl",
+      "event": "401873037",
+      "date": "20261105"
+     }
+    ],
+    "sport": "NFL"
    }
   }
  ],

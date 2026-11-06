@@ -15,7 +15,7 @@
    - Tennis ML (best of 3): up a set -> On pace (Close if down 2+ games in the current set); sets level -> games lead 2+ On pace, trail 2+ Off pace, else Close;
        down a set -> Off pace (Close if up 2+ games in the current set).
    - Parlay: the worst started leg; a lost leg is Off pace.
-   - Final: green/red by the final result; shown as 'Final'. */
+   - Final: green/red by the final result; shown as Won / Lost / Push. */
 (() => {
   const MOCK = false;
   const API = 'https://site.api.espn.com/apis/site/v2/sports/';
@@ -130,7 +130,8 @@
     started.forEach(r => { if (!worst || RANK[r.m.c] < RANK[worst.m.c]) worst = r; });
     return { res, worst, live: res.some(r => r.s.state === 'in'), allPost: res.every(r => r.s.state === 'post') };
   }
-  function meterHtml(m, fin) { return m ? `<div class="lv-m ${m.c}" role="img" aria-label="${fin ? 'Final' : LABEL[m.c]}"><i></i><span>${fin ? 'Final' : LABEL[m.c]}</span></div>` : ''; }
+  function finLabel(m) { return m.c === 'g' ? 'Won' : m.c === 'r' ? 'Lost' : 'Push'; }
+  function meterHtml(m, fin) { const lab = fin ? finLabel(m) : LABEL[m.c]; return m ? `<div class="lv-m ${m.c}" role="img" aria-label="${lab}"><i></i><span>${lab}</span></div>` : ''; }
   function popHtml(c, st) {
     const legs = st.res.map(({ l, s, m }) => {
       const head = s.state === 'pre' ? `Starts ${pt(s.start)}` : s.state === 'post' ? `Final${s.detail && s.detail !== 'Final' ? ' · ' + esc(s.detail) : ''}` : esc(s.detail || 'Live');
@@ -158,7 +159,7 @@
     const el = document.querySelector(`.card[data-n="${c.n}"]`); if (!el) return;
     let slot = el.querySelector(':scope > .lv-row'); if (!slot) { slot = document.createElement('div'); slot.className = 'lv-row'; el.querySelector('dl').after(slot); }
     const fin = st.allPost, show = (st.live || fin) && st.worst;
-    slot.innerHTML = show ? meterHtml(st.worst.m, fin) + `<span class="lv-hint">${st.live ? '<b class="dot"></b>Live · tap for score' : 'Tap for final'}</span>` : `<span class="lv-hint">${st.res.every(r => r.s.state === 'pre') ? 'Tap for start time' : 'Tap for score'}</span>`;
+    slot.innerHTML = show ? meterHtml(st.worst.m, fin) + `<span class="lv-hint">${st.live ? '<b class="dot"></b>Live · tap for score' : 'Tap for result'}</span>` : `<span class="lv-hint">${st.res.every(r => r.s.state === 'pre') ? 'Tap for start time' : 'Tap for score'}</span>`;
   }
   async function rows(d) {
     const all = [...(d.picks || []), ...(d.awaiting || [])].filter(c => c.espn);
