@@ -1,5 +1,5 @@
 {
- "updated": "Nov 7, 2026, 1:22 PM PT",
+ "updated": "Nov 7, 2026, 1:45 PM PT",
  "record": {
   "w": 102,
   "l": 115,
@@ -11,7 +11,7 @@
   "first": "2026-10-12",
   "last": "2026-11-07"
  },
- "pending": 18,
+ "pending": 19,
  "latest": [
   {
    "n": 680,
@@ -163,6 +163,32 @@
       "side": "Mika Zibanejad",
       "ou": "U",
       "line": 0.5,
+      "path": "hockey/nhl",
+      "event": "401892664",
+      "date": "20261107"
+     }
+    ],
+    "sport": "NHL"
+   }
+  },
+  {
+   "n": 684,
+   "league": "NHL",
+   "type": "Over/Under",
+   "matchup": "New York Rangers @ Seattle Kraken",
+   "pick": "1st period total Over 1.5 goals (both teams; not Rangers team total, not full game)",
+   "odds": -130,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-07T14:10:00",
+   "timed": true,
+   "espn": {
+    "legs": [
+     {
+      "kind": "total",
+      "side": "1st period total",
+      "ou": "O",
+      "line": 1.5,
       "path": "hockey/nhl",
       "event": "401892664",
       "date": "20261107"
