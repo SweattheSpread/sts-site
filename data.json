@@ -1,18 +1,96 @@
 {
- "updated": "Nov 6, 2026, 11:05 AM PT",
+ "updated": "Nov 6, 2026, 11:21 PM PT",
  "record": {
-  "w": 100,
-  "l": 110,
+  "w": 102,
+  "l": 114,
   "p": 0,
-  "n": 210,
-  "units": 18.54,
-  "risked": 316.5,
-  "roi": 5.86,
+  "n": 216,
+  "units": 17.99,
+  "risked": 321.5,
+  "roi": 5.6,
   "first": "2026-10-12",
-  "last": "2026-11-05"
+  "last": "2026-11-06"
  },
- "pending": 14,
+ "pending": 9,
  "latest": [
+  {
+   "n": 671,
+   "date": "2026-11-06",
+   "day": "2026-11-06",
+   "league": "NCAAB",
+   "type": "Spread",
+   "matchup": "Detroit Mercy Titans @ Marquette Golden Eagles",
+   "pick": "Detroit +32.5",
+   "odds": -105,
+   "units": 0.5,
+   "result": "L",
+   "pl": -0.5
+  },
+  {
+   "n": 670,
+   "date": "2026-11-06",
+   "day": "2026-11-06",
+   "league": "NCAAB",
+   "type": "Total",
+   "matchup": "Cal Baptist Lancers @ Oregon St Beavers",
+   "pick": "Under 157.5",
+   "odds": -105,
+   "units": 0.5,
+   "result": "L",
+   "pl": -0.5
+  },
+  {
+   "n": 668,
+   "date": "2026-11-06",
+   "day": "2026-11-06",
+   "league": "Soccer",
+   "type": "Player prop",
+   "matchup": "Venezia v Udinese",
+   "pick": "Nicol\u00f2 Zaniolo anytime goal",
+   "odds": 280,
+   "units": 0.5,
+   "result": "L",
+   "pl": -0.5
+  },
+  {
+   "n": 667,
+   "date": "2026-11-06",
+   "day": "2026-11-06",
+   "league": "NBA",
+   "type": "Spread",
+   "matchup": "Minnesota Timberwolves @ New Orleans Pelicans",
+   "pick": "New Orleans Pelicans +4.5",
+   "odds": -110,
+   "units": 1.0,
+   "result": "L",
+   "pl": -1.0
+  },
+  {
+   "n": 666,
+   "date": "2026-11-06",
+   "day": "2026-11-06",
+   "league": "NCAAF",
+   "type": "Spread",
+   "matchup": "Virginia Tech Hokies @ SMU Mustangs",
+   "pick": "SMU -6.5",
+   "odds": -108,
+   "units": 1.0,
+   "result": "W",
+   "pl": 0.93
+  },
+  {
+   "n": 664,
+   "date": "2026-11-06",
+   "day": "2026-11-06",
+   "league": "Tennis",
+   "type": "Parlay",
+   "matchup": "ATP Paris Masters QF 2-leg parlay",
+   "pick": "Tommy Paul +1.5 Sets vs Ben Shelton (5:00 AM PT) + Carlos Alcaraz ML vs Taylor Fritz (10:00 AM PT)",
+   "odds": -147,
+   "units": 1.5,
+   "result": "W",
+   "pl": 1.02
+  },
   {
    "n": 663,
    "date": "2026-11-05",
@@ -38,222 +116,9 @@
    "units": 1.0,
    "result": "L",
    "pl": -1.0
-  },
-  {
-   "n": 661,
-   "date": "2026-11-05",
-   "day": "2026-11-05",
-   "league": "NCAAB",
-   "type": "Total",
-   "matchup": "Central Connecticut Blue Devils @ Syracuse Orange",
-   "pick": "Over 135.5",
-   "odds": -105,
-   "units": 0.5,
-   "result": "W",
-   "pl": 0.48
-  },
-  {
-   "n": 660,
-   "date": "2026-11-05",
-   "day": "2026-11-05",
-   "league": "NCAAB",
-   "type": "Total",
-   "matchup": "Pennsylvania Quakers @ Illinois Fighting Illini",
-   "pick": "Under 173.5",
-   "odds": -105,
-   "units": 0.5,
-   "result": "L",
-   "pl": -0.5
-  },
-  {
-   "n": 659,
-   "date": "2026-11-05",
-   "day": "2026-11-05",
-   "league": "NCAAB",
-   "type": "Spread",
-   "matchup": "Wake Forest Demon Deacons @ Vanderbilt Commodores",
-   "pick": "Wake Forest +18.5",
-   "odds": -110,
-   "units": 0.5,
-   "result": "L",
-   "pl": -0.5
-  },
-  {
-   "n": 658,
-   "date": "2026-11-05",
-   "day": "2026-11-05",
-   "league": "NCAAF",
-   "type": "Total",
-   "matchup": "UTSA Roadrunners @ Florida Atlantic Owls",
-   "pick": "Under 73.5",
-   "odds": -109,
-   "units": 1.0,
-   "result": "L",
-   "pl": -1.0
-  },
-  {
-   "n": 657,
-   "date": "2026-11-05",
-   "day": "2026-11-05",
-   "league": "NBA",
-   "type": "Spread",
-   "matchup": "Orlando Magic @ Phoenix Suns",
-   "pick": "Phoenix Suns +1.5",
-   "odds": -118,
-   "units": 1.0,
-   "result": "W",
-   "pl": 0.85
-  },
-  {
-   "n": 656,
-   "date": "2026-11-05",
-   "day": "2026-11-05",
-   "league": "NFL",
-   "type": "Player prop",
-   "matchup": "Jacksonville Jaguars @ Baltimore Ravens",
-   "pick": "Derrick Henry UNDER 67.5 rushing yards",
-   "odds": -120,
-   "units": 1.0,
-   "result": "W",
-   "pl": 0.83
   }
  ],
  "picks": [
-  {
-   "n": 666,
-   "league": "NCAAF",
-   "type": "Spread",
-   "matchup": "Virginia Tech Hokies @ SMU Mustangs",
-   "pick": "SMU -6.5",
-   "odds": -108,
-   "units": 1.0,
-   "gap": null,
-   "start": "2026-11-06T16:00:00",
-   "timed": true,
-   "espn": {
-    "legs": [
-     {
-      "kind": "spread",
-      "side": "SMU",
-      "line": -6.5,
-      "path": "football/college-football",
-      "event": "401858288",
-      "date": "20261106"
-     }
-    ],
-    "sport": "NCAAF"
-   }
-  },
-  {
-   "n": 671,
-   "league": "NCAAB",
-   "type": "Spread",
-   "matchup": "Detroit Mercy Titans @ Marquette Golden Eagles",
-   "pick": "Detroit +32.5",
-   "odds": -105,
-   "units": 0.5,
-   "gap": null,
-   "start": "2026-11-06T17:00:00",
-   "timed": true,
-   "espn": {
-    "legs": [
-     {
-      "kind": "spread",
-      "side": "Detroit",
-      "line": 32.5,
-      "path": "basketball/mens-college-basketball",
-      "event": "401909523",
-      "date": "20261106"
-     }
-    ],
-    "sport": "NCAAB"
-   }
-  },
-  {
-   "n": 667,
-   "league": "NBA",
-   "type": "Spread",
-   "matchup": "Minnesota Timberwolves @ New Orleans Pelicans",
-   "pick": "New Orleans Pelicans +4.5",
-   "odds": -110,
-   "units": 1.0,
-   "gap": null,
-   "start": "2026-11-06T17:10:00",
-   "timed": true,
-   "espn": {
-    "legs": [
-     {
-      "kind": "spread",
-      "side": "New Orleans Pelicans",
-      "line": 4.5,
-      "path": "basketball/nba",
-      "event": "401909293",
-      "date": "20261106"
-     }
-    ],
-    "sport": "NBA"
-   }
-  },
-  {
-   "n": 670,
-   "league": "NCAAB",
-   "type": "Total",
-   "matchup": "Cal Baptist Lancers @ Oregon St Beavers",
-   "pick": "Under 157.5",
-   "odds": -105,
-   "units": 0.5,
-   "gap": null,
-   "start": "2026-11-06T18:30:00",
-   "timed": true,
-   "espn": {
-    "legs": [
-     {
-      "kind": "total",
-      "side": null,
-      "ou": "U",
-      "line": 157.5,
-      "path": "basketball/mens-college-basketball",
-      "event": "401920344",
-      "date": "20261106"
-     }
-    ],
-    "sport": "NCAAB"
-   }
-  },
-  {
-   "n": 664,
-   "league": "Tennis",
-   "type": "Parlay",
-   "matchup": "ATP Paris Masters QF 2-leg parlay",
-   "pick": "Tommy Paul +1.5 Sets vs Ben Shelton (5:00 AM PT) + Carlos Alcaraz ML vs Taylor Fritz (10:00 AM PT)",
-   "odds": -147,
-   "units": 1.5,
-   "gap": null,
-   "start": "2026-11-06T23:59:00",
-   "timed": false,
-   "espn": {
-    "legs": [
-     {
-      "kind": "spread",
-      "side": "Tommy Paul",
-      "line": 1.5,
-      "path": "tennis/atp",
-      "event": "13-2026",
-      "comp": "186445",
-      "date": "20261107"
-     },
-     {
-      "kind": "ml",
-      "side": "Carlos Alcaraz",
-      "path": "tennis/atp",
-      "event": "13-2026",
-      "comp": "186480",
-      "date": "20261107"
-     }
-    ],
-    "sport": "Tennis"
-   }
-  },
   {
    "n": 652,
    "league": "NFL",
@@ -583,6 +448,10 @@
   "2026-11-05": {
    "u": -2.61,
    "n": 13
+  },
+  "2026-11-06": {
+   "u": -0.55,
+   "n": 6
   }
  }
 }
