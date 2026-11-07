@@ -1,31 +1,18 @@
 {
- "updated": "Nov 7, 2026, 2:01 PM PT",
+ "updated": "Nov 7, 2026, 2:07 PM PT",
  "record": {
   "w": 102,
-  "l": 115,
+  "l": 114,
   "p": 0,
-  "n": 217,
-  "units": 10.99,
-  "risked": 328.5,
-  "roi": 3.35,
+  "n": 216,
+  "units": 17.99,
+  "risked": 321.5,
+  "roi": 5.6,
   "first": "2026-10-12",
-  "last": "2026-11-07"
+  "last": "2026-11-06"
  },
  "pending": 20,
  "latest": [
-  {
-   "n": 680,
-   "date": "2026-11-07",
-   "day": "2026-11-07",
-   "league": "NCAAF",
-   "type": "Spread",
-   "matchup": "Florida State Seminoles @ Boston College Eagles",
-   "pick": "Boston College Eagles -3.5 LIVE",
-   "odds": -115,
-   "units": 7.0,
-   "result": "L",
-   "pl": -7.0
-  },
   {
    "n": 671,
    "date": "2026-11-06",
@@ -113,6 +100,19 @@
    "matchup": "Jacksonville Jaguars @ Baltimore Ravens",
    "pick": "Josh Hines-Allen Over 0.5 sacks",
    "odds": 125,
+   "units": 1.0,
+   "result": "L",
+   "pl": -1.0
+  },
+  {
+   "n": 662,
+   "date": "2026-11-05",
+   "day": "2026-11-05",
+   "league": "NFL",
+   "type": "Player prop",
+   "matchup": "Jacksonville Jaguars @ Baltimore Ravens",
+   "pick": "Travon Walker Over 0.5 sacks",
+   "odds": 150,
    "units": 1.0,
    "result": "L",
    "pl": -1.0
@@ -745,10 +745,6 @@
   "2026-11-06": {
    "u": -0.55,
    "n": 6
-  },
-  "2026-11-07": {
-   "u": -7.0,
-   "n": 1
   }
  }
 }
