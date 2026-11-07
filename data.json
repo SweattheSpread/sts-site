@@ -1,5 +1,5 @@
 {
- "updated": "Nov 7, 2026, 1:59 PM PT",
+ "updated": "Nov 7, 2026, 2:01 PM PT",
  "record": {
   "w": 102,
   "l": 115,
@@ -11,7 +11,7 @@
   "first": "2026-10-12",
   "last": "2026-11-07"
  },
- "pending": 22,
+ "pending": 20,
  "latest": [
   {
    "n": 680,
@@ -195,58 +195,6 @@
      }
     ],
     "sport": "NHL"
-   }
-  },
-  {
-   "n": 687,
-   "league": "NHL",
-   "type": "Player Prop",
-   "matchup": "Montr\u00e9al Canadiens @ Toronto Maple Leafs",
-   "pick": "Noah Dobson Over 0.5 Assists",
-   "odds": 165,
-   "units": 1.0,
-   "gap": null,
-   "start": "2026-11-07T16:00:00",
-   "timed": true,
-   "espn": {
-    "legs": [
-     {
-      "kind": "team_total",
-      "side": "Noah Dobson",
-      "ou": "O",
-      "line": 0.5,
-      "path": "hockey/nhl",
-      "event": "401892665",
-      "date": "20261107"
-     }
-    ],
-    "sport": "NHL"
-   }
-  },
-  {
-   "n": 686,
-   "league": "NBA",
-   "type": "Player Prop",
-   "matchup": "Brooklyn Nets @ Atlanta Hawks",
-   "pick": "Jalen Johnson Under 20.5 Points",
-   "odds": 91,
-   "units": 1.0,
-   "gap": null,
-   "start": "2026-11-07T16:40:00",
-   "timed": true,
-   "espn": {
-    "legs": [
-     {
-      "kind": "team_total",
-      "side": "Jalen Johnson",
-      "ou": "U",
-      "line": 20.5,
-      "path": "basketball/nba",
-      "event": "401909939",
-      "date": "20261107"
-     }
-    ],
-    "sport": "NBA"
    }
   },
   {
