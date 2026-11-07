@@ -1,5 +1,5 @@
 {
- "updated": "Nov 7, 2026, 3:23 AM PT",
+ "updated": "Nov 7, 2026, 4:47 AM PT",
  "record": {
   "w": 102,
   "l": 114,
@@ -11,7 +11,7 @@
   "first": "2026-10-12",
   "last": "2026-11-06"
  },
- "pending": 11,
+ "pending": 13,
  "latest": [
   {
    "n": 671,
@@ -119,6 +119,56 @@
   }
  ],
  "picks": [
+  {
+   "n": 675,
+   "league": "NCAAF",
+   "type": "Spread",
+   "matchup": "Texas Longhorns @ Missouri Tigers",
+   "pick": "Missouri Tigers +3",
+   "odds": -115,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-07T09:00:00",
+   "timed": true,
+   "espn": {
+    "legs": [
+     {
+      "kind": "spread",
+      "side": "Missouri Tigers",
+      "line": 3.0,
+      "path": "football/college-football",
+      "event": "401856743",
+      "date": "20261107"
+     }
+    ],
+    "sport": "NCAAF"
+   }
+  },
+  {
+   "n": 676,
+   "league": "NCAAF",
+   "type": "Spread",
+   "matchup": "Oregon Ducks @ Ohio State Buckeyes",
+   "pick": "Ohio State Buckeyes -7.5",
+   "odds": -110,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-07T12:30:00",
+   "timed": true,
+   "espn": {
+    "legs": [
+     {
+      "kind": "spread",
+      "side": "Ohio State Buckeyes",
+      "line": -7.5,
+      "path": "football/college-football",
+      "event": "401858514",
+      "date": "20261107"
+     }
+    ],
+    "sport": "NCAAF"
+   }
+  },
   {
    "n": 672,
    "league": "Tennis",
