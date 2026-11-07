@@ -1,5 +1,5 @@
 {
- "updated": "Nov 7, 2026, 10:07 AM PT",
+ "updated": "Nov 7, 2026, 1:00 PM PT",
  "record": {
   "w": 102,
   "l": 114,
@@ -11,7 +11,7 @@
   "first": "2026-10-12",
   "last": "2026-11-06"
  },
- "pending": 18,
+ "pending": 20,
  "latest": [
   {
    "n": 671,
@@ -120,104 +120,55 @@
  ],
  "picks": [
   {
-   "n": 676,
-   "league": "NCAAF",
-   "type": "Spread",
-   "matchup": "Oregon Ducks @ Ohio State Buckeyes",
-   "pick": "Ohio State Buckeyes -7.5",
-   "odds": -110,
-   "units": 1.0,
+   "n": 682,
+   "league": "NHL",
+   "type": "Player Prop",
+   "matchup": "New York Rangers @ Seattle Kraken",
+   "pick": "Gabe Perreault Over 0.5 Assists",
+   "odds": 240,
+   "units": 0.5,
    "gap": null,
-   "start": "2026-11-07T12:30:00",
+   "start": "2026-11-07T14:10:00",
    "timed": true,
    "espn": {
     "legs": [
      {
-      "kind": "spread",
-      "side": "Ohio State Buckeyes",
-      "line": -7.5,
-      "path": "football/college-football",
-      "event": "401858514",
+      "kind": "team_total",
+      "side": "Gabe Perreault",
+      "ou": "O",
+      "line": 0.5,
+      "path": "hockey/nhl",
+      "event": "401892664",
       "date": "20261107"
      }
     ],
-    "sport": "NCAAF"
+    "sport": "NHL"
    }
   },
   {
-   "n": 677,
-   "league": "NCAAF",
-   "type": "Spread",
-   "matchup": "Charlotte 49ers @ UAB Blazers",
-   "pick": "UAB Blazers -8.5",
-   "odds": -108,
+   "n": 683,
+   "league": "NHL",
+   "type": "Player Prop",
+   "matchup": "New York Rangers @ Seattle Kraken",
+   "pick": "Mika Zibanejad Under 0.5 Points",
+   "odds": 165,
    "units": 1.0,
    "gap": null,
-   "start": "2026-11-07T12:30:00",
+   "start": "2026-11-07T14:10:00",
    "timed": true,
    "espn": {
     "legs": [
      {
-      "kind": "spread",
-      "side": "UAB Blazers",
-      "line": -8.5,
-      "path": "football/college-football",
-      "event": "401862819",
-      "date": "20261107"
-     }
-    ],
-    "sport": "NCAAF"
-   }
-  },
-  {
-   "n": 678,
-   "league": "NCAAF",
-   "type": "Over/Under",
-   "matchup": "Northern Illinois Huskies @ San Jose State Spartans",
-   "pick": "Under 52.5 total points",
-   "odds": -110,
-   "units": 1.0,
-   "gap": null,
-   "start": "2026-11-07T13:00:00",
-   "timed": true,
-   "espn": {
-    "legs": [
-     {
-      "kind": "total",
-      "side": null,
+      "kind": "team_total",
+      "side": "Mika Zibanejad",
       "ou": "U",
-      "line": 52.5,
-      "path": "football/college-football",
-      "event": "401858516",
+      "line": 0.5,
+      "path": "hockey/nhl",
+      "event": "401892664",
       "date": "20261107"
      }
     ],
-    "sport": "NCAAF"
-   }
-  },
-  {
-   "n": 679,
-   "league": "NCAAF",
-   "type": "Spread",
-   "matchup": "Rice Owls @ North Texas Mean Green",
-   "pick": "North Texas Mean Green -16",
-   "odds": -108,
-   "units": 1.0,
-   "gap": null,
-   "start": "2026-11-07T13:00:00",
-   "timed": true,
-   "espn": {
-    "legs": [
-     {
-      "kind": "spread",
-      "side": "North Texas Mean Green",
-      "line": -16.0,
-      "path": "football/college-football",
-      "event": "401862821",
-      "date": "20261107"
-     }
-    ],
-    "sport": "NCAAF"
+    "sport": "NHL"
    }
   },
   {
@@ -534,6 +485,107 @@
       "line": 3.0,
       "path": "football/college-football",
       "event": "401856743",
+      "date": "20261107"
+     }
+    ],
+    "sport": "NCAAF"
+   }
+  },
+  {
+   "n": 676,
+   "league": "NCAAF",
+   "type": "Spread",
+   "matchup": "Oregon Ducks @ Ohio State Buckeyes",
+   "pick": "Ohio State Buckeyes -7.5",
+   "odds": -110,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-07T12:30:00",
+   "timed": true,
+   "espn": {
+    "legs": [
+     {
+      "kind": "spread",
+      "side": "Ohio State Buckeyes",
+      "line": -7.5,
+      "path": "football/college-football",
+      "event": "401858514",
+      "date": "20261107"
+     }
+    ],
+    "sport": "NCAAF"
+   }
+  },
+  {
+   "n": 677,
+   "league": "NCAAF",
+   "type": "Spread",
+   "matchup": "Charlotte 49ers @ UAB Blazers",
+   "pick": "UAB Blazers -8.5",
+   "odds": -108,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-07T12:30:00",
+   "timed": true,
+   "espn": {
+    "legs": [
+     {
+      "kind": "spread",
+      "side": "UAB Blazers",
+      "line": -8.5,
+      "path": "football/college-football",
+      "event": "401862819",
+      "date": "20261107"
+     }
+    ],
+    "sport": "NCAAF"
+   }
+  },
+  {
+   "n": 678,
+   "league": "NCAAF",
+   "type": "Over/Under",
+   "matchup": "Northern Illinois Huskies @ San Jose State Spartans",
+   "pick": "Under 52.5 total points",
+   "odds": -110,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-07T13:00:00",
+   "timed": true,
+   "espn": {
+    "legs": [
+     {
+      "kind": "total",
+      "side": null,
+      "ou": "U",
+      "line": 52.5,
+      "path": "football/college-football",
+      "event": "401858516",
+      "date": "20261107"
+     }
+    ],
+    "sport": "NCAAF"
+   }
+  },
+  {
+   "n": 679,
+   "league": "NCAAF",
+   "type": "Spread",
+   "matchup": "Rice Owls @ North Texas Mean Green",
+   "pick": "North Texas Mean Green -16",
+   "odds": -108,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-07T13:00:00",
+   "timed": true,
+   "espn": {
+    "legs": [
+     {
+      "kind": "spread",
+      "side": "North Texas Mean Green",
+      "line": -16.0,
+      "path": "football/college-football",
+      "event": "401862821",
       "date": "20261107"
      }
     ],
