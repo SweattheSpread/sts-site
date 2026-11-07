@@ -1,5 +1,5 @@
 {
- "updated": "Nov 7, 2026, 2:21 PM PT",
+ "updated": "Nov 7, 2026, 3:31 PM PT",
  "record": {
   "w": 102,
   "l": 114,
@@ -11,7 +11,7 @@
   "first": "2026-10-12",
   "last": "2026-11-06"
  },
- "pending": 21,
+ "pending": 22,
  "latest": [
   {
    "n": 671,
@@ -662,6 +662,31 @@
       "side": "UL Monroe Warhawks",
       "path": "football/college-football",
       "event": "401869936",
+      "date": "20261107"
+     }
+    ],
+    "sport": "NCAAF"
+   }
+  },
+  {
+   "n": 689,
+   "league": "NCAAF",
+   "type": "Spread",
+   "matchup": "Oregon Ducks @ Ohio State Buckeyes",
+   "pick": "Oregon Ducks -3.5 LIVE",
+   "odds": -115,
+   "units": 3.0,
+   "gap": null,
+   "start": "2026-11-07T12:30:00",
+   "timed": true,
+   "espn": {
+    "legs": [
+     {
+      "kind": "spread",
+      "side": "Oregon Ducks",
+      "line": -3.5,
+      "path": "football/college-football",
+      "event": "401858514",
       "date": "20261107"
      }
     ],
