@@ -1,5 +1,5 @@
 {
- "updated": "Nov 7, 2026, 3:35 PM PT",
+ "updated": "Nov 7, 2026, 3:47 PM PT",
  "record": {
   "w": 104,
   "l": 115,
@@ -11,7 +11,7 @@
   "first": "2026-10-12",
   "last": "2026-11-07"
  },
- "pending": 19,
+ "pending": 20,
  "latest": [
   {
    "n": 688,
@@ -612,6 +612,31 @@
       "line": -3.5,
       "path": "football/college-football",
       "event": "401858514",
+      "date": "20261107"
+     }
+    ],
+    "sport": "NCAAF"
+   }
+  },
+  {
+   "n": 690,
+   "league": "NCAAF",
+   "type": "Spread",
+   "matchup": "Boise State Broncos @ Colorado State Rams",
+   "pick": "Boise State Broncos -21.5 LIVE",
+   "odds": -110,
+   "units": 3.0,
+   "gap": null,
+   "start": "2026-11-07T15:00:00",
+   "timed": true,
+   "espn": {
+    "legs": [
+     {
+      "kind": "spread",
+      "side": "Boise State Broncos",
+      "line": -21.5,
+      "path": "football/college-football",
+      "event": "401871073",
       "date": "20261107"
      }
     ],
