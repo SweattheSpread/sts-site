@@ -1,5 +1,5 @@
 {
- "updated": "Nov 7, 2026, 1:47 PM PT",
+ "updated": "Nov 7, 2026, 1:49 PM PT",
  "record": {
   "w": 102,
   "l": 115,
@@ -176,7 +176,7 @@
    "league": "NHL",
    "type": "Over/Under",
    "matchup": "New York Rangers @ Seattle Kraken",
-   "pick": "LIVE 1st period total Over 1.5 goals (both teams; not Rangers team total, not full game)",
+   "pick": "1st period total Over 1.5 goals (both teams; not Rangers team total, not full game)",
    "odds": -130,
    "units": 1.0,
    "gap": null,
@@ -186,7 +186,7 @@
     "legs": [
      {
       "kind": "total",
-      "side": "LIVE 1st period total",
+      "side": "1st period total",
       "ou": "O",
       "line": 1.5,
       "path": "hockey/nhl",
