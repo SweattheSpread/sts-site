@@ -1,5 +1,5 @@
 {
- "updated": "Nov 7, 2026, 1:45 PM PT",
+ "updated": "Nov 7, 2026, 1:47 PM PT",
  "record": {
   "w": 102,
   "l": 115,
@@ -11,7 +11,7 @@
   "first": "2026-10-12",
   "last": "2026-11-07"
  },
- "pending": 19,
+ "pending": 20,
  "latest": [
   {
    "n": 680,
@@ -176,7 +176,7 @@
    "league": "NHL",
    "type": "Over/Under",
    "matchup": "New York Rangers @ Seattle Kraken",
-   "pick": "1st period total Over 1.5 goals (both teams; not Rangers team total, not full game)",
+   "pick": "LIVE 1st period total Over 1.5 goals (both teams; not Rangers team total, not full game)",
    "odds": -130,
    "units": 1.0,
    "gap": null,
@@ -186,7 +186,7 @@
     "legs": [
      {
       "kind": "total",
-      "side": "1st period total",
+      "side": "LIVE 1st period total",
       "ou": "O",
       "line": 1.5,
       "path": "hockey/nhl",
@@ -612,6 +612,32 @@
       "line": -16.0,
       "path": "football/college-football",
       "event": "401862821",
+      "date": "20261107"
+     }
+    ],
+    "sport": "NCAAF"
+   }
+  },
+  {
+   "n": 685,
+   "league": "NCAAF",
+   "type": "Team Total",
+   "matchup": "Oregon Ducks @ Ohio State Buckeyes",
+   "pick": "Oregon Ducks team total Under 19.5 (full game) LIVE",
+   "odds": -115,
+   "units": 1.5,
+   "gap": null,
+   "start": "2026-11-07T12:30:00",
+   "timed": true,
+   "espn": {
+    "legs": [
+     {
+      "kind": "total",
+      "side": "Oregon Ducks team total",
+      "ou": "U",
+      "line": 19.5,
+      "path": "football/college-football",
+      "event": "401858514",
       "date": "20261107"
      }
     ],
