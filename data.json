@@ -1,5 +1,5 @@
 {
- "updated": "Nov 7, 2026, 12:51 AM PT",
+ "updated": "Nov 7, 2026, 3:23 AM PT",
  "record": {
   "w": 102,
   "l": 114,
@@ -11,7 +11,7 @@
   "first": "2026-10-12",
   "last": "2026-11-06"
  },
- "pending": 10,
+ "pending": 11,
  "latest": [
   {
    "n": 671,
@@ -330,6 +330,32 @@
       "line": 48.5,
       "path": "football/nfl",
       "event": "401873043",
+      "date": "20261108"
+     }
+    ],
+    "sport": "NFL"
+   }
+  },
+  {
+   "n": 674,
+   "league": "NFL",
+   "type": "Player prop",
+   "matchup": "Houston Texans @ Los Angeles Chargers",
+   "pick": "Kayshon Boutte longest reception Over 12.5",
+   "odds": -115,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-08T13:05:00",
+   "timed": true,
+   "espn": {
+    "legs": [
+     {
+      "kind": "team_total",
+      "side": "Kayshon Boutte longest reception",
+      "ou": "O",
+      "line": 12.5,
+      "path": "football/nfl",
+      "event": "401873046",
       "date": "20261108"
      }
     ],
