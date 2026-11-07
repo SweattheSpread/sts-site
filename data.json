@@ -1,5 +1,5 @@
 {
- "updated": "Nov 7, 2026, 12:48 AM PT",
+ "updated": "Nov 7, 2026, 12:51 AM PT",
  "record": {
   "w": 102,
   "l": 114,
@@ -11,7 +11,7 @@
   "first": "2026-10-12",
   "last": "2026-11-06"
  },
- "pending": 9,
+ "pending": 10,
  "latest": [
   {
    "n": 671,
@@ -119,6 +119,42 @@
   }
  ],
  "picks": [
+  {
+   "n": 672,
+   "league": "Tennis",
+   "type": "Parlay",
+   "matchup": "ATP Paris SF 2-leg parlay",
+   "pick": "Casper Ruud +1.5 SETS vs Carlos Alcaraz (not before 8:00 AM PT) + Ben Shelton vs Luca Van Assche Over 23 TOTAL MATCH GAMES (not before 5:30 AM PT); 1.25u ($125). Exact Over 23, NOT 23.5 or Shelton individual games. OFFICIAL user-directed override, t1534u Nov 7 2026 12:46 AM PT; not a model-qualified play. Odds +347 American confirmed by user t1535u Nov 7 2026 12:49 AM PT; BOOK pending confirmation. Tracker recommendation/request only; no sportsbook wager execution or ticket confirmation. Ungraded; await match results and book-specific settlement rules. User-confirmed combined parlay odds +347; no book or sportsbook execution confirmation supplied. Reference only: Pinnacle match Over 23 -107, updated Nov 7 12:47:47 AM PT; no approved-book set/total quote verified. Exactly 23 games pushes the total leg, subject to eventual book parlay rules.",
+   "odds": 347,
+   "units": 1.25,
+   "gap": null,
+   "start": "2026-11-07T23:59:00",
+   "timed": false,
+   "espn": {
+    "legs": [
+     {
+      "kind": "spread",
+      "side": "Casper Ruud",
+      "line": 1.5,
+      "path": "tennis/atp",
+      "event": "13-2026",
+      "comp": "186469",
+      "date": "20261108"
+     },
+     {
+      "kind": "team_total",
+      "side": "Ben Shelton vs Luca Van Assche",
+      "ou": "O",
+      "line": 23.0,
+      "path": "tennis/atp",
+      "event": "13-2026",
+      "comp": "186461",
+      "date": "20261108"
+     }
+    ],
+    "sport": "Tennis"
+   }
+  },
   {
    "n": 652,
    "league": "NFL",
