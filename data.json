@@ -1,5 +1,5 @@
 {
- "updated": "Nov 7, 2026, 9:57 AM PT",
+ "updated": "Nov 7, 2026, 10:07 AM PT",
  "record": {
   "w": 102,
   "l": 114,
@@ -11,7 +11,7 @@
   "first": "2026-10-12",
   "last": "2026-11-06"
  },
- "pending": 17,
+ "pending": 18,
  "latest": [
   {
    "n": 671,
@@ -557,6 +557,32 @@
       "kind": "spread",
       "side": "Boston College Eagles",
       "line": -3.5,
+      "path": "football/college-football",
+      "event": "401858289",
+      "date": "20261107"
+     }
+    ],
+    "sport": "NCAAF"
+   }
+  },
+  {
+   "n": 681,
+   "league": "NCAAF",
+   "type": "Over/Under",
+   "matchup": "Florida State Seminoles @ Boston College Eagles",
+   "pick": "Over 65 total points (full game, not team total) LIVE",
+   "odds": -105,
+   "units": 4.0,
+   "gap": null,
+   "start": "2026-11-07T09:00:00",
+   "timed": true,
+   "espn": {
+    "legs": [
+     {
+      "kind": "total",
+      "side": null,
+      "ou": "O",
+      "line": 65.0,
       "path": "football/college-football",
       "event": "401858289",
       "date": "20261107"
