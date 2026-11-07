@@ -1,5 +1,5 @@
 {
- "updated": "Nov 7, 2026, 2:07 PM PT",
+ "updated": "Nov 7, 2026, 2:21 PM PT",
  "record": {
   "w": 102,
   "l": 114,
@@ -11,7 +11,7 @@
   "first": "2026-10-12",
   "last": "2026-11-06"
  },
- "pending": 20,
+ "pending": 21,
  "latest": [
   {
    "n": 671,
@@ -119,84 +119,6 @@
   }
  ],
  "picks": [
-  {
-   "n": 682,
-   "league": "NHL",
-   "type": "Player Prop",
-   "matchup": "New York Rangers @ Seattle Kraken",
-   "pick": "Gabe Perreault Over 0.5 Assists",
-   "odds": 240,
-   "units": 0.5,
-   "gap": null,
-   "start": "2026-11-07T14:10:00",
-   "timed": true,
-   "espn": {
-    "legs": [
-     {
-      "kind": "team_total",
-      "side": "Gabe Perreault",
-      "ou": "O",
-      "line": 0.5,
-      "path": "hockey/nhl",
-      "event": "401892664",
-      "date": "20261107"
-     }
-    ],
-    "sport": "NHL"
-   }
-  },
-  {
-   "n": 683,
-   "league": "NHL",
-   "type": "Player Prop",
-   "matchup": "New York Rangers @ Seattle Kraken",
-   "pick": "Mika Zibanejad Under 0.5 Points",
-   "odds": 165,
-   "units": 1.0,
-   "gap": null,
-   "start": "2026-11-07T14:10:00",
-   "timed": true,
-   "espn": {
-    "legs": [
-     {
-      "kind": "team_total",
-      "side": "Mika Zibanejad",
-      "ou": "U",
-      "line": 0.5,
-      "path": "hockey/nhl",
-      "event": "401892664",
-      "date": "20261107"
-     }
-    ],
-    "sport": "NHL"
-   }
-  },
-  {
-   "n": 684,
-   "league": "NHL",
-   "type": "Over/Under",
-   "matchup": "New York Rangers @ Seattle Kraken",
-   "pick": "1st period total Over 1.5 goals (both teams; not Rangers team total, not full game)",
-   "odds": -130,
-   "units": 1.0,
-   "gap": null,
-   "start": "2026-11-07T14:10:00",
-   "timed": true,
-   "espn": {
-    "legs": [
-     {
-      "kind": "total",
-      "side": "1st period total",
-      "ou": "O",
-      "line": 1.5,
-      "path": "hockey/nhl",
-      "event": "401892664",
-      "date": "20261107"
-     }
-    ],
-    "sport": "NHL"
-   }
-  },
   {
    "n": 672,
    "league": "Tennis",
@@ -619,6 +541,84 @@
    }
   },
   {
+   "n": 682,
+   "league": "NHL",
+   "type": "Player Prop",
+   "matchup": "New York Rangers @ Seattle Kraken",
+   "pick": "Gabe Perreault Over 0.5 Assists",
+   "odds": 240,
+   "units": 0.5,
+   "gap": null,
+   "start": "2026-11-07T14:10:00",
+   "timed": true,
+   "espn": {
+    "legs": [
+     {
+      "kind": "team_total",
+      "side": "Gabe Perreault",
+      "ou": "O",
+      "line": 0.5,
+      "path": "hockey/nhl",
+      "event": "401892664",
+      "date": "20261107"
+     }
+    ],
+    "sport": "NHL"
+   }
+  },
+  {
+   "n": 683,
+   "league": "NHL",
+   "type": "Player Prop",
+   "matchup": "New York Rangers @ Seattle Kraken",
+   "pick": "Mika Zibanejad Under 0.5 Points",
+   "odds": 165,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-07T14:10:00",
+   "timed": true,
+   "espn": {
+    "legs": [
+     {
+      "kind": "team_total",
+      "side": "Mika Zibanejad",
+      "ou": "U",
+      "line": 0.5,
+      "path": "hockey/nhl",
+      "event": "401892664",
+      "date": "20261107"
+     }
+    ],
+    "sport": "NHL"
+   }
+  },
+  {
+   "n": 684,
+   "league": "NHL",
+   "type": "Over/Under",
+   "matchup": "New York Rangers @ Seattle Kraken",
+   "pick": "1st period total Over 1.5 goals (both teams; not Rangers team total, not full game)",
+   "odds": -130,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-07T14:10:00",
+   "timed": true,
+   "espn": {
+    "legs": [
+     {
+      "kind": "total",
+      "side": "1st period total",
+      "ou": "O",
+      "line": 1.5,
+      "path": "hockey/nhl",
+      "event": "401892664",
+      "date": "20261107"
+     }
+    ],
+    "sport": "NHL"
+   }
+  },
+  {
    "n": 685,
    "league": "NCAAF",
    "type": "Team Total",
@@ -638,6 +638,30 @@
       "line": 19.5,
       "path": "football/college-football",
       "event": "401858514",
+      "date": "20261107"
+     }
+    ],
+    "sport": "NCAAF"
+   }
+  },
+  {
+   "n": 688,
+   "league": "NCAAF",
+   "type": "Moneyline",
+   "matchup": "UL Monroe Warhawks @ Arkansas State Red Wolves",
+   "pick": "UL Monroe Warhawks ML LIVE",
+   "odds": -123,
+   "units": 3.0,
+   "gap": null,
+   "start": "2026-11-07T12:02:00",
+   "timed": true,
+   "espn": {
+    "legs": [
+     {
+      "kind": "ml",
+      "side": "UL Monroe Warhawks",
+      "path": "football/college-football",
+      "event": "401869936",
       "date": "20261107"
      }
     ],
