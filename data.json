@@ -1,18 +1,44 @@
 {
- "updated": "Nov 7, 2026, 3:31 PM PT",
+ "updated": "Nov 7, 2026, 3:33 PM PT",
  "record": {
-  "w": 102,
-  "l": 114,
+  "w": 103,
+  "l": 115,
   "p": 0,
-  "n": 216,
-  "units": 17.99,
-  "risked": 321.5,
-  "roi": 5.6,
+  "n": 218,
+  "units": 18.93,
+  "risked": 326.0,
+  "roi": 5.81,
   "first": "2026-10-12",
-  "last": "2026-11-06"
+  "last": "2026-11-07"
  },
- "pending": 22,
+ "pending": 20,
  "latest": [
+  {
+   "n": 688,
+   "date": "2026-11-07",
+   "day": "2026-11-07",
+   "league": "NCAAF",
+   "type": "Moneyline",
+   "matchup": "UL Monroe Warhawks @ Arkansas State Red Wolves",
+   "pick": "UL Monroe Warhawks ML LIVE",
+   "odds": -123,
+   "units": 3.0,
+   "result": "W",
+   "pl": 2.44
+  },
+  {
+   "n": 685,
+   "date": "2026-11-07",
+   "day": "2026-11-07",
+   "league": "NCAAF",
+   "type": "Team Total",
+   "matchup": "Oregon Ducks @ Ohio State Buckeyes",
+   "pick": "Oregon Ducks team total Under 19.5 (full game) LIVE",
+   "odds": -115,
+   "units": 1.5,
+   "result": "L",
+   "pl": -1.5
+  },
   {
    "n": 671,
    "date": "2026-11-06",
@@ -90,32 +116,6 @@
    "units": 1.5,
    "result": "W",
    "pl": 1.02
-  },
-  {
-   "n": 663,
-   "date": "2026-11-05",
-   "day": "2026-11-05",
-   "league": "NFL",
-   "type": "Player prop",
-   "matchup": "Jacksonville Jaguars @ Baltimore Ravens",
-   "pick": "Josh Hines-Allen Over 0.5 sacks",
-   "odds": 125,
-   "units": 1.0,
-   "result": "L",
-   "pl": -1.0
-  },
-  {
-   "n": 662,
-   "date": "2026-11-05",
-   "day": "2026-11-05",
-   "league": "NFL",
-   "type": "Player prop",
-   "matchup": "Jacksonville Jaguars @ Baltimore Ravens",
-   "pick": "Travon Walker Over 0.5 sacks",
-   "odds": 150,
-   "units": 1.0,
-   "result": "L",
-   "pl": -1.0
   }
  ],
  "picks": [
@@ -619,56 +619,6 @@
    }
   },
   {
-   "n": 685,
-   "league": "NCAAF",
-   "type": "Team Total",
-   "matchup": "Oregon Ducks @ Ohio State Buckeyes",
-   "pick": "Oregon Ducks team total Under 19.5 (full game) LIVE",
-   "odds": -115,
-   "units": 1.5,
-   "gap": null,
-   "start": "2026-11-07T12:30:00",
-   "timed": true,
-   "espn": {
-    "legs": [
-     {
-      "kind": "total",
-      "side": "Oregon Ducks team total",
-      "ou": "U",
-      "line": 19.5,
-      "path": "football/college-football",
-      "event": "401858514",
-      "date": "20261107"
-     }
-    ],
-    "sport": "NCAAF"
-   }
-  },
-  {
-   "n": 688,
-   "league": "NCAAF",
-   "type": "Moneyline",
-   "matchup": "UL Monroe Warhawks @ Arkansas State Red Wolves",
-   "pick": "UL Monroe Warhawks ML LIVE",
-   "odds": -123,
-   "units": 3.0,
-   "gap": null,
-   "start": "2026-11-07T12:02:00",
-   "timed": true,
-   "espn": {
-    "legs": [
-     {
-      "kind": "ml",
-      "side": "UL Monroe Warhawks",
-      "path": "football/college-football",
-      "event": "401869936",
-      "date": "20261107"
-     }
-    ],
-    "sport": "NCAAF"
-   }
-  },
-  {
    "n": 689,
    "league": "NCAAF",
    "type": "Spread",
@@ -794,6 +744,10 @@
   "2026-11-06": {
    "u": -0.55,
    "n": 6
+  },
+  "2026-11-07": {
+   "u": 0.94,
+   "n": 2
   }
  }
 }
