@@ -1,18 +1,31 @@
 {
- "updated": "Nov 8, 2026, 10:14 AM PT",
+ "updated": "Nov 8, 2026, 12:31 PM PT",
  "record": {
-  "w": 110,
+  "w": 111,
   "l": 122,
   "p": 0,
-  "n": 232,
-  "units": 21.75,
-  "risked": 347.25,
-  "roi": 6.26,
+  "n": 233,
+  "units": 24.25,
+  "risked": 349.75,
+  "roi": 6.93,
   "first": "2026-10-12",
-  "last": "2026-11-07"
+  "last": "2026-11-08"
  },
- "pending": 22,
+ "pending": 21,
  "latest": [
+  {
+   "n": 706,
+   "date": "2026-11-08",
+   "day": "2026-11-08",
+   "league": "NFL",
+   "type": "Player prop",
+   "matchup": "Denver Broncos @ Carolina Panthers",
+   "pick": "Jonah Coleman anytime TD LIVE",
+   "odds": 100,
+   "units": 2.5,
+   "result": "W",
+   "pl": 2.5
+  },
   {
    "n": 692,
    "date": "2026-11-07",
@@ -103,19 +116,6 @@
    "units": 1.0,
    "result": "W",
    "pl": 0.77
-  },
-  {
-   "n": 683,
-   "date": "2026-11-07",
-   "day": "2026-11-07",
-   "league": "NHL",
-   "type": "Player Prop",
-   "matchup": "New York Rangers @ Seattle Kraken",
-   "pick": "Mika Zibanejad Under 0.5 Points",
-   "odds": 165,
-   "units": 1.0,
-   "result": "L",
-   "pl": -1.0
   }
  ],
  "picks": [
@@ -182,31 +182,6 @@
     "total": 31.5,
     "ret": 107.33,
     "profit": 75.83
-   }
-  },
-  {
-   "n": 702,
-   "league": "NCAAB",
-   "type": "Spread",
-   "matchup": "Butler Bulldogs @ Boise State Broncos",
-   "pick": "Boise State Broncos -2.5",
-   "odds": -110,
-   "units": 0.5,
-   "gap": null,
-   "start": "2026-11-08T11:00:00",
-   "timed": true,
-   "espn": {
-    "legs": [
-     {
-      "kind": "spread",
-      "side": "Boise State Broncos",
-      "line": -2.5,
-      "path": "basketball/mens-college-basketball",
-      "event": "401902277",
-      "date": "20261108"
-     }
-    ],
-    "sport": "NCAAB"
    }
   },
   {
@@ -305,7 +280,7 @@
       "ou": "U",
       "line": 152.5,
       "path": "basketball/mens-college-basketball",
-      "event": "401921820",
+      "event": "401902277",
       "date": "20261108"
      }
     ],
@@ -699,26 +674,28 @@
    }
   },
   {
-   "n": 706,
-   "league": "NFL",
-   "type": "Player prop",
-   "matchup": "Denver Broncos @ Carolina Panthers",
-   "pick": "Jonah Coleman anytime TD LIVE",
-   "odds": 100,
-   "units": 2.5,
+   "n": 702,
+   "league": "NCAAB",
+   "type": "Spread",
+   "matchup": "Butler Bulldogs @ Boise State Broncos",
+   "pick": "Boise State Broncos -2.5",
+   "odds": -110,
+   "units": 0.5,
    "gap": null,
-   "start": "2026-11-08T10:00:00",
+   "start": "2026-11-08T11:00:00",
    "timed": true,
    "espn": {
     "legs": [
      {
-      "kind": "unknown",
-      "path": "football/nfl",
-      "event": "401873041",
+      "kind": "spread",
+      "side": "Boise State Broncos",
+      "line": -2.5,
+      "path": "basketball/mens-college-basketball",
+      "event": "401902277",
       "date": "20261108"
      }
     ],
-    "sport": "NFL"
+    "sport": "NCAAB"
    }
   }
  ],
@@ -826,6 +803,10 @@
   "2026-11-07": {
    "u": 3.76,
    "n": 16
+  },
+  "2026-11-08": {
+   "u": 2.5,
+   "n": 1
   }
  }
 }
