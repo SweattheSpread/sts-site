@@ -1,5 +1,5 @@
 {
- "updated": "Nov 8, 2026, 8:27 AM PT",
+ "updated": "Nov 8, 2026, 8:32 AM PT",
  "record": {
   "w": 110,
   "l": 122,
@@ -11,7 +11,7 @@
   "first": "2026-10-12",
   "last": "2026-11-07"
  },
- "pending": 14,
+ "pending": 15,
  "latest": [
   {
    "n": 692,
@@ -321,6 +321,71 @@
      }
     ],
     "sport": "NHL"
+   }
+  },
+  {
+   "n": 699,
+   "league": "NFL",
+   "type": "Round Robin",
+   "matchup": null,
+   "pick": "6-leg Anytime TD round robin",
+   "odds": null,
+   "units": 31.5,
+   "gap": null,
+   "start": "2026-11-08T10:00:00",
+   "timed": true,
+   "rr": {
+    "legs": [
+     {
+      "player": "Kenneth Walker III",
+      "game": "NYJ@KC",
+      "odds": -233,
+      "start": "2026-11-08T10:00:00"
+     },
+     {
+      "player": "Jahmyr Gibbs",
+      "game": "DET@MIA",
+      "odds": -385,
+      "start": "2026-11-08T10:00:00"
+     },
+     {
+      "player": "D'Andre Swift",
+      "game": "TB@CHI",
+      "odds": -189,
+      "start": "2026-11-08T17:20:00"
+     },
+     {
+      "player": "Christian McCaffrey",
+      "game": "LV@SF",
+      "odds": -256,
+      "start": "2026-11-08T13:25:00"
+     },
+     {
+      "player": "Javonte Williams",
+      "game": "DAL@IND",
+      "odds": -217,
+      "start": "2026-11-08T10:00:00"
+     },
+     {
+      "player": "Kyren Williams",
+      "game": "LAR@WAS",
+      "odds": -156,
+      "start": "2026-11-08T10:00:00"
+     }
+    ],
+    "combos": 63,
+    "by_size": {
+     "1": 6,
+     "2": 15,
+     "3": 20,
+     "4": 15,
+     "5": 6,
+     "6": 1
+    },
+    "each": 0.5,
+    "total": 31.5,
+    "ret": 107.33,
+    "profit": 75.83
    }
   },
   {

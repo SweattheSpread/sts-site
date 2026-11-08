@@ -36,9 +36,15 @@ document.querySelectorAll('.scramble').forEach(el => io.observe(el));
 
 /* ---------- live data (data.json written by build_data.py) ---------- */
 const esc = v => String(v ?? '').replace(/[&<>"]/g, c => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' }[c]));
-const odds = o => (o > 0 ? '+' : '') + o, uu = u => u.toFixed(2) + 'u', sg = u => (u > 0 ? '+' : u < 0 ? '−' : '') + Math.abs(u).toFixed(2) + 'u';
+const odds = o => o == null ? '—' : (o > 0 ? '+' : '') + o, uu = u => u.toFixed(2) + 'u', sg = u => (u > 0 ? '+' : u < 0 ? '−' : '') + Math.abs(u).toFixed(2) + 'u';
 const when = iso => { if (!iso) return ''; const d = new Date(iso); return d.toLocaleString('en-US', { weekday: 'short', month: 'numeric', day: 'numeric', hour: 'numeric', minute: '2-digit' }) + ' PT'; };
+function rrCard(c) {
+  const r = c.rr, legs = r.legs.map(l => `<li><span>${esc(l.player)}</span><span class="g">${esc(l.game)}</span><span class="scramble">${odds(l.odds)}</span></li>`).join('');
+  const sizes = Object.entries(r.by_size).map(([k, v]) => `${v}×${k === '1' ? 'single' : k + '-leg'}`).join(', ');
+  return `<article class="card rr" data-n="${c.n}"><header><span class="lg">${esc(c.league)}</span><span class="mk">Round robin · Anytime TD</span></header><h4>${esc(c.pick)}</h4><p class="m">All ${r.combos} combinations (${sizes}) · first game ${when(c.start)}</p><ul class="rr-legs">${legs}</ul><dl><div><dt>Each</dt><dd class="scramble">${uu(r.each)}</dd></div><div><dt>Total</dt><dd class="scramble">${uu(r.total)}</dd></div><div><dt>Max return</dt><dd class="scramble">${uu(r.ret)}</dd></div><div><dt>Max profit</dt><dd class="scramble">+${uu(r.profit)}</dd></div></dl><p class="m rr-note">Partial wins possible: each combination settles on its own. Settled manually.</p></article>`;
+}
 function card(c) {
+  if (c.rr) return rrCard(c);
   const gap = c.gap != null ? `<div><dt>Gap</dt><dd class="scramble lime">${c.gap} pts</dd></div>` : '';
   return `<article class="card${c.gap != null ? ' gap' : ''}${c.espn ? ' has-live' : ''}" data-n="${c.n}"${c.espn ? ' tabindex="0" role="button" aria-expanded="false"' : ''}><header><span class="lg">${esc(c.league)}</span><span class="mk">${esc(c.type)}${c.gap != null ? ' · Gap play' : ''}</span></header><h4>${esc(c.pick)}</h4><p class="m">${esc(c.matchup)} · ${when(c.start)}</p><dl><div><dt>Odds</dt><dd class="scramble">${odds(c.odds)}</dd></div><div><dt>Stake</dt><dd class="scramble">${uu(c.units)}</dd></div>${gap}</dl></article>`;
 }
