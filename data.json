@@ -1,5 +1,5 @@
 {
- "updated": "Nov 8, 2026, 12:01 AM PT",
+ "updated": "Nov 8, 2026, 3:23 AM PT",
  "record": {
   "w": 110,
   "l": 122,
@@ -11,7 +11,7 @@
   "first": "2026-10-12",
   "last": "2026-11-07"
  },
- "pending": 10,
+ "pending": 12,
  "latest": [
   {
    "n": 692,
@@ -137,6 +137,32 @@
       "side": "Dohnte Meyers longest reception",
       "ou": "O",
       "line": 10.5,
+      "path": "football/nfl",
+      "event": "401873038",
+      "date": "20261108"
+     }
+    ],
+    "sport": "NFL"
+   }
+  },
+  {
+   "n": 693,
+   "league": "NFL",
+   "type": "Player prop",
+   "matchup": "Cincinnati Bengals @ Atlanta Falcons",
+   "pick": "Jahan Dotson longest reception Over 17.5",
+   "odds": -120,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-08T06:30:00",
+   "timed": true,
+   "espn": {
+    "legs": [
+     {
+      "kind": "team_total",
+      "side": "Jahan Dotson longest reception",
+      "ou": "O",
+      "line": 17.5,
       "path": "football/nfl",
       "event": "401873038",
       "date": "20261108"
@@ -294,6 +320,32 @@
       "line": 48.5,
       "path": "football/nfl",
       "event": "401873043",
+      "date": "20261108"
+     }
+    ],
+    "sport": "NFL"
+   }
+  },
+  {
+   "n": 694,
+   "league": "NFL",
+   "type": "Player prop",
+   "matchup": "Detroit Lions @ Miami Dolphins",
+   "pick": "Jameson Williams longest reception Over 22.5",
+   "odds": -115,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-08T10:00:00",
+   "timed": true,
+   "espn": {
+    "legs": [
+     {
+      "kind": "team_total",
+      "side": "Jameson Williams longest reception",
+      "ou": "O",
+      "line": 22.5,
+      "path": "football/nfl",
+      "event": "401873042",
       "date": "20261108"
      }
     ],
