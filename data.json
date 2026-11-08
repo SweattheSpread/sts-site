@@ -1,5 +1,5 @@
 {
- "updated": "Nov 8, 2026, 3:23 AM PT",
+ "updated": "Nov 8, 2026, 6:42 AM PT",
  "record": {
   "w": 110,
   "l": 122,
@@ -119,58 +119,6 @@
   }
  ],
  "picks": [
-  {
-   "n": 652,
-   "league": "NFL",
-   "type": "Player prop",
-   "matchup": "Cincinnati Bengals @ Atlanta Falcons",
-   "pick": "Dohnte Meyers longest reception Over 10.5",
-   "odds": -125,
-   "units": 1.0,
-   "gap": null,
-   "start": "2026-11-08T06:30:00",
-   "timed": true,
-   "espn": {
-    "legs": [
-     {
-      "kind": "team_total",
-      "side": "Dohnte Meyers longest reception",
-      "ou": "O",
-      "line": 10.5,
-      "path": "football/nfl",
-      "event": "401873038",
-      "date": "20261108"
-     }
-    ],
-    "sport": "NFL"
-   }
-  },
-  {
-   "n": 693,
-   "league": "NFL",
-   "type": "Player prop",
-   "matchup": "Cincinnati Bengals @ Atlanta Falcons",
-   "pick": "Jahan Dotson longest reception Over 17.5",
-   "odds": -120,
-   "units": 1.0,
-   "gap": null,
-   "start": "2026-11-08T06:30:00",
-   "timed": true,
-   "espn": {
-    "legs": [
-     {
-      "kind": "team_total",
-      "side": "Jahan Dotson longest reception",
-      "ou": "O",
-      "line": 17.5,
-      "path": "football/nfl",
-      "event": "401873038",
-      "date": "20261108"
-     }
-    ],
-    "sport": "NFL"
-   }
-  },
   {
    "n": 635,
    "league": "NFL",
@@ -429,7 +377,60 @@
    }
   }
  ],
- "awaiting": [],
+ "awaiting": [
+  {
+   "n": 652,
+   "league": "NFL",
+   "type": "Player prop",
+   "matchup": "Cincinnati Bengals @ Atlanta Falcons",
+   "pick": "Dohnte Meyers longest reception Over 10.5",
+   "odds": -125,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-08T06:30:00",
+   "timed": true,
+   "espn": {
+    "legs": [
+     {
+      "kind": "team_total",
+      "side": "Dohnte Meyers longest reception",
+      "ou": "O",
+      "line": 10.5,
+      "path": "football/nfl",
+      "event": "401873038",
+      "date": "20261108"
+     }
+    ],
+    "sport": "NFL"
+   }
+  },
+  {
+   "n": 693,
+   "league": "NFL",
+   "type": "Player prop",
+   "matchup": "Cincinnati Bengals @ Atlanta Falcons",
+   "pick": "Jahan Dotson longest reception Over 17.5",
+   "odds": -120,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-08T06:30:00",
+   "timed": true,
+   "espn": {
+    "legs": [
+     {
+      "kind": "team_total",
+      "side": "Jahan Dotson longest reception",
+      "ou": "O",
+      "line": 17.5,
+      "path": "football/nfl",
+      "event": "401873038",
+      "date": "20261108"
+     }
+    ],
+    "sport": "NFL"
+   }
+  }
+ ],
  "daily": {
   "2026-10-12": {
    "u": 5.67,
