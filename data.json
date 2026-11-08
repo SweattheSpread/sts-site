@@ -1,5 +1,5 @@
 {
- "updated": "Nov 8, 2026, 1:37 PM PT",
+ "updated": "Nov 8, 2026, 2:04 PM PT",
  "record": {
   "w": 111,
   "l": 122,
@@ -11,7 +11,7 @@
   "first": "2026-10-12",
   "last": "2026-11-08"
  },
- "pending": 22,
+ "pending": 23,
  "latest": [
   {
    "n": 706,
@@ -182,32 +182,6 @@
     "total": 31.5,
     "ret": 107.33,
     "profit": 75.83
-   }
-  },
-  {
-   "n": 703,
-   "league": "NCAAB",
-   "type": "Over/Under",
-   "matchup": "Richmond Spiders @ Temple Owls",
-   "pick": "Under 152.5 total points",
-   "odds": -110,
-   "units": 0.5,
-   "gap": null,
-   "start": "2026-11-08T14:00:00",
-   "timed": true,
-   "espn": {
-    "legs": [
-     {
-      "kind": "total",
-      "side": null,
-      "ou": "U",
-      "line": 152.5,
-      "path": "basketball/mens-college-basketball",
-      "event": "401911238",
-      "date": "20261108"
-     }
-    ],
-    "sport": "NCAAB"
    }
   },
   {
@@ -722,6 +696,58 @@
      }
     ],
     "sport": "NCAAB"
+   }
+  },
+  {
+   "n": 703,
+   "league": "NCAAB",
+   "type": "Over/Under",
+   "matchup": "Richmond Spiders @ Temple Owls",
+   "pick": "Under 152.5 total points",
+   "odds": -110,
+   "units": 0.5,
+   "gap": null,
+   "start": "2026-11-08T14:00:00",
+   "timed": true,
+   "espn": {
+    "legs": [
+     {
+      "kind": "total",
+      "side": null,
+      "ou": "U",
+      "line": 152.5,
+      "path": "basketball/mens-college-basketball",
+      "event": "401911238",
+      "date": "20261108"
+     }
+    ],
+    "sport": "NCAAB"
+   }
+  },
+  {
+   "n": 708,
+   "league": "NFL",
+   "type": "Team Total",
+   "matchup": "Green Bay Packers @ New England Patriots",
+   "pick": "Green Bay Packers team total Over 33.5 points (full game; GB needs 34+ final points) LIVE",
+   "odds": -115,
+   "units": 2.5,
+   "gap": null,
+   "start": "2026-11-08T13:25:00",
+   "timed": true,
+   "espn": {
+    "legs": [
+     {
+      "kind": "total",
+      "side": "Green Bay Packers team total",
+      "ou": "O",
+      "line": 33.5,
+      "path": "football/nfl",
+      "event": "401873049",
+      "date": "20261108"
+     }
+    ],
+    "sport": "NFL"
    }
   }
  ],
