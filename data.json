@@ -1,5 +1,5 @@
 {
- "updated": "Nov 8, 2026, 12:33 PM PT",
+ "updated": "Nov 8, 2026, 1:36 PM PT",
  "record": {
   "w": 111,
   "l": 122,
@@ -11,7 +11,7 @@
   "first": "2026-10-12",
   "last": "2026-11-08"
  },
- "pending": 21,
+ "pending": 22,
  "latest": [
   {
    "n": 706,
@@ -185,57 +185,6 @@
    }
   },
   {
-   "n": 674,
-   "league": "NFL",
-   "type": "Player prop",
-   "matchup": "Houston Texans @ Los Angeles Chargers",
-   "pick": "Kayshon Boutte longest reception Over 12.5",
-   "odds": -115,
-   "units": 1.0,
-   "gap": null,
-   "start": "2026-11-08T13:05:00",
-   "timed": true,
-   "espn": {
-    "legs": [
-     {
-      "kind": "team_total",
-      "side": "Kayshon Boutte longest reception",
-      "ou": "O",
-      "line": 12.5,
-      "path": "football/nfl",
-      "event": "401873046",
-      "date": "20261108"
-     }
-    ],
-    "sport": "NFL"
-   }
-  },
-  {
-   "n": 636,
-   "league": "NFL",
-   "type": "Spread",
-   "matchup": "Green Bay Packers @ New England Patriots",
-   "pick": "Green Bay Packers +3",
-   "odds": -105,
-   "units": 1.0,
-   "gap": null,
-   "start": "2026-11-08T13:25:00",
-   "timed": true,
-   "espn": {
-    "legs": [
-     {
-      "kind": "spread",
-      "side": "Green Bay Packers",
-      "line": 3.0,
-      "path": "football/nfl",
-      "event": "401873049",
-      "date": "20261108"
-     }
-    ],
-    "sport": "NFL"
-   }
-  },
-  {
    "n": 703,
    "league": "NCAAB",
    "type": "Over/Under",
@@ -280,11 +229,37 @@
       "ou": "U",
       "line": 152.5,
       "path": "basketball/mens-college-basketball",
-      "event": "401902277",
+      "event": "401911335",
       "date": "20261108"
      }
     ],
     "sport": "NCAAB"
+   }
+  },
+  {
+   "n": 707,
+   "league": "NHL",
+   "type": "Player Prop",
+   "matchup": "Tampa Bay Lightning @ Winnipeg Jets",
+   "pick": "Kyle Connor Over 0.5 assists",
+   "odds": -120,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-08T15:00:00",
+   "timed": true,
+   "espn": {
+    "legs": [
+     {
+      "kind": "team_total",
+      "side": "Kyle Connor",
+      "ou": "O",
+      "line": 0.5,
+      "path": "hockey/nhl",
+      "event": "401892677",
+      "date": "20261108"
+     }
+    ],
+    "sport": "NHL"
    }
   },
   {
@@ -360,6 +335,31 @@
       "line": 12.5,
       "path": "football/nfl",
       "event": "401873041",
+      "date": "20261108"
+     }
+    ],
+    "sport": "NFL"
+   }
+  },
+  {
+   "n": 636,
+   "league": "NFL",
+   "type": "Spread",
+   "matchup": "Green Bay Packers @ New England Patriots",
+   "pick": "Green Bay Packers +3",
+   "odds": -105,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-08T13:25:00",
+   "timed": true,
+   "espn": {
+    "legs": [
+     {
+      "kind": "spread",
+      "side": "Green Bay Packers",
+      "line": 3.0,
+      "path": "football/nfl",
+      "event": "401873049",
       "date": "20261108"
      }
     ],
@@ -515,6 +515,32 @@
       "line": 48.5,
       "path": "football/nfl",
       "event": "401873043",
+      "date": "20261108"
+     }
+    ],
+    "sport": "NFL"
+   }
+  },
+  {
+   "n": 674,
+   "league": "NFL",
+   "type": "Player prop",
+   "matchup": "Houston Texans @ Los Angeles Chargers",
+   "pick": "Kayshon Boutte longest reception Over 12.5",
+   "odds": -115,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-08T13:05:00",
+   "timed": true,
+   "espn": {
+    "legs": [
+     {
+      "kind": "team_total",
+      "side": "Kayshon Boutte longest reception",
+      "ou": "O",
+      "line": 12.5,
+      "path": "football/nfl",
+      "event": "401873046",
       "date": "20261108"
      }
     ],
