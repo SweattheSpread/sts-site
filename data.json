@@ -1,5 +1,5 @@
 {
- "updated": "Nov 8, 2026, 8:41 AM PT",
+ "updated": "Nov 8, 2026, 8:53 AM PT",
  "record": {
   "w": 110,
   "l": 122,
@@ -11,7 +11,7 @@
   "first": "2026-10-12",
   "last": "2026-11-07"
  },
- "pending": 15,
+ "pending": 16,
  "latest": [
   {
    "n": 692,
@@ -119,6 +119,31 @@
   }
  ],
  "picks": [
+  {
+   "n": 700,
+   "league": "NCAAB",
+   "type": "Spread",
+   "matchup": "Iona Gaels @ St. John's Red Storm",
+   "pick": "Iona Gaels +27",
+   "odds": -110,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-08T09:00:00",
+   "timed": true,
+   "espn": {
+    "legs": [
+     {
+      "kind": "spread",
+      "side": "Iona Gaels",
+      "line": 27.0,
+      "path": "basketball/mens-college-basketball",
+      "event": "401924646",
+      "date": "20261108"
+     }
+    ],
+    "sport": "NCAAB"
+   }
+  },
   {
    "n": 635,
    "league": "NFL",
