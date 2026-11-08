@@ -1,5 +1,5 @@
 {
- "updated": "Nov 8, 2026, 8:15 AM PT",
+ "updated": "Nov 8, 2026, 8:17 AM PT",
  "record": {
   "w": 110,
   "l": 122,
@@ -11,7 +11,7 @@
   "first": "2026-10-12",
   "last": "2026-11-07"
  },
- "pending": 13,
+ "pending": 14,
  "latest": [
   {
    "n": 692,
@@ -298,6 +298,29 @@
      }
     ],
     "sport": "NFL"
+   }
+  },
+  {
+   "n": 698,
+   "league": "NHL",
+   "type": "Moneyline",
+   "matchup": "Florida Panthers @ Boston Bruins",
+   "pick": "Boston Bruins to win in REGULATION (60-minute 3-way result; tie after regulation LOSES; not OT-inclusive ML, not draw-no-bet); NHL game 2026020277",
+   "odds": -105,
+   "units": 1.5,
+   "gap": null,
+   "start": "2026-11-08T10:00:00",
+   "timed": true,
+   "espn": {
+    "legs": [
+     {
+      "kind": "unknown",
+      "path": "hockey/nhl",
+      "event": "401892674",
+      "date": "20261108"
+     }
+    ],
+    "sport": "NHL"
    }
   },
   {
