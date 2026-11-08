@@ -1,5 +1,5 @@
 {
- "updated": "Nov 8, 2026, 9:56 AM PT",
+ "updated": "Nov 8, 2026, 10:13 AM PT",
  "record": {
   "w": 110,
   "l": 122,
@@ -11,7 +11,7 @@
   "first": "2026-10-12",
   "last": "2026-11-07"
  },
- "pending": 21,
+ "pending": 22,
  "latest": [
   {
    "n": 692,
@@ -120,210 +120,6 @@
  ],
  "picks": [
   {
-   "n": 635,
-   "league": "NFL",
-   "type": "Player prop",
-   "matchup": "Denver Broncos @ Carolina Panthers",
-   "pick": "Darren Waller longest reception Over 12.5",
-   "odds": -115,
-   "units": 1.0,
-   "gap": null,
-   "start": "2026-11-08T10:00:00",
-   "timed": true,
-   "espn": {
-    "legs": [
-     {
-      "kind": "team_total",
-      "side": "Darren Waller longest reception",
-      "ou": "O",
-      "line": 12.5,
-      "path": "football/nfl",
-      "event": "401873041",
-      "date": "20261108"
-     }
-    ],
-    "sport": "NFL"
-   }
-  },
-  {
-   "n": 639,
-   "league": "NFL",
-   "type": "Spread",
-   "matchup": "New York Jets @ Kansas City Chiefs",
-   "pick": "Kansas City Chiefs -9.5",
-   "odds": -108,
-   "units": 1.0,
-   "gap": null,
-   "start": "2026-11-08T10:00:00",
-   "timed": true,
-   "espn": {
-    "legs": [
-     {
-      "kind": "spread",
-      "side": "Kansas City Chiefs",
-      "line": -9.5,
-      "path": "football/nfl",
-      "event": "401873045",
-      "date": "20261108"
-     }
-    ],
-    "sport": "NFL"
-   }
-  },
-  {
-   "n": 653,
-   "league": "NFL",
-   "type": "Player prop",
-   "matchup": "Denver Broncos @ Carolina Panthers",
-   "pick": "Troy Franklin longest reception Over 8.5",
-   "odds": -115,
-   "units": 1.0,
-   "gap": null,
-   "start": "2026-11-08T10:00:00",
-   "timed": true,
-   "espn": {
-    "legs": [
-     {
-      "kind": "team_total",
-      "side": "Troy Franklin longest reception",
-      "ou": "O",
-      "line": 8.5,
-      "path": "football/nfl",
-      "event": "401873041",
-      "date": "20261108"
-     }
-    ],
-    "sport": "NFL"
-   }
-  },
-  {
-   "n": 654,
-   "league": "NFL",
-   "type": "Player prop",
-   "matchup": "Denver Broncos @ Carolina Panthers",
-   "pick": "Marvin Mims Jr. longest reception Over 9.5",
-   "odds": -125,
-   "units": 1.0,
-   "gap": null,
-   "start": "2026-11-08T10:00:00",
-   "timed": true,
-   "espn": {
-    "legs": [
-     {
-      "kind": "team_total",
-      "side": "Marvin Mims Jr. longest reception",
-      "ou": "O",
-      "line": 9.5,
-      "path": "football/nfl",
-      "event": "401873041",
-      "date": "20261108"
-     }
-    ],
-    "sport": "NFL"
-   }
-  },
-  {
-   "n": 665,
-   "league": "NFL",
-   "type": "Player prop",
-   "matchup": "New York Jets @ Kansas City Chiefs",
-   "pick": "Emmett Johnson longest reception Over 9.5",
-   "odds": -111,
-   "units": 1.5,
-   "gap": null,
-   "start": "2026-11-08T10:00:00",
-   "timed": true,
-   "espn": {
-    "legs": [
-     {
-      "kind": "team_total",
-      "side": "Emmett Johnson longest reception",
-      "ou": "O",
-      "line": 9.5,
-      "path": "football/nfl",
-      "event": "401873045",
-      "date": "20261108"
-     }
-    ],
-    "sport": "NFL"
-   }
-  },
-  {
-   "n": 669,
-   "league": "NFL",
-   "type": "Over/Under",
-   "matchup": "Los Angeles Rams @ Washington Commanders",
-   "pick": "Over 48.5 total points",
-   "odds": -108,
-   "units": 1.0,
-   "gap": null,
-   "start": "2026-11-08T10:00:00",
-   "timed": true,
-   "espn": {
-    "legs": [
-     {
-      "kind": "total",
-      "side": null,
-      "ou": "O",
-      "line": 48.5,
-      "path": "football/nfl",
-      "event": "401873043",
-      "date": "20261108"
-     }
-    ],
-    "sport": "NFL"
-   }
-  },
-  {
-   "n": 694,
-   "league": "NFL",
-   "type": "Player prop",
-   "matchup": "Detroit Lions @ Miami Dolphins",
-   "pick": "Jameson Williams longest reception Over 22.5",
-   "odds": -115,
-   "units": 1.0,
-   "gap": null,
-   "start": "2026-11-08T10:00:00",
-   "timed": true,
-   "espn": {
-    "legs": [
-     {
-      "kind": "team_total",
-      "side": "Jameson Williams longest reception",
-      "ou": "O",
-      "line": 22.5,
-      "path": "football/nfl",
-      "event": "401873042",
-      "date": "20261108"
-     }
-    ],
-    "sport": "NFL"
-   }
-  },
-  {
-   "n": 698,
-   "league": "NHL",
-   "type": "Moneyline",
-   "matchup": "Florida Panthers @ Boston Bruins",
-   "pick": "Boston Bruins to win in REGULATION (60-minute 3-way result; tie after regulation LOSES; not OT-inclusive ML, not draw-no-bet); NHL game 2026020277",
-   "odds": -105,
-   "units": 1.5,
-   "gap": null,
-   "start": "2026-11-08T10:00:00",
-   "timed": true,
-   "espn": {
-    "legs": [
-     {
-      "kind": "unknown",
-      "path": "hockey/nhl",
-      "event": "401892674",
-      "date": "20261108"
-     }
-    ],
-    "sport": "NHL"
-   }
-  },
-  {
    "n": 699,
    "league": "NFL",
    "type": "Round Robin",
@@ -386,32 +182,6 @@
     "total": 31.5,
     "ret": 107.33,
     "profit": 75.83
-   }
-  },
-  {
-   "n": 701,
-   "league": "NCAAB",
-   "type": "Over/Under",
-   "matchup": "Princeton Tigers @ Siena Saints",
-   "pick": "Under 154.5 total points",
-   "odds": -105,
-   "units": 0.5,
-   "gap": null,
-   "start": "2026-11-08T10:00:00",
-   "timed": true,
-   "espn": {
-    "legs": [
-     {
-      "kind": "total",
-      "side": null,
-      "ou": "U",
-      "line": 154.5,
-      "path": "basketball/mens-college-basketball",
-      "event": "401924734",
-      "date": "20261108"
-     }
-    ],
-    "sport": "NCAAB"
    }
   },
   {
@@ -596,6 +366,57 @@
  ],
  "awaiting": [
   {
+   "n": 635,
+   "league": "NFL",
+   "type": "Player prop",
+   "matchup": "Denver Broncos @ Carolina Panthers",
+   "pick": "Darren Waller longest reception Over 12.5",
+   "odds": -115,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-08T10:00:00",
+   "timed": true,
+   "espn": {
+    "legs": [
+     {
+      "kind": "team_total",
+      "side": "Darren Waller longest reception",
+      "ou": "O",
+      "line": 12.5,
+      "path": "football/nfl",
+      "event": "401873041",
+      "date": "20261108"
+     }
+    ],
+    "sport": "NFL"
+   }
+  },
+  {
+   "n": 639,
+   "league": "NFL",
+   "type": "Spread",
+   "matchup": "New York Jets @ Kansas City Chiefs",
+   "pick": "Kansas City Chiefs -9.5",
+   "odds": -108,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-08T10:00:00",
+   "timed": true,
+   "espn": {
+    "legs": [
+     {
+      "kind": "spread",
+      "side": "Kansas City Chiefs",
+      "line": -9.5,
+      "path": "football/nfl",
+      "event": "401873045",
+      "date": "20261108"
+     }
+    ],
+    "sport": "NFL"
+   }
+  },
+  {
    "n": 652,
    "league": "NFL",
    "type": "Player prop",
@@ -615,6 +436,110 @@
       "line": 10.5,
       "path": "football/nfl",
       "event": "401873038",
+      "date": "20261108"
+     }
+    ],
+    "sport": "NFL"
+   }
+  },
+  {
+   "n": 653,
+   "league": "NFL",
+   "type": "Player prop",
+   "matchup": "Denver Broncos @ Carolina Panthers",
+   "pick": "Troy Franklin longest reception Over 8.5",
+   "odds": -115,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-08T10:00:00",
+   "timed": true,
+   "espn": {
+    "legs": [
+     {
+      "kind": "team_total",
+      "side": "Troy Franklin longest reception",
+      "ou": "O",
+      "line": 8.5,
+      "path": "football/nfl",
+      "event": "401873041",
+      "date": "20261108"
+     }
+    ],
+    "sport": "NFL"
+   }
+  },
+  {
+   "n": 654,
+   "league": "NFL",
+   "type": "Player prop",
+   "matchup": "Denver Broncos @ Carolina Panthers",
+   "pick": "Marvin Mims Jr. longest reception Over 9.5",
+   "odds": -125,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-08T10:00:00",
+   "timed": true,
+   "espn": {
+    "legs": [
+     {
+      "kind": "team_total",
+      "side": "Marvin Mims Jr. longest reception",
+      "ou": "O",
+      "line": 9.5,
+      "path": "football/nfl",
+      "event": "401873041",
+      "date": "20261108"
+     }
+    ],
+    "sport": "NFL"
+   }
+  },
+  {
+   "n": 665,
+   "league": "NFL",
+   "type": "Player prop",
+   "matchup": "New York Jets @ Kansas City Chiefs",
+   "pick": "Emmett Johnson longest reception Over 9.5",
+   "odds": -111,
+   "units": 1.5,
+   "gap": null,
+   "start": "2026-11-08T10:00:00",
+   "timed": true,
+   "espn": {
+    "legs": [
+     {
+      "kind": "team_total",
+      "side": "Emmett Johnson longest reception",
+      "ou": "O",
+      "line": 9.5,
+      "path": "football/nfl",
+      "event": "401873045",
+      "date": "20261108"
+     }
+    ],
+    "sport": "NFL"
+   }
+  },
+  {
+   "n": 669,
+   "league": "NFL",
+   "type": "Over/Under",
+   "matchup": "Los Angeles Rams @ Washington Commanders",
+   "pick": "Over 48.5 total points",
+   "odds": -108,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-08T10:00:00",
+   "timed": true,
+   "espn": {
+    "legs": [
+     {
+      "kind": "total",
+      "side": null,
+      "ou": "O",
+      "line": 48.5,
+      "path": "football/nfl",
+      "event": "401873043",
       "date": "20261108"
      }
     ],
@@ -648,6 +573,32 @@
    }
   },
   {
+   "n": 694,
+   "league": "NFL",
+   "type": "Player prop",
+   "matchup": "Detroit Lions @ Miami Dolphins",
+   "pick": "Jameson Williams longest reception Over 22.5",
+   "odds": -115,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-08T10:00:00",
+   "timed": true,
+   "espn": {
+    "legs": [
+     {
+      "kind": "team_total",
+      "side": "Jameson Williams longest reception",
+      "ou": "O",
+      "line": 22.5,
+      "path": "football/nfl",
+      "event": "401873042",
+      "date": "20261108"
+     }
+    ],
+    "sport": "NFL"
+   }
+  },
+  {
    "n": 697,
    "league": "NFL",
    "type": "Team Total",
@@ -674,6 +625,29 @@
    }
   },
   {
+   "n": 698,
+   "league": "NHL",
+   "type": "Moneyline",
+   "matchup": "Florida Panthers @ Boston Bruins",
+   "pick": "Boston Bruins to win in REGULATION (60-minute 3-way result; tie after regulation LOSES; not OT-inclusive ML, not draw-no-bet); NHL game 2026020277",
+   "odds": -105,
+   "units": 1.5,
+   "gap": null,
+   "start": "2026-11-08T10:00:00",
+   "timed": true,
+   "espn": {
+    "legs": [
+     {
+      "kind": "unknown",
+      "path": "hockey/nhl",
+      "event": "401892674",
+      "date": "20261108"
+     }
+    ],
+    "sport": "NHL"
+   }
+  },
+  {
    "n": 700,
    "league": "NCAAB",
    "type": "Spread",
@@ -696,6 +670,55 @@
      }
     ],
     "sport": "NCAAB"
+   }
+  },
+  {
+   "n": 701,
+   "league": "NCAAB",
+   "type": "Over/Under",
+   "matchup": "Princeton Tigers @ Siena Saints",
+   "pick": "Under 154.5 total points",
+   "odds": -105,
+   "units": 0.5,
+   "gap": null,
+   "start": "2026-11-08T10:00:00",
+   "timed": true,
+   "espn": {
+    "legs": [
+     {
+      "kind": "total",
+      "side": null,
+      "ou": "U",
+      "line": 154.5,
+      "path": "basketball/mens-college-basketball",
+      "event": "401924734",
+      "date": "20261108"
+     }
+    ],
+    "sport": "NCAAB"
+   }
+  },
+  {
+   "n": 706,
+   "league": "NFL",
+   "type": "Player prop",
+   "matchup": "Denver Broncos @ Carolina Panthers",
+   "pick": "Jonah Coleman anytime TD LIVE",
+   "odds": 100,
+   "units": 2.5,
+   "gap": null,
+   "start": "2026-11-08T10:00:00",
+   "timed": true,
+   "espn": {
+    "legs": [
+     {
+      "kind": "unknown",
+      "path": "football/nfl",
+      "event": "401873041",
+      "date": "20261108"
+     }
+    ],
+    "sport": "NFL"
    }
   }
  ],
