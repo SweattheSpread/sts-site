@@ -1,5 +1,5 @@
 {
- "updated": "Nov 8, 2026, 6:42 AM PT",
+ "updated": "Nov 8, 2026, 7:48 AM PT",
  "record": {
   "w": 110,
   "l": 122,
@@ -11,7 +11,7 @@
   "first": "2026-10-12",
   "last": "2026-11-07"
  },
- "pending": 12,
+ "pending": 13,
  "latest": [
   {
    "n": 692,
@@ -422,6 +422,32 @@
       "side": "Jahan Dotson longest reception",
       "ou": "O",
       "line": 17.5,
+      "path": "football/nfl",
+      "event": "401873038",
+      "date": "20261108"
+     }
+    ],
+    "sport": "NFL"
+   }
+  },
+  {
+   "n": 697,
+   "league": "NFL",
+   "type": "Team Total",
+   "matchup": "Cincinnati Bengals @ Atlanta Falcons",
+   "pick": "Atlanta Falcons team total Over 24.5 points (full game; ATL needs 25+ final points) LIVE",
+   "odds": -120,
+   "units": 3.0,
+   "gap": null,
+   "start": "2026-11-08T06:30:00",
+   "timed": true,
+   "espn": {
+    "legs": [
+     {
+      "kind": "total",
+      "side": "Atlanta Falcons team total",
+      "ou": "O",
+      "line": 24.5,
       "path": "football/nfl",
       "event": "401873038",
       "date": "20261108"
