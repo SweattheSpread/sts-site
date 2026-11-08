@@ -1,5 +1,5 @@
 {
- "updated": "Nov 8, 2026, 8:53 AM PT",
+ "updated": "Nov 8, 2026, 9:55 AM PT",
  "record": {
   "w": 110,
   "l": 122,
@@ -11,7 +11,7 @@
   "first": "2026-10-12",
   "last": "2026-11-07"
  },
- "pending": 16,
+ "pending": 21,
  "latest": [
   {
    "n": 692,
@@ -119,31 +119,6 @@
   }
  ],
  "picks": [
-  {
-   "n": 700,
-   "league": "NCAAB",
-   "type": "Spread",
-   "matchup": "Iona Gaels @ St. John's Red Storm",
-   "pick": "Iona Gaels +27",
-   "odds": -110,
-   "units": 1.0,
-   "gap": null,
-   "start": "2026-11-08T09:00:00",
-   "timed": true,
-   "espn": {
-    "legs": [
-     {
-      "kind": "spread",
-      "side": "Iona Gaels",
-      "line": 27.0,
-      "path": "basketball/mens-college-basketball",
-      "event": "401924646",
-      "date": "20261108"
-     }
-    ],
-    "sport": "NCAAB"
-   }
-  },
   {
    "n": 635,
    "league": "NFL",
@@ -335,7 +310,18 @@
    "units": 1.5,
    "gap": null,
    "start": "2026-11-08T10:00:00",
-   "timed": true
+   "timed": true,
+   "espn": {
+    "legs": [
+     {
+      "kind": "unknown",
+      "path": "hockey/nhl",
+      "event": "401892674",
+      "date": "20261108"
+     }
+    ],
+    "sport": "NHL"
+   }
   },
   {
    "n": 699,
@@ -403,6 +389,57 @@
    }
   },
   {
+   "n": 701,
+   "league": "NCAAB",
+   "type": "Over/Under",
+   "matchup": "Princeton Tigers @ Siena Saints",
+   "pick": "Under 154.5 total points",
+   "odds": -105,
+   "units": 0.5,
+   "gap": null,
+   "start": "2026-11-08T10:00:00",
+   "timed": true,
+   "espn": {
+    "legs": [
+     {
+      "kind": "total",
+      "side": null,
+      "ou": "U",
+      "line": 154.5,
+      "path": "basketball/mens-college-basketball",
+      "event": "401924734",
+      "date": "20261108"
+     }
+    ],
+    "sport": "NCAAB"
+   }
+  },
+  {
+   "n": 702,
+   "league": "NCAAB",
+   "type": "Spread",
+   "matchup": "Butler Bulldogs @ Boise State Broncos",
+   "pick": "Boise State Broncos -2.5",
+   "odds": -110,
+   "units": 0.5,
+   "gap": null,
+   "start": "2026-11-08T11:00:00",
+   "timed": true,
+   "espn": {
+    "legs": [
+     {
+      "kind": "spread",
+      "side": "Boise State Broncos",
+      "line": -2.5,
+      "path": "basketball/mens-college-basketball",
+      "event": "401902277",
+      "date": "20261108"
+     }
+    ],
+    "sport": "NCAAB"
+   }
+  },
+  {
    "n": 674,
    "league": "NFL",
    "type": "Player prop",
@@ -451,6 +488,84 @@
      }
     ],
     "sport": "NFL"
+   }
+  },
+  {
+   "n": 703,
+   "league": "NCAAB",
+   "type": "Over/Under",
+   "matchup": "Richmond Spiders @ Temple Owls",
+   "pick": "Under 152.5 total points",
+   "odds": -110,
+   "units": 0.5,
+   "gap": null,
+   "start": "2026-11-08T14:00:00",
+   "timed": true,
+   "espn": {
+    "legs": [
+     {
+      "kind": "total",
+      "side": null,
+      "ou": "U",
+      "line": 152.5,
+      "path": "basketball/mens-college-basketball",
+      "event": "401911238",
+      "date": "20261108"
+     }
+    ],
+    "sport": "NCAAB"
+   }
+  },
+  {
+   "n": 704,
+   "league": "NCAAB",
+   "type": "Over/Under",
+   "matchup": "North Dakota State Bison @ Cal State Bakersfield Roadrunners",
+   "pick": "Under 152.5 total points",
+   "odds": -110,
+   "units": 0.5,
+   "gap": null,
+   "start": "2026-11-08T15:00:00",
+   "timed": true,
+   "espn": {
+    "legs": [
+     {
+      "kind": "total",
+      "side": null,
+      "ou": "U",
+      "line": 152.5,
+      "path": "basketball/mens-college-basketball",
+      "event": "401921820",
+      "date": "20261108"
+     }
+    ],
+    "sport": "NCAAB"
+   }
+  },
+  {
+   "n": 705,
+   "league": "NCAAB",
+   "type": "Over/Under",
+   "matchup": "UT Arlington Mavericks @ Hawai'i Rainbow Warriors",
+   "pick": "Under 147.5 total points",
+   "odds": -110,
+   "units": 0.5,
+   "gap": null,
+   "start": "2026-11-08T20:00:00",
+   "timed": true,
+   "espn": {
+    "legs": [
+     {
+      "kind": "total",
+      "side": null,
+      "ou": "U",
+      "line": 147.5,
+      "path": "basketball/mens-college-basketball",
+      "event": "401929002",
+      "date": "20261108"
+     }
+    ],
+    "sport": "NCAAB"
    }
   },
   {
@@ -556,6 +671,31 @@
      }
     ],
     "sport": "NFL"
+   }
+  },
+  {
+   "n": 700,
+   "league": "NCAAB",
+   "type": "Spread",
+   "matchup": "Iona Gaels @ St. John's Red Storm",
+   "pick": "Iona Gaels +27",
+   "odds": -110,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-08T09:00:00",
+   "timed": true,
+   "espn": {
+    "legs": [
+     {
+      "kind": "spread",
+      "side": "Iona Gaels",
+      "line": 27.0,
+      "path": "basketball/mens-college-basketball",
+      "event": "401924646",
+      "date": "20261108"
+     }
+    ],
+    "sport": "NCAAB"
    }
   }
  ],
