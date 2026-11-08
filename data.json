@@ -335,18 +335,7 @@
    "units": 1.5,
    "gap": null,
    "start": "2026-11-08T10:00:00",
-   "timed": true,
-   "espn": {
-    "legs": [
-     {
-      "kind": "unknown",
-      "path": "hockey/nhl",
-      "event": "401892674",
-      "date": "20261108"
-     }
-    ],
-    "sport": "NHL"
-   }
+   "timed": true
   },
   {
    "n": 699,
