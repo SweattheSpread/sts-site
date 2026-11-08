@@ -18,7 +18,7 @@ if (reduced) document.documentElement.classList.add('reduced');
 /* ---------- text scramble ---------- */
 const GLYPHS = '0123456789+-–.%u#$@';
 function scramble(el, dur = 900) {
-  const final = el.dataset.final || el.textContent; el.dataset.final = final;
+  const final = el.dataset.final || el.dataset.value || el.textContent; el.dataset.final = final;
   if (reduced) { el.textContent = final; return; }
   const t0 = performance.now();
   (function tick(t) {
@@ -30,6 +30,7 @@ function scramble(el, dur = 900) {
     el.textContent = p >= 1 ? final : out;
     if (p < 1) requestAnimationFrame(tick);
   })(t0);
+  setTimeout(() => { el.textContent = final; }, dur + 150);   // guarantee: rAF can be throttled/paused (background tab, capture) and leave glyphs on screen
 }
 const io = new IntersectionObserver(es => es.forEach(e => { if (e.isIntersecting) { scramble(e.target); io.unobserve(e.target); } }), { threshold: .6 });
 document.querySelectorAll('.scramble').forEach(el => io.observe(el));
@@ -39,9 +40,9 @@ const esc = v => String(v ?? '').replace(/[&<>"]/g, c => ({ '&': '&amp;', '<': '
 const odds = o => o == null ? '—' : (o > 0 ? '+' : '') + o, uu = u => u.toFixed(2) + 'u', sg = u => (u > 0 ? '+' : u < 0 ? '−' : '') + Math.abs(u).toFixed(2) + 'u';
 const when = iso => { if (!iso) return ''; const d = new Date(iso); return d.toLocaleString('en-US', { weekday: 'short', month: 'numeric', day: 'numeric', hour: 'numeric', minute: '2-digit' }) + ' PT'; };
 function rrCard(c) {
-  const r = c.rr, legs = r.legs.map(l => `<li><span>${esc(l.player)}</span><span class="g">${esc(l.game)}</span><span class="scramble">${odds(l.odds)}</span></li>`).join('');
+  const r = c.rr, legs = r.legs.map(l => `<li><span>${esc(l.player)}</span><span class="g">${esc(l.game)}</span><span>${odds(l.odds)}</span></li>`).join('');
   const sizes = Object.entries(r.by_size).map(([k, v]) => `${v}×${k === '1' ? 'single' : k + '-leg'}`).join(', ');
-  return `<article class="card rr" data-n="${c.n}"><header><span class="lg">${esc(c.league)}</span><span class="mk">Round robin · Anytime TD</span></header><h4>${esc(c.pick)}</h4><p class="m">All ${r.combos} combinations (${sizes}) · first game ${when(c.start)}</p><ul class="rr-legs">${legs}</ul><dl><div><dt>Each</dt><dd class="scramble">${uu(r.each)}</dd></div><div><dt>Total</dt><dd class="scramble">${uu(r.total)}</dd></div><div><dt>Max return</dt><dd class="scramble">${uu(r.ret)}</dd></div><div><dt>Max profit</dt><dd class="scramble">+${uu(r.profit)}</dd></div></dl><p class="m rr-note">Partial wins possible: each combination settles on its own. Settled manually.</p></article>`;
+  return `<article class="card rr" data-n="${c.n}"><header><span class="lg">${esc(c.league)}</span><span class="mk">Round robin · Anytime TD</span></header><h4>${esc(c.pick)}</h4><p class="m">All ${r.combos} combinations (${sizes}) · first game ${when(c.start)}</p><ul class="rr-legs">${legs}</ul><dl><div><dt>Each</dt><dd>${uu(r.each)}</dd></div><div><dt>Total</dt><dd>${uu(r.total)}</dd></div><div><dt>Max return</dt><dd>${uu(r.ret)}</dd></div><div><dt>Max profit</dt><dd>+${uu(r.profit)}</dd></div></dl><p class="m rr-note">Partial wins possible: each combination settles on its own. Settled manually.</p></article>`;
 }
 function card(c) {
   if (c.rr) return rrCard(c);
@@ -63,7 +64,7 @@ async function loadData() {
     $('cards-aw').innerHTML = d.awaiting.length ? d.awaiting.map(card).join('') : '<p class="empty">Nothing awaiting a result.</p>';
     $('p-upd').textContent = `Updated ${d.updated}.`;
     window.STS_DATA = d; document.dispatchEvent(new CustomEvent('sts:data', { detail: d }));
-    ['r-wl', 'r-u', 'r-roi'].forEach(id => { $(id).classList.add('scramble'); delete $(id).dataset.final; });
+    ['r-wl', 'r-u', 'r-roi'].forEach(id => { $(id).classList.add('scramble'); $(id).dataset.value = $(id).textContent; delete $(id).dataset.final; });
   } catch (e) { console.warn('data.json not loaded', e); }
   document.querySelectorAll('.scramble:not([data-final])').forEach(el => io.observe(el));
 }
