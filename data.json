@@ -1,5 +1,5 @@
 {
- "updated": "Nov 7, 2026, 3:47 PM PT",
+ "updated": "Nov 7, 2026, 4:05 PM PT",
  "record": {
   "w": 104,
   "l": 115,
@@ -11,7 +11,7 @@
   "first": "2026-10-12",
   "last": "2026-11-07"
  },
- "pending": 20,
+ "pending": 21,
  "latest": [
   {
    "n": 688,
@@ -119,6 +119,32 @@
   }
  ],
  "picks": [
+  {
+   "n": 691,
+   "league": "NCAAF",
+   "type": "Team Total",
+   "matchup": "Texas State Bobcats @ Oregon State Beavers",
+   "pick": "Oregon State Beavers 1st half team total Over 20.5 points (Oregon State only; not game total, not full game)",
+   "odds": -120,
+   "units": 3.0,
+   "gap": null,
+   "start": "2026-11-07T19:30:00",
+   "timed": true,
+   "espn": {
+    "legs": [
+     {
+      "kind": "total",
+      "side": "Oregon State Beavers 1st half team total",
+      "ou": "O",
+      "line": 20.5,
+      "path": "football/college-football",
+      "event": "401858514",
+      "date": "20261107"
+     }
+    ],
+    "sport": "NCAAF"
+   }
+  },
   {
    "n": 672,
    "league": "Tennis",
@@ -483,7 +509,7 @@
       "ou": "U",
       "line": 52.5,
       "path": "football/college-football",
-      "event": "401858516",
+      "event": "401864534",
       "date": "20261107"
      }
     ],
@@ -636,7 +662,7 @@
       "side": "Boise State Broncos",
       "line": -21.5,
       "path": "football/college-football",
-      "event": "401871073",
+      "event": "401858514",
       "date": "20261107"
      }
     ],
