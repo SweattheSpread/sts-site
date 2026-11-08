@@ -1,5 +1,5 @@
 {
- "updated": "Nov 7, 2026, 4:05 PM PT",
+ "updated": "Nov 7, 2026, 4:51 PM PT",
  "record": {
   "w": 104,
   "l": 115,
@@ -11,7 +11,7 @@
   "first": "2026-10-12",
   "last": "2026-11-07"
  },
- "pending": 21,
+ "pending": 22,
  "latest": [
   {
    "n": 688,
@@ -120,6 +120,31 @@
  ],
  "picks": [
   {
+   "n": 692,
+   "league": "NHL",
+   "type": "Spread",
+   "matchup": "Chicago Blackhawks @ Carolina Hurricanes",
+   "pick": "Carolina Hurricanes -2 (full-game puck line/spread, exactly -2; not -1.5/-2.5)",
+   "odds": -137,
+   "units": 3.0,
+   "gap": null,
+   "start": "2026-11-07T17:10:00",
+   "timed": true,
+   "espn": {
+    "legs": [
+     {
+      "kind": "spread",
+      "side": "Carolina Hurricanes",
+      "line": -2.0,
+      "path": "hockey/nhl",
+      "event": "401892668",
+      "date": "20261107"
+     }
+    ],
+    "sport": "NHL"
+   }
+  },
+  {
    "n": 691,
    "league": "NCAAF",
    "type": "Team Total",
@@ -138,7 +163,7 @@
       "ou": "O",
       "line": 20.5,
       "path": "football/college-football",
-      "event": "401858514",
+      "event": "401871074",
       "date": "20261107"
      }
     ],
@@ -509,7 +534,7 @@
       "ou": "U",
       "line": 52.5,
       "path": "football/college-football",
-      "event": "401864534",
+      "event": "401858516",
       "date": "20261107"
      }
     ],
@@ -662,7 +687,7 @@
       "side": "Boise State Broncos",
       "line": -21.5,
       "path": "football/college-football",
-      "event": "401858514",
+      "event": "401871074",
       "date": "20261107"
      }
     ],
