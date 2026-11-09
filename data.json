@@ -1,18 +1,44 @@
 {
- "updated": "Nov 8, 2026, 9:52 PM PT",
+ "updated": "Nov 8, 2026, 11:28 PM PT",
  "record": {
-  "w": 112,
-  "l": 122,
+  "w": 126,
+  "l": 132,
   "p": 0,
-  "n": 234,
-  "units": 24.4,
-  "risked": 365.25,
-  "roi": 6.68,
+  "n": 258,
+  "units": 27.99,
+  "risked": 391.25,
+  "roi": 7.15,
   "first": "2026-10-12",
   "last": "2026-11-08"
  },
- "pending": 23,
+ "pending": 2,
  "latest": [
+  {
+   "n": 708,
+   "date": "2026-11-08",
+   "day": "2026-11-08",
+   "league": "NFL",
+   "type": "Team Total",
+   "matchup": "Green Bay Packers @ New England Patriots",
+   "pick": "Green Bay Packers team total Over 33.5 points (full game; GB needs 34+ final points) LIVE",
+   "odds": -115,
+   "units": 2.5,
+   "result": "W",
+   "pl": 2.17
+  },
+  {
+   "n": 707,
+   "date": "2026-11-08",
+   "day": "2026-11-08",
+   "league": "NHL",
+   "type": "Player Prop",
+   "matchup": "Tampa Bay Lightning @ Winnipeg Jets",
+   "pick": "Kyle Connor Over 0.5 assists",
+   "odds": -120,
+   "units": 1.0,
+   "result": "L",
+   "pl": -1.0
+  },
   {
    "n": 706,
    "date": "2026-11-08",
@@ -27,95 +53,69 @@
    "pl": 2.5
   },
   {
-   "n": 699,
+   "n": 705,
    "date": "2026-11-08",
    "day": "2026-11-08",
-   "league": "NFL",
-   "type": "Round Robin",
-   "matchup": null,
-   "pick": "5-leg Anytime TD round robin",
-   "odds": null,
-   "units": 15.5,
-   "result": "W",
-   "pl": 0.15
-  },
-  {
-   "n": 692,
-   "date": "2026-11-07",
-   "day": "2026-11-07",
-   "league": "NHL",
-   "type": "Spread",
-   "matchup": "Chicago Blackhawks @ Carolina Hurricanes",
-   "pick": "Carolina Hurricanes -2 (full-game puck line/spread, exactly -2; not -1.5/-2.5)",
-   "odds": -137,
-   "units": 3.0,
-   "result": "W",
-   "pl": 2.19
-  },
-  {
-   "n": 691,
-   "date": "2026-11-07",
-   "day": "2026-11-07",
-   "league": "NCAAF",
-   "type": "Team Total",
-   "matchup": "Texas State Bobcats @ Oregon State Beavers",
-   "pick": "Oregon State Beavers 1st half team total Over 20.5 points (Oregon State only; not game total, not full game)",
-   "odds": -120,
-   "units": 3.0,
-   "result": "L",
-   "pl": -3.0
-  },
-  {
-   "n": 690,
-   "date": "2026-11-07",
-   "day": "2026-11-07",
-   "league": "NCAAF",
-   "type": "Spread",
-   "matchup": "Boise State Broncos @ Colorado State Rams",
-   "pick": "Boise State Broncos -21.5 LIVE",
+   "league": "NCAAB",
+   "type": "Over/Under",
+   "matchup": "UT Arlington Mavericks @ Hawai'i Rainbow Warriors",
+   "pick": "Under 147.5 total points",
    "odds": -110,
-   "units": 3.0,
+   "units": 0.5,
    "result": "W",
-   "pl": 2.73
+   "pl": 0.45
   },
   {
-   "n": 689,
-   "date": "2026-11-07",
-   "day": "2026-11-07",
-   "league": "NCAAF",
-   "type": "Spread",
-   "matchup": "Oregon Ducks @ Ohio State Buckeyes",
-   "pick": "Oregon Ducks -3.5 LIVE",
-   "odds": -115,
-   "units": 3.0,
-   "result": "W",
-   "pl": 2.61
-  },
-  {
-   "n": 688,
-   "date": "2026-11-07",
-   "day": "2026-11-07",
-   "league": "NCAAF",
-   "type": "Moneyline",
-   "matchup": "UL Monroe Warhawks @ Arkansas State Red Wolves",
-   "pick": "UL Monroe Warhawks ML LIVE",
-   "odds": -123,
-   "units": 3.0,
-   "result": "W",
-   "pl": 2.44
-  },
-  {
-   "n": 685,
-   "date": "2026-11-07",
-   "day": "2026-11-07",
-   "league": "NCAAF",
-   "type": "Team Total",
-   "matchup": "Oregon Ducks @ Ohio State Buckeyes",
-   "pick": "Oregon Ducks team total Under 19.5 (full game) LIVE",
-   "odds": -115,
-   "units": 1.5,
+   "n": 704,
+   "date": "2026-11-08",
+   "day": "2026-11-08",
+   "league": "NCAAB",
+   "type": "Over/Under",
+   "matchup": "North Dakota State Bison @ Cal State Bakersfield Roadrunners",
+   "pick": "Under 152.5 total points",
+   "odds": -110,
+   "units": 0.5,
    "result": "L",
-   "pl": -1.5
+   "pl": -0.5
+  },
+  {
+   "n": 703,
+   "date": "2026-11-08",
+   "day": "2026-11-08",
+   "league": "NCAAB",
+   "type": "Over/Under",
+   "matchup": "Richmond Spiders @ Temple Owls",
+   "pick": "Under 152.5 total points",
+   "odds": -110,
+   "units": 0.5,
+   "result": "W",
+   "pl": 0.45
+  },
+  {
+   "n": 702,
+   "date": "2026-11-08",
+   "day": "2026-11-08",
+   "league": "NCAAB",
+   "type": "Spread",
+   "matchup": "Butler Bulldogs @ Boise State Broncos",
+   "pick": "Boise State Broncos -2.5",
+   "odds": -110,
+   "units": 0.5,
+   "result": "W",
+   "pl": 0.45
+  },
+  {
+   "n": 701,
+   "date": "2026-11-08",
+   "day": "2026-11-08",
+   "league": "NCAAB",
+   "type": "Over/Under",
+   "matchup": "Princeton Tigers @ Siena Saints",
+   "pick": "Under 154.5 total points",
+   "odds": -105,
+   "units": 0.5,
+   "result": "W",
+   "pl": 0.48
   }
  ],
  "picks": [
@@ -178,547 +178,7 @@
    }
   }
  ],
- "awaiting": [
-  {
-   "n": 635,
-   "league": "NFL",
-   "type": "Player prop",
-   "matchup": "Denver Broncos @ Carolina Panthers",
-   "pick": "Darren Waller longest reception Over 12.5",
-   "odds": -115,
-   "units": 1.0,
-   "gap": null,
-   "start": "2026-11-08T10:00:00",
-   "timed": true,
-   "espn": {
-    "legs": [
-     {
-      "kind": "team_total",
-      "side": "Darren Waller longest reception",
-      "ou": "O",
-      "line": 12.5,
-      "path": "football/nfl",
-      "event": "401873041",
-      "date": "20261108"
-     }
-    ],
-    "sport": "NFL"
-   }
-  },
-  {
-   "n": 636,
-   "league": "NFL",
-   "type": "Spread",
-   "matchup": "Green Bay Packers @ New England Patriots",
-   "pick": "Green Bay Packers +3",
-   "odds": -105,
-   "units": 1.0,
-   "gap": null,
-   "start": "2026-11-08T13:25:00",
-   "timed": true,
-   "espn": {
-    "legs": [
-     {
-      "kind": "spread",
-      "side": "Green Bay Packers",
-      "line": 3.0,
-      "path": "football/nfl",
-      "event": "401873049",
-      "date": "20261108"
-     }
-    ],
-    "sport": "NFL"
-   }
-  },
-  {
-   "n": 639,
-   "league": "NFL",
-   "type": "Spread",
-   "matchup": "New York Jets @ Kansas City Chiefs",
-   "pick": "Kansas City Chiefs -9.5",
-   "odds": -108,
-   "units": 1.0,
-   "gap": null,
-   "start": "2026-11-08T10:00:00",
-   "timed": true,
-   "espn": {
-    "legs": [
-     {
-      "kind": "spread",
-      "side": "Kansas City Chiefs",
-      "line": -9.5,
-      "path": "football/nfl",
-      "event": "401873045",
-      "date": "20261108"
-     }
-    ],
-    "sport": "NFL"
-   }
-  },
-  {
-   "n": 652,
-   "league": "NFL",
-   "type": "Player prop",
-   "matchup": "Cincinnati Bengals @ Atlanta Falcons",
-   "pick": "Dohnte Meyers longest reception Over 10.5",
-   "odds": -125,
-   "units": 1.0,
-   "gap": null,
-   "start": "2026-11-08T06:30:00",
-   "timed": true,
-   "espn": {
-    "legs": [
-     {
-      "kind": "team_total",
-      "side": "Dohnte Meyers longest reception",
-      "ou": "O",
-      "line": 10.5,
-      "path": "football/nfl",
-      "event": "401873038",
-      "date": "20261108"
-     }
-    ],
-    "sport": "NFL"
-   }
-  },
-  {
-   "n": 653,
-   "league": "NFL",
-   "type": "Player prop",
-   "matchup": "Denver Broncos @ Carolina Panthers",
-   "pick": "Troy Franklin longest reception Over 8.5",
-   "odds": -115,
-   "units": 1.0,
-   "gap": null,
-   "start": "2026-11-08T10:00:00",
-   "timed": true,
-   "espn": {
-    "legs": [
-     {
-      "kind": "team_total",
-      "side": "Troy Franklin longest reception",
-      "ou": "O",
-      "line": 8.5,
-      "path": "football/nfl",
-      "event": "401873041",
-      "date": "20261108"
-     }
-    ],
-    "sport": "NFL"
-   }
-  },
-  {
-   "n": 654,
-   "league": "NFL",
-   "type": "Player prop",
-   "matchup": "Denver Broncos @ Carolina Panthers",
-   "pick": "Marvin Mims Jr. longest reception Over 9.5",
-   "odds": -125,
-   "units": 1.0,
-   "gap": null,
-   "start": "2026-11-08T10:00:00",
-   "timed": true,
-   "espn": {
-    "legs": [
-     {
-      "kind": "team_total",
-      "side": "Marvin Mims Jr. longest reception",
-      "ou": "O",
-      "line": 9.5,
-      "path": "football/nfl",
-      "event": "401873041",
-      "date": "20261108"
-     }
-    ],
-    "sport": "NFL"
-   }
-  },
-  {
-   "n": 665,
-   "league": "NFL",
-   "type": "Player prop",
-   "matchup": "New York Jets @ Kansas City Chiefs",
-   "pick": "Emmett Johnson longest reception Over 9.5",
-   "odds": -111,
-   "units": 1.5,
-   "gap": null,
-   "start": "2026-11-08T10:00:00",
-   "timed": true,
-   "espn": {
-    "legs": [
-     {
-      "kind": "team_total",
-      "side": "Emmett Johnson longest reception",
-      "ou": "O",
-      "line": 9.5,
-      "path": "football/nfl",
-      "event": "401873045",
-      "date": "20261108"
-     }
-    ],
-    "sport": "NFL"
-   }
-  },
-  {
-   "n": 669,
-   "league": "NFL",
-   "type": "Over/Under",
-   "matchup": "Los Angeles Rams @ Washington Commanders",
-   "pick": "Over 48.5 total points",
-   "odds": -108,
-   "units": 1.0,
-   "gap": null,
-   "start": "2026-11-08T10:00:00",
-   "timed": true,
-   "espn": {
-    "legs": [
-     {
-      "kind": "total",
-      "side": null,
-      "ou": "O",
-      "line": 48.5,
-      "path": "football/nfl",
-      "event": "401873043",
-      "date": "20261108"
-     }
-    ],
-    "sport": "NFL"
-   }
-  },
-  {
-   "n": 674,
-   "league": "NFL",
-   "type": "Player prop",
-   "matchup": "Houston Texans @ Los Angeles Chargers",
-   "pick": "Kayshon Boutte longest reception Over 12.5",
-   "odds": -115,
-   "units": 1.0,
-   "gap": null,
-   "start": "2026-11-08T13:05:00",
-   "timed": true,
-   "espn": {
-    "legs": [
-     {
-      "kind": "team_total",
-      "side": "Kayshon Boutte longest reception",
-      "ou": "O",
-      "line": 12.5,
-      "path": "football/nfl",
-      "event": "401873046",
-      "date": "20261108"
-     }
-    ],
-    "sport": "NFL"
-   }
-  },
-  {
-   "n": 693,
-   "league": "NFL",
-   "type": "Player prop",
-   "matchup": "Cincinnati Bengals @ Atlanta Falcons",
-   "pick": "Jahan Dotson longest reception Over 17.5",
-   "odds": -120,
-   "units": 1.0,
-   "gap": null,
-   "start": "2026-11-08T06:30:00",
-   "timed": true,
-   "espn": {
-    "legs": [
-     {
-      "kind": "team_total",
-      "side": "Jahan Dotson longest reception",
-      "ou": "O",
-      "line": 17.5,
-      "path": "football/nfl",
-      "event": "401873038",
-      "date": "20261108"
-     }
-    ],
-    "sport": "NFL"
-   }
-  },
-  {
-   "n": 694,
-   "league": "NFL",
-   "type": "Player prop",
-   "matchup": "Detroit Lions @ Miami Dolphins",
-   "pick": "Jameson Williams longest reception Over 22.5",
-   "odds": -115,
-   "units": 1.0,
-   "gap": null,
-   "start": "2026-11-08T10:00:00",
-   "timed": true,
-   "espn": {
-    "legs": [
-     {
-      "kind": "team_total",
-      "side": "Jameson Williams longest reception",
-      "ou": "O",
-      "line": 22.5,
-      "path": "football/nfl",
-      "event": "401873042",
-      "date": "20261108"
-     }
-    ],
-    "sport": "NFL"
-   }
-  },
-  {
-   "n": 697,
-   "league": "NFL",
-   "type": "Team Total",
-   "matchup": "Cincinnati Bengals @ Atlanta Falcons",
-   "pick": "Atlanta Falcons team total Over 24.5 points (full game; ATL needs 25+ final points) LIVE",
-   "odds": -120,
-   "units": 3.0,
-   "gap": null,
-   "start": "2026-11-08T06:30:00",
-   "timed": true,
-   "espn": {
-    "legs": [
-     {
-      "kind": "total",
-      "side": "Atlanta Falcons team total",
-      "ou": "O",
-      "line": 24.5,
-      "path": "football/nfl",
-      "event": "401873038",
-      "date": "20261108"
-     }
-    ],
-    "sport": "NFL"
-   }
-  },
-  {
-   "n": 698,
-   "league": "NHL",
-   "type": "Moneyline",
-   "matchup": "Florida Panthers @ Boston Bruins",
-   "pick": "Boston Bruins to win in REGULATION (60-minute 3-way result; tie after regulation LOSES; not OT-inclusive ML, not draw-no-bet); NHL game 2026020277",
-   "odds": -105,
-   "units": 1.5,
-   "gap": null,
-   "start": "2026-11-08T10:00:00",
-   "timed": true,
-   "espn": {
-    "legs": [
-     {
-      "kind": "unknown",
-      "path": "hockey/nhl",
-      "event": "401892674",
-      "date": "20261108"
-     }
-    ],
-    "sport": "NHL"
-   }
-  },
-  {
-   "n": 700,
-   "league": "NCAAB",
-   "type": "Spread",
-   "matchup": "Iona Gaels @ St. John's Red Storm",
-   "pick": "Iona Gaels +27",
-   "odds": -110,
-   "units": 1.0,
-   "gap": null,
-   "start": "2026-11-08T09:00:00",
-   "timed": true,
-   "espn": {
-    "legs": [
-     {
-      "kind": "spread",
-      "side": "Iona Gaels",
-      "line": 27.0,
-      "path": "basketball/mens-college-basketball",
-      "event": "401924646",
-      "date": "20261108"
-     }
-    ],
-    "sport": "NCAAB"
-   }
-  },
-  {
-   "n": 701,
-   "league": "NCAAB",
-   "type": "Over/Under",
-   "matchup": "Princeton Tigers @ Siena Saints",
-   "pick": "Under 154.5 total points",
-   "odds": -105,
-   "units": 0.5,
-   "gap": null,
-   "start": "2026-11-08T10:00:00",
-   "timed": true,
-   "espn": {
-    "legs": [
-     {
-      "kind": "total",
-      "side": null,
-      "ou": "U",
-      "line": 154.5,
-      "path": "basketball/mens-college-basketball",
-      "event": "401924734",
-      "date": "20261108"
-     }
-    ],
-    "sport": "NCAAB"
-   }
-  },
-  {
-   "n": 702,
-   "league": "NCAAB",
-   "type": "Spread",
-   "matchup": "Butler Bulldogs @ Boise State Broncos",
-   "pick": "Boise State Broncos -2.5",
-   "odds": -110,
-   "units": 0.5,
-   "gap": null,
-   "start": "2026-11-08T11:00:00",
-   "timed": true,
-   "espn": {
-    "legs": [
-     {
-      "kind": "spread",
-      "side": "Boise State Broncos",
-      "line": -2.5,
-      "path": "basketball/mens-college-basketball",
-      "event": "401902277",
-      "date": "20261108"
-     }
-    ],
-    "sport": "NCAAB"
-   }
-  },
-  {
-   "n": 703,
-   "league": "NCAAB",
-   "type": "Over/Under",
-   "matchup": "Richmond Spiders @ Temple Owls",
-   "pick": "Under 152.5 total points",
-   "odds": -110,
-   "units": 0.5,
-   "gap": null,
-   "start": "2026-11-08T14:00:00",
-   "timed": true,
-   "espn": {
-    "legs": [
-     {
-      "kind": "total",
-      "side": null,
-      "ou": "U",
-      "line": 152.5,
-      "path": "basketball/mens-college-basketball",
-      "event": "401911238",
-      "date": "20261108"
-     }
-    ],
-    "sport": "NCAAB"
-   }
-  },
-  {
-   "n": 704,
-   "league": "NCAAB",
-   "type": "Over/Under",
-   "matchup": "North Dakota State Bison @ Cal State Bakersfield Roadrunners",
-   "pick": "Under 152.5 total points",
-   "odds": -110,
-   "units": 0.5,
-   "gap": null,
-   "start": "2026-11-08T15:00:00",
-   "timed": true,
-   "espn": {
-    "legs": [
-     {
-      "kind": "total",
-      "side": null,
-      "ou": "U",
-      "line": 152.5,
-      "path": "basketball/mens-college-basketball",
-      "event": "401919029",
-      "date": "20261108"
-     }
-    ],
-    "sport": "NCAAB"
-   }
-  },
-  {
-   "n": 705,
-   "league": "NCAAB",
-   "type": "Over/Under",
-   "matchup": "UT Arlington Mavericks @ Hawai'i Rainbow Warriors",
-   "pick": "Under 147.5 total points",
-   "odds": -110,
-   "units": 0.5,
-   "gap": null,
-   "start": "2026-11-08T20:00:00",
-   "timed": true,
-   "espn": {
-    "legs": [
-     {
-      "kind": "total",
-      "side": null,
-      "ou": "U",
-      "line": 147.5,
-      "path": "basketball/mens-college-basketball",
-      "event": "401929002",
-      "date": "20261108"
-     }
-    ],
-    "sport": "NCAAB"
-   }
-  },
-  {
-   "n": 707,
-   "league": "NHL",
-   "type": "Player Prop",
-   "matchup": "Tampa Bay Lightning @ Winnipeg Jets",
-   "pick": "Kyle Connor Over 0.5 assists",
-   "odds": -120,
-   "units": 1.0,
-   "gap": null,
-   "start": "2026-11-08T15:00:00",
-   "timed": true,
-   "espn": {
-    "legs": [
-     {
-      "kind": "team_total",
-      "side": "Kyle Connor",
-      "ou": "O",
-      "line": 0.5,
-      "path": "hockey/nhl",
-      "event": "401892677",
-      "date": "20261108"
-     }
-    ],
-    "sport": "NHL"
-   }
-  },
-  {
-   "n": 708,
-   "league": "NFL",
-   "type": "Team Total",
-   "matchup": "Green Bay Packers @ New England Patriots",
-   "pick": "Green Bay Packers team total Over 33.5 points (full game; GB needs 34+ final points) LIVE",
-   "odds": -115,
-   "units": 2.5,
-   "gap": null,
-   "start": "2026-11-08T13:25:00",
-   "timed": true,
-   "espn": {
-    "legs": [
-     {
-      "kind": "total",
-      "side": "Green Bay Packers team total",
-      "ou": "O",
-      "line": 33.5,
-      "path": "football/nfl",
-      "event": "401873049",
-      "date": "20261108"
-     }
-    ],
-    "sport": "NFL"
-   }
-  }
- ],
+ "awaiting": [],
  "daily": {
   "2026-10-12": {
    "u": 5.67,
@@ -809,8 +269,8 @@
    "n": 13
   },
   "2026-11-04": {
-   "u": -0.89,
-   "n": 11
+   "u": 2.11,
+   "n": 12
   },
   "2026-11-05": {
    "u": -2.61,
@@ -825,8 +285,8 @@
    "n": 16
   },
   "2026-11-08": {
-   "u": 2.65,
-   "n": 2
+   "u": 3.24,
+   "n": 25
   }
  }
 }
