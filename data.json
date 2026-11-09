@@ -1,5 +1,5 @@
 {
- "updated": "Nov 9, 2026, 7:56 AM PT",
+ "updated": "Nov 9, 2026, 10:15 AM PT",
  "record": {
   "w": 126,
   "l": 132,
@@ -11,7 +11,7 @@
   "first": "2026-10-12",
   "last": "2026-11-08"
  },
- "pending": 5,
+ "pending": 12,
  "latest": [
   {
    "n": 708,
@@ -153,6 +153,108 @@
    }
   },
   {
+   "n": 713,
+   "league": "NCAAB",
+   "type": "Over/Under",
+   "matchup": "Marshall Thundering Herd @ Ohio State Buckeyes",
+   "pick": "Under 162.5 total points",
+   "odds": -115,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-09T15:00:00",
+   "timed": true,
+   "espn": {
+    "legs": [
+     {
+      "kind": "total",
+      "side": null,
+      "ou": "U",
+      "line": 162.5,
+      "path": "basketball/mens-college-basketball",
+      "event": "401916315",
+      "date": "20261109"
+     }
+    ],
+    "sport": "NCAAB"
+   }
+  },
+  {
+   "n": 714,
+   "league": "NCAAB",
+   "type": "Spread",
+   "matchup": "UNC Greensboro Spartans @ UIC Flames",
+   "pick": "UNC Greensboro Spartans +19.5",
+   "odds": -110,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-09T16:00:00",
+   "timed": true,
+   "espn": {
+    "legs": [
+     {
+      "kind": "spread",
+      "side": "UNC Greensboro Spartans",
+      "line": 19.5,
+      "path": "basketball/mens-college-basketball",
+      "event": "401926181",
+      "date": "20261109"
+     }
+    ],
+    "sport": "NCAAB"
+   }
+  },
+  {
+   "n": 715,
+   "league": "NCAAB",
+   "type": "Spread",
+   "matchup": "Louisiana Tech Bulldogs @ LSU Tigers",
+   "pick": "Louisiana Tech Bulldogs +29.5",
+   "odds": -110,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-09T17:00:00",
+   "timed": true,
+   "espn": {
+    "legs": [
+     {
+      "kind": "spread",
+      "side": "Louisiana Tech Bulldogs",
+      "line": 29.5,
+      "path": "basketball/mens-college-basketball",
+      "event": "401906793",
+      "date": "20261109"
+     }
+    ],
+    "sport": "NCAAB"
+   }
+  },
+  {
+   "n": 716,
+   "league": "NCAAB",
+   "type": "Over/Under",
+   "matchup": "Louisiana Tech Bulldogs @ LSU Tigers",
+   "pick": "Under 147.5 total points",
+   "odds": -105,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-09T17:00:00",
+   "timed": true,
+   "espn": {
+    "legs": [
+     {
+      "kind": "total",
+      "side": null,
+      "ou": "U",
+      "line": 147.5,
+      "path": "basketball/mens-college-basketball",
+      "event": "401906793",
+      "date": "20261109"
+     }
+    ],
+    "sport": "NCAAB"
+   }
+  },
+  {
    "n": 573,
    "league": "NFL",
    "type": "Spread",
@@ -204,6 +306,57 @@
    }
   },
   {
+   "n": 717,
+   "league": "NCAAB",
+   "type": "Spread",
+   "matchup": "Appalachian State Mountaineers @ Auburn Tigers",
+   "pick": "Appalachian State Mountaineers +23.5",
+   "odds": -110,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-09T18:00:00",
+   "timed": true,
+   "espn": {
+    "legs": [
+     {
+      "kind": "spread",
+      "side": "Appalachian State Mountaineers",
+      "line": 23.5,
+      "path": "basketball/mens-college-basketball",
+      "event": "401906793",
+      "date": "20261109"
+     }
+    ],
+    "sport": "NCAAB"
+   }
+  },
+  {
+   "n": 718,
+   "league": "NCAAB",
+   "type": "Over/Under",
+   "matchup": "Appalachian State Mountaineers @ Auburn Tigers",
+   "pick": "Under 145.5 total points",
+   "odds": -110,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-09T18:00:00",
+   "timed": true,
+   "espn": {
+    "legs": [
+     {
+      "kind": "total",
+      "side": null,
+      "ou": "U",
+      "line": 145.5,
+      "path": "basketball/mens-college-basketball",
+      "event": "401906793",
+      "date": "20261109"
+     }
+    ],
+    "sport": "NCAAB"
+   }
+  },
+  {
    "n": 712,
    "league": "NHL",
    "type": "Over/Under",
@@ -251,6 +404,32 @@
      }
     ],
     "sport": "NHL"
+   }
+  },
+  {
+   "n": 719,
+   "league": "NCAAB",
+   "type": "Over/Under",
+   "matchup": "Portland Pilots @ Hawai'i Rainbow Warriors",
+   "pick": "Under 157 total points",
+   "odds": -110,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-09T20:59:00",
+   "timed": true,
+   "espn": {
+    "legs": [
+     {
+      "kind": "total",
+      "side": null,
+      "ou": "U",
+      "line": 157.0,
+      "path": "basketball/mens-college-basketball",
+      "event": "401929003",
+      "date": "20261109"
+     }
+    ],
+    "sport": "NCAAB"
    }
   }
  ],
