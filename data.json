@@ -1,17 +1,17 @@
 {
- "updated": "Nov 8, 2026, 2:05 PM PT",
+ "updated": "Nov 8, 2026, 9:22 PM PT",
  "record": {
-  "w": 111,
+  "w": 112,
   "l": 122,
   "p": 0,
-  "n": 233,
-  "units": 24.25,
-  "risked": 349.75,
-  "roi": 6.93,
+  "n": 234,
+  "units": 24.4,
+  "risked": 365.25,
+  "roi": 6.68,
   "first": "2026-10-12",
   "last": "2026-11-08"
  },
- "pending": 23,
+ "pending": 22,
  "latest": [
   {
    "n": 706,
@@ -25,6 +25,19 @@
    "units": 2.5,
    "result": "W",
    "pl": 2.5
+  },
+  {
+   "n": 699,
+   "date": "2026-11-08",
+   "day": "2026-11-08",
+   "league": "NFL",
+   "type": "Round Robin",
+   "matchup": null,
+   "pick": "5-leg Anytime TD round robin",
+   "odds": null,
+   "units": 15.5,
+   "result": "W",
+   "pl": 0.15
   },
   {
    "n": 692,
@@ -103,165 +116,9 @@
    "units": 1.5,
    "result": "L",
    "pl": -1.5
-  },
-  {
-   "n": 684,
-   "date": "2026-11-07",
-   "day": "2026-11-07",
-   "league": "NHL",
-   "type": "Over/Under",
-   "matchup": "New York Rangers @ Seattle Kraken",
-   "pick": "1st period total Over 1.5 goals (both teams; not Rangers team total, not full game)",
-   "odds": -130,
-   "units": 1.0,
-   "result": "W",
-   "pl": 0.77
   }
  ],
  "picks": [
-  {
-   "n": 699,
-   "league": "NFL",
-   "type": "Round Robin",
-   "matchup": null,
-   "pick": "6-leg Anytime TD round robin",
-   "odds": null,
-   "units": 31.5,
-   "gap": null,
-   "start": "2026-11-08T10:00:00",
-   "timed": true,
-   "rr": {
-    "legs": [
-     {
-      "player": "Kenneth Walker III",
-      "game": "NYJ@KC",
-      "odds": -233,
-      "start": "2026-11-08T10:00:00"
-     },
-     {
-      "player": "Jahmyr Gibbs",
-      "game": "DET@MIA",
-      "odds": -385,
-      "start": "2026-11-08T10:00:00"
-     },
-     {
-      "player": "D'Andre Swift",
-      "game": "TB@CHI",
-      "odds": -189,
-      "start": "2026-11-08T17:20:00"
-     },
-     {
-      "player": "Christian McCaffrey",
-      "game": "LV@SF",
-      "odds": -256,
-      "start": "2026-11-08T13:25:00"
-     },
-     {
-      "player": "Javonte Williams",
-      "game": "DAL@IND",
-      "odds": -217,
-      "start": "2026-11-08T10:00:00"
-     },
-     {
-      "player": "Kyren Williams",
-      "game": "LAR@WAS",
-      "odds": -156,
-      "start": "2026-11-08T10:00:00"
-     }
-    ],
-    "combos": 63,
-    "by_size": {
-     "1": 6,
-     "2": 15,
-     "3": 20,
-     "4": 15,
-     "5": 6,
-     "6": 1
-    },
-    "each": 0.5,
-    "total": 31.5,
-    "ret": 107.33,
-    "profit": 75.83
-   }
-  },
-  {
-   "n": 704,
-   "league": "NCAAB",
-   "type": "Over/Under",
-   "matchup": "North Dakota State Bison @ Cal State Bakersfield Roadrunners",
-   "pick": "Under 152.5 total points",
-   "odds": -110,
-   "units": 0.5,
-   "gap": null,
-   "start": "2026-11-08T15:00:00",
-   "timed": true,
-   "espn": {
-    "legs": [
-     {
-      "kind": "total",
-      "side": null,
-      "ou": "U",
-      "line": 152.5,
-      "path": "basketball/mens-college-basketball",
-      "event": "401911335",
-      "date": "20261108"
-     }
-    ],
-    "sport": "NCAAB"
-   }
-  },
-  {
-   "n": 707,
-   "league": "NHL",
-   "type": "Player Prop",
-   "matchup": "Tampa Bay Lightning @ Winnipeg Jets",
-   "pick": "Kyle Connor Over 0.5 assists",
-   "odds": -120,
-   "units": 1.0,
-   "gap": null,
-   "start": "2026-11-08T15:00:00",
-   "timed": true,
-   "espn": {
-    "legs": [
-     {
-      "kind": "team_total",
-      "side": "Kyle Connor",
-      "ou": "O",
-      "line": 0.5,
-      "path": "hockey/nhl",
-      "event": "401892677",
-      "date": "20261108"
-     }
-    ],
-    "sport": "NHL"
-   }
-  },
-  {
-   "n": 705,
-   "league": "NCAAB",
-   "type": "Over/Under",
-   "matchup": "UT Arlington Mavericks @ Hawai'i Rainbow Warriors",
-   "pick": "Under 147.5 total points",
-   "odds": -110,
-   "units": 0.5,
-   "gap": null,
-   "start": "2026-11-08T20:00:00",
-   "timed": true,
-   "espn": {
-    "legs": [
-     {
-      "kind": "total",
-      "side": null,
-      "ou": "U",
-      "line": 147.5,
-      "path": "basketball/mens-college-basketball",
-      "event": "401929002",
-      "date": "20261108"
-     }
-    ],
-    "sport": "NCAAB"
-   }
-  },
   {
    "n": 573,
    "league": "NFL",
@@ -725,6 +582,84 @@
    }
   },
   {
+   "n": 704,
+   "league": "NCAAB",
+   "type": "Over/Under",
+   "matchup": "North Dakota State Bison @ Cal State Bakersfield Roadrunners",
+   "pick": "Under 152.5 total points",
+   "odds": -110,
+   "units": 0.5,
+   "gap": null,
+   "start": "2026-11-08T15:00:00",
+   "timed": true,
+   "espn": {
+    "legs": [
+     {
+      "kind": "total",
+      "side": null,
+      "ou": "U",
+      "line": 152.5,
+      "path": "basketball/mens-college-basketball",
+      "event": "401919029",
+      "date": "20261108"
+     }
+    ],
+    "sport": "NCAAB"
+   }
+  },
+  {
+   "n": 705,
+   "league": "NCAAB",
+   "type": "Over/Under",
+   "matchup": "UT Arlington Mavericks @ Hawai'i Rainbow Warriors",
+   "pick": "Under 147.5 total points",
+   "odds": -110,
+   "units": 0.5,
+   "gap": null,
+   "start": "2026-11-08T20:00:00",
+   "timed": true,
+   "espn": {
+    "legs": [
+     {
+      "kind": "total",
+      "side": null,
+      "ou": "U",
+      "line": 147.5,
+      "path": "basketball/mens-college-basketball",
+      "event": "401929002",
+      "date": "20261108"
+     }
+    ],
+    "sport": "NCAAB"
+   }
+  },
+  {
+   "n": 707,
+   "league": "NHL",
+   "type": "Player Prop",
+   "matchup": "Tampa Bay Lightning @ Winnipeg Jets",
+   "pick": "Kyle Connor Over 0.5 assists",
+   "odds": -120,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-08T15:00:00",
+   "timed": true,
+   "espn": {
+    "legs": [
+     {
+      "kind": "team_total",
+      "side": "Kyle Connor",
+      "ou": "O",
+      "line": 0.5,
+      "path": "hockey/nhl",
+      "event": "401892677",
+      "date": "20261108"
+     }
+    ],
+    "sport": "NHL"
+   }
+  },
+  {
    "n": 708,
    "league": "NFL",
    "type": "Team Total",
@@ -857,8 +792,8 @@
    "n": 16
   },
   "2026-11-08": {
-   "u": 2.5,
-   "n": 1
+   "u": 2.65,
+   "n": 2
   }
  }
 }
