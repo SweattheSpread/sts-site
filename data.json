@@ -1,5 +1,5 @@
 {
- "updated": "Nov 9, 2026, 10:15 AM PT",
+ "updated": "Nov 9, 2026, 11:21 AM PT",
  "record": {
   "w": 126,
   "l": 132,
@@ -11,7 +11,7 @@
   "first": "2026-10-12",
   "last": "2026-11-08"
  },
- "pending": 12,
+ "pending": 13,
  "latest": [
   {
    "n": 708,
@@ -162,7 +162,21 @@
    "units": 1.0,
    "gap": null,
    "start": "2026-11-09T15:00:00",
-   "timed": true
+   "timed": true,
+   "espn": {
+    "legs": [
+     {
+      "kind": "total",
+      "side": null,
+      "ou": "U",
+      "line": 162.5,
+      "path": "basketball/mens-college-basketball",
+      "event": "401916315",
+      "date": "20261109"
+     }
+    ],
+    "sport": "NCAAB"
+   }
   },
   {
    "n": 714,
@@ -174,7 +188,20 @@
    "units": 1.0,
    "gap": null,
    "start": "2026-11-09T16:00:00",
-   "timed": true
+   "timed": true,
+   "espn": {
+    "legs": [
+     {
+      "kind": "spread",
+      "side": "UNC Greensboro Spartans",
+      "line": 19.5,
+      "path": "basketball/mens-college-basketball",
+      "event": "401926181",
+      "date": "20261109"
+     }
+    ],
+    "sport": "NCAAB"
+   }
   },
   {
    "n": 715,
@@ -186,7 +213,20 @@
    "units": 1.0,
    "gap": null,
    "start": "2026-11-09T17:00:00",
-   "timed": true
+   "timed": true,
+   "espn": {
+    "legs": [
+     {
+      "kind": "spread",
+      "side": "Louisiana Tech Bulldogs",
+      "line": 29.5,
+      "path": "basketball/mens-college-basketball",
+      "event": "401906793",
+      "date": "20261109"
+     }
+    ],
+    "sport": "NCAAB"
+   }
   },
   {
    "n": 716,
@@ -198,7 +238,21 @@
    "units": 1.0,
    "gap": null,
    "start": "2026-11-09T17:00:00",
-   "timed": true
+   "timed": true,
+   "espn": {
+    "legs": [
+     {
+      "kind": "total",
+      "side": null,
+      "ou": "U",
+      "line": 147.5,
+      "path": "basketball/mens-college-basketball",
+      "event": "401906793",
+      "date": "20261109"
+     }
+    ],
+    "sport": "NCAAB"
+   }
   },
   {
    "n": 573,
@@ -252,6 +306,31 @@
    }
   },
   {
+   "n": 720,
+   "league": "NBA",
+   "type": "Spread",
+   "matchup": "Denver Nuggets @ Houston Rockets",
+   "pick": "Denver Nuggets +8.5",
+   "odds": -102,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-09T17:40:00",
+   "timed": true,
+   "espn": {
+    "legs": [
+     {
+      "kind": "spread",
+      "side": "Denver Nuggets",
+      "line": 8.5,
+      "path": "basketball/nba",
+      "event": "401909957",
+      "date": "20261109"
+     }
+    ],
+    "sport": "NBA"
+   }
+  },
+  {
    "n": 717,
    "league": "NCAAB",
    "type": "Spread",
@@ -261,7 +340,20 @@
    "units": 1.0,
    "gap": null,
    "start": "2026-11-09T18:00:00",
-   "timed": true
+   "timed": true,
+   "espn": {
+    "legs": [
+     {
+      "kind": "spread",
+      "side": "Appalachian State Mountaineers",
+      "line": 23.5,
+      "path": "basketball/mens-college-basketball",
+      "event": "401906793",
+      "date": "20261109"
+     }
+    ],
+    "sport": "NCAAB"
+   }
   },
   {
    "n": 718,
@@ -273,7 +365,21 @@
    "units": 1.0,
    "gap": null,
    "start": "2026-11-09T18:00:00",
-   "timed": true
+   "timed": true,
+   "espn": {
+    "legs": [
+     {
+      "kind": "total",
+      "side": null,
+      "ou": "U",
+      "line": 145.5,
+      "path": "basketball/mens-college-basketball",
+      "event": "401906793",
+      "date": "20261109"
+     }
+    ],
+    "sport": "NCAAB"
+   }
   },
   {
    "n": 712,
@@ -335,7 +441,21 @@
    "units": 1.0,
    "gap": null,
    "start": "2026-11-09T20:59:00",
-   "timed": true
+   "timed": true,
+   "espn": {
+    "legs": [
+     {
+      "kind": "total",
+      "side": null,
+      "ou": "U",
+      "line": 157.0,
+      "path": "basketball/mens-college-basketball",
+      "event": "401929003",
+      "date": "20261109"
+     }
+    ],
+    "sport": "NCAAB"
+   }
   }
  ],
  "awaiting": [],
