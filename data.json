@@ -1,5 +1,5 @@
 {
- "updated": "Nov 8, 2026, 9:22 PM PT",
+ "updated": "Nov 8, 2026, 9:50 PM PT",
  "record": {
   "w": 112,
   "l": 122,
@@ -11,7 +11,7 @@
   "first": "2026-10-12",
   "last": "2026-11-08"
  },
- "pending": 22,
+ "pending": 23,
  "latest": [
   {
    "n": 706,
@@ -119,6 +119,39 @@
   }
  ],
  "picks": [
+  {
+   "n": 709,
+   "league": "Tennis",
+   "type": "Parlay",
+   "matchup": "WTA Finals 2-leg parlay",
+   "pick": "Aryna Sabalenka ML vs Karolina Muchova (12:00 PM PT) + Mirra Andreeva ML vs Elina Svitolina (1:30 PM PT)",
+   "odds": 132,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-09T12:00:00",
+   "timed": true,
+   "espn": {
+    "legs": [
+     {
+      "kind": "ml",
+      "side": "Aryna Sabalenka",
+      "path": "tennis/wta",
+      "event": "382-2026",
+      "comp": "187381",
+      "date": "20261109"
+     },
+     {
+      "kind": "ml",
+      "side": "Mirra Andreeva",
+      "path": "tennis/wta",
+      "event": "382-2026",
+      "comp": "187382",
+      "date": "20261109"
+     }
+    ],
+    "sport": "Tennis"
+   }
+  },
   {
    "n": 573,
    "league": "NFL",
