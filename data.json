@@ -1,5 +1,5 @@
 {
- "updated": "Nov 9, 2026, 12:56 PM PT",
+ "updated": "Nov 9, 2026, 2:51 PM PT",
  "record": {
   "w": 126,
   "l": 132,
@@ -11,7 +11,7 @@
   "first": "2026-10-12",
   "last": "2026-11-08"
  },
- "pending": 14,
+ "pending": 15,
  "latest": [
   {
    "n": 708,
@@ -188,6 +188,30 @@
       "side": "Zach Edey",
       "ou": "O",
       "line": 8.5,
+      "path": "basketball/nba",
+      "event": "401909955",
+      "date": "20261109"
+     }
+    ],
+    "sport": "NBA"
+   }
+  },
+  {
+   "n": 722,
+   "league": "NBA",
+   "type": "Moneyline",
+   "matchup": "Memphis Grizzlies @ Toronto Raptors",
+   "pick": "Memphis Grizzlies ML",
+   "odds": 110,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-09T16:40:00",
+   "timed": true,
+   "espn": {
+    "legs": [
+     {
+      "kind": "ml",
+      "side": "Memphis Grizzlies",
       "path": "basketball/nba",
       "event": "401909955",
       "date": "20261109"
