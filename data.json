@@ -1,5 +1,5 @@
 {
- "updated": "Nov 9, 2026, 3:22 AM PT",
+ "updated": "Nov 9, 2026, 7:55 AM PT",
  "record": {
   "w": 126,
   "l": 132,
@@ -11,7 +11,7 @@
   "first": "2026-10-12",
   "last": "2026-11-08"
  },
- "pending": 3,
+ "pending": 5,
  "latest": [
   {
    "n": 708,
@@ -201,6 +201,56 @@
      }
     ],
     "sport": "NFL"
+   }
+  },
+  {
+   "n": 712,
+   "league": "NHL",
+   "type": "Over/Under",
+   "matchup": "Philadelphia Flyers @ Vancouver Canucks",
+   "pick": "Under 6 total goals (full game)",
+   "odds": 100,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-09T18:40:00",
+   "timed": true,
+   "espn": {
+    "legs": [
+     {
+      "kind": "total",
+      "side": null,
+      "ou": "U",
+      "line": 6.0,
+      "path": "hockey/nhl",
+      "event": "401892681",
+      "date": "20261109"
+     }
+    ],
+    "sport": "NHL"
+   }
+  },
+  {
+   "n": 711,
+   "league": "NHL",
+   "type": "Moneyline",
+   "matchup": "New York Islanders @ San Jose Sharks",
+   "pick": "New York Islanders ML",
+   "odds": -139,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-09T19:10:00",
+   "timed": true,
+   "espn": {
+    "legs": [
+     {
+      "kind": "ml",
+      "side": "New York Islanders",
+      "path": "hockey/nhl",
+      "event": "401892682",
+      "date": "20261109"
+     }
+    ],
+    "sport": "NHL"
    }
   }
  ],
