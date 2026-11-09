@@ -1,5 +1,5 @@
 {
- "updated": "Nov 9, 2026, 12:06 AM PT",
+ "updated": "Nov 9, 2026, 3:22 AM PT",
  "record": {
   "w": 126,
   "l": 132,
@@ -11,7 +11,7 @@
   "first": "2026-10-12",
   "last": "2026-11-08"
  },
- "pending": 2,
+ "pending": 3,
  "latest": [
   {
    "n": 708,
@@ -169,6 +169,32 @@
       "kind": "spread",
       "side": "Minnesota Vikings",
       "line": 2.5,
+      "path": "football/nfl",
+      "event": "401873051",
+      "date": "20261109"
+     }
+    ],
+    "sport": "NFL"
+   }
+  },
+  {
+   "n": 710,
+   "league": "NFL",
+   "type": "Player Prop",
+   "matchup": "#710 NFL GAP PLAY (official) \u2014 Buffalo Bills @ Minnesota Vikings",
+   "pick": "Khalil Shakir longest reception OVER 16.5 yds",
+   "odds": -115,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-09T17:15:00",
+   "timed": true,
+   "espn": {
+    "legs": [
+     {
+      "kind": "team_total",
+      "side": "Khalil Shakir longest reception",
+      "ou": "O",
+      "line": 16.5,
       "path": "football/nfl",
       "event": "401873051",
       "date": "20261109"
