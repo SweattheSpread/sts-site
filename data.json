@@ -1,5 +1,5 @@
 {
- "updated": "Nov 10, 2026, 12:27 AM PT",
+ "updated": "Nov 10, 2026, 4:45 AM PT",
  "record": {
   "w": 136,
   "l": 137,
@@ -11,7 +11,7 @@
   "first": "2026-10-12",
   "last": "2026-11-09"
  },
- "pending": 6,
+ "pending": 8,
  "latest": [
   {
    "n": 722,
@@ -120,18 +120,6 @@
  ],
  "picks": [
   {
-   "n": 723,
-   "league": "Tennis",
-   "type": "Moneyline",
-   "matchup": "Challenger Orleans: Buvaysar Gadamauri vs Dusan Lajovic",
-   "pick": "Buvaysar Gadamauri ML",
-   "odds": 100,
-   "units": 1.0,
-   "gap": null,
-   "start": "2026-11-10T03:30:00",
-   "timed": true
-  },
-  {
    "n": 724,
    "league": "Tennis",
    "type": "Moneyline",
@@ -216,9 +204,74 @@
     ],
     "sport": "Tennis"
    }
+  },
+  {
+   "n": 729,
+   "league": "NHL",
+   "type": "Player Prop",
+   "matchup": "Florida Panthers @ Columbus Blue Jackets",
+   "pick": "Matthew Tkachuk OVER 0.5 assists",
+   "odds": 100,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-10T16:30:00",
+   "timed": true,
+   "espn": {
+    "legs": [
+     {
+      "kind": "team_total",
+      "side": "Matthew Tkachuk",
+      "ou": "O",
+      "line": 0.5,
+      "path": "hockey/nhl",
+      "event": "401892686",
+      "date": "20261110"
+     }
+    ],
+    "sport": "NHL"
+   }
+  },
+  {
+   "n": 730,
+   "league": "NHL",
+   "type": "Player Prop",
+   "matchup": "Detroit Red Wings @ St. Louis Blues",
+   "pick": "Alex DeBrincat OVER 3.5 shots on goal",
+   "odds": 130,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-10T17:00:00",
+   "timed": true,
+   "espn": {
+    "legs": [
+     {
+      "kind": "team_total",
+      "side": "Alex DeBrincat",
+      "ou": "O",
+      "line": 3.5,
+      "path": "hockey/nhl",
+      "event": "401892687",
+      "date": "20261110"
+     }
+    ],
+    "sport": "NHL"
+   }
   }
  ],
- "awaiting": [],
+ "awaiting": [
+  {
+   "n": 723,
+   "league": "Tennis",
+   "type": "Moneyline",
+   "matchup": "Challenger Orleans: Buvaysar Gadamauri vs Dusan Lajovic",
+   "pick": "Buvaysar Gadamauri ML",
+   "odds": 100,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-10T03:30:00",
+   "timed": true
+  }
+ ],
  "daily": {
   "2026-10-12": {
    "u": 5.67,
