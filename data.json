@@ -1,5 +1,5 @@
 {
- "updated": "Nov 10, 2026, 10:51 AM PT",
+ "updated": "Nov 10, 2026, 3:20 PM PT",
  "record": {
   "w": 136,
   "l": 137,
@@ -11,7 +11,7 @@
   "first": "2026-10-12",
   "last": "2026-11-09"
  },
- "pending": 14,
+ "pending": 15,
  "latest": [
   {
    "n": 722,
@@ -120,56 +120,6 @@
  ],
  "picks": [
   {
-   "n": 727,
-   "league": "Tennis",
-   "type": "Moneyline",
-   "matchup": "WTA Finals: Marta Kostyuk vs Jessica Pegula",
-   "pick": "Marta Kostyuk ML",
-   "odds": 150,
-   "units": 1.0,
-   "gap": null,
-   "start": "2026-11-10T12:00:00",
-   "timed": true,
-   "espn": {
-    "legs": [
-     {
-      "kind": "ml",
-      "side": "Marta Kostyuk",
-      "path": "tennis/wta",
-      "event": "382-2026",
-      "comp": "187373",
-      "date": "20261110"
-     }
-    ],
-    "sport": "Tennis"
-   }
-  },
-  {
-   "n": 728,
-   "league": "Tennis",
-   "type": "Moneyline",
-   "matchup": "WTA Finals: Coco Gauff vs Linda Noskova",
-   "pick": "Linda Noskova ML",
-   "odds": 146,
-   "units": 1.0,
-   "gap": null,
-   "start": "2026-11-10T13:30:00",
-   "timed": true,
-   "espn": {
-    "legs": [
-     {
-      "kind": "ml",
-      "side": "Linda Noskova",
-      "path": "tennis/wta",
-      "event": "382-2026",
-      "comp": "187373",
-      "date": "20261110"
-     }
-    ],
-    "sport": "Tennis"
-   }
-  },
-  {
    "n": 731,
    "league": "NCAAB",
    "type": "Spread",
@@ -244,6 +194,32 @@
      }
     ],
     "sport": "NCAAB"
+   }
+  },
+  {
+   "n": 738,
+   "league": "NHL",
+   "type": "Over/Under",
+   "matchup": "Washington Capitals @ Ottawa Senators",
+   "pick": "Over 6 total goals (full game; even-number total, push at 6)",
+   "odds": -120,
+   "units": 2.5,
+   "gap": null,
+   "start": "2026-11-10T16:10:00",
+   "timed": true,
+   "espn": {
+    "legs": [
+     {
+      "kind": "total",
+      "side": null,
+      "ou": "O",
+      "line": 6.0,
+      "path": "hockey/nhl",
+      "event": "401892685",
+      "date": "20261110"
+     }
+    ],
+    "sport": "NHL"
    }
   },
   {
@@ -438,6 +414,56 @@
    "gap": null,
    "start": "2026-11-10T08:30:00",
    "timed": true
+  },
+  {
+   "n": 727,
+   "league": "Tennis",
+   "type": "Moneyline",
+   "matchup": "WTA Finals: Marta Kostyuk vs Jessica Pegula",
+   "pick": "Marta Kostyuk ML",
+   "odds": 150,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-10T12:00:00",
+   "timed": true,
+   "espn": {
+    "legs": [
+     {
+      "kind": "ml",
+      "side": "Marta Kostyuk",
+      "path": "tennis/wta",
+      "event": "382-2026",
+      "comp": "187373",
+      "date": "20261110"
+     }
+    ],
+    "sport": "Tennis"
+   }
+  },
+  {
+   "n": 728,
+   "league": "Tennis",
+   "type": "Moneyline",
+   "matchup": "WTA Finals: Coco Gauff vs Linda Noskova",
+   "pick": "Linda Noskova ML",
+   "odds": 146,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-10T13:30:00",
+   "timed": true,
+   "espn": {
+    "legs": [
+     {
+      "kind": "ml",
+      "side": "Linda Noskova",
+      "path": "tennis/wta",
+      "event": "382-2026",
+      "comp": "187373",
+      "date": "20261110"
+     }
+    ],
+    "sport": "Tennis"
+   }
   }
  ],
  "daily": {
