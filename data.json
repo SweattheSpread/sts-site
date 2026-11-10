@@ -1,5 +1,5 @@
 {
- "updated": "Nov 10, 2026, 6:09 AM PT",
+ "updated": "Nov 10, 2026, 9:42 AM PT",
  "record": {
   "w": 136,
   "l": 137,
@@ -11,7 +11,7 @@
   "first": "2026-10-12",
   "last": "2026-11-09"
  },
- "pending": 7,
+ "pending": 12,
  "latest": [
   {
    "n": 722,
@@ -120,42 +120,6 @@
  ],
  "picks": [
   {
-   "n": 724,
-   "league": "Tennis",
-   "type": "Moneyline",
-   "matchup": "Challenger Orleans: Sebastian Baez vs Daniil Glinka",
-   "pick": "Daniil Glinka ML",
-   "odds": 114,
-   "units": 1.0,
-   "gap": null,
-   "start": "2026-11-10T06:30:00",
-   "timed": true
-  },
-  {
-   "n": 725,
-   "league": "Tennis",
-   "type": "Moneyline",
-   "matchup": "Challenger Orleans: Zsombor Piros vs Luca Nardi",
-   "pick": "Luca Nardi ML",
-   "odds": -105,
-   "units": 1.0,
-   "gap": null,
-   "start": "2026-11-10T06:30:00",
-   "timed": true
-  },
-  {
-   "n": 726,
-   "league": "Tennis",
-   "type": "Moneyline",
-   "matchup": "Challenger Lima: Thiago Monteiro vs Filip Misolic",
-   "pick": "Thiago Monteiro ML",
-   "odds": -109,
-   "units": 1.0,
-   "gap": null,
-   "start": "2026-11-10T08:30:00",
-   "timed": true
-  },
-  {
    "n": 727,
    "league": "Tennis",
    "type": "Moneyline",
@@ -203,6 +167,83 @@
      }
     ],
     "sport": "Tennis"
+   }
+  },
+  {
+   "n": 731,
+   "league": "NCAAB",
+   "type": "Spread",
+   "matchup": "Iona Gaels @ Fordham Rams",
+   "pick": "Iona Gaels +11.5",
+   "odds": -110,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-10T16:00:00",
+   "timed": true,
+   "espn": {
+    "legs": [
+     {
+      "kind": "spread",
+      "side": "Iona Gaels",
+      "line": 11.5,
+      "path": "basketball/mens-college-basketball",
+      "event": "401911196",
+      "date": "20261110"
+     }
+    ],
+    "sport": "NCAAB"
+   }
+  },
+  {
+   "n": 732,
+   "league": "NCAAB",
+   "type": "Over/Under",
+   "matchup": "Siena Saints @ Dayton Flyers",
+   "pick": "Under 159.5 total points",
+   "odds": -115,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-10T16:00:00",
+   "timed": true,
+   "espn": {
+    "legs": [
+     {
+      "kind": "total",
+      "side": null,
+      "ou": "U",
+      "line": 159.5,
+      "path": "basketball/mens-college-basketball",
+      "event": "401911187",
+      "date": "20261110"
+     }
+    ],
+    "sport": "NCAAB"
+   }
+  },
+  {
+   "n": 733,
+   "league": "NCAAB",
+   "type": "Over/Under",
+   "matchup": "Maine Black Bears @ Rhode Island Rams",
+   "pick": "Under 140.5 total points",
+   "odds": -105,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-10T16:00:00",
+   "timed": true,
+   "espn": {
+    "legs": [
+     {
+      "kind": "total",
+      "side": null,
+      "ou": "U",
+      "line": 140.5,
+      "path": "basketball/mens-college-basketball",
+      "event": "401920063",
+      "date": "20261110"
+     }
+    ],
+    "sport": "NCAAB"
    }
   },
   {
@@ -256,9 +297,97 @@
     ],
     "sport": "NHL"
    }
+  },
+  {
+   "n": 734,
+   "league": "NCAAB",
+   "type": "Over/Under",
+   "matchup": "Illinois Fighting Illini @ Texas Tech Red Raiders",
+   "pick": "Under 166.5 total points",
+   "odds": -105,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-10T17:00:00",
+   "timed": true,
+   "espn": {
+    "legs": [
+     {
+      "kind": "total",
+      "side": null,
+      "ou": "U",
+      "line": 166.5,
+      "path": "basketball/mens-college-basketball",
+      "event": "401913527",
+      "date": "20261110"
+     }
+    ],
+    "sport": "NCAAB"
+   }
+  },
+  {
+   "n": 735,
+   "league": "NCAAB",
+   "type": "Spread",
+   "matchup": "Weber State Wildcats @ Utah Utes",
+   "pick": "Weber State Wildcats +16.5",
+   "odds": -105,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-10T18:00:00",
+   "timed": true,
+   "espn": {
+    "legs": [
+     {
+      "kind": "spread",
+      "side": "Weber State Wildcats",
+      "line": 16.5,
+      "path": "basketball/mens-college-basketball",
+      "event": "401925940",
+      "date": "20261110"
+     }
+    ],
+    "sport": "NCAAB"
+   }
   }
  ],
- "awaiting": [],
+ "awaiting": [
+  {
+   "n": 724,
+   "league": "Tennis",
+   "type": "Moneyline",
+   "matchup": "Challenger Orleans: Sebastian Baez vs Daniil Glinka",
+   "pick": "Daniil Glinka ML",
+   "odds": 114,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-10T06:30:00",
+   "timed": true
+  },
+  {
+   "n": 725,
+   "league": "Tennis",
+   "type": "Moneyline",
+   "matchup": "Challenger Orleans: Zsombor Piros vs Luca Nardi",
+   "pick": "Luca Nardi ML",
+   "odds": -105,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-10T06:30:00",
+   "timed": true
+  },
+  {
+   "n": 726,
+   "league": "Tennis",
+   "type": "Moneyline",
+   "matchup": "Challenger Lima: Thiago Monteiro vs Filip Misolic",
+   "pick": "Thiago Monteiro ML",
+   "odds": -109,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-10T08:30:00",
+   "timed": true
+  }
+ ],
  "daily": {
   "2026-10-12": {
    "u": 5.67,
