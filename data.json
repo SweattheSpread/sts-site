@@ -1,5 +1,5 @@
 {
- "updated": "Nov 10, 2026, 12:08 AM PT",
+ "updated": "Nov 10, 2026, 12:27 AM PT",
  "record": {
   "w": 136,
   "l": 137,
@@ -11,7 +11,7 @@
   "first": "2026-10-12",
   "last": "2026-11-09"
  },
- "pending": 0,
+ "pending": 6,
  "latest": [
   {
    "n": 722,
@@ -118,7 +118,106 @@
    "pl": -1.0
   }
  ],
- "picks": [],
+ "picks": [
+  {
+   "n": 723,
+   "league": "Tennis",
+   "type": "Moneyline",
+   "matchup": "Challenger Orleans: Buvaysar Gadamauri vs Dusan Lajovic",
+   "pick": "Buvaysar Gadamauri ML",
+   "odds": 100,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-10T03:30:00",
+   "timed": true
+  },
+  {
+   "n": 724,
+   "league": "Tennis",
+   "type": "Moneyline",
+   "matchup": "Challenger Orleans: Sebastian Baez vs Daniil Glinka",
+   "pick": "Daniil Glinka ML",
+   "odds": 114,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-10T06:30:00",
+   "timed": true
+  },
+  {
+   "n": 725,
+   "league": "Tennis",
+   "type": "Moneyline",
+   "matchup": "Challenger Orleans: Zsombor Piros vs Luca Nardi",
+   "pick": "Luca Nardi ML",
+   "odds": -105,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-10T06:30:00",
+   "timed": true
+  },
+  {
+   "n": 726,
+   "league": "Tennis",
+   "type": "Moneyline",
+   "matchup": "Challenger Lima: Thiago Monteiro vs Filip Misolic",
+   "pick": "Thiago Monteiro ML",
+   "odds": -109,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-10T08:30:00",
+   "timed": true
+  },
+  {
+   "n": 727,
+   "league": "Tennis",
+   "type": "Moneyline",
+   "matchup": "WTA Finals: Marta Kostyuk vs Jessica Pegula",
+   "pick": "Marta Kostyuk ML",
+   "odds": 150,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-10T12:00:00",
+   "timed": true,
+   "espn": {
+    "legs": [
+     {
+      "kind": "ml",
+      "side": "Marta Kostyuk",
+      "path": "tennis/wta",
+      "event": "382-2026",
+      "comp": "187373",
+      "date": "20261110"
+     }
+    ],
+    "sport": "Tennis"
+   }
+  },
+  {
+   "n": 728,
+   "league": "Tennis",
+   "type": "Moneyline",
+   "matchup": "WTA Finals: Coco Gauff vs Linda Noskova",
+   "pick": "Linda Noskova ML",
+   "odds": 146,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-10T13:30:00",
+   "timed": true,
+   "espn": {
+    "legs": [
+     {
+      "kind": "ml",
+      "side": "Linda Noskova",
+      "path": "tennis/wta",
+      "event": "382-2026",
+      "comp": "187373",
+      "date": "20261110"
+     }
+    ],
+    "sport": "Tennis"
+   }
+  }
+ ],
  "awaiting": [],
  "daily": {
   "2026-10-12": {
