@@ -1,515 +1,125 @@
 {
- "updated": "Nov 9, 2026, 2:51 PM PT",
+ "updated": "Nov 9, 2026, 11:28 PM PT",
  "record": {
-  "w": 126,
-  "l": 132,
+  "w": 136,
+  "l": 137,
   "p": 0,
-  "n": 258,
-  "units": 27.99,
-  "risked": 391.25,
-  "roi": 7.15,
+  "n": 273,
+  "units": 32.74,
+  "risked": 406.25,
+  "roi": 8.06,
   "first": "2026-10-12",
-  "last": "2026-11-08"
+  "last": "2026-11-09"
  },
- "pending": 15,
+ "pending": 0,
  "latest": [
   {
-   "n": 708,
-   "date": "2026-11-08",
-   "day": "2026-11-08",
-   "league": "NFL",
-   "type": "Team Total",
-   "matchup": "Green Bay Packers @ New England Patriots",
-   "pick": "Green Bay Packers team total Over 33.5 points (full game; GB needs 34+ final points) LIVE",
-   "odds": -115,
-   "units": 2.5,
-   "result": "W",
-   "pl": 2.17
-  },
-  {
-   "n": 707,
-   "date": "2026-11-08",
-   "day": "2026-11-08",
-   "league": "NHL",
-   "type": "Player Prop",
-   "matchup": "Tampa Bay Lightning @ Winnipeg Jets",
-   "pick": "Kyle Connor Over 0.5 assists",
-   "odds": -120,
-   "units": 1.0,
-   "result": "L",
-   "pl": -1.0
-  },
-  {
-   "n": 706,
-   "date": "2026-11-08",
-   "day": "2026-11-08",
-   "league": "NFL",
-   "type": "Player prop",
-   "matchup": "Denver Broncos @ Carolina Panthers",
-   "pick": "Jonah Coleman anytime TD LIVE",
-   "odds": 100,
-   "units": 2.5,
-   "result": "W",
-   "pl": 2.5
-  },
-  {
-   "n": 705,
-   "date": "2026-11-08",
-   "day": "2026-11-08",
-   "league": "NCAAB",
-   "type": "Over/Under",
-   "matchup": "UT Arlington Mavericks @ Hawai'i Rainbow Warriors",
-   "pick": "Under 147.5 total points",
-   "odds": -110,
-   "units": 0.5,
-   "result": "W",
-   "pl": 0.45
-  },
-  {
-   "n": 704,
-   "date": "2026-11-08",
-   "day": "2026-11-08",
-   "league": "NCAAB",
-   "type": "Over/Under",
-   "matchup": "North Dakota State Bison @ Cal State Bakersfield Roadrunners",
-   "pick": "Under 152.5 total points",
-   "odds": -110,
-   "units": 0.5,
-   "result": "L",
-   "pl": -0.5
-  },
-  {
-   "n": 703,
-   "date": "2026-11-08",
-   "day": "2026-11-08",
-   "league": "NCAAB",
-   "type": "Over/Under",
-   "matchup": "Richmond Spiders @ Temple Owls",
-   "pick": "Under 152.5 total points",
-   "odds": -110,
-   "units": 0.5,
-   "result": "W",
-   "pl": 0.45
-  },
-  {
-   "n": 702,
-   "date": "2026-11-08",
-   "day": "2026-11-08",
-   "league": "NCAAB",
-   "type": "Spread",
-   "matchup": "Butler Bulldogs @ Boise State Broncos",
-   "pick": "Boise State Broncos -2.5",
-   "odds": -110,
-   "units": 0.5,
-   "result": "W",
-   "pl": 0.45
-  },
-  {
-   "n": 701,
-   "date": "2026-11-08",
-   "day": "2026-11-08",
-   "league": "NCAAB",
-   "type": "Over/Under",
-   "matchup": "Princeton Tigers @ Siena Saints",
-   "pick": "Under 154.5 total points",
-   "odds": -105,
-   "units": 0.5,
-   "result": "W",
-   "pl": 0.48
-  }
- ],
- "picks": [
-  {
-   "n": 713,
-   "league": "NCAAB",
-   "type": "Over/Under",
-   "matchup": "Marshall Thundering Herd @ Ohio State Buckeyes",
-   "pick": "Under 162.5 total points",
-   "odds": -115,
-   "units": 1.0,
-   "gap": null,
-   "start": "2026-11-09T15:00:00",
-   "timed": true,
-   "espn": {
-    "legs": [
-     {
-      "kind": "total",
-      "side": null,
-      "ou": "U",
-      "line": 162.5,
-      "path": "basketball/mens-college-basketball",
-      "event": "401916315",
-      "date": "20261109"
-     }
-    ],
-    "sport": "NCAAB"
-   }
-  },
-  {
-   "n": 714,
-   "league": "NCAAB",
-   "type": "Spread",
-   "matchup": "UNC Greensboro Spartans @ UIC Flames",
-   "pick": "UNC Greensboro Spartans +19.5",
-   "odds": -110,
-   "units": 1.0,
-   "gap": null,
-   "start": "2026-11-09T16:00:00",
-   "timed": true,
-   "espn": {
-    "legs": [
-     {
-      "kind": "spread",
-      "side": "UNC Greensboro Spartans",
-      "line": 19.5,
-      "path": "basketball/mens-college-basketball",
-      "event": "401926181",
-      "date": "20261109"
-     }
-    ],
-    "sport": "NCAAB"
-   }
-  },
-  {
-   "n": 721,
-   "league": "NBA",
-   "type": "Player Prop",
-   "matchup": "Memphis Grizzlies @ Toronto Raptors",
-   "pick": "Zach Edey OVER 8.5 points",
-   "odds": -110,
-   "units": 1.0,
-   "gap": null,
-   "start": "2026-11-09T16:40:00",
-   "timed": true,
-   "espn": {
-    "legs": [
-     {
-      "kind": "team_total",
-      "side": "Zach Edey",
-      "ou": "O",
-      "line": 8.5,
-      "path": "basketball/nba",
-      "event": "401909955",
-      "date": "20261109"
-     }
-    ],
-    "sport": "NBA"
-   }
-  },
-  {
    "n": 722,
+   "date": "2026-11-09",
+   "day": "2026-11-09",
    "league": "NBA",
    "type": "Moneyline",
    "matchup": "Memphis Grizzlies @ Toronto Raptors",
    "pick": "Memphis Grizzlies ML",
    "odds": 110,
    "units": 1.0,
-   "gap": null,
-   "start": "2026-11-09T16:40:00",
-   "timed": true,
-   "espn": {
-    "legs": [
-     {
-      "kind": "ml",
-      "side": "Memphis Grizzlies",
-      "path": "basketball/nba",
-      "event": "401909955",
-      "date": "20261109"
-     }
-    ],
-    "sport": "NBA"
-   }
+   "result": "W",
+   "pl": 1.1
   },
   {
-   "n": 715,
-   "league": "NCAAB",
-   "type": "Spread",
-   "matchup": "Louisiana Tech Bulldogs @ LSU Tigers",
-   "pick": "Louisiana Tech Bulldogs +29.5",
+   "n": 721,
+   "date": "2026-11-09",
+   "day": "2026-11-09",
+   "league": "NBA",
+   "type": "Player Prop",
+   "matchup": "Memphis Grizzlies @ Toronto Raptors",
+   "pick": "Zach Edey OVER 8.5 points",
    "odds": -110,
    "units": 1.0,
-   "gap": null,
-   "start": "2026-11-09T17:00:00",
-   "timed": true,
-   "espn": {
-    "legs": [
-     {
-      "kind": "spread",
-      "side": "Louisiana Tech Bulldogs",
-      "line": 29.5,
-      "path": "basketball/mens-college-basketball",
-      "event": "401906793",
-      "date": "20261109"
-     }
-    ],
-    "sport": "NCAAB"
-   }
-  },
-  {
-   "n": 716,
-   "league": "NCAAB",
-   "type": "Over/Under",
-   "matchup": "Louisiana Tech Bulldogs @ LSU Tigers",
-   "pick": "Under 147.5 total points",
-   "odds": -105,
-   "units": 1.0,
-   "gap": null,
-   "start": "2026-11-09T17:00:00",
-   "timed": true,
-   "espn": {
-    "legs": [
-     {
-      "kind": "total",
-      "side": null,
-      "ou": "U",
-      "line": 147.5,
-      "path": "basketball/mens-college-basketball",
-      "event": "401906793",
-      "date": "20261109"
-     }
-    ],
-    "sport": "NCAAB"
-   }
-  },
-  {
-   "n": 573,
-   "league": "NFL",
-   "type": "Spread",
-   "matchup": "Buffalo Bills @ Minnesota Vikings",
-   "pick": "Minnesota Vikings +2.5",
-   "odds": -109,
-   "units": 1.0,
-   "gap": 4.7,
-   "start": "2026-11-09T17:15:00",
-   "timed": true,
-   "espn": {
-    "legs": [
-     {
-      "kind": "spread",
-      "side": "Minnesota Vikings",
-      "line": 2.5,
-      "path": "football/nfl",
-      "event": "401873051",
-      "date": "20261109"
-     }
-    ],
-    "sport": "NFL"
-   }
-  },
-  {
-   "n": 710,
-   "league": "NFL",
-   "type": "Player Prop",
-   "matchup": "#710 NFL GAP PLAY (official) \u2014 Buffalo Bills @ Minnesota Vikings",
-   "pick": "Khalil Shakir longest reception OVER 16.5 yds",
-   "odds": -115,
-   "units": 1.0,
-   "gap": null,
-   "start": "2026-11-09T17:15:00",
-   "timed": true,
-   "espn": {
-    "legs": [
-     {
-      "kind": "team_total",
-      "side": "Khalil Shakir longest reception",
-      "ou": "O",
-      "line": 16.5,
-      "path": "football/nfl",
-      "event": "401873051",
-      "date": "20261109"
-     }
-    ],
-    "sport": "NFL"
-   }
+   "result": "L",
+   "pl": -1.0
   },
   {
    "n": 720,
+   "date": "2026-11-09",
+   "day": "2026-11-09",
    "league": "NBA",
    "type": "Spread",
    "matchup": "Denver Nuggets @ Houston Rockets",
    "pick": "Denver Nuggets +8.5",
    "odds": -102,
    "units": 1.0,
-   "gap": null,
-   "start": "2026-11-09T17:40:00",
-   "timed": true,
-   "espn": {
-    "legs": [
-     {
-      "kind": "spread",
-      "side": "Denver Nuggets",
-      "line": 8.5,
-      "path": "basketball/nba",
-      "event": "401909957",
-      "date": "20261109"
-     }
-    ],
-    "sport": "NBA"
-   }
-  },
-  {
-   "n": 717,
-   "league": "NCAAB",
-   "type": "Spread",
-   "matchup": "Appalachian State Mountaineers @ Auburn Tigers",
-   "pick": "Appalachian State Mountaineers +23.5",
-   "odds": -110,
-   "units": 1.0,
-   "gap": null,
-   "start": "2026-11-09T18:00:00",
-   "timed": true,
-   "espn": {
-    "legs": [
-     {
-      "kind": "spread",
-      "side": "Appalachian State Mountaineers",
-      "line": 23.5,
-      "path": "basketball/mens-college-basketball",
-      "event": "401906793",
-      "date": "20261109"
-     }
-    ],
-    "sport": "NCAAB"
-   }
-  },
-  {
-   "n": 718,
-   "league": "NCAAB",
-   "type": "Over/Under",
-   "matchup": "Appalachian State Mountaineers @ Auburn Tigers",
-   "pick": "Under 145.5 total points",
-   "odds": -110,
-   "units": 1.0,
-   "gap": null,
-   "start": "2026-11-09T18:00:00",
-   "timed": true,
-   "espn": {
-    "legs": [
-     {
-      "kind": "total",
-      "side": null,
-      "ou": "U",
-      "line": 145.5,
-      "path": "basketball/mens-college-basketball",
-      "event": "401906793",
-      "date": "20261109"
-     }
-    ],
-    "sport": "NCAAB"
-   }
-  },
-  {
-   "n": 712,
-   "league": "NHL",
-   "type": "Over/Under",
-   "matchup": "Philadelphia Flyers @ Vancouver Canucks",
-   "pick": "Under 6 total goals (full game)",
-   "odds": 100,
-   "units": 1.0,
-   "gap": null,
-   "start": "2026-11-09T18:40:00",
-   "timed": true,
-   "espn": {
-    "legs": [
-     {
-      "kind": "total",
-      "side": null,
-      "ou": "U",
-      "line": 6.0,
-      "path": "hockey/nhl",
-      "event": "401892681",
-      "date": "20261109"
-     }
-    ],
-    "sport": "NHL"
-   }
-  },
-  {
-   "n": 711,
-   "league": "NHL",
-   "type": "Moneyline",
-   "matchup": "New York Islanders @ San Jose Sharks",
-   "pick": "New York Islanders ML",
-   "odds": -139,
-   "units": 1.0,
-   "gap": null,
-   "start": "2026-11-09T19:10:00",
-   "timed": true,
-   "espn": {
-    "legs": [
-     {
-      "kind": "ml",
-      "side": "New York Islanders",
-      "path": "hockey/nhl",
-      "event": "401892682",
-      "date": "20261109"
-     }
-    ],
-    "sport": "NHL"
-   }
+   "result": "L",
+   "pl": -1.0
   },
   {
    "n": 719,
+   "date": "2026-11-09",
+   "day": "2026-11-09",
    "league": "NCAAB",
    "type": "Over/Under",
    "matchup": "Portland Pilots @ Hawai'i Rainbow Warriors",
    "pick": "Under 157 total points",
    "odds": -110,
    "units": 1.0,
-   "gap": null,
-   "start": "2026-11-09T20:59:00",
-   "timed": true,
-   "espn": {
-    "legs": [
-     {
-      "kind": "total",
-      "side": null,
-      "ou": "U",
-      "line": 157.0,
-      "path": "basketball/mens-college-basketball",
-      "event": "401929003",
-      "date": "20261109"
-     }
-    ],
-    "sport": "NCAAB"
-   }
-  }
- ],
- "awaiting": [
+   "result": "W",
+   "pl": 0.91
+  },
   {
-   "n": 709,
-   "league": "Tennis",
-   "type": "Parlay",
-   "matchup": "WTA Finals 2-leg parlay",
-   "pick": "Aryna Sabalenka ML vs Karolina Muchova (12:00 PM PT) + Mirra Andreeva ML vs Elina Svitolina (1:30 PM PT)",
-   "odds": 132,
+   "n": 718,
+   "date": "2026-11-09",
+   "day": "2026-11-09",
+   "league": "NCAAB",
+   "type": "Over/Under",
+   "matchup": "Appalachian State Mountaineers @ Auburn Tigers",
+   "pick": "Under 145.5 total points",
+   "odds": -110,
    "units": 1.0,
-   "gap": null,
-   "start": "2026-11-09T12:00:00",
-   "timed": true,
-   "espn": {
-    "legs": [
-     {
-      "kind": "ml",
-      "side": "Aryna Sabalenka",
-      "path": "tennis/wta",
-      "event": "382-2026",
-      "comp": "187381",
-      "date": "20261109"
-     },
-     {
-      "kind": "ml",
-      "side": "Mirra Andreeva",
-      "path": "tennis/wta",
-      "event": "382-2026",
-      "comp": "187382",
-      "date": "20261109"
-     }
-    ],
-    "sport": "Tennis"
-   }
+   "result": "W",
+   "pl": 0.91
+  },
+  {
+   "n": 717,
+   "date": "2026-11-09",
+   "day": "2026-11-09",
+   "league": "NCAAB",
+   "type": "Spread",
+   "matchup": "Appalachian State Mountaineers @ Auburn Tigers",
+   "pick": "Appalachian State Mountaineers +23.5",
+   "odds": -110,
+   "units": 1.0,
+   "result": "W",
+   "pl": 0.91
+  },
+  {
+   "n": 716,
+   "date": "2026-11-09",
+   "day": "2026-11-09",
+   "league": "NCAAB",
+   "type": "Over/Under",
+   "matchup": "Louisiana Tech Bulldogs @ LSU Tigers",
+   "pick": "Under 147.5 total points",
+   "odds": -105,
+   "units": 1.0,
+   "result": "W",
+   "pl": 0.95
+  },
+  {
+   "n": 715,
+   "date": "2026-11-09",
+   "day": "2026-11-09",
+   "league": "NCAAB",
+   "type": "Spread",
+   "matchup": "Louisiana Tech Bulldogs @ LSU Tigers",
+   "pick": "Louisiana Tech Bulldogs +29.5",
+   "odds": -110,
+   "units": 1.0,
+   "result": "L",
+   "pl": -1.0
   }
  ],
+ "picks": [],
+ "awaiting": [],
  "daily": {
   "2026-10-12": {
    "u": 5.67,
@@ -618,6 +228,10 @@
   "2026-11-08": {
    "u": 3.24,
    "n": 25
+  },
+  "2026-11-09": {
+   "u": 4.75,
+   "n": 15
   }
  }
 }
