@@ -1,5 +1,5 @@
 {
- "updated": "Nov 10, 2026, 4:45 AM PT",
+ "updated": "Nov 10, 2026, 6:09 AM PT",
  "record": {
   "w": 136,
   "l": 137,
@@ -11,7 +11,7 @@
   "first": "2026-10-12",
   "last": "2026-11-09"
  },
- "pending": 8,
+ "pending": 7,
  "latest": [
   {
    "n": 722,
@@ -258,20 +258,7 @@
    }
   }
  ],
- "awaiting": [
-  {
-   "n": 723,
-   "league": "Tennis",
-   "type": "Moneyline",
-   "matchup": "Challenger Orleans: Buvaysar Gadamauri vs Dusan Lajovic",
-   "pick": "Buvaysar Gadamauri ML",
-   "odds": 100,
-   "units": 1.0,
-   "gap": null,
-   "start": "2026-11-10T03:30:00",
-   "timed": true
-  }
- ],
+ "awaiting": [],
  "daily": {
   "2026-10-12": {
    "u": 5.67,
