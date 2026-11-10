@@ -1,5 +1,5 @@
 {
- "updated": "Nov 10, 2026, 9:43 AM PT",
+ "updated": "Nov 10, 2026, 10:51 AM PT",
  "record": {
   "w": 136,
   "l": 137,
@@ -11,7 +11,7 @@
   "first": "2026-10-12",
   "last": "2026-11-09"
  },
- "pending": 12,
+ "pending": 14,
  "latest": [
   {
    "n": 722,
@@ -262,6 +262,58 @@
      {
       "kind": "team_total",
       "side": "Matthew Tkachuk",
+      "ou": "O",
+      "line": 0.5,
+      "path": "hockey/nhl",
+      "event": "401892686",
+      "date": "20261110"
+     }
+    ],
+    "sport": "NHL"
+   }
+  },
+  {
+   "n": 736,
+   "league": "NHL",
+   "type": "Player Prop",
+   "matchup": "Florida Panthers @ Columbus Blue Jackets",
+   "pick": "Valeri Nichushkin OVER 0.5 assists",
+   "odds": 275,
+   "units": 0.5,
+   "gap": null,
+   "start": "2026-11-10T16:30:00",
+   "timed": true,
+   "espn": {
+    "legs": [
+     {
+      "kind": "team_total",
+      "side": "Valeri Nichushkin",
+      "ou": "O",
+      "line": 0.5,
+      "path": "hockey/nhl",
+      "event": "401892686",
+      "date": "20261110"
+     }
+    ],
+    "sport": "NHL"
+   }
+  },
+  {
+   "n": 737,
+   "league": "NHL",
+   "type": "Player Prop",
+   "matchup": "Florida Panthers @ Columbus Blue Jackets",
+   "pick": "Sean Monahan OVER 0.5 assists",
+   "odds": 230,
+   "units": 0.5,
+   "gap": null,
+   "start": "2026-11-10T16:30:00",
+   "timed": true,
+   "espn": {
+    "legs": [
+     {
+      "kind": "team_total",
+      "side": "Sean Monahan",
       "ou": "O",
       "line": 0.5,
       "path": "hockey/nhl",
