@@ -1,5 +1,5 @@
 {
- "updated": "Nov 11, 2026, 2:55 PM PT",
+ "updated": "Nov 11, 2026, 3:03 PM PT",
  "record": {
   "w": 144,
   "l": 146,
@@ -24,7 +24,8 @@
    "odds": -143,
    "units": 1.5,
    "result": "W",
-   "pl": 1.05
+   "pl": 1.05,
+   "ticket": "parlay"
   },
   {
    "n": 739,
@@ -37,7 +38,8 @@
    "odds": -118,
    "units": 5.0,
    "result": "W",
-   "pl": 4.24
+   "pl": 4.24,
+   "ticket": "single"
   },
   {
    "n": 738,
@@ -50,7 +52,8 @@
    "odds": -120,
    "units": 2.5,
    "result": "L",
-   "pl": -2.5
+   "pl": -2.5,
+   "ticket": "single"
   },
   {
    "n": 737,
@@ -63,7 +66,8 @@
    "odds": 230,
    "units": 0.5,
    "result": "L",
-   "pl": -0.5
+   "pl": -0.5,
+   "ticket": "single"
   },
   {
    "n": 736,
@@ -76,7 +80,8 @@
    "odds": 275,
    "units": 0.5,
    "result": "W",
-   "pl": 1.38
+   "pl": 1.38,
+   "ticket": "single"
   },
   {
    "n": 735,
@@ -89,7 +94,8 @@
    "odds": -105,
    "units": 1.0,
    "result": "L",
-   "pl": -1.0
+   "pl": -1.0,
+   "ticket": "single"
   },
   {
    "n": 734,
@@ -102,7 +108,8 @@
    "odds": -105,
    "units": 1.0,
    "result": "W",
-   "pl": 0.95
+   "pl": 0.95,
+   "ticket": "single"
   },
   {
    "n": 733,
@@ -115,7 +122,8 @@
    "odds": -105,
    "units": 1.0,
    "result": "W",
-   "pl": 0.95
+   "pl": 0.95,
+   "ticket": "single"
   }
  ],
  "picks": [
@@ -129,7 +137,20 @@
    "units": 1.0,
    "gap": null,
    "start": "2026-11-11T15:30:00",
-   "timed": true
+   "timed": true,
+   "ticket": "single",
+   "espn": {
+    "legs": [
+     {
+      "kind": "ml",
+      "side": "Max Hans Rehberg",
+      "label": "Max Hans Rehberg ML",
+      "unverified": true
+     }
+    ],
+    "sport": "Tennis",
+    "ticket": "single"
+   }
   },
   {
    "n": 752,
@@ -142,6 +163,7 @@
    "gap": null,
    "start": "2026-11-11T16:00:00",
    "timed": true,
+   "ticket": "single",
    "espn": {
     "legs": [
      {
@@ -149,12 +171,14 @@
       "side": null,
       "ou": "O",
       "line": 136.5,
+      "label": "O 136.5",
       "path": "basketball/mens-college-basketball",
       "event": "401925895",
       "date": "20261111"
      }
     ],
-    "sport": "NCAAB"
+    "sport": "NCAAB",
+    "ticket": "single"
    }
   },
   {
@@ -168,19 +192,23 @@
    "gap": null,
    "start": "2026-11-11T16:10:00",
    "timed": true,
+   "ticket": "single",
    "espn": {
     "legs": [
      {
-      "kind": "team_total",
-      "side": "Derrick White",
+      "kind": "prop",
+      "player": "Derrick White",
       "ou": "O",
       "line": 4.5,
+      "stat": "assists",
+      "label": "Derrick White O 4.5 assists",
       "path": "basketball/nba",
       "event": "401909968",
       "date": "20261111"
      }
     ],
-    "sport": "NBA"
+    "sport": "NBA",
+    "ticket": "single"
    }
   },
   {
@@ -194,19 +222,23 @@
    "gap": null,
    "start": "2026-11-11T16:10:00",
    "timed": true,
+   "ticket": "single",
    "espn": {
     "legs": [
      {
-      "kind": "team_total",
-      "side": "Ivica Zubac",
+      "kind": "prop",
+      "player": "Ivica Zubac",
       "ou": "U",
       "line": 12.5,
+      "stat": "points",
+      "label": "Ivica Zubac U 12.5 points",
       "path": "basketball/nba",
       "event": "401909966",
       "date": "20261111"
      }
     ],
-    "sport": "NBA"
+    "sport": "NBA",
+    "ticket": "single"
    }
   },
   {
@@ -220,18 +252,21 @@
    "gap": null,
    "start": "2026-11-11T18:00:00",
    "timed": true,
+   "ticket": "single",
    "espn": {
     "legs": [
      {
       "kind": "spread",
       "side": "Arkansas-Pine Bluff Golden Lions",
       "line": 47.5,
+      "label": "Arkansas-Pine Bluff Golden Lions +47.5",
       "path": "basketball/mens-college-basketball",
       "event": "401930177",
       "date": "20261111"
      }
     ],
-    "sport": "NCAAB"
+    "sport": "NCAAB",
+    "ticket": "single"
    }
   },
   {
@@ -245,18 +280,21 @@
    "gap": null,
    "start": "2026-11-11T18:00:00",
    "timed": true,
+   "ticket": "single",
    "espn": {
     "legs": [
      {
       "kind": "spread",
       "side": "Cal Poly Mustangs",
       "line": 18.5,
+      "label": "Cal Poly Mustangs +18.5",
       "path": "basketball/mens-college-basketball",
       "event": "401911346",
       "date": "20261111"
      }
     ],
-    "sport": "NCAAB"
+    "sport": "NCAAB",
+    "ticket": "single"
    }
   },
   {
@@ -270,6 +308,7 @@
    "gap": null,
    "start": "2026-11-11T18:00:00",
    "timed": true,
+   "ticket": "single",
    "espn": {
     "legs": [
      {
@@ -277,12 +316,14 @@
       "side": null,
       "ou": "U",
       "line": 181.5,
+      "label": "U 181.5",
       "path": "basketball/mens-college-basketball",
       "event": "401911346",
       "date": "20261111"
      }
     ],
-    "sport": "NCAAB"
+    "sport": "NCAAB",
+    "ticket": "single"
    }
   },
   {
@@ -296,19 +337,23 @@
    "gap": null,
    "start": "2026-11-11T19:10:00",
    "timed": true,
+   "ticket": "single",
    "espn": {
     "legs": [
      {
-      "kind": "team_total",
-      "side": "Macklin Celebrini",
+      "kind": "prop",
+      "player": "Macklin Celebrini",
       "ou": "O",
       "line": 0.5,
+      "stat": "assists",
+      "label": "Macklin Celebrini O 0.5 assists",
       "path": "hockey/nhl",
       "event": "401892695",
       "date": "20261111"
      }
     ],
-    "sport": "NHL"
+    "sport": "NHL",
+    "ticket": "single"
    }
   },
   {
@@ -322,18 +367,21 @@
    "gap": null,
    "start": "2026-11-11T20:00:00",
    "timed": true,
+   "ticket": "single",
    "espn": {
     "legs": [
      {
       "kind": "spread",
       "side": "California Golden Bears",
       "line": 8.5,
+      "label": "California Golden Bears +8.5",
       "path": "basketball/mens-college-basketball",
       "event": "401918054",
       "date": "20261111"
      }
     ],
-    "sport": "NCAAB"
+    "sport": "NCAAB",
+    "ticket": "single"
    }
   },
   {
@@ -347,18 +395,21 @@
    "gap": null,
    "start": "2026-11-15T06:30:00",
    "timed": true,
+   "ticket": "single",
    "espn": {
     "legs": [
      {
       "kind": "spread",
       "side": "New England Patriots",
       "line": 3.0,
+      "label": "New England Patriots +3",
       "path": "football/nfl",
       "event": "401873053",
       "date": "20261115"
      }
     ],
-    "sport": "NFL"
+    "sport": "NFL",
+    "ticket": "single"
    }
   },
   {
@@ -372,18 +423,21 @@
    "gap": null,
    "start": "2026-11-15T10:00:00",
    "timed": true,
+   "ticket": "single",
    "espn": {
     "legs": [
      {
       "kind": "spread",
       "side": "Buffalo Bills",
       "line": -8.0,
+      "label": "Buffalo Bills -8",
       "path": "football/nfl",
       "event": "401873054",
       "date": "20261115"
      }
     ],
-    "sport": "NFL"
+    "sport": "NFL",
+    "ticket": "single"
    }
   },
   {
@@ -397,18 +451,21 @@
    "gap": null,
    "start": "2026-11-15T10:00:00",
    "timed": true,
+   "ticket": "single",
    "espn": {
     "legs": [
      {
       "kind": "spread",
       "side": "Carolina Panthers",
       "line": 2.5,
+      "label": "Carolina Panthers +2.5",
       "path": "football/nfl",
       "event": "401873055",
       "date": "20261115"
      }
     ],
-    "sport": "NFL"
+    "sport": "NFL",
+    "ticket": "single"
    }
   },
   {
@@ -422,18 +479,21 @@
    "gap": null,
    "start": "2026-11-15T10:00:00",
    "timed": true,
+   "ticket": "single",
    "espn": {
     "legs": [
      {
       "kind": "spread",
       "side": "Indianapolis Colts",
       "line": -3.5,
+      "label": "Indianapolis Colts -3.5",
       "path": "football/nfl",
       "event": "401873059",
       "date": "20261115"
      }
     ],
-    "sport": "NFL"
+    "sport": "NFL",
+    "ticket": "single"
    }
   },
   {
@@ -447,18 +507,21 @@
    "gap": null,
    "start": "2026-11-15T13:05:00",
    "timed": true,
+   "ticket": "single",
    "espn": {
     "legs": [
      {
       "kind": "spread",
       "side": "Los Angeles Rams",
       "line": -9.5,
+      "label": "Los Angeles Rams -9.5",
       "path": "football/nfl",
       "event": "401873061",
       "date": "20261115"
      }
     ],
-    "sport": "NFL"
+    "sport": "NFL",
+    "ticket": "single"
    }
   }
  ],
@@ -473,7 +536,20 @@
    "units": 1.0,
    "gap": null,
    "start": "2026-11-11T04:00:00",
-   "timed": true
+   "timed": true,
+   "ticket": "single",
+   "espn": {
+    "legs": [
+     {
+      "kind": "ml",
+      "side": "Pedro Vives Marcos",
+      "label": "Pedro Vives Marcos ML",
+      "unverified": true
+     }
+    ],
+    "sport": "Tennis",
+    "ticket": "single"
+   }
   },
   {
    "n": 742,
@@ -486,18 +562,22 @@
    "gap": null,
    "start": "2026-11-11T07:00:00",
    "timed": true,
+   "ticket": "single",
    "espn": {
     "legs": [
      {
       "kind": "ml",
       "side": "Alice Tubello",
+      "label": "Alice Tubello ML",
       "path": "tennis/wta",
       "event": "1084-2026",
       "comp": "186767",
-      "date": "20261111"
+      "date": "20261111",
+      "opp": "Tatjana Maria"
      }
     ],
-    "sport": "Tennis"
+    "sport": "Tennis",
+    "ticket": "single"
    }
   },
   {
@@ -511,6 +591,7 @@
    "gap": null,
    "start": "2026-11-11T12:00:00",
    "timed": true,
+   "ticket": "parlay",
    "espn": {
     "legs": [
      {
@@ -519,6 +600,7 @@
       "line": 1.5,
       "unit": "set",
       "opp": "Karolina Muchova",
+      "label": "Elina Svitolina +1.5 sets",
       "path": "tennis/wta",
       "event": "382-2026",
       "comp": "187385",
@@ -530,13 +612,15 @@
       "line": 1.5,
       "unit": "set",
       "opp": "Aryna Sabalenka",
+      "label": "Mirra Andreeva +1.5 sets",
       "path": "tennis/wta",
       "event": "382-2026",
       "comp": "187378",
       "date": "20261111"
      }
     ],
-    "sport": "Tennis"
+    "sport": "Tennis",
+    "ticket": "parlay"
    }
   }
  ],

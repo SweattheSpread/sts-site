@@ -44,10 +44,21 @@ function rrCard(c) {
   const sizes = Object.entries(r.by_size).map(([k, v]) => `${v}×${k === '1' ? 'single' : k + '-leg'}`).join(', ');
   return `<article class="card rr" data-n="${c.n}"><header><span class="lg">${esc(c.league)}</span><span class="mk">Round robin · Anytime TD</span></header><h4>${esc(c.pick)}</h4><p class="m">All ${r.combos} combinations (${sizes}) · first game ${when(c.start)}</p><ul class="rr-legs">${legs}</ul><dl><div><dt>Each</dt><dd>${uu(r.each)}</dd></div><div><dt>Total</dt><dd>${uu(r.total)}</dd></div><div><dt>Max return</dt><dd>${uu(r.ret)}</dd></div><div><dt>Max profit</dt><dd>+${uu(r.profit)}</dd></div></dl><p class="m rr-note">Partial wins possible: each combination settles on its own. Settled manually.</p></article>`;
 }
+function marketOf(c) {
+  const t = c.ticket || (c.rr ? 'round_robin' : '');
+  const n = (c.espn && c.espn.legs && c.espn.legs.length) || (c.rr && c.rr.legs && c.rr.legs.length) || 0;
+  if (t === 'round_robin' || c.rr) {
+    const mk = c.rr && c.rr.legs && c.rr.legs[0] && c.rr.legs[0].market ? ' · ' + c.rr.legs[0].market : '';
+    return 'Round robin' + mk;
+  }
+  if (t === 'sgp') return n > 1 ? `SGP · ${n} legs` : 'SGP';
+  if (t === 'parlay') return n > 1 ? `${n}-leg parlay` : 'Parlay';
+  return c.type || 'Pick';
+}
 function card(c) {
   if (c.rr) return rrCard(c);
   const gap = c.gap != null ? `<div><dt>Gap</dt><dd class="scramble lime">${c.gap} pts</dd></div>` : '';
-  return `<article class="card${c.gap != null ? ' gap' : ''}${c.espn ? ' has-live' : ''}" data-n="${c.n}"${c.espn ? ' tabindex="0" role="button" aria-expanded="false"' : ''}><header><span class="lg">${esc(c.league)}</span><span class="mk">${esc(c.type)}${c.gap != null ? ' · Gap play' : ''}</span></header><h4>${esc(c.pick)}</h4><p class="m">${esc(c.matchup)} · ${when(c.start)}</p><dl><div><dt>Odds</dt><dd class="scramble">${odds(c.odds)}</dd></div><div><dt>Stake</dt><dd class="scramble">${uu(c.units)}</dd></div>${gap}</dl></article>`;
+  return `<article class="card${c.gap != null ? ' gap' : ''}${c.espn ? ' has-live' : ''}" data-n="${c.n}"${c.espn ? ' tabindex="0" role="button" aria-expanded="false"' : ''}><header><span class="lg">${esc(c.league)}</span><span class="mk">${esc(marketOf(c))}${c.gap != null ? ' · Gap play' : ''}</span></header><h4>${esc(c.pick)}</h4><p class="m">${esc(c.matchup)} · ${when(c.start)}</p><dl><div><dt>Odds</dt><dd class="scramble">${odds(c.odds)}</dd></div><div><dt>Stake</dt><dd class="scramble">${uu(c.units)}</dd></div>${gap}</dl></article>`;
 }
 async function loadData() {
   if (!document.getElementById('latest')) return;

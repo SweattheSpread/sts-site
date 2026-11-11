@@ -14,8 +14,10 @@
        Under: stat over the line -> Off pace; pace <= 0.85 x line or (frac >= 0.75 and 1+ under) -> On pace; pace > 1.15 x line -> Off pace; else Close.
    - Tennis ML (best of 3): up a set -> On pace (Close if down 2+ games in the current set); sets level -> games lead 2+ On pace, trail 2+ Off pace, else Close;
        down a set -> Off pace (Close if up 2+ games in the current set).
-   - Parlay: the worst started leg; a lost leg is Off pace.
-   - Final: green/red by the final result; shown as Won / Lost / Push. */
+   - Parlay / SGP: each leg is graded on its own market. The ticket is Lost as soon as any leg loses;
+       Won only when every non-push leg has won and is final; a push is dropped. Otherwise Pending.
+       Unmatched legs stay unverified and are not guessed. Round robins show per-leg status only.
+   - Final: green/red by the final result; shown as Won / Lost / Push. Singles never use parlay leg UI. */
 (() => {
   const MOCK = false;
   const API = 'https://site.api.espn.com/apis/site/v2/sports/';
@@ -27,6 +29,14 @@
   const norm = s => (s || '').toLowerCase().replace(/[^a-z ]/g, '');
   const same = (a, b) => { a = norm(a); b = norm(b); return !!a && !!b && (a === b || b.includes(a) || a.includes(b) || a.split(' ').pop() === b.split(' ').pop()); };
   const pt = iso => new Date(iso).toLocaleString('en-US', { timeZone: 'America/Los_Angeles', weekday: 'short', hour: 'numeric', minute: '2-digit' }) + ' PT';
+
+  function ticketOf(c) {
+    return c.ticket || c.espn?.ticket || (c.rr ? 'round_robin' : (/parlay/i.test(c.type || '') ? 'parlay' : /sgp/i.test(c.type || '') ? 'sgp' : 'single'));
+  }
+  function isMulti(c) {
+    const t = ticketOf(c);
+    return t === 'parlay' || t === 'sgp' || t === 'round_robin';
+  }
 
   /* ---------- fetch with short cache (one request per board per 20s, shared by all cards) ---------- */
   const cache = new Map();
@@ -43,6 +53,9 @@
     return Math.min(1, ((Math.min(period, n) - 1) * len + (len - left)) / (n * len));
   }
   async function legState(sport, leg) {
+    if (leg.unverified || !leg.path || !(leg.event || leg.comp)) {
+      return { state: 'unverified', detail: 'Score unverified' };
+    }
     if (leg.path.startsWith('tennis')) {
       const b = await get(`${API}${leg.path}/scoreboard?dates=${leg.date}`);
       for (const e of b.events || []) for (const g of e.groupings || []) for (const c of g.competitions) if (c.id === leg.comp) {
@@ -78,6 +91,7 @@
   /* ---------- meter ---------- */
   const lvl = (z, hi = 0.5) => (z >= hi ? 'g' : z <= -hi ? 'r' : 'y');
   function meter(sport, leg, s) {
+    if (s.state === 'unverified') return { c: 'y', why: 'Not matched to a score — left unverified', unverified: 1 };
     if (s.state === 'pre') return null;
     if (s.tennis) {
       const me = s.tennis.findIndex(p => same(leg.side, p.name)), [A, B] = me === 1 ? [s.tennis[1], s.tennis[0]] : s.tennis;
@@ -136,23 +150,64 @@
   const RANK = { r: 0, y: 1, g: 2 }, LABEL = { g: 'On pace', y: 'Close', r: 'Off pace' };
   /* ---------- render ---------- */
   function scoreHtml(s) {
+    if (s.state === 'unverified' || (!s.tennis && !s.teams)) return '';
     if (s.tennis) return `<table class="lv-t">${s.tennis.map(p => `<tr><th>${esc(p.name)}</th>${p.sets.map(v => `<td>${v ?? ''}</td>`).join('')}</tr>`).join('')}</table>`;
     return `<table class="lv-t">${s.teams.map(t => `<tr><th>${esc(t.name)}</th><td class="sc">${s.state === 'pre' ? '' : t.score}</td></tr>`).join('')}</table>`;
   }
+  function legGrade(r) {
+    if (!r || !r.s || r.s.state === 'unverified' || (r.m && r.m.unverified)) return 'unverified';
+    if (r.s.state === 'pre' || r.s.state === 'in' || !r.m || !r.m.fin) return 'pending';
+    return r.m.c === 'g' ? 'W' : r.m.c === 'r' ? 'L' : 'P';
+  }
+  function settleTicket(c, res) {
+    const grades = res.map(legGrade);
+    const ticket = ticketOf(c);
+    const summary = { ticket, grades, settled: null, fin: false };
+    if (ticket === 'round_robin') return summary; // combinations settle separately; show per-leg only
+    if (ticket === 'parlay' || ticket === 'sgp') {
+      if (grades.includes('L')) { summary.settled = 'L'; summary.fin = true; return summary; }
+      if (grades.includes('pending') || grades.includes('unverified')) return summary;
+      const live = grades.filter(g => g !== 'P');
+      if (!live.length) { summary.settled = 'P'; summary.fin = true; return summary; }
+      if (live.every(g => g === 'W')) { summary.settled = 'W'; summary.fin = true; return summary; }
+      return summary;
+    }
+    const g = grades[0];
+    if (g === 'W' || g === 'L' || g === 'P') { summary.settled = g; summary.fin = true; }
+    return summary;
+  }
   async function cardState(c) {
     const legs = c.espn.legs; const res = await Promise.all(legs.map((l, i) => (MOCK ? Promise.resolve(mockState(c.espn.sport, l, i + c.n)) : legState(c.espn.sport, l)).then(s => ({ l, s, m: meter(c.espn.sport, l, s) }))));
-    const started = res.filter(r => r.m); let worst = null;
+    const started = res.filter(r => r.m && !r.m.unverified); let worst = null;
     started.forEach(r => { if (!worst || RANK[r.m.c] < RANK[worst.m.c]) worst = r; });
-    return { res, worst, live: res.some(r => r.s.state === 'in'), allPost: res.every(r => r.s.state === 'post') };
+    const set = settleTicket(c, res);
+    const settledMeter = set.fin ? { c: set.settled === 'W' ? 'g' : set.settled === 'L' ? 'r' : 'y', why: set.settled === 'W' ? 'All live legs won' : set.settled === 'L' ? 'A leg lost' : 'Pushed', fin: 1 } : null;
+    return { res, worst, live: res.some(r => r.s.state === 'in'), allPost: res.every(r => r.s.state === 'post'), ...set, settledMeter, multi: isMulti(c) };
   }
   function finLabel(m) { return m.c === 'g' ? 'Won' : m.c === 'r' ? 'Lost' : 'Push'; }
-  function meterHtml(m, fin) { const lab = fin ? finLabel(m) : LABEL[m.c]; return m ? `<div class="lv-m ${m.c}" role="img" aria-label="${lab}"><i></i><span>${lab}</span></div>` : ''; }
+  function meterHtml(m, fin) { if (!m) return ''; const lab = fin ? finLabel(m) : (m.unverified ? 'Unverified' : LABEL[m.c]); return `<div class="lv-m ${m.c}" role="img" aria-label="${lab}"><i></i><span>${lab}</span></div>`; }
+  function ticketLine(st) {
+    if (!st.multi) return '';
+    const n = st.grades.length, won = st.grades.filter(g => g === 'W').length, lost = st.grades.filter(g => g === 'L').length;
+    const push = st.grades.filter(g => g === 'P').length, unv = st.grades.filter(g => g === 'unverified').length;
+    const kind = st.ticket === 'sgp' ? 'SGP' : st.ticket === 'round_robin' ? 'Round robin' : 'Parlay';
+    let msg;
+    if (st.ticket === 'round_robin') msg = `${kind} · per-leg status (ticket settles by combination)`;
+    else if (st.fin && st.settled === 'L') msg = `${kind} lost` + (lost ? ` — ${lost} of ${n} legs lost` : '');
+    else if (st.fin && st.settled === 'W') msg = `${kind} won` + (push ? ` — ${push} push dropped` : '');
+    else if (st.fin && st.settled === 'P') msg = `${kind} pushed`;
+    else msg = `${kind} pending — ${won} won, ${lost} lost, ${n - won - lost - push - unv} still live` + (unv ? `, ${unv} unverified` : '') + (push ? `, ${push} push dropped` : '');
+    return `<p class="lv-k">${esc(msg)}</p>`;
+  }
   function popHtml(c, st) {
-    const legs = st.res.map(({ l, s, m }) => {
-      const head = s.state === 'pre' ? `Starts ${pt(s.start)}` : s.state === 'post' ? `Final${s.detail && s.detail !== 'Final' ? ' · ' + esc(s.detail) : ''}` : esc(s.detail || 'Live');
-      return `<div class="lv-leg">${st.res.length > 1 ? `<p class="lv-k">${esc(l.side || l.player || '')}</p>` : ''}<p class="lv-s ${s.state}">${s.state === 'in' ? '<b class="dot"></b>' : ''}${head}</p>${scoreHtml(s)}${m ? meterHtml(m, s.state === 'post') + `<p class="lv-why">${esc(m.why)}</p>` : ''}</div>`;
+    const multi = st.multi;
+    const legs = st.res.map(({ l, s, m }, i) => {
+      const head = s.state === 'unverified' ? 'Score unverified' : s.state === 'pre' ? `Starts ${pt(s.start)}` : s.state === 'post' ? `Final${s.detail && s.detail !== 'Final' ? ' · ' + esc(s.detail) : ''}` : esc(s.detail || 'Live');
+      const label = l.label || l.side || l.player || ('Leg ' + (i + 1));
+      const finLeg = s.state === 'post' || s.state === 'unverified';
+      return `<div class="lv-leg">${multi ? `<p class="lv-k">${esc(label)}</p>` : ''}<p class="lv-s ${s.state}">${s.state === 'in' ? '<b class="dot"></b>' : ''}${head}</p>${scoreHtml(s)}${m ? meterHtml(m, finLeg) + `<p class="lv-why">${esc(m.why)}</p>` : ''}</div>`;
     }).join('');
-    return `${legs}<p class="lv-f">${MOCK ? 'Mock data for review · ' : ''}Scores via ESPN, may lag. Refreshes every 30s.</p>`;
+    return `${ticketLine(st)}${legs}<p class="lv-f">${MOCK ? 'Mock data for review · ' : ''}Scores via ESPN, may lag. Refreshes every 30s.</p>`;
   }
   let open = null, timer = null;
   function close() { if (!open) return; open.box.remove(); open.el.setAttribute('aria-expanded', 'false'); open.el.classList.remove('lv-open'); open = null; clearInterval(timer); timer = null; }
@@ -173,8 +228,13 @@
   function paintRow(c, st) {
     const el = document.querySelector(`.card[data-n="${c.n}"]`); if (!el) return;
     let slot = el.querySelector(':scope > .lv-row'); if (!slot) { slot = document.createElement('div'); slot.className = 'lv-row'; el.querySelector('dl').after(slot); }
-    const fin = st.allPost, show = (st.live || fin) && st.worst;
-    slot.innerHTML = show ? meterHtml(st.worst.m, fin) + `<span class="lv-hint">${st.live ? '<b class="dot"></b>Live · tap for score' : 'Tap for result'}</span>` : `<span class="lv-hint">${st.res.every(r => r.s.state === 'pre') ? 'Tap for start time' : 'Tap for score'}</span>`;
+    const hint = st.multi ? (st.fin ? 'Tap for legs' : st.live ? '<b class="dot"></b>Live · tap for legs' : 'Tap for legs') : (st.live ? '<b class="dot"></b>Live · tap for score' : st.fin ? 'Tap for result' : (st.res.every(r => r.s.state === 'pre') ? 'Tap for start time' : st.res.some(r => r.s.state === 'unverified') ? 'Tap for status' : 'Tap for score'));
+    if (st.fin && st.settledMeter) {
+      slot.innerHTML = meterHtml(st.settledMeter, true) + `<span class="lv-hint">${hint}</span>`;
+      return;
+    }
+    const show = (st.live || (st.worst && st.worst.s && st.worst.s.state === 'post')) && st.worst;
+    slot.innerHTML = show ? meterHtml(st.worst.m, false) + `<span class="lv-hint">${hint}</span>` : `<span class="lv-hint">${hint}</span>`;
   }
   async function rows(d) {
     const all = [...(d.picks || []), ...(d.awaiting || [])].filter(c => c.espn);
