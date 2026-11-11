@@ -1,5 +1,5 @@
 {
- "updated": "Nov 11, 2026, 12:09 AM PT",
+ "updated": "Nov 11, 2026, 4:43 AM PT",
  "record": {
   "w": 143,
   "l": 146,
@@ -11,7 +11,7 @@
   "first": "2026-10-12",
   "last": "2026-11-10"
  },
- "pending": 5,
+ "pending": 6,
  "latest": [
   {
    "n": 739,
@@ -120,18 +120,6 @@
  ],
  "picks": [
   {
-   "n": 741,
-   "league": "Tennis",
-   "type": "Moneyline",
-   "matchup": "Challenger Monastir: Pedro Vives Marcos vs Jay Clarke",
-   "pick": "Pedro Vives Marcos ML",
-   "odds": -103,
-   "units": 1.0,
-   "gap": null,
-   "start": "2026-11-11T04:00:00",
-   "timed": true
-  },
-  {
    "n": 743,
    "league": "Tennis",
    "type": "Parlay",
@@ -236,9 +224,48 @@
    "gap": null,
    "start": "2026-11-11T15:30:00",
    "timed": true
+  },
+  {
+   "n": 745,
+   "league": "NHL",
+   "type": "Player Prop",
+   "matchup": "Pittsburgh Penguins @ San Jose Sharks",
+   "pick": "Macklin Celebrini OVER 0.5 assists",
+   "odds": -115,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-11T19:10:00",
+   "timed": true,
+   "espn": {
+    "legs": [
+     {
+      "kind": "team_total",
+      "side": "Macklin Celebrini",
+      "ou": "O",
+      "line": 0.5,
+      "path": "hockey/nhl",
+      "event": "401892695",
+      "date": "20261111"
+     }
+    ],
+    "sport": "NHL"
+   }
   }
  ],
- "awaiting": [],
+ "awaiting": [
+  {
+   "n": 741,
+   "league": "Tennis",
+   "type": "Moneyline",
+   "matchup": "Challenger Monastir: Pedro Vives Marcos vs Jay Clarke",
+   "pick": "Pedro Vives Marcos ML",
+   "odds": -103,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-11T04:00:00",
+   "timed": true
+  }
+ ],
  "daily": {
   "2026-10-12": {
    "u": 5.67,
