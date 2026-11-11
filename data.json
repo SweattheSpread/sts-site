@@ -1,5 +1,5 @@
 {
- "updated": "Nov 11, 2026, 7:42 AM PT",
+ "updated": "Nov 11, 2026, 8:06 AM PT",
  "record": {
   "w": 143,
   "l": 146,
@@ -11,7 +11,7 @@
   "first": "2026-10-12",
   "last": "2026-11-10"
  },
- "pending": 10,
+ "pending": 11,
  "latest": [
   {
    "n": 739,
@@ -261,6 +261,31 @@
       "line": 2.5,
       "path": "football/nfl",
       "event": "401873055",
+      "date": "20261115"
+     }
+    ],
+    "sport": "NFL"
+   }
+  },
+  {
+   "n": 750,
+   "league": "NFL",
+   "type": "Spread",
+   "matchup": "Miami Dolphins @ Indianapolis Colts",
+   "pick": "Indianapolis Colts -3.5 -112",
+   "odds": -112,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-15T10:00:00",
+   "timed": true,
+   "espn": {
+    "legs": [
+     {
+      "kind": "spread",
+      "side": "Indianapolis Colts",
+      "line": -3.5,
+      "path": "football/nfl",
+      "event": "401873059",
       "date": "20261115"
      }
     ],
