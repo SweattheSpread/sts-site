@@ -1,5 +1,5 @@
 {
- "updated": "Nov 11, 2026, 3:03 PM PT",
+ "updated": "Nov 11, 2026, 3:55 PM PT",
  "record": {
   "w": 144,
   "l": 146,
@@ -11,7 +11,7 @@
   "first": "2026-10-12",
   "last": "2026-11-11"
  },
- "pending": 17,
+ "pending": 18,
  "latest": [
   {
    "n": 743,
@@ -127,31 +127,6 @@
   }
  ],
  "picks": [
-  {
-   "n": 740,
-   "league": "Tennis",
-   "type": "Moneyline",
-   "matchup": "Challenger Knoxville: Max Hans Rehberg vs Nicolas Mejia",
-   "pick": "Max Hans Rehberg ML",
-   "odds": -135,
-   "units": 1.0,
-   "gap": null,
-   "start": "2026-11-11T15:30:00",
-   "timed": true,
-   "ticket": "single",
-   "espn": {
-    "legs": [
-     {
-      "kind": "ml",
-      "side": "Max Hans Rehberg",
-      "label": "Max Hans Rehberg ML",
-      "unverified": true
-     }
-    ],
-    "sport": "Tennis",
-    "ticket": "single"
-   }
-  },
   {
    "n": 752,
    "league": "NCAAB",
@@ -527,6 +502,31 @@
  ],
  "awaiting": [
   {
+   "n": 740,
+   "league": "Tennis",
+   "type": "Moneyline",
+   "matchup": "Challenger Knoxville: Max Hans Rehberg vs Nicolas Mejia",
+   "pick": "Max Hans Rehberg ML",
+   "odds": -135,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-11T15:30:00",
+   "timed": true,
+   "ticket": "single",
+   "espn": {
+    "legs": [
+     {
+      "kind": "ml",
+      "side": "Max Hans Rehberg",
+      "label": "Max Hans Rehberg ML",
+      "unverified": true
+     }
+    ],
+    "sport": "Tennis",
+    "ticket": "single"
+   }
+  },
+  {
    "n": 741,
    "league": "Tennis",
    "type": "Moneyline",
@@ -621,6 +621,33 @@
     ],
     "sport": "Tennis",
     "ticket": "parlay"
+   }
+  },
+  {
+   "n": 758,
+   "league": "NCAAB",
+   "type": "Moneyline",
+   "matchup": "Pennsylvania Quakers @ Navy Midshipmen",
+   "pick": "Navy Midshipmen ML (live)",
+   "odds": 154,
+   "units": 1.5,
+   "gap": null,
+   "start": "2026-11-11T14:58:00",
+   "timed": true,
+   "ticket": "single",
+   "espn": {
+    "legs": [
+     {
+      "kind": "ml",
+      "side": "Navy Midshipmen",
+      "label": "Navy Midshipmen ML",
+      "path": "basketball/mens-college-basketball",
+      "event": "401921181",
+      "date": "20261111"
+     }
+    ],
+    "sport": "NCAAB",
+    "ticket": "single"
    }
   }
  ],
