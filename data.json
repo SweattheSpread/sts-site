@@ -1,5 +1,5 @@
 {
- "updated": "Nov 11, 2026, 10:58 AM PT",
+ "updated": "Nov 11, 2026, 2:03 PM PT",
  "record": {
   "w": 143,
   "l": 146,
@@ -11,7 +11,7 @@
   "first": "2026-10-12",
   "last": "2026-11-10"
  },
- "pending": 12,
+ "pending": 17,
  "latest": [
   {
    "n": 739,
@@ -120,41 +120,6 @@
  ],
  "picks": [
   {
-   "n": 744,
-   "league": "Tennis",
-   "type": "Parlay",
-   "matchup": "WTA Finals 2-leg parlay",
-   "pick": "Elina Svitolina +1.5 sets vs Karolina Muchova (12:00 PM PT) + Mirra Andreeva +1.5 sets vs Aryna Sabalenka (1:10 PM PT)",
-   "odds": -103,
-   "units": 1.5,
-   "gap": null,
-   "start": "2026-11-11T12:00:00",
-   "timed": true,
-   "espn": {
-    "legs": [
-     {
-      "kind": "spread",
-      "side": "Elina Svitolina",
-      "line": 1.5,
-      "path": "tennis/wta",
-      "event": "382-2026",
-      "comp": "187382",
-      "date": "20261111"
-     },
-     {
-      "kind": "spread",
-      "side": "Mirra Andreeva",
-      "line": 1.5,
-      "path": "tennis/wta",
-      "event": "382-2026",
-      "comp": "187382",
-      "date": "20261111"
-     }
-    ],
-    "sport": "Tennis"
-   }
-  },
-  {
    "n": 740,
    "league": "Tennis",
    "type": "Moneyline",
@@ -165,6 +130,32 @@
    "gap": null,
    "start": "2026-11-11T15:30:00",
    "timed": true
+  },
+  {
+   "n": 752,
+   "league": "NCAAB",
+   "type": "Over/Under",
+   "matchup": "Old Dominion Monarchs @ Norfolk State Spartans",
+   "pick": "Over 136.5 total points",
+   "odds": -110,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-11T16:00:00",
+   "timed": true,
+   "espn": {
+    "legs": [
+     {
+      "kind": "total",
+      "side": null,
+      "ou": "O",
+      "line": 136.5,
+      "path": "basketball/mens-college-basketball",
+      "event": "401925895",
+      "date": "20261111"
+     }
+    ],
+    "sport": "NCAAB"
+   }
   },
   {
    "n": 751,
@@ -193,6 +184,82 @@
    }
   },
   {
+   "n": 753,
+   "league": "NCAAB",
+   "type": "Spread",
+   "matchup": "Arkansas-Pine Bluff Golden Lions @ UCLA Bruins",
+   "pick": "Arkansas-Pine Bluff Golden Lions +47.5",
+   "odds": -110,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-11T18:00:00",
+   "timed": true,
+   "espn": {
+    "legs": [
+     {
+      "kind": "spread",
+      "side": "Arkansas-Pine Bluff Golden Lions",
+      "line": 47.5,
+      "path": "basketball/mens-college-basketball",
+      "event": "401930177",
+      "date": "20261111"
+     }
+    ],
+    "sport": "NCAAB"
+   }
+  },
+  {
+   "n": 754,
+   "league": "NCAAB",
+   "type": "Spread",
+   "matchup": "Cal Poly Mustangs @ Grand Canyon Antelopes",
+   "pick": "Cal Poly Mustangs +18.5",
+   "odds": -110,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-11T18:00:00",
+   "timed": true,
+   "espn": {
+    "legs": [
+     {
+      "kind": "spread",
+      "side": "Cal Poly Mustangs",
+      "line": 18.5,
+      "path": "basketball/mens-college-basketball",
+      "event": "401911346",
+      "date": "20261111"
+     }
+    ],
+    "sport": "NCAAB"
+   }
+  },
+  {
+   "n": 755,
+   "league": "NCAAB",
+   "type": "Over/Under",
+   "matchup": "Cal Poly Mustangs @ Grand Canyon Antelopes",
+   "pick": "Under 181.5 total points",
+   "odds": -105,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-11T18:00:00",
+   "timed": true,
+   "espn": {
+    "legs": [
+     {
+      "kind": "total",
+      "side": null,
+      "ou": "U",
+      "line": 181.5,
+      "path": "basketball/mens-college-basketball",
+      "event": "401911346",
+      "date": "20261111"
+     }
+    ],
+    "sport": "NCAAB"
+   }
+  },
+  {
    "n": 745,
    "league": "NHL",
    "type": "Player Prop",
@@ -216,6 +283,31 @@
      }
     ],
     "sport": "NHL"
+   }
+  },
+  {
+   "n": 756,
+   "league": "NCAAB",
+   "type": "Spread",
+   "matchup": "USC Trojans @ California Golden Bears",
+   "pick": "California Golden Bears +8.5",
+   "odds": -115,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-11T20:00:00",
+   "timed": true,
+   "espn": {
+    "legs": [
+     {
+      "kind": "spread",
+      "side": "California Golden Bears",
+      "line": 8.5,
+      "path": "basketball/mens-college-basketball",
+      "event": "401918054",
+      "date": "20261111"
+     }
+    ],
+    "sport": "NCAAB"
    }
   },
   {
@@ -410,6 +502,41 @@
       "path": "tennis/atp",
       "event": "148-2026",
       "comp": "186525",
+      "date": "20261111"
+     }
+    ],
+    "sport": "Tennis"
+   }
+  },
+  {
+   "n": 744,
+   "league": "Tennis",
+   "type": "Parlay",
+   "matchup": "WTA Finals 2-leg parlay",
+   "pick": "Elina Svitolina +1.5 sets vs Karolina Muchova (12:00 PM PT) + Mirra Andreeva +1.5 sets vs Aryna Sabalenka (1:10 PM PT)",
+   "odds": -103,
+   "units": 1.5,
+   "gap": null,
+   "start": "2026-11-11T12:00:00",
+   "timed": true,
+   "espn": {
+    "legs": [
+     {
+      "kind": "spread",
+      "side": "Elina Svitolina",
+      "line": 1.5,
+      "path": "tennis/wta",
+      "event": "382-2026",
+      "comp": "187382",
+      "date": "20261111"
+     },
+     {
+      "kind": "spread",
+      "side": "Mirra Andreeva",
+      "line": 1.5,
+      "path": "tennis/wta",
+      "event": "382-2026",
+      "comp": "187382",
       "date": "20261111"
      }
     ],
