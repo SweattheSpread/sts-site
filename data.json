@@ -1,5 +1,5 @@
 {
- "updated": "Nov 10, 2026, 7:39 PM PT",
+ "updated": "Nov 10, 2026, 8:24 PM PT",
  "record": {
   "w": 136,
   "l": 137,
@@ -469,7 +469,7 @@
    "league": "NBA",
    "type": "Team Total",
    "matchup": "Los Angeles Clippers @ Phoenix Suns",
-   "pick": "Clippers team total UNDER 103.5 points (full game)",
+   "pick": "Clippers team total OVER 103.5 points (full game)",
    "odds": -118,
    "units": 5.0,
    "gap": null,
@@ -480,7 +480,7 @@
      {
       "kind": "total",
       "side": "Clippers team total",
-      "ou": "U",
+      "ou": "O",
       "line": 103.5,
       "path": "basketball/nba",
       "event": "401909962",
