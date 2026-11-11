@@ -1,5 +1,5 @@
 {
- "updated": "Nov 11, 2026, 4:43 AM PT",
+ "updated": "Nov 11, 2026, 7:42 AM PT",
  "record": {
   "w": 143,
   "l": 146,
@@ -11,7 +11,7 @@
   "first": "2026-10-12",
   "last": "2026-11-10"
  },
- "pending": 6,
+ "pending": 10,
  "latest": [
   {
    "n": 739,
@@ -120,65 +120,6 @@
  ],
  "picks": [
   {
-   "n": 743,
-   "league": "Tennis",
-   "type": "Parlay",
-   "matchup": "ATP Stockholm 2-leg parlay",
-   "pick": "Cameron Norrie +5.5 games vs Taylor Fritz (5:30 AM PT) + Holger Rune ML vs Miomir Kecmanovic (10:30 AM PT)",
-   "odds": -143,
-   "units": 1.5,
-   "gap": null,
-   "start": "2026-11-11T05:30:00",
-   "timed": true,
-   "espn": {
-    "legs": [
-     {
-      "kind": "spread",
-      "side": "Cameron Norrie",
-      "line": 5.5,
-      "path": "tennis/atp",
-      "event": "148-2026",
-      "comp": "186529",
-      "date": "20261111"
-     },
-     {
-      "kind": "ml",
-      "side": "Holger Rune",
-      "path": "tennis/atp",
-      "event": "148-2026",
-      "comp": "186525",
-      "date": "20261111"
-     }
-    ],
-    "sport": "Tennis"
-   }
-  },
-  {
-   "n": 742,
-   "league": "Tennis",
-   "type": "Moneyline",
-   "matchup": "WTA Sopo: Alice Tubello vs Tatjana Maria",
-   "pick": "Alice Tubello ML",
-   "odds": -119,
-   "units": 1.0,
-   "gap": null,
-   "start": "2026-11-11T07:00:00",
-   "timed": true,
-   "espn": {
-    "legs": [
-     {
-      "kind": "ml",
-      "side": "Alice Tubello",
-      "path": "tennis/wta",
-      "event": "1084-2026",
-      "comp": "186751",
-      "date": "20261111"
-     }
-    ],
-    "sport": "Tennis"
-   }
-  },
-  {
    "n": 744,
    "league": "Tennis",
    "type": "Parlay",
@@ -250,6 +191,106 @@
     ],
     "sport": "NHL"
    }
+  },
+  {
+   "n": 747,
+   "league": "NFL",
+   "type": "Spread",
+   "matchup": "New England Patriots @ Detroit Lions",
+   "pick": "New England Patriots +3 -118",
+   "odds": -118,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-15T06:30:00",
+   "timed": true,
+   "espn": {
+    "legs": [
+     {
+      "kind": "spread",
+      "side": "New England Patriots",
+      "line": 3.0,
+      "path": "football/nfl",
+      "event": "401873053",
+      "date": "20261115"
+     }
+    ],
+    "sport": "NFL"
+   }
+  },
+  {
+   "n": 746,
+   "league": "NFL",
+   "type": "Spread",
+   "matchup": "Buffalo Bills @ New York Jets",
+   "pick": "Buffalo Bills -8 -110",
+   "odds": -110,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-15T10:00:00",
+   "timed": true,
+   "espn": {
+    "legs": [
+     {
+      "kind": "spread",
+      "side": "Buffalo Bills",
+      "line": -8.0,
+      "path": "football/nfl",
+      "event": "401873054",
+      "date": "20261115"
+     }
+    ],
+    "sport": "NFL"
+   }
+  },
+  {
+   "n": 749,
+   "league": "NFL",
+   "type": "Spread",
+   "matchup": "Carolina Panthers @ New Orleans Saints",
+   "pick": "Carolina Panthers +2.5 -108",
+   "odds": -108,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-15T10:00:00",
+   "timed": true,
+   "espn": {
+    "legs": [
+     {
+      "kind": "spread",
+      "side": "Carolina Panthers",
+      "line": 2.5,
+      "path": "football/nfl",
+      "event": "401873055",
+      "date": "20261115"
+     }
+    ],
+    "sport": "NFL"
+   }
+  },
+  {
+   "n": 748,
+   "league": "NFL",
+   "type": "Spread",
+   "matchup": "Los Angeles Rams @ Arizona Cardinals",
+   "pick": "Los Angeles Rams -9.5 -105",
+   "odds": -105,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-15T13:05:00",
+   "timed": true,
+   "espn": {
+    "legs": [
+     {
+      "kind": "spread",
+      "side": "Los Angeles Rams",
+      "line": -9.5,
+      "path": "football/nfl",
+      "event": "401873061",
+      "date": "20261115"
+     }
+    ],
+    "sport": "NFL"
+   }
   }
  ],
  "awaiting": [
@@ -264,6 +305,65 @@
    "gap": null,
    "start": "2026-11-11T04:00:00",
    "timed": true
+  },
+  {
+   "n": 742,
+   "league": "Tennis",
+   "type": "Moneyline",
+   "matchup": "WTA Sopo: Alice Tubello vs Tatjana Maria",
+   "pick": "Alice Tubello ML",
+   "odds": -119,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-11T07:00:00",
+   "timed": true,
+   "espn": {
+    "legs": [
+     {
+      "kind": "ml",
+      "side": "Alice Tubello",
+      "path": "tennis/wta",
+      "event": "1084-2026",
+      "comp": "186751",
+      "date": "20261111"
+     }
+    ],
+    "sport": "Tennis"
+   }
+  },
+  {
+   "n": 743,
+   "league": "Tennis",
+   "type": "Parlay",
+   "matchup": "ATP Stockholm 2-leg parlay",
+   "pick": "Cameron Norrie +5.5 games vs Taylor Fritz (5:30 AM PT) + Holger Rune ML vs Miomir Kecmanovic (10:30 AM PT)",
+   "odds": -143,
+   "units": 1.5,
+   "gap": null,
+   "start": "2026-11-11T05:30:00",
+   "timed": true,
+   "espn": {
+    "legs": [
+     {
+      "kind": "spread",
+      "side": "Cameron Norrie",
+      "line": 5.5,
+      "path": "tennis/atp",
+      "event": "148-2026",
+      "comp": "186529",
+      "date": "20261111"
+     },
+     {
+      "kind": "ml",
+      "side": "Holger Rune",
+      "path": "tennis/atp",
+      "event": "148-2026",
+      "comp": "186525",
+      "date": "20261111"
+     }
+    ],
+    "sport": "Tennis"
+   }
   }
  ],
  "daily": {
