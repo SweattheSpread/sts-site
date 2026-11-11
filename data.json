@@ -1,5 +1,5 @@
 {
- "updated": "Nov 11, 2026, 2:44 PM PT",
+ "updated": "Nov 11, 2026, 2:55 PM PT",
  "record": {
   "w": 144,
   "l": 146,
@@ -11,7 +11,7 @@
   "first": "2026-10-12",
   "last": "2026-11-11"
  },
- "pending": 16,
+ "pending": 17,
  "latest": [
   {
    "n": 743,
@@ -177,6 +177,32 @@
       "line": 4.5,
       "path": "basketball/nba",
       "event": "401909968",
+      "date": "20261111"
+     }
+    ],
+    "sport": "NBA"
+   }
+  },
+  {
+   "n": 757,
+   "league": "NBA",
+   "type": "Player Prop",
+   "matchup": "Washington Wizards @ Indiana Pacers",
+   "pick": "Ivica Zubac UNDER 12.5 points",
+   "odds": 105,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-11T16:10:00",
+   "timed": true,
+   "espn": {
+    "legs": [
+     {
+      "kind": "team_total",
+      "side": "Ivica Zubac",
+      "ou": "U",
+      "line": 12.5,
+      "path": "basketball/nba",
+      "event": "401909966",
       "date": "20261111"
      }
     ],
