@@ -1,5 +1,5 @@
 {
- "updated": "Nov 10, 2026, 3:20 PM PT",
+ "updated": "Nov 10, 2026, 7:39 PM PT",
  "record": {
   "w": 136,
   "l": 137,
@@ -11,7 +11,7 @@
   "first": "2026-10-12",
   "last": "2026-11-09"
  },
- "pending": 15,
+ "pending": 16,
  "latest": [
   {
    "n": 722,
@@ -118,266 +118,7 @@
    "pl": -1.0
   }
  ],
- "picks": [
-  {
-   "n": 731,
-   "league": "NCAAB",
-   "type": "Spread",
-   "matchup": "Iona Gaels @ Fordham Rams",
-   "pick": "Iona Gaels +11.5",
-   "odds": -110,
-   "units": 1.0,
-   "gap": null,
-   "start": "2026-11-10T16:00:00",
-   "timed": true,
-   "espn": {
-    "legs": [
-     {
-      "kind": "spread",
-      "side": "Iona Gaels",
-      "line": 11.5,
-      "path": "basketball/mens-college-basketball",
-      "event": "401911196",
-      "date": "20261110"
-     }
-    ],
-    "sport": "NCAAB"
-   }
-  },
-  {
-   "n": 732,
-   "league": "NCAAB",
-   "type": "Over/Under",
-   "matchup": "Siena Saints @ Dayton Flyers",
-   "pick": "Under 159.5 total points",
-   "odds": -115,
-   "units": 1.0,
-   "gap": null,
-   "start": "2026-11-10T16:00:00",
-   "timed": true,
-   "espn": {
-    "legs": [
-     {
-      "kind": "total",
-      "side": null,
-      "ou": "U",
-      "line": 159.5,
-      "path": "basketball/mens-college-basketball",
-      "event": "401911187",
-      "date": "20261110"
-     }
-    ],
-    "sport": "NCAAB"
-   }
-  },
-  {
-   "n": 733,
-   "league": "NCAAB",
-   "type": "Over/Under",
-   "matchup": "Maine Black Bears @ Rhode Island Rams",
-   "pick": "Under 140.5 total points",
-   "odds": -105,
-   "units": 1.0,
-   "gap": null,
-   "start": "2026-11-10T16:00:00",
-   "timed": true,
-   "espn": {
-    "legs": [
-     {
-      "kind": "total",
-      "side": null,
-      "ou": "U",
-      "line": 140.5,
-      "path": "basketball/mens-college-basketball",
-      "event": "401920063",
-      "date": "20261110"
-     }
-    ],
-    "sport": "NCAAB"
-   }
-  },
-  {
-   "n": 738,
-   "league": "NHL",
-   "type": "Over/Under",
-   "matchup": "Washington Capitals @ Ottawa Senators",
-   "pick": "Over 6 total goals (full game; even-number total, push at 6)",
-   "odds": -120,
-   "units": 2.5,
-   "gap": null,
-   "start": "2026-11-10T16:10:00",
-   "timed": true,
-   "espn": {
-    "legs": [
-     {
-      "kind": "total",
-      "side": null,
-      "ou": "O",
-      "line": 6.0,
-      "path": "hockey/nhl",
-      "event": "401892685",
-      "date": "20261110"
-     }
-    ],
-    "sport": "NHL"
-   }
-  },
-  {
-   "n": 729,
-   "league": "NHL",
-   "type": "Player Prop",
-   "matchup": "Florida Panthers @ Columbus Blue Jackets",
-   "pick": "Matthew Tkachuk OVER 0.5 assists",
-   "odds": 100,
-   "units": 1.0,
-   "gap": null,
-   "start": "2026-11-10T16:30:00",
-   "timed": true,
-   "espn": {
-    "legs": [
-     {
-      "kind": "team_total",
-      "side": "Matthew Tkachuk",
-      "ou": "O",
-      "line": 0.5,
-      "path": "hockey/nhl",
-      "event": "401892686",
-      "date": "20261110"
-     }
-    ],
-    "sport": "NHL"
-   }
-  },
-  {
-   "n": 736,
-   "league": "NHL",
-   "type": "Player Prop",
-   "matchup": "Florida Panthers @ Columbus Blue Jackets",
-   "pick": "Valeri Nichushkin OVER 0.5 assists",
-   "odds": 275,
-   "units": 0.5,
-   "gap": null,
-   "start": "2026-11-10T16:30:00",
-   "timed": true,
-   "espn": {
-    "legs": [
-     {
-      "kind": "team_total",
-      "side": "Valeri Nichushkin",
-      "ou": "O",
-      "line": 0.5,
-      "path": "hockey/nhl",
-      "event": "401892686",
-      "date": "20261110"
-     }
-    ],
-    "sport": "NHL"
-   }
-  },
-  {
-   "n": 737,
-   "league": "NHL",
-   "type": "Player Prop",
-   "matchup": "Florida Panthers @ Columbus Blue Jackets",
-   "pick": "Sean Monahan OVER 0.5 assists",
-   "odds": 230,
-   "units": 0.5,
-   "gap": null,
-   "start": "2026-11-10T16:30:00",
-   "timed": true,
-   "espn": {
-    "legs": [
-     {
-      "kind": "team_total",
-      "side": "Sean Monahan",
-      "ou": "O",
-      "line": 0.5,
-      "path": "hockey/nhl",
-      "event": "401892686",
-      "date": "20261110"
-     }
-    ],
-    "sport": "NHL"
-   }
-  },
-  {
-   "n": 730,
-   "league": "NHL",
-   "type": "Player Prop",
-   "matchup": "Detroit Red Wings @ St. Louis Blues",
-   "pick": "Alex DeBrincat OVER 3.5 shots on goal",
-   "odds": 130,
-   "units": 1.0,
-   "gap": null,
-   "start": "2026-11-10T17:00:00",
-   "timed": true,
-   "espn": {
-    "legs": [
-     {
-      "kind": "team_total",
-      "side": "Alex DeBrincat",
-      "ou": "O",
-      "line": 3.5,
-      "path": "hockey/nhl",
-      "event": "401892687",
-      "date": "20261110"
-     }
-    ],
-    "sport": "NHL"
-   }
-  },
-  {
-   "n": 734,
-   "league": "NCAAB",
-   "type": "Over/Under",
-   "matchup": "Illinois Fighting Illini @ Texas Tech Red Raiders",
-   "pick": "Under 166.5 total points",
-   "odds": -105,
-   "units": 1.0,
-   "gap": null,
-   "start": "2026-11-10T17:00:00",
-   "timed": true,
-   "espn": {
-    "legs": [
-     {
-      "kind": "total",
-      "side": null,
-      "ou": "U",
-      "line": 166.5,
-      "path": "basketball/mens-college-basketball",
-      "event": "401913527",
-      "date": "20261110"
-     }
-    ],
-    "sport": "NCAAB"
-   }
-  },
-  {
-   "n": 735,
-   "league": "NCAAB",
-   "type": "Spread",
-   "matchup": "Weber State Wildcats @ Utah Utes",
-   "pick": "Weber State Wildcats +16.5",
-   "odds": -105,
-   "units": 1.0,
-   "gap": null,
-   "start": "2026-11-10T18:00:00",
-   "timed": true,
-   "espn": {
-    "legs": [
-     {
-      "kind": "spread",
-      "side": "Weber State Wildcats",
-      "line": 16.5,
-      "path": "basketball/mens-college-basketball",
-      "event": "401925940",
-      "date": "20261110"
-     }
-    ],
-    "sport": "NCAAB"
-   }
-  }
- ],
+ "picks": [],
  "awaiting": [
   {
    "n": 724,
@@ -463,6 +204,290 @@
      }
     ],
     "sport": "Tennis"
+   }
+  },
+  {
+   "n": 729,
+   "league": "NHL",
+   "type": "Player Prop",
+   "matchup": "Florida Panthers @ Columbus Blue Jackets",
+   "pick": "Matthew Tkachuk OVER 0.5 assists",
+   "odds": 100,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-10T16:30:00",
+   "timed": true,
+   "espn": {
+    "legs": [
+     {
+      "kind": "team_total",
+      "side": "Matthew Tkachuk",
+      "ou": "O",
+      "line": 0.5,
+      "path": "hockey/nhl",
+      "event": "401892686",
+      "date": "20261110"
+     }
+    ],
+    "sport": "NHL"
+   }
+  },
+  {
+   "n": 730,
+   "league": "NHL",
+   "type": "Player Prop",
+   "matchup": "Detroit Red Wings @ St. Louis Blues",
+   "pick": "Alex DeBrincat OVER 3.5 shots on goal",
+   "odds": 130,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-10T17:00:00",
+   "timed": true,
+   "espn": {
+    "legs": [
+     {
+      "kind": "team_total",
+      "side": "Alex DeBrincat",
+      "ou": "O",
+      "line": 3.5,
+      "path": "hockey/nhl",
+      "event": "401892687",
+      "date": "20261110"
+     }
+    ],
+    "sport": "NHL"
+   }
+  },
+  {
+   "n": 731,
+   "league": "NCAAB",
+   "type": "Spread",
+   "matchup": "Iona Gaels @ Fordham Rams",
+   "pick": "Iona Gaels +11.5",
+   "odds": -110,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-10T16:00:00",
+   "timed": true,
+   "espn": {
+    "legs": [
+     {
+      "kind": "spread",
+      "side": "Iona Gaels",
+      "line": 11.5,
+      "path": "basketball/mens-college-basketball",
+      "event": "401911196",
+      "date": "20261110"
+     }
+    ],
+    "sport": "NCAAB"
+   }
+  },
+  {
+   "n": 732,
+   "league": "NCAAB",
+   "type": "Over/Under",
+   "matchup": "Siena Saints @ Dayton Flyers",
+   "pick": "Under 159.5 total points",
+   "odds": -115,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-10T16:00:00",
+   "timed": true,
+   "espn": {
+    "legs": [
+     {
+      "kind": "total",
+      "side": null,
+      "ou": "U",
+      "line": 159.5,
+      "path": "basketball/mens-college-basketball",
+      "event": "401911187",
+      "date": "20261110"
+     }
+    ],
+    "sport": "NCAAB"
+   }
+  },
+  {
+   "n": 733,
+   "league": "NCAAB",
+   "type": "Over/Under",
+   "matchup": "Maine Black Bears @ Rhode Island Rams",
+   "pick": "Under 140.5 total points",
+   "odds": -105,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-10T16:00:00",
+   "timed": true,
+   "espn": {
+    "legs": [
+     {
+      "kind": "total",
+      "side": null,
+      "ou": "U",
+      "line": 140.5,
+      "path": "basketball/mens-college-basketball",
+      "event": "401920063",
+      "date": "20261110"
+     }
+    ],
+    "sport": "NCAAB"
+   }
+  },
+  {
+   "n": 734,
+   "league": "NCAAB",
+   "type": "Over/Under",
+   "matchup": "Illinois Fighting Illini @ Texas Tech Red Raiders",
+   "pick": "Under 166.5 total points",
+   "odds": -105,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-10T17:00:00",
+   "timed": true,
+   "espn": {
+    "legs": [
+     {
+      "kind": "total",
+      "side": null,
+      "ou": "U",
+      "line": 166.5,
+      "path": "basketball/mens-college-basketball",
+      "event": "401913527",
+      "date": "20261110"
+     }
+    ],
+    "sport": "NCAAB"
+   }
+  },
+  {
+   "n": 735,
+   "league": "NCAAB",
+   "type": "Spread",
+   "matchup": "Weber State Wildcats @ Utah Utes",
+   "pick": "Weber State Wildcats +16.5",
+   "odds": -105,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-10T18:00:00",
+   "timed": true,
+   "espn": {
+    "legs": [
+     {
+      "kind": "spread",
+      "side": "Weber State Wildcats",
+      "line": 16.5,
+      "path": "basketball/mens-college-basketball",
+      "event": "401925940",
+      "date": "20261110"
+     }
+    ],
+    "sport": "NCAAB"
+   }
+  },
+  {
+   "n": 736,
+   "league": "NHL",
+   "type": "Player Prop",
+   "matchup": "Florida Panthers @ Columbus Blue Jackets",
+   "pick": "Valeri Nichushkin OVER 0.5 assists",
+   "odds": 275,
+   "units": 0.5,
+   "gap": null,
+   "start": "2026-11-10T16:30:00",
+   "timed": true,
+   "espn": {
+    "legs": [
+     {
+      "kind": "team_total",
+      "side": "Valeri Nichushkin",
+      "ou": "O",
+      "line": 0.5,
+      "path": "hockey/nhl",
+      "event": "401892686",
+      "date": "20261110"
+     }
+    ],
+    "sport": "NHL"
+   }
+  },
+  {
+   "n": 737,
+   "league": "NHL",
+   "type": "Player Prop",
+   "matchup": "Florida Panthers @ Columbus Blue Jackets",
+   "pick": "Sean Monahan OVER 0.5 assists",
+   "odds": 230,
+   "units": 0.5,
+   "gap": null,
+   "start": "2026-11-10T16:30:00",
+   "timed": true,
+   "espn": {
+    "legs": [
+     {
+      "kind": "team_total",
+      "side": "Sean Monahan",
+      "ou": "O",
+      "line": 0.5,
+      "path": "hockey/nhl",
+      "event": "401892686",
+      "date": "20261110"
+     }
+    ],
+    "sport": "NHL"
+   }
+  },
+  {
+   "n": 738,
+   "league": "NHL",
+   "type": "Over/Under",
+   "matchup": "Washington Capitals @ Ottawa Senators",
+   "pick": "Over 6 total goals (full game; even-number total, push at 6)",
+   "odds": -120,
+   "units": 2.5,
+   "gap": null,
+   "start": "2026-11-10T16:10:00",
+   "timed": true,
+   "espn": {
+    "legs": [
+     {
+      "kind": "total",
+      "side": null,
+      "ou": "O",
+      "line": 6.0,
+      "path": "hockey/nhl",
+      "event": "401892685",
+      "date": "20261110"
+     }
+    ],
+    "sport": "NHL"
+   }
+  },
+  {
+   "n": 739,
+   "league": "NBA",
+   "type": "Team Total",
+   "matchup": "Los Angeles Clippers @ Phoenix Suns",
+   "pick": "Clippers team total UNDER 103.5 points (full game)",
+   "odds": -118,
+   "units": 5.0,
+   "gap": null,
+   "start": "2026-11-10T18:10:00",
+   "timed": true,
+   "espn": {
+    "legs": [
+     {
+      "kind": "total",
+      "side": "Clippers team total",
+      "ou": "U",
+      "line": 103.5,
+      "path": "basketball/nba",
+      "event": "401909962",
+      "date": "20261110"
+     }
+    ],
+    "sport": "NBA"
    }
   }
  ],
