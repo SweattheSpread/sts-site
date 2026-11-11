@@ -81,7 +81,22 @@
     if (s.state === 'pre') return null;
     if (s.tennis) {
       const me = s.tennis.findIndex(p => same(leg.side, p.name)), [A, B] = me === 1 ? [s.tennis[1], s.tennis[0]] : s.tennis;
-      if (s.state === 'post') return { c: A.winner ? 'g' : 'r', why: A.winner ? 'Won the match' : 'Lost the match', fin: 1 };
+      if (s.state === 'post') {
+        if (leg.kind === 'spread' && leg.line != null) {
+          const unit = String(leg.unit || '').replace(/s$/, '');
+          const useSets = unit === 'set' || (!unit && Math.abs(leg.line) <= 2.5);
+          if (useSets) {
+            let sw = 0, sl = 0; const n = Math.min(A.sets.length, B.sets.length);
+            for (let k = 0; k < n; k++) if (A.sets[k] !== B.sets[k]) A.sets[k] > B.sets[k] ? sw++ : sl++;
+            const m = sw - sl + leg.line;
+            return { c: m > 0 ? 'g' : m < 0 ? 'r' : 'y', why: `Sets ${sw}-${sl} vs ${leg.line > 0 ? '+' : ''}${leg.line} sets`, fin: 1 };
+          }
+          const ag = A.sets.reduce((t, v) => t + (v || 0), 0), bg = B.sets.reduce((t, v) => t + (v || 0), 0);
+          const m = ag - bg + leg.line;
+          return { c: m > 0 ? 'g' : m < 0 ? 'r' : 'y', why: `Games ${ag}-${bg} (margin ${ag - bg > 0 ? '+' : ''}${ag - bg}) vs ${leg.line > 0 ? '+' : ''}${leg.line}`, fin: 1 };
+        }
+        return { c: A.winner ? 'g' : 'r', why: A.winner ? 'Won the match' : 'Lost the match', fin: 1 };
+      }
       let sw = 0, sl = 0; const n = A.sets.length;
       for (let k = 0; k < n - 1; k++) A.sets[k] > B.sets[k] ? sw++ : sl++;
       const g = (A.sets[n - 1] || 0) - (B.sets[n - 1] || 0), sets = `Sets ${sw}-${sl}, ${A.sets[n - 1] ?? 0}-${B.sets[n - 1] ?? 0} in set ${n || 1}`;

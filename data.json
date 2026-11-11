@@ -1,18 +1,31 @@
 {
- "updated": "Nov 11, 2026, 2:03 PM PT",
+ "updated": "Nov 11, 2026, 2:43 PM PT",
  "record": {
-  "w": 143,
+  "w": 144,
   "l": 146,
   "p": 0,
-  "n": 289,
-  "units": 33.63,
-  "risked": 426.75,
-  "roi": 7.88,
+  "n": 290,
+  "units": 34.68,
+  "risked": 428.25,
+  "roi": 8.1,
   "first": "2026-10-12",
-  "last": "2026-11-10"
+  "last": "2026-11-11"
  },
- "pending": 17,
+ "pending": 16,
  "latest": [
+  {
+   "n": 743,
+   "date": "2026-11-11",
+   "day": "2026-11-11",
+   "league": "Tennis",
+   "type": "Parlay",
+   "matchup": "ATP Stockholm 2-leg parlay",
+   "pick": "Cameron Norrie +5.5 games vs Taylor Fritz (5:30 AM PT) + Holger Rune ML vs Miomir Kecmanovic (10:30 AM PT)",
+   "odds": -143,
+   "units": 1.5,
+   "result": "W",
+   "pl": 1.05
+  },
   {
    "n": 739,
    "date": "2026-11-10",
@@ -103,19 +116,6 @@
    "units": 1.0,
    "result": "W",
    "pl": 0.95
-  },
-  {
-   "n": 732,
-   "date": "2026-11-10",
-   "day": "2026-11-10",
-   "league": "NCAAB",
-   "type": "Over/Under",
-   "matchup": "Siena Saints @ Dayton Flyers",
-   "pick": "Under 159.5 total points",
-   "odds": -115,
-   "units": 1.0,
-   "result": "L",
-   "pl": -1.0
   }
  ],
  "picks": [
@@ -467,41 +467,7 @@
       "side": "Alice Tubello",
       "path": "tennis/wta",
       "event": "1084-2026",
-      "comp": "186751",
-      "date": "20261111"
-     }
-    ],
-    "sport": "Tennis"
-   }
-  },
-  {
-   "n": 743,
-   "league": "Tennis",
-   "type": "Parlay",
-   "matchup": "ATP Stockholm 2-leg parlay",
-   "pick": "Cameron Norrie +5.5 games vs Taylor Fritz (5:30 AM PT) + Holger Rune ML vs Miomir Kecmanovic (10:30 AM PT)",
-   "odds": -143,
-   "units": 1.5,
-   "gap": null,
-   "start": "2026-11-11T05:30:00",
-   "timed": true,
-   "espn": {
-    "legs": [
-     {
-      "kind": "spread",
-      "side": "Cameron Norrie",
-      "line": 5.5,
-      "path": "tennis/atp",
-      "event": "148-2026",
-      "comp": "186529",
-      "date": "20261111"
-     },
-     {
-      "kind": "ml",
-      "side": "Holger Rune",
-      "path": "tennis/atp",
-      "event": "148-2026",
-      "comp": "186525",
+      "comp": "186767",
       "date": "20261111"
      }
     ],
@@ -525,18 +491,22 @@
       "kind": "spread",
       "side": "Elina Svitolina",
       "line": 1.5,
+      "unit": "set",
+      "opp": "Karolina Muchova",
       "path": "tennis/wta",
       "event": "382-2026",
-      "comp": "187382",
+      "comp": "187385",
       "date": "20261111"
      },
      {
       "kind": "spread",
       "side": "Mirra Andreeva",
       "line": 1.5,
+      "unit": "set",
+      "opp": "Aryna Sabalenka",
       "path": "tennis/wta",
       "event": "382-2026",
-      "comp": "187382",
+      "comp": "187378",
       "date": "20261111"
      }
     ],
@@ -660,6 +630,10 @@
   "2026-11-10": {
    "u": 0.89,
    "n": 16
+  },
+  "2026-11-11": {
+   "u": 1.05,
+   "n": 1
   }
  }
 }
