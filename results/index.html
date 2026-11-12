@@ -1,0 +1,120 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<title>All-Time Results · STS Analytics</title>
+<meta name="description" content="Every official STS Analytics play since launch, graded in units, with filters and a cumulative record chart.">
+<meta name="robots" content="noindex,nofollow">
+<meta name="theme-color" content="#07080a">
+<link rel="icon" href="/assets/favicon.ico">
+<link rel="stylesheet" href="/style.css?v=20261112r">
+</head>
+<body>
+<a class="skip" href="#main">Skip to results</a>
+<header class="nav">
+  <a class="brand" href="/"><img src="/assets/sweat_the_spread_profile.webp" alt="" width="34" height="34"><span>STS<b>Analytics</b></span></a>
+  <nav><a href="/#picks" class="glitch" data-text="Picks">Picks</a><a href="/#record" class="glitch" data-text="Record">Record</a><a href="/results/" class="glitch on" data-text="Results" aria-current="page">Results</a><a href="/pricing/" class="glitch" data-text="Pricing">Pricing</a><a href="/about/" class="glitch" data-text="About">About</a></nav>
+  <button id="sound" class="sound" aria-pressed="false" aria-label="Ambient sound off"><span class="bars"><i></i><i></i><i></i><i></i></span><span class="lbl">Sound off</span></button>
+</header>
+
+<main id="main">
+<section class="phero">
+  <p class="kicker scramble">All-time results</p>
+  <h1 class="glitch big" data-text="Every official play.">Every official play.</h1>
+  <p class="lede">The public record since launch, in units. Filter by sport, date, market or result. Pending plays are listed and kept out of the totals.</p>
+</section>
+
+<section class="sect results-page">
+  <div class="stats" id="rs-stats">
+    <div class="stat"><span class="n" id="rs-wl">—</span><span class="l" id="rs-n">graded official bets</span></div>
+    <div class="stat"><span class="n lime" id="rs-u">—</span><span class="l" id="rs-risk">units</span></div>
+    <div class="stat"><span class="n" id="rs-roi">—</span><span class="l">ROI (units won ÷ units risked)</span></div>
+  </div>
+  <p class="fine" id="rs-fine">Past bets are a report, not a forecast.</p>
+
+  <div class="eq-wrap">
+    <div class="eq-head">
+      <h3>Cumulative units</h3>
+      <p class="eq-tip" id="eq-tip" hidden></p>
+    </div>
+    <canvas id="eq-chart" role="img" aria-label="Cumulative units over time"></canvas>
+    <p class="fine" id="eq-empty" hidden>No graded plays in this filter.</p>
+  </div>
+
+  <form class="rs-filters" id="rs-filters">
+    <div class="rs-row">
+      <label class="rs-field">Sport
+        <select id="f-sport" name="sport"><option value="">All sports</option></select>
+      </label>
+      <label class="rs-field">From
+        <input type="date" id="f-from" name="from">
+      </label>
+      <label class="rs-field">To
+        <input type="date" id="f-to" name="to">
+      </label>
+      <fieldset class="rs-presets">
+        <legend>Date range</legend>
+        <button type="button" data-preset="7">Last 7</button>
+        <button type="button" data-preset="30">Last 30</button>
+        <button type="button" data-preset="month">This month</button>
+        <button type="button" data-preset="all" class="on">All time</button>
+      </fieldset>
+    </div>
+    <fieldset class="rs-chips" id="f-market">
+      <legend>Market</legend>
+    </fieldset>
+    <fieldset class="rs-chips" id="f-result">
+      <legend>Result</legend>
+    </fieldset>
+    <label class="rs-toggle"><input type="checkbox" id="f-props"> Player props only</label>
+  </form>
+
+  <div class="rs-meta">
+    <p id="rs-count"></p>
+    <label class="rs-field tight">Per page
+      <select id="f-page-size"><option>25</option><option>50</option><option>100</option></select>
+    </label>
+  </div>
+  <div class="rs-table-wrap">
+    <table class="rs-table" id="rs-table">
+      <thead>
+        <tr>
+          <th data-sort="day" aria-sort="descending"><button type="button">Date</button></th>
+          <th data-sort="n"><button type="button">#</button></th>
+          <th data-sort="league"><button type="button">Sport</button></th>
+          <th data-sort="play"><button type="button">Play</button></th>
+          <th data-sort="market_label"><button type="button">Market</button></th>
+          <th data-sort="odds"><button type="button">Odds</button></th>
+          <th data-sort="units"><button type="button">Units</button></th>
+          <th data-sort="result"><button type="button">Result</button></th>
+          <th data-sort="pl" aria-sort="none"><button type="button">P/L</button></th>
+        </tr>
+      </thead>
+      <tbody id="rs-body"></tbody>
+    </table>
+  </div>
+  <div class="rs-pager" id="rs-pager"></div>
+  <noscript><p class="fine">Turn on JavaScript to load the all-time results.</p></noscript>
+</section>
+</main>
+
+<footer class="foot">
+  <canvas id="particles" aria-hidden="true"></canvas>
+  <p class="kicker">Follow the sweat</p>
+  <ul class="socials">
+    <li><a data-icon="telegram" href="/#picks" id="tg-link">Telegram</a></li>
+    <li><a data-icon="x" href="https://x.com/SweattheSpread" rel="noopener" target="_blank">X</a></li>
+    <li><a data-icon="youtube" href="https://www.youtube.com/@sweatthespread" rel="noopener" target="_blank">YouTube</a></li>
+    <li><a data-icon="instagram" href="https://instagram.com/sweatthespread" rel="noopener" target="_blank">Instagram</a></li>
+  </ul>
+  <p class="fine">© 2026 STS Analytics · sweatthespread@stsanalytics.co · 21+. Bet responsibly. Gambling problem? Call 1-800-GAMBLER.</p>
+</footer>
+<script src="/vendor/gsap.min.js" defer></script>
+<script src="/vendor/ScrollTrigger.min.js" defer></script>
+<script src="/vendor/lenis.min.js" defer></script>
+<script type="module" src="/main.js?v=20261112r"></script>
+<script src="/results/results.js?v=20261112r" defer></script>
+<!-- Cloudflare Web Analytics --><script defer src='https://static.cloudflareinsights.com/beacon.min.js' data-cf-beacon='{"token": "a010030c76fa4e209f8706716a4c3b80"}'></script><!-- End Cloudflare Web Analytics -->
+</body>
+</html>

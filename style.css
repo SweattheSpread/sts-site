@@ -149,3 +149,60 @@ h3{font-size:14px;letter-spacing:.2em;text-transform:uppercase;color:var(--mut);
 .card .rr-legs .g{color:var(--mut)}
 .card .rr-note{margin-top:10px;font-size:12px}
 .card.rr dl{flex-wrap:wrap}
+
+/* all-time results */
+.nav nav a.on{color:var(--tx)}
+.results-page{padding-top:6vh}
+.eq-wrap{margin:36px 0 32px;background:var(--bg2);border:1px solid var(--line);padding:18px 18px 8px}
+.eq-head{display:flex;justify-content:space-between;align-items:baseline;gap:12px;flex-wrap:wrap}
+.eq-head h3{margin:0}
+.eq-tip{color:var(--mut);font-size:12px;margin:0}
+#eq-chart{display:block;width:100%;height:240px;cursor:crosshair}
+.rs-filters{display:flex;flex-direction:column;gap:16px;margin:8px 0 22px;padding:18px;border:1px solid var(--line);background:var(--bg2)}
+.rs-row{display:flex;flex-wrap:wrap;gap:14px;align-items:flex-end}
+.rs-field{display:flex;flex-direction:column;gap:6px;font-size:11px;letter-spacing:.12em;text-transform:uppercase;color:var(--mut)}
+.rs-field.tight{flex-direction:row;align-items:center;letter-spacing:.08em}
+.rs-field input,.rs-field select,.rs-presets button,.rs-chips button,.rs-pager button,#f-page-size{
+  background:var(--bg);border:1px solid var(--line);color:var(--tx);padding:8px 10px;font:13px/1.2 system-ui,sans-serif
+}
+.rs-field input[type=date],.rs-field select{min-width:150px;color-scheme:dark}
+.rs-presets{border:0;padding:0;min-width:0}
+.rs-presets legend,.rs-chips legend{font-size:11px;letter-spacing:.12em;text-transform:uppercase;color:var(--mut);margin-bottom:6px}
+.rs-presets{display:flex;flex-wrap:wrap;gap:6px;align-items:center}
+.rs-presets legend{width:100%;margin-bottom:6px}
+.rs-chips{border:0;padding:0;display:flex;flex-wrap:wrap;gap:6px;align-items:center}
+.rs-chips legend{width:100%}
+.rs-presets button,.rs-chips button,.rs-pager button{cursor:pointer;text-transform:uppercase;letter-spacing:.08em;font-size:11px}
+.rs-presets button:hover,.rs-chips button:hover,.rs-pager button:hover:not(:disabled),.rs-table th button:hover{border-color:var(--lime);color:var(--lime)}
+.rs-presets button.on,.rs-chips button.on,.rs-pager button.on{background:var(--lime);color:#000;border-color:var(--lime)}
+.rs-toggle{display:inline-flex;align-items:center;gap:8px;font-size:13px;color:var(--tx);cursor:pointer;user-select:none}
+.rs-toggle input{accent-color:var(--lime);width:16px;height:16px}
+.rs-meta{display:flex;justify-content:space-between;align-items:center;gap:12px;flex-wrap:wrap;margin:0 0 10px}
+.rs-meta p{color:var(--mut);font-size:13px}
+.rs-table-wrap{overflow-x:auto;border:1px solid var(--line);scroll-margin-top:72px}
+.rs-table{width:100%;border-collapse:collapse;font-variant-numeric:tabular-nums;min-width:720px}
+.rs-table th,.rs-table td{text-align:left;padding:10px 12px;border-bottom:1px solid var(--line);vertical-align:top}
+.rs-table th{font-size:11px;letter-spacing:.12em;text-transform:uppercase;color:var(--mut);background:var(--bg2);position:sticky;top:58px}
+.rs-table th button{background:none;border:0;color:inherit;padding:0;font:inherit;letter-spacing:inherit;text-transform:inherit;cursor:pointer}
+.rs-table th[aria-sort=ascending] button::after{content:" \2191"}
+.rs-table th[aria-sort=descending] button::after{content:" \2193"}
+.rs-table tbody tr:hover{background:#c6ff000a}
+.rs-table td.play{max-width:420px}
+.rs-table .empty{color:var(--mut);text-align:center;padding:28px}
+.rs-pager{display:flex;flex-wrap:wrap;gap:6px;justify-content:center;margin:16px 0 0;align-items:center}
+.rs-pager .gap{color:var(--mut);padding:0 4px}
+.rs-pager button:disabled{opacity:.3;cursor:default}
+.all-results{margin-top:22px}
+@media (max-width:760px){
+  .nav nav{gap:10px;font-size:10px;letter-spacing:.06em}
+  #eq-chart{height:200px}
+  .rs-table{min-width:0;display:block}
+  .rs-table thead{display:none}
+  .rs-table tbody,.rs-table tr,.rs-table td{display:block;width:100%}
+  .rs-table tr{padding:12px 0;border-bottom:1px solid var(--line)}
+  .rs-table td{display:grid;grid-template-columns:88px 1fr;gap:8px;padding:4px 0;border:0}
+  .rs-table td::before{content:attr(data-th);color:var(--mut);font-size:11px;letter-spacing:.1em;text-transform:uppercase}
+  .rs-table td.play{max-width:none}
+  .rs-field input[type=date],.rs-field select{min-width:0;width:100%}
+  .rs-row .rs-field{flex:1 1 140px}
+}

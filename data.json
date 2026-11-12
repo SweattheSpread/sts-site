@@ -1,5 +1,5 @@
 {
- "updated": "Nov 11, 2026, 6:04 PM PT",
+ "updated": "Nov 11, 2026, 10:10 PM PT",
  "record": {
   "w": 147,
   "l": 146,
@@ -127,64 +127,6 @@
   }
  ],
  "picks": [
-  {
-   "n": 745,
-   "league": "NHL",
-   "type": "Player Prop",
-   "matchup": "Pittsburgh Penguins @ San Jose Sharks",
-   "pick": "Macklin Celebrini OVER 0.5 assists",
-   "odds": -115,
-   "units": 1.0,
-   "gap": null,
-   "start": "2026-11-11T19:10:00",
-   "timed": true,
-   "ticket": "single",
-   "espn": {
-    "legs": [
-     {
-      "kind": "prop",
-      "player": "Macklin Celebrini",
-      "ou": "O",
-      "line": 0.5,
-      "stat": "assists",
-      "label": "Macklin Celebrini O 0.5 assists",
-      "path": "hockey/nhl",
-      "event": "401892695",
-      "date": "20261111"
-     }
-    ],
-    "sport": "NHL",
-    "ticket": "single"
-   }
-  },
-  {
-   "n": 756,
-   "league": "NCAAB",
-   "type": "Spread",
-   "matchup": "USC Trojans @ California Golden Bears",
-   "pick": "California Golden Bears +8.5",
-   "odds": -115,
-   "units": 1.0,
-   "gap": null,
-   "start": "2026-11-11T20:00:00",
-   "timed": true,
-   "ticket": "single",
-   "espn": {
-    "legs": [
-     {
-      "kind": "spread",
-      "side": "California Golden Bears",
-      "line": 8.5,
-      "label": "California Golden Bears +8.5",
-      "path": "basketball/mens-college-basketball",
-      "event": "401918054",
-      "date": "20261111"
-     }
-    ],
-    "sport": "NCAAB",
-    "ticket": "single"
-   }
-  },
   {
    "n": 747,
    "league": "NFL",
@@ -353,6 +295,36 @@
    }
   },
   {
+   "n": 745,
+   "league": "NHL",
+   "type": "Player Prop",
+   "matchup": "Pittsburgh Penguins @ San Jose Sharks",
+   "pick": "Macklin Celebrini OVER 0.5 assists",
+   "odds": -115,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-11T19:10:00",
+   "timed": true,
+   "ticket": "single",
+   "espn": {
+    "legs": [
+     {
+      "kind": "prop",
+      "player": "Macklin Celebrini",
+      "ou": "O",
+      "line": 0.5,
+      "stat": "assists",
+      "label": "Macklin Celebrini O 0.5 assists",
+      "path": "hockey/nhl",
+      "event": "401892695",
+      "date": "20261111"
+     }
+    ],
+    "sport": "NHL",
+    "ticket": "single"
+   }
+  },
+  {
    "n": 751,
    "league": "NBA",
    "type": "Player Prop",
@@ -489,6 +461,34 @@
       "label": "U 181.5",
       "path": "basketball/mens-college-basketball",
       "event": "401911346",
+      "date": "20261111"
+     }
+    ],
+    "sport": "NCAAB",
+    "ticket": "single"
+   }
+  },
+  {
+   "n": 756,
+   "league": "NCAAB",
+   "type": "Spread",
+   "matchup": "USC Trojans @ California Golden Bears",
+   "pick": "California Golden Bears +8.5",
+   "odds": -115,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-11T20:00:00",
+   "timed": true,
+   "ticket": "single",
+   "espn": {
+    "legs": [
+     {
+      "kind": "spread",
+      "side": "California Golden Bears",
+      "line": 8.5,
+      "label": "California Golden Bears +8.5",
+      "path": "basketball/mens-college-basketball",
+      "event": "401918054",
       "date": "20261111"
      }
     ],
