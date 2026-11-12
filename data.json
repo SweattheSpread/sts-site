@@ -1,18 +1,32 @@
 {
- "updated": "Nov 11, 2026, 4:16 PM PT",
+ "updated": "Nov 11, 2026, 6:04 PM PT",
  "record": {
-  "w": 144,
+  "w": 147,
   "l": 146,
   "p": 0,
-  "n": 290,
-  "units": 34.68,
-  "risked": 428.25,
-  "roi": 8.1,
+  "n": 293,
+  "units": 37.95,
+  "risked": 431.75,
+  "roi": 8.79,
   "first": "2026-10-12",
   "last": "2026-11-11"
  },
- "pending": 19,
+ "pending": 16,
  "latest": [
+  {
+   "n": 744,
+   "date": "2026-11-11",
+   "day": "2026-11-11",
+   "league": "Tennis",
+   "type": "Parlay",
+   "matchup": "WTA Finals 2-leg parlay",
+   "pick": "Elina Svitolina +1.5 sets vs Karolina Muchova (12:00 PM PT) + Mirra Andreeva +1.5 sets vs Aryna Sabalenka (1:10 PM PT)",
+   "odds": -103,
+   "units": 1.5,
+   "result": "W",
+   "pl": 1.46,
+   "ticket": "parlay"
+  },
   {
    "n": 743,
    "date": "2026-11-11",
@@ -26,6 +40,34 @@
    "result": "W",
    "pl": 1.05,
    "ticket": "parlay"
+  },
+  {
+   "n": 742,
+   "date": "2026-11-11",
+   "day": "2026-11-11",
+   "league": "Tennis",
+   "type": "Moneyline",
+   "matchup": "WTA Sopo: Alice Tubello vs Tatjana Maria",
+   "pick": "Alice Tubello ML",
+   "odds": -119,
+   "units": 1.0,
+   "result": "W",
+   "pl": 0.84,
+   "ticket": "single"
+  },
+  {
+   "n": 741,
+   "date": "2026-11-11",
+   "day": "2026-11-11",
+   "league": "Tennis",
+   "type": "Moneyline",
+   "matchup": "Challenger Monastir: Pedro Vives Marcos vs Jay Clarke",
+   "pick": "Pedro Vives Marcos ML",
+   "odds": -103,
+   "units": 1.0,
+   "result": "W",
+   "pl": 0.97,
+   "ticket": "single"
   },
   {
    "n": 739,
@@ -82,163 +124,9 @@
    "result": "W",
    "pl": 1.38,
    "ticket": "single"
-  },
-  {
-   "n": 735,
-   "date": "2026-11-10",
-   "day": "2026-11-10",
-   "league": "NCAAB",
-   "type": "Spread",
-   "matchup": "Weber State Wildcats @ Utah Utes",
-   "pick": "Weber State Wildcats +16.5",
-   "odds": -105,
-   "units": 1.0,
-   "result": "L",
-   "pl": -1.0,
-   "ticket": "single"
-  },
-  {
-   "n": 734,
-   "date": "2026-11-10",
-   "day": "2026-11-10",
-   "league": "NCAAB",
-   "type": "Over/Under",
-   "matchup": "Illinois Fighting Illini @ Texas Tech Red Raiders",
-   "pick": "Under 166.5 total points",
-   "odds": -105,
-   "units": 1.0,
-   "result": "W",
-   "pl": 0.95,
-   "ticket": "single"
-  },
-  {
-   "n": 733,
-   "date": "2026-11-10",
-   "day": "2026-11-10",
-   "league": "NCAAB",
-   "type": "Over/Under",
-   "matchup": "Maine Black Bears @ Rhode Island Rams",
-   "pick": "Under 140.5 total points",
-   "odds": -105,
-   "units": 1.0,
-   "result": "W",
-   "pl": 0.95,
-   "ticket": "single"
   }
  ],
  "picks": [
-  {
-   "n": 759,
-   "league": "NCAAF",
-   "type": "Moneyline",
-   "matchup": "Sacramento State Hornets @ Central Michigan Chippewas",
-   "pick": "Sacramento State ML",
-   "odds": 775,
-   "units": 0.5,
-   "gap": null,
-   "start": "2026-11-11T16:30:00",
-   "timed": true,
-   "ticket": "single",
-   "espn": {
-    "legs": [
-     {
-      "kind": "ml",
-      "side": "Sacramento State",
-      "label": "Sacramento State ML",
-      "path": "football/college-football",
-      "event": "401866462",
-      "date": "20261111"
-     }
-    ],
-    "sport": "NCAAF",
-    "ticket": "single"
-   }
-  },
-  {
-   "n": 753,
-   "league": "NCAAB",
-   "type": "Spread",
-   "matchup": "Arkansas-Pine Bluff Golden Lions @ UCLA Bruins",
-   "pick": "Arkansas-Pine Bluff Golden Lions +47.5",
-   "odds": -110,
-   "units": 1.0,
-   "gap": null,
-   "start": "2026-11-11T18:00:00",
-   "timed": true,
-   "ticket": "single",
-   "espn": {
-    "legs": [
-     {
-      "kind": "spread",
-      "side": "Arkansas-Pine Bluff Golden Lions",
-      "line": 47.5,
-      "label": "Arkansas-Pine Bluff Golden Lions +47.5",
-      "path": "basketball/mens-college-basketball",
-      "event": "401930177",
-      "date": "20261111"
-     }
-    ],
-    "sport": "NCAAB",
-    "ticket": "single"
-   }
-  },
-  {
-   "n": 754,
-   "league": "NCAAB",
-   "type": "Spread",
-   "matchup": "Cal Poly Mustangs @ Grand Canyon Antelopes",
-   "pick": "Cal Poly Mustangs +18.5",
-   "odds": -110,
-   "units": 1.0,
-   "gap": null,
-   "start": "2026-11-11T18:00:00",
-   "timed": true,
-   "ticket": "single",
-   "espn": {
-    "legs": [
-     {
-      "kind": "spread",
-      "side": "Cal Poly Mustangs",
-      "line": 18.5,
-      "label": "Cal Poly Mustangs +18.5",
-      "path": "basketball/mens-college-basketball",
-      "event": "401911346",
-      "date": "20261111"
-     }
-    ],
-    "sport": "NCAAB",
-    "ticket": "single"
-   }
-  },
-  {
-   "n": 755,
-   "league": "NCAAB",
-   "type": "Over/Under",
-   "matchup": "Cal Poly Mustangs @ Grand Canyon Antelopes",
-   "pick": "Under 181.5 total points",
-   "odds": -105,
-   "units": 1.0,
-   "gap": null,
-   "start": "2026-11-11T18:00:00",
-   "timed": true,
-   "ticket": "single",
-   "espn": {
-    "legs": [
-     {
-      "kind": "total",
-      "side": null,
-      "ou": "U",
-      "line": 181.5,
-      "label": "U 181.5",
-      "path": "basketball/mens-college-basketball",
-      "event": "401911346",
-      "date": "20261111"
-     }
-    ],
-    "sport": "NCAAB",
-    "ticket": "single"
-   }
-  },
   {
    "n": 745,
    "league": "NHL",
@@ -465,103 +353,6 @@
    }
   },
   {
-   "n": 741,
-   "league": "Tennis",
-   "type": "Moneyline",
-   "matchup": "Challenger Monastir: Pedro Vives Marcos vs Jay Clarke",
-   "pick": "Pedro Vives Marcos ML",
-   "odds": -103,
-   "units": 1.0,
-   "gap": null,
-   "start": "2026-11-11T04:00:00",
-   "timed": true,
-   "ticket": "single",
-   "espn": {
-    "legs": [
-     {
-      "kind": "ml",
-      "side": "Pedro Vives Marcos",
-      "label": "Pedro Vives Marcos ML",
-      "unverified": true
-     }
-    ],
-    "sport": "Tennis",
-    "ticket": "single"
-   }
-  },
-  {
-   "n": 742,
-   "league": "Tennis",
-   "type": "Moneyline",
-   "matchup": "WTA Sopo: Alice Tubello vs Tatjana Maria",
-   "pick": "Alice Tubello ML",
-   "odds": -119,
-   "units": 1.0,
-   "gap": null,
-   "start": "2026-11-11T07:00:00",
-   "timed": true,
-   "ticket": "single",
-   "espn": {
-    "legs": [
-     {
-      "kind": "ml",
-      "side": "Alice Tubello",
-      "label": "Alice Tubello ML",
-      "path": "tennis/wta",
-      "event": "1084-2026",
-      "comp": "186767",
-      "date": "20261111",
-      "opp": "Tatjana Maria"
-     }
-    ],
-    "sport": "Tennis",
-    "ticket": "single"
-   }
-  },
-  {
-   "n": 744,
-   "league": "Tennis",
-   "type": "Parlay",
-   "matchup": "WTA Finals 2-leg parlay",
-   "pick": "Elina Svitolina +1.5 sets vs Karolina Muchova (12:00 PM PT) + Mirra Andreeva +1.5 sets vs Aryna Sabalenka (1:10 PM PT)",
-   "odds": -103,
-   "units": 1.5,
-   "gap": null,
-   "start": "2026-11-11T12:00:00",
-   "timed": true,
-   "ticket": "parlay",
-   "espn": {
-    "legs": [
-     {
-      "kind": "spread",
-      "side": "Elina Svitolina",
-      "line": 1.5,
-      "unit": "set",
-      "opp": "Karolina Muchova",
-      "label": "Elina Svitolina +1.5 sets",
-      "path": "tennis/wta",
-      "event": "382-2026",
-      "comp": "187385",
-      "date": "20261111"
-     },
-     {
-      "kind": "spread",
-      "side": "Mirra Andreeva",
-      "line": 1.5,
-      "unit": "set",
-      "opp": "Aryna Sabalenka",
-      "label": "Mirra Andreeva +1.5 sets",
-      "path": "tennis/wta",
-      "event": "382-2026",
-      "comp": "187378",
-      "date": "20261111"
-     }
-    ],
-    "sport": "Tennis",
-    "ticket": "parlay"
-   }
-  },
-  {
    "n": 751,
    "league": "NBA",
    "type": "Player Prop",
@@ -613,6 +404,91 @@
       "label": "O 136.5",
       "path": "basketball/mens-college-basketball",
       "event": "401925895",
+      "date": "20261111"
+     }
+    ],
+    "sport": "NCAAB",
+    "ticket": "single"
+   }
+  },
+  {
+   "n": 753,
+   "league": "NCAAB",
+   "type": "Spread",
+   "matchup": "Arkansas-Pine Bluff Golden Lions @ UCLA Bruins",
+   "pick": "Arkansas-Pine Bluff Golden Lions +47.5",
+   "odds": -110,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-11T18:00:00",
+   "timed": true,
+   "ticket": "single",
+   "espn": {
+    "legs": [
+     {
+      "kind": "spread",
+      "side": "Arkansas-Pine Bluff Golden Lions",
+      "line": 47.5,
+      "label": "Arkansas-Pine Bluff Golden Lions +47.5",
+      "path": "basketball/mens-college-basketball",
+      "event": "401930177",
+      "date": "20261111"
+     }
+    ],
+    "sport": "NCAAB",
+    "ticket": "single"
+   }
+  },
+  {
+   "n": 754,
+   "league": "NCAAB",
+   "type": "Spread",
+   "matchup": "Cal Poly Mustangs @ Grand Canyon Antelopes",
+   "pick": "Cal Poly Mustangs +18.5",
+   "odds": -110,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-11T18:00:00",
+   "timed": true,
+   "ticket": "single",
+   "espn": {
+    "legs": [
+     {
+      "kind": "spread",
+      "side": "Cal Poly Mustangs",
+      "line": 18.5,
+      "label": "Cal Poly Mustangs +18.5",
+      "path": "basketball/mens-college-basketball",
+      "event": "401911346",
+      "date": "20261111"
+     }
+    ],
+    "sport": "NCAAB",
+    "ticket": "single"
+   }
+  },
+  {
+   "n": 755,
+   "league": "NCAAB",
+   "type": "Over/Under",
+   "matchup": "Cal Poly Mustangs @ Grand Canyon Antelopes",
+   "pick": "Under 181.5 total points",
+   "odds": -105,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-11T18:00:00",
+   "timed": true,
+   "ticket": "single",
+   "espn": {
+    "legs": [
+     {
+      "kind": "total",
+      "side": null,
+      "ou": "U",
+      "line": 181.5,
+      "label": "U 181.5",
+      "path": "basketball/mens-college-basketball",
+      "event": "401911346",
       "date": "20261111"
      }
     ],
@@ -674,6 +550,33 @@
      }
     ],
     "sport": "NCAAB",
+    "ticket": "single"
+   }
+  },
+  {
+   "n": 759,
+   "league": "NCAAF",
+   "type": "Moneyline",
+   "matchup": "Sacramento State Hornets @ Central Michigan Chippewas",
+   "pick": "Sacramento State ML",
+   "odds": 775,
+   "units": 0.5,
+   "gap": null,
+   "start": "2026-11-11T16:30:00",
+   "timed": true,
+   "ticket": "single",
+   "espn": {
+    "legs": [
+     {
+      "kind": "ml",
+      "side": "Sacramento State",
+      "label": "Sacramento State ML",
+      "path": "football/college-football",
+      "event": "401866462",
+      "date": "20261111"
+     }
+    ],
+    "sport": "NCAAF",
     "ticket": "single"
    }
   }
@@ -796,8 +699,8 @@
    "n": 16
   },
   "2026-11-11": {
-   "u": 1.05,
-   "n": 1
+   "u": 4.32,
+   "n": 4
   }
  }
 }
