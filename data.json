@@ -1,5 +1,5 @@
 {
- "updated": "Nov 12, 2026, 6:45 AM PT",
+ "updated": "Nov 12, 2026, 8:09 AM PT",
  "record": {
   "w": 152,
   "l": 152,
@@ -11,7 +11,7 @@
   "first": "2026-10-12",
   "last": "2026-11-11"
  },
- "pending": 8,
+ "pending": 14,
  "latest": [
   {
    "n": 759,
@@ -217,6 +217,65 @@
     ],
     "sport": "Tennis",
     "ticket": "parlay"
+   }
+  },
+  {
+   "n": 768,
+   "league": "NHL",
+   "type": "Over/Under",
+   "matchup": "Winnipeg Jets @ Dallas Stars",
+   "pick": "Under 5.5",
+   "odds": 102,
+   "units": 0.5,
+   "gap": null,
+   "start": "2026-11-12T17:10:00",
+   "timed": true,
+   "ticket": "single",
+   "espn": {
+    "legs": [
+     {
+      "kind": "total",
+      "side": null,
+      "ou": "U",
+      "line": 5.5,
+      "label": "U 5.5",
+      "path": "hockey/nhl",
+      "event": "401892703",
+      "date": "20261112",
+      "snapshot": {
+       "source": "nhl",
+       "state": "pre",
+       "detail": "Scheduled",
+       "start": "2026-11-13T01:00:00Z",
+       "period": null,
+       "clock": null,
+       "teams": [
+        {
+         "name": "Jets",
+         "short": "WPG",
+         "abbr": "WPG",
+         "score": 0,
+         "ha": "away",
+         "winner": null,
+         "linescores": []
+        },
+        {
+         "name": "Stars",
+         "short": "DAL",
+         "abbr": "DAL",
+         "score": 0,
+         "ha": "home",
+         "winner": null,
+         "linescores": []
+        }
+       ],
+       "nhl_id": 2026020306
+      },
+      "source": "nhl"
+     }
+    ],
+    "sport": "NHL",
+    "ticket": "single"
    }
   },
   {
@@ -448,6 +507,179 @@
    }
   },
   {
+   "n": 763,
+   "league": "NFL",
+   "type": "Over/Under",
+   "matchup": "Houston Texans @ Cleveland Browns",
+   "pick": "Over 41.5",
+   "odds": -105,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-15T10:00:00",
+   "timed": true,
+   "ticket": "single",
+   "espn": {
+    "legs": [
+     {
+      "kind": "total",
+      "side": null,
+      "ou": "O",
+      "line": 41.5,
+      "label": "O 41.5",
+      "path": "football/nfl",
+      "event": "401873056",
+      "date": "20261115",
+      "snapshot": {
+       "source": "espn",
+       "state": "pre",
+       "detail": "11/15 - 1:00 PM EST",
+       "start": "2026-11-15T18:00Z",
+       "period": null,
+       "clock": null,
+       "teams": [
+        {
+         "name": "Houston Texans",
+         "short": "Texans",
+         "abbr": "HOU",
+         "score": 0,
+         "ha": "away",
+         "winner": null,
+         "linescores": []
+        },
+        {
+         "name": "Cleveland Browns",
+         "short": "Browns",
+         "abbr": "CLE",
+         "score": 0,
+         "ha": "home",
+         "winner": null,
+         "linescores": []
+        }
+       ]
+      },
+      "source": "espn"
+     }
+    ],
+    "sport": "NFL",
+    "ticket": "single"
+   }
+  },
+  {
+   "n": 764,
+   "league": "NFL",
+   "type": "Over/Under",
+   "matchup": "Kansas City Chiefs @ Atlanta Falcons",
+   "pick": "Over 47.0",
+   "odds": -110,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-15T10:00:00",
+   "timed": true,
+   "ticket": "single",
+   "espn": {
+    "legs": [
+     {
+      "kind": "total",
+      "side": null,
+      "ou": "O",
+      "line": 47.0,
+      "label": "O 47.0",
+      "path": "football/nfl",
+      "event": "401873058",
+      "date": "20261115",
+      "snapshot": {
+       "source": "espn",
+       "state": "pre",
+       "detail": "11/15 - 1:00 PM EST",
+       "start": "2026-11-15T18:00Z",
+       "period": null,
+       "clock": null,
+       "teams": [
+        {
+         "name": "Kansas City Chiefs",
+         "short": "Chiefs",
+         "abbr": "KC",
+         "score": 0,
+         "ha": "away",
+         "winner": null,
+         "linescores": []
+        },
+        {
+         "name": "Atlanta Falcons",
+         "short": "Falcons",
+         "abbr": "ATL",
+         "score": 0,
+         "ha": "home",
+         "winner": null,
+         "linescores": []
+        }
+       ]
+      },
+      "source": "espn"
+     }
+    ],
+    "sport": "NFL",
+    "ticket": "single"
+   }
+  },
+  {
+   "n": 767,
+   "league": "NFL",
+   "type": "Spread",
+   "matchup": "Minnesota Vikings @ Green Bay Packers",
+   "pick": "Minnesota Vikings +3",
+   "odds": -104,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-15T10:00:00",
+   "timed": true,
+   "ticket": "single",
+   "espn": {
+    "legs": [
+     {
+      "kind": "spread",
+      "side": "Minnesota Vikings",
+      "line": 3.0,
+      "label": "Minnesota Vikings +3",
+      "path": "football/nfl",
+      "event": "401873060",
+      "date": "20261115",
+      "snapshot": {
+       "source": "espn",
+       "state": "pre",
+       "detail": "11/15 - 1:00 PM EST",
+       "start": "2026-11-15T18:00Z",
+       "period": null,
+       "clock": null,
+       "teams": [
+        {
+         "name": "Minnesota Vikings",
+         "short": "Vikings",
+         "abbr": "MIN",
+         "score": 0,
+         "ha": "away",
+         "winner": null,
+         "linescores": []
+        },
+        {
+         "name": "Green Bay Packers",
+         "short": "Packers",
+         "abbr": "GB",
+         "score": 0,
+         "ha": "home",
+         "winner": null,
+         "linescores": []
+        }
+       ]
+      },
+      "source": "espn"
+     }
+    ],
+    "sport": "NFL",
+    "ticket": "single"
+   }
+  },
+  {
    "n": 748,
    "league": "NFL",
    "type": "Spread",
@@ -490,6 +722,120 @@
          "name": "Arizona Cardinals",
          "short": "Cardinals",
          "abbr": "ARI",
+         "score": 0,
+         "ha": "home",
+         "winner": null,
+         "linescores": []
+        }
+       ]
+      },
+      "source": "espn"
+     }
+    ],
+    "sport": "NFL",
+    "ticket": "single"
+   }
+  },
+  {
+   "n": 766,
+   "league": "NFL",
+   "type": "Spread",
+   "matchup": "Pittsburgh Steelers @ Cincinnati Bengals",
+   "pick": "Pittsburgh Steelers +3.5",
+   "odds": -110,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-15T17:20:00",
+   "timed": true,
+   "ticket": "single",
+   "espn": {
+    "legs": [
+     {
+      "kind": "spread",
+      "side": "Pittsburgh Steelers",
+      "line": 3.5,
+      "label": "Pittsburgh Steelers +3.5",
+      "path": "football/nfl",
+      "event": "401873064",
+      "date": "20261115",
+      "snapshot": {
+       "source": "espn",
+       "state": "pre",
+       "detail": "11/15 - 8:20 PM EST",
+       "start": "2026-11-16T01:20Z",
+       "period": null,
+       "clock": null,
+       "teams": [
+        {
+         "name": "Pittsburgh Steelers",
+         "short": "Steelers",
+         "abbr": "PIT",
+         "score": 0,
+         "ha": "away",
+         "winner": null,
+         "linescores": []
+        },
+        {
+         "name": "Cincinnati Bengals",
+         "short": "Bengals",
+         "abbr": "CIN",
+         "score": 0,
+         "ha": "home",
+         "winner": null,
+         "linescores": []
+        }
+       ]
+      },
+      "source": "espn"
+     }
+    ],
+    "sport": "NFL",
+    "ticket": "single"
+   }
+  },
+  {
+   "n": 765,
+   "league": "NFL",
+   "type": "Spread",
+   "matchup": "Los Angeles Chargers @ Baltimore Ravens",
+   "pick": "Baltimore Ravens -4.5",
+   "odds": -105,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-16T17:15:00",
+   "timed": true,
+   "ticket": "single",
+   "espn": {
+    "legs": [
+     {
+      "kind": "spread",
+      "side": "Baltimore Ravens",
+      "line": -4.5,
+      "label": "Baltimore Ravens -4.5",
+      "path": "football/nfl",
+      "event": "401873065",
+      "date": "20261116",
+      "snapshot": {
+       "source": "espn",
+       "state": "pre",
+       "detail": "11/16 - 8:15 PM EST",
+       "start": "2026-11-17T01:15Z",
+       "period": null,
+       "clock": null,
+       "teams": [
+        {
+         "name": "Los Angeles Chargers",
+         "short": "Chargers",
+         "abbr": "LAC",
+         "score": 0,
+         "ha": "away",
+         "winner": null,
+         "linescores": []
+        },
+        {
+         "name": "Baltimore Ravens",
+         "short": "Ravens",
+         "abbr": "BAL",
          "score": 0,
          "ha": "home",
          "winner": null,
