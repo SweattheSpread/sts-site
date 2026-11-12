@@ -1,5 +1,5 @@
 {
- "updated": "Nov 12, 2026, 2:06 PM PT",
+ "updated": "Nov 12, 2026, 3:24 PM PT",
  "record": {
   "w": 152,
   "l": 152,
@@ -11,7 +11,7 @@
   "first": "2026-10-12",
   "last": "2026-11-11"
  },
- "pending": 20,
+ "pending": 21,
  "plays": [
   {
    "n": 334,
@@ -5000,7 +5000,7 @@
    "matchup": "Winnipeg Jets @ Dallas Stars",
    "pick": "Under 5.5 +102",
    "odds": 102,
-   "units": 0.5,
+   "units": 1.5,
    "result": null,
    "pl": null,
    "pending": true
@@ -5113,6 +5113,22 @@
    "pick": "Dougie Hamilton OVER 2.5 shots on goal",
    "odds": 155,
    "units": 1.0,
+   "result": null,
+   "pl": null,
+   "pending": true
+  },
+  {
+   "n": 776,
+   "date": "2026-11-12",
+   "day": "2026-11-12",
+   "league": "NHL",
+   "market": "total",
+   "market_label": "Total",
+   "ticket": "single",
+   "matchup": "Detroit Red Wings @ Florida Panthers",
+   "pick": "Under 6 total goals (full game; even-number total, push at 6)",
+   "odds": -114,
+   "units": 3.0,
    "result": null,
    "pl": null,
    "pending": true

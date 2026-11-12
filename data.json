@@ -1,5 +1,5 @@
 {
- "updated": "Nov 12, 2026, 2:06 PM PT",
+ "updated": "Nov 12, 2026, 3:24 PM PT",
  "record": {
   "w": 152,
   "l": 152,
@@ -11,7 +11,7 @@
   "first": "2026-10-12",
   "last": "2026-11-11"
  },
- "pending": 20,
+ "pending": 21,
  "latest": [
   {
    "n": 759,
@@ -480,6 +480,65 @@
    }
   },
   {
+   "n": 776,
+   "league": "NHL",
+   "type": "Over/Under",
+   "matchup": "Detroit Red Wings @ Florida Panthers",
+   "pick": "Under 6 total goals (full game; even-number total, push at 6)",
+   "odds": -114,
+   "units": 3.0,
+   "gap": null,
+   "start": "2026-11-12T16:40:00",
+   "timed": true,
+   "ticket": "single",
+   "espn": {
+    "legs": [
+     {
+      "kind": "total",
+      "side": null,
+      "ou": "U",
+      "line": 6.0,
+      "label": "U 6.0",
+      "path": "hockey/nhl",
+      "event": "401892699",
+      "date": "20261112",
+      "snapshot": {
+       "source": "nhl",
+       "state": "pre",
+       "detail": "Scheduled",
+       "start": "2026-11-13T00:30:00Z",
+       "period": null,
+       "clock": null,
+       "teams": [
+        {
+         "name": "Red Wings",
+         "short": "DET",
+         "abbr": "DET",
+         "score": 0,
+         "ha": "away",
+         "winner": null,
+         "linescores": []
+        },
+        {
+         "name": "Panthers",
+         "short": "FLA",
+         "abbr": "FLA",
+         "score": 0,
+         "ha": "home",
+         "winner": null,
+         "linescores": []
+        }
+       ],
+       "nhl_id": 2026020302
+      },
+      "source": "nhl"
+     }
+    ],
+    "sport": "NHL",
+    "ticket": "single"
+   }
+  },
+  {
    "n": 772,
    "league": "NCAAB",
    "type": "Over/Under",
@@ -544,7 +603,7 @@
    "matchup": "Winnipeg Jets @ Dallas Stars",
    "pick": "Under 5.5",
    "odds": 102,
-   "units": 0.5,
+   "units": 1.5,
    "gap": null,
    "start": "2026-11-12T17:10:00",
    "timed": true,
@@ -1075,7 +1134,36 @@
       "label": "Pittsburgh Steelers +3.5",
       "path": "football/nfl",
       "event": "401873064",
-      "date": "20261115"
+      "date": "20261115",
+      "snapshot": {
+       "source": "espn",
+       "state": "pre",
+       "detail": "11/15 - 8:20 PM EST",
+       "start": "2026-11-16T01:20Z",
+       "period": null,
+       "clock": null,
+       "teams": [
+        {
+         "name": "Pittsburgh Steelers",
+         "short": "Steelers",
+         "abbr": "PIT",
+         "score": 0,
+         "ha": "away",
+         "winner": null,
+         "linescores": []
+        },
+        {
+         "name": "Cincinnati Bengals",
+         "short": "Bengals",
+         "abbr": "CIN",
+         "score": 0,
+         "ha": "home",
+         "winner": null,
+         "linescores": []
+        }
+       ]
+      },
+      "source": "espn"
      }
     ],
     "sport": "NFL",
