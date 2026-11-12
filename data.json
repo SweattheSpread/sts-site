@@ -1,5 +1,5 @@
 {
- "updated": "Nov 12, 2026, 2:03 PM PT",
+ "updated": "Nov 12, 2026, 2:06 PM PT",
  "record": {
   "w": 152,
   "l": 152,
@@ -1075,36 +1075,7 @@
       "label": "Pittsburgh Steelers +3.5",
       "path": "football/nfl",
       "event": "401873064",
-      "date": "20261115",
-      "snapshot": {
-       "source": "espn",
-       "state": "pre",
-       "detail": "11/15 - 8:20 PM EST",
-       "start": "2026-11-16T01:20Z",
-       "period": null,
-       "clock": null,
-       "teams": [
-        {
-         "name": "Pittsburgh Steelers",
-         "short": "Steelers",
-         "abbr": "PIT",
-         "score": 0,
-         "ha": "away",
-         "winner": null,
-         "linescores": []
-        },
-        {
-         "name": "Cincinnati Bengals",
-         "short": "Bengals",
-         "abbr": "CIN",
-         "score": 0,
-         "ha": "home",
-         "winner": null,
-         "linescores": []
-        }
-       ]
-      },
-      "source": "espn"
+      "date": "20261115"
      }
     ],
     "sport": "NFL",
