@@ -1,128 +1,128 @@
 {
- "updated": "Nov 11, 2026, 10:19 PM PT",
+ "updated": "Nov 11, 2026, 11:03 PM PT",
  "record": {
-  "w": 147,
-  "l": 146,
+  "w": 152,
+  "l": 152,
   "p": 0,
-  "n": 293,
-  "units": 37.95,
-  "risked": 431.75,
-  "roi": 8.79,
+  "n": 304,
+  "units": 38.27,
+  "risked": 442.75,
+  "roi": 8.64,
   "first": "2026-10-12",
   "last": "2026-11-11"
  },
- "pending": 16,
+ "pending": 5,
  "latest": [
   {
-   "n": 744,
+   "n": 759,
    "date": "2026-11-11",
    "day": "2026-11-11",
-   "league": "Tennis",
-   "type": "Parlay",
-   "matchup": "WTA Finals 2-leg parlay",
-   "pick": "Elina Svitolina +1.5 sets vs Karolina Muchova (12:00 PM PT) + Mirra Andreeva +1.5 sets vs Aryna Sabalenka (1:10 PM PT)",
-   "odds": -103,
-   "units": 1.5,
-   "result": "W",
-   "pl": 1.46,
-   "ticket": "parlay"
-  },
-  {
-   "n": 743,
-   "date": "2026-11-11",
-   "day": "2026-11-11",
-   "league": "Tennis",
-   "type": "Parlay",
-   "matchup": "ATP Stockholm 2-leg parlay",
-   "pick": "Cameron Norrie +5.5 games vs Taylor Fritz (5:30 AM PT) + Holger Rune ML vs Miomir Kecmanovic (10:30 AM PT)",
-   "odds": -143,
-   "units": 1.5,
-   "result": "W",
-   "pl": 1.05,
-   "ticket": "parlay"
-  },
-  {
-   "n": 742,
-   "date": "2026-11-11",
-   "day": "2026-11-11",
-   "league": "Tennis",
+   "league": "NCAAF",
    "type": "Moneyline",
-   "matchup": "WTA Sopo: Alice Tubello vs Tatjana Maria",
-   "pick": "Alice Tubello ML",
-   "odds": -119,
-   "units": 1.0,
-   "result": "W",
-   "pl": 0.84,
-   "ticket": "single"
-  },
-  {
-   "n": 741,
-   "date": "2026-11-11",
-   "day": "2026-11-11",
-   "league": "Tennis",
-   "type": "Moneyline",
-   "matchup": "Challenger Monastir: Pedro Vives Marcos vs Jay Clarke",
-   "pick": "Pedro Vives Marcos ML",
-   "odds": -103,
-   "units": 1.0,
-   "result": "W",
-   "pl": 0.97,
-   "ticket": "single"
-  },
-  {
-   "n": 739,
-   "date": "2026-11-10",
-   "day": "2026-11-10",
-   "league": "NBA",
-   "type": "Team Total",
-   "matchup": "Los Angeles Clippers @ Phoenix Suns",
-   "pick": "Clippers team total OVER 103.5 points (full game)",
-   "odds": -118,
-   "units": 5.0,
-   "result": "W",
-   "pl": 4.24,
-   "ticket": "single"
-  },
-  {
-   "n": 738,
-   "date": "2026-11-10",
-   "day": "2026-11-10",
-   "league": "NHL",
-   "type": "Over/Under",
-   "matchup": "Washington Capitals @ Ottawa Senators",
-   "pick": "Over 6 total goals (full game; even-number total, push at 6)",
-   "odds": -120,
-   "units": 2.5,
-   "result": "L",
-   "pl": -2.5,
-   "ticket": "single"
-  },
-  {
-   "n": 737,
-   "date": "2026-11-10",
-   "day": "2026-11-10",
-   "league": "NHL",
-   "type": "Player Prop",
-   "matchup": "Florida Panthers @ Columbus Blue Jackets",
-   "pick": "Sean Monahan OVER 0.5 assists",
-   "odds": 230,
+   "matchup": "Sacramento State Hornets @ Central Michigan Chippewas",
+   "pick": "Sacramento State ML",
+   "odds": 775,
    "units": 0.5,
    "result": "L",
    "pl": -0.5,
    "ticket": "single"
   },
   {
-   "n": 736,
-   "date": "2026-11-10",
-   "day": "2026-11-10",
-   "league": "NHL",
-   "type": "Player Prop",
-   "matchup": "Florida Panthers @ Columbus Blue Jackets",
-   "pick": "Valeri Nichushkin OVER 0.5 assists",
-   "odds": 275,
-   "units": 0.5,
+   "n": 758,
+   "date": "2026-11-11",
+   "day": "2026-11-11",
+   "league": "NCAAB",
+   "type": "Moneyline",
+   "matchup": "Pennsylvania Quakers @ Navy Midshipmen",
+   "pick": "Navy Midshipmen ML (live)",
+   "odds": 154,
+   "units": 1.5,
    "result": "W",
-   "pl": 1.38,
+   "pl": 2.31,
+   "ticket": "single"
+  },
+  {
+   "n": 757,
+   "date": "2026-11-11",
+   "day": "2026-11-11",
+   "league": "NBA",
+   "type": "Player Prop",
+   "matchup": "Washington Wizards @ Indiana Pacers",
+   "pick": "Ivica Zubac UNDER 12.5 points",
+   "odds": 105,
+   "units": 1.0,
+   "result": "L",
+   "pl": -1.0,
+   "ticket": "single"
+  },
+  {
+   "n": 756,
+   "date": "2026-11-11",
+   "day": "2026-11-11",
+   "league": "NCAAB",
+   "type": "Spread",
+   "matchup": "USC Trojans @ California Golden Bears",
+   "pick": "California Golden Bears +8.5",
+   "odds": -115,
+   "units": 1.0,
+   "result": "L",
+   "pl": -1.0,
+   "ticket": "single"
+  },
+  {
+   "n": 755,
+   "date": "2026-11-11",
+   "day": "2026-11-11",
+   "league": "NCAAB",
+   "type": "Over/Under",
+   "matchup": "Cal Poly Mustangs @ Grand Canyon Antelopes",
+   "pick": "Under 181.5 total points",
+   "odds": -105,
+   "units": 1.0,
+   "result": "W",
+   "pl": 0.95,
+   "ticket": "single"
+  },
+  {
+   "n": 754,
+   "date": "2026-11-11",
+   "day": "2026-11-11",
+   "league": "NCAAB",
+   "type": "Spread",
+   "matchup": "Cal Poly Mustangs @ Grand Canyon Antelopes",
+   "pick": "Cal Poly Mustangs +18.5",
+   "odds": -110,
+   "units": 1.0,
+   "result": "L",
+   "pl": -1.0,
+   "ticket": "single"
+  },
+  {
+   "n": 753,
+   "date": "2026-11-11",
+   "day": "2026-11-11",
+   "league": "NCAAB",
+   "type": "Spread",
+   "matchup": "Arkansas-Pine Bluff Golden Lions @ UCLA Bruins",
+   "pick": "Arkansas-Pine Bluff Golden Lions +47.5",
+   "odds": -110,
+   "units": 1.0,
+   "result": "L",
+   "pl": -1.0,
+   "ticket": "single"
+  },
+  {
+   "n": 752,
+   "date": "2026-11-11",
+   "day": "2026-11-11",
+   "league": "NCAAB",
+   "type": "Over/Under",
+   "matchup": "Old Dominion Monarchs @ Norfolk State Spartans",
+   "pick": "Over 136.5 total points",
+   "odds": -110,
+   "units": 1.0,
+   "result": "L",
+   "pl": -1.0,
    "ticket": "single"
   }
  ],
@@ -413,717 +413,7 @@
    }
   }
  ],
- "awaiting": [
-  {
-   "n": 740,
-   "league": "Tennis",
-   "type": "Moneyline",
-   "matchup": "Challenger Knoxville: Max Hans Rehberg vs Nicolas Mejia",
-   "pick": "Max Hans Rehberg ML",
-   "odds": -135,
-   "units": 1.0,
-   "gap": null,
-   "start": "2026-11-11T15:30:00",
-   "timed": true,
-   "ticket": "single",
-   "espn": {
-    "legs": [
-     {
-      "kind": "ml",
-      "side": "Max Hans Rehberg",
-      "label": "Max Hans Rehberg ML",
-      "snapshot": {
-       "source": "tennis-explorer",
-       "path": "tennis/explorer",
-       "event": "3375521",
-       "state": "post",
-       "detail": "Final \u00b7 2-0 sets",
-       "tennis": [
-        {
-         "name": "Rehberg M.",
-         "winner": true,
-         "sets": [
-          6,
-          7
-         ]
-        },
-        {
-         "name": "Mejia N.",
-         "winner": false,
-         "sets": [
-          3,
-          5
-         ]
-        }
-       ],
-       "tour": "Knoxville challenger"
-      },
-      "path": "tennis/explorer",
-      "event": "3375521",
-      "source": "tennis-explorer",
-      "date": "20261111"
-     }
-    ],
-    "sport": "Tennis",
-    "ticket": "single"
-   }
-  },
-  {
-   "n": 745,
-   "league": "NHL",
-   "type": "Player Prop",
-   "matchup": "Pittsburgh Penguins @ San Jose Sharks",
-   "pick": "Macklin Celebrini OVER 0.5 assists",
-   "odds": -115,
-   "units": 1.0,
-   "gap": null,
-   "start": "2026-11-11T19:10:00",
-   "timed": true,
-   "ticket": "single",
-   "espn": {
-    "legs": [
-     {
-      "kind": "prop",
-      "player": "Macklin Celebrini",
-      "ou": "O",
-      "line": 0.5,
-      "stat": "assists",
-      "label": "Macklin Celebrini O 0.5 assists",
-      "path": "hockey/nhl",
-      "event": "401892695",
-      "date": "20261111",
-      "snapshot": {
-       "source": "nhl",
-       "state": "post",
-       "detail": "Final/SO",
-       "start": "2026-11-12T03:00:00Z",
-       "period": 5,
-       "clock": "00:00",
-       "teams": [
-        {
-         "name": "Penguins",
-         "short": "PIT",
-         "abbr": "PIT",
-         "score": 3,
-         "ha": "away",
-         "winner": true,
-         "linescores": []
-        },
-        {
-         "name": "Sharks",
-         "short": "SJS",
-         "abbr": "SJS",
-         "score": 2,
-         "ha": "home",
-         "winner": false,
-         "linescores": []
-        }
-       ],
-       "nhl_id": 2026020298,
-       "stat": {
-        "v": 1,
-        "name": "M. Celebrini"
-       }
-      },
-      "source": "nhl"
-     }
-    ],
-    "sport": "NHL",
-    "ticket": "single"
-   }
-  },
-  {
-   "n": 751,
-   "league": "NBA",
-   "type": "Player Prop",
-   "matchup": "Boston Celtics @ Toronto Raptors",
-   "pick": "Derrick White OVER 4.5 assists",
-   "odds": -105,
-   "units": 1.0,
-   "gap": null,
-   "start": "2026-11-11T16:10:00",
-   "timed": true,
-   "ticket": "single",
-   "espn": {
-    "legs": [
-     {
-      "kind": "prop",
-      "player": "Derrick White",
-      "ou": "O",
-      "line": 4.5,
-      "stat": "assists",
-      "label": "Derrick White O 4.5 assists",
-      "path": "basketball/nba",
-      "event": "401909968",
-      "date": "20261111",
-      "snapshot": {
-       "source": "espn",
-       "state": "post",
-       "detail": "Final",
-       "start": "2026-11-12T00:00Z",
-       "period": null,
-       "clock": null,
-       "teams": [
-        {
-         "name": "Boston Celtics",
-         "short": "Celtics",
-         "abbr": "BOS",
-         "score": 98,
-         "ha": "away",
-         "winner": true,
-         "linescores": [
-          0,
-          0,
-          0,
-          0
-         ]
-        },
-        {
-         "name": "Toronto Raptors",
-         "short": "Raptors",
-         "abbr": "TOR",
-         "score": 93,
-         "ha": "home",
-         "winner": false,
-         "linescores": [
-          0,
-          0,
-          0,
-          0
-         ]
-        }
-       ],
-       "stat": {
-        "v": 7,
-        "name": "Derrick White"
-       }
-      },
-      "source": "espn"
-     }
-    ],
-    "sport": "NBA",
-    "ticket": "single"
-   }
-  },
-  {
-   "n": 752,
-   "league": "NCAAB",
-   "type": "Over/Under",
-   "matchup": "Old Dominion Monarchs @ Norfolk State Spartans",
-   "pick": "Over 136.5 total points",
-   "odds": -110,
-   "units": 1.0,
-   "gap": null,
-   "start": "2026-11-11T16:00:00",
-   "timed": true,
-   "ticket": "single",
-   "espn": {
-    "legs": [
-     {
-      "kind": "total",
-      "side": null,
-      "ou": "O",
-      "line": 136.5,
-      "label": "O 136.5",
-      "path": "basketball/mens-college-basketball",
-      "event": "401925895",
-      "date": "20261111",
-      "snapshot": {
-       "source": "espn",
-       "state": "post",
-       "detail": "Final",
-       "start": "2026-11-12T00:00Z",
-       "period": null,
-       "clock": null,
-       "teams": [
-        {
-         "name": "Old Dominion Monarchs",
-         "short": "Monarchs",
-         "abbr": "ODU",
-         "score": 71,
-         "ha": "away",
-         "winner": true,
-         "linescores": [
-          0,
-          0
-         ]
-        },
-        {
-         "name": "Norfolk State Spartans",
-         "short": "Spartans",
-         "abbr": "NORF",
-         "score": 60,
-         "ha": "home",
-         "winner": false,
-         "linescores": [
-          0,
-          0
-         ]
-        }
-       ]
-      },
-      "source": "espn"
-     }
-    ],
-    "sport": "NCAAB",
-    "ticket": "single"
-   }
-  },
-  {
-   "n": 753,
-   "league": "NCAAB",
-   "type": "Spread",
-   "matchup": "Arkansas-Pine Bluff Golden Lions @ UCLA Bruins",
-   "pick": "Arkansas-Pine Bluff Golden Lions +47.5",
-   "odds": -110,
-   "units": 1.0,
-   "gap": null,
-   "start": "2026-11-11T18:00:00",
-   "timed": true,
-   "ticket": "single",
-   "espn": {
-    "legs": [
-     {
-      "kind": "spread",
-      "side": "Arkansas-Pine Bluff Golden Lions",
-      "line": 47.5,
-      "label": "Arkansas-Pine Bluff Golden Lions +47.5",
-      "path": "basketball/mens-college-basketball",
-      "event": "401930177",
-      "date": "20261111",
-      "snapshot": {
-       "source": "espn",
-       "state": "post",
-       "detail": "Final",
-       "start": "2026-11-12T02:00Z",
-       "period": null,
-       "clock": null,
-       "teams": [
-        {
-         "name": "Arkansas-Pine Bluff Golden Lions",
-         "short": "Golden Lions",
-         "abbr": "UAPB",
-         "score": 37,
-         "ha": "away",
-         "winner": false,
-         "linescores": [
-          0,
-          0
-         ]
-        },
-        {
-         "name": "UCLA Bruins",
-         "short": "Bruins",
-         "abbr": "UCLA",
-         "score": 106,
-         "ha": "home",
-         "winner": true,
-         "linescores": [
-          0,
-          0
-         ]
-        }
-       ]
-      },
-      "source": "espn"
-     }
-    ],
-    "sport": "NCAAB",
-    "ticket": "single"
-   }
-  },
-  {
-   "n": 754,
-   "league": "NCAAB",
-   "type": "Spread",
-   "matchup": "Cal Poly Mustangs @ Grand Canyon Antelopes",
-   "pick": "Cal Poly Mustangs +18.5",
-   "odds": -110,
-   "units": 1.0,
-   "gap": null,
-   "start": "2026-11-11T18:00:00",
-   "timed": true,
-   "ticket": "single",
-   "espn": {
-    "legs": [
-     {
-      "kind": "spread",
-      "side": "Cal Poly Mustangs",
-      "line": 18.5,
-      "label": "Cal Poly Mustangs +18.5",
-      "path": "basketball/mens-college-basketball",
-      "event": "401911346",
-      "date": "20261111",
-      "snapshot": {
-       "source": "espn",
-       "state": "post",
-       "detail": "Final",
-       "start": "2026-11-12T02:00Z",
-       "period": null,
-       "clock": null,
-       "teams": [
-        {
-         "name": "Cal Poly Mustangs",
-         "short": "Mustangs",
-         "abbr": "CP",
-         "score": 71,
-         "ha": "away",
-         "winner": false,
-         "linescores": [
-          0,
-          0
-         ]
-        },
-        {
-         "name": "Grand Canyon Lopes",
-         "short": "Lopes",
-         "abbr": "GCU",
-         "score": 99,
-         "ha": "home",
-         "winner": true,
-         "linescores": [
-          0,
-          0
-         ]
-        }
-       ]
-      },
-      "source": "espn"
-     }
-    ],
-    "sport": "NCAAB",
-    "ticket": "single"
-   }
-  },
-  {
-   "n": 755,
-   "league": "NCAAB",
-   "type": "Over/Under",
-   "matchup": "Cal Poly Mustangs @ Grand Canyon Antelopes",
-   "pick": "Under 181.5 total points",
-   "odds": -105,
-   "units": 1.0,
-   "gap": null,
-   "start": "2026-11-11T18:00:00",
-   "timed": true,
-   "ticket": "single",
-   "espn": {
-    "legs": [
-     {
-      "kind": "total",
-      "side": null,
-      "ou": "U",
-      "line": 181.5,
-      "label": "U 181.5",
-      "path": "basketball/mens-college-basketball",
-      "event": "401911346",
-      "date": "20261111",
-      "snapshot": {
-       "source": "espn",
-       "state": "post",
-       "detail": "Final",
-       "start": "2026-11-12T02:00Z",
-       "period": null,
-       "clock": null,
-       "teams": [
-        {
-         "name": "Cal Poly Mustangs",
-         "short": "Mustangs",
-         "abbr": "CP",
-         "score": 71,
-         "ha": "away",
-         "winner": false,
-         "linescores": [
-          0,
-          0
-         ]
-        },
-        {
-         "name": "Grand Canyon Lopes",
-         "short": "Lopes",
-         "abbr": "GCU",
-         "score": 99,
-         "ha": "home",
-         "winner": true,
-         "linescores": [
-          0,
-          0
-         ]
-        }
-       ]
-      },
-      "source": "espn"
-     }
-    ],
-    "sport": "NCAAB",
-    "ticket": "single"
-   }
-  },
-  {
-   "n": 756,
-   "league": "NCAAB",
-   "type": "Spread",
-   "matchup": "USC Trojans @ California Golden Bears",
-   "pick": "California Golden Bears +8.5",
-   "odds": -115,
-   "units": 1.0,
-   "gap": null,
-   "start": "2026-11-11T20:00:00",
-   "timed": true,
-   "ticket": "single",
-   "espn": {
-    "legs": [
-     {
-      "kind": "spread",
-      "side": "California Golden Bears",
-      "line": 8.5,
-      "label": "California Golden Bears +8.5",
-      "path": "basketball/mens-college-basketball",
-      "event": "401918054",
-      "date": "20261111",
-      "snapshot": {
-       "source": "espn",
-       "state": "post",
-       "detail": "Final",
-       "start": "2026-11-12T04:00Z",
-       "period": null,
-       "clock": null,
-       "teams": [
-        {
-         "name": "USC Trojans",
-         "short": "Trojans",
-         "abbr": "USC",
-         "score": 77,
-         "ha": "away",
-         "winner": true,
-         "linescores": [
-          0,
-          0
-         ]
-        },
-        {
-         "name": "California Golden Bears",
-         "short": "Golden Bears",
-         "abbr": "CAL",
-         "score": 65,
-         "ha": "home",
-         "winner": false,
-         "linescores": [
-          0,
-          0
-         ]
-        }
-       ]
-      },
-      "source": "espn"
-     }
-    ],
-    "sport": "NCAAB",
-    "ticket": "single"
-   }
-  },
-  {
-   "n": 757,
-   "league": "NBA",
-   "type": "Player Prop",
-   "matchup": "Washington Wizards @ Indiana Pacers",
-   "pick": "Ivica Zubac UNDER 12.5 points",
-   "odds": 105,
-   "units": 1.0,
-   "gap": null,
-   "start": "2026-11-11T16:10:00",
-   "timed": true,
-   "ticket": "single",
-   "espn": {
-    "legs": [
-     {
-      "kind": "prop",
-      "player": "Ivica Zubac",
-      "ou": "U",
-      "line": 12.5,
-      "stat": "points",
-      "label": "Ivica Zubac U 12.5 points",
-      "path": "basketball/nba",
-      "event": "401909966",
-      "date": "20261111",
-      "snapshot": {
-       "source": "espn",
-       "state": "post",
-       "detail": "Final",
-       "start": "2026-11-12T00:00Z",
-       "period": null,
-       "clock": null,
-       "teams": [
-        {
-         "name": "Washington Wizards",
-         "short": "Wizards",
-         "abbr": "WSH",
-         "score": 101,
-         "ha": "away",
-         "winner": false,
-         "linescores": [
-          0,
-          0,
-          0,
-          0
-         ]
-        },
-        {
-         "name": "Indiana Pacers",
-         "short": "Pacers",
-         "abbr": "IND",
-         "score": 114,
-         "ha": "home",
-         "winner": true,
-         "linescores": [
-          0,
-          0,
-          0,
-          0
-         ]
-        }
-       ],
-       "stat": {
-        "v": 20,
-        "name": "Ivica Zubac"
-       }
-      },
-      "source": "espn"
-     }
-    ],
-    "sport": "NBA",
-    "ticket": "single"
-   }
-  },
-  {
-   "n": 758,
-   "league": "NCAAB",
-   "type": "Moneyline",
-   "matchup": "Pennsylvania Quakers @ Navy Midshipmen",
-   "pick": "Navy Midshipmen ML (live)",
-   "odds": 154,
-   "units": 1.5,
-   "gap": null,
-   "start": "2026-11-11T14:58:00",
-   "timed": true,
-   "ticket": "single",
-   "espn": {
-    "legs": [
-     {
-      "kind": "ml",
-      "side": "Navy Midshipmen",
-      "label": "Navy Midshipmen ML",
-      "path": "basketball/mens-college-basketball",
-      "event": "401921181",
-      "date": "20261111",
-      "snapshot": {
-       "source": "espn",
-       "state": "post",
-       "detail": "Final",
-       "start": "2026-11-11T22:58Z",
-       "period": null,
-       "clock": null,
-       "teams": [
-        {
-         "name": "Pennsylvania Quakers",
-         "short": "Quakers",
-         "abbr": "PENN",
-         "score": 76,
-         "ha": "away",
-         "winner": false,
-         "linescores": [
-          0,
-          0
-         ]
-        },
-        {
-         "name": "Navy Midshipmen",
-         "short": "Midshipmen",
-         "abbr": "NAVY",
-         "score": 81,
-         "ha": "home",
-         "winner": true,
-         "linescores": [
-          0,
-          0
-         ]
-        }
-       ]
-      },
-      "source": "espn"
-     }
-    ],
-    "sport": "NCAAB",
-    "ticket": "single"
-   }
-  },
-  {
-   "n": 759,
-   "league": "NCAAF",
-   "type": "Moneyline",
-   "matchup": "Sacramento State Hornets @ Central Michigan Chippewas",
-   "pick": "Sacramento State ML",
-   "odds": 775,
-   "units": 0.5,
-   "gap": null,
-   "start": "2026-11-11T16:30:00",
-   "timed": true,
-   "ticket": "single",
-   "espn": {
-    "legs": [
-     {
-      "kind": "ml",
-      "side": "Sacramento State",
-      "label": "Sacramento State ML",
-      "path": "football/college-football",
-      "event": "401866462",
-      "date": "20261111",
-      "snapshot": {
-       "source": "espn",
-       "state": "post",
-       "detail": "Final",
-       "start": "2026-11-12T00:30Z",
-       "period": null,
-       "clock": null,
-       "teams": [
-        {
-         "name": "Sacramento State Hornets",
-         "short": "Hornets",
-         "abbr": "SAC",
-         "score": 7,
-         "ha": "away",
-         "winner": false,
-         "linescores": [
-          0,
-          0,
-          0,
-          0
-         ]
-        },
-        {
-         "name": "Central Michigan Chippewas",
-         "short": "Chippewas",
-         "abbr": "CMU",
-         "score": 28,
-         "ha": "home",
-         "winner": true,
-         "linescores": [
-          0,
-          0,
-          0,
-          0
-         ]
-        }
-       ]
-      },
-      "source": "espn"
-     }
-    ],
-    "sport": "NCAAF",
-    "ticket": "single"
-   }
-  }
- ],
+ "awaiting": [],
  "daily": {
   "2026-10-12": {
    "u": 5.67,
@@ -1242,8 +532,8 @@
    "n": 16
   },
   "2026-11-11": {
-   "u": 4.32,
-   "n": 4
+   "u": 4.64,
+   "n": 15
   }
  }
 }

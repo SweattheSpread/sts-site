@@ -1,17 +1,17 @@
 {
- "updated": "Nov 11, 2026, 10:19 PM PT",
+ "updated": "Nov 11, 2026, 11:03 PM PT",
  "record": {
-  "w": 147,
-  "l": 146,
+  "w": 152,
+  "l": 152,
   "p": 0,
-  "n": 293,
-  "units": 37.95,
-  "risked": 431.75,
-  "roi": 8.79,
+  "n": 304,
+  "units": 38.27,
+  "risked": 442.75,
+  "roi": 8.64,
   "first": "2026-10-12",
   "last": "2026-11-11"
  },
- "pending": 16,
+ "pending": 5,
  "plays": [
   {
    "n": 334,
@@ -4713,9 +4713,9 @@
    "pick": "Max Hans Rehberg ML",
    "odds": -135,
    "units": 1.0,
-   "result": null,
-   "pl": null,
-   "pending": true
+   "result": "W",
+   "pl": 0.74,
+   "pending": false
   },
   {
    "n": 741,
@@ -4793,9 +4793,9 @@
    "pick": "Macklin Celebrini OVER 0.5 assists",
    "odds": -115,
    "units": 1.0,
-   "result": null,
-   "pl": null,
-   "pending": true
+   "result": "W",
+   "pl": 0.87,
+   "pending": false
   },
   {
    "n": 751,
@@ -4809,9 +4809,9 @@
    "pick": "Derrick White OVER 4.5 assists",
    "odds": -105,
    "units": 1.0,
-   "result": null,
-   "pl": null,
-   "pending": true
+   "result": "W",
+   "pl": 0.95,
+   "pending": false
   },
   {
    "n": 752,
@@ -4825,9 +4825,9 @@
    "pick": "Over 136.5 total points",
    "odds": -110,
    "units": 1.0,
-   "result": null,
-   "pl": null,
-   "pending": true
+   "result": "L",
+   "pl": -1.0,
+   "pending": false
   },
   {
    "n": 753,
@@ -4841,9 +4841,9 @@
    "pick": "Arkansas-Pine Bluff Golden Lions +47.5",
    "odds": -110,
    "units": 1.0,
-   "result": null,
-   "pl": null,
-   "pending": true
+   "result": "L",
+   "pl": -1.0,
+   "pending": false
   },
   {
    "n": 754,
@@ -4857,9 +4857,9 @@
    "pick": "Cal Poly Mustangs +18.5",
    "odds": -110,
    "units": 1.0,
-   "result": null,
-   "pl": null,
-   "pending": true
+   "result": "L",
+   "pl": -1.0,
+   "pending": false
   },
   {
    "n": 755,
@@ -4873,9 +4873,9 @@
    "pick": "Under 181.5 total points",
    "odds": -105,
    "units": 1.0,
-   "result": null,
-   "pl": null,
-   "pending": true
+   "result": "W",
+   "pl": 0.95,
+   "pending": false
   },
   {
    "n": 756,
@@ -4889,9 +4889,9 @@
    "pick": "California Golden Bears +8.5",
    "odds": -115,
    "units": 1.0,
-   "result": null,
-   "pl": null,
-   "pending": true
+   "result": "L",
+   "pl": -1.0,
+   "pending": false
   },
   {
    "n": 757,
@@ -4905,9 +4905,9 @@
    "pick": "Ivica Zubac UNDER 12.5 points",
    "odds": 105,
    "units": 1.0,
-   "result": null,
-   "pl": null,
-   "pending": true
+   "result": "L",
+   "pl": -1.0,
+   "pending": false
   },
   {
    "n": 758,
@@ -4921,9 +4921,9 @@
    "pick": "Navy Midshipmen ML (live)",
    "odds": 154,
    "units": 1.5,
-   "result": null,
-   "pl": null,
-   "pending": true
+   "result": "W",
+   "pl": 2.31,
+   "pending": false
   },
   {
    "n": 759,
@@ -4937,9 +4937,9 @@
    "pick": "Sacramento State ML",
    "odds": 775,
    "units": 0.5,
-   "result": null,
-   "pl": null,
-   "pending": true
+   "result": "L",
+   "pl": -0.5,
+   "pending": false
   },
   {
    "n": 746,
