@@ -1,5 +1,5 @@
 {
- "updated": "Nov 12, 2026, 11:46 AM PT",
+ "updated": "Nov 12, 2026, 2:03 PM PT",
  "record": {
   "w": 152,
   "l": 152,
@@ -127,47 +127,6 @@
   }
  ],
  "picks": [
-  {
-   "n": 762,
-   "league": "Tennis",
-   "type": "Parlay",
-   "matchup": "WTA Finals 2-leg parlay",
-   "pick": "Coco Gauff ML vs Marta Kostyuk (12:00 PM PT) + Jessica Pegula +1.5 sets vs Linda Noskova (1:30 PM PT)",
-   "odds": -115,
-   "units": 1.0,
-   "gap": null,
-   "start": "2026-11-12T12:00:00",
-   "timed": true,
-   "ticket": "parlay",
-   "espn": {
-    "legs": [
-     {
-      "kind": "ml",
-      "side": "Coco Gauff",
-      "opp": "Marta Kostyuk",
-      "label": "Coco Gauff ML",
-      "path": "tennis/wta",
-      "event": "382-2026",
-      "comp": "187371",
-      "date": "20261112"
-     },
-     {
-      "kind": "spread",
-      "side": "Jessica Pegula",
-      "line": 1.5,
-      "unit": "set",
-      "opp": "Linda Noskova",
-      "label": "Jessica Pegula +1.5 sets",
-      "path": "tennis/wta",
-      "event": "382-2026",
-      "comp": "187376",
-      "date": "20261112"
-     }
-    ],
-    "sport": "Tennis",
-    "ticket": "parlay"
-   }
-  },
   {
    "n": 769,
    "league": "NCAAB",
@@ -1266,6 +1225,73 @@
     ],
     "sport": "Tennis",
     "ticket": "single"
+   }
+  },
+  {
+   "n": 762,
+   "league": "Tennis",
+   "type": "Parlay",
+   "matchup": "WTA Finals 2-leg parlay",
+   "pick": "Coco Gauff ML vs Marta Kostyuk (12:00 PM PT) + Jessica Pegula +1.5 sets vs Linda Noskova (1:30 PM PT)",
+   "odds": -115,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-12T12:00:00",
+   "timed": true,
+   "ticket": "parlay",
+   "espn": {
+    "legs": [
+     {
+      "kind": "ml",
+      "side": "Coco Gauff",
+      "opp": "Marta Kostyuk",
+      "label": "Coco Gauff ML",
+      "path": "tennis/wta",
+      "event": "382-2026",
+      "comp": "187371",
+      "date": "20261112",
+      "snapshot": {
+       "source": "tennis-explorer",
+       "path": "tennis/explorer",
+       "event": "3372299",
+       "state": "post",
+       "detail": "Final \u00b7 2-0 sets",
+       "tennis": [
+        {
+         "name": "Gauff C.",
+         "winner": true,
+         "sets": [
+          6,
+          7
+         ]
+        },
+        {
+         "name": "Kostyuk M.",
+         "winner": false,
+         "sets": [
+          4,
+          5
+         ]
+        }
+       ],
+       "tour": "Masters Cup WTA"
+      }
+     },
+     {
+      "kind": "spread",
+      "side": "Jessica Pegula",
+      "line": 1.5,
+      "unit": "set",
+      "opp": "Linda Noskova",
+      "label": "Jessica Pegula +1.5 sets",
+      "path": "tennis/wta",
+      "event": "382-2026",
+      "comp": "187376",
+      "date": "20261112"
+     }
+    ],
+    "sport": "Tennis",
+    "ticket": "parlay"
    }
   }
  ],
