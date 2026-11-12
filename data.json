@@ -1,5 +1,5 @@
 {
- "updated": "Nov 11, 2026, 10:10 PM PT",
+ "updated": "Nov 11, 2026, 10:19 PM PT",
  "record": {
   "w": 147,
   "l": 146,
@@ -132,7 +132,7 @@
    "league": "NFL",
    "type": "Spread",
    "matchup": "New England Patriots @ Detroit Lions",
-   "pick": "New England Patriots +3 -118",
+   "pick": "New England Patriots +3",
    "odds": -118,
    "units": 1.0,
    "gap": null,
@@ -148,7 +148,36 @@
       "label": "New England Patriots +3",
       "path": "football/nfl",
       "event": "401873053",
-      "date": "20261115"
+      "date": "20261115",
+      "snapshot": {
+       "source": "espn",
+       "state": "pre",
+       "detail": "11/15 - 9:30 AM EST",
+       "start": "2026-11-15T14:30Z",
+       "period": null,
+       "clock": null,
+       "teams": [
+        {
+         "name": "New England Patriots",
+         "short": "Patriots",
+         "abbr": "NE",
+         "score": 0,
+         "ha": "away",
+         "winner": null,
+         "linescores": []
+        },
+        {
+         "name": "Detroit Lions",
+         "short": "Lions",
+         "abbr": "DET",
+         "score": 0,
+         "ha": "home",
+         "winner": null,
+         "linescores": []
+        }
+       ]
+      },
+      "source": "espn"
      }
     ],
     "sport": "NFL",
@@ -160,7 +189,7 @@
    "league": "NFL",
    "type": "Spread",
    "matchup": "Buffalo Bills @ New York Jets",
-   "pick": "Buffalo Bills -8 -110",
+   "pick": "Buffalo Bills -8",
    "odds": -110,
    "units": 1.0,
    "gap": null,
@@ -176,7 +205,36 @@
       "label": "Buffalo Bills -8",
       "path": "football/nfl",
       "event": "401873054",
-      "date": "20261115"
+      "date": "20261115",
+      "snapshot": {
+       "source": "espn",
+       "state": "pre",
+       "detail": "11/15 - 1:00 PM EST",
+       "start": "2026-11-15T18:00Z",
+       "period": null,
+       "clock": null,
+       "teams": [
+        {
+         "name": "Buffalo Bills",
+         "short": "Bills",
+         "abbr": "BUF",
+         "score": 0,
+         "ha": "away",
+         "winner": null,
+         "linescores": []
+        },
+        {
+         "name": "New York Jets",
+         "short": "Jets",
+         "abbr": "NYJ",
+         "score": 0,
+         "ha": "home",
+         "winner": null,
+         "linescores": []
+        }
+       ]
+      },
+      "source": "espn"
      }
     ],
     "sport": "NFL",
@@ -188,7 +246,7 @@
    "league": "NFL",
    "type": "Spread",
    "matchup": "Carolina Panthers @ New Orleans Saints",
-   "pick": "Carolina Panthers +2.5 -108",
+   "pick": "Carolina Panthers +2.5",
    "odds": -108,
    "units": 1.0,
    "gap": null,
@@ -204,7 +262,36 @@
       "label": "Carolina Panthers +2.5",
       "path": "football/nfl",
       "event": "401873055",
-      "date": "20261115"
+      "date": "20261115",
+      "snapshot": {
+       "source": "espn",
+       "state": "pre",
+       "detail": "11/15 - 1:00 PM EST",
+       "start": "2026-11-15T18:00Z",
+       "period": null,
+       "clock": null,
+       "teams": [
+        {
+         "name": "Carolina Panthers",
+         "short": "Panthers",
+         "abbr": "CAR",
+         "score": 0,
+         "ha": "away",
+         "winner": null,
+         "linescores": []
+        },
+        {
+         "name": "New Orleans Saints",
+         "short": "Saints",
+         "abbr": "NO",
+         "score": 0,
+         "ha": "home",
+         "winner": null,
+         "linescores": []
+        }
+       ]
+      },
+      "source": "espn"
      }
     ],
     "sport": "NFL",
@@ -216,7 +303,7 @@
    "league": "NFL",
    "type": "Spread",
    "matchup": "Miami Dolphins @ Indianapolis Colts",
-   "pick": "Indianapolis Colts -3.5 -112",
+   "pick": "Indianapolis Colts -3.5",
    "odds": -112,
    "units": 1.0,
    "gap": null,
@@ -232,7 +319,36 @@
       "label": "Indianapolis Colts -3.5",
       "path": "football/nfl",
       "event": "401873059",
-      "date": "20261115"
+      "date": "20261115",
+      "snapshot": {
+       "source": "espn",
+       "state": "pre",
+       "detail": "11/15 - 1:00 PM EST",
+       "start": "2026-11-15T18:00Z",
+       "period": null,
+       "clock": null,
+       "teams": [
+        {
+         "name": "Miami Dolphins",
+         "short": "Dolphins",
+         "abbr": "MIA",
+         "score": 0,
+         "ha": "away",
+         "winner": null,
+         "linescores": []
+        },
+        {
+         "name": "Indianapolis Colts",
+         "short": "Colts",
+         "abbr": "IND",
+         "score": 0,
+         "ha": "home",
+         "winner": null,
+         "linescores": []
+        }
+       ]
+      },
+      "source": "espn"
      }
     ],
     "sport": "NFL",
@@ -244,7 +360,7 @@
    "league": "NFL",
    "type": "Spread",
    "matchup": "Los Angeles Rams @ Arizona Cardinals",
-   "pick": "Los Angeles Rams -9.5 -105",
+   "pick": "Los Angeles Rams -9.5",
    "odds": -105,
    "units": 1.0,
    "gap": null,
@@ -260,7 +376,36 @@
       "label": "Los Angeles Rams -9.5",
       "path": "football/nfl",
       "event": "401873061",
-      "date": "20261115"
+      "date": "20261115",
+      "snapshot": {
+       "source": "espn",
+       "state": "pre",
+       "detail": "11/15 - 4:05 PM EST",
+       "start": "2026-11-15T21:05Z",
+       "period": null,
+       "clock": null,
+       "teams": [
+        {
+         "name": "Los Angeles Rams",
+         "short": "Rams",
+         "abbr": "LAR",
+         "score": 0,
+         "ha": "away",
+         "winner": null,
+         "linescores": []
+        },
+        {
+         "name": "Arizona Cardinals",
+         "short": "Cardinals",
+         "abbr": "ARI",
+         "score": 0,
+         "ha": "home",
+         "winner": null,
+         "linescores": []
+        }
+       ]
+      },
+      "source": "espn"
      }
     ],
     "sport": "NFL",
@@ -287,7 +432,36 @@
       "kind": "ml",
       "side": "Max Hans Rehberg",
       "label": "Max Hans Rehberg ML",
-      "unverified": true
+      "snapshot": {
+       "source": "tennis-explorer",
+       "path": "tennis/explorer",
+       "event": "3375521",
+       "state": "post",
+       "detail": "Final \u00b7 2-0 sets",
+       "tennis": [
+        {
+         "name": "Rehberg M.",
+         "winner": true,
+         "sets": [
+          6,
+          7
+         ]
+        },
+        {
+         "name": "Mejia N.",
+         "winner": false,
+         "sets": [
+          3,
+          5
+         ]
+        }
+       ],
+       "tour": "Knoxville challenger"
+      },
+      "path": "tennis/explorer",
+      "event": "3375521",
+      "source": "tennis-explorer",
+      "date": "20261111"
      }
     ],
     "sport": "Tennis",
@@ -317,7 +491,41 @@
       "label": "Macklin Celebrini O 0.5 assists",
       "path": "hockey/nhl",
       "event": "401892695",
-      "date": "20261111"
+      "date": "20261111",
+      "snapshot": {
+       "source": "nhl",
+       "state": "post",
+       "detail": "Final/SO",
+       "start": "2026-11-12T03:00:00Z",
+       "period": 5,
+       "clock": "00:00",
+       "teams": [
+        {
+         "name": "Penguins",
+         "short": "PIT",
+         "abbr": "PIT",
+         "score": 3,
+         "ha": "away",
+         "winner": true,
+         "linescores": []
+        },
+        {
+         "name": "Sharks",
+         "short": "SJS",
+         "abbr": "SJS",
+         "score": 2,
+         "ha": "home",
+         "winner": false,
+         "linescores": []
+        }
+       ],
+       "nhl_id": 2026020298,
+       "stat": {
+        "v": 1,
+        "name": "M. Celebrini"
+       }
+      },
+      "source": "nhl"
      }
     ],
     "sport": "NHL",
@@ -347,7 +555,50 @@
       "label": "Derrick White O 4.5 assists",
       "path": "basketball/nba",
       "event": "401909968",
-      "date": "20261111"
+      "date": "20261111",
+      "snapshot": {
+       "source": "espn",
+       "state": "post",
+       "detail": "Final",
+       "start": "2026-11-12T00:00Z",
+       "period": null,
+       "clock": null,
+       "teams": [
+        {
+         "name": "Boston Celtics",
+         "short": "Celtics",
+         "abbr": "BOS",
+         "score": 98,
+         "ha": "away",
+         "winner": true,
+         "linescores": [
+          0,
+          0,
+          0,
+          0
+         ]
+        },
+        {
+         "name": "Toronto Raptors",
+         "short": "Raptors",
+         "abbr": "TOR",
+         "score": 93,
+         "ha": "home",
+         "winner": false,
+         "linescores": [
+          0,
+          0,
+          0,
+          0
+         ]
+        }
+       ],
+       "stat": {
+        "v": 7,
+        "name": "Derrick White"
+       }
+      },
+      "source": "espn"
      }
     ],
     "sport": "NBA",
@@ -376,7 +627,42 @@
       "label": "O 136.5",
       "path": "basketball/mens-college-basketball",
       "event": "401925895",
-      "date": "20261111"
+      "date": "20261111",
+      "snapshot": {
+       "source": "espn",
+       "state": "post",
+       "detail": "Final",
+       "start": "2026-11-12T00:00Z",
+       "period": null,
+       "clock": null,
+       "teams": [
+        {
+         "name": "Old Dominion Monarchs",
+         "short": "Monarchs",
+         "abbr": "ODU",
+         "score": 71,
+         "ha": "away",
+         "winner": true,
+         "linescores": [
+          0,
+          0
+         ]
+        },
+        {
+         "name": "Norfolk State Spartans",
+         "short": "Spartans",
+         "abbr": "NORF",
+         "score": 60,
+         "ha": "home",
+         "winner": false,
+         "linescores": [
+          0,
+          0
+         ]
+        }
+       ]
+      },
+      "source": "espn"
      }
     ],
     "sport": "NCAAB",
@@ -404,7 +690,42 @@
       "label": "Arkansas-Pine Bluff Golden Lions +47.5",
       "path": "basketball/mens-college-basketball",
       "event": "401930177",
-      "date": "20261111"
+      "date": "20261111",
+      "snapshot": {
+       "source": "espn",
+       "state": "post",
+       "detail": "Final",
+       "start": "2026-11-12T02:00Z",
+       "period": null,
+       "clock": null,
+       "teams": [
+        {
+         "name": "Arkansas-Pine Bluff Golden Lions",
+         "short": "Golden Lions",
+         "abbr": "UAPB",
+         "score": 37,
+         "ha": "away",
+         "winner": false,
+         "linescores": [
+          0,
+          0
+         ]
+        },
+        {
+         "name": "UCLA Bruins",
+         "short": "Bruins",
+         "abbr": "UCLA",
+         "score": 106,
+         "ha": "home",
+         "winner": true,
+         "linescores": [
+          0,
+          0
+         ]
+        }
+       ]
+      },
+      "source": "espn"
      }
     ],
     "sport": "NCAAB",
@@ -432,7 +753,42 @@
       "label": "Cal Poly Mustangs +18.5",
       "path": "basketball/mens-college-basketball",
       "event": "401911346",
-      "date": "20261111"
+      "date": "20261111",
+      "snapshot": {
+       "source": "espn",
+       "state": "post",
+       "detail": "Final",
+       "start": "2026-11-12T02:00Z",
+       "period": null,
+       "clock": null,
+       "teams": [
+        {
+         "name": "Cal Poly Mustangs",
+         "short": "Mustangs",
+         "abbr": "CP",
+         "score": 71,
+         "ha": "away",
+         "winner": false,
+         "linescores": [
+          0,
+          0
+         ]
+        },
+        {
+         "name": "Grand Canyon Lopes",
+         "short": "Lopes",
+         "abbr": "GCU",
+         "score": 99,
+         "ha": "home",
+         "winner": true,
+         "linescores": [
+          0,
+          0
+         ]
+        }
+       ]
+      },
+      "source": "espn"
      }
     ],
     "sport": "NCAAB",
@@ -461,7 +817,42 @@
       "label": "U 181.5",
       "path": "basketball/mens-college-basketball",
       "event": "401911346",
-      "date": "20261111"
+      "date": "20261111",
+      "snapshot": {
+       "source": "espn",
+       "state": "post",
+       "detail": "Final",
+       "start": "2026-11-12T02:00Z",
+       "period": null,
+       "clock": null,
+       "teams": [
+        {
+         "name": "Cal Poly Mustangs",
+         "short": "Mustangs",
+         "abbr": "CP",
+         "score": 71,
+         "ha": "away",
+         "winner": false,
+         "linescores": [
+          0,
+          0
+         ]
+        },
+        {
+         "name": "Grand Canyon Lopes",
+         "short": "Lopes",
+         "abbr": "GCU",
+         "score": 99,
+         "ha": "home",
+         "winner": true,
+         "linescores": [
+          0,
+          0
+         ]
+        }
+       ]
+      },
+      "source": "espn"
      }
     ],
     "sport": "NCAAB",
@@ -489,7 +880,42 @@
       "label": "California Golden Bears +8.5",
       "path": "basketball/mens-college-basketball",
       "event": "401918054",
-      "date": "20261111"
+      "date": "20261111",
+      "snapshot": {
+       "source": "espn",
+       "state": "post",
+       "detail": "Final",
+       "start": "2026-11-12T04:00Z",
+       "period": null,
+       "clock": null,
+       "teams": [
+        {
+         "name": "USC Trojans",
+         "short": "Trojans",
+         "abbr": "USC",
+         "score": 77,
+         "ha": "away",
+         "winner": true,
+         "linescores": [
+          0,
+          0
+         ]
+        },
+        {
+         "name": "California Golden Bears",
+         "short": "Golden Bears",
+         "abbr": "CAL",
+         "score": 65,
+         "ha": "home",
+         "winner": false,
+         "linescores": [
+          0,
+          0
+         ]
+        }
+       ]
+      },
+      "source": "espn"
      }
     ],
     "sport": "NCAAB",
@@ -519,7 +945,50 @@
       "label": "Ivica Zubac U 12.5 points",
       "path": "basketball/nba",
       "event": "401909966",
-      "date": "20261111"
+      "date": "20261111",
+      "snapshot": {
+       "source": "espn",
+       "state": "post",
+       "detail": "Final",
+       "start": "2026-11-12T00:00Z",
+       "period": null,
+       "clock": null,
+       "teams": [
+        {
+         "name": "Washington Wizards",
+         "short": "Wizards",
+         "abbr": "WSH",
+         "score": 101,
+         "ha": "away",
+         "winner": false,
+         "linescores": [
+          0,
+          0,
+          0,
+          0
+         ]
+        },
+        {
+         "name": "Indiana Pacers",
+         "short": "Pacers",
+         "abbr": "IND",
+         "score": 114,
+         "ha": "home",
+         "winner": true,
+         "linescores": [
+          0,
+          0,
+          0,
+          0
+         ]
+        }
+       ],
+       "stat": {
+        "v": 20,
+        "name": "Ivica Zubac"
+       }
+      },
+      "source": "espn"
      }
     ],
     "sport": "NBA",
@@ -546,7 +1015,42 @@
       "label": "Navy Midshipmen ML",
       "path": "basketball/mens-college-basketball",
       "event": "401921181",
-      "date": "20261111"
+      "date": "20261111",
+      "snapshot": {
+       "source": "espn",
+       "state": "post",
+       "detail": "Final",
+       "start": "2026-11-11T22:58Z",
+       "period": null,
+       "clock": null,
+       "teams": [
+        {
+         "name": "Pennsylvania Quakers",
+         "short": "Quakers",
+         "abbr": "PENN",
+         "score": 76,
+         "ha": "away",
+         "winner": false,
+         "linescores": [
+          0,
+          0
+         ]
+        },
+        {
+         "name": "Navy Midshipmen",
+         "short": "Midshipmen",
+         "abbr": "NAVY",
+         "score": 81,
+         "ha": "home",
+         "winner": true,
+         "linescores": [
+          0,
+          0
+         ]
+        }
+       ]
+      },
+      "source": "espn"
      }
     ],
     "sport": "NCAAB",
@@ -573,7 +1077,46 @@
       "label": "Sacramento State ML",
       "path": "football/college-football",
       "event": "401866462",
-      "date": "20261111"
+      "date": "20261111",
+      "snapshot": {
+       "source": "espn",
+       "state": "post",
+       "detail": "Final",
+       "start": "2026-11-12T00:30Z",
+       "period": null,
+       "clock": null,
+       "teams": [
+        {
+         "name": "Sacramento State Hornets",
+         "short": "Hornets",
+         "abbr": "SAC",
+         "score": 7,
+         "ha": "away",
+         "winner": false,
+         "linescores": [
+          0,
+          0,
+          0,
+          0
+         ]
+        },
+        {
+         "name": "Central Michigan Chippewas",
+         "short": "Chippewas",
+         "abbr": "CMU",
+         "score": 28,
+         "ha": "home",
+         "winner": true,
+         "linescores": [
+          0,
+          0,
+          0,
+          0
+         ]
+        }
+       ]
+      },
+      "source": "espn"
      }
     ],
     "sport": "NCAAF",

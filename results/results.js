@@ -250,7 +250,7 @@
         <td data-th="Play" class="play">${esc(play)}</td>
         <td data-th="Market">${esc(p.market_label || '—')}</td>
         <td data-th="Odds">${esc(odds(p.odds))}</td>
-        <td data-th="Units">${esc(uu(p.units))}</td>
+        <td data-th="Units">${esc((p.result === "V" && (p.units == null || p.units === "")) ? "void" : uu(p.units))}</td>
         <td data-th="Result" class="u ${rc}">${esc(resultLabel(p))}</td>
         <td data-th="P/L" class="u ${rc}">${p.pending || p.pl == null ? '—' : esc(sg(p.pl))}</td>
       </tr>`;

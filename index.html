@@ -5,11 +5,24 @@
 <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
 <title>STS Analytics — Sweat the Spread</title>
 <meta name="description" content="Model-first betting analytics. Every official pick posted free, graded in units.">
-<meta name="robots" content="noindex,nofollow">
+<link rel="canonical" href="https://stsanalytics.co/">
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="STS Analytics">
+<meta property="og:title" content="STS Analytics — Sweat the Spread">
+<meta property="og:description" content="Model-first betting analytics. Every official pick posted free, graded in units.">
+<meta property="og:url" content="https://stsanalytics.co/">
+<meta property="og:image" content="https://stsanalytics.co/assets/og-preview.png">
+<meta property="og:image:alt" content="STS Analytics — Sweat the Spread">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="STS Analytics — Sweat the Spread">
+<meta name="twitter:description" content="Model-first betting analytics. Every official pick posted free, graded in units.">
+<meta name="twitter:image" content="https://stsanalytics.co/assets/og-preview.png">
 <meta name="theme-color" content="#07080a">
 <link rel="icon" href="/assets/favicon.ico">
 <link rel="preload" href="/assets/sweat_the_spread_profile.webp" as="image">
-<link rel="stylesheet" href="/style.css?v=20261112r">
+<link rel="stylesheet" href="/style.css?v=20261112live">
 </head>
 <body>
 <a class="skip" href="#picks">Skip to picks</a>
@@ -55,9 +68,11 @@
   <p class="kicker">Today's official picks</p>
   <h2 class="glitch" data-text="Picks">Picks</h2>
   <p class="fine">Every official pick lives here and in the Sweat the Spread Telegram channel. Lines move, so check the price at your book. <span id="p-upd"></span></p>
-  <h3>Upcoming</h3>
+  <h3 id="h-up">Upcoming</h3>
   <div class="cards" id="cards-up"></div>
-  <h3>Started · awaiting result</h3>
+  <h3 id="h-live">Live</h3>
+  <div class="cards" id="cards-live"></div>
+  <h3 id="h-aw">Started · awaiting result</h3>
   <div class="cards" id="cards-aw"></div>
   <noscript><p class="fine">Turn on JavaScript to load today's picks.</p></noscript>
 </section>
@@ -88,8 +103,8 @@
 <script src="/vendor/gsap.min.js" defer></script>
 <script src="/vendor/ScrollTrigger.min.js" defer></script>
 <script src="/vendor/lenis.min.js" defer></script>
-<script src="/live.js?v=20261111parlay" defer></script>
-<script type="module" src="/main.js?v=20261111parlay"></script>
+<script src="/live.js?v=20261112live" defer></script>
+<script type="module" src="/main.js?v=20261112live"></script>
 <!-- Cloudflare Web Analytics --><script defer src='https://static.cloudflareinsights.com/beacon.min.js' data-cf-beacon='{"token": "a010030c76fa4e209f8706716a4c3b80"}'></script><!-- End Cloudflare Web Analytics -->
 </body>
 </html>

@@ -38,11 +38,43 @@ document.querySelectorAll('.scramble').forEach(el => io.observe(el));
 /* ---------- live data (data.json written by build_data.py) ---------- */
 const esc = v => String(v ?? '').replace(/[&<>"]/g, c => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' }[c]));
 const odds = o => o == null ? '—' : (o > 0 ? '+' : '') + o, uu = u => u.toFixed(2) + 'u', sg = u => (u > 0 ? '+' : u < 0 ? '−' : '') + Math.abs(u).toFixed(2) + 'u';
-const when = iso => { if (!iso) return ''; const d = new Date(iso); return d.toLocaleString('en-US', { weekday: 'short', month: 'numeric', day: 'numeric', hour: 'numeric', minute: '2-digit' }) + ' PT'; };
+function displayPick(c) {
+  let pick = c.pick || '';
+  if (c.odds != null && /[+-]\d+$/.test(String(Math.trunc(c.odds)))) {
+    const token = (c.odds > 0 ? '+' : '') + Math.trunc(c.odds);
+    if (pick.endsWith(token) || pick.endsWith(' ' + token)) pick = pick.slice(0, pick.length - token.length).trim();
+  }
+  return pick;
+}
+
+function parsePT(iso) {
+  if (!iso) return null;
+  const s = String(iso).trim();
+  if (/Z$|[+-]\d{2}:\d{2}$/.test(s)) { const d = new Date(s); return isNaN(d) ? null : d; }
+  const m = s.match(/(\d{4})-(\d{2})-(\d{2})[T ](\d{2}):(\d{2})(?::(\d{2}))?/);
+  if (!m) { const d = new Date(s); return isNaN(d) ? null : d; }
+  const want = `${m[1]}-${m[2]}-${m[3]}T${m[4]}:${m[5]}:${m[6] || '00'}`;
+  for (const off of ['-08:00', '-07:00']) {
+    const d = new Date(want + off);
+    const fmt = new Intl.DateTimeFormat('en-CA', { timeZone: 'America/Los_Angeles', year: 'numeric', month: '2-digit', day: '2-digit', hour: '2-digit', minute: '2-digit', second: '2-digit', hourCycle: 'h23' });
+    const p = Object.fromEntries(fmt.formatToParts(d).map(x => [x.type, x.value]));
+    const wall = `${p.year}-${p.month}-${p.day}T${p.hour}:${p.minute}:${p.second}`;
+    if (wall.startsWith(want)) return d;
+  }
+  return new Date(want + '-08:00');
+}
+const when = iso => { const d = parsePT(iso); if (!d) return ''; return d.toLocaleString('en-US', { timeZone: 'America/Los_Angeles', weekday: 'short', month: 'numeric', day: 'numeric', hour: 'numeric', minute: '2-digit' }) + ' PT'; };
+const DURH = { Tennis: 4, NFL: 4, NCAAF: 4, NBA: 3.5, NCAAB: 3, NHL: 3.5, MLB: 4, Soccer: 2.5, WNBA: 3 };
+function initialBucket(c) {
+  const s = parsePT(c.start);
+  if (!s || s.getTime() > Date.now()) return 'up';
+  if (Date.now() - s.getTime() > (DURH[c.league] || 4) * 3600e3) return 'aw';
+  return 'live';
+}
 function rrCard(c) {
   const r = c.rr, legs = r.legs.map(l => `<li><span>${esc(l.player)}</span><span class="g">${esc(l.game)}</span><span>${odds(l.odds)}</span></li>`).join('');
   const sizes = Object.entries(r.by_size).map(([k, v]) => `${v}×${k === '1' ? 'single' : k + '-leg'}`).join(', ');
-  return `<article class="card rr" data-n="${c.n}"><header><span class="lg">${esc(c.league)}</span><span class="mk">Round robin · Anytime TD</span></header><h4>${esc(c.pick)}</h4><p class="m">All ${r.combos} combinations (${sizes}) · first game ${when(c.start)}</p><ul class="rr-legs">${legs}</ul><dl><div><dt>Each</dt><dd>${uu(r.each)}</dd></div><div><dt>Total</dt><dd>${uu(r.total)}</dd></div><div><dt>Max return</dt><dd>${uu(r.ret)}</dd></div><div><dt>Max profit</dt><dd>+${uu(r.profit)}</dd></div></dl><p class="m rr-note">Partial wins possible: each combination settles on its own. Settled manually.</p></article>`;
+  return `<article class="card rr" data-n="${c.n}"><header><span class="lg">${esc(c.league)}</span><span class="mk">Round robin · Anytime TD</span></header><h4>${esc(displayPick(c))}</h4><p class="m">All ${r.combos} combinations (${sizes}) · first game ${when(c.start)}</p><ul class="rr-legs">${legs}</ul><dl><div><dt>Each</dt><dd>${uu(r.each)}</dd></div><div><dt>Total</dt><dd>${uu(r.total)}</dd></div><div><dt>Max return</dt><dd>${uu(r.ret)}</dd></div><div><dt>Max profit</dt><dd>+${uu(r.profit)}</dd></div></dl><p class="m rr-note">Partial wins possible: each combination settles on its own. Settled manually.</p></article>`;
 }
 function marketOf(c) {
   const t = c.ticket || (c.rr ? 'round_robin' : '');
@@ -58,7 +90,7 @@ function marketOf(c) {
 function card(c) {
   if (c.rr) return rrCard(c);
   const gap = c.gap != null ? `<div><dt>Gap</dt><dd class="scramble lime">${c.gap} pts</dd></div>` : '';
-  return `<article class="card${c.gap != null ? ' gap' : ''}${c.espn ? ' has-live' : ''}" data-n="${c.n}"${c.espn ? ' tabindex="0" role="button" aria-expanded="false"' : ''}><header><span class="lg">${esc(c.league)}</span><span class="mk">${esc(marketOf(c))}${c.gap != null ? ' · Gap play' : ''}</span></header><h4>${esc(c.pick)}</h4><p class="m">${esc(c.matchup)} · ${when(c.start)}</p><dl><div><dt>Odds</dt><dd class="scramble">${odds(c.odds)}</dd></div><div><dt>Stake</dt><dd class="scramble">${uu(c.units)}</dd></div>${gap}</dl></article>`;
+  return `<article class="card${c.gap != null ? ' gap' : ''}${c.espn ? ' has-live' : ''}" data-n="${c.n}"${c.espn ? ' tabindex="0" role="button" aria-expanded="false"' : ''}><header><span class="lg">${esc(c.league)}</span><span class="mk">${esc(marketOf(c))}${c.gap != null ? ' · Gap play' : ''}</span></header><h4>${esc(displayPick(c))}</h4><p class="m">${esc(c.matchup)} · ${when(c.start)}</p><dl><div><dt>Odds</dt><dd class="scramble">${odds(c.odds)}</dd></div><div><dt>Stake</dt><dd class="scramble">${uu(c.units)}</dd></div>${gap}</dl></article>`;
 }
 async function loadData() {
   if (!document.getElementById('latest')) return;
@@ -71,8 +103,18 @@ async function loadData() {
     $('r-fine').textContent = `Official graded bets, ${fmt(r.first)} through ${fmt(r.last)}. ${d.pending} plays are pending and not in these totals. Past bets are a report, not a forecast. Updated ${d.updated}.`;
     calendar(d.daily || {});
     $('latest').innerHTML = d.latest.map(g => `<li><span class="lg">${esc(g.league)}</span><span class="g">${esc(g.matchup ? g.matchup + ': ' : '')}${esc(g.pick)}</span><span class="u ${g.pl > 0 ? 'win' : g.pl < 0 ? 'loss' : ''} scramble">${sg(g.pl)}</span></li>`).join('');
-    $('cards-up').innerHTML = d.picks.length ? d.picks.map(card).join('') : '<p class="empty">No upcoming official plays yet. New plays post here first.</p>';
-    $('cards-aw').innerHTML = d.awaiting.length ? d.awaiting.map(card).join('') : '<p class="empty">Nothing awaiting a result.</p>';
+    const allPending = [...(d.picks || []), ...(d.awaiting || [])];
+    const up = [], live = [], aw = [];
+    allPending.forEach(c => (initialBucket(c) === 'up' ? up : initialBucket(c) === 'live' ? live : aw).push(c));
+    const $up = $('cards-up'), $live = $('cards-live'), $aw = $('cards-aw');
+    if ($up) $up.innerHTML = up.length ? up.map(card).join('') : '';
+    if ($live) $live.innerHTML = live.length ? live.map(card).join('') : '';
+    if ($aw) $aw.innerHTML = aw.length ? aw.map(card).join('') : '';
+    [['cards-up','h-up'],['cards-live','h-live'],['cards-aw','h-aw']].forEach(([id, hid]) => {
+      const empty = !($(id) && $(id).querySelector('.card'));
+      if ($(id)) $(id).classList.toggle('is-empty', empty);
+      if ($(hid)) $(hid).classList.toggle('is-empty', empty);
+    });
     $('p-upd').textContent = `Updated ${d.updated}.`;
     window.STS_DATA = d; document.dispatchEvent(new CustomEvent('sts:data', { detail: d }));
     ['r-wl', 'r-u', 'r-roi'].forEach(id => { $(id).classList.add('scramble'); $(id).dataset.value = $(id).textContent; delete $(id).dataset.final; });

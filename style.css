@@ -206,3 +206,8 @@ h3{font-size:14px;letter-spacing:.2em;text-transform:uppercase;color:var(--mut);
   .rs-field input[type=date],.rs-field select{min-width:0;width:100%}
   .rs-row .rs-field{flex:1 1 140px}
 }
+
+/* Live board: hide empty Upcoming / Live / Awaiting buckets */
+.sect.picks h3.is-empty, .sect.picks .cards.is-empty { display: none; }
+.lv-m.w{color:var(--mut)}
+.lv-m.w i::after{width:0;background:transparent}
