@@ -1,5 +1,5 @@
 {
- "updated": "Nov 12, 2026, 9:17 AM PT",
+ "updated": "Nov 12, 2026, 9:21 AM PT",
  "record": {
   "w": 152,
   "l": 152,
@@ -156,8 +156,8 @@
        "source": "tennis-explorer",
        "path": "tennis/explorer",
        "event": "3377331",
-       "state": "in",
-       "detail": "Live",
+       "state": "pre",
+       "detail": "18:30",
        "tennis": [
         {
          "name": "Fritz T.",
@@ -879,18 +879,26 @@
        "source": "tennis-explorer",
        "path": "tennis/explorer",
        "event": "3377329",
-       "state": "in",
-       "detail": "Live",
+       "state": "post",
+       "detail": "Final \u00b7 2-1 sets",
        "tennis": [
         {
          "name": "Tirante T.",
-         "winner": false,
-         "sets": []
+         "winner": true,
+         "sets": [
+          7,
+          65,
+          6
+         ]
         },
         {
          "name": "Shevchenko A.",
          "winner": false,
-         "sets": []
+         "sets": [
+          65,
+          7,
+          3
+         ]
         }
        ],
        "tour": "Stockholm"
