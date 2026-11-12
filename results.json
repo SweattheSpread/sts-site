@@ -1,5 +1,5 @@
 {
- "updated": "Nov 12, 2026, 11:25 AM PT",
+ "updated": "Nov 12, 2026, 11:44 AM PT",
  "record": {
   "w": 152,
   "l": 152,
@@ -11,7 +11,7 @@
   "first": "2026-10-12",
   "last": "2026-11-11"
  },
- "pending": 21,
+ "pending": 20,
  "plays": [
   {
    "n": 334,
@@ -4969,9 +4969,9 @@
    "pick": "Holger Rune +1.5 sets",
    "odds": -152,
    "units": 1.0,
-   "result": null,
-   "pl": null,
-   "pending": true
+   "result": "V",
+   "pl": 0.0,
+   "pending": false
   },
   {
    "n": 762,
