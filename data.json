@@ -1,5 +1,5 @@
 {
- "updated": "Nov 12, 2026, 9:40 AM PT",
+ "updated": "Nov 12, 2026, 11:25 AM PT",
  "record": {
   "w": 152,
   "l": 152,
@@ -11,7 +11,7 @@
   "first": "2026-10-12",
   "last": "2026-11-11"
  },
- "pending": 18,
+ "pending": 21,
  "latest": [
   {
    "n": 759,
@@ -337,6 +337,186 @@
      }
     ],
     "sport": "NCAAB",
+    "ticket": "single"
+   }
+  },
+  {
+   "n": 773,
+   "league": "NHL",
+   "type": "Player Prop",
+   "matchup": "Washington Capitals @ New Jersey Devils",
+   "pick": "Cole Hutson OVER 0.5 points",
+   "odds": 155,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-12T16:00:00",
+   "timed": true,
+   "ticket": "single",
+   "espn": {
+    "legs": [
+     {
+      "kind": "prop",
+      "player": "Cole Hutson",
+      "ou": "O",
+      "line": 0.5,
+      "stat": "points",
+      "label": "Cole Hutson O 0.5 points",
+      "date": "20261112",
+      "unverified": true,
+      "reason": "Player not found in this game",
+      "snapshot": {
+       "source": "nhl",
+       "state": "pre",
+       "detail": "Scheduled",
+       "start": "2026-11-13T00:00:00Z",
+       "period": null,
+       "clock": null,
+       "teams": [
+        {
+         "name": "Capitals",
+         "short": "WSH",
+         "abbr": "WSH",
+         "score": 0,
+         "ha": "away",
+         "winner": null,
+         "linescores": []
+        },
+        {
+         "name": "Devils",
+         "short": "NJD",
+         "abbr": "NJD",
+         "score": 0,
+         "ha": "home",
+         "winner": null,
+         "linescores": []
+        }
+       ],
+       "nhl_id": 2026020303
+      },
+      "source": "nhl"
+     }
+    ],
+    "sport": "NHL",
+    "ticket": "single"
+   }
+  },
+  {
+   "n": 774,
+   "league": "NHL",
+   "type": "Player Prop",
+   "matchup": "Washington Capitals @ New Jersey Devils",
+   "pick": "Luke Evangelista OVER 2.5 shots on goal",
+   "odds": 130,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-12T16:00:00",
+   "timed": true,
+   "ticket": "single",
+   "espn": {
+    "legs": [
+     {
+      "kind": "prop",
+      "player": "Luke Evangelista",
+      "ou": "O",
+      "line": 2.5,
+      "stat": "shots on goal",
+      "label": "Luke Evangelista O 2.5 shots on goal",
+      "date": "20261112",
+      "unverified": true,
+      "reason": "Player not found in this game",
+      "snapshot": {
+       "source": "nhl",
+       "state": "pre",
+       "detail": "Scheduled",
+       "start": "2026-11-13T00:00:00Z",
+       "period": null,
+       "clock": null,
+       "teams": [
+        {
+         "name": "Capitals",
+         "short": "WSH",
+         "abbr": "WSH",
+         "score": 0,
+         "ha": "away",
+         "winner": null,
+         "linescores": []
+        },
+        {
+         "name": "Devils",
+         "short": "NJD",
+         "abbr": "NJD",
+         "score": 0,
+         "ha": "home",
+         "winner": null,
+         "linescores": []
+        }
+       ],
+       "nhl_id": 2026020303
+      },
+      "source": "nhl"
+     }
+    ],
+    "sport": "NHL",
+    "ticket": "single"
+   }
+  },
+  {
+   "n": 775,
+   "league": "NHL",
+   "type": "Player Prop",
+   "matchup": "Washington Capitals @ New Jersey Devils",
+   "pick": "Dougie Hamilton OVER 2.5 shots on goal",
+   "odds": 155,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-12T16:00:00",
+   "timed": true,
+   "ticket": "single",
+   "espn": {
+    "legs": [
+     {
+      "kind": "prop",
+      "player": "Dougie Hamilton",
+      "ou": "O",
+      "line": 2.5,
+      "stat": "shots on goal",
+      "label": "Dougie Hamilton O 2.5 shots on goal",
+      "date": "20261112",
+      "unverified": true,
+      "reason": "Player not found in this game",
+      "snapshot": {
+       "source": "nhl",
+       "state": "pre",
+       "detail": "Scheduled",
+       "start": "2026-11-13T00:00:00Z",
+       "period": null,
+       "clock": null,
+       "teams": [
+        {
+         "name": "Capitals",
+         "short": "WSH",
+         "abbr": "WSH",
+         "score": 0,
+         "ha": "away",
+         "winner": null,
+         "linescores": []
+        },
+        {
+         "name": "Devils",
+         "short": "NJD",
+         "abbr": "NJD",
+         "score": 0,
+         "ha": "home",
+         "winner": null,
+         "linescores": []
+        }
+       ],
+       "nhl_id": 2026020303
+      },
+      "source": "nhl"
+     }
+    ],
+    "sport": "NHL",
     "ticket": "single"
    }
   },

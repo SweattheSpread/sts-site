@@ -1,5 +1,5 @@
 {
- "updated": "Nov 12, 2026, 9:40 AM PT",
+ "updated": "Nov 12, 2026, 11:25 AM PT",
  "record": {
   "w": 152,
   "l": 152,
@@ -11,7 +11,7 @@
   "first": "2026-10-12",
   "last": "2026-11-11"
  },
- "pending": 18,
+ "pending": 21,
  "plays": [
   {
    "n": 334,
@@ -5064,6 +5064,54 @@
    "matchup": "Oklahoma St Cowboys @ Texas A&M Aggies",
    "pick": "Under 179 total points",
    "odds": -110,
+   "units": 1.0,
+   "result": null,
+   "pl": null,
+   "pending": true
+  },
+  {
+   "n": 773,
+   "date": "2026-11-12",
+   "day": "2026-11-12",
+   "league": "NHL",
+   "market": "player_prop",
+   "market_label": "Player Prop",
+   "ticket": "single",
+   "matchup": "Washington Capitals @ New Jersey Devils",
+   "pick": "Cole Hutson OVER 0.5 points",
+   "odds": 155,
+   "units": 1.0,
+   "result": null,
+   "pl": null,
+   "pending": true
+  },
+  {
+   "n": 774,
+   "date": "2026-11-12",
+   "day": "2026-11-12",
+   "league": "NHL",
+   "market": "player_prop",
+   "market_label": "Player Prop",
+   "ticket": "single",
+   "matchup": "Washington Capitals @ New Jersey Devils",
+   "pick": "Luke Evangelista OVER 2.5 shots on goal",
+   "odds": 130,
+   "units": 1.0,
+   "result": null,
+   "pl": null,
+   "pending": true
+  },
+  {
+   "n": 775,
+   "date": "2026-11-12",
+   "day": "2026-11-12",
+   "league": "NHL",
+   "market": "player_prop",
+   "market_label": "Player Prop",
+   "ticket": "single",
+   "matchup": "Washington Capitals @ New Jersey Devils",
+   "pick": "Dougie Hamilton OVER 2.5 shots on goal",
+   "odds": 155,
    "units": 1.0,
    "result": null,
    "pl": null,
