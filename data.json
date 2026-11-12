@@ -1,5 +1,5 @@
 {
- "updated": "Nov 11, 2026, 3:56 PM PT",
+ "updated": "Nov 11, 2026, 4:16 PM PT",
  "record": {
   "w": 144,
   "l": 146,
@@ -11,7 +11,7 @@
   "first": "2026-10-12",
   "last": "2026-11-11"
  },
- "pending": 18,
+ "pending": 19,
  "latest": [
   {
    "n": 743,
@@ -128,91 +128,29 @@
  ],
  "picks": [
   {
-   "n": 752,
-   "league": "NCAAB",
-   "type": "Over/Under",
-   "matchup": "Old Dominion Monarchs @ Norfolk State Spartans",
-   "pick": "Over 136.5 total points",
-   "odds": -110,
-   "units": 1.0,
+   "n": 759,
+   "league": "NCAAF",
+   "type": "Moneyline",
+   "matchup": "Sacramento State Hornets @ Central Michigan Chippewas",
+   "pick": "Sacramento State ML",
+   "odds": 775,
+   "units": 0.5,
    "gap": null,
-   "start": "2026-11-11T16:00:00",
+   "start": "2026-11-11T16:30:00",
    "timed": true,
    "ticket": "single",
    "espn": {
     "legs": [
      {
-      "kind": "total",
-      "side": null,
-      "ou": "O",
-      "line": 136.5,
-      "label": "O 136.5",
-      "path": "basketball/mens-college-basketball",
-      "event": "401925895",
+      "kind": "ml",
+      "side": "Sacramento State",
+      "label": "Sacramento State ML",
+      "path": "football/college-football",
+      "event": "401866462",
       "date": "20261111"
      }
     ],
-    "sport": "NCAAB",
-    "ticket": "single"
-   }
-  },
-  {
-   "n": 751,
-   "league": "NBA",
-   "type": "Player Prop",
-   "matchup": "Boston Celtics @ Toronto Raptors",
-   "pick": "Derrick White OVER 4.5 assists",
-   "odds": -105,
-   "units": 1.0,
-   "gap": null,
-   "start": "2026-11-11T16:10:00",
-   "timed": true,
-   "ticket": "single",
-   "espn": {
-    "legs": [
-     {
-      "kind": "prop",
-      "player": "Derrick White",
-      "ou": "O",
-      "line": 4.5,
-      "stat": "assists",
-      "label": "Derrick White O 4.5 assists",
-      "path": "basketball/nba",
-      "event": "401909968",
-      "date": "20261111"
-     }
-    ],
-    "sport": "NBA",
-    "ticket": "single"
-   }
-  },
-  {
-   "n": 757,
-   "league": "NBA",
-   "type": "Player Prop",
-   "matchup": "Washington Wizards @ Indiana Pacers",
-   "pick": "Ivica Zubac UNDER 12.5 points",
-   "odds": 105,
-   "units": 1.0,
-   "gap": null,
-   "start": "2026-11-11T16:10:00",
-   "timed": true,
-   "ticket": "single",
-   "espn": {
-    "legs": [
-     {
-      "kind": "prop",
-      "player": "Ivica Zubac",
-      "ou": "U",
-      "line": 12.5,
-      "stat": "points",
-      "label": "Ivica Zubac U 12.5 points",
-      "path": "basketball/nba",
-      "event": "401909966",
-      "date": "20261111"
-     }
-    ],
-    "sport": "NBA",
+    "sport": "NCAAF",
     "ticket": "single"
    }
   },
@@ -621,6 +559,95 @@
     ],
     "sport": "Tennis",
     "ticket": "parlay"
+   }
+  },
+  {
+   "n": 751,
+   "league": "NBA",
+   "type": "Player Prop",
+   "matchup": "Boston Celtics @ Toronto Raptors",
+   "pick": "Derrick White OVER 4.5 assists",
+   "odds": -105,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-11T16:10:00",
+   "timed": true,
+   "ticket": "single",
+   "espn": {
+    "legs": [
+     {
+      "kind": "prop",
+      "player": "Derrick White",
+      "ou": "O",
+      "line": 4.5,
+      "stat": "assists",
+      "label": "Derrick White O 4.5 assists",
+      "path": "basketball/nba",
+      "event": "401909968",
+      "date": "20261111"
+     }
+    ],
+    "sport": "NBA",
+    "ticket": "single"
+   }
+  },
+  {
+   "n": 752,
+   "league": "NCAAB",
+   "type": "Over/Under",
+   "matchup": "Old Dominion Monarchs @ Norfolk State Spartans",
+   "pick": "Over 136.5 total points",
+   "odds": -110,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-11T16:00:00",
+   "timed": true,
+   "ticket": "single",
+   "espn": {
+    "legs": [
+     {
+      "kind": "total",
+      "side": null,
+      "ou": "O",
+      "line": 136.5,
+      "label": "O 136.5",
+      "path": "basketball/mens-college-basketball",
+      "event": "401925895",
+      "date": "20261111"
+     }
+    ],
+    "sport": "NCAAB",
+    "ticket": "single"
+   }
+  },
+  {
+   "n": 757,
+   "league": "NBA",
+   "type": "Player Prop",
+   "matchup": "Washington Wizards @ Indiana Pacers",
+   "pick": "Ivica Zubac UNDER 12.5 points",
+   "odds": 105,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-11T16:10:00",
+   "timed": true,
+   "ticket": "single",
+   "espn": {
+    "legs": [
+     {
+      "kind": "prop",
+      "player": "Ivica Zubac",
+      "ou": "U",
+      "line": 12.5,
+      "stat": "points",
+      "label": "Ivica Zubac U 12.5 points",
+      "path": "basketball/nba",
+      "event": "401909966",
+      "date": "20261111"
+     }
+    ],
+    "sport": "NBA",
+    "ticket": "single"
    }
   },
   {
