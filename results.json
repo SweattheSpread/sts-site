@@ -1,5 +1,5 @@
 {
- "updated": "Nov 12, 2026, 9:21 AM PT",
+ "updated": "Nov 12, 2026, 9:37 AM PT",
  "record": {
   "w": 152,
   "l": 152,
@@ -11,7 +11,7 @@
   "first": "2026-10-12",
   "last": "2026-11-11"
  },
- "pending": 14,
+ "pending": 18,
  "plays": [
   {
    "n": 334,
@@ -5001,6 +5001,70 @@
    "pick": "Under 5.5 +102",
    "odds": 102,
    "units": 0.5,
+   "result": null,
+   "pl": null,
+   "pending": true
+  },
+  {
+   "n": 769,
+   "date": "2026-11-12",
+   "day": "2026-11-12",
+   "league": "NCAAB",
+   "market": "spread",
+   "market_label": "Spread",
+   "ticket": "single",
+   "matchup": "Mercer Bears @ West Virginia Mountaineers",
+   "pick": "Mercer Bears +24.5",
+   "odds": -110,
+   "units": 1.0,
+   "result": null,
+   "pl": null,
+   "pending": true
+  },
+  {
+   "n": 770,
+   "date": "2026-11-12",
+   "day": "2026-11-12",
+   "league": "NCAAB",
+   "market": "total",
+   "market_label": "Total",
+   "ticket": "single",
+   "matchup": "Mercer Bears @ West Virginia Mountaineers",
+   "pick": "Under 151.5 total points",
+   "odds": -110,
+   "units": 1.0,
+   "result": null,
+   "pl": null,
+   "pending": true
+  },
+  {
+   "n": 771,
+   "date": "2026-11-12",
+   "day": "2026-11-12",
+   "league": "NCAAB",
+   "market": "spread",
+   "market_label": "Spread",
+   "ticket": "single",
+   "matchup": "Maryland-Eastern Shore Hawks @ Rhode Island Rams",
+   "pick": "Maryland-Eastern Shore Hawks +24",
+   "odds": -110,
+   "units": 1.0,
+   "result": null,
+   "pl": null,
+   "pending": true
+  },
+  {
+   "n": 772,
+   "date": "2026-11-12",
+   "day": "2026-11-12",
+   "league": "NCAAB",
+   "market": "total",
+   "market_label": "Total",
+   "ticket": "single",
+   "matchup": "Oklahoma St Cowboys @ Texas A&M Aggies",
+   "pick": "Under 179 total points",
+   "odds": -110,
+   "units": 1.0,
    "result": null,
    "pl": null,
    "pending": true
