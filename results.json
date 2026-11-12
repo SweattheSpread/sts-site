@@ -1,5 +1,5 @@
 {
- "updated": "Nov 12, 2026, 12:09 AM PT",
+ "updated": "Nov 12, 2026, 6:27 AM PT",
  "record": {
   "w": 152,
   "l": 152,
@@ -11,7 +11,7 @@
   "first": "2026-10-12",
   "last": "2026-11-11"
  },
- "pending": 5,
+ "pending": 8,
  "plays": [
   {
    "n": 334,
@@ -4940,6 +4940,54 @@
    "result": "L",
    "pl": -0.5,
    "pending": false
+  },
+  {
+   "n": 760,
+   "date": "2026-11-12",
+   "day": "2026-11-12",
+   "league": "Tennis",
+   "market": "ml",
+   "market_label": "Moneyline",
+   "ticket": "single",
+   "matchup": "ATP Stockholm: Thiago Agustin Tirante vs Alexander Shevchenko",
+   "pick": "Alexander Shevchenko ML",
+   "odds": -120,
+   "units": 1.0,
+   "result": null,
+   "pl": null,
+   "pending": true
+  },
+  {
+   "n": 761,
+   "date": "2026-11-12",
+   "day": "2026-11-12",
+   "league": "Tennis",
+   "market": "spread",
+   "market_label": "Spread",
+   "ticket": "single",
+   "matchup": "ATP Stockholm: Taylor Fritz vs Holger Rune",
+   "pick": "Holger Rune +1.5 sets",
+   "odds": -152,
+   "units": 1.0,
+   "result": null,
+   "pl": null,
+   "pending": true
+  },
+  {
+   "n": 762,
+   "date": "2026-11-12",
+   "day": "2026-11-12",
+   "league": "Tennis",
+   "market": "parlay",
+   "market_label": "Parlay",
+   "ticket": "parlay",
+   "matchup": "WTA Finals 2-leg parlay",
+   "pick": "Coco Gauff ML vs Marta Kostyuk + Jessica Pegula +1.5 sets vs Linda Noskova",
+   "odds": -115,
+   "units": 1.0,
+   "result": null,
+   "pl": null,
+   "pending": true
   },
   {
    "n": 746,

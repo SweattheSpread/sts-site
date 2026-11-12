@@ -1,5 +1,5 @@
 {
- "updated": "Nov 12, 2026, 12:09 AM PT",
+ "updated": "Nov 12, 2026, 6:27 AM PT",
  "record": {
   "w": 152,
   "l": 152,
@@ -11,7 +11,7 @@
   "first": "2026-10-12",
   "last": "2026-11-11"
  },
- "pending": 5,
+ "pending": 8,
  "latest": [
   {
    "n": 759,
@@ -127,6 +127,98 @@
   }
  ],
  "picks": [
+  {
+   "n": 761,
+   "league": "Tennis",
+   "type": "Spread",
+   "matchup": "ATP Stockholm: Taylor Fritz vs Holger Rune",
+   "pick": "Holger Rune +1.5 sets",
+   "odds": -152,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-12T09:30:00",
+   "timed": true,
+   "ticket": "single",
+   "espn": {
+    "legs": [
+     {
+      "kind": "spread",
+      "side": "Holger Rune",
+      "line": 1.5,
+      "unit": "set",
+      "label": "Holger Rune +1.5 sets",
+      "path": "tennis/atp",
+      "event": "148-2026",
+      "comp": "186551",
+      "date": "20261112",
+      "opp": "Taylor Fritz",
+      "snapshot": {
+       "source": "tennis-explorer",
+       "path": "tennis/explorer",
+       "event": "3377331",
+       "state": "in",
+       "detail": "Live",
+       "tennis": [
+        {
+         "name": "Fritz T.",
+         "winner": false,
+         "sets": []
+        },
+        {
+         "name": "Rune H.",
+         "winner": false,
+         "sets": []
+        }
+       ],
+       "tour": "Stockholm"
+      }
+     }
+    ],
+    "sport": "Tennis",
+    "ticket": "single"
+   }
+  },
+  {
+   "n": 762,
+   "league": "Tennis",
+   "type": "Parlay",
+   "matchup": "WTA Finals 2-leg parlay",
+   "pick": "Coco Gauff ML vs Marta Kostyuk (12:00 PM PT) + Jessica Pegula +1.5 sets vs Linda Noskova (1:30 PM PT)",
+   "odds": -115,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-12T12:00:00",
+   "timed": true,
+   "ticket": "parlay",
+   "espn": {
+    "legs": [
+     {
+      "kind": "ml",
+      "side": "Coco Gauff",
+      "opp": "Marta Kostyuk",
+      "label": "Coco Gauff ML",
+      "path": "tennis/wta",
+      "event": "382-2026",
+      "comp": "187371",
+      "date": "20261112"
+     },
+     {
+      "kind": "spread",
+      "side": "Jessica Pegula",
+      "line": 1.5,
+      "unit": "set",
+      "opp": "Linda Noskova",
+      "label": "Jessica Pegula +1.5 sets",
+      "path": "tennis/wta",
+      "event": "382-2026",
+      "comp": "187376",
+      "date": "20261112"
+     }
+    ],
+    "sport": "Tennis",
+    "ticket": "parlay"
+   }
+  },
   {
    "n": 747,
    "league": "NFL",
@@ -413,7 +505,57 @@
    }
   }
  ],
- "awaiting": [],
+ "awaiting": [
+  {
+   "n": 760,
+   "league": "Tennis",
+   "type": "Moneyline",
+   "matchup": "ATP Stockholm: Thiago Agustin Tirante vs Alexander Shevchenko",
+   "pick": "Alexander Shevchenko ML",
+   "odds": -120,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-12T06:20:00",
+   "timed": true,
+   "ticket": "single",
+   "espn": {
+    "legs": [
+     {
+      "kind": "ml",
+      "side": "Alexander Shevchenko",
+      "label": "Alexander Shevchenko ML",
+      "path": "tennis/atp",
+      "event": "148-2026",
+      "comp": "186548",
+      "date": "20261112",
+      "opp": "Thiago Agustin Tirante",
+      "snapshot": {
+       "source": "tennis-explorer",
+       "path": "tennis/explorer",
+       "event": "3377329",
+       "state": "in",
+       "detail": "Live",
+       "tennis": [
+        {
+         "name": "Tirante T.",
+         "winner": false,
+         "sets": []
+        },
+        {
+         "name": "Shevchenko A.",
+         "winner": false,
+         "sets": []
+        }
+       ],
+       "tour": "Stockholm"
+      }
+     }
+    ],
+    "sport": "Tennis",
+    "ticket": "single"
+   }
+  }
+ ],
  "daily": {
   "2026-10-12": {
    "u": 5.67,
