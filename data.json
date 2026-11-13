@@ -1,5 +1,5 @@
 {
- "updated": "Nov 12, 2026, 4:40 PM PT",
+ "updated": "Nov 12, 2026, 4:49 PM PT",
  "record": {
   "w": 152,
   "l": 152,
@@ -967,16 +967,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "6:47 - 1st",
+       "detail": "3:25 - 1st",
        "start": "2026-11-13T00:00Z",
        "period": 1,
-       "clock": "6:47",
+       "clock": "3:25",
        "teams": [
         {
          "name": "Mercer Bears",
          "short": "Bears",
          "abbr": "MER",
-         "score": 17,
+         "score": 26,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -987,7 +987,7 @@
          "name": "West Virginia Mountaineers",
          "short": "Mountaineers",
          "abbr": "WVU",
-         "score": 23,
+         "score": 26,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -1029,16 +1029,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "6:47 - 1st",
+       "detail": "3:25 - 1st",
        "start": "2026-11-13T00:00Z",
        "period": 1,
-       "clock": "6:47",
+       "clock": "3:25",
        "teams": [
         {
          "name": "Mercer Bears",
          "short": "Bears",
          "abbr": "MER",
-         "score": 17,
+         "score": 26,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -1049,7 +1049,7 @@
          "name": "West Virginia Mountaineers",
          "short": "Mountaineers",
          "abbr": "WVU",
-         "score": 23,
+         "score": 26,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -1090,16 +1090,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "3:18 - 1st",
+       "detail": "Halftime",
        "start": "2026-11-13T00:00Z",
        "period": 1,
-       "clock": "3:18",
+       "clock": "0:00",
        "teams": [
         {
          "name": "Maryland Eastern Shore Hawks",
          "short": "Hawks",
          "abbr": "UMES",
-         "score": 21,
+         "score": 28,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -1110,7 +1110,7 @@
          "name": "Rhode Island Rams",
          "short": "Rams",
          "abbr": "URI",
-         "score": 23,
+         "score": 32,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -1153,10 +1153,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P1 01:28",
+       "detail": "P1 10:47",
        "start": "2026-11-13T00:00:00Z",
        "period": 1,
-       "clock": "01:28",
+       "clock": "10:47",
        "teams": [
         {
          "name": "Capitals",
@@ -1217,10 +1217,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P1 01:28",
+       "detail": "P1 10:47",
        "start": "2026-11-13T00:00:00Z",
        "period": 1,
-       "clock": "01:28",
+       "clock": "10:47",
        "teams": [
         {
          "name": "Capitals",
@@ -1281,10 +1281,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P1 01:28",
+       "detail": "P1 10:47",
        "start": "2026-11-13T00:00:00Z",
        "period": 1,
-       "clock": "01:28",
+       "clock": "10:47",
        "teams": [
         {
          "name": "Capitals",
@@ -1344,16 +1344,16 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P1 18:52",
+       "detail": "P1 13:48",
        "start": "2026-11-13T00:30:00Z",
        "period": 1,
-       "clock": "18:52",
+       "clock": "13:48",
        "teams": [
         {
          "name": "Red Wings",
          "short": "DET",
          "abbr": "DET",
-         "score": 0,
+         "score": 1,
          "ha": "away",
          "winner": null,
          "linescores": []
@@ -1362,7 +1362,7 @@
          "name": "Panthers",
          "short": "FLA",
          "abbr": "FLA",
-         "score": 0,
+         "score": 1,
          "ha": "home",
          "winner": null,
          "linescores": []
