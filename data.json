@@ -1,5 +1,5 @@
 {
- "updated": "Nov 12, 2026, 9:52 PM PT",
+ "updated": "Nov 12, 2026, 10:04 PM PT",
  "record": {
   "w": 152,
   "l": 152,
@@ -877,42 +877,35 @@
       "event": "401892703",
       "date": "20261112",
       "snapshot": {
-       "source": "espn",
+       "source": "nhl",
        "state": "post",
        "detail": "Final",
-       "start": "2026-11-13T01:00Z",
-       "period": null,
-       "clock": null,
+       "start": "2026-11-13T01:00:00Z",
+       "period": 3,
+       "clock": "00:00",
        "teams": [
         {
-         "name": "Winnipeg Jets",
-         "short": "Jets",
+         "name": "Jets",
+         "short": "WPG",
          "abbr": "WPG",
          "score": 8,
          "ha": "away",
          "winner": true,
-         "linescores": [
-          0,
-          0,
-          0
-         ]
+         "linescores": []
         },
         {
-         "name": "Dallas Stars",
-         "short": "Stars",
+         "name": "Stars",
+         "short": "DAL",
          "abbr": "DAL",
          "score": 3,
          "ha": "home",
          "winner": false,
-         "linescores": [
-          0,
-          0,
-          0
-         ]
+         "linescores": []
         }
-       ]
+       ],
+       "nhl_id": 2026020306
       },
-      "source": "espn"
+      "source": "nhl"
      }
     ],
     "sport": "NHL",
@@ -1198,46 +1191,39 @@
       "event": "401892700",
       "date": "20261112",
       "snapshot": {
-       "source": "espn",
+       "source": "nhl",
        "state": "post",
        "detail": "Final",
-       "start": "2026-11-13T00:00Z",
-       "period": null,
-       "clock": null,
+       "start": "2026-11-13T00:00:00Z",
+       "period": 3,
+       "clock": "00:00",
        "teams": [
         {
-         "name": "Washington Capitals",
-         "short": "Capitals",
+         "name": "Capitals",
+         "short": "WSH",
          "abbr": "WSH",
          "score": 2,
          "ha": "away",
          "winner": false,
-         "linescores": [
-          0,
-          0,
-          0
-         ]
+         "linescores": []
         },
         {
-         "name": "New Jersey Devils",
-         "short": "Devils",
-         "abbr": "NJ",
+         "name": "Devils",
+         "short": "NJD",
+         "abbr": "NJD",
          "score": 5,
          "ha": "home",
          "winner": true,
-         "linescores": [
-          0,
-          0,
-          0
-         ]
+         "linescores": []
         }
        ],
+       "nhl_id": 2026020303,
        "stat": {
         "v": 1,
-        "name": "Cole Hutson"
+        "name": "C. Hutson"
        }
       },
-      "source": "espn"
+      "source": "nhl"
      }
     ],
     "sport": "NHL",
@@ -1269,46 +1255,39 @@
       "event": "401892700",
       "date": "20261112",
       "snapshot": {
-       "source": "espn",
+       "source": "nhl",
        "state": "post",
        "detail": "Final",
-       "start": "2026-11-13T00:00Z",
-       "period": null,
-       "clock": null,
+       "start": "2026-11-13T00:00:00Z",
+       "period": 3,
+       "clock": "00:00",
        "teams": [
         {
-         "name": "Washington Capitals",
-         "short": "Capitals",
+         "name": "Capitals",
+         "short": "WSH",
          "abbr": "WSH",
          "score": 2,
          "ha": "away",
          "winner": false,
-         "linescores": [
-          0,
-          0,
-          0
-         ]
+         "linescores": []
         },
         {
-         "name": "New Jersey Devils",
-         "short": "Devils",
-         "abbr": "NJ",
+         "name": "Devils",
+         "short": "NJD",
+         "abbr": "NJD",
          "score": 5,
          "ha": "home",
          "winner": true,
-         "linescores": [
-          0,
-          0,
-          0
-         ]
+         "linescores": []
         }
        ],
+       "nhl_id": 2026020303,
        "stat": {
         "v": 0,
-        "name": "Luke Evangelista"
+        "name": "L. Evangelista"
        }
       },
-      "source": "espn"
+      "source": "nhl"
      }
     ],
     "sport": "NHL",
@@ -1340,46 +1319,39 @@
       "event": "401892700",
       "date": "20261112",
       "snapshot": {
-       "source": "espn",
+       "source": "nhl",
        "state": "post",
        "detail": "Final",
-       "start": "2026-11-13T00:00Z",
-       "period": null,
-       "clock": null,
+       "start": "2026-11-13T00:00:00Z",
+       "period": 3,
+       "clock": "00:00",
        "teams": [
         {
-         "name": "Washington Capitals",
-         "short": "Capitals",
+         "name": "Capitals",
+         "short": "WSH",
          "abbr": "WSH",
          "score": 2,
          "ha": "away",
          "winner": false,
-         "linescores": [
-          0,
-          0,
-          0
-         ]
+         "linescores": []
         },
         {
-         "name": "New Jersey Devils",
-         "short": "Devils",
-         "abbr": "NJ",
+         "name": "Devils",
+         "short": "NJD",
+         "abbr": "NJD",
          "score": 5,
          "ha": "home",
          "winner": true,
-         "linescores": [
-          0,
-          0,
-          0
-         ]
+         "linescores": []
         }
        ],
+       "nhl_id": 2026020303,
        "stat": {
-        "v": 3,
-        "name": "Dougie Hamilton"
+        "v": 0,
+        "name": "D. Hamilton"
        }
       },
-      "source": "espn"
+      "source": "nhl"
      }
     ],
     "sport": "NHL",
@@ -1410,42 +1382,35 @@
       "event": "401892699",
       "date": "20261112",
       "snapshot": {
-       "source": "espn",
+       "source": "nhl",
        "state": "post",
        "detail": "Final",
-       "start": "2026-11-13T00:30Z",
-       "period": null,
-       "clock": null,
+       "start": "2026-11-13T00:30:00Z",
+       "period": 3,
+       "clock": "00:00",
        "teams": [
         {
-         "name": "Detroit Red Wings",
-         "short": "Red Wings",
+         "name": "Red Wings",
+         "short": "DET",
          "abbr": "DET",
          "score": 4,
          "ha": "away",
          "winner": false,
-         "linescores": [
-          0,
-          0,
-          0
-         ]
+         "linescores": []
         },
         {
-         "name": "Florida Panthers",
-         "short": "Panthers",
+         "name": "Panthers",
+         "short": "FLA",
          "abbr": "FLA",
          "score": 5,
          "ha": "home",
          "winner": true,
-         "linescores": [
-          0,
-          0,
-          0
-         ]
+         "linescores": []
         }
-       ]
+       ],
+       "nhl_id": 2026020302
       },
-      "source": "espn"
+      "source": "nhl"
      }
     ],
     "sport": "NHL",
@@ -1477,50 +1442,39 @@
       "event": "401892704",
       "date": "20261112",
       "snapshot": {
-       "source": "espn",
+       "source": "nhl",
        "state": "post",
        "detail": "Final/SO",
-       "start": "2026-11-13T02:00Z",
-       "period": null,
-       "clock": null,
+       "start": "2026-11-13T02:00:00Z",
+       "period": 5,
+       "clock": "00:00",
        "teams": [
         {
-         "name": "St. Louis Blues",
-         "short": "Blues",
+         "name": "Blues",
+         "short": "STL",
          "abbr": "STL",
          "score": 1,
          "ha": "away",
          "winner": true,
-         "linescores": [
-          0,
-          0,
-          0,
-          0,
-          0
-         ]
+         "linescores": []
         },
         {
-         "name": "Utah Mammoth",
-         "short": "Mammoth",
+         "name": "Mammoth",
+         "short": "UTA",
          "abbr": "UTA",
          "score": 0,
          "ha": "home",
          "winner": false,
-         "linescores": [
-          0,
-          0,
-          0,
-          0,
-          0
-         ]
+         "linescores": []
         }
        ],
+       "nhl_id": 2026020307,
        "stat": {
-        "v": 4,
-        "name": "MacKenzie Weegar"
+        "v": 0,
+        "name": "M. Weegar"
        }
       },
-      "source": "espn"
+      "source": "nhl"
      }
     ],
     "sport": "NHL",
