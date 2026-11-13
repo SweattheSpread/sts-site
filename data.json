@@ -1,5 +1,5 @@
 {
- "updated": "Nov 12, 2026, 5:02 PM PT",
+ "updated": "Nov 12, 2026, 5:05 PM PT",
  "record": {
   "w": 152,
   "l": 152,
@@ -1094,16 +1094,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "19:38 - 1st",
+       "detail": "17:34 - 1st",
        "start": "2026-11-13T01:00Z",
        "period": 1,
-       "clock": "19:38",
+       "clock": "17:34",
        "teams": [
         {
          "name": "Oklahoma State Cowboys",
          "short": "Cowboys",
          "abbr": "OKST",
-         "score": 0,
+         "score": 5,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -1114,7 +1114,7 @@
          "name": "Texas A&M Aggies",
          "short": "Aggies",
          "abbr": "TA&M",
-         "score": 0,
+         "score": 9,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -1157,16 +1157,16 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P2 19:46",
+       "detail": "P2 17:49",
        "start": "2026-11-13T00:00:00Z",
        "period": 2,
-       "clock": "19:46",
+       "clock": "17:49",
        "teams": [
         {
          "name": "Capitals",
          "short": "WSH",
          "abbr": "WSH",
-         "score": 1,
+         "score": 2,
          "ha": "away",
          "winner": null,
          "linescores": []
@@ -1221,16 +1221,16 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P2 19:46",
+       "detail": "P2 17:49",
        "start": "2026-11-13T00:00:00Z",
        "period": 2,
-       "clock": "19:46",
+       "clock": "17:49",
        "teams": [
         {
          "name": "Capitals",
          "short": "WSH",
          "abbr": "WSH",
-         "score": 1,
+         "score": 2,
          "ha": "away",
          "winner": null,
          "linescores": []
@@ -1285,16 +1285,16 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P2 19:46",
+       "detail": "P2 17:49",
        "start": "2026-11-13T00:00:00Z",
        "period": 2,
-       "clock": "19:46",
+       "clock": "17:49",
        "teams": [
         {
          "name": "Capitals",
          "short": "WSH",
          "abbr": "WSH",
-         "score": 1,
+         "score": 2,
          "ha": "away",
          "winner": null,
          "linescores": []
@@ -1348,16 +1348,16 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P1 06:46",
+       "detail": "P1 05:24",
        "start": "2026-11-13T00:30:00Z",
        "period": 1,
-       "clock": "06:46",
+       "clock": "05:24",
        "teams": [
         {
          "name": "Red Wings",
          "short": "DET",
          "abbr": "DET",
-         "score": 1,
+         "score": 2,
          "ha": "away",
          "winner": null,
          "linescores": []
