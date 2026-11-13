@@ -1,5 +1,5 @@
 {
- "updated": "Nov 12, 2026, 7:40 PM PT",
+ "updated": "Nov 12, 2026, 7:43 PM PT",
  "record": {
   "w": 152,
   "l": 152,
@@ -878,11 +878,11 @@
       "date": "20261112",
       "snapshot": {
        "source": "nhl",
-       "state": "in",
-       "detail": "P3 01:20",
+       "state": "post",
+       "detail": "Final",
        "start": "2026-11-13T01:00:00Z",
        "period": 3,
-       "clock": "01:20",
+       "clock": "00:00",
        "teams": [
         {
          "name": "Jets",
@@ -890,7 +890,7 @@
          "abbr": "WPG",
          "score": 8,
          "ha": "away",
-         "winner": null,
+         "winner": true,
          "linescores": []
         },
         {
@@ -899,7 +899,7 @@
          "abbr": "DAL",
          "score": 3,
          "ha": "home",
-         "winner": null,
+         "winner": false,
          "linescores": []
         }
        ],
@@ -1444,16 +1444,16 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P2 05:25",
+       "detail": "P2 04:09",
        "start": "2026-11-13T02:00:00Z",
        "period": 2,
-       "clock": "05:25",
+       "clock": "04:09",
        "teams": [
         {
          "name": "Blues",
          "short": "STL",
          "abbr": "STL",
-         "score": 1,
+         "score": 0,
          "ha": "away",
          "winner": null,
          "linescores": []
