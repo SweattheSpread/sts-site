@@ -1,5 +1,5 @@
 {
- "updated": "Nov 12, 2026, 4:54 PM PT",
+ "updated": "Nov 12, 2026, 5:00 PM PT",
  "record": {
   "w": 152,
   "l": 152,
@@ -127,64 +127,6 @@
   }
  ],
  "picks": [
-  {
-   "n": 772,
-   "league": "NCAAB",
-   "type": "Over/Under",
-   "matchup": "Oklahoma St Cowboys @ Texas A&M Aggies",
-   "pick": "Under 179 total points",
-   "odds": -110,
-   "units": 1.0,
-   "gap": null,
-   "start": "2026-11-12T17:00:00",
-   "timed": true,
-   "ticket": "single",
-   "espn": {
-    "legs": [
-     {
-      "kind": "total",
-      "side": null,
-      "ou": "U",
-      "line": 179.0,
-      "label": "U 179.0",
-      "path": "basketball/mens-college-basketball",
-      "event": "401919041",
-      "date": "20261112",
-      "snapshot": {
-       "source": "espn",
-       "state": "pre",
-       "detail": "11/12 - 8:00 PM EST",
-       "start": "2026-11-13T01:00Z",
-       "period": null,
-       "clock": null,
-       "teams": [
-        {
-         "name": "Oklahoma State Cowboys",
-         "short": "Cowboys",
-         "abbr": "OKST",
-         "score": 0,
-         "ha": "away",
-         "winner": null,
-         "linescores": []
-        },
-        {
-         "name": "Texas A&M Aggies",
-         "short": "Aggies",
-         "abbr": "TA&M",
-         "score": 0,
-         "ha": "home",
-         "winner": null,
-         "linescores": []
-        }
-       ]
-      },
-      "source": "espn"
-     }
-    ],
-    "sport": "NCAAB",
-    "ticket": "single"
-   }
-  },
   {
    "n": 768,
    "league": "NHL",
@@ -967,10 +909,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "1:57 - 1st",
+       "detail": "Halftime",
        "start": "2026-11-13T00:00Z",
        "period": 1,
-       "clock": "1:57",
+       "clock": "0:00",
        "teams": [
         {
          "name": "Mercer Bears",
@@ -987,7 +929,7 @@
          "name": "West Virginia Mountaineers",
          "short": "Mountaineers",
          "abbr": "WVU",
-         "score": 28,
+         "score": 31,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -1029,10 +971,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "1:57 - 1st",
+       "detail": "Halftime",
        "start": "2026-11-13T00:00Z",
        "period": 1,
-       "clock": "1:57",
+       "clock": "0:00",
        "teams": [
         {
          "name": "Mercer Bears",
@@ -1049,7 +991,7 @@
          "name": "West Virginia Mountaineers",
          "short": "Mountaineers",
          "abbr": "WVU",
-         "score": 28,
+         "score": 31,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -1127,6 +1069,64 @@
    }
   },
   {
+   "n": 772,
+   "league": "NCAAB",
+   "type": "Over/Under",
+   "matchup": "Oklahoma St Cowboys @ Texas A&M Aggies",
+   "pick": "Under 179 total points",
+   "odds": -110,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-12T17:00:00",
+   "timed": true,
+   "ticket": "single",
+   "espn": {
+    "legs": [
+     {
+      "kind": "total",
+      "side": null,
+      "ou": "U",
+      "line": 179.0,
+      "label": "U 179.0",
+      "path": "basketball/mens-college-basketball",
+      "event": "401919041",
+      "date": "20261112",
+      "snapshot": {
+       "source": "espn",
+       "state": "pre",
+       "detail": "11/12 - 8:00 PM EST",
+       "start": "2026-11-13T01:00Z",
+       "period": null,
+       "clock": null,
+       "teams": [
+        {
+         "name": "Oklahoma State Cowboys",
+         "short": "Cowboys",
+         "abbr": "OKST",
+         "score": 0,
+         "ha": "away",
+         "winner": null,
+         "linescores": []
+        },
+        {
+         "name": "Texas A&M Aggies",
+         "short": "Aggies",
+         "abbr": "TA&M",
+         "score": 0,
+         "ha": "home",
+         "winner": null,
+         "linescores": []
+        }
+       ]
+      },
+      "source": "espn"
+     }
+    ],
+    "sport": "NCAAB",
+    "ticket": "single"
+   }
+  },
+  {
    "n": 773,
    "league": "NHL",
    "type": "Player Prop",
@@ -1153,10 +1153,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P1 06:01",
+       "detail": "P2 20:00",
        "start": "2026-11-13T00:00:00Z",
-       "period": 1,
-       "clock": "06:01",
+       "period": 2,
+       "clock": "20:00",
        "teams": [
         {
          "name": "Capitals",
@@ -1217,10 +1217,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P1 06:01",
+       "detail": "P2 20:00",
        "start": "2026-11-13T00:00:00Z",
-       "period": 1,
-       "clock": "06:01",
+       "period": 2,
+       "clock": "20:00",
        "teams": [
         {
          "name": "Capitals",
@@ -1281,10 +1281,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P1 06:01",
+       "detail": "P2 20:00",
        "start": "2026-11-13T00:00:00Z",
-       "period": 1,
-       "clock": "06:01",
+       "period": 2,
+       "clock": "20:00",
        "teams": [
         {
          "name": "Capitals",
@@ -1344,10 +1344,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P1 11:15",
+       "detail": "P1 08:32",
        "start": "2026-11-13T00:30:00Z",
        "period": 1,
-       "clock": "11:15",
+       "clock": "08:32",
        "teams": [
         {
          "name": "Red Wings",
