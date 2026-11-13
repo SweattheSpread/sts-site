@@ -1,5 +1,5 @@
 {
- "updated": "Nov 12, 2026, 4:10 PM PT",
+ "updated": "Nov 12, 2026, 4:13 PM PT",
  "record": {
   "w": 152,
   "l": 152,
@@ -1026,10 +1026,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "16:14 - 1st",
+       "detail": "15:34 - 1st",
        "start": "2026-11-13T00:00Z",
        "period": 1,
-       "clock": "16:14",
+       "clock": "15:34",
        "teams": [
         {
          "name": "Mercer Bears",
@@ -1088,10 +1088,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "16:14 - 1st",
+       "detail": "15:34 - 1st",
        "start": "2026-11-13T00:00Z",
        "period": 1,
-       "clock": "16:14",
+       "clock": "15:34",
        "teams": [
         {
          "name": "Mercer Bears",
@@ -1149,10 +1149,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "15:55 - 1st",
+       "detail": "14:28 - 1st",
        "start": "2026-11-13T00:00Z",
        "period": 1,
-       "clock": "15:55",
+       "clock": "14:28",
        "teams": [
         {
          "name": "Maryland Eastern Shore Hawks",
@@ -1169,7 +1169,7 @@
          "name": "Rhode Island Rams",
          "short": "Rams",
          "abbr": "URI",
-         "score": 5,
+         "score": 12,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -1212,10 +1212,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P1 18:52",
+       "detail": "P1 17:35",
        "start": "2026-11-13T00:00:00Z",
        "period": 1,
-       "clock": "18:52",
+       "clock": "17:35",
        "teams": [
         {
          "name": "Capitals",
@@ -1230,7 +1230,7 @@
          "name": "Devils",
          "short": "NJD",
          "abbr": "NJD",
-         "score": 0,
+         "score": 1,
          "ha": "home",
          "winner": null,
          "linescores": []
@@ -1276,10 +1276,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P1 18:52",
+       "detail": "P1 17:35",
        "start": "2026-11-13T00:00:00Z",
        "period": 1,
-       "clock": "18:52",
+       "clock": "17:35",
        "teams": [
         {
          "name": "Capitals",
@@ -1294,7 +1294,7 @@
          "name": "Devils",
          "short": "NJD",
          "abbr": "NJD",
-         "score": 0,
+         "score": 1,
          "ha": "home",
          "winner": null,
          "linescores": []
@@ -1340,10 +1340,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P1 18:52",
+       "detail": "P1 17:35",
        "start": "2026-11-13T00:00:00Z",
        "period": 1,
-       "clock": "18:52",
+       "clock": "17:35",
        "teams": [
         {
          "name": "Capitals",
@@ -1358,7 +1358,7 @@
          "name": "Devils",
          "short": "NJD",
          "abbr": "NJD",
-         "score": 0,
+         "score": 1,
          "ha": "home",
          "winner": null,
          "linescores": []
