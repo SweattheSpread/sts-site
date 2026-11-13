@@ -1,5 +1,5 @@
 {
- "updated": "Nov 12, 2026, 7:35 PM PT",
+ "updated": "Nov 12, 2026, 7:38 PM PT",
  "record": {
   "w": 152,
   "l": 152,
@@ -879,10 +879,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P3 02:55",
+       "detail": "P3 02:18",
        "start": "2026-11-13T01:00:00Z",
        "period": 3,
-       "clock": "02:55",
+       "clock": "02:18",
        "teams": [
         {
          "name": "Jets",
@@ -1444,10 +1444,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P2 06:19",
+       "detail": "P2 06:08",
        "start": "2026-11-13T02:00:00Z",
        "period": 2,
-       "clock": "06:19",
+       "clock": "06:08",
        "teams": [
         {
          "name": "Blues",
