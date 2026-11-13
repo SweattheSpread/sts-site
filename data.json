@@ -1,5 +1,5 @@
 {
- "updated": "Nov 12, 2026, 5:52 PM PT",
+ "updated": "Nov 12, 2026, 5:55 PM PT",
  "record": {
   "w": 152,
   "l": 152,
@@ -939,10 +939,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P1 15:51",
+       "detail": "P1 12:23",
        "start": "2026-11-13T01:00:00Z",
        "period": 1,
-       "clock": "15:51",
+       "clock": "12:23",
        "teams": [
         {
          "name": "Jets",
@@ -997,16 +997,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "6:10 - 2nd",
+       "detail": "4:26 - 2nd",
        "start": "2026-11-13T00:00Z",
        "period": 2,
-       "clock": "6:10",
+       "clock": "4:26",
        "teams": [
         {
          "name": "Mercer Bears",
          "short": "Bears",
          "abbr": "MER",
-         "score": 46,
+         "score": 51,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -1018,7 +1018,7 @@
          "name": "West Virginia Mountaineers",
          "short": "Mountaineers",
          "abbr": "WVU",
-         "score": 63,
+         "score": 68,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -1061,16 +1061,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "6:10 - 2nd",
+       "detail": "4:26 - 2nd",
        "start": "2026-11-13T00:00Z",
        "period": 2,
-       "clock": "6:10",
+       "clock": "4:26",
        "teams": [
         {
          "name": "Mercer Bears",
          "short": "Bears",
          "abbr": "MER",
-         "score": 46,
+         "score": 51,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -1082,7 +1082,7 @@
          "name": "West Virginia Mountaineers",
          "short": "Mountaineers",
          "abbr": "WVU",
-         "score": 63,
+         "score": 68,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -1188,16 +1188,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "3:47 - 1st",
+       "detail": "2:23 - 1st",
        "start": "2026-11-13T01:00Z",
        "period": 1,
-       "clock": "3:47",
+       "clock": "2:23",
        "teams": [
         {
          "name": "Oklahoma State Cowboys",
          "short": "Cowboys",
          "abbr": "OKST",
-         "score": 30,
+         "score": 33,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -1208,7 +1208,7 @@
          "name": "Texas A&M Aggies",
          "short": "Aggies",
          "abbr": "TA&M",
-         "score": 38,
+         "score": 42,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -1251,10 +1251,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P2 06:00",
+       "detail": "P2 02:32",
        "start": "2026-11-13T00:00:00Z",
        "period": 2,
-       "clock": "06:00",
+       "clock": "02:32",
        "teams": [
         {
          "name": "Capitals",
@@ -1315,10 +1315,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P2 06:00",
+       "detail": "P2 02:32",
        "start": "2026-11-13T00:00:00Z",
        "period": 2,
-       "clock": "06:00",
+       "clock": "02:32",
        "teams": [
         {
          "name": "Capitals",
@@ -1379,10 +1379,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P2 06:00",
+       "detail": "P2 02:32",
        "start": "2026-11-13T00:00:00Z",
        "period": 2,
-       "clock": "06:00",
+       "clock": "02:32",
        "teams": [
         {
          "name": "Capitals",
@@ -1442,10 +1442,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P2 12:15",
+       "detail": "P2 09:42",
        "start": "2026-11-13T00:30:00Z",
        "period": 2,
-       "clock": "12:15",
+       "clock": "09:42",
        "teams": [
         {
          "name": "Red Wings",
