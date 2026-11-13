@@ -1,5 +1,5 @@
 {
- "updated": "Nov 12, 2026, 5:21 PM PT",
+ "updated": "Nov 12, 2026, 5:24 PM PT",
  "record": {
   "w": 152,
   "l": 152,
@@ -939,10 +939,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P1 13:07",
+       "detail": "P1 11:27",
        "start": "2026-11-13T01:00:00Z",
        "period": 1,
-       "clock": "13:07",
+       "clock": "11:27",
        "teams": [
         {
          "name": "Jets",
@@ -997,10 +997,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "16:53 - 2nd",
+       "detail": "15:56 - 2nd",
        "start": "2026-11-13T00:00Z",
        "period": 2,
-       "clock": "16:53",
+       "clock": "15:56",
        "teams": [
         {
          "name": "Mercer Bears",
@@ -1061,10 +1061,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "16:53 - 2nd",
+       "detail": "15:56 - 2nd",
        "start": "2026-11-13T00:00Z",
        "period": 2,
-       "clock": "16:53",
+       "clock": "15:56",
        "teams": [
         {
          "name": "Mercer Bears",
@@ -1124,10 +1124,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "11:12 - 2nd",
+       "detail": "10:22 - 2nd",
        "start": "2026-11-13T00:00Z",
        "period": 2,
-       "clock": "11:12",
+       "clock": "10:22",
        "teams": [
         {
          "name": "Maryland Eastern Shore Hawks",
@@ -1145,7 +1145,7 @@
          "name": "Rhode Island Rams",
          "short": "Rams",
          "abbr": "URI",
-         "score": 43,
+         "score": 45,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -1188,10 +1188,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "13:13 - 1st",
+       "detail": "12:26 - 1st",
        "start": "2026-11-13T01:00Z",
        "period": 1,
-       "clock": "13:13",
+       "clock": "12:26",
        "teams": [
         {
          "name": "Oklahoma State Cowboys",
@@ -1208,7 +1208,7 @@
          "name": "Texas A&M Aggies",
          "short": "Aggies",
          "abbr": "TA&M",
-         "score": 14,
+         "score": 15,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -1251,10 +1251,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P2 09:33",
+       "detail": "P2 09:03",
        "start": "2026-11-13T00:00:00Z",
        "period": 2,
-       "clock": "09:33",
+       "clock": "09:03",
        "teams": [
         {
          "name": "Capitals",
@@ -1315,10 +1315,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P2 09:33",
+       "detail": "P2 09:03",
        "start": "2026-11-13T00:00:00Z",
        "period": 2,
-       "clock": "09:33",
+       "clock": "09:03",
        "teams": [
         {
          "name": "Capitals",
@@ -1379,10 +1379,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P2 09:33",
+       "detail": "P2 09:03",
        "start": "2026-11-13T00:00:00Z",
        "period": 2,
-       "clock": "09:33",
+       "clock": "09:03",
        "teams": [
         {
          "name": "Capitals",
@@ -1442,10 +1442,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P1 10:45",
+       "detail": "P1 08:09",
        "start": "2026-11-13T00:30:00Z",
        "period": 1,
-       "clock": "10:45",
+       "clock": "08:09",
        "teams": [
         {
          "name": "Red Wings",
