@@ -1,5 +1,5 @@
 {
- "updated": "Nov 12, 2026, 6:39 PM PT",
+ "updated": "Nov 12, 2026, 6:51 PM PT",
  "record": {
   "w": 152,
   "l": 152,
@@ -879,16 +879,16 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P2 04:37",
+       "detail": "P2 15:40",
        "start": "2026-11-13T01:00:00Z",
        "period": 2,
-       "clock": "04:37",
+       "clock": "15:40",
        "teams": [
         {
          "name": "Jets",
          "short": "WPG",
          "abbr": "WPG",
-         "score": 3,
+         "score": 5,
          "ha": "away",
          "winner": null,
          "linescores": []
@@ -1128,16 +1128,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "12:41 - 2nd",
+       "detail": "9:53 - 2nd",
        "start": "2026-11-13T01:00Z",
        "period": 2,
-       "clock": "12:41",
+       "clock": "9:53",
        "teams": [
         {
          "name": "Oklahoma State Cowboys",
          "short": "Cowboys",
          "abbr": "OKST",
-         "score": 48,
+         "score": 60,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -1149,7 +1149,7 @@
          "name": "Texas A&M Aggies",
          "short": "Aggies",
          "abbr": "TA&M",
-         "score": 62,
+         "score": 68,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -1384,10 +1384,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P3 14:26",
+       "detail": "P3 08:07",
        "start": "2026-11-13T00:30:00Z",
        "period": 3,
-       "clock": "14:26",
+       "clock": "08:07",
        "teams": [
         {
          "name": "Red Wings",
@@ -1444,10 +1444,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P1 05:36",
+       "detail": "P1 16:07",
        "start": "2026-11-13T02:00:00Z",
        "period": 1,
-       "clock": "05:36",
+       "clock": "16:07",
        "teams": [
         {
          "name": "Blues",
