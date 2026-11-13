@@ -1,5 +1,5 @@
 {
- "updated": "Nov 13, 2026, 12:13 AM PT",
+ "updated": "Nov 13, 2026, 9:39 AM PT",
  "record": {
   "w": 159,
   "l": 157,
@@ -11,7 +11,7 @@
   "first": "2026-10-12",
   "last": "2026-11-12"
  },
- "pending": 10,
+ "pending": 16,
  "latest": [
   {
    "n": 777,
@@ -127,6 +127,351 @@
   }
  ],
  "picks": [
+  {
+   "n": 778,
+   "league": "NCAAB",
+   "type": "Spread",
+   "matchup": "Sam Houston Bearkats @ Illinois Fighting Illini",
+   "pick": "Sam Houston +36.5",
+   "odds": -110,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-13T16:00:00",
+   "timed": true,
+   "ticket": "single",
+   "espn": {
+    "legs": [
+     {
+      "kind": "spread",
+      "side": "Sam Houston",
+      "line": 36.5,
+      "label": "Sam Houston +36.5",
+      "path": "basketball/mens-college-basketball",
+      "event": "401913528",
+      "date": "20261113",
+      "snapshot": {
+       "source": "espn",
+       "state": "pre",
+       "detail": "11/13 - 7:00 PM EST",
+       "start": "2026-11-14T00:00Z",
+       "period": null,
+       "clock": null,
+       "teams": [
+        {
+         "name": "Sam Houston Bearkats",
+         "short": "Bearkats",
+         "abbr": "SHSU",
+         "score": 0,
+         "ha": "away",
+         "winner": null,
+         "linescores": []
+        },
+        {
+         "name": "Illinois Fighting Illini",
+         "short": "Fighting Illini",
+         "abbr": "ILL",
+         "score": 0,
+         "ha": "home",
+         "winner": null,
+         "linescores": []
+        }
+       ]
+      },
+      "source": "espn"
+     }
+    ],
+    "sport": "NCAAB",
+    "ticket": "single"
+   }
+  },
+  {
+   "n": 779,
+   "league": "NCAAB",
+   "type": "Over/Under",
+   "matchup": "Sam Houston Bearkats @ Illinois Fighting Illini",
+   "pick": "Under 171.5 total points",
+   "odds": -105,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-13T16:00:00",
+   "timed": true,
+   "ticket": "single",
+   "espn": {
+    "legs": [
+     {
+      "kind": "total",
+      "side": null,
+      "ou": "U",
+      "line": 171.5,
+      "label": "U 171.5",
+      "path": "basketball/mens-college-basketball",
+      "event": "401913528",
+      "date": "20261113",
+      "snapshot": {
+       "source": "espn",
+       "state": "pre",
+       "detail": "11/13 - 7:00 PM EST",
+       "start": "2026-11-14T00:00Z",
+       "period": null,
+       "clock": null,
+       "teams": [
+        {
+         "name": "Sam Houston Bearkats",
+         "short": "Bearkats",
+         "abbr": "SHSU",
+         "score": 0,
+         "ha": "away",
+         "winner": null,
+         "linescores": []
+        },
+        {
+         "name": "Illinois Fighting Illini",
+         "short": "Fighting Illini",
+         "abbr": "ILL",
+         "score": 0,
+         "ha": "home",
+         "winner": null,
+         "linescores": []
+        }
+       ]
+      },
+      "source": "espn"
+     }
+    ],
+    "sport": "NCAAB",
+    "ticket": "single"
+   }
+  },
+  {
+   "n": 780,
+   "league": "NCAAB",
+   "type": "Spread",
+   "matchup": "SIU Edwardsville Cougars @ Duke Blue Devils",
+   "pick": "SIU Edwardsville +44.5",
+   "odds": -105,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-13T17:00:00",
+   "timed": true,
+   "ticket": "single",
+   "espn": {
+    "legs": [
+     {
+      "kind": "spread",
+      "side": "SIU Edwardsville",
+      "line": 44.5,
+      "label": "SIU Edwardsville +44.5",
+      "path": "basketball/mens-college-basketball",
+      "event": "401909565",
+      "date": "20261113",
+      "snapshot": {
+       "source": "espn",
+       "state": "pre",
+       "detail": "11/13 - 8:00 PM EST",
+       "start": "2026-11-14T01:00Z",
+       "period": null,
+       "clock": null,
+       "teams": [
+        {
+         "name": "SIU Edwardsville Cougars",
+         "short": "Cougars",
+         "abbr": "SIUE",
+         "score": 0,
+         "ha": "away",
+         "winner": null,
+         "linescores": []
+        },
+        {
+         "name": "Duke Blue Devils",
+         "short": "Blue Devils",
+         "abbr": "DUKE",
+         "score": 0,
+         "ha": "home",
+         "winner": null,
+         "linescores": []
+        }
+       ]
+      },
+      "source": "espn"
+     }
+    ],
+    "sport": "NCAAB",
+    "ticket": "single"
+   }
+  },
+  {
+   "n": 781,
+   "league": "NCAAB",
+   "type": "Over/Under",
+   "matchup": "SIU Edwardsville Cougars @ Duke Blue Devils",
+   "pick": "Under 148.5 total points",
+   "odds": -110,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-13T17:00:00",
+   "timed": true,
+   "ticket": "single",
+   "espn": {
+    "legs": [
+     {
+      "kind": "total",
+      "side": null,
+      "ou": "U",
+      "line": 148.5,
+      "label": "U 148.5",
+      "path": "basketball/mens-college-basketball",
+      "event": "401909565",
+      "date": "20261113",
+      "snapshot": {
+       "source": "espn",
+       "state": "pre",
+       "detail": "11/13 - 8:00 PM EST",
+       "start": "2026-11-14T01:00Z",
+       "period": null,
+       "clock": null,
+       "teams": [
+        {
+         "name": "SIU Edwardsville Cougars",
+         "short": "Cougars",
+         "abbr": "SIUE",
+         "score": 0,
+         "ha": "away",
+         "winner": null,
+         "linescores": []
+        },
+        {
+         "name": "Duke Blue Devils",
+         "short": "Blue Devils",
+         "abbr": "DUKE",
+         "score": 0,
+         "ha": "home",
+         "winner": null,
+         "linescores": []
+        }
+       ]
+      },
+      "source": "espn"
+     }
+    ],
+    "sport": "NCAAB",
+    "ticket": "single"
+   }
+  },
+  {
+   "n": 782,
+   "league": "NCAAB",
+   "type": "Spread",
+   "matchup": "Ball State Cardinals @ SMU Mustangs",
+   "pick": "Ball State +23.5",
+   "odds": -115,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-13T18:00:00",
+   "timed": true,
+   "ticket": "single",
+   "espn": {
+    "legs": [
+     {
+      "kind": "spread",
+      "side": "Ball State",
+      "line": 23.5,
+      "label": "Ball State +23.5",
+      "path": "basketball/mens-college-basketball",
+      "event": "401927374",
+      "date": "20261113",
+      "snapshot": {
+       "source": "espn",
+       "state": "pre",
+       "detail": "11/13 - 8:00 PM EST",
+       "start": "2026-11-14T01:00Z",
+       "period": null,
+       "clock": null,
+       "teams": [
+        {
+         "name": "Illinois State Redbirds",
+         "short": "Redbirds",
+         "abbr": "ILST",
+         "score": 0,
+         "ha": "away",
+         "winner": null,
+         "linescores": []
+        },
+        {
+         "name": "North Dakota State Bison",
+         "short": "Bison",
+         "abbr": "NDSU",
+         "score": 0,
+         "ha": "home",
+         "winner": null,
+         "linescores": []
+        }
+       ]
+      },
+      "source": "espn"
+     }
+    ],
+    "sport": "NCAAB",
+    "ticket": "single"
+   }
+  },
+  {
+   "n": 783,
+   "league": "NCAAB",
+   "type": "Over/Under",
+   "matchup": "UIC Flames @ Saint Mary's Gaels",
+   "pick": "Under 150.5 total points",
+   "odds": -105,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-13T19:00:00",
+   "timed": true,
+   "ticket": "single",
+   "espn": {
+    "legs": [
+     {
+      "kind": "total",
+      "side": null,
+      "ou": "U",
+      "line": 150.5,
+      "label": "U 150.5",
+      "path": "basketball/mens-college-basketball",
+      "event": "401917525",
+      "date": "20261113",
+      "snapshot": {
+       "source": "espn",
+       "state": "pre",
+       "detail": "11/13 - 10:00 PM EST",
+       "start": "2026-11-14T03:00Z",
+       "period": null,
+       "clock": null,
+       "teams": [
+        {
+         "name": "UIC Flames",
+         "short": "Flames",
+         "abbr": "UIC",
+         "score": 0,
+         "ha": "away",
+         "winner": null,
+         "linescores": []
+        },
+        {
+         "name": "Saint Mary's Gaels",
+         "short": "Gaels",
+         "abbr": "SMC",
+         "score": 0,
+         "ha": "home",
+         "winner": null,
+         "linescores": []
+        }
+       ]
+      },
+      "source": "espn"
+     }
+    ],
+    "sport": "NCAAB",
+    "ticket": "single"
+   }
+  },
   {
    "n": 747,
    "league": "NFL",
