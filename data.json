@@ -1,5 +1,5 @@
 {
- "updated": "Nov 12, 2026, 4:05 PM PT",
+ "updated": "Nov 12, 2026, 4:08 PM PT",
  "record": {
   "w": 152,
   "l": 152,
@@ -1149,16 +1149,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "17:34 - 1st",
+       "detail": "16:09 - 1st",
        "start": "2026-11-13T00:00Z",
        "period": 1,
-       "clock": "17:34",
+       "clock": "16:09",
        "teams": [
         {
          "name": "Maryland Eastern Shore Hawks",
          "short": "Hawks",
          "abbr": "UMES",
-         "score": 4,
+         "score": 6,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -1206,16 +1206,16 @@
       "line": 0.5,
       "stat": "points",
       "label": "Cole Hutson O 0.5 points",
+      "path": "hockey/nhl",
+      "event": "401892700",
       "date": "20261112",
-      "unverified": true,
-      "reason": "Player not found in this game",
       "snapshot": {
        "source": "nhl",
-       "state": "pre",
-       "detail": "Scheduled",
+       "state": "in",
+       "detail": "P1 20:00",
        "start": "2026-11-13T00:00:00Z",
-       "period": null,
-       "clock": null,
+       "period": 1,
+       "clock": "20:00",
        "teams": [
         {
          "name": "Capitals",
@@ -1236,7 +1236,11 @@
          "linescores": []
         }
        ],
-       "nhl_id": 2026020303
+       "nhl_id": 2026020303,
+       "stat": {
+        "v": 0,
+        "name": "C. Hutson"
+       }
       },
       "source": "nhl"
      }
@@ -1266,16 +1270,16 @@
       "line": 2.5,
       "stat": "shots on goal",
       "label": "Luke Evangelista O 2.5 shots on goal",
+      "path": "hockey/nhl",
+      "event": "401892700",
       "date": "20261112",
-      "unverified": true,
-      "reason": "Player not found in this game",
       "snapshot": {
        "source": "nhl",
-       "state": "pre",
-       "detail": "Scheduled",
+       "state": "in",
+       "detail": "P1 20:00",
        "start": "2026-11-13T00:00:00Z",
-       "period": null,
-       "clock": null,
+       "period": 1,
+       "clock": "20:00",
        "teams": [
         {
          "name": "Capitals",
@@ -1296,7 +1300,11 @@
          "linescores": []
         }
        ],
-       "nhl_id": 2026020303
+       "nhl_id": 2026020303,
+       "stat": {
+        "v": 0,
+        "name": "L. Evangelista"
+       }
       },
       "source": "nhl"
      }
@@ -1326,16 +1334,16 @@
       "line": 2.5,
       "stat": "shots on goal",
       "label": "Dougie Hamilton O 2.5 shots on goal",
+      "path": "hockey/nhl",
+      "event": "401892700",
       "date": "20261112",
-      "unverified": true,
-      "reason": "Player not found in this game",
       "snapshot": {
        "source": "nhl",
-       "state": "pre",
-       "detail": "Scheduled",
+       "state": "in",
+       "detail": "P1 20:00",
        "start": "2026-11-13T00:00:00Z",
-       "period": null,
-       "clock": null,
+       "period": 1,
+       "clock": "20:00",
        "teams": [
         {
          "name": "Capitals",
@@ -1356,7 +1364,11 @@
          "linescores": []
         }
        ],
-       "nhl_id": 2026020303
+       "nhl_id": 2026020303,
+       "stat": {
+        "v": 0,
+        "name": "D. Hamilton"
+       }
       },
       "source": "nhl"
      }
