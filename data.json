@@ -1,5 +1,5 @@
 {
- "updated": "Nov 12, 2026, 9:09 PM PT",
+ "updated": "Nov 12, 2026, 9:13 PM PT",
  "record": {
   "w": 152,
   "l": 152,
@@ -1443,8 +1443,8 @@
       "date": "20261112",
       "snapshot": {
        "source": "nhl",
-       "state": "in",
-       "detail": "P5 00:00",
+       "state": "post",
+       "detail": "Final/SO",
        "start": "2026-11-13T02:00:00Z",
        "period": 5,
        "clock": "00:00",
@@ -1453,9 +1453,9 @@
          "name": "Blues",
          "short": "STL",
          "abbr": "STL",
-         "score": 0,
+         "score": 1,
          "ha": "away",
-         "winner": null,
+         "winner": true,
          "linescores": []
         },
         {
@@ -1464,7 +1464,7 @@
          "abbr": "UTA",
          "score": 0,
          "ha": "home",
-         "winner": null,
+         "winner": false,
          "linescores": []
         }
        ],
