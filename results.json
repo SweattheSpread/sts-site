@@ -1,17 +1,17 @@
 {
- "updated": "Nov 12, 2026, 10:04 PM PT",
+ "updated": "Nov 12, 2026, 11:21 PM PT",
  "record": {
-  "w": 152,
-  "l": 152,
+  "w": 159,
+  "l": 157,
   "p": 0,
-  "n": 304,
-  "units": 38.27,
-  "risked": 442.75,
-  "roi": 8.64,
+  "n": 316,
+  "units": 38.38,
+  "risked": 457.25,
+  "roi": 8.39,
   "first": "2026-10-12",
-  "last": "2026-11-11"
+  "last": "2026-11-12"
  },
- "pending": 22,
+ "pending": 10,
  "plays": [
   {
    "n": 334,
@@ -4953,9 +4953,9 @@
    "pick": "Alexander Shevchenko ML",
    "odds": -120,
    "units": 1.0,
-   "result": null,
-   "pl": null,
-   "pending": true
+   "result": "L",
+   "pl": -1.0,
+   "pending": false
   },
   {
    "n": 761,
@@ -4985,9 +4985,9 @@
    "pick": "Coco Gauff ML vs Marta Kostyuk + Jessica Pegula +1.5 sets vs Linda Noskova",
    "odds": -115,
    "units": 1.0,
-   "result": null,
-   "pl": null,
-   "pending": true
+   "result": "W",
+   "pl": 0.87,
+   "pending": false
   },
   {
    "n": 768,
@@ -5001,9 +5001,9 @@
    "pick": "Under 5.5 +102",
    "odds": 102,
    "units": 1.5,
-   "result": null,
-   "pl": null,
-   "pending": true
+   "result": "L",
+   "pl": -1.5,
+   "pending": false
   },
   {
    "n": 769,
@@ -5017,9 +5017,9 @@
    "pick": "Mercer Bears +24.5",
    "odds": -110,
    "units": 1.0,
-   "result": null,
-   "pl": null,
-   "pending": true
+   "result": "W",
+   "pl": 0.91,
+   "pending": false
   },
   {
    "n": 770,
@@ -5033,9 +5033,9 @@
    "pick": "Under 151.5 total points",
    "odds": -110,
    "units": 1.0,
-   "result": null,
-   "pl": null,
-   "pending": true
+   "result": "W",
+   "pl": 0.91,
+   "pending": false
   },
   {
    "n": 771,
@@ -5049,9 +5049,9 @@
    "pick": "Maryland-Eastern Shore Hawks +24",
    "odds": -110,
    "units": 1.0,
-   "result": null,
-   "pl": null,
-   "pending": true
+   "result": "W",
+   "pl": 0.91,
+   "pending": false
   },
   {
    "n": 772,
@@ -5065,9 +5065,9 @@
    "pick": "Under 179 total points",
    "odds": -110,
    "units": 1.0,
-   "result": null,
-   "pl": null,
-   "pending": true
+   "result": "W",
+   "pl": 0.91,
+   "pending": false
   },
   {
    "n": 773,
@@ -5081,9 +5081,9 @@
    "pick": "Cole Hutson OVER 0.5 points",
    "odds": 155,
    "units": 1.0,
-   "result": null,
-   "pl": null,
-   "pending": true
+   "result": "W",
+   "pl": 1.55,
+   "pending": false
   },
   {
    "n": 774,
@@ -5097,9 +5097,9 @@
    "pick": "Luke Evangelista OVER 2.5 shots on goal",
    "odds": 130,
    "units": 1.0,
-   "result": null,
-   "pl": null,
-   "pending": true
+   "result": "L",
+   "pl": -1.0,
+   "pending": false
   },
   {
    "n": 775,
@@ -5113,9 +5113,9 @@
    "pick": "Dougie Hamilton OVER 2.5 shots on goal",
    "odds": 155,
    "units": 1.0,
-   "result": null,
-   "pl": null,
-   "pending": true
+   "result": "W",
+   "pl": 1.55,
+   "pending": false
   },
   {
    "n": 776,
@@ -5129,9 +5129,9 @@
    "pick": "Under 6 total goals (full game; even-number total, push at 6)",
    "odds": -114,
    "units": 3.0,
-   "result": null,
-   "pl": null,
-   "pending": true
+   "result": "L",
+   "pl": -3.0,
+   "pending": false
   },
   {
    "n": 777,
@@ -5145,9 +5145,9 @@
    "pick": "MacKenzie Weegar UNDER 1.5 shots on goal",
    "odds": 115,
    "units": 1.0,
-   "result": null,
-   "pl": null,
-   "pending": true
+   "result": "L",
+   "pl": -1.0,
+   "pending": false
   },
   {
    "n": 746,

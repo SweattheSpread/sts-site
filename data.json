@@ -1,128 +1,128 @@
 {
- "updated": "Nov 12, 2026, 10:04 PM PT",
+ "updated": "Nov 12, 2026, 11:21 PM PT",
  "record": {
-  "w": 152,
-  "l": 152,
+  "w": 159,
+  "l": 157,
   "p": 0,
-  "n": 304,
-  "units": 38.27,
-  "risked": 442.75,
-  "roi": 8.64,
+  "n": 316,
+  "units": 38.38,
+  "risked": 457.25,
+  "roi": 8.39,
   "first": "2026-10-12",
-  "last": "2026-11-11"
+  "last": "2026-11-12"
  },
- "pending": 22,
+ "pending": 10,
  "latest": [
   {
-   "n": 759,
-   "date": "2026-11-11",
-   "day": "2026-11-11",
-   "league": "NCAAF",
-   "type": "Moneyline",
-   "matchup": "Sacramento State Hornets @ Central Michigan Chippewas",
-   "pick": "Sacramento State ML",
-   "odds": 775,
-   "units": 0.5,
-   "result": "L",
-   "pl": -0.5,
-   "ticket": "single"
-  },
-  {
-   "n": 758,
-   "date": "2026-11-11",
-   "day": "2026-11-11",
-   "league": "NCAAB",
-   "type": "Moneyline",
-   "matchup": "Pennsylvania Quakers @ Navy Midshipmen",
-   "pick": "Navy Midshipmen ML (live)",
-   "odds": 154,
-   "units": 1.5,
-   "result": "W",
-   "pl": 2.31,
-   "ticket": "single"
-  },
-  {
-   "n": 757,
-   "date": "2026-11-11",
-   "day": "2026-11-11",
-   "league": "NBA",
+   "n": 777,
+   "date": "2026-11-12",
+   "day": "2026-11-12",
+   "league": "NHL",
    "type": "Player Prop",
-   "matchup": "Washington Wizards @ Indiana Pacers",
-   "pick": "Ivica Zubac UNDER 12.5 points",
-   "odds": 105,
+   "matchup": "St. Louis Blues @ Utah Mammoth",
+   "pick": "MacKenzie Weegar UNDER 1.5 shots on goal",
+   "odds": 115,
    "units": 1.0,
    "result": "L",
    "pl": -1.0,
    "ticket": "single"
   },
   {
-   "n": 756,
-   "date": "2026-11-11",
-   "day": "2026-11-11",
-   "league": "NCAAB",
-   "type": "Spread",
-   "matchup": "USC Trojans @ California Golden Bears",
-   "pick": "California Golden Bears +8.5",
-   "odds": -115,
-   "units": 1.0,
-   "result": "L",
-   "pl": -1.0,
-   "ticket": "single"
-  },
-  {
-   "n": 755,
-   "date": "2026-11-11",
-   "day": "2026-11-11",
-   "league": "NCAAB",
+   "n": 776,
+   "date": "2026-11-12",
+   "day": "2026-11-12",
+   "league": "NHL",
    "type": "Over/Under",
-   "matchup": "Cal Poly Mustangs @ Grand Canyon Antelopes",
-   "pick": "Under 181.5 total points",
-   "odds": -105,
+   "matchup": "Detroit Red Wings @ Florida Panthers",
+   "pick": "Under 6 total goals (full game; even-number total, push at 6)",
+   "odds": -114,
+   "units": 3.0,
+   "result": "L",
+   "pl": -3.0,
+   "ticket": "single"
+  },
+  {
+   "n": 775,
+   "date": "2026-11-12",
+   "day": "2026-11-12",
+   "league": "NHL",
+   "type": "Player Prop",
+   "matchup": "Washington Capitals @ New Jersey Devils",
+   "pick": "Dougie Hamilton OVER 2.5 shots on goal",
+   "odds": 155,
    "units": 1.0,
    "result": "W",
-   "pl": 0.95,
+   "pl": 1.55,
    "ticket": "single"
   },
   {
-   "n": 754,
-   "date": "2026-11-11",
-   "day": "2026-11-11",
-   "league": "NCAAB",
-   "type": "Spread",
-   "matchup": "Cal Poly Mustangs @ Grand Canyon Antelopes",
-   "pick": "Cal Poly Mustangs +18.5",
-   "odds": -110,
+   "n": 774,
+   "date": "2026-11-12",
+   "day": "2026-11-12",
+   "league": "NHL",
+   "type": "Player Prop",
+   "matchup": "Washington Capitals @ New Jersey Devils",
+   "pick": "Luke Evangelista OVER 2.5 shots on goal",
+   "odds": 130,
    "units": 1.0,
    "result": "L",
    "pl": -1.0,
    "ticket": "single"
   },
   {
-   "n": 753,
-   "date": "2026-11-11",
-   "day": "2026-11-11",
-   "league": "NCAAB",
-   "type": "Spread",
-   "matchup": "Arkansas-Pine Bluff Golden Lions @ UCLA Bruins",
-   "pick": "Arkansas-Pine Bluff Golden Lions +47.5",
-   "odds": -110,
+   "n": 773,
+   "date": "2026-11-12",
+   "day": "2026-11-12",
+   "league": "NHL",
+   "type": "Player Prop",
+   "matchup": "Washington Capitals @ New Jersey Devils",
+   "pick": "Cole Hutson OVER 0.5 points",
+   "odds": 155,
    "units": 1.0,
-   "result": "L",
-   "pl": -1.0,
+   "result": "W",
+   "pl": 1.55,
    "ticket": "single"
   },
   {
-   "n": 752,
-   "date": "2026-11-11",
-   "day": "2026-11-11",
+   "n": 772,
+   "date": "2026-11-12",
+   "day": "2026-11-12",
    "league": "NCAAB",
    "type": "Over/Under",
-   "matchup": "Old Dominion Monarchs @ Norfolk State Spartans",
-   "pick": "Over 136.5 total points",
+   "matchup": "Oklahoma St Cowboys @ Texas A&M Aggies",
+   "pick": "Under 179 total points",
    "odds": -110,
    "units": 1.0,
-   "result": "L",
-   "pl": -1.0,
+   "result": "W",
+   "pl": 0.91,
+   "ticket": "single"
+  },
+  {
+   "n": 771,
+   "date": "2026-11-12",
+   "day": "2026-11-12",
+   "league": "NCAAB",
+   "type": "Spread",
+   "matchup": "Maryland-Eastern Shore Hawks @ Rhode Island Rams",
+   "pick": "Maryland-Eastern Shore Hawks +24",
+   "odds": -110,
+   "units": 1.0,
+   "result": "W",
+   "pl": 0.91,
+   "ticket": "single"
+  },
+  {
+   "n": 770,
+   "date": "2026-11-12",
+   "day": "2026-11-12",
+   "league": "NCAAB",
+   "type": "Over/Under",
+   "matchup": "Mercer Bears @ West Virginia Mountaineers",
+   "pick": "Under 151.5 total points",
+   "odds": -110,
+   "units": 1.0,
+   "result": "W",
+   "pl": 0.91,
    "ticket": "single"
   }
  ],
@@ -700,788 +700,7 @@
    }
   }
  ],
- "awaiting": [
-  {
-   "n": 760,
-   "league": "Tennis",
-   "type": "Moneyline",
-   "matchup": "ATP Stockholm: Thiago Agustin Tirante vs Alexander Shevchenko",
-   "pick": "Alexander Shevchenko ML",
-   "odds": -120,
-   "units": 1.0,
-   "gap": null,
-   "start": "2026-11-12T06:20:00",
-   "timed": true,
-   "ticket": "single",
-   "espn": {
-    "legs": [
-     {
-      "kind": "ml",
-      "side": "Alexander Shevchenko",
-      "label": "Alexander Shevchenko ML",
-      "path": "tennis/atp",
-      "event": "148-2026",
-      "comp": "186548",
-      "date": "20261112",
-      "opp": "Thiago Agustin Tirante",
-      "snapshot": {
-       "source": "tennis-explorer",
-       "path": "tennis/explorer",
-       "event": "3377329",
-       "state": "post",
-       "detail": "Final \u00b7 2-1 sets",
-       "tennis": [
-        {
-         "name": "Tirante T.",
-         "winner": true,
-         "sets": [
-          7,
-          65,
-          6
-         ]
-        },
-        {
-         "name": "Shevchenko A.",
-         "winner": false,
-         "sets": [
-          65,
-          7,
-          3
-         ]
-        }
-       ],
-       "tour": "Stockholm"
-      }
-     }
-    ],
-    "sport": "Tennis",
-    "ticket": "single"
-   }
-  },
-  {
-   "n": 762,
-   "league": "Tennis",
-   "type": "Parlay",
-   "matchup": "WTA Finals 2-leg parlay",
-   "pick": "Coco Gauff ML vs Marta Kostyuk (12:00 PM PT) + Jessica Pegula +1.5 sets vs Linda Noskova (1:30 PM PT)",
-   "odds": -115,
-   "units": 1.0,
-   "gap": null,
-   "start": "2026-11-12T12:00:00",
-   "timed": true,
-   "ticket": "parlay",
-   "espn": {
-    "legs": [
-     {
-      "kind": "ml",
-      "side": "Coco Gauff",
-      "opp": "Marta Kostyuk",
-      "label": "Coco Gauff ML",
-      "path": "tennis/wta",
-      "event": "382-2026",
-      "comp": "187371",
-      "date": "20261112",
-      "snapshot": {
-       "source": "tennis-explorer",
-       "path": "tennis/explorer",
-       "event": "3372299",
-       "state": "post",
-       "detail": "Final \u00b7 2-0 sets",
-       "tennis": [
-        {
-         "name": "Gauff C.",
-         "winner": true,
-         "sets": [
-          6,
-          7
-         ]
-        },
-        {
-         "name": "Kostyuk M.",
-         "winner": false,
-         "sets": [
-          4,
-          5
-         ]
-        }
-       ],
-       "tour": "Masters Cup WTA"
-      }
-     },
-     {
-      "kind": "spread",
-      "side": "Jessica Pegula",
-      "line": 1.5,
-      "unit": "set",
-      "opp": "Linda Noskova",
-      "label": "Jessica Pegula +1.5 sets",
-      "path": "tennis/wta",
-      "event": "382-2026",
-      "comp": "187376",
-      "date": "20261112",
-      "snapshot": {
-       "source": "tennis-explorer",
-       "path": "tennis/explorer",
-       "event": "3370035",
-       "state": "post",
-       "detail": "Final \u00b7 2-1 sets",
-       "tennis": [
-        {
-         "name": "Pegula J.",
-         "winner": true,
-         "sets": [
-          7,
-          4,
-          7
-         ]
-        },
-        {
-         "name": "Noskova L.",
-         "winner": false,
-         "sets": [
-          62,
-          6,
-          5
-         ]
-        }
-       ],
-       "tour": "Masters Cup WTA"
-      }
-     }
-    ],
-    "sport": "Tennis",
-    "ticket": "parlay"
-   }
-  },
-  {
-   "n": 768,
-   "league": "NHL",
-   "type": "Over/Under",
-   "matchup": "Winnipeg Jets @ Dallas Stars",
-   "pick": "Under 5.5",
-   "odds": 102,
-   "units": 1.5,
-   "gap": null,
-   "start": "2026-11-12T17:10:00",
-   "timed": true,
-   "ticket": "single",
-   "espn": {
-    "legs": [
-     {
-      "kind": "total",
-      "side": null,
-      "ou": "U",
-      "line": 5.5,
-      "label": "U 5.5",
-      "path": "hockey/nhl",
-      "event": "401892703",
-      "date": "20261112",
-      "snapshot": {
-       "source": "nhl",
-       "state": "post",
-       "detail": "Final",
-       "start": "2026-11-13T01:00:00Z",
-       "period": 3,
-       "clock": "00:00",
-       "teams": [
-        {
-         "name": "Jets",
-         "short": "WPG",
-         "abbr": "WPG",
-         "score": 8,
-         "ha": "away",
-         "winner": true,
-         "linescores": []
-        },
-        {
-         "name": "Stars",
-         "short": "DAL",
-         "abbr": "DAL",
-         "score": 3,
-         "ha": "home",
-         "winner": false,
-         "linescores": []
-        }
-       ],
-       "nhl_id": 2026020306
-      },
-      "source": "nhl"
-     }
-    ],
-    "sport": "NHL",
-    "ticket": "single"
-   }
-  },
-  {
-   "n": 769,
-   "league": "NCAAB",
-   "type": "Spread",
-   "matchup": "Mercer Bears @ West Virginia Mountaineers",
-   "pick": "Mercer Bears +24.5",
-   "odds": -110,
-   "units": 1.0,
-   "gap": null,
-   "start": "2026-11-12T16:00:00",
-   "timed": true,
-   "ticket": "single",
-   "espn": {
-    "legs": [
-     {
-      "kind": "spread",
-      "side": "Mercer Bears",
-      "line": 24.5,
-      "label": "Mercer Bears +24.5",
-      "path": "basketball/mens-college-basketball",
-      "event": "401921768",
-      "date": "20261112",
-      "snapshot": {
-       "source": "espn",
-       "state": "post",
-       "detail": "Final",
-       "start": "2026-11-13T00:00Z",
-       "period": null,
-       "clock": null,
-       "teams": [
-        {
-         "name": "Mercer Bears",
-         "short": "Bears",
-         "abbr": "MER",
-         "score": 61,
-         "ha": "away",
-         "winner": false,
-         "linescores": [
-          0,
-          0
-         ]
-        },
-        {
-         "name": "West Virginia Mountaineers",
-         "short": "Mountaineers",
-         "abbr": "WVU",
-         "score": 75,
-         "ha": "home",
-         "winner": true,
-         "linescores": [
-          0,
-          0
-         ]
-        }
-       ]
-      },
-      "source": "espn"
-     }
-    ],
-    "sport": "NCAAB",
-    "ticket": "single"
-   }
-  },
-  {
-   "n": 770,
-   "league": "NCAAB",
-   "type": "Over/Under",
-   "matchup": "Mercer Bears @ West Virginia Mountaineers",
-   "pick": "Under 151.5 total points",
-   "odds": -110,
-   "units": 1.0,
-   "gap": null,
-   "start": "2026-11-12T16:00:00",
-   "timed": true,
-   "ticket": "single",
-   "espn": {
-    "legs": [
-     {
-      "kind": "total",
-      "side": null,
-      "ou": "U",
-      "line": 151.5,
-      "label": "U 151.5",
-      "path": "basketball/mens-college-basketball",
-      "event": "401921768",
-      "date": "20261112",
-      "snapshot": {
-       "source": "espn",
-       "state": "post",
-       "detail": "Final",
-       "start": "2026-11-13T00:00Z",
-       "period": null,
-       "clock": null,
-       "teams": [
-        {
-         "name": "Mercer Bears",
-         "short": "Bears",
-         "abbr": "MER",
-         "score": 61,
-         "ha": "away",
-         "winner": false,
-         "linescores": [
-          0,
-          0
-         ]
-        },
-        {
-         "name": "West Virginia Mountaineers",
-         "short": "Mountaineers",
-         "abbr": "WVU",
-         "score": 75,
-         "ha": "home",
-         "winner": true,
-         "linescores": [
-          0,
-          0
-         ]
-        }
-       ]
-      },
-      "source": "espn"
-     }
-    ],
-    "sport": "NCAAB",
-    "ticket": "single"
-   }
-  },
-  {
-   "n": 771,
-   "league": "NCAAB",
-   "type": "Spread",
-   "matchup": "Maryland-Eastern Shore Hawks @ Rhode Island Rams",
-   "pick": "Maryland-Eastern Shore Hawks +24",
-   "odds": -110,
-   "units": 1.0,
-   "gap": null,
-   "start": "2026-11-12T16:00:00",
-   "timed": true,
-   "ticket": "single",
-   "espn": {
-    "legs": [
-     {
-      "kind": "spread",
-      "side": "Maryland-Eastern Shore Hawks",
-      "line": 24.0,
-      "label": "Maryland-Eastern Shore Hawks +24",
-      "path": "basketball/mens-college-basketball",
-      "event": "401920064",
-      "date": "20261112",
-      "snapshot": {
-       "source": "espn",
-       "state": "post",
-       "detail": "Final",
-       "start": "2026-11-13T00:00Z",
-       "period": null,
-       "clock": null,
-       "teams": [
-        {
-         "name": "Maryland Eastern Shore Hawks",
-         "short": "Hawks",
-         "abbr": "UMES",
-         "score": 47,
-         "ha": "away",
-         "winner": false,
-         "linescores": [
-          0,
-          0
-         ]
-        },
-        {
-         "name": "Rhode Island Rams",
-         "short": "Rams",
-         "abbr": "URI",
-         "score": 67,
-         "ha": "home",
-         "winner": true,
-         "linescores": [
-          0,
-          0
-         ]
-        }
-       ]
-      },
-      "source": "espn"
-     }
-    ],
-    "sport": "NCAAB",
-    "ticket": "single"
-   }
-  },
-  {
-   "n": 772,
-   "league": "NCAAB",
-   "type": "Over/Under",
-   "matchup": "Oklahoma St Cowboys @ Texas A&M Aggies",
-   "pick": "Under 179 total points",
-   "odds": -110,
-   "units": 1.0,
-   "gap": null,
-   "start": "2026-11-12T17:00:00",
-   "timed": true,
-   "ticket": "single",
-   "espn": {
-    "legs": [
-     {
-      "kind": "total",
-      "side": null,
-      "ou": "U",
-      "line": 179.0,
-      "label": "U 179.0",
-      "path": "basketball/mens-college-basketball",
-      "event": "401919041",
-      "date": "20261112",
-      "snapshot": {
-       "source": "espn",
-       "state": "post",
-       "detail": "Final",
-       "start": "2026-11-13T01:00Z",
-       "period": null,
-       "clock": null,
-       "teams": [
-        {
-         "name": "Oklahoma State Cowboys",
-         "short": "Cowboys",
-         "abbr": "OKST",
-         "score": 69,
-         "ha": "away",
-         "winner": false,
-         "linescores": [
-          0,
-          0
-         ]
-        },
-        {
-         "name": "Texas A&M Aggies",
-         "short": "Aggies",
-         "abbr": "TA&M",
-         "score": 88,
-         "ha": "home",
-         "winner": true,
-         "linescores": [
-          0,
-          0
-         ]
-        }
-       ]
-      },
-      "source": "espn"
-     }
-    ],
-    "sport": "NCAAB",
-    "ticket": "single"
-   }
-  },
-  {
-   "n": 773,
-   "league": "NHL",
-   "type": "Player Prop",
-   "matchup": "Washington Capitals @ New Jersey Devils",
-   "pick": "Cole Hutson OVER 0.5 points",
-   "odds": 155,
-   "units": 1.0,
-   "gap": null,
-   "start": "2026-11-12T16:00:00",
-   "timed": true,
-   "ticket": "single",
-   "espn": {
-    "legs": [
-     {
-      "kind": "prop",
-      "player": "Cole Hutson",
-      "ou": "O",
-      "line": 0.5,
-      "stat": "points",
-      "label": "Cole Hutson O 0.5 points",
-      "path": "hockey/nhl",
-      "event": "401892700",
-      "date": "20261112",
-      "snapshot": {
-       "source": "nhl",
-       "state": "post",
-       "detail": "Final",
-       "start": "2026-11-13T00:00:00Z",
-       "period": 3,
-       "clock": "00:00",
-       "teams": [
-        {
-         "name": "Capitals",
-         "short": "WSH",
-         "abbr": "WSH",
-         "score": 2,
-         "ha": "away",
-         "winner": false,
-         "linescores": []
-        },
-        {
-         "name": "Devils",
-         "short": "NJD",
-         "abbr": "NJD",
-         "score": 5,
-         "ha": "home",
-         "winner": true,
-         "linescores": []
-        }
-       ],
-       "nhl_id": 2026020303,
-       "stat": {
-        "v": 1,
-        "name": "C. Hutson"
-       }
-      },
-      "source": "nhl"
-     }
-    ],
-    "sport": "NHL",
-    "ticket": "single"
-   }
-  },
-  {
-   "n": 774,
-   "league": "NHL",
-   "type": "Player Prop",
-   "matchup": "Washington Capitals @ New Jersey Devils",
-   "pick": "Luke Evangelista OVER 2.5 shots on goal",
-   "odds": 130,
-   "units": 1.0,
-   "gap": null,
-   "start": "2026-11-12T16:00:00",
-   "timed": true,
-   "ticket": "single",
-   "espn": {
-    "legs": [
-     {
-      "kind": "prop",
-      "player": "Luke Evangelista",
-      "ou": "O",
-      "line": 2.5,
-      "stat": "shots on goal",
-      "label": "Luke Evangelista O 2.5 shots on goal",
-      "path": "hockey/nhl",
-      "event": "401892700",
-      "date": "20261112",
-      "snapshot": {
-       "source": "nhl",
-       "state": "post",
-       "detail": "Final",
-       "start": "2026-11-13T00:00:00Z",
-       "period": 3,
-       "clock": "00:00",
-       "teams": [
-        {
-         "name": "Capitals",
-         "short": "WSH",
-         "abbr": "WSH",
-         "score": 2,
-         "ha": "away",
-         "winner": false,
-         "linescores": []
-        },
-        {
-         "name": "Devils",
-         "short": "NJD",
-         "abbr": "NJD",
-         "score": 5,
-         "ha": "home",
-         "winner": true,
-         "linescores": []
-        }
-       ],
-       "nhl_id": 2026020303,
-       "stat": {
-        "v": 0,
-        "name": "L. Evangelista"
-       }
-      },
-      "source": "nhl"
-     }
-    ],
-    "sport": "NHL",
-    "ticket": "single"
-   }
-  },
-  {
-   "n": 775,
-   "league": "NHL",
-   "type": "Player Prop",
-   "matchup": "Washington Capitals @ New Jersey Devils",
-   "pick": "Dougie Hamilton OVER 2.5 shots on goal",
-   "odds": 155,
-   "units": 1.0,
-   "gap": null,
-   "start": "2026-11-12T16:00:00",
-   "timed": true,
-   "ticket": "single",
-   "espn": {
-    "legs": [
-     {
-      "kind": "prop",
-      "player": "Dougie Hamilton",
-      "ou": "O",
-      "line": 2.5,
-      "stat": "shots on goal",
-      "label": "Dougie Hamilton O 2.5 shots on goal",
-      "path": "hockey/nhl",
-      "event": "401892700",
-      "date": "20261112",
-      "snapshot": {
-       "source": "nhl",
-       "state": "post",
-       "detail": "Final",
-       "start": "2026-11-13T00:00:00Z",
-       "period": 3,
-       "clock": "00:00",
-       "teams": [
-        {
-         "name": "Capitals",
-         "short": "WSH",
-         "abbr": "WSH",
-         "score": 2,
-         "ha": "away",
-         "winner": false,
-         "linescores": []
-        },
-        {
-         "name": "Devils",
-         "short": "NJD",
-         "abbr": "NJD",
-         "score": 5,
-         "ha": "home",
-         "winner": true,
-         "linescores": []
-        }
-       ],
-       "nhl_id": 2026020303,
-       "stat": {
-        "v": 0,
-        "name": "D. Hamilton"
-       }
-      },
-      "source": "nhl"
-     }
-    ],
-    "sport": "NHL",
-    "ticket": "single"
-   }
-  },
-  {
-   "n": 776,
-   "league": "NHL",
-   "type": "Over/Under",
-   "matchup": "Detroit Red Wings @ Florida Panthers",
-   "pick": "Under 6 total goals (full game; even-number total, push at 6)",
-   "odds": -114,
-   "units": 3.0,
-   "gap": null,
-   "start": "2026-11-12T16:40:00",
-   "timed": true,
-   "ticket": "single",
-   "espn": {
-    "legs": [
-     {
-      "kind": "total",
-      "side": null,
-      "ou": "U",
-      "line": 6.0,
-      "label": "U 6.0",
-      "path": "hockey/nhl",
-      "event": "401892699",
-      "date": "20261112",
-      "snapshot": {
-       "source": "nhl",
-       "state": "post",
-       "detail": "Final",
-       "start": "2026-11-13T00:30:00Z",
-       "period": 3,
-       "clock": "00:00",
-       "teams": [
-        {
-         "name": "Red Wings",
-         "short": "DET",
-         "abbr": "DET",
-         "score": 4,
-         "ha": "away",
-         "winner": false,
-         "linescores": []
-        },
-        {
-         "name": "Panthers",
-         "short": "FLA",
-         "abbr": "FLA",
-         "score": 5,
-         "ha": "home",
-         "winner": true,
-         "linescores": []
-        }
-       ],
-       "nhl_id": 2026020302
-      },
-      "source": "nhl"
-     }
-    ],
-    "sport": "NHL",
-    "ticket": "single"
-   }
-  },
-  {
-   "n": 777,
-   "league": "NHL",
-   "type": "Player Prop",
-   "matchup": "St. Louis Blues @ Utah Mammoth",
-   "pick": "MacKenzie Weegar UNDER 1.5 shots on goal",
-   "odds": 115,
-   "units": 1.0,
-   "gap": null,
-   "start": "2026-11-12T18:10:00",
-   "timed": true,
-   "ticket": "single",
-   "espn": {
-    "legs": [
-     {
-      "kind": "prop",
-      "player": "MacKenzie Weegar",
-      "ou": "U",
-      "line": 1.5,
-      "stat": "shots on goal",
-      "label": "MacKenzie Weegar U 1.5 shots on goal",
-      "path": "hockey/nhl",
-      "event": "401892704",
-      "date": "20261112",
-      "snapshot": {
-       "source": "nhl",
-       "state": "post",
-       "detail": "Final/SO",
-       "start": "2026-11-13T02:00:00Z",
-       "period": 5,
-       "clock": "00:00",
-       "teams": [
-        {
-         "name": "Blues",
-         "short": "STL",
-         "abbr": "STL",
-         "score": 1,
-         "ha": "away",
-         "winner": true,
-         "linescores": []
-        },
-        {
-         "name": "Mammoth",
-         "short": "UTA",
-         "abbr": "UTA",
-         "score": 0,
-         "ha": "home",
-         "winner": false,
-         "linescores": []
-        }
-       ],
-       "nhl_id": 2026020307,
-       "stat": {
-        "v": 0,
-        "name": "M. Weegar"
-       }
-      },
-      "source": "nhl"
-     }
-    ],
-    "sport": "NHL",
-    "ticket": "single"
-   }
-  }
- ],
+ "awaiting": [],
  "daily": {
   "2026-10-12": {
    "u": 5.67,
@@ -1602,6 +821,10 @@
   "2026-11-11": {
    "u": 4.64,
    "n": 15
+  },
+  "2026-11-12": {
+   "u": 0.11,
+   "n": 12
   }
  }
 }
