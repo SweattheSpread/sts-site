@@ -1,5 +1,5 @@
 {
- "updated": "Nov 12, 2026, 5:07 PM PT",
+ "updated": "Nov 12, 2026, 5:10 PM PT",
  "record": {
   "w": 152,
   "l": 152,
@@ -127,65 +127,6 @@
   }
  ],
  "picks": [
-  {
-   "n": 768,
-   "league": "NHL",
-   "type": "Over/Under",
-   "matchup": "Winnipeg Jets @ Dallas Stars",
-   "pick": "Under 5.5",
-   "odds": 102,
-   "units": 1.5,
-   "gap": null,
-   "start": "2026-11-12T17:10:00",
-   "timed": true,
-   "ticket": "single",
-   "espn": {
-    "legs": [
-     {
-      "kind": "total",
-      "side": null,
-      "ou": "U",
-      "line": 5.5,
-      "label": "U 5.5",
-      "path": "hockey/nhl",
-      "event": "401892703",
-      "date": "20261112",
-      "snapshot": {
-       "source": "nhl",
-       "state": "pre",
-       "detail": "Scheduled",
-       "start": "2026-11-13T01:00:00Z",
-       "period": null,
-       "clock": null,
-       "teams": [
-        {
-         "name": "Jets",
-         "short": "WPG",
-         "abbr": "WPG",
-         "score": 0,
-         "ha": "away",
-         "winner": null,
-         "linescores": []
-        },
-        {
-         "name": "Stars",
-         "short": "DAL",
-         "abbr": "DAL",
-         "score": 0,
-         "ha": "home",
-         "winner": null,
-         "linescores": []
-        }
-       ],
-       "nhl_id": 2026020306
-      },
-      "source": "nhl"
-     }
-    ],
-    "sport": "NHL",
-    "ticket": "single"
-   }
-  },
   {
    "n": 747,
    "league": "NFL",
@@ -877,11 +818,98 @@
       "path": "tennis/wta",
       "event": "382-2026",
       "comp": "187376",
-      "date": "20261112"
+      "date": "20261112",
+      "snapshot": {
+       "source": "tennis-explorer",
+       "path": "tennis/explorer",
+       "event": "3370035",
+       "state": "post",
+       "detail": "Final \u00b7 2-1 sets",
+       "tennis": [
+        {
+         "name": "Pegula J.",
+         "winner": true,
+         "sets": [
+          7,
+          4,
+          7
+         ]
+        },
+        {
+         "name": "Noskova L.",
+         "winner": false,
+         "sets": [
+          62,
+          6,
+          5
+         ]
+        }
+       ],
+       "tour": "Masters Cup WTA"
+      }
      }
     ],
     "sport": "Tennis",
     "ticket": "parlay"
+   }
+  },
+  {
+   "n": 768,
+   "league": "NHL",
+   "type": "Over/Under",
+   "matchup": "Winnipeg Jets @ Dallas Stars",
+   "pick": "Under 5.5",
+   "odds": 102,
+   "units": 1.5,
+   "gap": null,
+   "start": "2026-11-12T17:10:00",
+   "timed": true,
+   "ticket": "single",
+   "espn": {
+    "legs": [
+     {
+      "kind": "total",
+      "side": null,
+      "ou": "U",
+      "line": 5.5,
+      "label": "U 5.5",
+      "path": "hockey/nhl",
+      "event": "401892703",
+      "date": "20261112",
+      "snapshot": {
+       "source": "nhl",
+       "state": "in",
+       "detail": "P1 19:07",
+       "start": "2026-11-13T01:00:00Z",
+       "period": 1,
+       "clock": "19:07",
+       "teams": [
+        {
+         "name": "Jets",
+         "short": "WPG",
+         "abbr": "WPG",
+         "score": 0,
+         "ha": "away",
+         "winner": null,
+         "linescores": []
+        },
+        {
+         "name": "Stars",
+         "short": "DAL",
+         "abbr": "DAL",
+         "score": 0,
+         "ha": "home",
+         "winner": null,
+         "linescores": []
+        }
+       ],
+       "nhl_id": 2026020306
+      },
+      "source": "nhl"
+     }
+    ],
+    "sport": "NHL",
+    "ticket": "single"
    }
   },
   {
@@ -1032,16 +1060,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "17:48 - 2nd",
+       "detail": "16:17 - 2nd",
        "start": "2026-11-13T00:00Z",
        "period": 2,
-       "clock": "17:48",
+       "clock": "16:17",
        "teams": [
         {
          "name": "Maryland Eastern Shore Hawks",
          "short": "Hawks",
          "abbr": "UMES",
-         "score": 30,
+         "score": 32,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -1053,7 +1081,7 @@
          "name": "Rhode Island Rams",
          "short": "Rams",
          "abbr": "URI",
-         "score": 34,
+         "score": 38,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -1096,16 +1124,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "16:56 - 1st",
+       "detail": "16:36 - 1st",
        "start": "2026-11-13T01:00Z",
        "period": 1,
-       "clock": "16:56",
+       "clock": "16:36",
        "teams": [
         {
          "name": "Oklahoma State Cowboys",
          "short": "Cowboys",
          "abbr": "OKST",
-         "score": 7,
+         "score": 10,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -1159,10 +1187,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P2 16:20",
+       "detail": "P2 14:10",
        "start": "2026-11-13T00:00:00Z",
        "period": 2,
-       "clock": "16:20",
+       "clock": "14:10",
        "teams": [
         {
          "name": "Capitals",
@@ -1223,10 +1251,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P2 16:20",
+       "detail": "P2 14:10",
        "start": "2026-11-13T00:00:00Z",
        "period": 2,
-       "clock": "16:20",
+       "clock": "14:10",
        "teams": [
         {
          "name": "Capitals",
@@ -1287,10 +1315,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P2 16:20",
+       "detail": "P2 14:10",
        "start": "2026-11-13T00:00:00Z",
        "period": 2,
-       "clock": "16:20",
+       "clock": "14:10",
        "teams": [
         {
          "name": "Capitals",
@@ -1350,10 +1378,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P1 05:06",
+       "detail": "P1 03:20",
        "start": "2026-11-13T00:30:00Z",
        "period": 1,
-       "clock": "05:06",
+       "clock": "03:20",
        "teams": [
         {
          "name": "Red Wings",
