@@ -1,5 +1,5 @@
 {
- "updated": "Nov 12, 2026, 4:52 PM PT",
+ "updated": "Nov 12, 2026, 4:54 PM PT",
  "record": {
   "w": 152,
   "l": 152,
@@ -967,16 +967,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "2:46 - 1st",
+       "detail": "1:57 - 1st",
        "start": "2026-11-13T00:00Z",
        "period": 1,
-       "clock": "2:46",
+       "clock": "1:57",
        "teams": [
         {
          "name": "Mercer Bears",
          "short": "Bears",
          "abbr": "MER",
-         "score": 26,
+         "score": 28,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -1029,16 +1029,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "2:46 - 1st",
+       "detail": "1:57 - 1st",
        "start": "2026-11-13T00:00Z",
        "period": 1,
-       "clock": "2:46",
+       "clock": "1:57",
        "teams": [
         {
          "name": "Mercer Bears",
          "short": "Bears",
          "abbr": "MER",
-         "score": 26,
+         "score": 28,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -1153,10 +1153,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P1 08:16",
+       "detail": "P1 06:01",
        "start": "2026-11-13T00:00:00Z",
        "period": 1,
-       "clock": "08:16",
+       "clock": "06:01",
        "teams": [
         {
          "name": "Capitals",
@@ -1217,10 +1217,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P1 08:16",
+       "detail": "P1 06:01",
        "start": "2026-11-13T00:00:00Z",
        "period": 1,
-       "clock": "08:16",
+       "clock": "06:01",
        "teams": [
         {
          "name": "Capitals",
@@ -1281,10 +1281,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P1 08:16",
+       "detail": "P1 06:01",
        "start": "2026-11-13T00:00:00Z",
        "period": 1,
-       "clock": "08:16",
+       "clock": "06:01",
        "teams": [
         {
          "name": "Capitals",
@@ -1344,10 +1344,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P1 11:47",
+       "detail": "P1 11:15",
        "start": "2026-11-13T00:30:00Z",
        "period": 1,
-       "clock": "11:47",
+       "clock": "11:15",
        "teams": [
         {
          "name": "Red Wings",
