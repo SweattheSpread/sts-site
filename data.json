@@ -1,5 +1,5 @@
 {
- "updated": "Nov 12, 2026, 7:07 PM PT",
+ "updated": "Nov 12, 2026, 7:11 PM PT",
  "record": {
   "w": 152,
   "l": 152,
@@ -879,16 +879,16 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P3 20:00",
+       "detail": "P3 19:00",
        "start": "2026-11-13T01:00:00Z",
        "period": 3,
-       "clock": "20:00",
+       "clock": "19:00",
        "teams": [
         {
          "name": "Jets",
          "short": "WPG",
          "abbr": "WPG",
-         "score": 5,
+         "score": 6,
          "ha": "away",
          "winner": null,
          "linescores": []
@@ -1128,16 +1128,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "5:28 - 2nd",
+       "detail": "3:54 - 2nd",
        "start": "2026-11-13T01:00Z",
        "period": 2,
-       "clock": "5:28",
+       "clock": "3:54",
        "teams": [
         {
          "name": "Oklahoma State Cowboys",
          "short": "Cowboys",
          "abbr": "OKST",
-         "score": 64,
+         "score": 66,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -1444,10 +1444,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P2 20:00",
+       "detail": "P2 19:09",
        "start": "2026-11-13T02:00:00Z",
        "period": 2,
-       "clock": "20:00",
+       "clock": "19:09",
        "teams": [
         {
          "name": "Blues",
