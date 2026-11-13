@@ -1,5 +1,5 @@
 {
- "updated": "Nov 12, 2026, 4:23 PM PT",
+ "updated": "Nov 12, 2026, 4:26 PM PT",
  "record": {
   "w": 152,
   "l": 152,
@@ -1026,10 +1026,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "11:20 - 1st",
+       "detail": "11:01 - 1st",
        "start": "2026-11-13T00:00Z",
        "period": 1,
-       "clock": "11:20",
+       "clock": "11:01",
        "teams": [
         {
          "name": "Mercer Bears",
@@ -1046,7 +1046,7 @@
          "name": "West Virginia Mountaineers",
          "short": "Mountaineers",
          "abbr": "WVU",
-         "score": 15,
+         "score": 16,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -1088,10 +1088,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "11:20 - 1st",
+       "detail": "11:01 - 1st",
        "start": "2026-11-13T00:00Z",
        "period": 1,
-       "clock": "11:20",
+       "clock": "11:01",
        "teams": [
         {
          "name": "Mercer Bears",
@@ -1108,7 +1108,7 @@
          "name": "West Virginia Mountaineers",
          "short": "Mountaineers",
          "abbr": "WVU",
-         "score": 15,
+         "score": 16,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -1149,16 +1149,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "11:12 - 1st",
+       "detail": "8:41 - 1st",
        "start": "2026-11-13T00:00Z",
        "period": 1,
-       "clock": "11:12",
+       "clock": "8:41",
        "teams": [
         {
          "name": "Maryland Eastern Shore Hawks",
          "short": "Hawks",
          "abbr": "UMES",
-         "score": 13,
+         "score": 20,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -1212,10 +1212,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P1 10:46",
+       "detail": "P1 08:08",
        "start": "2026-11-13T00:00:00Z",
        "period": 1,
-       "clock": "10:46",
+       "clock": "08:08",
        "teams": [
         {
          "name": "Capitals",
@@ -1276,10 +1276,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P1 10:46",
+       "detail": "P1 08:08",
        "start": "2026-11-13T00:00:00Z",
        "period": 1,
-       "clock": "10:46",
+       "clock": "08:08",
        "teams": [
         {
          "name": "Capitals",
@@ -1340,10 +1340,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P1 10:46",
+       "detail": "P1 08:08",
        "start": "2026-11-13T00:00:00Z",
        "period": 1,
-       "clock": "10:46",
+       "clock": "08:08",
        "teams": [
         {
          "name": "Capitals",
