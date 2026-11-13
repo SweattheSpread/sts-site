@@ -1,5 +1,5 @@
 {
- "updated": "Nov 12, 2026, 3:46 PM PT",
+ "updated": "Nov 12, 2026, 4:03 PM PT",
  "record": {
   "w": 152,
   "l": 152,
@@ -127,358 +127,6 @@
   }
  ],
  "picks": [
-  {
-   "n": 769,
-   "league": "NCAAB",
-   "type": "Spread",
-   "matchup": "Mercer Bears @ West Virginia Mountaineers",
-   "pick": "Mercer Bears +24.5",
-   "odds": -110,
-   "units": 1.0,
-   "gap": null,
-   "start": "2026-11-12T16:00:00",
-   "timed": true,
-   "ticket": "single",
-   "espn": {
-    "legs": [
-     {
-      "kind": "spread",
-      "side": "Mercer Bears",
-      "line": 24.5,
-      "label": "Mercer Bears +24.5",
-      "path": "basketball/mens-college-basketball",
-      "event": "401921768",
-      "date": "20261112",
-      "snapshot": {
-       "source": "espn",
-       "state": "pre",
-       "detail": "11/12 - 7:00 PM EST",
-       "start": "2026-11-13T00:00Z",
-       "period": null,
-       "clock": null,
-       "teams": [
-        {
-         "name": "Mercer Bears",
-         "short": "Bears",
-         "abbr": "MER",
-         "score": 0,
-         "ha": "away",
-         "winner": null,
-         "linescores": []
-        },
-        {
-         "name": "West Virginia Mountaineers",
-         "short": "Mountaineers",
-         "abbr": "WVU",
-         "score": 0,
-         "ha": "home",
-         "winner": null,
-         "linescores": []
-        }
-       ]
-      },
-      "source": "espn"
-     }
-    ],
-    "sport": "NCAAB",
-    "ticket": "single"
-   }
-  },
-  {
-   "n": 770,
-   "league": "NCAAB",
-   "type": "Over/Under",
-   "matchup": "Mercer Bears @ West Virginia Mountaineers",
-   "pick": "Under 151.5 total points",
-   "odds": -110,
-   "units": 1.0,
-   "gap": null,
-   "start": "2026-11-12T16:00:00",
-   "timed": true,
-   "ticket": "single",
-   "espn": {
-    "legs": [
-     {
-      "kind": "total",
-      "side": null,
-      "ou": "U",
-      "line": 151.5,
-      "label": "U 151.5",
-      "path": "basketball/mens-college-basketball",
-      "event": "401921768",
-      "date": "20261112",
-      "snapshot": {
-       "source": "espn",
-       "state": "pre",
-       "detail": "11/12 - 7:00 PM EST",
-       "start": "2026-11-13T00:00Z",
-       "period": null,
-       "clock": null,
-       "teams": [
-        {
-         "name": "Mercer Bears",
-         "short": "Bears",
-         "abbr": "MER",
-         "score": 0,
-         "ha": "away",
-         "winner": null,
-         "linescores": []
-        },
-        {
-         "name": "West Virginia Mountaineers",
-         "short": "Mountaineers",
-         "abbr": "WVU",
-         "score": 0,
-         "ha": "home",
-         "winner": null,
-         "linescores": []
-        }
-       ]
-      },
-      "source": "espn"
-     }
-    ],
-    "sport": "NCAAB",
-    "ticket": "single"
-   }
-  },
-  {
-   "n": 771,
-   "league": "NCAAB",
-   "type": "Spread",
-   "matchup": "Maryland-Eastern Shore Hawks @ Rhode Island Rams",
-   "pick": "Maryland-Eastern Shore Hawks +24",
-   "odds": -110,
-   "units": 1.0,
-   "gap": null,
-   "start": "2026-11-12T16:00:00",
-   "timed": true,
-   "ticket": "single",
-   "espn": {
-    "legs": [
-     {
-      "kind": "spread",
-      "side": "Maryland-Eastern Shore Hawks",
-      "line": 24.0,
-      "label": "Maryland-Eastern Shore Hawks +24",
-      "path": "basketball/mens-college-basketball",
-      "event": "401920064",
-      "date": "20261112",
-      "snapshot": {
-       "source": "espn",
-       "state": "pre",
-       "detail": "11/12 - 7:00 PM EST",
-       "start": "2026-11-13T00:00Z",
-       "period": null,
-       "clock": null,
-       "teams": [
-        {
-         "name": "Maryland Eastern Shore Hawks",
-         "short": "Hawks",
-         "abbr": "UMES",
-         "score": 0,
-         "ha": "away",
-         "winner": null,
-         "linescores": []
-        },
-        {
-         "name": "Rhode Island Rams",
-         "short": "Rams",
-         "abbr": "URI",
-         "score": 0,
-         "ha": "home",
-         "winner": null,
-         "linescores": []
-        }
-       ]
-      },
-      "source": "espn"
-     }
-    ],
-    "sport": "NCAAB",
-    "ticket": "single"
-   }
-  },
-  {
-   "n": 773,
-   "league": "NHL",
-   "type": "Player Prop",
-   "matchup": "Washington Capitals @ New Jersey Devils",
-   "pick": "Cole Hutson OVER 0.5 points",
-   "odds": 155,
-   "units": 1.0,
-   "gap": null,
-   "start": "2026-11-12T16:00:00",
-   "timed": true,
-   "ticket": "single",
-   "espn": {
-    "legs": [
-     {
-      "kind": "prop",
-      "player": "Cole Hutson",
-      "ou": "O",
-      "line": 0.5,
-      "stat": "points",
-      "label": "Cole Hutson O 0.5 points",
-      "date": "20261112",
-      "unverified": true,
-      "reason": "Player not found in this game",
-      "snapshot": {
-       "source": "nhl",
-       "state": "pre",
-       "detail": "Scheduled",
-       "start": "2026-11-13T00:00:00Z",
-       "period": null,
-       "clock": null,
-       "teams": [
-        {
-         "name": "Capitals",
-         "short": "WSH",
-         "abbr": "WSH",
-         "score": 0,
-         "ha": "away",
-         "winner": null,
-         "linescores": []
-        },
-        {
-         "name": "Devils",
-         "short": "NJD",
-         "abbr": "NJD",
-         "score": 0,
-         "ha": "home",
-         "winner": null,
-         "linescores": []
-        }
-       ],
-       "nhl_id": 2026020303
-      },
-      "source": "nhl"
-     }
-    ],
-    "sport": "NHL",
-    "ticket": "single"
-   }
-  },
-  {
-   "n": 774,
-   "league": "NHL",
-   "type": "Player Prop",
-   "matchup": "Washington Capitals @ New Jersey Devils",
-   "pick": "Luke Evangelista OVER 2.5 shots on goal",
-   "odds": 130,
-   "units": 1.0,
-   "gap": null,
-   "start": "2026-11-12T16:00:00",
-   "timed": true,
-   "ticket": "single",
-   "espn": {
-    "legs": [
-     {
-      "kind": "prop",
-      "player": "Luke Evangelista",
-      "ou": "O",
-      "line": 2.5,
-      "stat": "shots on goal",
-      "label": "Luke Evangelista O 2.5 shots on goal",
-      "date": "20261112",
-      "unverified": true,
-      "reason": "Player not found in this game",
-      "snapshot": {
-       "source": "nhl",
-       "state": "pre",
-       "detail": "Scheduled",
-       "start": "2026-11-13T00:00:00Z",
-       "period": null,
-       "clock": null,
-       "teams": [
-        {
-         "name": "Capitals",
-         "short": "WSH",
-         "abbr": "WSH",
-         "score": 0,
-         "ha": "away",
-         "winner": null,
-         "linescores": []
-        },
-        {
-         "name": "Devils",
-         "short": "NJD",
-         "abbr": "NJD",
-         "score": 0,
-         "ha": "home",
-         "winner": null,
-         "linescores": []
-        }
-       ],
-       "nhl_id": 2026020303
-      },
-      "source": "nhl"
-     }
-    ],
-    "sport": "NHL",
-    "ticket": "single"
-   }
-  },
-  {
-   "n": 775,
-   "league": "NHL",
-   "type": "Player Prop",
-   "matchup": "Washington Capitals @ New Jersey Devils",
-   "pick": "Dougie Hamilton OVER 2.5 shots on goal",
-   "odds": 155,
-   "units": 1.0,
-   "gap": null,
-   "start": "2026-11-12T16:00:00",
-   "timed": true,
-   "ticket": "single",
-   "espn": {
-    "legs": [
-     {
-      "kind": "prop",
-      "player": "Dougie Hamilton",
-      "ou": "O",
-      "line": 2.5,
-      "stat": "shots on goal",
-      "label": "Dougie Hamilton O 2.5 shots on goal",
-      "date": "20261112",
-      "unverified": true,
-      "reason": "Player not found in this game",
-      "snapshot": {
-       "source": "nhl",
-       "state": "pre",
-       "detail": "Scheduled",
-       "start": "2026-11-13T00:00:00Z",
-       "period": null,
-       "clock": null,
-       "teams": [
-        {
-         "name": "Capitals",
-         "short": "WSH",
-         "abbr": "WSH",
-         "score": 0,
-         "ha": "away",
-         "winner": null,
-         "linescores": []
-        },
-        {
-         "name": "Devils",
-         "short": "NJD",
-         "abbr": "NJD",
-         "score": 0,
-         "ha": "home",
-         "winner": null,
-         "linescores": []
-        }
-       ],
-       "nhl_id": 2026020303
-      },
-      "source": "nhl"
-     }
-    ],
-    "sport": "NHL",
-    "ticket": "single"
-   }
-  },
   {
    "n": 776,
    "league": "NHL",
@@ -1351,6 +999,370 @@
     ],
     "sport": "Tennis",
     "ticket": "parlay"
+   }
+  },
+  {
+   "n": 769,
+   "league": "NCAAB",
+   "type": "Spread",
+   "matchup": "Mercer Bears @ West Virginia Mountaineers",
+   "pick": "Mercer Bears +24.5",
+   "odds": -110,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-12T16:00:00",
+   "timed": true,
+   "ticket": "single",
+   "espn": {
+    "legs": [
+     {
+      "kind": "spread",
+      "side": "Mercer Bears",
+      "line": 24.5,
+      "label": "Mercer Bears +24.5",
+      "path": "basketball/mens-college-basketball",
+      "event": "401921768",
+      "date": "20261112",
+      "snapshot": {
+       "source": "espn",
+       "state": "in",
+       "detail": "19:23 - 1st",
+       "start": "2026-11-13T00:00Z",
+       "period": 1,
+       "clock": "19:23",
+       "teams": [
+        {
+         "name": "Mercer Bears",
+         "short": "Bears",
+         "abbr": "MER",
+         "score": 0,
+         "ha": "away",
+         "winner": null,
+         "linescores": [
+          0
+         ]
+        },
+        {
+         "name": "West Virginia Mountaineers",
+         "short": "Mountaineers",
+         "abbr": "WVU",
+         "score": 3,
+         "ha": "home",
+         "winner": null,
+         "linescores": [
+          0
+         ]
+        }
+       ]
+      },
+      "source": "espn"
+     }
+    ],
+    "sport": "NCAAB",
+    "ticket": "single"
+   }
+  },
+  {
+   "n": 770,
+   "league": "NCAAB",
+   "type": "Over/Under",
+   "matchup": "Mercer Bears @ West Virginia Mountaineers",
+   "pick": "Under 151.5 total points",
+   "odds": -110,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-12T16:00:00",
+   "timed": true,
+   "ticket": "single",
+   "espn": {
+    "legs": [
+     {
+      "kind": "total",
+      "side": null,
+      "ou": "U",
+      "line": 151.5,
+      "label": "U 151.5",
+      "path": "basketball/mens-college-basketball",
+      "event": "401921768",
+      "date": "20261112",
+      "snapshot": {
+       "source": "espn",
+       "state": "in",
+       "detail": "19:23 - 1st",
+       "start": "2026-11-13T00:00Z",
+       "period": 1,
+       "clock": "19:23",
+       "teams": [
+        {
+         "name": "Mercer Bears",
+         "short": "Bears",
+         "abbr": "MER",
+         "score": 0,
+         "ha": "away",
+         "winner": null,
+         "linescores": [
+          0
+         ]
+        },
+        {
+         "name": "West Virginia Mountaineers",
+         "short": "Mountaineers",
+         "abbr": "WVU",
+         "score": 3,
+         "ha": "home",
+         "winner": null,
+         "linescores": [
+          0
+         ]
+        }
+       ]
+      },
+      "source": "espn"
+     }
+    ],
+    "sport": "NCAAB",
+    "ticket": "single"
+   }
+  },
+  {
+   "n": 771,
+   "league": "NCAAB",
+   "type": "Spread",
+   "matchup": "Maryland-Eastern Shore Hawks @ Rhode Island Rams",
+   "pick": "Maryland-Eastern Shore Hawks +24",
+   "odds": -110,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-12T16:00:00",
+   "timed": true,
+   "ticket": "single",
+   "espn": {
+    "legs": [
+     {
+      "kind": "spread",
+      "side": "Maryland-Eastern Shore Hawks",
+      "line": 24.0,
+      "label": "Maryland-Eastern Shore Hawks +24",
+      "path": "basketball/mens-college-basketball",
+      "event": "401920064",
+      "date": "20261112",
+      "snapshot": {
+       "source": "espn",
+       "state": "in",
+       "detail": "19:40 - 1st",
+       "start": "2026-11-13T00:00Z",
+       "period": 1,
+       "clock": "19:40",
+       "teams": [
+        {
+         "name": "Maryland Eastern Shore Hawks",
+         "short": "Hawks",
+         "abbr": "UMES",
+         "score": 0,
+         "ha": "away",
+         "winner": null,
+         "linescores": [
+          0
+         ]
+        },
+        {
+         "name": "Rhode Island Rams",
+         "short": "Rams",
+         "abbr": "URI",
+         "score": 0,
+         "ha": "home",
+         "winner": null,
+         "linescores": [
+          0
+         ]
+        }
+       ]
+      },
+      "source": "espn"
+     }
+    ],
+    "sport": "NCAAB",
+    "ticket": "single"
+   }
+  },
+  {
+   "n": 773,
+   "league": "NHL",
+   "type": "Player Prop",
+   "matchup": "Washington Capitals @ New Jersey Devils",
+   "pick": "Cole Hutson OVER 0.5 points",
+   "odds": 155,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-12T16:00:00",
+   "timed": true,
+   "ticket": "single",
+   "espn": {
+    "legs": [
+     {
+      "kind": "prop",
+      "player": "Cole Hutson",
+      "ou": "O",
+      "line": 0.5,
+      "stat": "points",
+      "label": "Cole Hutson O 0.5 points",
+      "date": "20261112",
+      "unverified": true,
+      "reason": "Player not found in this game",
+      "snapshot": {
+       "source": "nhl",
+       "state": "pre",
+       "detail": "Scheduled",
+       "start": "2026-11-13T00:00:00Z",
+       "period": null,
+       "clock": null,
+       "teams": [
+        {
+         "name": "Capitals",
+         "short": "WSH",
+         "abbr": "WSH",
+         "score": 0,
+         "ha": "away",
+         "winner": null,
+         "linescores": []
+        },
+        {
+         "name": "Devils",
+         "short": "NJD",
+         "abbr": "NJD",
+         "score": 0,
+         "ha": "home",
+         "winner": null,
+         "linescores": []
+        }
+       ],
+       "nhl_id": 2026020303
+      },
+      "source": "nhl"
+     }
+    ],
+    "sport": "NHL",
+    "ticket": "single"
+   }
+  },
+  {
+   "n": 774,
+   "league": "NHL",
+   "type": "Player Prop",
+   "matchup": "Washington Capitals @ New Jersey Devils",
+   "pick": "Luke Evangelista OVER 2.5 shots on goal",
+   "odds": 130,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-12T16:00:00",
+   "timed": true,
+   "ticket": "single",
+   "espn": {
+    "legs": [
+     {
+      "kind": "prop",
+      "player": "Luke Evangelista",
+      "ou": "O",
+      "line": 2.5,
+      "stat": "shots on goal",
+      "label": "Luke Evangelista O 2.5 shots on goal",
+      "date": "20261112",
+      "unverified": true,
+      "reason": "Player not found in this game",
+      "snapshot": {
+       "source": "nhl",
+       "state": "pre",
+       "detail": "Scheduled",
+       "start": "2026-11-13T00:00:00Z",
+       "period": null,
+       "clock": null,
+       "teams": [
+        {
+         "name": "Capitals",
+         "short": "WSH",
+         "abbr": "WSH",
+         "score": 0,
+         "ha": "away",
+         "winner": null,
+         "linescores": []
+        },
+        {
+         "name": "Devils",
+         "short": "NJD",
+         "abbr": "NJD",
+         "score": 0,
+         "ha": "home",
+         "winner": null,
+         "linescores": []
+        }
+       ],
+       "nhl_id": 2026020303
+      },
+      "source": "nhl"
+     }
+    ],
+    "sport": "NHL",
+    "ticket": "single"
+   }
+  },
+  {
+   "n": 775,
+   "league": "NHL",
+   "type": "Player Prop",
+   "matchup": "Washington Capitals @ New Jersey Devils",
+   "pick": "Dougie Hamilton OVER 2.5 shots on goal",
+   "odds": 155,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-12T16:00:00",
+   "timed": true,
+   "ticket": "single",
+   "espn": {
+    "legs": [
+     {
+      "kind": "prop",
+      "player": "Dougie Hamilton",
+      "ou": "O",
+      "line": 2.5,
+      "stat": "shots on goal",
+      "label": "Dougie Hamilton O 2.5 shots on goal",
+      "date": "20261112",
+      "unverified": true,
+      "reason": "Player not found in this game",
+      "snapshot": {
+       "source": "nhl",
+       "state": "pre",
+       "detail": "Scheduled",
+       "start": "2026-11-13T00:00:00Z",
+       "period": null,
+       "clock": null,
+       "teams": [
+        {
+         "name": "Capitals",
+         "short": "WSH",
+         "abbr": "WSH",
+         "score": 0,
+         "ha": "away",
+         "winner": null,
+         "linescores": []
+        },
+        {
+         "name": "Devils",
+         "short": "NJD",
+         "abbr": "NJD",
+         "score": 0,
+         "ha": "home",
+         "winner": null,
+         "linescores": []
+        }
+       ],
+       "nhl_id": 2026020303
+      },
+      "source": "nhl"
+     }
+    ],
+    "sport": "NHL",
+    "ticket": "single"
    }
   }
  ],
