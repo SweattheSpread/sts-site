@@ -1,5 +1,5 @@
 {
- "updated": "Nov 12, 2026, 5:35 PM PT",
+ "updated": "Nov 12, 2026, 5:37 PM PT",
  "record": {
   "w": 152,
   "l": 152,
@@ -939,10 +939,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P1 06:07",
+       "detail": "P1 04:29",
        "start": "2026-11-13T01:00:00Z",
        "period": 1,
-       "clock": "06:07",
+       "clock": "04:29",
        "teams": [
         {
          "name": "Jets",
@@ -997,10 +997,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "11:47 - 2nd",
+       "detail": "11:32 - 2nd",
        "start": "2026-11-13T00:00Z",
        "period": 2,
-       "clock": "11:47",
+       "clock": "11:32",
        "teams": [
         {
          "name": "Mercer Bears",
@@ -1061,10 +1061,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "11:47 - 2nd",
+       "detail": "11:32 - 2nd",
        "start": "2026-11-13T00:00Z",
        "period": 2,
-       "clock": "11:47",
+       "clock": "11:32",
        "teams": [
         {
          "name": "Mercer Bears",
@@ -1124,10 +1124,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "4:40 - 2nd",
+       "detail": "3:38 - 2nd",
        "start": "2026-11-13T00:00Z",
        "period": 2,
-       "clock": "4:40",
+       "clock": "3:38",
        "teams": [
         {
          "name": "Maryland Eastern Shore Hawks",
@@ -1188,10 +1188,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "8:26 - 1st",
+       "detail": "7:57 - 1st",
        "start": "2026-11-13T01:00Z",
        "period": 1,
-       "clock": "8:26",
+       "clock": "7:57",
        "teams": [
         {
          "name": "Oklahoma State Cowboys",
@@ -1251,10 +1251,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P2 04:01",
+       "detail": "P2 02:22",
        "start": "2026-11-13T00:00:00Z",
        "period": 2,
-       "clock": "04:01",
+       "clock": "02:22",
        "teams": [
         {
          "name": "Capitals",
@@ -1315,10 +1315,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P2 04:01",
+       "detail": "P2 02:22",
        "start": "2026-11-13T00:00:00Z",
        "period": 2,
-       "clock": "04:01",
+       "clock": "02:22",
        "teams": [
         {
          "name": "Capitals",
@@ -1379,10 +1379,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P2 04:01",
+       "detail": "P2 02:22",
        "start": "2026-11-13T00:00:00Z",
        "period": 2,
-       "clock": "04:01",
+       "clock": "02:22",
        "teams": [
         {
          "name": "Capitals",
@@ -1442,16 +1442,16 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P2 19:43",
+       "detail": "P2 18:22",
        "start": "2026-11-13T00:30:00Z",
        "period": 2,
-       "clock": "19:43",
+       "clock": "18:22",
        "teams": [
         {
          "name": "Red Wings",
          "short": "DET",
          "abbr": "DET",
-         "score": 2,
+         "score": 3,
          "ha": "away",
          "winner": null,
          "linescores": []
