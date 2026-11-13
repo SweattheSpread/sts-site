@@ -1,5 +1,5 @@
 {
- "updated": "Nov 12, 2026, 5:40 PM PT",
+ "updated": "Nov 12, 2026, 5:43 PM PT",
  "record": {
   "w": 152,
   "l": 152,
@@ -939,16 +939,16 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P1 04:27",
+       "detail": "P1 03:21",
        "start": "2026-11-13T01:00:00Z",
        "period": 1,
-       "clock": "04:27",
+       "clock": "03:21",
        "teams": [
         {
          "name": "Jets",
          "short": "WPG",
          "abbr": "WPG",
-         "score": 0,
+         "score": 1,
          "ha": "away",
          "winner": null,
          "linescores": []
@@ -997,10 +997,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "10:28 - 2nd",
+       "detail": "9:20 - 2nd",
        "start": "2026-11-13T00:00Z",
        "period": 2,
-       "clock": "10:28",
+       "clock": "9:20",
        "teams": [
         {
          "name": "Mercer Bears",
@@ -1018,7 +1018,7 @@
          "name": "West Virginia Mountaineers",
          "short": "Mountaineers",
          "abbr": "WVU",
-         "score": 52,
+         "score": 55,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -1061,10 +1061,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "10:28 - 2nd",
+       "detail": "9:20 - 2nd",
        "start": "2026-11-13T00:00Z",
        "period": 2,
-       "clock": "10:28",
+       "clock": "9:20",
        "teams": [
         {
          "name": "Mercer Bears",
@@ -1082,7 +1082,7 @@
          "name": "West Virginia Mountaineers",
          "short": "Mountaineers",
          "abbr": "WVU",
-         "score": 52,
+         "score": 55,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -1124,10 +1124,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "3:38 - 2nd",
+       "detail": "2:10 - 2nd",
        "start": "2026-11-13T00:00Z",
        "period": 2,
-       "clock": "3:38",
+       "clock": "2:10",
        "teams": [
         {
          "name": "Maryland Eastern Shore Hawks",
@@ -1188,16 +1188,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "7:54 - 1st",
+       "detail": "5:53 - 1st",
        "start": "2026-11-13T01:00Z",
        "period": 1,
-       "clock": "7:54",
+       "clock": "5:53",
        "teams": [
         {
          "name": "Oklahoma State Cowboys",
          "short": "Cowboys",
          "abbr": "OKST",
-         "score": 22,
+         "score": 27,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -1208,7 +1208,7 @@
          "name": "Texas A&M Aggies",
          "short": "Aggies",
          "abbr": "TA&M",
-         "score": 27,
+         "score": 32,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -1251,10 +1251,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P2 01:18",
+       "detail": "P2 15:02",
        "start": "2026-11-13T00:00:00Z",
        "period": 2,
-       "clock": "01:18",
+       "clock": "15:02",
        "teams": [
         {
          "name": "Capitals",
@@ -1315,10 +1315,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P2 01:18",
+       "detail": "P2 15:02",
        "start": "2026-11-13T00:00:00Z",
        "period": 2,
-       "clock": "01:18",
+       "clock": "15:02",
        "teams": [
         {
          "name": "Capitals",
@@ -1379,10 +1379,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P2 01:18",
+       "detail": "P2 15:02",
        "start": "2026-11-13T00:00:00Z",
        "period": 2,
-       "clock": "01:18",
+       "clock": "15:02",
        "teams": [
         {
          "name": "Capitals",
@@ -1442,10 +1442,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P2 16:38",
+       "detail": "P2 15:02",
        "start": "2026-11-13T00:30:00Z",
        "period": 2,
-       "clock": "16:38",
+       "clock": "15:02",
        "teams": [
         {
          "name": "Red Wings",
