@@ -1,5 +1,5 @@
 {
- "updated": "Nov 12, 2026, 6:09 PM PT",
+ "updated": "Nov 12, 2026, 6:12 PM PT",
  "record": {
   "w": 152,
   "l": 152,
@@ -127,70 +127,6 @@
   }
  ],
  "picks": [
-  {
-   "n": 777,
-   "league": "NHL",
-   "type": "Player Prop",
-   "matchup": "St. Louis Blues @ Utah Mammoth",
-   "pick": "MacKenzie Weegar UNDER 1.5 shots on goal",
-   "odds": 115,
-   "units": 1.0,
-   "gap": null,
-   "start": "2026-11-12T18:10:00",
-   "timed": true,
-   "ticket": "single",
-   "espn": {
-    "legs": [
-     {
-      "kind": "prop",
-      "player": "MacKenzie Weegar",
-      "ou": "U",
-      "line": 1.5,
-      "stat": "shots on goal",
-      "label": "MacKenzie Weegar U 1.5 shots on goal",
-      "path": "hockey/nhl",
-      "event": "401892704",
-      "date": "20261112",
-      "snapshot": {
-       "source": "nhl",
-       "state": "in",
-       "detail": "P1 19:18",
-       "start": "2026-11-13T02:00:00Z",
-       "period": 1,
-       "clock": "19:18",
-       "teams": [
-        {
-         "name": "Blues",
-         "short": "STL",
-         "abbr": "STL",
-         "score": 0,
-         "ha": "away",
-         "winner": null,
-         "linescores": []
-        },
-        {
-         "name": "Mammoth",
-         "short": "UTA",
-         "abbr": "UTA",
-         "score": 0,
-         "ha": "home",
-         "winner": null,
-         "linescores": []
-        }
-       ],
-       "nhl_id": 2026020307,
-       "stat": {
-        "v": 0,
-        "name": "M. Weegar"
-       }
-      },
-      "source": "nhl"
-     }
-    ],
-    "sport": "NHL",
-    "ticket": "single"
-   }
-  },
   {
    "n": 747,
    "league": "NFL",
@@ -943,16 +879,16 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P2 20:00",
+       "detail": "P2 18:49",
        "start": "2026-11-13T01:00:00Z",
        "period": 2,
-       "clock": "20:00",
+       "clock": "18:49",
        "teams": [
         {
          "name": "Jets",
          "short": "WPG",
          "abbr": "WPG",
-         "score": 0,
+         "score": 1,
          "ha": "away",
          "winner": null,
          "linescores": []
@@ -1000,11 +936,11 @@
       "date": "20261112",
       "snapshot": {
        "source": "espn",
-       "state": "in",
-       "detail": "0:00 - 2nd",
+       "state": "post",
+       "detail": "Final",
        "start": "2026-11-13T00:00Z",
-       "period": 2,
-       "clock": "0:00",
+       "period": null,
+       "clock": null,
        "teams": [
         {
          "name": "Mercer Bears",
@@ -1012,7 +948,7 @@
          "abbr": "MER",
          "score": 61,
          "ha": "away",
-         "winner": null,
+         "winner": false,
          "linescores": [
           0,
           0
@@ -1024,7 +960,7 @@
          "abbr": "WVU",
          "score": 75,
          "ha": "home",
-         "winner": null,
+         "winner": true,
          "linescores": [
           0,
           0
@@ -1064,11 +1000,11 @@
       "date": "20261112",
       "snapshot": {
        "source": "espn",
-       "state": "in",
-       "detail": "0:00 - 2nd",
+       "state": "post",
+       "detail": "Final",
        "start": "2026-11-13T00:00Z",
-       "period": 2,
-       "clock": "0:00",
+       "period": null,
+       "clock": null,
        "teams": [
         {
          "name": "Mercer Bears",
@@ -1076,7 +1012,7 @@
          "abbr": "MER",
          "score": 61,
          "ha": "away",
-         "winner": null,
+         "winner": false,
          "linescores": [
           0,
           0
@@ -1088,7 +1024,7 @@
          "abbr": "WVU",
          "score": 75,
          "ha": "home",
-         "winner": null,
+         "winner": true,
          "linescores": [
           0,
           0
@@ -1255,10 +1191,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P3 14:11",
+       "detail": "P3 13:29",
        "start": "2026-11-13T00:00:00Z",
        "period": 3,
-       "clock": "14:11",
+       "clock": "13:29",
        "teams": [
         {
          "name": "Capitals",
@@ -1273,7 +1209,7 @@
          "name": "Devils",
          "short": "NJD",
          "abbr": "NJD",
-         "score": 2,
+         "score": 3,
          "ha": "home",
          "winner": null,
          "linescores": []
@@ -1319,10 +1255,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P3 14:11",
+       "detail": "P3 13:29",
        "start": "2026-11-13T00:00:00Z",
        "period": 3,
-       "clock": "14:11",
+       "clock": "13:29",
        "teams": [
         {
          "name": "Capitals",
@@ -1337,7 +1273,7 @@
          "name": "Devils",
          "short": "NJD",
          "abbr": "NJD",
-         "score": 2,
+         "score": 3,
          "ha": "home",
          "winner": null,
          "linescores": []
@@ -1383,10 +1319,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P3 14:11",
+       "detail": "P3 13:29",
        "start": "2026-11-13T00:00:00Z",
        "period": 3,
-       "clock": "14:11",
+       "clock": "13:29",
        "teams": [
         {
          "name": "Capitals",
@@ -1401,7 +1337,7 @@
          "name": "Devils",
          "short": "NJD",
          "abbr": "NJD",
-         "score": 2,
+         "score": 3,
          "ha": "home",
          "winner": null,
          "linescores": []
@@ -1446,10 +1382,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P2 00:31",
+       "detail": "P2 16:11",
        "start": "2026-11-13T00:30:00Z",
        "period": 2,
-       "clock": "00:31",
+       "clock": "16:11",
        "teams": [
         {
          "name": "Red Wings",
@@ -1464,13 +1400,77 @@
          "name": "Panthers",
          "short": "FLA",
          "abbr": "FLA",
-         "score": 1,
+         "score": 2,
          "ha": "home",
          "winner": null,
          "linescores": []
         }
        ],
        "nhl_id": 2026020302
+      },
+      "source": "nhl"
+     }
+    ],
+    "sport": "NHL",
+    "ticket": "single"
+   }
+  },
+  {
+   "n": 777,
+   "league": "NHL",
+   "type": "Player Prop",
+   "matchup": "St. Louis Blues @ Utah Mammoth",
+   "pick": "MacKenzie Weegar UNDER 1.5 shots on goal",
+   "odds": 115,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-12T18:10:00",
+   "timed": true,
+   "ticket": "single",
+   "espn": {
+    "legs": [
+     {
+      "kind": "prop",
+      "player": "MacKenzie Weegar",
+      "ou": "U",
+      "line": 1.5,
+      "stat": "shots on goal",
+      "label": "MacKenzie Weegar U 1.5 shots on goal",
+      "path": "hockey/nhl",
+      "event": "401892704",
+      "date": "20261112",
+      "snapshot": {
+       "source": "nhl",
+       "state": "in",
+       "detail": "P1 18:04",
+       "start": "2026-11-13T02:00:00Z",
+       "period": 1,
+       "clock": "18:04",
+       "teams": [
+        {
+         "name": "Blues",
+         "short": "STL",
+         "abbr": "STL",
+         "score": 0,
+         "ha": "away",
+         "winner": null,
+         "linescores": []
+        },
+        {
+         "name": "Mammoth",
+         "short": "UTA",
+         "abbr": "UTA",
+         "score": 0,
+         "ha": "home",
+         "winner": null,
+         "linescores": []
+        }
+       ],
+       "nhl_id": 2026020307,
+       "stat": {
+        "v": 0,
+        "name": "M. Weegar"
+       }
       },
       "source": "nhl"
      }
