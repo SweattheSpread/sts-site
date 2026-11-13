@@ -1,5 +1,5 @@
 {
- "updated": "Nov 12, 2026, 6:59 PM PT",
+ "updated": "Nov 12, 2026, 7:07 PM PT",
  "record": {
   "w": 152,
   "l": 152,
@@ -879,10 +879,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P2 01:39",
+       "detail": "P3 20:00",
        "start": "2026-11-13T01:00:00Z",
-       "period": 2,
-       "clock": "01:39",
+       "period": 3,
+       "clock": "20:00",
        "teams": [
         {
          "name": "Jets",
@@ -1128,16 +1128,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "6:38 - 2nd",
+       "detail": "5:28 - 2nd",
        "start": "2026-11-13T01:00Z",
        "period": 2,
-       "clock": "6:38",
+       "clock": "5:28",
        "teams": [
         {
          "name": "Oklahoma State Cowboys",
          "short": "Cowboys",
          "abbr": "OKST",
-         "score": 63,
+         "score": 64,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -1149,7 +1149,7 @@
          "name": "Texas A&M Aggies",
          "short": "Aggies",
          "abbr": "TA&M",
-         "score": 75,
+         "score": 81,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -1383,11 +1383,11 @@
       "date": "20261112",
       "snapshot": {
        "source": "nhl",
-       "state": "in",
-       "detail": "P3 00:42",
+       "state": "post",
+       "detail": "Final",
        "start": "2026-11-13T00:30:00Z",
        "period": 3,
-       "clock": "00:42",
+       "clock": "00:00",
        "teams": [
         {
          "name": "Red Wings",
@@ -1395,7 +1395,7 @@
          "abbr": "DET",
          "score": 4,
          "ha": "away",
-         "winner": null,
+         "winner": false,
          "linescores": []
         },
         {
@@ -1404,7 +1404,7 @@
          "abbr": "FLA",
          "score": 5,
          "ha": "home",
-         "winner": null,
+         "winner": true,
          "linescores": []
         }
        ],
@@ -1444,10 +1444,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P1 02:04",
+       "detail": "P2 20:00",
        "start": "2026-11-13T02:00:00Z",
-       "period": 1,
-       "clock": "02:04",
+       "period": 2,
+       "clock": "20:00",
        "teams": [
         {
          "name": "Blues",
