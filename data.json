@@ -1,5 +1,5 @@
 {
- "updated": "Nov 12, 2026, 4:28 PM PT",
+ "updated": "Nov 12, 2026, 4:32 PM PT",
  "record": {
   "w": 152,
   "l": 152,
@@ -1026,16 +1026,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "9:12 - 1st",
+       "detail": "8:47 - 1st",
        "start": "2026-11-13T00:00Z",
        "period": 1,
-       "clock": "9:12",
+       "clock": "8:47",
        "teams": [
         {
          "name": "Mercer Bears",
          "short": "Bears",
          "abbr": "MER",
-         "score": 14,
+         "score": 15,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -1088,16 +1088,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "9:12 - 1st",
+       "detail": "8:47 - 1st",
        "start": "2026-11-13T00:00Z",
        "period": 1,
-       "clock": "9:12",
+       "clock": "8:47",
        "teams": [
         {
          "name": "Mercer Bears",
          "short": "Bears",
          "abbr": "MER",
-         "score": 14,
+         "score": 15,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -1149,10 +1149,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "7:56 - 1st",
+       "detail": "7:09 - 1st",
        "start": "2026-11-13T00:00Z",
        "period": 1,
-       "clock": "7:56",
+       "clock": "7:09",
        "teams": [
         {
          "name": "Maryland Eastern Shore Hawks",
@@ -1169,7 +1169,7 @@
          "name": "Rhode Island Rams",
          "short": "Rams",
          "abbr": "URI",
-         "score": 15,
+         "score": 17,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -1212,10 +1212,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P1 07:16",
+       "detail": "P1 06:16",
        "start": "2026-11-13T00:00:00Z",
        "period": 1,
-       "clock": "07:16",
+       "clock": "06:16",
        "teams": [
         {
          "name": "Capitals",
@@ -1276,10 +1276,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P1 07:16",
+       "detail": "P1 06:16",
        "start": "2026-11-13T00:00:00Z",
        "period": 1,
-       "clock": "07:16",
+       "clock": "06:16",
        "teams": [
         {
          "name": "Capitals",
@@ -1340,10 +1340,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P1 07:16",
+       "detail": "P1 06:16",
        "start": "2026-11-13T00:00:00Z",
        "period": 1,
-       "clock": "07:16",
+       "clock": "06:16",
        "teams": [
         {
          "name": "Capitals",
