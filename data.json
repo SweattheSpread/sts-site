@@ -1,5 +1,5 @@
 {
- "updated": "Nov 12, 2026, 4:32 PM PT",
+ "updated": "Nov 12, 2026, 4:40 PM PT",
  "record": {
   "w": 152,
   "l": 152,
@@ -127,65 +127,6 @@
   }
  ],
  "picks": [
-  {
-   "n": 776,
-   "league": "NHL",
-   "type": "Over/Under",
-   "matchup": "Detroit Red Wings @ Florida Panthers",
-   "pick": "Under 6 total goals (full game; even-number total, push at 6)",
-   "odds": -114,
-   "units": 3.0,
-   "gap": null,
-   "start": "2026-11-12T16:40:00",
-   "timed": true,
-   "ticket": "single",
-   "espn": {
-    "legs": [
-     {
-      "kind": "total",
-      "side": null,
-      "ou": "U",
-      "line": 6.0,
-      "label": "U 6.0",
-      "path": "hockey/nhl",
-      "event": "401892699",
-      "date": "20261112",
-      "snapshot": {
-       "source": "nhl",
-       "state": "pre",
-       "detail": "Scheduled",
-       "start": "2026-11-13T00:30:00Z",
-       "period": null,
-       "clock": null,
-       "teams": [
-        {
-         "name": "Red Wings",
-         "short": "DET",
-         "abbr": "DET",
-         "score": 0,
-         "ha": "away",
-         "winner": null,
-         "linescores": []
-        },
-        {
-         "name": "Panthers",
-         "short": "FLA",
-         "abbr": "FLA",
-         "score": 0,
-         "ha": "home",
-         "winner": null,
-         "linescores": []
-        }
-       ],
-       "nhl_id": 2026020302
-      },
-      "source": "nhl"
-     }
-    ],
-    "sport": "NHL",
-    "ticket": "single"
-   }
-  },
   {
    "n": 772,
    "league": "NCAAB",
@@ -1026,16 +967,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "8:47 - 1st",
+       "detail": "6:47 - 1st",
        "start": "2026-11-13T00:00Z",
        "period": 1,
-       "clock": "8:47",
+       "clock": "6:47",
        "teams": [
         {
          "name": "Mercer Bears",
          "short": "Bears",
          "abbr": "MER",
-         "score": 15,
+         "score": 17,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -1046,7 +987,7 @@
          "name": "West Virginia Mountaineers",
          "short": "Mountaineers",
          "abbr": "WVU",
-         "score": 21,
+         "score": 23,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -1088,16 +1029,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "8:47 - 1st",
+       "detail": "6:47 - 1st",
        "start": "2026-11-13T00:00Z",
        "period": 1,
-       "clock": "8:47",
+       "clock": "6:47",
        "teams": [
         {
          "name": "Mercer Bears",
          "short": "Bears",
          "abbr": "MER",
-         "score": 15,
+         "score": 17,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -1108,7 +1049,7 @@
          "name": "West Virginia Mountaineers",
          "short": "Mountaineers",
          "abbr": "WVU",
-         "score": 21,
+         "score": 23,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -1149,10 +1090,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "7:09 - 1st",
+       "detail": "3:18 - 1st",
        "start": "2026-11-13T00:00Z",
        "period": 1,
-       "clock": "7:09",
+       "clock": "3:18",
        "teams": [
         {
          "name": "Maryland Eastern Shore Hawks",
@@ -1169,7 +1110,7 @@
          "name": "Rhode Island Rams",
          "short": "Rams",
          "abbr": "URI",
-         "score": 17,
+         "score": 23,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -1212,16 +1153,16 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P1 06:16",
+       "detail": "P1 01:28",
        "start": "2026-11-13T00:00:00Z",
        "period": 1,
-       "clock": "06:16",
+       "clock": "01:28",
        "teams": [
         {
          "name": "Capitals",
          "short": "WSH",
          "abbr": "WSH",
-         "score": 0,
+         "score": 1,
          "ha": "away",
          "winner": null,
          "linescores": []
@@ -1238,7 +1179,7 @@
        ],
        "nhl_id": 2026020303,
        "stat": {
-        "v": 0,
+        "v": 1,
         "name": "C. Hutson"
        }
       },
@@ -1276,16 +1217,16 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P1 06:16",
+       "detail": "P1 01:28",
        "start": "2026-11-13T00:00:00Z",
        "period": 1,
-       "clock": "06:16",
+       "clock": "01:28",
        "teams": [
         {
          "name": "Capitals",
          "short": "WSH",
          "abbr": "WSH",
-         "score": 0,
+         "score": 1,
          "ha": "away",
          "winner": null,
          "linescores": []
@@ -1340,16 +1281,16 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P1 06:16",
+       "detail": "P1 01:28",
        "start": "2026-11-13T00:00:00Z",
        "period": 1,
-       "clock": "06:16",
+       "clock": "01:28",
        "teams": [
         {
          "name": "Capitals",
          "short": "WSH",
          "abbr": "WSH",
-         "score": 0,
+         "score": 1,
          "ha": "away",
          "winner": null,
          "linescores": []
@@ -1369,6 +1310,65 @@
         "v": 0,
         "name": "D. Hamilton"
        }
+      },
+      "source": "nhl"
+     }
+    ],
+    "sport": "NHL",
+    "ticket": "single"
+   }
+  },
+  {
+   "n": 776,
+   "league": "NHL",
+   "type": "Over/Under",
+   "matchup": "Detroit Red Wings @ Florida Panthers",
+   "pick": "Under 6 total goals (full game; even-number total, push at 6)",
+   "odds": -114,
+   "units": 3.0,
+   "gap": null,
+   "start": "2026-11-12T16:40:00",
+   "timed": true,
+   "ticket": "single",
+   "espn": {
+    "legs": [
+     {
+      "kind": "total",
+      "side": null,
+      "ou": "U",
+      "line": 6.0,
+      "label": "U 6.0",
+      "path": "hockey/nhl",
+      "event": "401892699",
+      "date": "20261112",
+      "snapshot": {
+       "source": "nhl",
+       "state": "in",
+       "detail": "P1 18:52",
+       "start": "2026-11-13T00:30:00Z",
+       "period": 1,
+       "clock": "18:52",
+       "teams": [
+        {
+         "name": "Red Wings",
+         "short": "DET",
+         "abbr": "DET",
+         "score": 0,
+         "ha": "away",
+         "winner": null,
+         "linescores": []
+        },
+        {
+         "name": "Panthers",
+         "short": "FLA",
+         "abbr": "FLA",
+         "score": 0,
+         "ha": "home",
+         "winner": null,
+         "linescores": []
+        }
+       ],
+       "nhl_id": 2026020302
       },
       "source": "nhl"
      }
