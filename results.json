@@ -11,7 +11,7 @@
   "first": "2026-10-12",
   "last": "2026-11-12"
  },
- "pending": 18,
+ "pending": 21,
  "plays": [
   {
    "n": 334,
@@ -5273,6 +5273,54 @@
    "pick": "Draymond Green OVER 5.5 assists",
    "odds": -120,
    "units": 2.0,
+   "result": null,
+   "pl": null,
+   "pending": true
+  },
+  {
+   "n": 786,
+   "date": "2026-11-13",
+   "day": "2026-11-13",
+   "league": "NBA",
+   "market": "player_prop",
+   "market_label": "Player Prop",
+   "ticket": "single",
+   "matchup": "Atlanta Hawks @ Chicago Bulls",
+   "pick": "Jalen Johnson UNDER 22.5 points",
+   "odds": -113,
+   "units": 1.0,
+   "result": null,
+   "pl": null,
+   "pending": true
+  },
+  {
+   "n": 787,
+   "date": "2026-11-13",
+   "day": "2026-11-13",
+   "league": "NBA",
+   "market": "player_prop",
+   "market_label": "Player Prop",
+   "ticket": "single",
+   "matchup": "Utah Jazz @ Houston Rockets",
+   "pick": "Alperen Sengun OVER 6.5 assists",
+   "odds": -115,
+   "units": 1.0,
+   "result": null,
+   "pl": null,
+   "pending": true
+  },
+  {
+   "n": 788,
+   "date": "2026-11-13",
+   "day": "2026-11-13",
+   "league": "NBA",
+   "market": "player_prop",
+   "market_label": "Player Prop",
+   "ticket": "single",
+   "matchup": "Atlanta Hawks @ Chicago Bulls",
+   "pick": "Aaron Wiggins OVER 2.5 threes",
+   "odds": 117,
+   "units": 1.0,
    "result": null,
    "pl": null,
    "pending": true

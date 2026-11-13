@@ -11,7 +11,7 @@
   "first": "2026-10-12",
   "last": "2026-11-12"
  },
- "pending": 18,
+ "pending": 21,
  "latest": [
   {
    "n": 777,
@@ -378,6 +378,143 @@
       "line": 5.5,
       "stat": "rebounds",
       "label": "Isaiah Stewart U 5.5 rebounds",
+      "date": "20261113",
+      "unverified": true,
+      "reason": "Player not found in this game"
+     }
+    ],
+    "sport": "NBA",
+    "ticket": "single"
+   }
+  },
+  {
+   "n": 786,
+   "league": "NBA",
+   "type": "Player Prop",
+   "matchup": "Atlanta Hawks @ Chicago Bulls",
+   "pick": "Jalen Johnson UNDER 22.5 points",
+   "odds": -113,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-13T17:10:00",
+   "timed": true,
+   "ticket": "single",
+   "espn": {
+    "legs": [
+     {
+      "kind": "prop",
+      "player": "Jalen Johnson",
+      "ou": "U",
+      "line": 22.5,
+      "stat": "points",
+      "label": "Jalen Johnson U 22.5 points",
+      "path": "basketball/nba",
+      "event": "401909977",
+      "date": "20261112",
+      "snapshot": {
+       "source": "espn",
+       "state": "post",
+       "detail": "Final/2OT",
+       "start": "2026-11-13T00:00Z",
+       "period": null,
+       "clock": null,
+       "teams": [
+        {
+         "name": "Detroit Pistons",
+         "short": "Pistons",
+         "abbr": "DET",
+         "score": 144,
+         "ha": "away",
+         "winner": true,
+         "linescores": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+         ]
+        },
+        {
+         "name": "Washington Wizards",
+         "short": "Wizards",
+         "abbr": "WSH",
+         "score": 140,
+         "ha": "home",
+         "winner": false,
+         "linescores": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+         ]
+        }
+       ],
+       "stat": {
+        "v": 13,
+        "name": "Tre Johnson"
+       }
+      },
+      "source": "espn"
+     }
+    ],
+    "sport": "NBA",
+    "ticket": "single"
+   }
+  },
+  {
+   "n": 788,
+   "league": "NBA",
+   "type": "Player Prop",
+   "matchup": "Atlanta Hawks @ Chicago Bulls",
+   "pick": "Aaron Wiggins OVER 2.5 threes",
+   "odds": 117,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-13T17:10:00",
+   "timed": true,
+   "ticket": "single",
+   "espn": {
+    "legs": [
+     {
+      "kind": "prop",
+      "player": "Aaron Wiggins",
+      "ou": "O",
+      "line": 2.5,
+      "stat": "threes",
+      "label": "Aaron Wiggins O 2.5 threes",
+      "date": "20261113",
+      "unverified": true,
+      "reason": "Player not found in this game"
+     }
+    ],
+    "sport": "NBA",
+    "ticket": "single"
+   }
+  },
+  {
+   "n": 787,
+   "league": "NBA",
+   "type": "Player Prop",
+   "matchup": "Utah Jazz @ Houston Rockets",
+   "pick": "Alperen Sengun OVER 6.5 assists",
+   "odds": -115,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-13T17:40:00",
+   "timed": true,
+   "ticket": "single",
+   "espn": {
+    "legs": [
+     {
+      "kind": "prop",
+      "player": "Alperen Sengun",
+      "ou": "O",
+      "line": 6.5,
+      "stat": "assists",
+      "label": "Alperen Sengun O 6.5 assists",
       "date": "20261113",
       "unverified": true,
       "reason": "Player not found in this game"
