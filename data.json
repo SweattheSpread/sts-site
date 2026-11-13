@@ -1,5 +1,5 @@
 {
- "updated": "Nov 13, 2026, 9:41 AM PT",
+ "updated": "Nov 13, 2026, 2:58 PM PT",
  "record": {
   "w": 159,
   "l": 157,
@@ -11,7 +11,7 @@
   "first": "2026-10-12",
   "last": "2026-11-12"
  },
- "pending": 16,
+ "pending": 18,
  "latest": [
   {
    "n": 777,
@@ -358,6 +358,36 @@
    }
   },
   {
+   "n": 784,
+   "league": "NBA",
+   "type": "Player Prop",
+   "matchup": "Memphis Grizzlies @ New Orleans Pelicans",
+   "pick": "Isaiah Stewart UNDER 5.5 rebounds",
+   "odds": -136,
+   "units": 2.0,
+   "gap": null,
+   "start": "2026-11-13T17:10:00",
+   "timed": true,
+   "ticket": "single",
+   "espn": {
+    "legs": [
+     {
+      "kind": "prop",
+      "player": "Isaiah Stewart",
+      "ou": "U",
+      "line": 5.5,
+      "stat": "rebounds",
+      "label": "Isaiah Stewart U 5.5 rebounds",
+      "date": "20261113",
+      "unverified": true,
+      "reason": "Player not found in this game"
+     }
+    ],
+    "sport": "NBA",
+    "ticket": "single"
+   }
+  },
+  {
    "n": 782,
    "league": "NCAAB",
    "type": "Spread",
@@ -411,6 +441,83 @@
      }
     ],
     "sport": "NCAAB",
+    "ticket": "single"
+   }
+  },
+  {
+   "n": 785,
+   "league": "NBA",
+   "type": "Player Prop",
+   "matchup": "Golden State Warriors @ San Antonio Spurs",
+   "pick": "Draymond Green OVER 5.5 assists",
+   "odds": -120,
+   "units": 2.0,
+   "gap": null,
+   "start": "2026-11-13T18:40:00",
+   "timed": true,
+   "ticket": "single",
+   "espn": {
+    "legs": [
+     {
+      "kind": "prop",
+      "player": "Draymond Green",
+      "ou": "O",
+      "line": 5.5,
+      "stat": "assists",
+      "label": "Draymond Green O 5.5 assists",
+      "path": "basketball/nba",
+      "event": "401909977",
+      "date": "20261112",
+      "snapshot": {
+       "source": "espn",
+       "state": "post",
+       "detail": "Final/2OT",
+       "start": "2026-11-13T00:00Z",
+       "period": null,
+       "clock": null,
+       "teams": [
+        {
+         "name": "Detroit Pistons",
+         "short": "Pistons",
+         "abbr": "DET",
+         "score": 144,
+         "ha": "away",
+         "winner": true,
+         "linescores": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+         ]
+        },
+        {
+         "name": "Washington Wizards",
+         "short": "Wizards",
+         "abbr": "WSH",
+         "score": 140,
+         "ha": "home",
+         "winner": false,
+         "linescores": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+         ]
+        }
+       ],
+       "stat": {
+        "v": 0,
+        "name": "Javonte Green"
+       }
+      },
+      "source": "espn"
+     }
+    ],
+    "sport": "NBA",
     "ticket": "single"
    }
   },

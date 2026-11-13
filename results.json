@@ -1,5 +1,5 @@
 {
- "updated": "Nov 13, 2026, 9:41 AM PT",
+ "updated": "Nov 13, 2026, 2:58 PM PT",
  "record": {
   "w": 159,
   "l": 157,
@@ -11,7 +11,7 @@
   "first": "2026-10-12",
   "last": "2026-11-12"
  },
- "pending": 16,
+ "pending": 18,
  "plays": [
   {
    "n": 334,
@@ -5241,6 +5241,38 @@
    "pick": "Under 150.5 total points",
    "odds": -105,
    "units": 1.0,
+   "result": null,
+   "pl": null,
+   "pending": true
+  },
+  {
+   "n": 784,
+   "date": "2026-11-13",
+   "day": "2026-11-13",
+   "league": "NBA",
+   "market": "player_prop",
+   "market_label": "Player Prop",
+   "ticket": "single",
+   "matchup": "Memphis Grizzlies @ New Orleans Pelicans",
+   "pick": "Isaiah Stewart UNDER 5.5 rebounds",
+   "odds": -136,
+   "units": 2.0,
+   "result": null,
+   "pl": null,
+   "pending": true
+  },
+  {
+   "n": 785,
+   "date": "2026-11-13",
+   "day": "2026-11-13",
+   "league": "NBA",
+   "market": "player_prop",
+   "market_label": "Player Prop",
+   "ticket": "single",
+   "matchup": "Golden State Warriors @ San Antonio Spurs",
+   "pick": "Draymond Green OVER 5.5 assists",
+   "odds": -120,
+   "units": 2.0,
    "result": null,
    "pl": null,
    "pending": true
