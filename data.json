@@ -1,5 +1,5 @@
 {
- "updated": "Nov 12, 2026, 7:22 PM PT",
+ "updated": "Nov 12, 2026, 7:30 PM PT",
  "record": {
   "w": 152,
   "l": 152,
@@ -879,10 +879,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P3 11:51",
+       "detail": "P3 06:11",
        "start": "2026-11-13T01:00:00Z",
        "period": 3,
-       "clock": "11:51",
+       "clock": "06:11",
        "teams": [
         {
          "name": "Jets",
@@ -1127,11 +1127,11 @@
       "date": "20261112",
       "snapshot": {
        "source": "espn",
-       "state": "in",
-       "detail": "0:00 - 2nd",
+       "state": "post",
+       "detail": "Final",
        "start": "2026-11-13T01:00Z",
-       "period": 2,
-       "clock": "0:00",
+       "period": null,
+       "clock": null,
        "teams": [
         {
          "name": "Oklahoma State Cowboys",
@@ -1139,7 +1139,7 @@
          "abbr": "OKST",
          "score": 69,
          "ha": "away",
-         "winner": null,
+         "winner": false,
          "linescores": [
           0,
           0
@@ -1151,7 +1151,7 @@
          "abbr": "TA&M",
          "score": 88,
          "ha": "home",
-         "winner": null,
+         "winner": true,
          "linescores": [
           0,
           0
@@ -1444,10 +1444,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P2 13:27",
+       "detail": "P2 10:17",
        "start": "2026-11-13T02:00:00Z",
        "period": 2,
-       "clock": "13:27",
+       "clock": "10:17",
        "teams": [
         {
          "name": "Blues",
