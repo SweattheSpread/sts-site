@@ -1,5 +1,5 @@
 {
- "updated": "Nov 13, 2026, 4:39 PM PT",
+ "updated": "Nov 13, 2026, 4:49 PM PT",
  "record": {
   "w": 159,
   "l": 157,
@@ -488,44 +488,36 @@
       "stat": "assists",
       "label": "Draymond Green O 5.5 assists",
       "path": "basketball/nba",
-      "event": "401909977",
-      "date": "20261112",
+      "event": "401909297",
+      "date": "20261113",
       "snapshot": {
        "source": "espn",
-       "state": "post",
-       "detail": "Final/2OT",
-       "start": "2026-11-13T00:00Z",
-       "period": null,
-       "clock": null,
+       "state": "in",
+       "detail": "8:20 - 2nd",
+       "start": "2026-11-14T00:00Z",
+       "period": 2,
+       "clock": "8:20",
        "teams": [
         {
-         "name": "Detroit Pistons",
-         "short": "Pistons",
-         "abbr": "DET",
-         "score": 144,
+         "name": "Milwaukee Bucks",
+         "short": "Bucks",
+         "abbr": "MIL",
+         "score": 17,
          "ha": "away",
-         "winner": true,
+         "winner": null,
          "linescores": [
-          0,
-          0,
-          0,
-          0,
           0,
           0
          ]
         },
         {
-         "name": "Washington Wizards",
-         "short": "Wizards",
-         "abbr": "WSH",
-         "score": 140,
+         "name": "Orlando Magic",
+         "short": "Magic",
+         "abbr": "ORL",
+         "score": 34,
          "ha": "home",
-         "winner": false,
+         "winner": null,
          "linescores": [
-          0,
-          0,
-          0,
-          0,
           0,
           0
          ]
@@ -533,7 +525,7 @@
        ],
        "stat": {
         "v": 0,
-        "name": "Javonte Green"
+        "name": "AJ Green"
        }
       },
       "source": "espn"
@@ -1200,16 +1192,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "3:48 - 1st",
+       "detail": "Halftime",
        "start": "2026-11-14T00:00Z",
        "period": 1,
-       "clock": "3:48",
+       "clock": "0:00",
        "teams": [
         {
          "name": "Sam Houston Bearkats",
          "short": "Bearkats",
          "abbr": "SHSU",
-         "score": 32,
+         "score": 40,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -1220,7 +1212,7 @@
          "name": "Illinois Fighting Illini",
          "short": "Fighting Illini",
          "abbr": "ILL",
-         "score": 41,
+         "score": 45,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -1262,16 +1254,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "3:48 - 1st",
+       "detail": "Halftime",
        "start": "2026-11-14T00:00Z",
        "period": 1,
-       "clock": "3:48",
+       "clock": "0:00",
        "teams": [
         {
          "name": "Sam Houston Bearkats",
          "short": "Bearkats",
          "abbr": "SHSU",
-         "score": 32,
+         "score": 40,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -1282,7 +1274,7 @@
          "name": "Illinois Fighting Illini",
          "short": "Fighting Illini",
          "abbr": "ILL",
-         "score": 41,
+         "score": 45,
          "ha": "home",
          "winner": null,
          "linescores": [
