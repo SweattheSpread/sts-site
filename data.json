@@ -1577,35 +1577,42 @@
       "event": "401891809",
       "date": "20261114",
       "snapshot": {
-       "source": "nhl",
+       "source": "espn",
        "state": "in",
-       "detail": "P3 07:38",
-       "start": "2026-11-14T18:00:00Z",
+       "detail": "5:51 - 3rd",
+       "start": "2026-11-14T18:00Z",
        "period": 3,
-       "clock": "07:38",
+       "clock": "5:51",
        "teams": [
         {
-         "name": "Kraken",
-         "short": "SEA",
+         "name": "Seattle Kraken",
+         "short": "Kraken",
          "abbr": "SEA",
          "score": 1,
          "ha": "away",
          "winner": null,
-         "linescores": []
+         "linescores": [
+          0,
+          0,
+          0
+         ]
         },
         {
-         "name": "Hurricanes",
-         "short": "CAR",
+         "name": "Carolina Hurricanes",
+         "short": "Hurricanes",
          "abbr": "CAR",
          "score": 5,
          "ha": "home",
          "winner": null,
-         "linescores": []
+         "linescores": [
+          0,
+          0,
+          0
+         ]
         }
-       ],
-       "nhl_id": 2026020321
+       ]
       },
-      "source": "nhl"
+      "source": "espn"
      }
     ],
     "sport": "NHL",
