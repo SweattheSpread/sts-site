@@ -1,5 +1,5 @@
 {
- "updated": "Nov 13, 2026, 7:39 PM PT",
+ "updated": "Nov 13, 2026, 7:41 PM PT",
  "record": {
   "w": 159,
   "l": 157,
@@ -1046,10 +1046,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "3:38 - 1st",
+       "detail": "1:41 - 1st",
        "start": "2026-11-14T03:00Z",
        "period": 1,
-       "clock": "3:38",
+       "clock": "1:41",
        "teams": [
         {
          "name": "UIC Flames",
@@ -1066,7 +1066,7 @@
          "name": "Saint Mary's Gaels",
          "short": "Gaels",
          "abbr": "SMC",
-         "score": 31,
+         "score": 37,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -1108,11 +1108,11 @@
       "date": "20261113",
       "snapshot": {
        "source": "espn",
-       "state": "in",
-       "detail": "0.1 - 4th",
+       "state": "post",
+       "detail": "Final",
        "start": "2026-11-14T01:00Z",
-       "period": 4,
-       "clock": "0.1",
+       "period": null,
+       "clock": null,
        "teams": [
         {
          "name": "Memphis Grizzlies",
@@ -1120,7 +1120,7 @@
          "abbr": "MEM",
          "score": 142,
          "ha": "away",
-         "winner": null,
+         "winner": true,
          "linescores": [
           0,
           0,
@@ -1134,7 +1134,7 @@
          "abbr": "NO",
          "score": 111,
          "ha": "home",
-         "winner": null,
+         "winner": false,
          "linescores": [
           0,
           0,
@@ -1251,16 +1251,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "51.2 - OT",
+       "detail": "13.5 - OT",
        "start": "2026-11-14T01:00Z",
        "period": 5,
-       "clock": "51.2",
+       "clock": "13.5",
        "teams": [
         {
          "name": "Atlanta Hawks",
          "short": "Hawks",
          "abbr": "ATL",
-         "score": 115,
+         "score": 117,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -1275,7 +1275,7 @@
          "name": "Chicago Bulls",
          "short": "Bulls",
          "abbr": "CHI",
-         "score": 120,
+         "score": 124,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -1326,10 +1326,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "9:43 - 4th",
+       "detail": "8:32 - 4th",
        "start": "2026-11-14T01:30Z",
        "period": 4,
-       "clock": "9:43",
+       "clock": "8:32",
        "teams": [
         {
          "name": "Utah Jazz",
@@ -1399,16 +1399,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "51.2 - OT",
+       "detail": "13.5 - OT",
        "start": "2026-11-14T01:00Z",
        "period": 5,
-       "clock": "51.2",
+       "clock": "13.5",
        "teams": [
         {
          "name": "Atlanta Hawks",
          "short": "Hawks",
          "abbr": "ATL",
-         "score": 115,
+         "score": 117,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -1423,7 +1423,7 @@
          "name": "Chicago Bulls",
          "short": "Bulls",
          "abbr": "CHI",
-         "score": 120,
+         "score": 124,
          "ha": "home",
          "winner": null,
          "linescores": [
