@@ -1,5 +1,5 @@
 {
- "updated": "Nov 14, 2026, 10:18 AM PT",
+ "updated": "Nov 14, 2026, 10:21 AM PT",
  "record": {
   "w": 164,
   "l": 163,
@@ -1304,10 +1304,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "15:00 - 3rd",
+       "detail": "Halftime",
        "start": "2026-11-14T17:00Z",
-       "period": 3,
-       "clock": "15:00",
+       "period": 2,
+       "clock": "0:00",
        "teams": [
         {
          "name": "Syracuse Orange",
@@ -1317,7 +1317,6 @@
          "ha": "away",
          "winner": null,
          "linescores": [
-          0,
           0,
           0
          ]
@@ -1330,7 +1329,6 @@
          "ha": "home",
          "winner": null,
          "linescores": [
-          0,
           0,
           0
          ]
@@ -1370,10 +1368,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "12:16 - 1st",
+       "detail": "11:26 - 1st",
        "start": "2026-11-14T18:00Z",
        "period": 1,
-       "clock": "12:16",
+       "clock": "11:26",
        "teams": [
         {
          "name": "Marshall Thundering Herd",
@@ -1557,10 +1555,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P1 16:43",
+       "detail": "P1 14:46",
        "start": "2026-11-14T18:00:00Z",
        "period": 1,
-       "clock": "16:43",
+       "clock": "14:46",
        "teams": [
         {
          "name": "Kraken",
