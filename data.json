@@ -1,5 +1,5 @@
 {
- "updated": "Nov 14, 2026, 1:07 PM PT",
+ "updated": "Nov 14, 2026, 1:09 PM PT",
  "record": {
   "w": 164,
   "l": 163,
@@ -1111,10 +1111,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "4:57 - 2nd",
+       "detail": "3:46 - 2nd",
        "start": "2026-11-14T20:00Z",
        "period": 2,
-       "clock": "4:57",
+       "clock": "3:46",
        "teams": [
         {
          "name": "Tennessee Volunteers",
@@ -1268,19 +1268,19 @@
       "date": "20261114",
       "snapshot": {
        "source": "espn",
-       "state": "in",
-       "detail": "1:13 - 2nd",
+       "state": "post",
+       "detail": "Final",
        "start": "2026-11-14T19:00Z",
-       "period": 2,
-       "clock": "1:13",
+       "period": null,
+       "clock": null,
        "teams": [
         {
          "name": "Stonehill Skyhawks",
          "short": "Skyhawks",
          "abbr": "STO",
-         "score": 35,
+         "score": 37,
          "ha": "away",
-         "winner": null,
+         "winner": false,
          "linescores": [
           0,
           0
@@ -1290,9 +1290,9 @@
          "name": "Texas Tech Red Raiders",
          "short": "Red Raiders",
          "abbr": "TTU",
-         "score": 85,
+         "score": 88,
          "ha": "home",
-         "winner": null,
+         "winner": true,
          "linescores": [
           0,
           0
