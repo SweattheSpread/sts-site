@@ -1,5 +1,5 @@
 {
- "updated": "Nov 14, 2026, 3:08 PM PT",
+ "updated": "Nov 14, 2026, 3:10 PM PT",
  "record": {
   "w": 164,
   "l": 163,
@@ -1081,11 +1081,11 @@
       "date": "20261114",
       "snapshot": {
        "source": "espn",
-       "state": "in",
-       "detail": "1:54 - 4th",
+       "state": "post",
+       "detail": "Final",
        "start": "2026-11-14T20:00Z",
-       "period": 4,
-       "clock": "1:54",
+       "period": null,
+       "clock": null,
        "teams": [
         {
          "name": "Tennessee Volunteers",
@@ -1093,7 +1093,7 @@
          "abbr": "TENN",
          "score": 22,
          "ha": "away",
-         "winner": null,
+         "winner": true,
          "linescores": [
           0,
           0,
@@ -1107,7 +1107,7 @@
          "abbr": "TA&M",
          "score": 7,
          "ha": "home",
-         "winner": null,
+         "winner": false,
          "linescores": [
           0,
           0,
@@ -1203,7 +1203,33 @@
       "event": "382-2026",
       "comp": "187440",
       "date": "20261114",
-      "opp": "Elina Svitolina"
+      "opp": "Elina Svitolina",
+      "snapshot": {
+       "source": "tennis-explorer",
+       "path": "tennis/explorer",
+       "event": "3378469",
+       "state": "post",
+       "detail": "Final \u00b7 2-0 sets",
+       "tennis": [
+        {
+         "name": "Svitolina E.",
+         "winner": true,
+         "sets": [
+          6,
+          6
+         ]
+        },
+        {
+         "name": "Noskova L.",
+         "winner": false,
+         "sets": [
+          2,
+          1
+         ]
+        }
+       ],
+       "tour": "Masters Cup WTA"
+      }
      }
     ],
     "sport": "Tennis",
@@ -1682,10 +1708,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "2:17 - 4th",
+       "detail": "2:00 - 4th",
        "start": "2026-11-14T20:00Z",
        "period": 4,
-       "clock": "2:17",
+       "clock": "2:00",
        "teams": [
         {
          "name": "New Mexico State Aggies",
