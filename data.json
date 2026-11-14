@@ -1,5 +1,5 @@
 {
- "updated": "Nov 14, 2026, 12:08 PM PT",
+ "updated": "Nov 14, 2026, 12:11 PM PT",
  "record": {
   "w": 164,
   "l": 163,
@@ -1160,10 +1160,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "2:00 - 4th",
+       "detail": "1:49 - 4th",
        "start": "2026-11-14T17:00Z",
        "period": 4,
-       "clock": "2:00",
+       "clock": "1:49",
        "teams": [
         {
          "name": "Syracuse Orange",
@@ -1226,10 +1226,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "10:34 - 1st",
+       "detail": "9:26 - 1st",
        "start": "2026-11-14T20:00Z",
        "period": 1,
-       "clock": "10:34",
+       "clock": "9:26",
        "teams": [
         {
          "name": "Tennessee Volunteers",
@@ -1319,10 +1319,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "0:51 - 2nd",
+       "detail": "0:08 - 2nd",
        "start": "2026-11-14T18:00Z",
        "period": 2,
-       "clock": "0:51",
+       "clock": "0:08",
        "teams": [
         {
          "name": "Marshall Thundering Herd",
@@ -1340,7 +1340,7 @@
          "name": "Youngstown State Penguins",
          "short": "Penguins",
          "abbr": "YSU",
-         "score": 69,
+         "score": 72,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -1509,11 +1509,11 @@
       "date": "20261114",
       "snapshot": {
        "source": "espn",
-       "state": "in",
-       "detail": "0:40 - 4th",
+       "state": "post",
+       "detail": "Final",
        "start": "2026-11-14T17:00Z",
-       "period": 4,
-       "clock": "0:40",
+       "period": null,
+       "clock": null,
        "teams": [
         {
          "name": "Cincinnati Bearcats",
@@ -1521,7 +1521,7 @@
          "abbr": "CIN",
          "score": 13,
          "ha": "away",
-         "winner": null,
+         "winner": false,
          "linescores": [
           0,
           0,
@@ -1535,7 +1535,7 @@
          "abbr": "ISU",
          "score": 41,
          "ha": "home",
-         "winner": null,
+         "winner": true,
          "linescores": [
           0,
           0,
@@ -1577,10 +1577,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P3 18:49",
+       "detail": "P3 16:31",
        "start": "2026-11-14T18:00:00Z",
        "period": 3,
-       "clock": "18:49",
+       "clock": "16:31",
        "teams": [
         {
          "name": "Kraken",
