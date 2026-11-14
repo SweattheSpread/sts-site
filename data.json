@@ -1,5 +1,5 @@
 {
- "updated": "Nov 14, 2026, 6:15 AM PT",
+ "updated": "Nov 14, 2026, 6:32 AM PT",
  "record": {
   "w": 164,
   "l": 163,
@@ -11,7 +11,7 @@
   "first": "2026-10-12",
   "last": "2026-11-13"
  },
- "pending": 16,
+ "pending": 18,
  "latest": [
   {
    "n": 788,
@@ -237,6 +237,66 @@
      }
     ],
     "sport": "NCAAF",
+    "ticket": "single"
+   }
+  },
+  {
+   "n": 795,
+   "league": "Tennis",
+   "type": "Spread",
+   "matchup": "WTA Finals final: Mirra Andreeva vs Jessica Pegula",
+   "pick": "Mirra Andreeva -3.5 games",
+   "odds": -125,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-14T12:00:00",
+   "timed": true,
+   "ticket": "single",
+   "espn": {
+    "legs": [
+     {
+      "kind": "spread",
+      "side": "Mirra Andreeva",
+      "line": -3.5,
+      "unit": "game",
+      "label": "Mirra Andreeva -3.5 games",
+      "path": "tennis/wta",
+      "event": "382-2026",
+      "comp": "187441",
+      "date": "20261114",
+      "opp": "Jessica Pegula"
+     }
+    ],
+    "sport": "Tennis",
+    "ticket": "single"
+   }
+  },
+  {
+   "n": 796,
+   "league": "Tennis",
+   "type": "Moneyline",
+   "matchup": "WTA Finals: Linda Noskova vs Elina Svitolina",
+   "pick": "Linda Noskova ML",
+   "odds": -160,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-14T13:30:00",
+   "timed": true,
+   "ticket": "single",
+   "espn": {
+    "legs": [
+     {
+      "kind": "ml",
+      "side": "Linda Noskova",
+      "label": "Linda Noskova ML",
+      "path": "tennis/wta",
+      "event": "382-2026",
+      "comp": "187440",
+      "date": "20261114",
+      "opp": "Elina Svitolina"
+     }
+    ],
+    "sport": "Tennis",
     "ticket": "single"
    }
   },

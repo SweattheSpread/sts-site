@@ -1,5 +1,5 @@
 {
- "updated": "Nov 14, 2026, 6:15 AM PT",
+ "updated": "Nov 14, 2026, 6:32 AM PT",
  "record": {
   "w": 164,
   "l": 163,
@@ -11,7 +11,7 @@
   "first": "2026-10-12",
   "last": "2026-11-13"
  },
- "pending": 16,
+ "pending": 18,
  "plays": [
   {
    "n": 334,
@@ -5384,6 +5384,38 @@
    "matchup": "Tennessee Volunteers @ Texas A&M Aggies",
    "pick": "Tennessee Volunteers ML",
    "odds": -110,
+   "units": 1.0,
+   "result": null,
+   "pl": null,
+   "pending": true
+  },
+  {
+   "n": 795,
+   "date": "2026-11-14",
+   "day": "2026-11-14",
+   "league": "Tennis",
+   "market": "spread",
+   "market_label": "Spread",
+   "ticket": "single",
+   "matchup": "WTA Finals final: Mirra Andreeva vs Jessica Pegula",
+   "pick": "Mirra Andreeva -3.5 games",
+   "odds": -125,
+   "units": 1.0,
+   "result": null,
+   "pl": null,
+   "pending": true
+  },
+  {
+   "n": 796,
+   "date": "2026-11-14",
+   "day": "2026-11-14",
+   "league": "Tennis",
+   "market": "ml",
+   "market_label": "Moneyline",
+   "ticket": "single",
+   "matchup": "WTA Finals: Linda Noskova vs Elina Svitolina",
+   "pick": "Linda Noskova ML",
+   "odds": -160,
    "units": 1.0,
    "result": null,
    "pl": null,
