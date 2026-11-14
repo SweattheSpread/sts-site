@@ -1,5 +1,5 @@
 {
- "updated": "Nov 13, 2026, 4:55 PM PT",
+ "updated": "Nov 13, 2026, 5:02 PM PT",
  "record": {
   "w": 159,
   "l": 157,
@@ -127,121 +127,6 @@
   }
  ],
  "picks": [
-  {
-   "n": 780,
-   "league": "NCAAB",
-   "type": "Spread",
-   "matchup": "SIU Edwardsville Cougars @ Duke Blue Devils",
-   "pick": "SIU Edwardsville +44.5",
-   "odds": -105,
-   "units": 1.0,
-   "gap": null,
-   "start": "2026-11-13T17:00:00",
-   "timed": true,
-   "ticket": "single",
-   "espn": {
-    "legs": [
-     {
-      "kind": "spread",
-      "side": "SIU Edwardsville",
-      "line": 44.5,
-      "label": "SIU Edwardsville +44.5",
-      "path": "basketball/mens-college-basketball",
-      "event": "401909565",
-      "date": "20261113",
-      "snapshot": {
-       "source": "espn",
-       "state": "pre",
-       "detail": "11/13 - 8:00 PM EST",
-       "start": "2026-11-14T01:00Z",
-       "period": null,
-       "clock": null,
-       "teams": [
-        {
-         "name": "SIU Edwardsville Cougars",
-         "short": "Cougars",
-         "abbr": "SIUE",
-         "score": 0,
-         "ha": "away",
-         "winner": null,
-         "linescores": []
-        },
-        {
-         "name": "Duke Blue Devils",
-         "short": "Blue Devils",
-         "abbr": "DUKE",
-         "score": 0,
-         "ha": "home",
-         "winner": null,
-         "linescores": []
-        }
-       ]
-      },
-      "source": "espn"
-     }
-    ],
-    "sport": "NCAAB",
-    "ticket": "single"
-   }
-  },
-  {
-   "n": 781,
-   "league": "NCAAB",
-   "type": "Over/Under",
-   "matchup": "SIU Edwardsville Cougars @ Duke Blue Devils",
-   "pick": "Under 148.5 total points",
-   "odds": -110,
-   "units": 1.0,
-   "gap": null,
-   "start": "2026-11-13T17:00:00",
-   "timed": true,
-   "ticket": "single",
-   "espn": {
-    "legs": [
-     {
-      "kind": "total",
-      "side": null,
-      "ou": "U",
-      "line": 148.5,
-      "label": "U 148.5",
-      "path": "basketball/mens-college-basketball",
-      "event": "401909565",
-      "date": "20261113",
-      "snapshot": {
-       "source": "espn",
-       "state": "pre",
-       "detail": "11/13 - 8:00 PM EST",
-       "start": "2026-11-14T01:00Z",
-       "period": null,
-       "clock": null,
-       "teams": [
-        {
-         "name": "SIU Edwardsville Cougars",
-         "short": "Cougars",
-         "abbr": "SIUE",
-         "score": 0,
-         "ha": "away",
-         "winner": null,
-         "linescores": []
-        },
-        {
-         "name": "Duke Blue Devils",
-         "short": "Blue Devils",
-         "abbr": "DUKE",
-         "score": 0,
-         "ha": "home",
-         "winner": null,
-         "linescores": []
-        }
-       ]
-      },
-      "source": "espn"
-     }
-    ],
-    "sport": "NCAAB",
-    "ticket": "single"
-   }
-  },
   {
    "n": 784,
    "league": "NBA",
@@ -493,16 +378,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "4:51 - 2nd",
+       "detail": "53.6 - 2nd",
        "start": "2026-11-14T00:00Z",
        "period": 2,
-       "clock": "4:51",
+       "clock": "53.6",
        "teams": [
         {
          "name": "Milwaukee Bucks",
          "short": "Bucks",
          "abbr": "MIL",
-         "score": 30,
+         "score": 33,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -514,7 +399,7 @@
          "name": "Orlando Magic",
          "short": "Magic",
          "abbr": "ORL",
-         "score": 36,
+         "score": 49,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -524,7 +409,7 @@
         }
        ],
        "stat": {
-        "v": 1,
+        "v": 2,
         "name": "AJ Green"
        }
       },
@@ -1192,10 +1077,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "Halftime",
+       "detail": "20:00 - 2nd",
        "start": "2026-11-14T00:00Z",
-       "period": 1,
-       "clock": "0:00",
+       "period": 2,
+       "clock": "20:00",
        "teams": [
         {
          "name": "Sam Houston Bearkats",
@@ -1205,6 +1090,7 @@
          "ha": "away",
          "winner": null,
          "linescores": [
+          0,
           0
          ]
         },
@@ -1216,6 +1102,7 @@
          "ha": "home",
          "winner": null,
          "linescores": [
+          0,
           0
          ]
         }
@@ -1254,10 +1141,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "Halftime",
+       "detail": "20:00 - 2nd",
        "start": "2026-11-14T00:00Z",
-       "period": 1,
-       "clock": "0:00",
+       "period": 2,
+       "clock": "20:00",
        "teams": [
         {
          "name": "Sam Houston Bearkats",
@@ -1267,6 +1154,7 @@
          "ha": "away",
          "winner": null,
          "linescores": [
+          0,
           0
          ]
         },
@@ -1278,8 +1166,124 @@
          "ha": "home",
          "winner": null,
          "linescores": [
+          0,
           0
          ]
+        }
+       ]
+      },
+      "source": "espn"
+     }
+    ],
+    "sport": "NCAAB",
+    "ticket": "single"
+   }
+  },
+  {
+   "n": 780,
+   "league": "NCAAB",
+   "type": "Spread",
+   "matchup": "SIU Edwardsville Cougars @ Duke Blue Devils",
+   "pick": "SIU Edwardsville +44.5",
+   "odds": -105,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-13T17:00:00",
+   "timed": true,
+   "ticket": "single",
+   "espn": {
+    "legs": [
+     {
+      "kind": "spread",
+      "side": "SIU Edwardsville",
+      "line": 44.5,
+      "label": "SIU Edwardsville +44.5",
+      "path": "basketball/mens-college-basketball",
+      "event": "401909565",
+      "date": "20261113",
+      "snapshot": {
+       "source": "espn",
+       "state": "pre",
+       "detail": "11/13 - 8:00 PM EST",
+       "start": "2026-11-14T01:00Z",
+       "period": null,
+       "clock": null,
+       "teams": [
+        {
+         "name": "SIU Edwardsville Cougars",
+         "short": "Cougars",
+         "abbr": "SIUE",
+         "score": 0,
+         "ha": "away",
+         "winner": null,
+         "linescores": []
+        },
+        {
+         "name": "Duke Blue Devils",
+         "short": "Blue Devils",
+         "abbr": "DUKE",
+         "score": 0,
+         "ha": "home",
+         "winner": null,
+         "linescores": []
+        }
+       ]
+      },
+      "source": "espn"
+     }
+    ],
+    "sport": "NCAAB",
+    "ticket": "single"
+   }
+  },
+  {
+   "n": 781,
+   "league": "NCAAB",
+   "type": "Over/Under",
+   "matchup": "SIU Edwardsville Cougars @ Duke Blue Devils",
+   "pick": "Under 148.5 total points",
+   "odds": -110,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-13T17:00:00",
+   "timed": true,
+   "ticket": "single",
+   "espn": {
+    "legs": [
+     {
+      "kind": "total",
+      "side": null,
+      "ou": "U",
+      "line": 148.5,
+      "label": "U 148.5",
+      "path": "basketball/mens-college-basketball",
+      "event": "401909565",
+      "date": "20261113",
+      "snapshot": {
+       "source": "espn",
+       "state": "pre",
+       "detail": "11/13 - 8:00 PM EST",
+       "start": "2026-11-14T01:00Z",
+       "period": null,
+       "clock": null,
+       "teams": [
+        {
+         "name": "SIU Edwardsville Cougars",
+         "short": "Cougars",
+         "abbr": "SIUE",
+         "score": 0,
+         "ha": "away",
+         "winner": null,
+         "linescores": []
+        },
+        {
+         "name": "Duke Blue Devils",
+         "short": "Blue Devils",
+         "abbr": "DUKE",
+         "score": 0,
+         "ha": "home",
+         "winner": null,
+         "linescores": []
         }
        ]
       },
