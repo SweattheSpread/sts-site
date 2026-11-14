@@ -1,5 +1,5 @@
 {
- "updated": "Nov 14, 2026, 3:24 PM PT",
+ "updated": "Nov 14, 2026, 3:26 PM PT",
  "record": {
   "w": 164,
   "l": 163,
@@ -1708,9 +1708,9 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "End of 4th",
+       "detail": "OT",
        "start": "2026-11-14T20:00Z",
-       "period": 4,
+       "period": 5,
        "clock": "0:00",
        "teams": [
         {
@@ -1721,6 +1721,7 @@
          "ha": "away",
          "winner": null,
          "linescores": [
+          0,
           0,
           0,
           0,
@@ -1735,6 +1736,7 @@
          "ha": "home",
          "winner": null,
          "linescores": [
+          0,
           0,
           0,
           0,
