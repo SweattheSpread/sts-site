@@ -1,5 +1,5 @@
 {
- "updated": "Nov 14, 2026, 10:25 AM PT",
+ "updated": "Nov 14, 2026, 10:28 AM PT",
  "record": {
   "w": 164,
   "l": 163,
@@ -1368,10 +1368,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "8:47 - 1st",
+       "detail": "8:10 - 1st",
        "start": "2026-11-14T18:00Z",
        "period": 1,
-       "clock": "8:47",
+       "clock": "8:10",
        "teams": [
         {
          "name": "Marshall Thundering Herd",
@@ -1388,7 +1388,7 @@
          "name": "Youngstown State Penguins",
          "short": "Penguins",
          "abbr": "YSU",
-         "score": 14,
+         "score": 16,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -1492,10 +1492,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "0:45 - 2nd",
+       "detail": "0:31 - 2nd",
        "start": "2026-11-14T17:00Z",
        "period": 2,
-       "clock": "0:45",
+       "clock": "0:31",
        "teams": [
         {
          "name": "Cincinnati Bearcats",
@@ -1555,10 +1555,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P1 12:58",
+       "detail": "P1 11:49",
        "start": "2026-11-14T18:00:00Z",
        "period": 1,
-       "clock": "12:58",
+       "clock": "11:49",
        "teams": [
         {
          "name": "Kraken",
