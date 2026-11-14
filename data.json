@@ -1,5 +1,5 @@
 {
- "updated": "Nov 14, 2026, 10:11 AM PT",
+ "updated": "Nov 14, 2026, 10:16 AM PT",
  "record": {
   "w": 164,
   "l": 163,
@@ -1304,16 +1304,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "0:30 - 2nd",
+       "detail": "0:10 - 2nd",
        "start": "2026-11-14T17:00Z",
        "period": 2,
-       "clock": "0:30",
+       "clock": "0:10",
        "teams": [
         {
          "name": "Syracuse Orange",
          "short": "Orange",
          "abbr": "SYR",
-         "score": 3,
+         "score": 6,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -1368,16 +1368,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "15:32 - 1st",
+       "detail": "13:21 - 1st",
        "start": "2026-11-14T18:00Z",
        "period": 1,
-       "clock": "15:32",
+       "clock": "13:21",
        "teams": [
         {
          "name": "Marshall Thundering Herd",
          "short": "Thundering Herd",
          "abbr": "MRSH",
-         "score": 7,
+         "score": 11,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -1388,7 +1388,7 @@
          "name": "Youngstown State Penguins",
          "short": "Penguins",
          "abbr": "YSU",
-         "score": 4,
+         "score": 10,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -1492,16 +1492,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "3:06 - 2nd",
+       "detail": "2:13 - 2nd",
        "start": "2026-11-14T17:00Z",
        "period": 2,
-       "clock": "3:06",
+       "clock": "2:13",
        "teams": [
         {
          "name": "Cincinnati Bearcats",
          "short": "Bearcats",
          "abbr": "CIN",
-         "score": 7,
+         "score": 13,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -1555,10 +1555,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P1 20:00",
+       "detail": "P1 18:30",
        "start": "2026-11-14T18:00:00Z",
        "period": 1,
-       "clock": "20:00",
+       "clock": "18:30",
        "teams": [
         {
          "name": "Kraken",
