@@ -1,5 +1,5 @@
 {
- "updated": "Nov 14, 2026, 2:58 PM PT",
+ "updated": "Nov 14, 2026, 3:01 PM PT",
  "record": {
   "w": 164,
   "l": 163,
@@ -127,74 +127,6 @@
   }
  ],
  "picks": [
-  {
-   "n": 806,
-   "league": "NCAAF",
-   "type": "Over/Under",
-   "matchup": "Oregon State Beavers @ Boise State Broncos",
-   "pick": "1st Quarter Total Over 14 (both teams)",
-   "odds": -118,
-   "units": 3.0,
-   "gap": null,
-   "start": "2026-11-14T15:00:00",
-   "timed": true,
-   "ticket": "single",
-   "espn": {
-    "legs": [
-     {
-      "kind": "total",
-      "side": "1st Quarter Total",
-      "ou": "O",
-      "line": 14.0,
-      "label": "1st Quarter Total O 14.0",
-      "path": "football/college-football",
-      "event": "401870796",
-      "date": "20261114",
-      "snapshot": {
-       "source": "espn",
-       "state": "in",
-       "detail": "5:09 - 4th",
-       "start": "2026-11-14T20:00Z",
-       "period": 4,
-       "clock": "5:09",
-       "teams": [
-        {
-         "name": "New Mexico State Aggies",
-         "short": "Aggies",
-         "abbr": "NMSU",
-         "score": 21,
-         "ha": "away",
-         "winner": null,
-         "linescores": [
-          0,
-          0,
-          0,
-          0
-         ]
-        },
-        {
-         "name": "Missouri State Bears",
-         "short": "Bears",
-         "abbr": "MOST",
-         "score": 14,
-         "ha": "home",
-         "winner": null,
-         "linescores": [
-          0,
-          0,
-          0,
-          0
-         ]
-        }
-       ]
-      },
-      "source": "espn"
-     }
-    ],
-    "sport": "NCAAF",
-    "ticket": "single"
-   }
-  },
   {
    "n": 802,
    "league": "NCAAB",
@@ -1150,16 +1082,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "3:29 - 4th",
+       "detail": "2:44 - 4th",
        "start": "2026-11-14T20:00Z",
        "period": 4,
-       "clock": "3:29",
+       "clock": "2:44",
        "teams": [
         {
          "name": "Tennessee Volunteers",
          "short": "Volunteers",
          "abbr": "TENN",
-         "score": 19,
+         "score": 22,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -1721,6 +1653,74 @@
      }
     ],
     "sport": "NHL",
+    "ticket": "single"
+   }
+  },
+  {
+   "n": 806,
+   "league": "NCAAF",
+   "type": "Over/Under",
+   "matchup": "Oregon State Beavers @ Boise State Broncos",
+   "pick": "1st Quarter Total Over 14 (both teams)",
+   "odds": -118,
+   "units": 3.0,
+   "gap": null,
+   "start": "2026-11-14T15:00:00",
+   "timed": true,
+   "ticket": "single",
+   "espn": {
+    "legs": [
+     {
+      "kind": "total",
+      "side": "1st Quarter Total",
+      "ou": "O",
+      "line": 14.0,
+      "label": "1st Quarter Total O 14.0",
+      "path": "football/college-football",
+      "event": "401870796",
+      "date": "20261114",
+      "snapshot": {
+       "source": "espn",
+       "state": "in",
+       "detail": "4:18 - 4th",
+       "start": "2026-11-14T20:00Z",
+       "period": 4,
+       "clock": "4:18",
+       "teams": [
+        {
+         "name": "New Mexico State Aggies",
+         "short": "Aggies",
+         "abbr": "NMSU",
+         "score": 21,
+         "ha": "away",
+         "winner": null,
+         "linescores": [
+          0,
+          0,
+          0,
+          0
+         ]
+        },
+        {
+         "name": "Missouri State Bears",
+         "short": "Bears",
+         "abbr": "MOST",
+         "score": 14,
+         "ha": "home",
+         "winner": null,
+         "linescores": [
+          0,
+          0,
+          0,
+          0
+         ]
+        }
+       ]
+      },
+      "source": "espn"
+     }
+    ],
+    "sport": "NCAAF",
     "ticket": "single"
    }
   }
