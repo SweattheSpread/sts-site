@@ -1,5 +1,5 @@
 {
- "updated": "Nov 14, 2026, 10:32 AM PT",
+ "updated": "Nov 14, 2026, 10:35 AM PT",
  "record": {
   "w": 164,
   "l": 163,
@@ -1368,10 +1368,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "7:53 - 1st",
+       "detail": "7:03 - 1st",
        "start": "2026-11-14T18:00Z",
        "period": 1,
-       "clock": "7:53",
+       "clock": "7:03",
        "teams": [
         {
          "name": "Marshall Thundering Herd",
@@ -1388,7 +1388,7 @@
          "name": "Youngstown State Penguins",
          "short": "Penguins",
          "abbr": "YSU",
-         "score": 20,
+         "score": 21,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -1494,10 +1494,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "0:02 - 2nd",
+       "detail": "Halftime",
        "start": "2026-11-14T17:00Z",
        "period": 2,
-       "clock": "0:02",
+       "clock": "0:00",
        "teams": [
         {
          "name": "Cincinnati Bearcats",
@@ -1557,10 +1557,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P1 09:20",
+       "detail": "P1 08:08",
        "start": "2026-11-14T18:00:00Z",
        "period": 1,
-       "clock": "09:20",
+       "clock": "08:08",
        "teams": [
         {
          "name": "Kraken",
@@ -1575,7 +1575,7 @@
          "name": "Hurricanes",
          "short": "CAR",
          "abbr": "CAR",
-         "score": 0,
+         "score": 1,
          "ha": "home",
          "winner": null,
          "linescores": []
