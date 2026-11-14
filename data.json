@@ -1,5 +1,5 @@
 {
- "updated": "Nov 14, 2026, 1:42 PM PT",
+ "updated": "Nov 14, 2026, 1:59 PM PT",
  "record": {
   "w": 164,
   "l": 163,
@@ -11,7 +11,7 @@
   "first": "2026-10-12",
   "last": "2026-11-13"
  },
- "pending": 27,
+ "pending": 28,
  "latest": [
   {
    "n": 788,
@@ -127,6 +127,72 @@
   }
  ],
  "picks": [
+  {
+   "n": 806,
+   "league": "NCAAF",
+   "type": "Over/Under",
+   "matchup": "Oregon State Beavers @ Boise State Broncos",
+   "pick": "1st Quarter Total Over 14 (both teams)",
+   "odds": -118,
+   "units": 3.0,
+   "gap": null,
+   "start": "2026-11-14T15:00:00",
+   "timed": true,
+   "ticket": "single",
+   "espn": {
+    "legs": [
+     {
+      "kind": "total",
+      "side": "1st Quarter Total",
+      "ou": "O",
+      "line": 14.0,
+      "label": "1st Quarter Total O 14.0",
+      "path": "football/college-football",
+      "event": "401870796",
+      "date": "20261114",
+      "snapshot": {
+       "source": "espn",
+       "state": "in",
+       "detail": "9:09 - 3rd",
+       "start": "2026-11-14T20:00Z",
+       "period": 3,
+       "clock": "9:09",
+       "teams": [
+        {
+         "name": "New Mexico State Aggies",
+         "short": "Aggies",
+         "abbr": "NMSU",
+         "score": 7,
+         "ha": "away",
+         "winner": null,
+         "linescores": [
+          0,
+          0,
+          0
+         ]
+        },
+        {
+         "name": "Missouri State Bears",
+         "short": "Bears",
+         "abbr": "MOST",
+         "score": 14,
+         "ha": "home",
+         "winner": null,
+         "linescores": [
+          0,
+          0,
+          0
+         ]
+        }
+       ]
+      },
+      "source": "espn"
+     }
+    ],
+    "sport": "NCAAF",
+    "ticket": "single"
+   }
+  },
   {
    "n": 802,
    "league": "NCAAB",
@@ -1082,10 +1148,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "Halftime",
+       "detail": "11:09 - 3rd",
        "start": "2026-11-14T20:00Z",
-       "period": 2,
-       "clock": "0:00",
+       "period": 3,
+       "clock": "11:09",
        "teams": [
         {
          "name": "Tennessee Volunteers",
@@ -1095,6 +1161,7 @@
          "ha": "away",
          "winner": null,
          "linescores": [
+          0,
           0,
           0
          ]
@@ -1107,6 +1174,7 @@
          "ha": "home",
          "winner": null,
          "linescores": [
+          0,
           0,
           0
          ]
@@ -1358,19 +1426,20 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "Halftime",
+       "detail": "13:14 - 2nd",
        "start": "2026-11-14T20:30Z",
-       "period": 1,
-       "clock": "0:00",
+       "period": 2,
+       "clock": "13:14",
        "teams": [
         {
          "name": "LSU Tigers",
          "short": "Tigers",
          "abbr": "LSU",
-         "score": 39,
+         "score": 49,
          "ha": "away",
          "winner": null,
          "linescores": [
+          0,
           0
          ]
         },
@@ -1378,10 +1447,11 @@
          "name": "Gonzaga Bulldogs",
          "short": "Bulldogs",
          "abbr": "GONZ",
-         "score": 37,
+         "score": 54,
          "ha": "home",
          "winner": null,
          "linescores": [
+          0,
           0
          ]
         }
@@ -1420,19 +1490,20 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "Halftime",
+       "detail": "13:14 - 2nd",
        "start": "2026-11-14T20:30Z",
-       "period": 1,
-       "clock": "0:00",
+       "period": 2,
+       "clock": "13:14",
        "teams": [
         {
          "name": "LSU Tigers",
          "short": "Tigers",
          "abbr": "LSU",
-         "score": 39,
+         "score": 49,
          "ha": "away",
          "winner": null,
          "linescores": [
+          0,
           0
          ]
         },
@@ -1440,10 +1511,11 @@
          "name": "Gonzaga Bulldogs",
          "short": "Bulldogs",
          "abbr": "GONZ",
-         "score": 37,
+         "score": 54,
          "ha": "home",
          "winner": null,
          "linescores": [
+          0,
           0
          ]
         }

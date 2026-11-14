@@ -1,5 +1,5 @@
 {
- "updated": "Nov 14, 2026, 1:42 PM PT",
+ "updated": "Nov 14, 2026, 1:59 PM PT",
  "record": {
   "w": 164,
   "l": 163,
@@ -11,7 +11,7 @@
   "first": "2026-10-12",
   "last": "2026-11-13"
  },
- "pending": 27,
+ "pending": 28,
  "plays": [
   {
    "n": 334,
@@ -5545,6 +5545,22 @@
    "pick": "Carolina Hurricanes -1.5 (full-game puck line)",
    "odds": -155,
    "units": 1.5,
+   "result": null,
+   "pl": null,
+   "pending": true
+  },
+  {
+   "n": 806,
+   "date": "2026-11-14",
+   "day": "2026-11-14",
+   "league": "NCAAF",
+   "market": "total",
+   "market_label": "Total",
+   "ticket": "single",
+   "matchup": "Oregon State Beavers @ Boise State Broncos",
+   "pick": "1st Quarter Total Over 14 (both teams)",
+   "odds": -118,
+   "units": 3.0,
    "result": null,
    "pl": null,
    "pending": true
