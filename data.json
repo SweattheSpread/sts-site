@@ -1,5 +1,5 @@
 {
- "updated": "Nov 13, 2026, 5:06 PM PT",
+ "updated": "Nov 13, 2026, 5:09 PM PT",
  "record": {
   "w": 159,
   "l": 157,
@@ -319,10 +319,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "19:15 - 1st",
+       "detail": "17:48 - 1st",
        "start": "2026-11-14T01:00Z",
        "period": 1,
-       "clock": "19:15",
+       "clock": "17:48",
        "teams": [
         {
          "name": "Illinois State Redbirds",
@@ -339,7 +339,7 @@
          "name": "North Dakota State Bison",
          "short": "Bison",
          "abbr": "NDSU",
-         "score": 0,
+         "score": 3,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -382,10 +382,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "0.0 - 2nd",
+       "detail": "12:00 - 2nd",
        "start": "2026-11-14T00:00Z",
        "period": 2,
-       "clock": "0.0",
+       "clock": "12:00",
        "teams": [
         {
          "name": "Milwaukee Bucks",
@@ -1081,16 +1081,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "17:31 - 2nd",
+       "detail": "17:15 - 2nd",
        "start": "2026-11-14T00:00Z",
        "period": 2,
-       "clock": "17:31",
+       "clock": "17:15",
        "teams": [
         {
          "name": "Sam Houston Bearkats",
          "short": "Bearkats",
          "abbr": "SHSU",
-         "score": 49,
+         "score": 52,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -1145,16 +1145,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "17:31 - 2nd",
+       "detail": "17:15 - 2nd",
        "start": "2026-11-14T00:00Z",
        "period": 2,
-       "clock": "17:31",
+       "clock": "17:15",
        "teams": [
         {
          "name": "Sam Houston Bearkats",
          "short": "Bearkats",
          "abbr": "SHSU",
-         "score": 49,
+         "score": 52,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -1208,10 +1208,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "19:52 - 1st",
+       "detail": "18:51 - 1st",
        "start": "2026-11-14T01:00Z",
        "period": 1,
-       "clock": "19:52",
+       "clock": "18:51",
        "teams": [
         {
          "name": "SIU Edwardsville Cougars",
@@ -1228,7 +1228,7 @@
          "name": "Duke Blue Devils",
          "short": "Blue Devils",
          "abbr": "DUKE",
-         "score": 0,
+         "score": 2,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -1270,10 +1270,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "19:52 - 1st",
+       "detail": "18:51 - 1st",
        "start": "2026-11-14T01:00Z",
        "period": 1,
-       "clock": "19:52",
+       "clock": "18:51",
        "teams": [
         {
          "name": "SIU Edwardsville Cougars",
@@ -1290,7 +1290,7 @@
          "name": "Duke Blue Devils",
          "short": "Blue Devils",
          "abbr": "DUKE",
-         "score": 0,
+         "score": 2,
          "ha": "home",
          "winner": null,
          "linescores": [
