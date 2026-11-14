@@ -1,5 +1,5 @@
 {
- "updated": "Nov 14, 2026, 10:39 AM PT",
+ "updated": "Nov 14, 2026, 10:42 AM PT",
  "record": {
   "w": 164,
   "l": 163,
@@ -1304,10 +1304,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "14:25 - 3rd",
+       "detail": "13:47 - 3rd",
        "start": "2026-11-14T17:00Z",
        "period": 3,
-       "clock": "14:25",
+       "clock": "13:47",
        "teams": [
         {
          "name": "Syracuse Orange",
@@ -1326,7 +1326,7 @@
          "name": "NC State Wolfpack",
          "short": "Wolfpack",
          "abbr": "NCSU",
-         "score": 7,
+         "score": 14,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -1370,16 +1370,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "5:40 - 1st",
+       "detail": "3:48 - 1st",
        "start": "2026-11-14T18:00Z",
        "period": 1,
-       "clock": "5:40",
+       "clock": "3:48",
        "teams": [
         {
          "name": "Marshall Thundering Herd",
          "short": "Thundering Herd",
          "abbr": "MRSH",
-         "score": 24,
+         "score": 26,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -1390,7 +1390,7 @@
          "name": "Youngstown State Penguins",
          "short": "Penguins",
          "abbr": "YSU",
-         "score": 22,
+         "score": 24,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -1559,10 +1559,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P1 05:52",
+       "detail": "P1 04:09",
        "start": "2026-11-14T18:00:00Z",
        "period": 1,
-       "clock": "05:52",
+       "clock": "04:09",
        "teams": [
         {
          "name": "Kraken",
