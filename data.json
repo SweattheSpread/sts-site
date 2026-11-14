@@ -1,5 +1,5 @@
 {
- "updated": "Nov 14, 2026, 12:11 PM PT",
+ "updated": "Nov 14, 2026, 12:13 PM PT",
  "record": {
   "w": 164,
   "l": 163,
@@ -1160,10 +1160,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "1:49 - 4th",
+       "detail": "0:52 - 4th",
        "start": "2026-11-14T17:00Z",
        "period": 4,
-       "clock": "1:49",
+       "clock": "0:52",
        "teams": [
         {
          "name": "Syracuse Orange",
@@ -1226,10 +1226,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "9:26 - 1st",
+       "detail": "9:20 - 1st",
        "start": "2026-11-14T20:00Z",
        "period": 1,
-       "clock": "9:26",
+       "clock": "9:20",
        "teams": [
         {
          "name": "Tennessee Volunteers",
@@ -1319,10 +1319,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "0:08 - 2nd",
+       "detail": "0:06 - 2nd",
        "start": "2026-11-14T18:00Z",
        "period": 2,
-       "clock": "0:08",
+       "clock": "0:06",
        "teams": [
         {
          "name": "Marshall Thundering Herd",
@@ -1577,10 +1577,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P3 16:31",
+       "detail": "P3 14:48",
        "start": "2026-11-14T18:00:00Z",
        "period": 3,
-       "clock": "16:31",
+       "clock": "14:48",
        "teams": [
         {
          "name": "Kraken",
