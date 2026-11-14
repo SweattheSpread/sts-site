@@ -1,5 +1,5 @@
 {
- "updated": "Nov 14, 2026, 10:21 AM PT",
+ "updated": "Nov 14, 2026, 10:23 AM PT",
  "record": {
   "w": 164,
   "l": 163,
@@ -1368,10 +1368,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "11:26 - 1st",
+       "detail": "10:30 - 1st",
        "start": "2026-11-14T18:00Z",
        "period": 1,
-       "clock": "11:26",
+       "clock": "10:30",
        "teams": [
         {
          "name": "Marshall Thundering Herd",
@@ -1492,10 +1492,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "2:00 - 2nd",
+       "detail": "1:01 - 2nd",
        "start": "2026-11-14T17:00Z",
        "period": 2,
-       "clock": "2:00",
+       "clock": "1:01",
        "teams": [
         {
          "name": "Cincinnati Bearcats",
@@ -1555,10 +1555,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P1 14:46",
+       "detail": "P1 14:07",
        "start": "2026-11-14T18:00:00Z",
        "period": 1,
-       "clock": "14:46",
+       "clock": "14:07",
        "teams": [
         {
          "name": "Kraken",
