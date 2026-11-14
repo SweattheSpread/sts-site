@@ -1,5 +1,5 @@
 {
- "updated": "Nov 13, 2026, 6:13 PM PT",
+ "updated": "Nov 13, 2026, 6:15 PM PT",
  "record": {
   "w": 159,
   "l": 157,
@@ -163,7 +163,7 @@
          "name": "Milwaukee Bucks",
          "short": "Bucks",
          "abbr": "MIL",
-         "score": 81,
+         "score": 82,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -984,10 +984,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "Halftime",
+       "detail": "18:47 - 2nd",
        "start": "2026-11-14T01:00Z",
-       "period": 1,
-       "clock": "0:00",
+       "period": 2,
+       "clock": "18:47",
        "teams": [
         {
          "name": "SIU Edwardsville Cougars",
@@ -997,6 +997,7 @@
          "ha": "away",
          "winner": null,
          "linescores": [
+          0,
           0
          ]
         },
@@ -1008,6 +1009,7 @@
          "ha": "home",
          "winner": null,
          "linescores": [
+          0,
           0
          ]
         }
@@ -1046,10 +1048,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "Halftime",
+       "detail": "18:47 - 2nd",
        "start": "2026-11-14T01:00Z",
-       "period": 1,
-       "clock": "0:00",
+       "period": 2,
+       "clock": "18:47",
        "teams": [
         {
          "name": "SIU Edwardsville Cougars",
@@ -1059,6 +1061,7 @@
          "ha": "away",
          "winner": null,
          "linescores": [
+          0,
           0
          ]
         },
@@ -1070,6 +1073,7 @@
          "ha": "home",
          "winner": null,
          "linescores": [
+          0,
           0
          ]
         }
@@ -1107,10 +1111,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "16:28 - 2nd",
+       "detail": "15:53 - 2nd",
        "start": "2026-11-14T01:00Z",
        "period": 2,
-       "clock": "16:28",
+       "clock": "15:53",
        "teams": [
         {
          "name": "Illinois State Redbirds",
@@ -1310,16 +1314,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "10:54 - 2nd",
+       "detail": "9:41 - 2nd",
        "start": "2026-11-14T01:30Z",
        "period": 2,
-       "clock": "10:54",
+       "clock": "9:41",
        "teams": [
         {
          "name": "Utah Jazz",
          "short": "Jazz",
          "abbr": "UTAH",
-         "score": 29,
+         "score": 34,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -1331,7 +1335,7 @@
          "name": "Houston Rockets",
          "short": "Rockets",
          "abbr": "HOU",
-         "score": 27,
+         "score": 32,
          "ha": "home",
          "winner": null,
          "linescores": [
