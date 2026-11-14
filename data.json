@@ -1,5 +1,5 @@
 {
- "updated": "Nov 13, 2026, 5:09 PM PT",
+ "updated": "Nov 13, 2026, 5:11 PM PT",
  "record": {
   "w": 159,
   "l": 157,
@@ -128,143 +128,6 @@
  ],
  "picks": [
   {
-   "n": 784,
-   "league": "NBA",
-   "type": "Player Prop",
-   "matchup": "Memphis Grizzlies @ New Orleans Pelicans",
-   "pick": "Isaiah Stewart UNDER 5.5 rebounds",
-   "odds": -136,
-   "units": 2.0,
-   "gap": null,
-   "start": "2026-11-13T17:10:00",
-   "timed": true,
-   "ticket": "single",
-   "espn": {
-    "legs": [
-     {
-      "kind": "prop",
-      "player": "Isaiah Stewart",
-      "ou": "U",
-      "line": 5.5,
-      "stat": "rebounds",
-      "label": "Isaiah Stewart U 5.5 rebounds",
-      "date": "20261113",
-      "unverified": true,
-      "reason": "Player not found in this game"
-     }
-    ],
-    "sport": "NBA",
-    "ticket": "single"
-   }
-  },
-  {
-   "n": 786,
-   "league": "NBA",
-   "type": "Player Prop",
-   "matchup": "Atlanta Hawks @ Chicago Bulls",
-   "pick": "Jalen Johnson UNDER 22.5 points",
-   "odds": -113,
-   "units": 1.0,
-   "gap": null,
-   "start": "2026-11-13T17:10:00",
-   "timed": true,
-   "ticket": "single",
-   "espn": {
-    "legs": [
-     {
-      "kind": "prop",
-      "player": "Jalen Johnson",
-      "ou": "U",
-      "line": 22.5,
-      "stat": "points",
-      "label": "Jalen Johnson U 22.5 points",
-      "path": "basketball/nba",
-      "event": "401909977",
-      "date": "20261112",
-      "snapshot": {
-       "source": "espn",
-       "state": "post",
-       "detail": "Final/2OT",
-       "start": "2026-11-13T00:00Z",
-       "period": null,
-       "clock": null,
-       "teams": [
-        {
-         "name": "Detroit Pistons",
-         "short": "Pistons",
-         "abbr": "DET",
-         "score": 144,
-         "ha": "away",
-         "winner": true,
-         "linescores": [
-          0,
-          0,
-          0,
-          0,
-          0,
-          0
-         ]
-        },
-        {
-         "name": "Washington Wizards",
-         "short": "Wizards",
-         "abbr": "WSH",
-         "score": 140,
-         "ha": "home",
-         "winner": false,
-         "linescores": [
-          0,
-          0,
-          0,
-          0,
-          0,
-          0
-         ]
-        }
-       ],
-       "stat": {
-        "v": 13,
-        "name": "Tre Johnson"
-       }
-      },
-      "source": "espn"
-     }
-    ],
-    "sport": "NBA",
-    "ticket": "single"
-   }
-  },
-  {
-   "n": 788,
-   "league": "NBA",
-   "type": "Player Prop",
-   "matchup": "Atlanta Hawks @ Chicago Bulls",
-   "pick": "Aaron Wiggins OVER 2.5 threes",
-   "odds": 117,
-   "units": 1.0,
-   "gap": null,
-   "start": "2026-11-13T17:10:00",
-   "timed": true,
-   "ticket": "single",
-   "espn": {
-    "legs": [
-     {
-      "kind": "prop",
-      "player": "Aaron Wiggins",
-      "ou": "O",
-      "line": 2.5,
-      "stat": "threes",
-      "label": "Aaron Wiggins O 2.5 threes",
-      "date": "20261113",
-      "unverified": true,
-      "reason": "Player not found in this game"
-     }
-    ],
-    "sport": "NBA",
-    "ticket": "single"
-   }
-  },
-  {
    "n": 787,
    "league": "NBA",
    "type": "Player Prop",
@@ -319,16 +182,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "17:48 - 1st",
+       "detail": "16:25 - 1st",
        "start": "2026-11-14T01:00Z",
        "period": 1,
-       "clock": "17:48",
+       "clock": "16:25",
        "teams": [
         {
          "name": "Illinois State Redbirds",
          "short": "Redbirds",
          "abbr": "ILST",
-         "score": 2,
+         "score": 8,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -339,7 +202,7 @@
          "name": "North Dakota State Bison",
          "short": "Bison",
          "abbr": "NDSU",
-         "score": 3,
+         "score": 6,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -382,10 +245,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "12:00 - 2nd",
+       "detail": "Halftime",
        "start": "2026-11-14T00:00Z",
        "period": 2,
-       "clock": "12:00",
+       "clock": "0.0",
        "teams": [
         {
          "name": "Milwaukee Bucks",
@@ -1081,16 +944,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "17:15 - 2nd",
+       "detail": "15:44 - 2nd",
        "start": "2026-11-14T00:00Z",
        "period": 2,
-       "clock": "17:15",
+       "clock": "15:44",
        "teams": [
         {
          "name": "Sam Houston Bearkats",
          "short": "Bearkats",
          "abbr": "SHSU",
-         "score": 52,
+         "score": 57,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -1102,7 +965,7 @@
          "name": "Illinois Fighting Illini",
          "short": "Fighting Illini",
          "abbr": "ILL",
-         "score": 52,
+         "score": 59,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -1145,16 +1008,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "17:15 - 2nd",
+       "detail": "15:44 - 2nd",
        "start": "2026-11-14T00:00Z",
        "period": 2,
-       "clock": "17:15",
+       "clock": "15:44",
        "teams": [
         {
          "name": "Sam Houston Bearkats",
          "short": "Bearkats",
          "abbr": "SHSU",
-         "score": 52,
+         "score": 57,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -1166,7 +1029,7 @@
          "name": "Illinois Fighting Illini",
          "short": "Fighting Illini",
          "abbr": "ILL",
-         "score": 52,
+         "score": 59,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -1208,16 +1071,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "18:51 - 1st",
+       "detail": "17:35 - 1st",
        "start": "2026-11-14T01:00Z",
        "period": 1,
-       "clock": "18:51",
+       "clock": "17:35",
        "teams": [
         {
          "name": "SIU Edwardsville Cougars",
          "short": "Cougars",
          "abbr": "SIUE",
-         "score": 0,
+         "score": 2,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -1270,16 +1133,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "18:51 - 1st",
+       "detail": "17:35 - 1st",
        "start": "2026-11-14T01:00Z",
        "period": 1,
-       "clock": "18:51",
+       "clock": "17:35",
        "teams": [
         {
          "name": "SIU Edwardsville Cougars",
          "short": "Cougars",
          "abbr": "SIUE",
-         "score": 0,
+         "score": 2,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -1303,6 +1166,204 @@
      }
     ],
     "sport": "NCAAB",
+    "ticket": "single"
+   }
+  },
+  {
+   "n": 784,
+   "league": "NBA",
+   "type": "Player Prop",
+   "matchup": "Memphis Grizzlies @ New Orleans Pelicans",
+   "pick": "Isaiah Stewart UNDER 5.5 rebounds",
+   "odds": -136,
+   "units": 2.0,
+   "gap": null,
+   "start": "2026-11-13T17:10:00",
+   "timed": true,
+   "ticket": "single",
+   "espn": {
+    "legs": [
+     {
+      "kind": "prop",
+      "player": "Isaiah Stewart",
+      "ou": "U",
+      "line": 5.5,
+      "stat": "rebounds",
+      "label": "Isaiah Stewart U 5.5 rebounds",
+      "path": "basketball/nba",
+      "event": "401909300",
+      "date": "20261113",
+      "snapshot": {
+       "source": "espn",
+       "state": "in",
+       "detail": "11:32 - 1st",
+       "start": "2026-11-14T01:00Z",
+       "period": 1,
+       "clock": "11:32",
+       "teams": [
+        {
+         "name": "Memphis Grizzlies",
+         "short": "Grizzlies",
+         "abbr": "MEM",
+         "score": 0,
+         "ha": "away",
+         "winner": null,
+         "linescores": [
+          0
+         ]
+        },
+        {
+         "name": "New Orleans Pelicans",
+         "short": "Pelicans",
+         "abbr": "NO",
+         "score": 0,
+         "ha": "home",
+         "winner": null,
+         "linescores": [
+          0
+         ]
+        }
+       ],
+       "stat": {
+        "v": 0,
+        "name": "Isaiah Stewart"
+       }
+      },
+      "source": "espn"
+     }
+    ],
+    "sport": "NBA",
+    "ticket": "single"
+   }
+  },
+  {
+   "n": 786,
+   "league": "NBA",
+   "type": "Player Prop",
+   "matchup": "Atlanta Hawks @ Chicago Bulls",
+   "pick": "Jalen Johnson UNDER 22.5 points",
+   "odds": -113,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-13T17:10:00",
+   "timed": true,
+   "ticket": "single",
+   "espn": {
+    "legs": [
+     {
+      "kind": "prop",
+      "player": "Jalen Johnson",
+      "ou": "U",
+      "line": 22.5,
+      "stat": "points",
+      "label": "Jalen Johnson U 22.5 points",
+      "path": "basketball/nba",
+      "event": "401909299",
+      "date": "20261113",
+      "snapshot": {
+       "source": "espn",
+       "state": "in",
+       "detail": "11:55 - 1st",
+       "start": "2026-11-14T01:00Z",
+       "period": 1,
+       "clock": "11:55",
+       "teams": [
+        {
+         "name": "Atlanta Hawks",
+         "short": "Hawks",
+         "abbr": "ATL",
+         "score": 0,
+         "ha": "away",
+         "winner": null,
+         "linescores": [
+          0
+         ]
+        },
+        {
+         "name": "Chicago Bulls",
+         "short": "Bulls",
+         "abbr": "CHI",
+         "score": 0,
+         "ha": "home",
+         "winner": null,
+         "linescores": [
+          0
+         ]
+        }
+       ],
+       "stat": {
+        "v": 0,
+        "name": "Jalen Johnson"
+       }
+      },
+      "source": "espn"
+     }
+    ],
+    "sport": "NBA",
+    "ticket": "single"
+   }
+  },
+  {
+   "n": 788,
+   "league": "NBA",
+   "type": "Player Prop",
+   "matchup": "Atlanta Hawks @ Chicago Bulls",
+   "pick": "Aaron Wiggins OVER 2.5 threes",
+   "odds": 117,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-13T17:10:00",
+   "timed": true,
+   "ticket": "single",
+   "espn": {
+    "legs": [
+     {
+      "kind": "prop",
+      "player": "Aaron Wiggins",
+      "ou": "O",
+      "line": 2.5,
+      "stat": "threes",
+      "label": "Aaron Wiggins O 2.5 threes",
+      "path": "basketball/nba",
+      "event": "401909299",
+      "date": "20261113",
+      "snapshot": {
+       "source": "espn",
+       "state": "in",
+       "detail": "11:55 - 1st",
+       "start": "2026-11-14T01:00Z",
+       "period": 1,
+       "clock": "11:55",
+       "teams": [
+        {
+         "name": "Atlanta Hawks",
+         "short": "Hawks",
+         "abbr": "ATL",
+         "score": 0,
+         "ha": "away",
+         "winner": null,
+         "linescores": [
+          0
+         ]
+        },
+        {
+         "name": "Chicago Bulls",
+         "short": "Bulls",
+         "abbr": "CHI",
+         "score": 0,
+         "ha": "home",
+         "winner": null,
+         "linescores": [
+          0
+         ]
+        }
+       ],
+       "stat": null
+      },
+      "source": "espn"
+     }
+    ],
+    "sport": "NBA",
     "ticket": "single"
    }
   }
