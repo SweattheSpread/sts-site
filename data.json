@@ -1,5 +1,5 @@
 {
- "updated": "Nov 13, 2026, 5:40 PM PT",
+ "updated": "Nov 13, 2026, 5:43 PM PT",
  "record": {
   "w": 159,
   "l": 157,
@@ -152,16 +152,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "3:04 - 1st",
+       "detail": "2:17 - 1st",
        "start": "2026-11-14T01:00Z",
        "period": 1,
-       "clock": "3:04",
+       "clock": "2:17",
        "teams": [
         {
          "name": "Illinois State Redbirds",
          "short": "Redbirds",
          "abbr": "ILST",
-         "score": 23,
+         "score": 24,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -215,16 +215,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "4:50 - 3rd",
+       "detail": "3:45 - 3rd",
        "start": "2026-11-14T00:00Z",
        "period": 3,
-       "clock": "4:50",
+       "clock": "3:45",
        "teams": [
         {
          "name": "Milwaukee Bucks",
          "short": "Bucks",
          "abbr": "MIL",
-         "score": 55,
+         "score": 58,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -237,7 +237,7 @@
          "name": "Orlando Magic",
          "short": "Magic",
          "abbr": "ORL",
-         "score": 67,
+         "score": 71,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -916,10 +916,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "9:24 - 2nd",
+       "detail": "8:27 - 2nd",
        "start": "2026-11-14T00:00Z",
        "period": 2,
-       "clock": "9:24",
+       "clock": "8:27",
        "teams": [
         {
          "name": "Sam Houston Bearkats",
@@ -937,7 +937,7 @@
          "name": "Illinois Fighting Illini",
          "short": "Fighting Illini",
          "abbr": "ILL",
-         "score": 80,
+         "score": 85,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -980,10 +980,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "9:24 - 2nd",
+       "detail": "8:27 - 2nd",
        "start": "2026-11-14T00:00Z",
        "period": 2,
-       "clock": "9:24",
+       "clock": "8:27",
        "teams": [
         {
          "name": "Sam Houston Bearkats",
@@ -1001,7 +1001,7 @@
          "name": "Illinois Fighting Illini",
          "short": "Fighting Illini",
          "abbr": "ILL",
-         "score": 80,
+         "score": 85,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -1043,16 +1043,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "6:40 - 1st",
+       "detail": "5:32 - 1st",
        "start": "2026-11-14T01:00Z",
        "period": 1,
-       "clock": "6:40",
+       "clock": "5:32",
        "teams": [
         {
          "name": "SIU Edwardsville Cougars",
          "short": "Cougars",
          "abbr": "SIUE",
-         "score": 8,
+         "score": 10,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -1063,7 +1063,7 @@
          "name": "Duke Blue Devils",
          "short": "Blue Devils",
          "abbr": "DUKE",
-         "score": 25,
+         "score": 27,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -1105,16 +1105,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "6:40 - 1st",
+       "detail": "5:32 - 1st",
        "start": "2026-11-14T01:00Z",
        "period": 1,
-       "clock": "6:40",
+       "clock": "5:32",
        "teams": [
         {
          "name": "SIU Edwardsville Cougars",
          "short": "Cougars",
          "abbr": "SIUE",
-         "score": 8,
+         "score": 10,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -1125,7 +1125,7 @@
          "name": "Duke Blue Devils",
          "short": "Blue Devils",
          "abbr": "DUKE",
-         "score": 25,
+         "score": 27,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -1168,16 +1168,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "11:40 - 2nd",
+       "detail": "10:34 - 2nd",
        "start": "2026-11-14T01:00Z",
        "period": 2,
-       "clock": "11:40",
+       "clock": "10:34",
        "teams": [
         {
          "name": "Memphis Grizzlies",
          "short": "Grizzlies",
          "abbr": "MEM",
-         "score": 36,
+         "score": 40,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -1189,7 +1189,7 @@
          "name": "New Orleans Pelicans",
          "short": "Pelicans",
          "abbr": "NO",
-         "score": 28,
+         "score": 31,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -1237,16 +1237,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "11:04 - 2nd",
+       "detail": "9:47 - 2nd",
        "start": "2026-11-14T01:00Z",
        "period": 2,
-       "clock": "11:04",
+       "clock": "9:47",
        "teams": [
         {
          "name": "Atlanta Hawks",
          "short": "Hawks",
          "abbr": "ATL",
-         "score": 26,
+         "score": 28,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -1258,7 +1258,7 @@
          "name": "Chicago Bulls",
          "short": "Bulls",
          "abbr": "CHI",
-         "score": 36,
+         "score": 41,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -1300,36 +1300,46 @@
       "line": 6.5,
       "stat": "assists",
       "label": "Alperen Sengun O 6.5 assists",
+      "path": "basketball/nba",
+      "event": "401909301",
       "date": "20261113",
-      "unverified": true,
-      "reason": "Player not found in this game",
       "snapshot": {
-       "source": "odds-api",
-       "state": "pre",
-       "detail": "Scheduled",
-       "start": "2026-11-14T01:42:00Z",
+       "source": "espn",
+       "state": "in",
+       "detail": "10:37 - 1st",
+       "start": "2026-11-14T01:30Z",
+       "period": 1,
+       "clock": "10:37",
        "teams": [
         {
          "name": "Utah Jazz",
-         "short": "Utah Jazz",
-         "abbr": "",
-         "score": 0,
+         "short": "Jazz",
+         "abbr": "UTAH",
+         "score": 5,
          "ha": "away",
          "winner": null,
-         "linescores": []
+         "linescores": [
+          0
+         ]
         },
         {
          "name": "Houston Rockets",
-         "short": "Houston Rockets",
-         "abbr": "",
-         "score": 0,
+         "short": "Rockets",
+         "abbr": "HOU",
+         "score": 4,
          "ha": "home",
          "winner": null,
-         "linescores": []
+         "linescores": [
+          0
+         ]
         }
-       ]
+       ],
+       "stat": {
+        "v": 0,
+        "name": "Alperen Sengun"
+       }
       },
-      "source": "odds-api"
+      "source": "espn"
      }
     ],
     "sport": "NBA",
@@ -1363,16 +1373,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "11:04 - 2nd",
+       "detail": "9:47 - 2nd",
        "start": "2026-11-14T01:00Z",
        "period": 2,
-       "clock": "11:04",
+       "clock": "9:47",
        "teams": [
         {
          "name": "Atlanta Hawks",
          "short": "Hawks",
          "abbr": "ATL",
-         "score": 26,
+         "score": 28,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -1384,7 +1394,7 @@
          "name": "Chicago Bulls",
          "short": "Bulls",
          "abbr": "CHI",
-         "score": 36,
+         "score": 41,
          "ha": "home",
          "winner": null,
          "linescores": [
