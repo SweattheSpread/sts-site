@@ -1,5 +1,5 @@
 {
- "updated": "Nov 13, 2026, 8:36 PM PT",
+ "updated": "Nov 13, 2026, 8:39 PM PT",
  "record": {
   "w": 159,
   "l": 157,
@@ -1046,10 +1046,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "4:39 - 2nd",
+       "detail": "4:02 - 2nd",
        "start": "2026-11-14T03:00Z",
        "period": 2,
-       "clock": "4:39",
+       "clock": "4:02",
        "teams": [
         {
          "name": "UIC Flames",
@@ -1067,7 +1067,7 @@
          "name": "Saint Mary's Gaels",
          "short": "Gaels",
          "abbr": "SMC",
-         "score": 73,
+         "score": 77,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -1184,19 +1184,20 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "End of 3rd",
+       "detail": "10:54 - 4th",
        "start": "2026-11-14T02:30Z",
-       "period": 3,
-       "clock": "0.0",
+       "period": 4,
+       "clock": "10:54",
        "teams": [
         {
          "name": "Golden State Warriors",
          "short": "Warriors",
          "abbr": "GS",
-         "score": 60,
+         "score": 61,
          "ha": "away",
          "winner": null,
          "linescores": [
+          0,
           0,
           0,
           0
@@ -1206,10 +1207,11 @@
          "name": "San Antonio Spurs",
          "short": "Spurs",
          "abbr": "SA",
-         "score": 97,
+         "score": 99,
          "ha": "home",
          "winner": null,
          "linescores": [
+          0,
           0,
           0,
           0
