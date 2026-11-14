@@ -1,5 +1,5 @@
 {
- "updated": "Nov 13, 2026, 8:18 PM PT",
+ "updated": "Nov 13, 2026, 8:20 PM PT",
  "record": {
   "w": 159,
   "l": 157,
@@ -1046,10 +1046,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "11:04 - 2nd",
+       "detail": "11:03 - 2nd",
        "start": "2026-11-14T03:00Z",
        "period": 2,
-       "clock": "11:04",
+       "clock": "11:03",
        "teams": [
         {
          "name": "UIC Flames",
@@ -1184,16 +1184,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "7:25 - 3rd",
+       "detail": "6:37 - 3rd",
        "start": "2026-11-14T02:30Z",
        "period": 3,
-       "clock": "7:25",
+       "clock": "6:37",
        "teams": [
         {
          "name": "Golden State Warriors",
          "short": "Warriors",
          "abbr": "GS",
-         "score": 43,
+         "score": 45,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -1206,7 +1206,7 @@
          "name": "San Antonio Spurs",
          "short": "Spurs",
          "abbr": "SA",
-         "score": 76,
+         "score": 79,
          "ha": "home",
          "winner": null,
          "linescores": [
