@@ -1,5 +1,5 @@
 {
- "updated": "Nov 14, 2026, 9:45 AM PT",
+ "updated": "Nov 14, 2026, 9:47 AM PT",
  "record": {
   "w": 164,
   "l": 163,
@@ -11,7 +11,7 @@
   "first": "2026-10-12",
   "last": "2026-11-13"
  },
- "pending": 25,
+ "pending": 26,
  "plays": [
   {
    "n": 334,
@@ -5513,6 +5513,22 @@
    "pick": "Northwestern Wildcats ML LIVE",
    "odds": 400,
    "units": 0.5,
+   "result": null,
+   "pl": null,
+   "pending": true
+  },
+  {
+   "n": 804,
+   "date": "2026-11-14",
+   "day": "2026-11-14",
+   "league": "NCAAF",
+   "market": "total",
+   "market_label": "Total",
+   "ticket": "single",
+   "matchup": "Cincinnati Bearcats @ Iowa State Cyclones",
+   "pick": "2nd Quarter Total Over 17.5 (both teams) LIVE",
+   "odds": -115,
+   "units": 2.5,
    "result": null,
    "pl": null,
    "pending": true

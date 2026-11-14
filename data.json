@@ -1,5 +1,5 @@
 {
- "updated": "Nov 14, 2026, 9:45 AM PT",
+ "updated": "Nov 14, 2026, 9:47 AM PT",
  "record": {
   "w": 164,
   "l": 163,
@@ -11,7 +11,7 @@
   "first": "2026-10-12",
   "last": "2026-11-13"
  },
- "pending": 25,
+ "pending": 26,
  "latest": [
   {
    "n": 788,
@@ -1362,10 +1362,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "9:47 - 2nd",
+       "detail": "8:37 - 2nd",
        "start": "2026-11-14T17:00Z",
        "period": 2,
-       "clock": "9:47",
+       "clock": "8:37",
        "teams": [
         {
          "name": "Syracuse Orange",
@@ -1424,10 +1424,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "15:00 - 2nd",
+       "detail": "14:15 - 2nd",
        "start": "2026-11-14T17:00Z",
        "period": 2,
-       "clock": "15:00",
+       "clock": "14:15",
        "teams": [
         {
          "name": "Northwestern Wildcats",
@@ -1446,6 +1446,70 @@
          "short": "Buckeyes",
          "abbr": "OSU",
          "score": 0,
+         "ha": "home",
+         "winner": null,
+         "linescores": [
+          0,
+          0
+         ]
+        }
+       ]
+      },
+      "source": "espn"
+     }
+    ],
+    "sport": "NCAAF",
+    "ticket": "single"
+   }
+  },
+  {
+   "n": 804,
+   "league": "NCAAF",
+   "type": "Over/Under",
+   "matchup": "Cincinnati Bearcats @ Iowa State Cyclones",
+   "pick": "2nd Quarter Total Over 17.5 (both teams) LIVE",
+   "odds": -115,
+   "units": 2.5,
+   "gap": null,
+   "start": "2026-11-14T09:00:00",
+   "timed": true,
+   "ticket": "single",
+   "espn": {
+    "legs": [
+     {
+      "kind": "total",
+      "side": "2nd Quarter Total",
+      "ou": "O",
+      "line": 17.5,
+      "label": "2nd Quarter Total O 17.5",
+      "path": "football/college-football",
+      "event": "401856859",
+      "date": "20261114",
+      "snapshot": {
+       "source": "espn",
+       "state": "in",
+       "detail": "14:49 - 2nd",
+       "start": "2026-11-14T17:00Z",
+       "period": 2,
+       "clock": "14:49",
+       "teams": [
+        {
+         "name": "Cincinnati Bearcats",
+         "short": "Bearcats",
+         "abbr": "CIN",
+         "score": 7,
+         "ha": "away",
+         "winner": null,
+         "linescores": [
+          0,
+          0
+         ]
+        },
+        {
+         "name": "Iowa State Cyclones",
+         "short": "Cyclones",
+         "abbr": "ISU",
+         "score": 28,
          "ha": "home",
          "winner": null,
          "linescores": [
