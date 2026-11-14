@@ -1,17 +1,17 @@
 {
- "updated": "Nov 13, 2026, 9:08 PM PT",
+ "updated": "Nov 13, 2026, 11:17 PM PT",
  "record": {
-  "w": 159,
-  "l": 157,
+  "w": 164,
+  "l": 163,
   "p": 0,
-  "n": 316,
-  "units": 38.38,
-  "risked": 457.25,
-  "roi": 8.39,
+  "n": 327,
+  "units": 36.57,
+  "risked": 470.25,
+  "roi": 7.78,
   "first": "2026-10-12",
-  "last": "2026-11-12"
+  "last": "2026-11-13"
  },
- "pending": 21,
+ "pending": 10,
  "plays": [
   {
    "n": 334,
@@ -5161,9 +5161,9 @@
    "pick": "Sam Houston +36.5",
    "odds": -110,
    "units": 1.0,
-   "result": null,
-   "pl": null,
-   "pending": true
+   "result": "W",
+   "pl": 0.91,
+   "pending": false
   },
   {
    "n": 779,
@@ -5177,9 +5177,9 @@
    "pick": "Under 171.5 total points",
    "odds": -105,
    "units": 1.0,
-   "result": null,
-   "pl": null,
-   "pending": true
+   "result": "L",
+   "pl": -1.0,
+   "pending": false
   },
   {
    "n": 780,
@@ -5193,9 +5193,9 @@
    "pick": "SIU Edwardsville +44.5",
    "odds": -105,
    "units": 1.0,
-   "result": null,
-   "pl": null,
-   "pending": true
+   "result": "W",
+   "pl": 0.95,
+   "pending": false
   },
   {
    "n": 781,
@@ -5209,9 +5209,9 @@
    "pick": "Under 148.5 total points",
    "odds": -110,
    "units": 1.0,
-   "result": null,
-   "pl": null,
-   "pending": true
+   "result": "W",
+   "pl": 0.91,
+   "pending": false
   },
   {
    "n": 782,
@@ -5225,9 +5225,9 @@
    "pick": "Ball State +23.5",
    "odds": -115,
    "units": 1.0,
-   "result": null,
-   "pl": null,
-   "pending": true
+   "result": "L",
+   "pl": -1.0,
+   "pending": false
   },
   {
    "n": 783,
@@ -5241,9 +5241,9 @@
    "pick": "Under 150.5 total points",
    "odds": -105,
    "units": 1.0,
-   "result": null,
-   "pl": null,
-   "pending": true
+   "result": "W",
+   "pl": 0.95,
+   "pending": false
   },
   {
    "n": 784,
@@ -5257,9 +5257,9 @@
    "pick": "Isaiah Stewart UNDER 5.5 rebounds",
    "odds": -136,
    "units": 2.0,
-   "result": null,
-   "pl": null,
-   "pending": true
+   "result": "W",
+   "pl": 1.47,
+   "pending": false
   },
   {
    "n": 785,
@@ -5273,9 +5273,9 @@
    "pick": "Draymond Green OVER 5.5 assists",
    "odds": -120,
    "units": 2.0,
-   "result": null,
-   "pl": null,
-   "pending": true
+   "result": "L",
+   "pl": -2.0,
+   "pending": false
   },
   {
    "n": 786,
@@ -5289,9 +5289,9 @@
    "pick": "Jalen Johnson UNDER 22.5 points",
    "odds": -113,
    "units": 1.0,
-   "result": null,
-   "pl": null,
-   "pending": true
+   "result": "L",
+   "pl": -1.0,
+   "pending": false
   },
   {
    "n": 787,
@@ -5305,9 +5305,9 @@
    "pick": "Alperen Sengun OVER 6.5 assists",
    "odds": -115,
    "units": 1.0,
-   "result": null,
-   "pl": null,
-   "pending": true
+   "result": "L",
+   "pl": -1.0,
+   "pending": false
   },
   {
    "n": 788,
@@ -5321,9 +5321,9 @@
    "pick": "Aaron Wiggins OVER 2.5 threes",
    "odds": 117,
    "units": 1.0,
-   "result": null,
-   "pl": null,
-   "pending": true
+   "result": "L",
+   "pl": -1.0,
+   "pending": false
   },
   {
    "n": 746,

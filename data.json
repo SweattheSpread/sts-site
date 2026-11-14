@@ -1,124 +1,124 @@
 {
- "updated": "Nov 13, 2026, 9:08 PM PT",
+ "updated": "Nov 13, 2026, 11:17 PM PT",
  "record": {
-  "w": 159,
-  "l": 157,
+  "w": 164,
+  "l": 163,
   "p": 0,
-  "n": 316,
-  "units": 38.38,
-  "risked": 457.25,
-  "roi": 8.39,
+  "n": 327,
+  "units": 36.57,
+  "risked": 470.25,
+  "roi": 7.78,
   "first": "2026-10-12",
-  "last": "2026-11-12"
+  "last": "2026-11-13"
  },
- "pending": 21,
+ "pending": 10,
  "latest": [
   {
-   "n": 777,
-   "date": "2026-11-12",
-   "day": "2026-11-12",
-   "league": "NHL",
+   "n": 788,
+   "date": "2026-11-13",
+   "day": "2026-11-13",
+   "league": "NBA",
    "type": "Player Prop",
-   "matchup": "St. Louis Blues @ Utah Mammoth",
-   "pick": "MacKenzie Weegar UNDER 1.5 shots on goal",
-   "odds": 115,
+   "matchup": "Atlanta Hawks @ Chicago Bulls",
+   "pick": "Aaron Wiggins OVER 2.5 threes",
+   "odds": 117,
    "units": 1.0,
    "result": "L",
    "pl": -1.0,
    "ticket": "single"
   },
   {
-   "n": 776,
-   "date": "2026-11-12",
-   "day": "2026-11-12",
-   "league": "NHL",
-   "type": "Over/Under",
-   "matchup": "Detroit Red Wings @ Florida Panthers",
-   "pick": "Under 6 total goals (full game; even-number total, push at 6)",
-   "odds": -114,
-   "units": 3.0,
-   "result": "L",
-   "pl": -3.0,
-   "ticket": "single"
-  },
-  {
-   "n": 775,
-   "date": "2026-11-12",
-   "day": "2026-11-12",
-   "league": "NHL",
+   "n": 787,
+   "date": "2026-11-13",
+   "day": "2026-11-13",
+   "league": "NBA",
    "type": "Player Prop",
-   "matchup": "Washington Capitals @ New Jersey Devils",
-   "pick": "Dougie Hamilton OVER 2.5 shots on goal",
-   "odds": 155,
-   "units": 1.0,
-   "result": "W",
-   "pl": 1.55,
-   "ticket": "single"
-  },
-  {
-   "n": 774,
-   "date": "2026-11-12",
-   "day": "2026-11-12",
-   "league": "NHL",
-   "type": "Player Prop",
-   "matchup": "Washington Capitals @ New Jersey Devils",
-   "pick": "Luke Evangelista OVER 2.5 shots on goal",
-   "odds": 130,
+   "matchup": "Utah Jazz @ Houston Rockets",
+   "pick": "Alperen Sengun OVER 6.5 assists",
+   "odds": -115,
    "units": 1.0,
    "result": "L",
    "pl": -1.0,
    "ticket": "single"
   },
   {
-   "n": 773,
-   "date": "2026-11-12",
-   "day": "2026-11-12",
-   "league": "NHL",
+   "n": 786,
+   "date": "2026-11-13",
+   "day": "2026-11-13",
+   "league": "NBA",
    "type": "Player Prop",
-   "matchup": "Washington Capitals @ New Jersey Devils",
-   "pick": "Cole Hutson OVER 0.5 points",
-   "odds": 155,
+   "matchup": "Atlanta Hawks @ Chicago Bulls",
+   "pick": "Jalen Johnson UNDER 22.5 points",
+   "odds": -113,
    "units": 1.0,
-   "result": "W",
-   "pl": 1.55,
+   "result": "L",
+   "pl": -1.0,
    "ticket": "single"
   },
   {
-   "n": 772,
-   "date": "2026-11-12",
-   "day": "2026-11-12",
+   "n": 785,
+   "date": "2026-11-13",
+   "day": "2026-11-13",
+   "league": "NBA",
+   "type": "Player Prop",
+   "matchup": "Golden State Warriors @ San Antonio Spurs",
+   "pick": "Draymond Green OVER 5.5 assists",
+   "odds": -120,
+   "units": 2.0,
+   "result": "L",
+   "pl": -2.0,
+   "ticket": "single"
+  },
+  {
+   "n": 784,
+   "date": "2026-11-13",
+   "day": "2026-11-13",
+   "league": "NBA",
+   "type": "Player Prop",
+   "matchup": "Memphis Grizzlies @ New Orleans Pelicans",
+   "pick": "Isaiah Stewart UNDER 5.5 rebounds",
+   "odds": -136,
+   "units": 2.0,
+   "result": "W",
+   "pl": 1.47,
+   "ticket": "single"
+  },
+  {
+   "n": 783,
+   "date": "2026-11-13",
+   "day": "2026-11-13",
    "league": "NCAAB",
    "type": "Over/Under",
-   "matchup": "Oklahoma St Cowboys @ Texas A&M Aggies",
-   "pick": "Under 179 total points",
-   "odds": -110,
+   "matchup": "UIC Flames @ Saint Mary's Gaels",
+   "pick": "Under 150.5 total points",
+   "odds": -105,
    "units": 1.0,
    "result": "W",
-   "pl": 0.91,
+   "pl": 0.95,
    "ticket": "single"
   },
   {
-   "n": 771,
-   "date": "2026-11-12",
-   "day": "2026-11-12",
+   "n": 782,
+   "date": "2026-11-13",
+   "day": "2026-11-13",
    "league": "NCAAB",
    "type": "Spread",
-   "matchup": "Maryland-Eastern Shore Hawks @ Rhode Island Rams",
-   "pick": "Maryland-Eastern Shore Hawks +24",
-   "odds": -110,
+   "matchup": "Ball State Cardinals @ SMU Mustangs",
+   "pick": "Ball State +23.5",
+   "odds": -115,
    "units": 1.0,
-   "result": "W",
-   "pl": 0.91,
+   "result": "L",
+   "pl": -1.0,
    "ticket": "single"
   },
   {
-   "n": 770,
-   "date": "2026-11-12",
-   "day": "2026-11-12",
+   "n": 781,
+   "date": "2026-11-13",
+   "day": "2026-11-13",
    "league": "NCAAB",
    "type": "Over/Under",
-   "matchup": "Mercer Bears @ West Virginia Mountaineers",
-   "pick": "Under 151.5 total points",
+   "matchup": "SIU Edwardsville Cougars @ Duke Blue Devils",
+   "pick": "Under 148.5 total points",
    "odds": -110,
    "units": 1.0,
    "result": "W",
@@ -700,760 +700,7 @@
    }
   }
  ],
- "awaiting": [
-  {
-   "n": 778,
-   "league": "NCAAB",
-   "type": "Spread",
-   "matchup": "Sam Houston Bearkats @ Illinois Fighting Illini",
-   "pick": "Sam Houston +36.5",
-   "odds": -110,
-   "units": 1.0,
-   "gap": null,
-   "start": "2026-11-13T16:00:00",
-   "timed": true,
-   "ticket": "single",
-   "espn": {
-    "legs": [
-     {
-      "kind": "spread",
-      "side": "Sam Houston",
-      "line": 36.5,
-      "label": "Sam Houston +36.5",
-      "path": "basketball/mens-college-basketball",
-      "event": "401913528",
-      "date": "20261113",
-      "snapshot": {
-       "source": "espn",
-       "state": "post",
-       "detail": "Final",
-       "start": "2026-11-14T00:00Z",
-       "period": null,
-       "clock": null,
-       "teams": [
-        {
-         "name": "Sam Houston Bearkats",
-         "short": "Bearkats",
-         "abbr": "SHSU",
-         "score": 86,
-         "ha": "away",
-         "winner": false,
-         "linescores": [
-          0,
-          0
-         ]
-        },
-        {
-         "name": "Illinois Fighting Illini",
-         "short": "Fighting Illini",
-         "abbr": "ILL",
-         "score": 108,
-         "ha": "home",
-         "winner": true,
-         "linescores": [
-          0,
-          0
-         ]
-        }
-       ]
-      },
-      "source": "espn"
-     }
-    ],
-    "sport": "NCAAB",
-    "ticket": "single"
-   }
-  },
-  {
-   "n": 779,
-   "league": "NCAAB",
-   "type": "Over/Under",
-   "matchup": "Sam Houston Bearkats @ Illinois Fighting Illini",
-   "pick": "Under 171.5 total points",
-   "odds": -105,
-   "units": 1.0,
-   "gap": null,
-   "start": "2026-11-13T16:00:00",
-   "timed": true,
-   "ticket": "single",
-   "espn": {
-    "legs": [
-     {
-      "kind": "total",
-      "side": null,
-      "ou": "U",
-      "line": 171.5,
-      "label": "U 171.5",
-      "path": "basketball/mens-college-basketball",
-      "event": "401913528",
-      "date": "20261113",
-      "snapshot": {
-       "source": "espn",
-       "state": "post",
-       "detail": "Final",
-       "start": "2026-11-14T00:00Z",
-       "period": null,
-       "clock": null,
-       "teams": [
-        {
-         "name": "Sam Houston Bearkats",
-         "short": "Bearkats",
-         "abbr": "SHSU",
-         "score": 86,
-         "ha": "away",
-         "winner": false,
-         "linescores": [
-          0,
-          0
-         ]
-        },
-        {
-         "name": "Illinois Fighting Illini",
-         "short": "Fighting Illini",
-         "abbr": "ILL",
-         "score": 108,
-         "ha": "home",
-         "winner": true,
-         "linescores": [
-          0,
-          0
-         ]
-        }
-       ]
-      },
-      "source": "espn"
-     }
-    ],
-    "sport": "NCAAB",
-    "ticket": "single"
-   }
-  },
-  {
-   "n": 780,
-   "league": "NCAAB",
-   "type": "Spread",
-   "matchup": "SIU Edwardsville Cougars @ Duke Blue Devils",
-   "pick": "SIU Edwardsville +44.5",
-   "odds": -105,
-   "units": 1.0,
-   "gap": null,
-   "start": "2026-11-13T17:00:00",
-   "timed": true,
-   "ticket": "single",
-   "espn": {
-    "legs": [
-     {
-      "kind": "spread",
-      "side": "SIU Edwardsville",
-      "line": 44.5,
-      "label": "SIU Edwardsville +44.5",
-      "path": "basketball/mens-college-basketball",
-      "event": "401909565",
-      "date": "20261113",
-      "snapshot": {
-       "source": "espn",
-       "state": "post",
-       "detail": "Final",
-       "start": "2026-11-14T01:00Z",
-       "period": null,
-       "clock": null,
-       "teams": [
-        {
-         "name": "SIU Edwardsville Cougars",
-         "short": "Cougars",
-         "abbr": "SIUE",
-         "score": 47,
-         "ha": "away",
-         "winner": false,
-         "linescores": [
-          0,
-          0
-         ]
-        },
-        {
-         "name": "Duke Blue Devils",
-         "short": "Blue Devils",
-         "abbr": "DUKE",
-         "score": 90,
-         "ha": "home",
-         "winner": true,
-         "linescores": [
-          0,
-          0
-         ]
-        }
-       ]
-      },
-      "source": "espn"
-     }
-    ],
-    "sport": "NCAAB",
-    "ticket": "single"
-   }
-  },
-  {
-   "n": 781,
-   "league": "NCAAB",
-   "type": "Over/Under",
-   "matchup": "SIU Edwardsville Cougars @ Duke Blue Devils",
-   "pick": "Under 148.5 total points",
-   "odds": -110,
-   "units": 1.0,
-   "gap": null,
-   "start": "2026-11-13T17:00:00",
-   "timed": true,
-   "ticket": "single",
-   "espn": {
-    "legs": [
-     {
-      "kind": "total",
-      "side": null,
-      "ou": "U",
-      "line": 148.5,
-      "label": "U 148.5",
-      "path": "basketball/mens-college-basketball",
-      "event": "401909565",
-      "date": "20261113",
-      "snapshot": {
-       "source": "espn",
-       "state": "post",
-       "detail": "Final",
-       "start": "2026-11-14T01:00Z",
-       "period": null,
-       "clock": null,
-       "teams": [
-        {
-         "name": "SIU Edwardsville Cougars",
-         "short": "Cougars",
-         "abbr": "SIUE",
-         "score": 47,
-         "ha": "away",
-         "winner": false,
-         "linescores": [
-          0,
-          0
-         ]
-        },
-        {
-         "name": "Duke Blue Devils",
-         "short": "Blue Devils",
-         "abbr": "DUKE",
-         "score": 90,
-         "ha": "home",
-         "winner": true,
-         "linescores": [
-          0,
-          0
-         ]
-        }
-       ]
-      },
-      "source": "espn"
-     }
-    ],
-    "sport": "NCAAB",
-    "ticket": "single"
-   }
-  },
-  {
-   "n": 782,
-   "league": "NCAAB",
-   "type": "Spread",
-   "matchup": "Ball State Cardinals @ SMU Mustangs",
-   "pick": "Ball State +23.5",
-   "odds": -115,
-   "units": 1.0,
-   "gap": null,
-   "start": "2026-11-13T18:00:00",
-   "timed": true,
-   "ticket": "single",
-   "espn": {
-    "legs": [
-     {
-      "kind": "spread",
-      "side": "Ball State",
-      "line": 23.5,
-      "label": "Ball State +23.5",
-      "path": "basketball/mens-college-basketball",
-      "event": "401927374",
-      "date": "20261113",
-      "snapshot": {
-       "source": "espn",
-       "state": "post",
-       "detail": "Final/OT",
-       "start": "2026-11-14T01:00Z",
-       "period": null,
-       "clock": null,
-       "teams": [
-        {
-         "name": "Illinois State Redbirds",
-         "short": "Redbirds",
-         "abbr": "ILST",
-         "score": 81,
-         "ha": "away",
-         "winner": false,
-         "linescores": [
-          0,
-          0,
-          0
-         ]
-        },
-        {
-         "name": "North Dakota State Bison",
-         "short": "Bison",
-         "abbr": "NDSU",
-         "score": 82,
-         "ha": "home",
-         "winner": true,
-         "linescores": [
-          0,
-          0,
-          0
-         ]
-        }
-       ]
-      },
-      "source": "espn"
-     }
-    ],
-    "sport": "NCAAB",
-    "ticket": "single"
-   }
-  },
-  {
-   "n": 783,
-   "league": "NCAAB",
-   "type": "Over/Under",
-   "matchup": "UIC Flames @ Saint Mary's Gaels",
-   "pick": "Under 150.5 total points",
-   "odds": -105,
-   "units": 1.0,
-   "gap": null,
-   "start": "2026-11-13T19:00:00",
-   "timed": true,
-   "ticket": "single",
-   "espn": {
-    "legs": [
-     {
-      "kind": "total",
-      "side": null,
-      "ou": "U",
-      "line": 150.5,
-      "label": "U 150.5",
-      "path": "basketball/mens-college-basketball",
-      "event": "401917525",
-      "date": "20261113",
-      "snapshot": {
-       "source": "espn",
-       "state": "post",
-       "detail": "Final",
-       "start": "2026-11-14T03:00Z",
-       "period": null,
-       "clock": null,
-       "teams": [
-        {
-         "name": "UIC Flames",
-         "short": "Flames",
-         "abbr": "UIC",
-         "score": 61,
-         "ha": "away",
-         "winner": false,
-         "linescores": [
-          0,
-          0
-         ]
-        },
-        {
-         "name": "Saint Mary's Gaels",
-         "short": "Gaels",
-         "abbr": "SMC",
-         "score": 84,
-         "ha": "home",
-         "winner": true,
-         "linescores": [
-          0,
-          0
-         ]
-        }
-       ]
-      },
-      "source": "espn"
-     }
-    ],
-    "sport": "NCAAB",
-    "ticket": "single"
-   }
-  },
-  {
-   "n": 784,
-   "league": "NBA",
-   "type": "Player Prop",
-   "matchup": "Memphis Grizzlies @ New Orleans Pelicans",
-   "pick": "Isaiah Stewart UNDER 5.5 rebounds",
-   "odds": -136,
-   "units": 2.0,
-   "gap": null,
-   "start": "2026-11-13T17:10:00",
-   "timed": true,
-   "ticket": "single",
-   "espn": {
-    "legs": [
-     {
-      "kind": "prop",
-      "player": "Isaiah Stewart",
-      "ou": "U",
-      "line": 5.5,
-      "stat": "rebounds",
-      "label": "Isaiah Stewart U 5.5 rebounds",
-      "path": "basketball/nba",
-      "event": "401909300",
-      "date": "20261113",
-      "snapshot": {
-       "source": "espn",
-       "state": "post",
-       "detail": "Final",
-       "start": "2026-11-14T01:00Z",
-       "period": null,
-       "clock": null,
-       "teams": [
-        {
-         "name": "Memphis Grizzlies",
-         "short": "Grizzlies",
-         "abbr": "MEM",
-         "score": 142,
-         "ha": "away",
-         "winner": true,
-         "linescores": [
-          0,
-          0,
-          0,
-          0
-         ]
-        },
-        {
-         "name": "New Orleans Pelicans",
-         "short": "Pelicans",
-         "abbr": "NO",
-         "score": 111,
-         "ha": "home",
-         "winner": false,
-         "linescores": [
-          0,
-          0,
-          0,
-          0
-         ]
-        }
-       ],
-       "stat": {
-        "v": 5,
-        "name": "Isaiah Stewart"
-       }
-      },
-      "source": "espn"
-     }
-    ],
-    "sport": "NBA",
-    "ticket": "single"
-   }
-  },
-  {
-   "n": 785,
-   "league": "NBA",
-   "type": "Player Prop",
-   "matchup": "Golden State Warriors @ San Antonio Spurs",
-   "pick": "Draymond Green OVER 5.5 assists",
-   "odds": -120,
-   "units": 2.0,
-   "gap": null,
-   "start": "2026-11-13T18:40:00",
-   "timed": true,
-   "ticket": "single",
-   "espn": {
-    "legs": [
-     {
-      "kind": "prop",
-      "player": "Draymond Green",
-      "ou": "O",
-      "line": 5.5,
-      "stat": "assists",
-      "label": "Draymond Green O 5.5 assists",
-      "path": "basketball/nba",
-      "event": "401909302",
-      "date": "20261113",
-      "snapshot": {
-       "source": "espn",
-       "state": "post",
-       "detail": "Final",
-       "start": "2026-11-14T02:30Z",
-       "period": null,
-       "clock": null,
-       "teams": [
-        {
-         "name": "Golden State Warriors",
-         "short": "Warriors",
-         "abbr": "GS",
-         "score": 85,
-         "ha": "away",
-         "winner": false,
-         "linescores": [
-          0,
-          0,
-          0,
-          0
-         ]
-        },
-        {
-         "name": "San Antonio Spurs",
-         "short": "Spurs",
-         "abbr": "SA",
-         "score": 123,
-         "ha": "home",
-         "winner": true,
-         "linescores": [
-          0,
-          0,
-          0,
-          0
-         ]
-        }
-       ],
-       "stat": {
-        "v": 3,
-        "name": "Draymond Green"
-       }
-      },
-      "source": "espn"
-     }
-    ],
-    "sport": "NBA",
-    "ticket": "single"
-   }
-  },
-  {
-   "n": 786,
-   "league": "NBA",
-   "type": "Player Prop",
-   "matchup": "Atlanta Hawks @ Chicago Bulls",
-   "pick": "Jalen Johnson UNDER 22.5 points",
-   "odds": -113,
-   "units": 1.0,
-   "gap": null,
-   "start": "2026-11-13T17:10:00",
-   "timed": true,
-   "ticket": "single",
-   "espn": {
-    "legs": [
-     {
-      "kind": "prop",
-      "player": "Jalen Johnson",
-      "ou": "U",
-      "line": 22.5,
-      "stat": "points",
-      "label": "Jalen Johnson U 22.5 points",
-      "path": "basketball/nba",
-      "event": "401909299",
-      "date": "20261113",
-      "snapshot": {
-       "source": "espn",
-       "state": "post",
-       "detail": "Final/OT",
-       "start": "2026-11-14T01:00Z",
-       "period": null,
-       "clock": null,
-       "teams": [
-        {
-         "name": "Atlanta Hawks",
-         "short": "Hawks",
-         "abbr": "ATL",
-         "score": 117,
-         "ha": "away",
-         "winner": false,
-         "linescores": [
-          0,
-          0,
-          0,
-          0,
-          0
-         ]
-        },
-        {
-         "name": "Chicago Bulls",
-         "short": "Bulls",
-         "abbr": "CHI",
-         "score": 125,
-         "ha": "home",
-         "winner": true,
-         "linescores": [
-          0,
-          0,
-          0,
-          0,
-          0
-         ]
-        }
-       ],
-       "stat": {
-        "v": 27,
-        "name": "Jalen Johnson"
-       }
-      },
-      "source": "espn"
-     }
-    ],
-    "sport": "NBA",
-    "ticket": "single"
-   }
-  },
-  {
-   "n": 787,
-   "league": "NBA",
-   "type": "Player Prop",
-   "matchup": "Utah Jazz @ Houston Rockets",
-   "pick": "Alperen Sengun OVER 6.5 assists",
-   "odds": -115,
-   "units": 1.0,
-   "gap": null,
-   "start": "2026-11-13T17:40:00",
-   "timed": true,
-   "ticket": "single",
-   "espn": {
-    "legs": [
-     {
-      "kind": "prop",
-      "player": "Alperen Sengun",
-      "ou": "O",
-      "line": 6.5,
-      "stat": "assists",
-      "label": "Alperen Sengun O 6.5 assists",
-      "path": "basketball/nba",
-      "event": "401909301",
-      "date": "20261113",
-      "snapshot": {
-       "source": "espn",
-       "state": "post",
-       "detail": "Final",
-       "start": "2026-11-14T01:30Z",
-       "period": null,
-       "clock": null,
-       "teams": [
-        {
-         "name": "Utah Jazz",
-         "short": "Jazz",
-         "abbr": "UTAH",
-         "score": 118,
-         "ha": "away",
-         "winner": false,
-         "linescores": [
-          0,
-          0,
-          0,
-          0
-         ]
-        },
-        {
-         "name": "Houston Rockets",
-         "short": "Rockets",
-         "abbr": "HOU",
-         "score": 125,
-         "ha": "home",
-         "winner": true,
-         "linescores": [
-          0,
-          0,
-          0,
-          0
-         ]
-        }
-       ],
-       "stat": {
-        "v": 5,
-        "name": "Alperen Sengun"
-       }
-      },
-      "source": "espn"
-     }
-    ],
-    "sport": "NBA",
-    "ticket": "single"
-   }
-  },
-  {
-   "n": 788,
-   "league": "NBA",
-   "type": "Player Prop",
-   "matchup": "Atlanta Hawks @ Chicago Bulls",
-   "pick": "Aaron Wiggins OVER 2.5 threes",
-   "odds": 117,
-   "units": 1.0,
-   "gap": null,
-   "start": "2026-11-13T17:10:00",
-   "timed": true,
-   "ticket": "single",
-   "espn": {
-    "legs": [
-     {
-      "kind": "prop",
-      "player": "Aaron Wiggins",
-      "ou": "O",
-      "line": 2.5,
-      "stat": "threes",
-      "label": "Aaron Wiggins O 2.5 threes",
-      "path": "basketball/nba",
-      "event": "401909299",
-      "date": "20261113",
-      "snapshot": {
-       "source": "espn",
-       "state": "post",
-       "detail": "Final/OT",
-       "start": "2026-11-14T01:00Z",
-       "period": null,
-       "clock": null,
-       "teams": [
-        {
-         "name": "Atlanta Hawks",
-         "short": "Hawks",
-         "abbr": "ATL",
-         "score": 117,
-         "ha": "away",
-         "winner": false,
-         "linescores": [
-          0,
-          0,
-          0,
-          0,
-          0
-         ]
-        },
-        {
-         "name": "Chicago Bulls",
-         "short": "Bulls",
-         "abbr": "CHI",
-         "score": 125,
-         "ha": "home",
-         "winner": true,
-         "linescores": [
-          0,
-          0,
-          0,
-          0,
-          0
-         ]
-        }
-       ],
-       "stat": {
-        "v": 1,
-        "name": "Aaron Wiggins"
-       }
-      },
-      "source": "espn"
-     }
-    ],
-    "sport": "NBA",
-    "ticket": "single"
-   }
-  }
- ],
+ "awaiting": [],
  "daily": {
   "2026-10-12": {
    "u": 5.67,
@@ -1578,6 +825,10 @@
   "2026-11-12": {
    "u": 0.11,
    "n": 12
+  },
+  "2026-11-13": {
+   "u": -1.81,
+   "n": 11
   }
  }
 }
