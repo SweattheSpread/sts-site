@@ -1,5 +1,5 @@
 {
- "updated": "Nov 13, 2026, 7:21 PM PT",
+ "updated": "Nov 13, 2026, 7:23 PM PT",
  "record": {
   "w": 159,
   "l": 157,
@@ -1046,10 +1046,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "11:03 - 1st",
+       "detail": "10:26 - 1st",
        "start": "2026-11-14T03:00Z",
        "period": 1,
-       "clock": "11:03",
+       "clock": "10:26",
        "teams": [
         {
          "name": "UIC Flames",
@@ -1066,7 +1066,7 @@
          "name": "Saint Mary's Gaels",
          "short": "Gaels",
          "abbr": "SMC",
-         "score": 14,
+         "score": 17,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -1109,10 +1109,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "6:03 - 4th",
+       "detail": "5:03 - 4th",
        "start": "2026-11-14T01:00Z",
        "period": 4,
-       "clock": "6:03",
+       "clock": "5:03",
        "teams": [
         {
          "name": "Memphis Grizzlies",
@@ -1132,7 +1132,7 @@
          "name": "New Orleans Pelicans",
          "short": "Pelicans",
          "abbr": "NO",
-         "score": 101,
+         "score": 103,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -1182,10 +1182,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "10:31 - 2nd",
+       "detail": "9:19 - 2nd",
        "start": "2026-11-14T02:30Z",
        "period": 2,
-       "clock": "10:31",
+       "clock": "9:19",
        "teams": [
         {
          "name": "Golden State Warriors",
@@ -1324,10 +1324,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "2:31 - 3rd",
+       "detail": "1:35 - 3rd",
        "start": "2026-11-14T01:30Z",
        "period": 3,
-       "clock": "2:31",
+       "clock": "1:35",
        "teams": [
         {
          "name": "Utah Jazz",
@@ -1346,7 +1346,7 @@
          "name": "Houston Rockets",
          "short": "Rockets",
          "abbr": "HOU",
-         "score": 82,
+         "score": 86,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -1357,7 +1357,7 @@
         }
        ],
        "stat": {
-        "v": 4,
+        "v": 5,
         "name": "Alperen Sengun"
        }
       },
