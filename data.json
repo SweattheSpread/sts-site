@@ -1,5 +1,5 @@
 {
- "updated": "Nov 14, 2026, 3:38 AM PT",
+ "updated": "Nov 14, 2026, 4:46 AM PT",
  "record": {
   "w": 164,
   "l": 163,
@@ -11,7 +11,7 @@
   "first": "2026-10-12",
   "last": "2026-11-13"
  },
- "pending": 12,
+ "pending": 16,
  "latest": [
   {
    "n": 788,
@@ -127,6 +127,234 @@
   }
  ],
  "picks": [
+  {
+   "n": 791,
+   "league": "NCAAF",
+   "type": "Spread",
+   "matchup": "Syracuse Orange @ NC State Wolfpack",
+   "pick": "NC State Wolfpack +3.5",
+   "odds": -140,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-14T09:00:00",
+   "timed": true,
+   "ticket": "single",
+   "espn": {
+    "legs": [
+     {
+      "kind": "spread",
+      "side": "NC State Wolfpack",
+      "line": 3.5,
+      "label": "NC State Wolfpack +3.5",
+      "path": "football/college-football",
+      "event": "401858300",
+      "date": "20261114",
+      "snapshot": {
+       "source": "espn",
+       "state": "pre",
+       "detail": "11/14 - 12:00 PM EST",
+       "start": "2026-11-14T17:00Z",
+       "period": null,
+       "clock": null,
+       "teams": [
+        {
+         "name": "Syracuse Orange",
+         "short": "Orange",
+         "abbr": "SYR",
+         "score": 0,
+         "ha": "away",
+         "winner": null,
+         "linescores": []
+        },
+        {
+         "name": "NC State Wolfpack",
+         "short": "Wolfpack",
+         "abbr": "NCSU",
+         "score": 0,
+         "ha": "home",
+         "winner": null,
+         "linescores": []
+        }
+       ]
+      },
+      "source": "espn"
+     }
+    ],
+    "sport": "NCAAF",
+    "ticket": "single"
+   }
+  },
+  {
+   "n": 794,
+   "league": "NCAAF",
+   "type": "Moneyline",
+   "matchup": "Tennessee Volunteers @ Texas A&M Aggies",
+   "pick": "Tennessee Volunteers ML",
+   "odds": -110,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-14T12:00:00",
+   "timed": true,
+   "ticket": "single",
+   "espn": {
+    "legs": [
+     {
+      "kind": "ml",
+      "side": "Tennessee Volunteers",
+      "label": "Tennessee Volunteers ML",
+      "path": "football/college-football",
+      "event": "401856888",
+      "date": "20261114",
+      "snapshot": {
+       "source": "espn",
+       "state": "pre",
+       "detail": "11/14 - 3:00 PM EST",
+       "start": "2026-11-14T20:00Z",
+       "period": null,
+       "clock": null,
+       "teams": [
+        {
+         "name": "Tennessee Volunteers",
+         "short": "Volunteers",
+         "abbr": "TENN",
+         "score": 0,
+         "ha": "away",
+         "winner": null,
+         "linescores": []
+        },
+        {
+         "name": "Texas A&M Aggies",
+         "short": "Aggies",
+         "abbr": "TA&M",
+         "score": 0,
+         "ha": "home",
+         "winner": null,
+         "linescores": []
+        }
+       ]
+      },
+      "source": "espn"
+     }
+    ],
+    "sport": "NCAAF",
+    "ticket": "single"
+   }
+  },
+  {
+   "n": 792,
+   "league": "NCAAF",
+   "type": "Spread",
+   "matchup": "Purdue Boilermakers @ Iowa Hawkeyes",
+   "pick": "Iowa Hawkeyes 1st half -10.5",
+   "odds": -102,
+   "units": 3.0,
+   "gap": null,
+   "start": "2026-11-14T16:30:00",
+   "timed": true,
+   "ticket": "single",
+   "espn": {
+    "legs": [
+     {
+      "kind": "spread",
+      "side": "Iowa Hawkeyes",
+      "line": -10.5,
+      "scope": "1H",
+      "label": "Iowa Hawkeyes -10.5",
+      "path": "football/college-football",
+      "event": "401858519",
+      "date": "20261114",
+      "snapshot": {
+       "source": "espn",
+       "state": "pre",
+       "detail": "11/14 - 7:30 PM EST",
+       "start": "2026-11-15T00:30Z",
+       "period": null,
+       "clock": null,
+       "teams": [
+        {
+         "name": "Purdue Boilermakers",
+         "short": "Boilermakers",
+         "abbr": "PUR",
+         "score": 0,
+         "ha": "away",
+         "winner": null,
+         "linescores": []
+        },
+        {
+         "name": "Iowa Hawkeyes",
+         "short": "Hawkeyes",
+         "abbr": "IOWA",
+         "score": 0,
+         "ha": "home",
+         "winner": null,
+         "linescores": []
+        }
+       ]
+      },
+      "source": "espn"
+     }
+    ],
+    "sport": "NCAAF",
+    "ticket": "single"
+   }
+  },
+  {
+   "n": 793,
+   "league": "NCAAF",
+   "type": "Spread",
+   "matchup": "North Dakota State Bison @ Hawaii Rainbow Warriors",
+   "pick": "North Dakota State Bison -7",
+   "odds": -107,
+   "units": 2.0,
+   "gap": null,
+   "start": "2026-11-14T20:00:00",
+   "timed": true,
+   "ticket": "single",
+   "espn": {
+    "legs": [
+     {
+      "kind": "spread",
+      "side": "North Dakota State Bison",
+      "line": -7.0,
+      "label": "North Dakota State Bison -7",
+      "path": "football/college-football",
+      "event": "401864537",
+      "date": "20261114",
+      "snapshot": {
+       "source": "espn",
+       "state": "pre",
+       "detail": "11/14 - 11:00 PM EST",
+       "start": "2026-11-15T04:00Z",
+       "period": null,
+       "clock": null,
+       "teams": [
+        {
+         "name": "North Dakota State Bison",
+         "short": "Bison",
+         "abbr": "NDSU",
+         "score": 0,
+         "ha": "away",
+         "winner": null,
+         "linescores": []
+        },
+        {
+         "name": "Hawai'i Rainbow Warriors",
+         "short": "Rainbow Warriors",
+         "abbr": "HAW",
+         "score": 0,
+         "ha": "home",
+         "winner": null,
+         "linescores": []
+        }
+       ]
+      },
+      "source": "espn"
+     }
+    ],
+    "sport": "NCAAF",
+    "ticket": "single"
+   }
+  },
   {
    "n": 747,
    "league": "NFL",

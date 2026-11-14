@@ -1,5 +1,5 @@
 {
- "updated": "Nov 14, 2026, 3:38 AM PT",
+ "updated": "Nov 14, 2026, 4:46 AM PT",
  "record": {
   "w": 164,
   "l": 163,
@@ -11,7 +11,7 @@
   "first": "2026-10-12",
   "last": "2026-11-13"
  },
- "pending": 12,
+ "pending": 16,
  "plays": [
   {
    "n": 334,
@@ -5324,6 +5324,70 @@
    "result": "L",
    "pl": -1.0,
    "pending": false
+  },
+  {
+   "n": 791,
+   "date": "2026-11-14",
+   "day": "2026-11-14",
+   "league": "NCAAF",
+   "market": "spread",
+   "market_label": "Spread",
+   "ticket": "single",
+   "matchup": "Syracuse Orange @ NC State Wolfpack",
+   "pick": "NC State Wolfpack +3.5",
+   "odds": -140,
+   "units": 1.0,
+   "result": null,
+   "pl": null,
+   "pending": true
+  },
+  {
+   "n": 792,
+   "date": "2026-11-14",
+   "day": "2026-11-14",
+   "league": "NCAAF",
+   "market": "spread",
+   "market_label": "Spread",
+   "ticket": "single",
+   "matchup": "Purdue Boilermakers @ Iowa Hawkeyes",
+   "pick": "Iowa Hawkeyes 1st half -10.5",
+   "odds": -102,
+   "units": 3.0,
+   "result": null,
+   "pl": null,
+   "pending": true
+  },
+  {
+   "n": 793,
+   "date": "2026-11-14",
+   "day": "2026-11-14",
+   "league": "NCAAF",
+   "market": "spread",
+   "market_label": "Spread",
+   "ticket": "single",
+   "matchup": "North Dakota State Bison @ Hawaii Rainbow Warriors",
+   "pick": "North Dakota State Bison -7",
+   "odds": -107,
+   "units": 2.0,
+   "result": null,
+   "pl": null,
+   "pending": true
+  },
+  {
+   "n": 794,
+   "date": "2026-11-14",
+   "day": "2026-11-14",
+   "league": "NCAAF",
+   "market": "ml",
+   "market_label": "Moneyline",
+   "ticket": "single",
+   "matchup": "Tennessee Volunteers @ Texas A&M Aggies",
+   "pick": "Tennessee Volunteers ML",
+   "odds": -110,
+   "units": 1.0,
+   "result": null,
+   "pl": null,
+   "pending": true
   },
   {
    "n": 746,
