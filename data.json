@@ -1,5 +1,5 @@
 {
- "updated": "Nov 14, 2026, 12:46 PM PT",
+ "updated": "Nov 14, 2026, 12:48 PM PT",
  "record": {
   "w": 164,
   "l": 163,
@@ -1111,10 +1111,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "12:36 - 2nd",
+       "detail": "9:08 - 2nd",
        "start": "2026-11-14T20:00Z",
        "period": 2,
-       "clock": "12:36",
+       "clock": "9:08",
        "teams": [
         {
          "name": "Tennessee Volunteers",
@@ -1132,7 +1132,7 @@
          "name": "Texas A&M Aggies",
          "short": "Aggies",
          "abbr": "TA&M",
-         "score": 6,
+         "score": 7,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -1269,16 +1269,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "8:58 - 2nd",
+       "detail": "5:54 - 2nd",
        "start": "2026-11-14T19:00Z",
        "period": 2,
-       "clock": "8:58",
+       "clock": "5:54",
        "teams": [
         {
          "name": "Stonehill Skyhawks",
          "short": "Skyhawks",
          "abbr": "STO",
-         "score": 31,
+         "score": 33,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -1290,7 +1290,7 @@
          "name": "Texas Tech Red Raiders",
          "short": "Red Raiders",
          "abbr": "TTU",
-         "score": 68,
+         "score": 76,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -1332,16 +1332,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "16:18 - 1st",
+       "detail": "13:30 - 1st",
        "start": "2026-11-14T20:30Z",
        "period": 1,
-       "clock": "16:18",
+       "clock": "13:30",
        "teams": [
         {
          "name": "LSU Tigers",
          "short": "Tigers",
          "abbr": "LSU",
-         "score": 7,
+         "score": 11,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -1352,7 +1352,7 @@
          "name": "Gonzaga Bulldogs",
          "short": "Bulldogs",
          "abbr": "GONZ",
-         "score": 4,
+         "score": 10,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -1394,16 +1394,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "16:18 - 1st",
+       "detail": "13:30 - 1st",
        "start": "2026-11-14T20:30Z",
        "period": 1,
-       "clock": "16:18",
+       "clock": "13:30",
        "teams": [
         {
          "name": "LSU Tigers",
          "short": "Tigers",
          "abbr": "LSU",
-         "score": 7,
+         "score": 11,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -1414,7 +1414,7 @@
          "name": "Gonzaga Bulldogs",
          "short": "Bulldogs",
          "abbr": "GONZ",
-         "score": 4,
+         "score": 10,
          "ha": "home",
          "winner": null,
          "linescores": [
