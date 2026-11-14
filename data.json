@@ -1,5 +1,5 @@
 {
- "updated": "Nov 14, 2026, 11:06 AM PT",
+ "updated": "Nov 14, 2026, 11:09 AM PT",
  "record": {
   "w": 164,
   "l": 163,
@@ -1247,10 +1247,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "5:52 - 3rd",
+       "detail": "5:06 - 3rd",
        "start": "2026-11-14T17:00Z",
        "period": 3,
-       "clock": "5:52",
+       "clock": "5:06",
        "teams": [
         {
          "name": "Syracuse Orange",
@@ -1374,10 +1374,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "16:57 - 1st",
+       "detail": "15:45 - 1st",
        "start": "2026-11-14T19:00Z",
        "period": 1,
-       "clock": "16:57",
+       "clock": "15:45",
        "teams": [
         {
          "name": "Stonehill Skyhawks",
@@ -1434,10 +1434,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "10:01 - 3rd",
+       "detail": "9:55 - 3rd",
        "start": "2026-11-14T17:00Z",
        "period": 3,
-       "clock": "10:01",
+       "clock": "9:55",
        "teams": [
         {
          "name": "Northwestern Wildcats",
@@ -1500,10 +1500,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "10:04 - 3rd",
+       "detail": "8:12 - 3rd",
        "start": "2026-11-14T17:00Z",
        "period": 3,
-       "clock": "10:04",
+       "clock": "8:12",
        "teams": [
         {
          "name": "Cincinnati Bearcats",
@@ -1565,10 +1565,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P1 00:09",
+       "detail": "P2 19:39",
        "start": "2026-11-14T18:00:00Z",
-       "period": 1,
-       "clock": "00:09",
+       "period": 2,
+       "clock": "19:39",
        "teams": [
         {
          "name": "Kraken",
