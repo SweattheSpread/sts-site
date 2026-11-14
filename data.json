@@ -1,5 +1,5 @@
 {
- "updated": "Nov 13, 2026, 7:16 PM PT",
+ "updated": "Nov 13, 2026, 7:18 PM PT",
  "record": {
   "w": 159,
   "l": 157,
@@ -1046,16 +1046,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "13:20 - 1st",
+       "detail": "11:25 - 1st",
        "start": "2026-11-14T03:00Z",
        "period": 1,
-       "clock": "13:20",
+       "clock": "11:25",
        "teams": [
         {
          "name": "UIC Flames",
          "short": "Flames",
          "abbr": "UIC",
-         "score": 9,
+         "score": 14,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -1066,7 +1066,7 @@
          "name": "Saint Mary's Gaels",
          "short": "Gaels",
          "abbr": "SMC",
-         "score": 8,
+         "score": 14,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -1109,16 +1109,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "7:36 - 4th",
+       "detail": "6:03 - 4th",
        "start": "2026-11-14T01:00Z",
        "period": 4,
-       "clock": "7:36",
+       "clock": "6:03",
        "teams": [
         {
          "name": "Memphis Grizzlies",
          "short": "Grizzlies",
          "abbr": "MEM",
-         "score": 115,
+         "score": 120,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -1132,7 +1132,7 @@
          "name": "New Orleans Pelicans",
          "short": "Pelicans",
          "abbr": "NO",
-         "score": 96,
+         "score": 101,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -1182,7 +1182,7 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "0.0 - 1st",
+       "detail": "End of 1st",
        "start": "2026-11-14T02:30Z",
        "period": 1,
        "clock": "0.0",
@@ -1191,7 +1191,7 @@
          "name": "Golden State Warriors",
          "short": "Warriors",
          "abbr": "GS",
-         "score": 15,
+         "score": 14,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -1249,16 +1249,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "2:52 - 4th",
+       "detail": "1:32 - 4th",
        "start": "2026-11-14T01:00Z",
        "period": 4,
-       "clock": "2:52",
+       "clock": "1:32",
        "teams": [
         {
          "name": "Atlanta Hawks",
          "short": "Hawks",
          "abbr": "ATL",
-         "score": 103,
+         "score": 107,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -1272,7 +1272,7 @@
          "name": "Chicago Bulls",
          "short": "Bulls",
          "abbr": "CHI",
-         "score": 106,
+         "score": 110,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -1322,16 +1322,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "4:25 - 3rd",
+       "detail": "2:31 - 3rd",
        "start": "2026-11-14T01:30Z",
        "period": 3,
-       "clock": "4:25",
+       "clock": "2:31",
        "teams": [
         {
          "name": "Utah Jazz",
          "short": "Jazz",
          "abbr": "UTAH",
-         "score": 82,
+         "score": 87,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -1344,7 +1344,7 @@
          "name": "Houston Rockets",
          "short": "Rockets",
          "abbr": "HOU",
-         "score": 77,
+         "score": 82,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -1393,16 +1393,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "2:52 - 4th",
+       "detail": "1:32 - 4th",
        "start": "2026-11-14T01:00Z",
        "period": 4,
-       "clock": "2:52",
+       "clock": "1:32",
        "teams": [
         {
          "name": "Atlanta Hawks",
          "short": "Hawks",
          "abbr": "ATL",
-         "score": 103,
+         "score": 107,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -1416,7 +1416,7 @@
          "name": "Chicago Bulls",
          "short": "Bulls",
          "abbr": "CHI",
-         "score": 106,
+         "score": 110,
          "ha": "home",
          "winner": null,
          "linescores": [
