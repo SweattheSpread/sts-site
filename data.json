@@ -1,5 +1,5 @@
 {
- "updated": "Nov 13, 2026, 7:23 PM PT",
+ "updated": "Nov 13, 2026, 7:26 PM PT",
  "record": {
   "w": 159,
   "l": 157,
@@ -1046,16 +1046,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "10:26 - 1st",
+       "detail": "9:16 - 1st",
        "start": "2026-11-14T03:00Z",
        "period": 1,
-       "clock": "10:26",
+       "clock": "9:16",
        "teams": [
         {
          "name": "UIC Flames",
          "short": "Flames",
          "abbr": "UIC",
-         "score": 14,
+         "score": 17,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -1109,16 +1109,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "5:03 - 4th",
+       "detail": "3:45 - 4th",
        "start": "2026-11-14T01:00Z",
        "period": 4,
-       "clock": "5:03",
+       "clock": "3:45",
        "teams": [
         {
          "name": "Memphis Grizzlies",
          "short": "Grizzlies",
          "abbr": "MEM",
-         "score": 120,
+         "score": 126,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -1251,10 +1251,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "48.1 - 4th",
+       "detail": "1.9 - 4th",
        "start": "2026-11-14T01:00Z",
        "period": 4,
-       "clock": "48.1",
+       "clock": "1.9",
        "teams": [
         {
          "name": "Atlanta Hawks",
@@ -1324,10 +1324,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "1:35 - 3rd",
+       "detail": "39.8 - 3rd",
        "start": "2026-11-14T01:30Z",
        "period": 3,
-       "clock": "1:35",
+       "clock": "39.8",
        "teams": [
         {
          "name": "Utah Jazz",
@@ -1346,7 +1346,7 @@
          "name": "Houston Rockets",
          "short": "Rockets",
          "abbr": "HOU",
-         "score": 86,
+         "score": 88,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -1395,10 +1395,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "48.1 - 4th",
+       "detail": "1.9 - 4th",
        "start": "2026-11-14T01:00Z",
        "period": 4,
-       "clock": "48.1",
+       "clock": "1.9",
        "teams": [
         {
          "name": "Atlanta Hawks",
