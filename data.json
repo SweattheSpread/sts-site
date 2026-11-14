@@ -1,5 +1,5 @@
 {
- "updated": "Nov 14, 2026, 12:19 AM PT",
+ "updated": "Nov 14, 2026, 3:38 AM PT",
  "record": {
   "w": 164,
   "l": 163,
@@ -11,7 +11,7 @@
   "first": "2026-10-12",
   "last": "2026-11-13"
  },
- "pending": 10,
+ "pending": 12,
  "latest": [
   {
    "n": 788,
@@ -522,6 +522,66 @@
        ]
       },
       "source": "espn"
+     }
+    ],
+    "sport": "NFL",
+    "ticket": "single"
+   }
+  },
+  {
+   "n": 789,
+   "league": "NFL",
+   "type": "Player Prop",
+   "matchup": "#789 NFL GAP PLAY (official) \u2014 Houston Texans @ Cleveland Browns",
+   "pick": "KC Concepcion longest reception OVER 19.5 yds",
+   "odds": -115,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-15T10:00:00",
+   "timed": true,
+   "ticket": "single",
+   "espn": {
+    "legs": [
+     {
+      "kind": "prop",
+      "player": "KC Concepcion longest reception",
+      "ou": "O",
+      "line": 19.5,
+      "stat": "yds",
+      "label": "KC Concepcion longest reception O 19.5 yds",
+      "date": "20261115",
+      "unverified": true,
+      "reason": "Player not found in this game"
+     }
+    ],
+    "sport": "NFL",
+    "ticket": "single"
+   }
+  },
+  {
+   "n": 790,
+   "league": "NFL",
+   "type": "Player Prop",
+   "matchup": "#790 NFL GAP PLAY (official) \u2014 Houston Texans @ Cleveland Browns",
+   "pick": "Jerry Jeudy longest reception OVER 11.5 yds",
+   "odds": -120,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-15T10:00:00",
+   "timed": true,
+   "ticket": "single",
+   "espn": {
+    "legs": [
+     {
+      "kind": "prop",
+      "player": "Jerry Jeudy longest reception",
+      "ou": "O",
+      "line": 11.5,
+      "stat": "yds",
+      "label": "Jerry Jeudy longest reception O 11.5 yds",
+      "date": "20261115",
+      "unverified": true,
+      "reason": "Player not found in this game"
      }
     ],
     "sport": "NFL",

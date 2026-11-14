@@ -1,5 +1,5 @@
 {
- "updated": "Nov 14, 2026, 12:19 AM PT",
+ "updated": "Nov 14, 2026, 3:38 AM PT",
  "record": {
   "w": 164,
   "l": 163,
@@ -11,7 +11,7 @@
   "first": "2026-10-12",
   "last": "2026-11-13"
  },
- "pending": 10,
+ "pending": 12,
  "plays": [
   {
    "n": 334,
@@ -5464,6 +5464,38 @@
    "matchup": "Minnesota Vikings @ Green Bay Packers",
    "pick": "Minnesota Vikings +3 -104",
    "odds": -104,
+   "units": 1.0,
+   "result": null,
+   "pl": null,
+   "pending": true
+  },
+  {
+   "n": 789,
+   "date": "2026-11-14",
+   "day": "2026-11-15",
+   "league": "NFL",
+   "market": "player_prop",
+   "market_label": "Player Prop",
+   "ticket": "single",
+   "matchup": "NFL GAP PLAY (official) \u2014 Houston Texans @ Cleveland Browns",
+   "pick": "KC Concepcion longest reception OVER 19.5 yds",
+   "odds": -115,
+   "units": 1.0,
+   "result": null,
+   "pl": null,
+   "pending": true
+  },
+  {
+   "n": 790,
+   "date": "2026-11-14",
+   "day": "2026-11-15",
+   "league": "NFL",
+   "market": "player_prop",
+   "market_label": "Player Prop",
+   "ticket": "single",
+   "matchup": "NFL GAP PLAY (official) \u2014 Houston Texans @ Cleveland Browns",
+   "pick": "Jerry Jeudy longest reception OVER 11.5 yds",
+   "odds": -120,
    "units": 1.0,
    "result": null,
    "pl": null,
