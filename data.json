@@ -1,5 +1,5 @@
 {
- "updated": "Nov 14, 2026, 10:04 AM PT",
+ "updated": "Nov 14, 2026, 10:06 AM PT",
  "record": {
   "w": 164,
   "l": 163,
@@ -1304,10 +1304,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "1:09 - 2nd",
+       "detail": "0:56 - 2nd",
        "start": "2026-11-14T17:00Z",
        "period": 2,
-       "clock": "1:09",
+       "clock": "0:56",
        "teams": [
         {
          "name": "Syracuse Orange",
@@ -1368,10 +1368,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "17:55 - 1st",
+       "detail": "16:43 - 1st",
        "start": "2026-11-14T18:00Z",
        "period": 1,
-       "clock": "17:55",
+       "clock": "16:43",
        "teams": [
         {
          "name": "Marshall Thundering Herd",
@@ -1388,7 +1388,7 @@
          "name": "Youngstown State Penguins",
          "short": "Penguins",
          "abbr": "YSU",
-         "score": 0,
+         "score": 2,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -1492,10 +1492,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "7:04 - 2nd",
+       "detail": "5:53 - 2nd",
        "start": "2026-11-14T17:00Z",
        "period": 2,
-       "clock": "7:04",
+       "clock": "5:53",
        "teams": [
         {
          "name": "Cincinnati Bearcats",
