@@ -1,5 +1,5 @@
 {
- "updated": "Nov 14, 2026, 2:42 PM PT",
+ "updated": "Nov 14, 2026, 2:45 PM PT",
  "record": {
   "w": 164,
   "l": 163,
@@ -153,16 +153,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "9:28 - 4th",
+       "detail": "9:09 - 4th",
        "start": "2026-11-14T20:00Z",
        "period": 4,
-       "clock": "9:28",
+       "clock": "9:09",
        "teams": [
         {
          "name": "New Mexico State Aggies",
          "short": "Aggies",
          "abbr": "NMSU",
-         "score": 14,
+         "score": 21,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -1150,10 +1150,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "9:38 - 4th",
+       "detail": "8:14 - 4th",
        "start": "2026-11-14T20:00Z",
        "period": 4,
-       "clock": "9:38",
+       "clock": "8:14",
        "teams": [
         {
          "name": "Tennessee Volunteers",
@@ -1216,33 +1216,7 @@
       "event": "382-2026",
       "comp": "187441",
       "date": "20261114",
-      "opp": "Jessica Pegula",
-      "snapshot": {
-       "source": "tennis-explorer",
-       "path": "tennis/explorer",
-       "event": "3378355",
-       "state": "post",
-       "detail": "Final \u00b7 2-0 sets",
-       "tennis": [
-        {
-         "name": "Andreeva M.",
-         "winner": true,
-         "sets": [
-          6,
-          6
-         ]
-        },
-        {
-         "name": "Pegula J.",
-         "winner": false,
-         "sets": [
-          3,
-          4
-         ]
-        }
-       ],
-       "tour": "Masters Cup WTA"
-      }
+      "opp": "Jessica Pegula"
      }
     ],
     "sport": "Tennis",
@@ -1429,11 +1403,11 @@
       "date": "20261114",
       "snapshot": {
        "source": "espn",
-       "state": "in",
-       "detail": "0:01 - 2nd",
+       "state": "post",
+       "detail": "Final",
        "start": "2026-11-14T20:30Z",
-       "period": 2,
-       "clock": "0:01",
+       "period": null,
+       "clock": null,
        "teams": [
         {
          "name": "LSU Tigers",
@@ -1441,7 +1415,7 @@
          "abbr": "LSU",
          "score": 81,
          "ha": "away",
-         "winner": null,
+         "winner": true,
          "linescores": [
           0,
           0
@@ -1453,7 +1427,7 @@
          "abbr": "GONZ",
          "score": 80,
          "ha": "home",
-         "winner": null,
+         "winner": false,
          "linescores": [
           0,
           0
@@ -1493,11 +1467,11 @@
       "date": "20261114",
       "snapshot": {
        "source": "espn",
-       "state": "in",
-       "detail": "0:01 - 2nd",
+       "state": "post",
+       "detail": "Final",
        "start": "2026-11-14T20:30Z",
-       "period": 2,
-       "clock": "0:01",
+       "period": null,
+       "clock": null,
        "teams": [
         {
          "name": "LSU Tigers",
@@ -1505,7 +1479,7 @@
          "abbr": "LSU",
          "score": 81,
          "ha": "away",
-         "winner": null,
+         "winner": true,
          "linescores": [
           0,
           0
@@ -1517,7 +1491,7 @@
          "abbr": "GONZ",
          "score": 80,
          "ha": "home",
-         "winner": null,
+         "winner": false,
          "linescores": [
           0,
           0
