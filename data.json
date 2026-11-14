@@ -1,5 +1,5 @@
 {
- "updated": "Nov 14, 2026, 3:26 PM PT",
+ "updated": "Nov 14, 2026, 3:35 PM PT",
  "record": {
   "w": 164,
   "l": 163,
@@ -1707,11 +1707,11 @@
       "date": "20261114",
       "snapshot": {
        "source": "espn",
-       "state": "in",
-       "detail": "OT",
+       "state": "post",
+       "detail": "Final/OT",
        "start": "2026-11-14T20:00Z",
-       "period": 5,
-       "clock": "0:00",
+       "period": null,
+       "clock": null,
        "teams": [
         {
          "name": "New Mexico State Aggies",
@@ -1719,7 +1719,7 @@
          "abbr": "NMSU",
          "score": 21,
          "ha": "away",
-         "winner": null,
+         "winner": false,
          "linescores": [
           0,
           0,
@@ -1732,9 +1732,9 @@
          "name": "Missouri State Bears",
          "short": "Bears",
          "abbr": "MOST",
-         "score": 21,
+         "score": 27,
          "ha": "home",
-         "winner": null,
+         "winner": true,
          "linescores": [
           0,
           0,
