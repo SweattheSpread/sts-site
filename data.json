@@ -1,5 +1,5 @@
 {
- "updated": "Nov 14, 2026, 11:34 AM PT",
+ "updated": "Nov 14, 2026, 11:36 AM PT",
  "record": {
   "w": 164,
   "l": 163,
@@ -1315,10 +1315,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "11:23 - 2nd",
+       "detail": "10:30 - 2nd",
        "start": "2026-11-14T18:00Z",
        "period": 2,
-       "clock": "11:23",
+       "clock": "10:30",
        "teams": [
         {
          "name": "Marshall Thundering Herd",
@@ -1336,7 +1336,7 @@
          "name": "Youngstown State Penguins",
          "short": "Penguins",
          "abbr": "YSU",
-         "score": 47,
+         "score": 49,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -1438,10 +1438,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "1:17 - 3rd",
+       "detail": "15:00 - 4th",
        "start": "2026-11-14T17:00Z",
-       "period": 3,
-       "clock": "1:17",
+       "period": 4,
+       "clock": "15:00",
        "teams": [
         {
          "name": "Northwestern Wildcats",
@@ -1451,6 +1451,7 @@
          "ha": "away",
          "winner": null,
          "linescores": [
+          0,
           0,
           0,
           0
@@ -1464,6 +1465,7 @@
          "ha": "home",
          "winner": null,
          "linescores": [
+          0,
           0,
           0,
           0
@@ -1504,10 +1506,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "12:22 - 4th",
+       "detail": "11:32 - 4th",
        "start": "2026-11-14T17:00Z",
        "period": 4,
-       "clock": "12:22",
+       "clock": "11:32",
        "teams": [
         {
          "name": "Cincinnati Bearcats",
@@ -1571,10 +1573,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P2 08:41",
+       "detail": "P2 06:11",
        "start": "2026-11-14T18:00:00Z",
        "period": 2,
-       "clock": "08:41",
+       "clock": "06:11",
        "teams": [
         {
          "name": "Kraken",
