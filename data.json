@@ -1,5 +1,5 @@
 {
- "updated": "Nov 14, 2026, 3:01 PM PT",
+ "updated": "Nov 14, 2026, 3:08 PM PT",
  "record": {
   "w": 164,
   "l": 163,
@@ -1082,10 +1082,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "2:44 - 4th",
+       "detail": "1:54 - 4th",
        "start": "2026-11-14T20:00Z",
        "period": 4,
-       "clock": "2:44",
+       "clock": "1:54",
        "teams": [
         {
          "name": "Tennessee Volunteers",
@@ -1682,10 +1682,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "4:18 - 4th",
+       "detail": "2:17 - 4th",
        "start": "2026-11-14T20:00Z",
        "period": 4,
-       "clock": "4:18",
+       "clock": "2:17",
        "teams": [
         {
          "name": "New Mexico State Aggies",
