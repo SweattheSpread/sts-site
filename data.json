@@ -1,5 +1,5 @@
 {
- "updated": "Nov 13, 2026, 8:48 PM PT",
+ "updated": "Nov 13, 2026, 8:50 PM PT",
  "record": {
   "w": 159,
   "l": 157,
@@ -1045,11 +1045,11 @@
       "date": "20261113",
       "snapshot": {
        "source": "espn",
-       "state": "in",
-       "detail": "0:20 - 2nd",
+       "state": "post",
+       "detail": "Final",
        "start": "2026-11-14T03:00Z",
-       "period": 2,
-       "clock": "0:20",
+       "period": null,
+       "clock": null,
        "teams": [
         {
          "name": "UIC Flames",
@@ -1057,7 +1057,7 @@
          "abbr": "UIC",
          "score": 61,
          "ha": "away",
-         "winner": null,
+         "winner": false,
          "linescores": [
           0,
           0
@@ -1069,7 +1069,7 @@
          "abbr": "SMC",
          "score": 84,
          "ha": "home",
-         "winner": null,
+         "winner": true,
          "linescores": [
           0,
           0
