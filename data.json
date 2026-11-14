@@ -1,5 +1,5 @@
 {
- "updated": "Nov 14, 2026, 8:45 AM PT",
+ "updated": "Nov 14, 2026, 9:03 AM PT",
  "record": {
   "w": 164,
   "l": 163,
@@ -127,63 +127,6 @@
   }
  ],
  "picks": [
-  {
-   "n": 791,
-   "league": "NCAAF",
-   "type": "Spread",
-   "matchup": "Syracuse Orange @ NC State Wolfpack",
-   "pick": "NC State Wolfpack +3.5",
-   "odds": -140,
-   "units": 1.0,
-   "gap": null,
-   "start": "2026-11-14T09:00:00",
-   "timed": true,
-   "ticket": "single",
-   "espn": {
-    "legs": [
-     {
-      "kind": "spread",
-      "side": "NC State Wolfpack",
-      "line": 3.5,
-      "label": "NC State Wolfpack +3.5",
-      "path": "football/college-football",
-      "event": "401858300",
-      "date": "20261114",
-      "snapshot": {
-       "source": "espn",
-       "state": "pre",
-       "detail": "11/14 - 12:00 PM EST",
-       "start": "2026-11-14T17:00Z",
-       "period": null,
-       "clock": null,
-       "teams": [
-        {
-         "name": "Syracuse Orange",
-         "short": "Orange",
-         "abbr": "SYR",
-         "score": 0,
-         "ha": "away",
-         "winner": null,
-         "linescores": []
-        },
-        {
-         "name": "NC State Wolfpack",
-         "short": "Wolfpack",
-         "abbr": "NCSU",
-         "score": 0,
-         "ha": "home",
-         "winner": null,
-         "linescores": []
-        }
-       ]
-      },
-      "source": "espn"
-     }
-    ],
-    "sport": "NCAAF",
-    "ticket": "single"
-   }
-  },
   {
    "n": 794,
    "league": "NCAAF",
@@ -1105,7 +1048,69 @@
    }
   }
  ],
- "awaiting": [],
+ "awaiting": [
+  {
+   "n": 791,
+   "league": "NCAAF",
+   "type": "Spread",
+   "matchup": "Syracuse Orange @ NC State Wolfpack",
+   "pick": "NC State Wolfpack +3.5",
+   "odds": -140,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-14T09:00:00",
+   "timed": true,
+   "ticket": "single",
+   "espn": {
+    "legs": [
+     {
+      "kind": "spread",
+      "side": "NC State Wolfpack",
+      "line": 3.5,
+      "label": "NC State Wolfpack +3.5",
+      "path": "football/college-football",
+      "event": "401858300",
+      "date": "20261114",
+      "snapshot": {
+       "source": "espn",
+       "state": "in",
+       "detail": "14:56 - 1st",
+       "start": "2026-11-14T17:00Z",
+       "period": 1,
+       "clock": "14:56",
+       "teams": [
+        {
+         "name": "Syracuse Orange",
+         "short": "Orange",
+         "abbr": "SYR",
+         "score": 0,
+         "ha": "away",
+         "winner": null,
+         "linescores": [
+          0
+         ]
+        },
+        {
+         "name": "NC State Wolfpack",
+         "short": "Wolfpack",
+         "abbr": "NCSU",
+         "score": 0,
+         "ha": "home",
+         "winner": null,
+         "linescores": [
+          0
+         ]
+        }
+       ]
+      },
+      "source": "espn"
+     }
+    ],
+    "sport": "NCAAF",
+    "ticket": "single"
+   }
+  }
+ ],
  "daily": {
   "2026-10-12": {
    "u": 5.67,
