@@ -1,5 +1,5 @@
 {
- "updated": "Nov 13, 2026, 7:26 PM PT",
+ "updated": "Nov 13, 2026, 7:28 PM PT",
  "record": {
   "w": 159,
   "l": 157,
@@ -1046,16 +1046,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "9:16 - 1st",
+       "detail": "6:51 - 1st",
        "start": "2026-11-14T03:00Z",
        "period": 1,
-       "clock": "9:16",
+       "clock": "6:51",
        "teams": [
         {
          "name": "UIC Flames",
          "short": "Flames",
          "abbr": "UIC",
-         "score": 17,
+         "score": 19,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -1066,7 +1066,7 @@
          "name": "Saint Mary's Gaels",
          "short": "Gaels",
          "abbr": "SMC",
-         "score": 17,
+         "score": 25,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -1109,16 +1109,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "3:45 - 4th",
+       "detail": "2:22 - 4th",
        "start": "2026-11-14T01:00Z",
        "period": 4,
-       "clock": "3:45",
+       "clock": "2:22",
        "teams": [
         {
          "name": "Memphis Grizzlies",
          "short": "Grizzlies",
          "abbr": "MEM",
-         "score": 126,
+         "score": 133,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -1132,7 +1132,7 @@
          "name": "New Orleans Pelicans",
          "short": "Pelicans",
          "abbr": "NO",
-         "score": 103,
+         "score": 105,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -1182,16 +1182,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "9:19 - 2nd",
+       "detail": "8:11 - 2nd",
        "start": "2026-11-14T02:30Z",
        "period": 2,
-       "clock": "9:19",
+       "clock": "8:11",
        "teams": [
         {
          "name": "Golden State Warriors",
          "short": "Warriors",
          "abbr": "GS",
-         "score": 16,
+         "score": 19,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -1213,7 +1213,7 @@
         }
        ],
        "stat": {
-        "v": 0,
+        "v": 1,
         "name": "Draymond Green"
        }
       },
@@ -1251,10 +1251,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "1.9 - 4th",
+       "detail": "End of 4th",
        "start": "2026-11-14T01:00Z",
        "period": 4,
-       "clock": "1.9",
+       "clock": "0.1",
        "teams": [
         {
          "name": "Atlanta Hawks",
@@ -1324,10 +1324,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "39.8 - 3rd",
+       "detail": "30.6 - 3rd",
        "start": "2026-11-14T01:30Z",
        "period": 3,
-       "clock": "39.8",
+       "clock": "30.6",
        "teams": [
         {
          "name": "Utah Jazz",
@@ -1346,7 +1346,7 @@
          "name": "Houston Rockets",
          "short": "Rockets",
          "abbr": "HOU",
-         "score": 88,
+         "score": 90,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -1395,10 +1395,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "1.9 - 4th",
+       "detail": "End of 4th",
        "start": "2026-11-14T01:00Z",
        "period": 4,
-       "clock": "1.9",
+       "clock": "0.1",
        "teams": [
         {
          "name": "Atlanta Hawks",
