@@ -1,5 +1,5 @@
 {
- "updated": "Nov 13, 2026, 5:23 PM PT",
+ "updated": "Nov 13, 2026, 5:25 PM PT",
  "record": {
   "w": 159,
   "l": 157,
@@ -182,10 +182,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "11:05 - 1st",
+       "detail": "9:57 - 1st",
        "start": "2026-11-14T01:00Z",
        "period": 1,
-       "clock": "11:05",
+       "clock": "9:57",
        "teams": [
         {
          "name": "Illinois State Redbirds",
@@ -245,16 +245,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "9:58 - 3rd",
+       "detail": "8:40 - 3rd",
        "start": "2026-11-14T00:00Z",
        "period": 3,
-       "clock": "9:58",
+       "clock": "8:40",
        "teams": [
         {
          "name": "Milwaukee Bucks",
          "short": "Bucks",
          "abbr": "MIL",
-         "score": 40,
+         "score": 45,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -267,7 +267,7 @@
          "name": "Orlando Magic",
          "short": "Magic",
          "abbr": "ORL",
-         "score": 58,
+         "score": 62,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -946,16 +946,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "12:50 - 2nd",
+       "detail": "11:58 - 2nd",
        "start": "2026-11-14T00:00Z",
        "period": 2,
-       "clock": "12:50",
+       "clock": "11:58",
        "teams": [
         {
          "name": "Sam Houston Bearkats",
          "short": "Bearkats",
          "abbr": "SHSU",
-         "score": 59,
+         "score": 64,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -967,7 +967,7 @@
          "name": "Illinois Fighting Illini",
          "short": "Fighting Illini",
          "abbr": "ILL",
-         "score": 69,
+         "score": 71,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -1010,16 +1010,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "12:50 - 2nd",
+       "detail": "11:58 - 2nd",
        "start": "2026-11-14T00:00Z",
        "period": 2,
-       "clock": "12:50",
+       "clock": "11:58",
        "teams": [
         {
          "name": "Sam Houston Bearkats",
          "short": "Bearkats",
          "abbr": "SHSU",
-         "score": 59,
+         "score": 64,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -1031,7 +1031,7 @@
          "name": "Illinois Fighting Illini",
          "short": "Fighting Illini",
          "abbr": "ILL",
-         "score": 69,
+         "score": 71,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -1073,10 +1073,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "14:11 - 1st",
+       "detail": "12:22 - 1st",
        "start": "2026-11-14T01:00Z",
        "period": 1,
-       "clock": "14:11",
+       "clock": "12:22",
        "teams": [
         {
          "name": "SIU Edwardsville Cougars",
@@ -1093,7 +1093,7 @@
          "name": "Duke Blue Devils",
          "short": "Blue Devils",
          "abbr": "DUKE",
-         "score": 9,
+         "score": 14,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -1135,10 +1135,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "14:11 - 1st",
+       "detail": "12:22 - 1st",
        "start": "2026-11-14T01:00Z",
        "period": 1,
-       "clock": "14:11",
+       "clock": "12:22",
        "teams": [
         {
          "name": "SIU Edwardsville Cougars",
@@ -1155,7 +1155,7 @@
          "name": "Duke Blue Devils",
          "short": "Blue Devils",
          "abbr": "DUKE",
-         "score": 9,
+         "score": 14,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -1198,16 +1198,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "5:14 - 1st",
+       "detail": "4:33 - 1st",
        "start": "2026-11-14T01:00Z",
        "period": 1,
-       "clock": "5:14",
+       "clock": "4:33",
        "teams": [
         {
          "name": "Memphis Grizzlies",
          "short": "Grizzlies",
          "abbr": "MEM",
-         "score": 17,
+         "score": 18,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -1218,7 +1218,7 @@
          "name": "New Orleans Pelicans",
          "short": "Pelicans",
          "abbr": "NO",
-         "score": 13,
+         "score": 14,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -1265,16 +1265,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "5:39 - 1st",
+       "detail": "3:47 - 1st",
        "start": "2026-11-14T01:00Z",
        "period": 1,
-       "clock": "5:39",
+       "clock": "3:47",
        "teams": [
         {
          "name": "Atlanta Hawks",
          "short": "Hawks",
          "abbr": "ATL",
-         "score": 9,
+         "score": 14,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -1285,7 +1285,7 @@
          "name": "Chicago Bulls",
          "short": "Bulls",
          "abbr": "CHI",
-         "score": 18,
+         "score": 24,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -1332,16 +1332,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "5:39 - 1st",
+       "detail": "3:47 - 1st",
        "start": "2026-11-14T01:00Z",
        "period": 1,
-       "clock": "5:39",
+       "clock": "3:47",
        "teams": [
         {
          "name": "Atlanta Hawks",
          "short": "Hawks",
          "abbr": "ATL",
-         "score": 9,
+         "score": 14,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -1352,7 +1352,7 @@
          "name": "Chicago Bulls",
          "short": "Bulls",
          "abbr": "CHI",
-         "score": 18,
+         "score": 24,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -1360,7 +1360,10 @@
          ]
         }
        ],
-       "stat": null
+       "stat": {
+        "v": 1,
+        "name": "Aaron Wiggins"
+       }
       },
       "source": "espn"
      }
