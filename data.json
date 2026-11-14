@@ -1,5 +1,5 @@
 {
- "updated": "Nov 13, 2026, 6:08 PM PT",
+ "updated": "Nov 13, 2026, 6:10 PM PT",
  "record": {
   "w": 159,
   "l": 157,
@@ -154,16 +154,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "6:56 - 4th",
+       "detail": "6:34 - 4th",
        "start": "2026-11-14T00:00Z",
        "period": 4,
-       "clock": "6:56",
+       "clock": "6:34",
        "teams": [
         {
          "name": "Milwaukee Bucks",
          "short": "Bucks",
          "abbr": "MIL",
-         "score": 78,
+         "score": 81,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -1107,16 +1107,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "18:19 - 2nd",
+       "detail": "17:09 - 2nd",
        "start": "2026-11-14T01:00Z",
        "period": 2,
-       "clock": "18:19",
+       "clock": "17:09",
        "teams": [
         {
          "name": "Illinois State Redbirds",
          "short": "Redbirds",
          "abbr": "ILST",
-         "score": 31,
+         "score": 34,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -1128,7 +1128,7 @@
          "name": "North Dakota State Bison",
          "short": "Bison",
          "abbr": "NDSU",
-         "score": 31,
+         "score": 33,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -1172,16 +1172,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "1:28 - 2nd",
+       "detail": "Halftime",
        "start": "2026-11-14T01:00Z",
        "period": 2,
-       "clock": "1:28",
+       "clock": "0.0",
        "teams": [
         {
          "name": "Memphis Grizzlies",
          "short": "Grizzlies",
          "abbr": "MEM",
-         "score": 66,
+         "score": 70,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -1193,7 +1193,7 @@
          "name": "New Orleans Pelicans",
          "short": "Pelicans",
          "abbr": "NO",
-         "score": 54,
+         "score": 58,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -1310,10 +1310,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "0.1 - 1st",
+       "detail": "End of 1st",
        "start": "2026-11-14T01:30Z",
        "period": 1,
-       "clock": "0.1",
+       "clock": "0.0",
        "teams": [
         {
          "name": "Utah Jazz",
