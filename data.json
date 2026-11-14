@@ -1,5 +1,5 @@
 {
- "updated": "Nov 13, 2026, 8:16 PM PT",
+ "updated": "Nov 13, 2026, 8:18 PM PT",
  "record": {
   "w": 159,
   "l": 157,
@@ -1046,16 +1046,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "12:44 - 2nd",
+       "detail": "11:04 - 2nd",
        "start": "2026-11-14T03:00Z",
        "period": 2,
-       "clock": "12:44",
+       "clock": "11:04",
        "teams": [
         {
          "name": "UIC Flames",
          "short": "Flames",
          "abbr": "UIC",
-         "score": 34,
+         "score": 38,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -1067,7 +1067,7 @@
          "name": "Saint Mary's Gaels",
          "short": "Gaels",
          "abbr": "SMC",
-         "score": 56,
+         "score": 58,
          "ha": "home",
          "winner": null,
          "linescores": [
