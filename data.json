@@ -1,5 +1,5 @@
 {
- "updated": "Nov 14, 2026, 10:45 AM PT",
+ "updated": "Nov 14, 2026, 10:47 AM PT",
  "record": {
   "w": 164,
   "l": 163,
@@ -1304,10 +1304,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "13:47 - 3rd",
+       "detail": "12:33 - 3rd",
        "start": "2026-11-14T17:00Z",
        "period": 3,
-       "clock": "13:47",
+       "clock": "12:33",
        "teams": [
         {
          "name": "Syracuse Orange",
@@ -1370,16 +1370,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "3:40 - 1st",
+       "detail": "2:20 - 1st",
        "start": "2026-11-14T18:00Z",
        "period": 1,
-       "clock": "3:40",
+       "clock": "2:20",
        "teams": [
         {
          "name": "Marshall Thundering Herd",
          "short": "Thundering Herd",
          "abbr": "MRSH",
-         "score": 28,
+         "score": 32,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -1390,7 +1390,7 @@
          "name": "Youngstown State Penguins",
          "short": "Penguins",
          "abbr": "YSU",
-         "score": 24,
+         "score": 26,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -1559,10 +1559,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P1 02:39",
+       "detail": "P1 02:11",
        "start": "2026-11-14T18:00:00Z",
        "period": 1,
-       "clock": "02:39",
+       "clock": "02:11",
        "teams": [
         {
          "name": "Kraken",
@@ -1577,7 +1577,7 @@
          "name": "Hurricanes",
          "short": "CAR",
          "abbr": "CAR",
-         "score": 1,
+         "score": 2,
          "ha": "home",
          "winner": null,
          "linescores": []
