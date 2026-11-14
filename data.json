@@ -1,5 +1,5 @@
 {
- "updated": "Nov 14, 2026, 12:26 PM PT",
+ "updated": "Nov 14, 2026, 12:33 PM PT",
  "record": {
   "w": 164,
   "l": 163,
@@ -127,121 +127,6 @@
   }
  ],
  "picks": [
-  {
-   "n": 800,
-   "league": "NCAAB",
-   "type": "Spread",
-   "matchup": "LSU Tigers @ Gonzaga Bulldogs",
-   "pick": "Gonzaga -5.5",
-   "odds": -105,
-   "units": 1.0,
-   "gap": null,
-   "start": "2026-11-14T12:30:00",
-   "timed": true,
-   "ticket": "single",
-   "espn": {
-    "legs": [
-     {
-      "kind": "spread",
-      "side": "Gonzaga",
-      "line": -5.5,
-      "label": "Gonzaga -5.5",
-      "path": "basketball/mens-college-basketball",
-      "event": "401921689",
-      "date": "20261114",
-      "snapshot": {
-       "source": "espn",
-       "state": "pre",
-       "detail": "11/14 - 3:30 PM EST",
-       "start": "2026-11-14T20:30Z",
-       "period": null,
-       "clock": null,
-       "teams": [
-        {
-         "name": "LSU Tigers",
-         "short": "Tigers",
-         "abbr": "LSU",
-         "score": 0,
-         "ha": "away",
-         "winner": null,
-         "linescores": []
-        },
-        {
-         "name": "Gonzaga Bulldogs",
-         "short": "Bulldogs",
-         "abbr": "GONZ",
-         "score": 0,
-         "ha": "home",
-         "winner": null,
-         "linescores": []
-        }
-       ]
-      },
-      "source": "espn"
-     }
-    ],
-    "sport": "NCAAB",
-    "ticket": "single"
-   }
-  },
-  {
-   "n": 801,
-   "league": "NCAAB",
-   "type": "Over/Under",
-   "matchup": "LSU Tigers @ Gonzaga Bulldogs",
-   "pick": "Under 160.5 total points",
-   "odds": -110,
-   "units": 1.0,
-   "gap": null,
-   "start": "2026-11-14T12:30:00",
-   "timed": true,
-   "ticket": "single",
-   "espn": {
-    "legs": [
-     {
-      "kind": "total",
-      "side": null,
-      "ou": "U",
-      "line": 160.5,
-      "label": "U 160.5",
-      "path": "basketball/mens-college-basketball",
-      "event": "401921689",
-      "date": "20261114",
-      "snapshot": {
-       "source": "espn",
-       "state": "pre",
-       "detail": "11/14 - 3:30 PM EST",
-       "start": "2026-11-14T20:30Z",
-       "period": null,
-       "clock": null,
-       "teams": [
-        {
-         "name": "LSU Tigers",
-         "short": "Tigers",
-         "abbr": "LSU",
-         "score": 0,
-         "ha": "away",
-         "winner": null,
-         "linescores": []
-        },
-        {
-         "name": "Gonzaga Bulldogs",
-         "short": "Bulldogs",
-         "abbr": "GONZ",
-         "score": 0,
-         "ha": "home",
-         "winner": null,
-         "linescores": []
-        }
-       ]
-      },
-      "source": "espn"
-     }
-    ],
-    "sport": "NCAAB",
-    "ticket": "single"
-   }
-  },
   {
    "n": 796,
    "league": "Tennis",
@@ -1226,10 +1111,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "4:08 - 1st",
+       "detail": "1:26 - 1st",
        "start": "2026-11-14T20:00Z",
        "period": 1,
-       "clock": "4:08",
+       "clock": "1:26",
        "teams": [
         {
          "name": "Tennessee Volunteers",
@@ -1382,16 +1267,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "15:39 - 2nd",
+       "detail": "12:17 - 2nd",
        "start": "2026-11-14T19:00Z",
        "period": 2,
-       "clock": "15:39",
+       "clock": "12:17",
        "teams": [
         {
          "name": "Stonehill Skyhawks",
          "short": "Skyhawks",
          "abbr": "STO",
-         "score": 22,
+         "score": 27,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -1403,13 +1288,128 @@
          "name": "Texas Tech Red Raiders",
          "short": "Red Raiders",
          "abbr": "TTU",
-         "score": 56,
+         "score": 66,
          "ha": "home",
          "winner": null,
          "linescores": [
           0,
           0
          ]
+        }
+       ]
+      },
+      "source": "espn"
+     }
+    ],
+    "sport": "NCAAB",
+    "ticket": "single"
+   }
+  },
+  {
+   "n": 800,
+   "league": "NCAAB",
+   "type": "Spread",
+   "matchup": "LSU Tigers @ Gonzaga Bulldogs",
+   "pick": "Gonzaga -5.5",
+   "odds": -105,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-14T12:30:00",
+   "timed": true,
+   "ticket": "single",
+   "espn": {
+    "legs": [
+     {
+      "kind": "spread",
+      "side": "Gonzaga",
+      "line": -5.5,
+      "label": "Gonzaga -5.5",
+      "path": "basketball/mens-college-basketball",
+      "event": "401921689",
+      "date": "20261114",
+      "snapshot": {
+       "source": "espn",
+       "state": "pre",
+       "detail": "11/14 - 3:30 PM EST",
+       "start": "2026-11-14T20:30Z",
+       "period": null,
+       "clock": null,
+       "teams": [
+        {
+         "name": "LSU Tigers",
+         "short": "Tigers",
+         "abbr": "LSU",
+         "score": 0,
+         "ha": "away",
+         "winner": null,
+         "linescores": []
+        },
+        {
+         "name": "Gonzaga Bulldogs",
+         "short": "Bulldogs",
+         "abbr": "GONZ",
+         "score": 0,
+         "ha": "home",
+         "winner": null,
+         "linescores": []
+        }
+       ]
+      },
+      "source": "espn"
+     }
+    ],
+    "sport": "NCAAB",
+    "ticket": "single"
+   }
+  },
+  {
+   "n": 801,
+   "league": "NCAAB",
+   "type": "Over/Under",
+   "matchup": "LSU Tigers @ Gonzaga Bulldogs",
+   "pick": "Under 160.5 total points",
+   "odds": -110,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-14T12:30:00",
+   "timed": true,
+   "ticket": "single",
+   "espn": {
+    "legs": [
+     {
+      "kind": "total",
+      "side": null,
+      "ou": "U",
+      "line": 160.5,
+      "label": "U 160.5",
+      "path": "basketball/mens-college-basketball",
+      "event": "401921689",
+      "date": "20261114",
+      "snapshot": {
+       "source": "espn",
+       "state": "pre",
+       "detail": "11/14 - 3:30 PM EST",
+       "start": "2026-11-14T20:30Z",
+       "period": null,
+       "clock": null,
+       "teams": [
+        {
+         "name": "LSU Tigers",
+         "short": "Tigers",
+         "abbr": "LSU",
+         "score": 0,
+         "ha": "away",
+         "winner": null,
+         "linescores": []
+        },
+        {
+         "name": "Gonzaga Bulldogs",
+         "short": "Bulldogs",
+         "abbr": "GONZ",
+         "score": 0,
+         "ha": "home",
+         "winner": null,
+         "linescores": []
         }
        ]
       },
@@ -1577,42 +1577,35 @@
       "event": "401891809",
       "date": "20261114",
       "snapshot": {
-       "source": "espn",
+       "source": "nhl",
        "state": "in",
-       "detail": "5:51 - 3rd",
-       "start": "2026-11-14T18:00Z",
+       "detail": "P3 03:16",
+       "start": "2026-11-14T18:00:00Z",
        "period": 3,
-       "clock": "5:51",
+       "clock": "03:16",
        "teams": [
         {
-         "name": "Seattle Kraken",
-         "short": "Kraken",
+         "name": "Kraken",
+         "short": "SEA",
          "abbr": "SEA",
          "score": 1,
          "ha": "away",
          "winner": null,
-         "linescores": [
-          0,
-          0,
-          0
-         ]
+         "linescores": []
         },
         {
-         "name": "Carolina Hurricanes",
-         "short": "Hurricanes",
+         "name": "Hurricanes",
+         "short": "CAR",
          "abbr": "CAR",
          "score": 5,
          "ha": "home",
          "winner": null,
-         "linescores": [
-          0,
-          0,
-          0
-         ]
+         "linescores": []
         }
-       ]
+       ],
+       "nhl_id": 2026020321
       },
-      "source": "espn"
+      "source": "nhl"
      }
     ],
     "sport": "NHL",
