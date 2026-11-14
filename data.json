@@ -1,5 +1,5 @@
 {
- "updated": "Nov 13, 2026, 8:50 PM PT",
+ "updated": "Nov 13, 2026, 9:08 PM PT",
  "record": {
   "w": 159,
   "l": 157,
@@ -1183,19 +1183,19 @@
       "date": "20261113",
       "snapshot": {
        "source": "espn",
-       "state": "in",
-       "detail": "5:31 - 4th",
+       "state": "post",
+       "detail": "Final",
        "start": "2026-11-14T02:30Z",
-       "period": 4,
-       "clock": "5:31",
+       "period": null,
+       "clock": null,
        "teams": [
         {
          "name": "Golden State Warriors",
          "short": "Warriors",
          "abbr": "GS",
-         "score": 77,
+         "score": 85,
          "ha": "away",
-         "winner": null,
+         "winner": false,
          "linescores": [
           0,
           0,
@@ -1207,9 +1207,9 @@
          "name": "San Antonio Spurs",
          "short": "Spurs",
          "abbr": "SA",
-         "score": 113,
+         "score": 123,
          "ha": "home",
-         "winner": null,
+         "winner": true,
          "linescores": [
           0,
           0,
