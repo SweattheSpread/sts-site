@@ -1,5 +1,5 @@
 {
- "updated": "Nov 13, 2026, 6:10 PM PT",
+ "updated": "Nov 13, 2026, 6:13 PM PT",
  "record": {
   "w": 159,
   "l": 157,
@@ -154,10 +154,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "6:34 - 4th",
+       "detail": "5:28 - 4th",
        "start": "2026-11-14T00:00Z",
        "period": 4,
-       "clock": "6:34",
+       "clock": "5:28",
        "teams": [
         {
          "name": "Milwaukee Bucks",
@@ -177,7 +177,7 @@
          "name": "Orlando Magic",
          "short": "Magic",
          "abbr": "ORL",
-         "score": 92,
+         "score": 94,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -1107,16 +1107,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "17:09 - 2nd",
+       "detail": "16:28 - 2nd",
        "start": "2026-11-14T01:00Z",
        "period": 2,
-       "clock": "17:09",
+       "clock": "16:28",
        "teams": [
         {
          "name": "Illinois State Redbirds",
          "short": "Redbirds",
          "abbr": "ILST",
-         "score": 34,
+         "score": 36,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -1128,7 +1128,7 @@
          "name": "North Dakota State Bison",
          "short": "Bison",
          "abbr": "NDSU",
-         "score": 33,
+         "score": 35,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -1310,19 +1310,20 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "End of 1st",
+       "detail": "10:54 - 2nd",
        "start": "2026-11-14T01:30Z",
-       "period": 1,
-       "clock": "0.0",
+       "period": 2,
+       "clock": "10:54",
        "teams": [
         {
          "name": "Utah Jazz",
          "short": "Jazz",
          "abbr": "UTAH",
-         "score": 27,
+         "score": 29,
          "ha": "away",
          "winner": null,
          "linescores": [
+          0,
           0
          ]
         },
@@ -1334,6 +1335,7 @@
          "ha": "home",
          "winner": null,
          "linescores": [
+          0,
           0
          ]
         }
