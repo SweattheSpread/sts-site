@@ -1,5 +1,5 @@
 {
- "updated": "Nov 13, 2026, 7:13 PM PT",
+ "updated": "Nov 13, 2026, 7:16 PM PT",
  "record": {
   "w": 159,
   "l": 157,
@@ -979,11 +979,11 @@
       "date": "20261113",
       "snapshot": {
        "source": "espn",
-       "state": "in",
-       "detail": "0:13 - OT",
+       "state": "post",
+       "detail": "Final/OT",
        "start": "2026-11-14T01:00Z",
-       "period": 3,
-       "clock": "0:13",
+       "period": null,
+       "clock": null,
        "teams": [
         {
          "name": "Illinois State Redbirds",
@@ -991,7 +991,7 @@
          "abbr": "ILST",
          "score": 81,
          "ha": "away",
-         "winner": null,
+         "winner": false,
          "linescores": [
           0,
           0,
@@ -1002,9 +1002,9 @@
          "name": "North Dakota State Bison",
          "short": "Bison",
          "abbr": "NDSU",
-         "score": 80,
+         "score": 82,
          "ha": "home",
-         "winner": null,
+         "winner": true,
          "linescores": [
           0,
           0,
@@ -1046,16 +1046,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "14:33 - 1st",
+       "detail": "13:20 - 1st",
        "start": "2026-11-14T03:00Z",
        "period": 1,
-       "clock": "14:33",
+       "clock": "13:20",
        "teams": [
         {
          "name": "UIC Flames",
          "short": "Flames",
          "abbr": "UIC",
-         "score": 8,
+         "score": 9,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -1066,7 +1066,7 @@
          "name": "Saint Mary's Gaels",
          "short": "Gaels",
          "abbr": "SMC",
-         "score": 6,
+         "score": 8,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -1109,10 +1109,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "8:02 - 4th",
+       "detail": "7:36 - 4th",
        "start": "2026-11-14T01:00Z",
        "period": 4,
-       "clock": "8:02",
+       "clock": "7:36",
        "teams": [
         {
          "name": "Memphis Grizzlies",
@@ -1182,16 +1182,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "33.1 - 1st",
+       "detail": "0.0 - 1st",
        "start": "2026-11-14T02:30Z",
        "period": 1,
-       "clock": "33.1",
+       "clock": "0.0",
        "teams": [
         {
          "name": "Golden State Warriors",
          "short": "Warriors",
          "abbr": "GS",
-         "score": 13,
+         "score": 15,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -1202,7 +1202,7 @@
          "name": "San Antonio Spurs",
          "short": "Spurs",
          "abbr": "SA",
-         "score": 36,
+         "score": 38,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -1322,16 +1322,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "5:51 - 3rd",
+       "detail": "4:25 - 3rd",
        "start": "2026-11-14T01:30Z",
        "period": 3,
-       "clock": "5:51",
+       "clock": "4:25",
        "teams": [
         {
          "name": "Utah Jazz",
          "short": "Jazz",
          "abbr": "UTAH",
-         "score": 77,
+         "score": 82,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -1344,7 +1344,7 @@
          "name": "Houston Rockets",
          "short": "Rockets",
          "abbr": "HOU",
-         "score": 72,
+         "score": 77,
          "ha": "home",
          "winner": null,
          "linescores": [
