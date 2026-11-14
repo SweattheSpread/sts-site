@@ -1,5 +1,5 @@
 {
- "updated": "Nov 13, 2026, 5:56 PM PT",
+ "updated": "Nov 13, 2026, 5:58 PM PT",
  "record": {
   "w": 159,
   "l": 157,
@@ -215,16 +215,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "9:48 - 4th",
+       "detail": "8:47 - 4th",
        "start": "2026-11-14T00:00Z",
        "period": 4,
-       "clock": "9:48",
+       "clock": "8:47",
        "teams": [
         {
          "name": "Milwaukee Bucks",
          "short": "Bucks",
          "abbr": "MIL",
-         "score": 75,
+         "score": 76,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -918,10 +918,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "3:21 - 2nd",
+       "detail": "2:00 - 2nd",
        "start": "2026-11-14T00:00Z",
        "period": 2,
-       "clock": "3:21",
+       "clock": "2:00",
        "teams": [
         {
          "name": "Sam Houston Bearkats",
@@ -939,7 +939,7 @@
          "name": "Illinois Fighting Illini",
          "short": "Fighting Illini",
          "abbr": "ILL",
-         "score": 100,
+         "score": 102,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -982,10 +982,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "3:21 - 2nd",
+       "detail": "2:00 - 2nd",
        "start": "2026-11-14T00:00Z",
        "period": 2,
-       "clock": "3:21",
+       "clock": "2:00",
        "teams": [
         {
          "name": "Sam Houston Bearkats",
@@ -1003,7 +1003,7 @@
          "name": "Illinois Fighting Illini",
          "short": "Fighting Illini",
          "abbr": "ILL",
-         "score": 100,
+         "score": 102,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -1045,16 +1045,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "0:44 - 1st",
+       "detail": "Halftime",
        "start": "2026-11-14T01:00Z",
        "period": 1,
-       "clock": "0:44",
+       "clock": "0:00",
        "teams": [
         {
          "name": "SIU Edwardsville Cougars",
          "short": "Cougars",
          "abbr": "SIUE",
-         "score": 18,
+         "score": 20,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -1107,16 +1107,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "0:44 - 1st",
+       "detail": "Halftime",
        "start": "2026-11-14T01:00Z",
        "period": 1,
-       "clock": "0:44",
+       "clock": "0:00",
        "teams": [
         {
          "name": "SIU Edwardsville Cougars",
          "short": "Cougars",
          "abbr": "SIUE",
-         "score": 18,
+         "score": 20,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -1170,10 +1170,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "6:02 - 2nd",
+       "detail": "5:14 - 2nd",
        "start": "2026-11-14T01:00Z",
        "period": 2,
-       "clock": "6:02",
+       "clock": "5:14",
        "teams": [
         {
          "name": "Memphis Grizzlies",
@@ -1191,7 +1191,7 @@
          "name": "New Orleans Pelicans",
          "short": "Pelicans",
          "abbr": "NO",
-         "score": 43,
+         "score": 45,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -1239,10 +1239,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "3:20 - 2nd",
+       "detail": "2:55 - 2nd",
        "start": "2026-11-14T01:00Z",
        "period": 2,
-       "clock": "3:20",
+       "clock": "2:55",
        "teams": [
         {
          "name": "Atlanta Hawks",
@@ -1260,7 +1260,7 @@
          "name": "Chicago Bulls",
          "short": "Bulls",
          "abbr": "CHI",
-         "score": 51,
+         "score": 53,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -1308,16 +1308,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "5:42 - 1st",
+       "detail": "4:36 - 1st",
        "start": "2026-11-14T01:30Z",
        "period": 1,
-       "clock": "5:42",
+       "clock": "4:36",
        "teams": [
         {
          "name": "Utah Jazz",
          "short": "Jazz",
          "abbr": "UTAH",
-         "score": 15,
+         "score": 16,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -1328,7 +1328,7 @@
          "name": "Houston Rockets",
          "short": "Rockets",
          "abbr": "HOU",
-         "score": 17,
+         "score": 21,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -1375,10 +1375,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "3:20 - 2nd",
+       "detail": "2:55 - 2nd",
        "start": "2026-11-14T01:00Z",
        "period": 2,
-       "clock": "3:20",
+       "clock": "2:55",
        "teams": [
         {
          "name": "Atlanta Hawks",
@@ -1396,7 +1396,7 @@
          "name": "Chicago Bulls",
          "short": "Bulls",
          "abbr": "CHI",
-         "score": 51,
+         "score": 53,
          "ha": "home",
          "winner": null,
          "linescores": [
