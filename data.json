@@ -1,5 +1,5 @@
 {
- "updated": "Nov 13, 2026, 5:38 PM PT",
+ "updated": "Nov 13, 2026, 5:40 PM PT",
  "record": {
   "w": 159,
   "l": 157,
@@ -128,36 +128,6 @@
  ],
  "picks": [
   {
-   "n": 787,
-   "league": "NBA",
-   "type": "Player Prop",
-   "matchup": "Utah Jazz @ Houston Rockets",
-   "pick": "Alperen Sengun OVER 6.5 assists",
-   "odds": -115,
-   "units": 1.0,
-   "gap": null,
-   "start": "2026-11-13T17:40:00",
-   "timed": true,
-   "ticket": "single",
-   "espn": {
-    "legs": [
-     {
-      "kind": "prop",
-      "player": "Alperen Sengun",
-      "ou": "O",
-      "line": 6.5,
-      "stat": "assists",
-      "label": "Alperen Sengun O 6.5 assists",
-      "date": "20261113",
-      "unverified": true,
-      "reason": "Player not found in this game"
-     }
-    ],
-    "sport": "NBA",
-    "ticket": "single"
-   }
-  },
-  {
    "n": 782,
    "league": "NCAAB",
    "type": "Spread",
@@ -182,10 +152,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "3:41 - 1st",
+       "detail": "3:04 - 1st",
        "start": "2026-11-14T01:00Z",
        "period": 1,
-       "clock": "3:41",
+       "clock": "3:04",
        "teams": [
         {
          "name": "Illinois State Redbirds",
@@ -245,10 +215,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "5:29 - 3rd",
+       "detail": "4:50 - 3rd",
        "start": "2026-11-14T00:00Z",
        "period": 3,
-       "clock": "5:29",
+       "clock": "4:50",
        "teams": [
         {
          "name": "Milwaukee Bucks",
@@ -267,7 +237,7 @@
          "name": "Orlando Magic",
          "short": "Magic",
          "abbr": "ORL",
-         "score": 65,
+         "score": 67,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -946,16 +916,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "9:59 - 2nd",
+       "detail": "9:24 - 2nd",
        "start": "2026-11-14T00:00Z",
        "period": 2,
-       "clock": "9:59",
+       "clock": "9:24",
        "teams": [
         {
          "name": "Sam Houston Bearkats",
          "short": "Bearkats",
          "abbr": "SHSU",
-         "score": 65,
+         "score": 69,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -1010,16 +980,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "9:59 - 2nd",
+       "detail": "9:24 - 2nd",
        "start": "2026-11-14T00:00Z",
        "period": 2,
-       "clock": "9:59",
+       "clock": "9:24",
        "teams": [
         {
          "name": "Sam Houston Bearkats",
          "short": "Bearkats",
          "abbr": "SHSU",
-         "score": 65,
+         "score": 69,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -1073,16 +1043,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "8:16 - 1st",
+       "detail": "6:40 - 1st",
        "start": "2026-11-14T01:00Z",
        "period": 1,
-       "clock": "8:16",
+       "clock": "6:40",
        "teams": [
         {
          "name": "SIU Edwardsville Cougars",
          "short": "Cougars",
          "abbr": "SIUE",
-         "score": 6,
+         "score": 8,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -1135,16 +1105,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "8:16 - 1st",
+       "detail": "6:40 - 1st",
        "start": "2026-11-14T01:00Z",
        "period": 1,
-       "clock": "8:16",
+       "clock": "6:40",
        "teams": [
         {
          "name": "SIU Edwardsville Cougars",
          "short": "Cougars",
          "abbr": "SIUE",
-         "score": 6,
+         "score": 8,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -1198,19 +1168,20 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "End of 1st",
+       "detail": "11:40 - 2nd",
        "start": "2026-11-14T01:00Z",
-       "period": 1,
-       "clock": "0.0",
+       "period": 2,
+       "clock": "11:40",
        "teams": [
         {
          "name": "Memphis Grizzlies",
          "short": "Grizzlies",
          "abbr": "MEM",
-         "score": 35,
+         "score": 36,
          "ha": "away",
          "winner": null,
          "linescores": [
+          0,
           0
          ]
         },
@@ -1222,6 +1193,7 @@
          "ha": "home",
          "winner": null,
          "linescores": [
+          0,
           0
          ]
         }
@@ -1265,19 +1237,20 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "End of 1st",
+       "detail": "11:04 - 2nd",
        "start": "2026-11-14T01:00Z",
-       "period": 1,
-       "clock": "0.0",
+       "period": 2,
+       "clock": "11:04",
        "teams": [
         {
          "name": "Atlanta Hawks",
          "short": "Hawks",
          "abbr": "ATL",
-         "score": 24,
+         "score": 26,
          "ha": "away",
          "winner": null,
          "linescores": [
+          0,
           0
          ]
         },
@@ -1285,10 +1258,11 @@
          "name": "Chicago Bulls",
          "short": "Bulls",
          "abbr": "CHI",
-         "score": 33,
+         "score": 36,
          "ha": "home",
          "winner": null,
          "linescores": [
+          0,
           0
          ]
         }
@@ -1299,6 +1273,63 @@
        }
       },
       "source": "espn"
+     }
+    ],
+    "sport": "NBA",
+    "ticket": "single"
+   }
+  },
+  {
+   "n": 787,
+   "league": "NBA",
+   "type": "Player Prop",
+   "matchup": "Utah Jazz @ Houston Rockets",
+   "pick": "Alperen Sengun OVER 6.5 assists",
+   "odds": -115,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-13T17:40:00",
+   "timed": true,
+   "ticket": "single",
+   "espn": {
+    "legs": [
+     {
+      "kind": "prop",
+      "player": "Alperen Sengun",
+      "ou": "O",
+      "line": 6.5,
+      "stat": "assists",
+      "label": "Alperen Sengun O 6.5 assists",
+      "date": "20261113",
+      "unverified": true,
+      "reason": "Player not found in this game",
+      "snapshot": {
+       "source": "odds-api",
+       "state": "pre",
+       "detail": "Scheduled",
+       "start": "2026-11-14T01:42:00Z",
+       "teams": [
+        {
+         "name": "Utah Jazz",
+         "short": "Utah Jazz",
+         "abbr": "",
+         "score": 0,
+         "ha": "away",
+         "winner": null,
+         "linescores": []
+        },
+        {
+         "name": "Houston Rockets",
+         "short": "Houston Rockets",
+         "abbr": "",
+         "score": 0,
+         "ha": "home",
+         "winner": null,
+         "linescores": []
+        }
+       ]
+      },
+      "source": "odds-api"
      }
     ],
     "sport": "NBA",
@@ -1332,19 +1363,20 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "End of 1st",
+       "detail": "11:04 - 2nd",
        "start": "2026-11-14T01:00Z",
-       "period": 1,
-       "clock": "0.0",
+       "period": 2,
+       "clock": "11:04",
        "teams": [
         {
          "name": "Atlanta Hawks",
          "short": "Hawks",
          "abbr": "ATL",
-         "score": 24,
+         "score": 26,
          "ha": "away",
          "winner": null,
          "linescores": [
+          0,
           0
          ]
         },
@@ -1352,10 +1384,11 @@
          "name": "Chicago Bulls",
          "short": "Bulls",
          "abbr": "CHI",
-         "score": 33,
+         "score": 36,
          "ha": "home",
          "winner": null,
          "linescores": [
+          0,
           0
          ]
         }
