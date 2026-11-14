@@ -1,5 +1,5 @@
 {
- "updated": "Nov 14, 2026, 10:59 AM PT",
+ "updated": "Nov 14, 2026, 11:01 AM PT",
  "record": {
   "w": 164,
   "l": 163,
@@ -127,63 +127,6 @@
   }
  ],
  "picks": [
-  {
-   "n": 799,
-   "league": "NCAAB",
-   "type": "Spread",
-   "matchup": "Stonehill Skyhawks @ Texas Tech Red Raiders",
-   "pick": "Stonehill +39.5",
-   "odds": -115,
-   "units": 1.0,
-   "gap": null,
-   "start": "2026-11-14T11:00:00",
-   "timed": true,
-   "ticket": "single",
-   "espn": {
-    "legs": [
-     {
-      "kind": "spread",
-      "side": "Stonehill",
-      "line": 39.5,
-      "label": "Stonehill +39.5",
-      "path": "basketball/mens-college-basketball",
-      "event": "401919847",
-      "date": "20261114",
-      "snapshot": {
-       "source": "espn",
-       "state": "pre",
-       "detail": "11/14 - 2:00 PM EST",
-       "start": "2026-11-14T19:00Z",
-       "period": null,
-       "clock": null,
-       "teams": [
-        {
-         "name": "Stonehill Skyhawks",
-         "short": "Skyhawks",
-         "abbr": "STO",
-         "score": 0,
-         "ha": "away",
-         "winner": null,
-         "linescores": []
-        },
-        {
-         "name": "Texas Tech Red Raiders",
-         "short": "Red Raiders",
-         "abbr": "TTU",
-         "score": 0,
-         "ha": "home",
-         "winner": null,
-         "linescores": []
-        }
-       ]
-      },
-      "source": "espn"
-     }
-    ],
-    "sport": "NCAAB",
-    "ticket": "single"
-   }
-  },
   {
    "n": 794,
    "league": "NCAAF",
@@ -1304,16 +1247,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "7:54 - 3rd",
+       "detail": "7:21 - 3rd",
        "start": "2026-11-14T17:00Z",
        "period": 3,
-       "clock": "7:54",
+       "clock": "7:21",
        "teams": [
         {
          "name": "Syracuse Orange",
          "short": "Orange",
          "abbr": "SYR",
-         "score": 6,
+         "score": 13,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -1396,6 +1339,63 @@
          "linescores": [
           0
          ]
+        }
+       ]
+      },
+      "source": "espn"
+     }
+    ],
+    "sport": "NCAAB",
+    "ticket": "single"
+   }
+  },
+  {
+   "n": 799,
+   "league": "NCAAB",
+   "type": "Spread",
+   "matchup": "Stonehill Skyhawks @ Texas Tech Red Raiders",
+   "pick": "Stonehill +39.5",
+   "odds": -115,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-14T11:00:00",
+   "timed": true,
+   "ticket": "single",
+   "espn": {
+    "legs": [
+     {
+      "kind": "spread",
+      "side": "Stonehill",
+      "line": 39.5,
+      "label": "Stonehill +39.5",
+      "path": "basketball/mens-college-basketball",
+      "event": "401919847",
+      "date": "20261114",
+      "snapshot": {
+       "source": "espn",
+       "state": "pre",
+       "detail": "11/14 - 2:00 PM EST",
+       "start": "2026-11-14T19:00Z",
+       "period": null,
+       "clock": null,
+       "teams": [
+        {
+         "name": "Stonehill Skyhawks",
+         "short": "Skyhawks",
+         "abbr": "STO",
+         "score": 0,
+         "ha": "away",
+         "winner": null,
+         "linescores": []
+        },
+        {
+         "name": "Texas Tech Red Raiders",
+         "short": "Red Raiders",
+         "abbr": "TTU",
+         "score": 0,
+         "ha": "home",
+         "winner": null,
+         "linescores": []
         }
        ]
       },
@@ -1496,10 +1496,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "11:43 - 3rd",
+       "detail": "11:41 - 3rd",
        "start": "2026-11-14T17:00Z",
        "period": 3,
-       "clock": "11:43",
+       "clock": "11:41",
        "teams": [
         {
          "name": "Cincinnati Bearcats",
@@ -1561,10 +1561,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P1 07:11",
+       "detail": "P1 04:38",
        "start": "2026-11-14T18:00:00Z",
        "period": 1,
-       "clock": "07:11",
+       "clock": "04:38",
        "teams": [
         {
          "name": "Kraken",
