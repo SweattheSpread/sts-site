@@ -1,5 +1,5 @@
 {
- "updated": "Nov 14, 2026, 12:56 PM PT",
+ "updated": "Nov 14, 2026, 1:02 PM PT",
  "record": {
   "w": 164,
   "l": 163,
@@ -1111,16 +1111,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "7:42 - 2nd",
+       "detail": "6:01 - 2nd",
        "start": "2026-11-14T20:00Z",
        "period": 2,
-       "clock": "7:42",
+       "clock": "6:01",
        "teams": [
         {
          "name": "Tennessee Volunteers",
          "short": "Volunteers",
          "abbr": "TENN",
-         "score": 3,
+         "score": 6,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -1269,10 +1269,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "4:31 - 2nd",
+       "detail": "3:19 - 2nd",
        "start": "2026-11-14T19:00Z",
        "period": 2,
-       "clock": "4:31",
+       "clock": "3:19",
        "teams": [
         {
          "name": "Stonehill Skyhawks",
@@ -1332,16 +1332,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "12:38 - 1st",
+       "detail": "10:37 - 1st",
        "start": "2026-11-14T20:30Z",
        "period": 1,
-       "clock": "12:38",
+       "clock": "10:37",
        "teams": [
         {
          "name": "LSU Tigers",
          "short": "Tigers",
          "abbr": "LSU",
-         "score": 11,
+         "score": 13,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -1394,16 +1394,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "12:38 - 1st",
+       "detail": "10:37 - 1st",
        "start": "2026-11-14T20:30Z",
        "period": 1,
-       "clock": "12:38",
+       "clock": "10:37",
        "teams": [
         {
          "name": "LSU Tigers",
          "short": "Tigers",
          "abbr": "LSU",
-         "score": 11,
+         "score": 13,
          "ha": "away",
          "winner": null,
          "linescores": [
