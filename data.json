@@ -1,5 +1,5 @@
 {
- "updated": "Nov 14, 2026, 10:52 AM PT",
+ "updated": "Nov 14, 2026, 10:55 AM PT",
  "record": {
   "w": 164,
   "l": 163,
@@ -1304,10 +1304,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "11:00 - 3rd",
+       "detail": "10:23 - 3rd",
        "start": "2026-11-14T17:00Z",
        "period": 3,
-       "clock": "11:00",
+       "clock": "10:23",
        "teams": [
         {
          "name": "Syracuse Orange",
@@ -1370,10 +1370,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "0:56 - 1st",
+       "detail": "0:00 - 1st",
        "start": "2026-11-14T18:00Z",
        "period": 1,
-       "clock": "0:56",
+       "clock": "0:00",
        "teams": [
         {
          "name": "Marshall Thundering Herd",
@@ -1430,10 +1430,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "Halftime",
+       "detail": "15:00 - 3rd",
        "start": "2026-11-14T17:00Z",
-       "period": 2,
-       "clock": "0:00",
+       "period": 3,
+       "clock": "15:00",
        "teams": [
         {
          "name": "Northwestern Wildcats",
@@ -1496,10 +1496,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "Halftime",
+       "detail": "14:23 - 3rd",
        "start": "2026-11-14T17:00Z",
-       "period": 2,
-       "clock": "0:00",
+       "period": 3,
+       "clock": "14:23",
        "teams": [
         {
          "name": "Cincinnati Bearcats",
@@ -1509,6 +1509,7 @@
          "ha": "away",
          "winner": null,
          "linescores": [
+          0,
           0,
           0
          ]
@@ -1521,6 +1522,7 @@
          "ha": "home",
          "winner": null,
          "linescores": [
+          0,
           0,
           0
          ]
@@ -1559,10 +1561,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P1 14:25",
+       "detail": "P1 11:09",
        "start": "2026-11-14T18:00:00Z",
        "period": 1,
-       "clock": "14:25",
+       "clock": "11:09",
        "teams": [
         {
          "name": "Kraken",
