@@ -1,5 +1,5 @@
 {
- "updated": "Nov 13, 2026, 7:11 PM PT",
+ "updated": "Nov 13, 2026, 7:13 PM PT",
  "record": {
   "w": 159,
   "l": 157,
@@ -980,10 +980,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "0:59 - OT",
+       "detail": "0:13 - OT",
        "start": "2026-11-14T01:00Z",
        "period": 3,
-       "clock": "0:59",
+       "clock": "0:13",
        "teams": [
         {
          "name": "Illinois State Redbirds",
@@ -1046,16 +1046,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "15:49 - 1st",
+       "detail": "14:33 - 1st",
        "start": "2026-11-14T03:00Z",
        "period": 1,
-       "clock": "15:49",
+       "clock": "14:33",
        "teams": [
         {
          "name": "UIC Flames",
          "short": "Flames",
          "abbr": "UIC",
-         "score": 5,
+         "score": 8,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -1109,16 +1109,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "8:31 - 4th",
+       "detail": "8:02 - 4th",
        "start": "2026-11-14T01:00Z",
        "period": 4,
-       "clock": "8:31",
+       "clock": "8:02",
        "teams": [
         {
          "name": "Memphis Grizzlies",
          "short": "Grizzlies",
          "abbr": "MEM",
-         "score": 113,
+         "score": 115,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -1249,10 +1249,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "3:38 - 4th",
+       "detail": "2:52 - 4th",
        "start": "2026-11-14T01:00Z",
        "period": 4,
-       "clock": "3:38",
+       "clock": "2:52",
        "teams": [
         {
          "name": "Atlanta Hawks",
@@ -1322,16 +1322,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "7:28 - 3rd",
+       "detail": "5:51 - 3rd",
        "start": "2026-11-14T01:30Z",
        "period": 3,
-       "clock": "7:28",
+       "clock": "5:51",
        "teams": [
         {
          "name": "Utah Jazz",
          "short": "Jazz",
          "abbr": "UTAH",
-         "score": 69,
+         "score": 77,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -1355,7 +1355,7 @@
         }
        ],
        "stat": {
-        "v": 3,
+        "v": 4,
         "name": "Alperen Sengun"
        }
       },
@@ -1393,10 +1393,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "3:38 - 4th",
+       "detail": "2:52 - 4th",
        "start": "2026-11-14T01:00Z",
        "period": 4,
-       "clock": "3:38",
+       "clock": "2:52",
        "teams": [
         {
          "name": "Atlanta Hawks",
