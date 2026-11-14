@@ -1,5 +1,5 @@
 {
- "updated": "Nov 14, 2026, 12:38 PM PT",
+ "updated": "Nov 14, 2026, 12:41 PM PT",
  "record": {
   "w": 164,
   "l": 163,
@@ -1267,16 +1267,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "11:45 - 2nd",
+       "detail": "11:04 - 2nd",
        "start": "2026-11-14T19:00Z",
        "period": 2,
-       "clock": "11:45",
+       "clock": "11:04",
        "teams": [
         {
          "name": "Stonehill Skyhawks",
          "short": "Skyhawks",
          "abbr": "STO",
-         "score": 27,
+         "score": 29,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -1329,11 +1329,11 @@
       "date": "20261114",
       "snapshot": {
        "source": "espn",
-       "state": "pre",
-       "detail": "11/14 - 3:30 PM EST",
+       "state": "in",
+       "detail": "19:44 - 1st",
        "start": "2026-11-14T20:30Z",
-       "period": null,
-       "clock": null,
+       "period": 1,
+       "clock": "19:44",
        "teams": [
         {
          "name": "LSU Tigers",
@@ -1342,16 +1342,20 @@
          "score": 0,
          "ha": "away",
          "winner": null,
-         "linescores": []
+         "linescores": [
+          0
+         ]
         },
         {
          "name": "Gonzaga Bulldogs",
          "short": "Bulldogs",
          "abbr": "GONZ",
-         "score": 0,
+         "score": 2,
          "ha": "home",
          "winner": null,
-         "linescores": []
+         "linescores": [
+          0
+         ]
         }
        ]
       },
@@ -1387,11 +1391,11 @@
       "date": "20261114",
       "snapshot": {
        "source": "espn",
-       "state": "pre",
-       "detail": "11/14 - 3:30 PM EST",
+       "state": "in",
+       "detail": "19:44 - 1st",
        "start": "2026-11-14T20:30Z",
-       "period": null,
-       "clock": null,
+       "period": 1,
+       "clock": "19:44",
        "teams": [
         {
          "name": "LSU Tigers",
@@ -1400,16 +1404,20 @@
          "score": 0,
          "ha": "away",
          "winner": null,
-         "linescores": []
+         "linescores": [
+          0
+         ]
         },
         {
          "name": "Gonzaga Bulldogs",
          "short": "Bulldogs",
          "abbr": "GONZ",
-         "score": 0,
+         "score": 2,
          "ha": "home",
          "winner": null,
-         "linescores": []
+         "linescores": [
+          0
+         ]
         }
        ]
       },
@@ -1578,11 +1586,11 @@
       "date": "20261114",
       "snapshot": {
        "source": "nhl",
-       "state": "in",
-       "detail": "P3 01:07",
+       "state": "post",
+       "detail": "Final",
        "start": "2026-11-14T18:00:00Z",
        "period": 3,
-       "clock": "01:07",
+       "clock": "00:00",
        "teams": [
         {
          "name": "Kraken",
@@ -1590,7 +1598,7 @@
          "abbr": "SEA",
          "score": 1,
          "ha": "away",
-         "winner": null,
+         "winner": false,
          "linescores": []
         },
         {
@@ -1599,7 +1607,7 @@
          "abbr": "CAR",
          "score": 5,
          "ha": "home",
-         "winner": null,
+         "winner": true,
          "linescores": []
         }
        ],
