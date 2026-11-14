@@ -1,5 +1,5 @@
 {
- "updated": "Nov 14, 2026, 12:41 PM PT",
+ "updated": "Nov 14, 2026, 12:43 PM PT",
  "record": {
   "w": 164,
   "l": 163,
@@ -1111,10 +1111,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "End of 1st",
+       "detail": "13:03 - 2nd",
        "start": "2026-11-14T20:00Z",
-       "period": 1,
-       "clock": "0:00",
+       "period": 2,
+       "clock": "13:03",
        "teams": [
         {
          "name": "Tennessee Volunteers",
@@ -1124,6 +1124,7 @@
          "ha": "away",
          "winner": null,
          "linescores": [
+          0,
           0
          ]
         },
@@ -1135,6 +1136,7 @@
          "ha": "home",
          "winner": null,
          "linescores": [
+          0,
           0
          ]
         }
@@ -1267,10 +1269,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "11:04 - 2nd",
+       "detail": "10:07 - 2nd",
        "start": "2026-11-14T19:00Z",
        "period": 2,
-       "clock": "11:04",
+       "clock": "10:07",
        "teams": [
         {
          "name": "Stonehill Skyhawks",
@@ -1288,7 +1290,7 @@
          "name": "Texas Tech Red Raiders",
          "short": "Red Raiders",
          "abbr": "TTU",
-         "score": 66,
+         "score": 68,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -1330,16 +1332,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "19:44 - 1st",
+       "detail": "18:19 - 1st",
        "start": "2026-11-14T20:30Z",
        "period": 1,
-       "clock": "19:44",
+       "clock": "18:19",
        "teams": [
         {
          "name": "LSU Tigers",
          "short": "Tigers",
          "abbr": "LSU",
-         "score": 0,
+         "score": 5,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -1392,16 +1394,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "19:44 - 1st",
+       "detail": "18:19 - 1st",
        "start": "2026-11-14T20:30Z",
        "period": 1,
-       "clock": "19:44",
+       "clock": "18:19",
        "teams": [
         {
          "name": "LSU Tigers",
          "short": "Tigers",
          "abbr": "LSU",
-         "score": 0,
+         "score": 5,
          "ha": "away",
          "winner": null,
          "linescores": [
