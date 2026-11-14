@@ -1,5 +1,5 @@
 {
- "updated": "Nov 14, 2026, 12:05 PM PT",
+ "updated": "Nov 14, 2026, 12:08 PM PT",
  "record": {
   "w": 164,
   "l": 163,
@@ -1160,10 +1160,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "2:10 - 4th",
+       "detail": "2:00 - 4th",
        "start": "2026-11-14T17:00Z",
        "period": 4,
-       "clock": "2:10",
+       "clock": "2:00",
        "teams": [
         {
          "name": "Syracuse Orange",
@@ -1226,10 +1226,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "13:56 - 1st",
+       "detail": "10:34 - 1st",
        "start": "2026-11-14T20:00Z",
        "period": 1,
-       "clock": "13:56",
+       "clock": "10:34",
        "teams": [
         {
          "name": "Tennessee Volunteers",
@@ -1319,16 +1319,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "1:49 - 2nd",
+       "detail": "0:51 - 2nd",
        "start": "2026-11-14T18:00Z",
        "period": 2,
-       "clock": "1:49",
+       "clock": "0:51",
        "teams": [
         {
          "name": "Marshall Thundering Herd",
          "short": "Thundering Herd",
          "abbr": "MRSH",
-         "score": 68,
+         "score": 69,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -1442,10 +1442,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "6:33 - 4th",
+       "detail": "4:06 - 4th",
        "start": "2026-11-14T17:00Z",
        "period": 4,
-       "clock": "6:33",
+       "clock": "4:06",
        "teams": [
         {
          "name": "Northwestern Wildcats",
@@ -1510,10 +1510,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "1:40 - 4th",
+       "detail": "0:40 - 4th",
        "start": "2026-11-14T17:00Z",
        "period": 4,
-       "clock": "1:40",
+       "clock": "0:40",
        "teams": [
         {
          "name": "Cincinnati Bearcats",
@@ -1577,10 +1577,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P3 20:00",
+       "detail": "P3 18:49",
        "start": "2026-11-14T18:00:00Z",
        "period": 3,
-       "clock": "20:00",
+       "clock": "18:49",
        "teams": [
         {
          "name": "Kraken",
