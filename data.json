@@ -1,5 +1,5 @@
 {
- "updated": "Nov 13, 2026, 6:50 PM PT",
+ "updated": "Nov 13, 2026, 6:53 PM PT",
  "record": {
   "w": 159,
   "l": 157,
@@ -911,10 +911,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "6:50 - 2nd",
+       "detail": "6:47 - 2nd",
        "start": "2026-11-14T01:00Z",
        "period": 2,
-       "clock": "6:50",
+       "clock": "6:47",
        "teams": [
         {
          "name": "SIU Edwardsville Cougars",
@@ -975,10 +975,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "6:50 - 2nd",
+       "detail": "6:47 - 2nd",
        "start": "2026-11-14T01:00Z",
        "period": 2,
-       "clock": "6:50",
+       "clock": "6:47",
        "teams": [
         {
          "name": "SIU Edwardsville Cougars",
@@ -1038,16 +1038,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "2:26 - 2nd",
+       "detail": "1:24 - 2nd",
        "start": "2026-11-14T01:00Z",
        "period": 2,
-       "clock": "2:26",
+       "clock": "1:24",
        "teams": [
         {
          "name": "Illinois State Redbirds",
          "short": "Redbirds",
          "abbr": "ILST",
-         "score": 62,
+         "score": 69,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -1103,16 +1103,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "3:22 - 3rd",
+       "detail": "2:50 - 3rd",
        "start": "2026-11-14T01:00Z",
        "period": 3,
-       "clock": "3:22",
+       "clock": "2:50",
        "teams": [
         {
          "name": "Memphis Grizzlies",
          "short": "Grizzlies",
          "abbr": "MEM",
-         "score": 93,
+         "score": 95,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -1174,10 +1174,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "9:33 - 1st",
+       "detail": "9:08 - 1st",
        "start": "2026-11-14T02:30Z",
        "period": 1,
-       "clock": "9:33",
+       "clock": "9:08",
        "teams": [
         {
          "name": "Golden State Warriors",
@@ -1241,19 +1241,20 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "End of 3rd",
+       "detail": "10:58 - 4th",
        "start": "2026-11-14T01:00Z",
-       "period": 3,
-       "clock": "0.0",
+       "period": 4,
+       "clock": "10:58",
        "teams": [
         {
          "name": "Atlanta Hawks",
          "short": "Hawks",
          "abbr": "ATL",
-         "score": 83,
+         "score": 85,
          "ha": "away",
          "winner": null,
          "linescores": [
+          0,
           0,
           0,
           0
@@ -1263,10 +1264,11 @@
          "name": "Chicago Bulls",
          "short": "Bulls",
          "abbr": "CHI",
-         "score": 84,
+         "score": 88,
          "ha": "home",
          "winner": null,
          "linescores": [
+          0,
           0,
           0,
           0
@@ -1381,19 +1383,20 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "End of 3rd",
+       "detail": "10:58 - 4th",
        "start": "2026-11-14T01:00Z",
-       "period": 3,
-       "clock": "0.0",
+       "period": 4,
+       "clock": "10:58",
        "teams": [
         {
          "name": "Atlanta Hawks",
          "short": "Hawks",
          "abbr": "ATL",
-         "score": 83,
+         "score": 85,
          "ha": "away",
          "winner": null,
          "linescores": [
+          0,
           0,
           0,
           0
@@ -1403,10 +1406,11 @@
          "name": "Chicago Bulls",
          "short": "Bulls",
          "abbr": "CHI",
-         "score": 84,
+         "score": 88,
          "ha": "home",
          "winner": null,
          "linescores": [
+          0,
           0,
           0,
           0
