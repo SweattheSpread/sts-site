@@ -1,5 +1,5 @@
 {
- "updated": "Nov 14, 2026, 11:53 AM PT",
+ "updated": "Nov 14, 2026, 11:55 AM PT",
  "record": {
   "w": 164,
   "l": 163,
@@ -1247,10 +1247,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "6:20 - 4th",
+       "detail": "6:00 - 4th",
        "start": "2026-11-14T17:00Z",
        "period": 4,
-       "clock": "6:20",
+       "clock": "6:00",
        "teams": [
         {
          "name": "Syracuse Orange",
@@ -1315,16 +1315,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "5:27 - 2nd",
+       "detail": "3:58 - 2nd",
        "start": "2026-11-14T18:00Z",
        "period": 2,
-       "clock": "5:27",
+       "clock": "3:58",
        "teams": [
         {
          "name": "Marshall Thundering Herd",
          "short": "Thundering Herd",
          "abbr": "MRSH",
-         "score": 55,
+         "score": 60,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -1336,7 +1336,7 @@
          "name": "Youngstown State Penguins",
          "short": "Penguins",
          "abbr": "YSU",
-         "score": 66,
+         "score": 67,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -1378,10 +1378,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "1:51 - 1st",
+       "detail": "0:53 - 1st",
        "start": "2026-11-14T19:00Z",
        "period": 1,
-       "clock": "1:51",
+       "clock": "0:53",
        "teams": [
         {
          "name": "Stonehill Skyhawks",
@@ -1398,7 +1398,7 @@
          "name": "Texas Tech Red Raiders",
          "short": "Red Raiders",
          "abbr": "TTU",
-         "score": 41,
+         "score": 43,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -1506,10 +1506,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "3:58 - 4th",
+       "detail": "3:20 - 4th",
        "start": "2026-11-14T17:00Z",
        "period": 4,
-       "clock": "3:58",
+       "clock": "3:20",
        "teams": [
         {
          "name": "Cincinnati Bearcats",
@@ -1573,10 +1573,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P2 10:44",
+       "detail": "P2 08:29",
        "start": "2026-11-14T18:00:00Z",
        "period": 2,
-       "clock": "10:44",
+       "clock": "08:29",
        "teams": [
         {
          "name": "Kraken",
