@@ -1,5 +1,5 @@
 {
- "updated": "Nov 14, 2026, 9:10 AM PT",
+ "updated": "Nov 14, 2026, 9:13 AM PT",
  "record": {
   "w": 164,
   "l": 163,
@@ -1074,16 +1074,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "8:18 - 1st",
+       "detail": "7:44 - 1st",
        "start": "2026-11-14T17:00Z",
        "period": 1,
-       "clock": "8:18",
+       "clock": "7:44",
        "teams": [
         {
          "name": "Syracuse Orange",
          "short": "Orange",
          "abbr": "SYR",
-         "score": 0,
+         "score": 3,
          "ha": "away",
          "winner": null,
          "linescores": [
