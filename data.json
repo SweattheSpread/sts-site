@@ -1,5 +1,5 @@
 {
- "updated": "Nov 14, 2026, 9:52 AM PT",
+ "updated": "Nov 14, 2026, 9:54 AM PT",
  "record": {
   "w": 164,
   "l": 163,
@@ -1420,10 +1420,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "4:21 - 2nd",
+       "detail": "3:40 - 2nd",
        "start": "2026-11-14T17:00Z",
        "period": 2,
-       "clock": "4:21",
+       "clock": "3:40",
        "teams": [
         {
          "name": "Syracuse Orange",
@@ -1441,7 +1441,7 @@
          "name": "NC State Wolfpack",
          "short": "Wolfpack",
          "abbr": "NCSU",
-         "score": 0,
+         "score": 7,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -1546,10 +1546,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "11:14 - 2nd",
+       "detail": "10:36 - 2nd",
        "start": "2026-11-14T17:00Z",
        "period": 2,
-       "clock": "11:14",
+       "clock": "10:36",
        "teams": [
         {
          "name": "Cincinnati Bearcats",
