@@ -1,5 +1,5 @@
 {
- "updated": "Nov 13, 2026, 7:18 PM PT",
+ "updated": "Nov 13, 2026, 7:21 PM PT",
  "record": {
   "w": 159,
   "l": 157,
@@ -1046,10 +1046,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "11:25 - 1st",
+       "detail": "11:03 - 1st",
        "start": "2026-11-14T03:00Z",
        "period": 1,
-       "clock": "11:25",
+       "clock": "11:03",
        "teams": [
         {
          "name": "UIC Flames",
@@ -1182,19 +1182,20 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "End of 1st",
+       "detail": "10:31 - 2nd",
        "start": "2026-11-14T02:30Z",
-       "period": 1,
-       "clock": "0.0",
+       "period": 2,
+       "clock": "10:31",
        "teams": [
         {
          "name": "Golden State Warriors",
          "short": "Warriors",
          "abbr": "GS",
-         "score": 14,
+         "score": 16,
          "ha": "away",
          "winner": null,
          "linescores": [
+          0,
           0
          ]
         },
@@ -1202,10 +1203,11 @@
          "name": "San Antonio Spurs",
          "short": "Spurs",
          "abbr": "SA",
-         "score": 38,
+         "score": 40,
          "ha": "home",
          "winner": null,
          "linescores": [
+          0,
           0
          ]
         }
@@ -1249,16 +1251,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "1:32 - 4th",
+       "detail": "48.1 - 4th",
        "start": "2026-11-14T01:00Z",
        "period": 4,
-       "clock": "1:32",
+       "clock": "48.1",
        "teams": [
         {
          "name": "Atlanta Hawks",
          "short": "Hawks",
          "abbr": "ATL",
-         "score": 107,
+         "score": 110,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -1284,7 +1286,7 @@
         }
        ],
        "stat": {
-        "v": 22,
+        "v": 26,
         "name": "Jalen Johnson"
        }
       },
@@ -1393,16 +1395,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "1:32 - 4th",
+       "detail": "48.1 - 4th",
        "start": "2026-11-14T01:00Z",
        "period": 4,
-       "clock": "1:32",
+       "clock": "48.1",
        "teams": [
         {
          "name": "Atlanta Hawks",
          "short": "Hawks",
          "abbr": "ATL",
-         "score": 107,
+         "score": 110,
          "ha": "away",
          "winner": null,
          "linescores": [
