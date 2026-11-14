@@ -1,5 +1,5 @@
 {
- "updated": "Nov 14, 2026, 12:13 PM PT",
+ "updated": "Nov 14, 2026, 12:23 PM PT",
  "record": {
   "w": 164,
   "l": 163,
@@ -1160,16 +1160,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "0:52 - 4th",
+       "detail": "End of 4th",
        "start": "2026-11-14T17:00Z",
        "period": 4,
-       "clock": "0:52",
+       "clock": "0:00",
        "teams": [
         {
          "name": "Syracuse Orange",
          "short": "Orange",
          "abbr": "SYR",
-         "score": 26,
+         "score": 34,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -1226,16 +1226,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "9:20 - 1st",
+       "detail": "4:25 - 1st",
        "start": "2026-11-14T20:00Z",
        "period": 1,
-       "clock": "9:20",
+       "clock": "4:25",
        "teams": [
         {
          "name": "Tennessee Volunteers",
          "short": "Volunteers",
          "abbr": "TENN",
-         "score": 0,
+         "score": 3,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -1318,19 +1318,19 @@
       "date": "20261114",
       "snapshot": {
        "source": "espn",
-       "state": "in",
-       "detail": "0:06 - 2nd",
+       "state": "post",
+       "detail": "Final",
        "start": "2026-11-14T18:00Z",
-       "period": 2,
-       "clock": "0:06",
+       "period": null,
+       "clock": null,
        "teams": [
         {
          "name": "Marshall Thundering Herd",
          "short": "Thundering Herd",
          "abbr": "MRSH",
-         "score": 69,
+         "score": 71,
          "ha": "away",
-         "winner": null,
+         "winner": false,
          "linescores": [
           0,
           0
@@ -1340,9 +1340,9 @@
          "name": "Youngstown State Penguins",
          "short": "Penguins",
          "abbr": "YSU",
-         "score": 72,
+         "score": 74,
          "ha": "home",
-         "winner": null,
+         "winner": true,
          "linescores": [
           0,
           0
@@ -1382,19 +1382,20 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "Halftime",
+       "detail": "15:39 - 2nd",
        "start": "2026-11-14T19:00Z",
-       "period": 1,
-       "clock": "0:00",
+       "period": 2,
+       "clock": "15:39",
        "teams": [
         {
          "name": "Stonehill Skyhawks",
          "short": "Skyhawks",
          "abbr": "STO",
-         "score": 21,
+         "score": 22,
          "ha": "away",
          "winner": null,
          "linescores": [
+          0,
           0
          ]
         },
@@ -1402,10 +1403,11 @@
          "name": "Texas Tech Red Raiders",
          "short": "Red Raiders",
          "abbr": "TTU",
-         "score": 43,
+         "score": 56,
          "ha": "home",
          "winner": null,
          "linescores": [
+          0,
           0
          ]
         }
@@ -1442,10 +1444,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "4:06 - 4th",
+       "detail": "1:05 - 4th",
        "start": "2026-11-14T17:00Z",
        "period": 4,
-       "clock": "4:06",
+       "clock": "1:05",
        "teams": [
         {
          "name": "Northwestern Wildcats",
@@ -1577,10 +1579,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P3 14:48",
+       "detail": "P3 08:54",
        "start": "2026-11-14T18:00:00Z",
        "period": 3,
-       "clock": "14:48",
+       "clock": "08:54",
        "teams": [
         {
          "name": "Kraken",
@@ -1595,7 +1597,7 @@
          "name": "Hurricanes",
          "short": "CAR",
          "abbr": "CAR",
-         "score": 4,
+         "score": 5,
          "ha": "home",
          "winner": null,
          "linescores": []
