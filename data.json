@@ -1,5 +1,5 @@
 {
- "updated": "Nov 13, 2026, 3:46 PM PT",
+ "updated": "Nov 13, 2026, 4:03 PM PT",
  "record": {
   "w": 159,
   "l": 157,
@@ -127,121 +127,6 @@
   }
  ],
  "picks": [
-  {
-   "n": 778,
-   "league": "NCAAB",
-   "type": "Spread",
-   "matchup": "Sam Houston Bearkats @ Illinois Fighting Illini",
-   "pick": "Sam Houston +36.5",
-   "odds": -110,
-   "units": 1.0,
-   "gap": null,
-   "start": "2026-11-13T16:00:00",
-   "timed": true,
-   "ticket": "single",
-   "espn": {
-    "legs": [
-     {
-      "kind": "spread",
-      "side": "Sam Houston",
-      "line": 36.5,
-      "label": "Sam Houston +36.5",
-      "path": "basketball/mens-college-basketball",
-      "event": "401913528",
-      "date": "20261113",
-      "snapshot": {
-       "source": "espn",
-       "state": "pre",
-       "detail": "11/13 - 7:00 PM EST",
-       "start": "2026-11-14T00:00Z",
-       "period": null,
-       "clock": null,
-       "teams": [
-        {
-         "name": "Sam Houston Bearkats",
-         "short": "Bearkats",
-         "abbr": "SHSU",
-         "score": 0,
-         "ha": "away",
-         "winner": null,
-         "linescores": []
-        },
-        {
-         "name": "Illinois Fighting Illini",
-         "short": "Fighting Illini",
-         "abbr": "ILL",
-         "score": 0,
-         "ha": "home",
-         "winner": null,
-         "linescores": []
-        }
-       ]
-      },
-      "source": "espn"
-     }
-    ],
-    "sport": "NCAAB",
-    "ticket": "single"
-   }
-  },
-  {
-   "n": 779,
-   "league": "NCAAB",
-   "type": "Over/Under",
-   "matchup": "Sam Houston Bearkats @ Illinois Fighting Illini",
-   "pick": "Under 171.5 total points",
-   "odds": -105,
-   "units": 1.0,
-   "gap": null,
-   "start": "2026-11-13T16:00:00",
-   "timed": true,
-   "ticket": "single",
-   "espn": {
-    "legs": [
-     {
-      "kind": "total",
-      "side": null,
-      "ou": "U",
-      "line": 171.5,
-      "label": "U 171.5",
-      "path": "basketball/mens-college-basketball",
-      "event": "401913528",
-      "date": "20261113",
-      "snapshot": {
-       "source": "espn",
-       "state": "pre",
-       "detail": "11/13 - 7:00 PM EST",
-       "start": "2026-11-14T00:00Z",
-       "period": null,
-       "clock": null,
-       "teams": [
-        {
-         "name": "Sam Houston Bearkats",
-         "short": "Bearkats",
-         "abbr": "SHSU",
-         "score": 0,
-         "ha": "away",
-         "winner": null,
-         "linescores": []
-        },
-        {
-         "name": "Illinois Fighting Illini",
-         "short": "Fighting Illini",
-         "abbr": "ILL",
-         "score": 0,
-         "ha": "home",
-         "winner": null,
-         "linescores": []
-        }
-       ]
-      },
-      "source": "espn"
-     }
-    ],
-    "sport": "NCAAB",
-    "ticket": "single"
-   }
-  },
   {
    "n": 780,
    "league": "NCAAB",
@@ -1289,7 +1174,131 @@
    }
   }
  ],
- "awaiting": [],
+ "awaiting": [
+  {
+   "n": 778,
+   "league": "NCAAB",
+   "type": "Spread",
+   "matchup": "Sam Houston Bearkats @ Illinois Fighting Illini",
+   "pick": "Sam Houston +36.5",
+   "odds": -110,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-13T16:00:00",
+   "timed": true,
+   "ticket": "single",
+   "espn": {
+    "legs": [
+     {
+      "kind": "spread",
+      "side": "Sam Houston",
+      "line": 36.5,
+      "label": "Sam Houston +36.5",
+      "path": "basketball/mens-college-basketball",
+      "event": "401913528",
+      "date": "20261113",
+      "snapshot": {
+       "source": "espn",
+       "state": "in",
+       "detail": "19:15 - 1st",
+       "start": "2026-11-14T00:00Z",
+       "period": 1,
+       "clock": "19:15",
+       "teams": [
+        {
+         "name": "Sam Houston Bearkats",
+         "short": "Bearkats",
+         "abbr": "SHSU",
+         "score": 2,
+         "ha": "away",
+         "winner": null,
+         "linescores": [
+          0
+         ]
+        },
+        {
+         "name": "Illinois Fighting Illini",
+         "short": "Fighting Illini",
+         "abbr": "ILL",
+         "score": 3,
+         "ha": "home",
+         "winner": null,
+         "linescores": [
+          0
+         ]
+        }
+       ]
+      },
+      "source": "espn"
+     }
+    ],
+    "sport": "NCAAB",
+    "ticket": "single"
+   }
+  },
+  {
+   "n": 779,
+   "league": "NCAAB",
+   "type": "Over/Under",
+   "matchup": "Sam Houston Bearkats @ Illinois Fighting Illini",
+   "pick": "Under 171.5 total points",
+   "odds": -105,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-13T16:00:00",
+   "timed": true,
+   "ticket": "single",
+   "espn": {
+    "legs": [
+     {
+      "kind": "total",
+      "side": null,
+      "ou": "U",
+      "line": 171.5,
+      "label": "U 171.5",
+      "path": "basketball/mens-college-basketball",
+      "event": "401913528",
+      "date": "20261113",
+      "snapshot": {
+       "source": "espn",
+       "state": "in",
+       "detail": "19:15 - 1st",
+       "start": "2026-11-14T00:00Z",
+       "period": 1,
+       "clock": "19:15",
+       "teams": [
+        {
+         "name": "Sam Houston Bearkats",
+         "short": "Bearkats",
+         "abbr": "SHSU",
+         "score": 2,
+         "ha": "away",
+         "winner": null,
+         "linescores": [
+          0
+         ]
+        },
+        {
+         "name": "Illinois Fighting Illini",
+         "short": "Fighting Illini",
+         "abbr": "ILL",
+         "score": 3,
+         "ha": "home",
+         "winner": null,
+         "linescores": [
+          0
+         ]
+        }
+       ]
+      },
+      "source": "espn"
+     }
+    ],
+    "sport": "NCAAB",
+    "ticket": "single"
+   }
+  }
+ ],
  "daily": {
   "2026-10-12": {
    "u": 5.67,
