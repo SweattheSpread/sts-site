@@ -1,5 +1,5 @@
 {
- "updated": "Nov 13, 2026, 4:49 PM PT",
+ "updated": "Nov 13, 2026, 4:55 PM PT",
  "record": {
   "w": 159,
   "l": 157,
@@ -493,16 +493,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "8:20 - 2nd",
+       "detail": "4:51 - 2nd",
        "start": "2026-11-14T00:00Z",
        "period": 2,
-       "clock": "8:20",
+       "clock": "4:51",
        "teams": [
         {
          "name": "Milwaukee Bucks",
          "short": "Bucks",
          "abbr": "MIL",
-         "score": 17,
+         "score": 30,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -514,7 +514,7 @@
          "name": "Orlando Magic",
          "short": "Magic",
          "abbr": "ORL",
-         "score": 34,
+         "score": 36,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -524,7 +524,7 @@
         }
        ],
        "stat": {
-        "v": 0,
+        "v": 1,
         "name": "AJ Green"
        }
       },
