@@ -211,3 +211,11 @@ h3{font-size:14px;letter-spacing:.2em;text-transform:uppercase;color:var(--mut);
 .sect.picks h3.is-empty, .sect.picks .cards.is-empty { display: none; }
 .lv-m.w{color:var(--mut)}
 .lv-m.w i::after{width:0;background:transparent}
+
+/* Verified on: independent record trackers, under All-time results on the homepage */
+#verified{margin-top:56px}
+#verified .inside{margin-top:8px;max-width:800px}
+#verified .inside a{text-decoration:underline;text-underline-offset:3px}
+#verified .inside img{max-width:100%;height:auto;display:block}
+#verified .inside p{margin:8px 0 0}
+#verified .banner-ph{display:flex;align-items:center;justify-content:center;text-align:center;min-height:60px;padding:18px 14px;margin-top:8px;border:1px dashed var(--line);background:var(--bg2);color:var(--mut);font-size:14px;line-height:1.4}
