@@ -1,5 +1,5 @@
 {
- "updated": "Nov 14, 2026, 12:23 PM PT",
+ "updated": "Nov 14, 2026, 12:26 PM PT",
  "record": {
   "w": 164,
   "l": 163,
@@ -1159,11 +1159,11 @@
       "date": "20261114",
       "snapshot": {
        "source": "espn",
-       "state": "in",
-       "detail": "End of 4th",
+       "state": "post",
+       "detail": "Final",
        "start": "2026-11-14T17:00Z",
-       "period": 4,
-       "clock": "0:00",
+       "period": null,
+       "clock": null,
        "teams": [
         {
          "name": "Syracuse Orange",
@@ -1171,7 +1171,7 @@
          "abbr": "SYR",
          "score": 34,
          "ha": "away",
-         "winner": null,
+         "winner": true,
          "linescores": [
           0,
           0,
@@ -1185,7 +1185,7 @@
          "abbr": "NCSU",
          "score": 31,
          "ha": "home",
-         "winner": null,
+         "winner": false,
          "linescores": [
           0,
           0,
@@ -1226,10 +1226,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "4:25 - 1st",
+       "detail": "4:08 - 1st",
        "start": "2026-11-14T20:00Z",
        "period": 1,
-       "clock": "4:25",
+       "clock": "4:08",
        "teams": [
         {
          "name": "Tennessee Volunteers",
@@ -1443,19 +1443,19 @@
       "date": "20261114",
       "snapshot": {
        "source": "espn",
-       "state": "in",
-       "detail": "1:05 - 4th",
+       "state": "post",
+       "detail": "Final",
        "start": "2026-11-14T17:00Z",
-       "period": 4,
-       "clock": "1:05",
+       "period": null,
+       "clock": null,
        "teams": [
         {
          "name": "Northwestern Wildcats",
          "short": "Wildcats",
          "abbr": "NU",
-         "score": 13,
+         "score": 19,
          "ha": "away",
-         "winner": null,
+         "winner": false,
          "linescores": [
           0,
           0,
@@ -1469,7 +1469,7 @@
          "abbr": "OSU",
          "score": 28,
          "ha": "home",
-         "winner": null,
+         "winner": true,
          "linescores": [
           0,
           0,
@@ -1579,10 +1579,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P3 08:54",
+       "detail": "P3 07:38",
        "start": "2026-11-14T18:00:00Z",
        "period": 3,
-       "clock": "08:54",
+       "clock": "07:38",
        "teams": [
         {
          "name": "Kraken",
