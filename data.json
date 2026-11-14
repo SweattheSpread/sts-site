@@ -1,5 +1,5 @@
 {
- "updated": "Nov 14, 2026, 12:33 PM PT",
+ "updated": "Nov 14, 2026, 12:36 PM PT",
  "record": {
   "w": 164,
   "l": 163,
@@ -1111,10 +1111,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "1:26 - 1st",
+       "detail": "0:04 - 1st",
        "start": "2026-11-14T20:00Z",
        "period": 1,
-       "clock": "1:26",
+       "clock": "0:04",
        "teams": [
         {
          "name": "Tennessee Volunteers",
@@ -1579,10 +1579,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P3 03:16",
+       "detail": "P3 02:42",
        "start": "2026-11-14T18:00:00Z",
        "period": 3,
-       "clock": "03:16",
+       "clock": "02:42",
        "teams": [
         {
          "name": "Kraken",
