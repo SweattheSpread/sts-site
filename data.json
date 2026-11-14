@@ -1,5 +1,5 @@
 {
- "updated": "Nov 13, 2026, 7:35 PM PT",
+ "updated": "Nov 13, 2026, 7:37 PM PT",
  "record": {
   "w": 159,
   "l": 157,
@@ -1046,10 +1046,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "4:29 - 1st",
+       "detail": "3:38 - 1st",
        "start": "2026-11-14T03:00Z",
        "period": 1,
-       "clock": "4:29",
+       "clock": "3:38",
        "teams": [
         {
          "name": "UIC Flames",
@@ -1066,7 +1066,7 @@
          "name": "Saint Mary's Gaels",
          "short": "Gaels",
          "abbr": "SMC",
-         "score": 28,
+         "score": 31,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -1182,16 +1182,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "6:21 - 2nd",
+       "detail": "5:35 - 2nd",
        "start": "2026-11-14T02:30Z",
        "period": 2,
-       "clock": "6:21",
+       "clock": "5:35",
        "teams": [
         {
          "name": "Golden State Warriors",
          "short": "Warriors",
          "abbr": "GS",
-         "score": 22,
+         "score": 23,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -1203,7 +1203,7 @@
          "name": "San Antonio Spurs",
          "short": "Spurs",
          "abbr": "SA",
-         "score": 46,
+         "score": 48,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -1251,16 +1251,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "3:08 - OT",
+       "detail": "2:14 - OT",
        "start": "2026-11-14T01:00Z",
        "period": 5,
-       "clock": "3:08",
+       "clock": "2:14",
        "teams": [
         {
          "name": "Atlanta Hawks",
          "short": "Hawks",
          "abbr": "ATL",
-         "score": 112,
+         "score": 113,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -1275,7 +1275,7 @@
          "name": "Chicago Bulls",
          "short": "Bulls",
          "abbr": "CHI",
-         "score": 113,
+         "score": 115,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -1288,7 +1288,7 @@
         }
        ],
        "stat": {
-        "v": 26,
+        "v": 27,
         "name": "Jalen Johnson"
        }
       },
@@ -1326,10 +1326,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "10:53 - 4th",
+       "detail": "10:14 - 4th",
        "start": "2026-11-14T01:30Z",
        "period": 4,
-       "clock": "10:53",
+       "clock": "10:14",
        "teams": [
         {
          "name": "Utah Jazz",
@@ -1349,7 +1349,7 @@
          "name": "Houston Rockets",
          "short": "Rockets",
          "abbr": "HOU",
-         "score": 94,
+         "score": 99,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -1399,16 +1399,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "3:08 - OT",
+       "detail": "2:14 - OT",
        "start": "2026-11-14T01:00Z",
        "period": 5,
-       "clock": "3:08",
+       "clock": "2:14",
        "teams": [
         {
          "name": "Atlanta Hawks",
          "short": "Hawks",
          "abbr": "ATL",
-         "score": 112,
+         "score": 113,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -1423,7 +1423,7 @@
          "name": "Chicago Bulls",
          "short": "Bulls",
          "abbr": "CHI",
-         "score": 113,
+         "score": 115,
          "ha": "home",
          "winner": null,
          "linescores": [
