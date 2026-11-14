@@ -1,5 +1,5 @@
 {
- "updated": "Nov 13, 2026, 5:04 PM PT",
+ "updated": "Nov 13, 2026, 5:06 PM PT",
  "record": {
   "w": 159,
   "l": 157,
@@ -318,20 +318,22 @@
       "date": "20261113",
       "snapshot": {
        "source": "espn",
-       "state": "pre",
-       "detail": "11/13 - 8:00 PM EST",
+       "state": "in",
+       "detail": "19:15 - 1st",
        "start": "2026-11-14T01:00Z",
-       "period": null,
-       "clock": null,
+       "period": 1,
+       "clock": "19:15",
        "teams": [
         {
          "name": "Illinois State Redbirds",
          "short": "Redbirds",
          "abbr": "ILST",
-         "score": 0,
+         "score": 2,
          "ha": "away",
          "winner": null,
-         "linescores": []
+         "linescores": [
+          0
+         ]
         },
         {
          "name": "North Dakota State Bison",
@@ -340,7 +342,9 @@
          "score": 0,
          "ha": "home",
          "winner": null,
-         "linescores": []
+         "linescores": [
+          0
+         ]
         }
        ]
       },
@@ -1077,16 +1081,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "18:49 - 2nd",
+       "detail": "17:31 - 2nd",
        "start": "2026-11-14T00:00Z",
        "period": 2,
-       "clock": "18:49",
+       "clock": "17:31",
        "teams": [
         {
          "name": "Sam Houston Bearkats",
          "short": "Bearkats",
          "abbr": "SHSU",
-         "score": 42,
+         "score": 49,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -1098,7 +1102,7 @@
          "name": "Illinois Fighting Illini",
          "short": "Fighting Illini",
          "abbr": "ILL",
-         "score": 49,
+         "score": 52,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -1141,16 +1145,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "18:49 - 2nd",
+       "detail": "17:31 - 2nd",
        "start": "2026-11-14T00:00Z",
        "period": 2,
-       "clock": "18:49",
+       "clock": "17:31",
        "teams": [
         {
          "name": "Sam Houston Bearkats",
          "short": "Bearkats",
          "abbr": "SHSU",
-         "score": 42,
+         "score": 49,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -1162,7 +1166,7 @@
          "name": "Illinois Fighting Illini",
          "short": "Fighting Illini",
          "abbr": "ILL",
-         "score": 49,
+         "score": 52,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -1203,11 +1207,11 @@
       "date": "20261113",
       "snapshot": {
        "source": "espn",
-       "state": "pre",
-       "detail": "11/13 - 8:00 PM EST",
+       "state": "in",
+       "detail": "19:52 - 1st",
        "start": "2026-11-14T01:00Z",
-       "period": null,
-       "clock": null,
+       "period": 1,
+       "clock": "19:52",
        "teams": [
         {
          "name": "SIU Edwardsville Cougars",
@@ -1216,7 +1220,9 @@
          "score": 0,
          "ha": "away",
          "winner": null,
-         "linescores": []
+         "linescores": [
+          0
+         ]
         },
         {
          "name": "Duke Blue Devils",
@@ -1225,7 +1231,9 @@
          "score": 0,
          "ha": "home",
          "winner": null,
-         "linescores": []
+         "linescores": [
+          0
+         ]
         }
        ]
       },
@@ -1261,11 +1269,11 @@
       "date": "20261113",
       "snapshot": {
        "source": "espn",
-       "state": "pre",
-       "detail": "11/13 - 8:00 PM EST",
+       "state": "in",
+       "detail": "19:52 - 1st",
        "start": "2026-11-14T01:00Z",
-       "period": null,
-       "clock": null,
+       "period": 1,
+       "clock": "19:52",
        "teams": [
         {
          "name": "SIU Edwardsville Cougars",
@@ -1274,7 +1282,9 @@
          "score": 0,
          "ha": "away",
          "winner": null,
-         "linescores": []
+         "linescores": [
+          0
+         ]
         },
         {
          "name": "Duke Blue Devils",
@@ -1283,7 +1293,9 @@
          "score": 0,
          "ha": "home",
          "winner": null,
-         "linescores": []
+         "linescores": [
+          0
+         ]
         }
        ]
       },
