@@ -1,5 +1,5 @@
 {
- "updated": "Nov 14, 2026, 10:49 AM PT",
+ "updated": "Nov 14, 2026, 10:52 AM PT",
  "record": {
   "w": 164,
   "l": 163,
@@ -1326,7 +1326,7 @@
          "name": "NC State Wolfpack",
          "short": "Wolfpack",
          "abbr": "NCSU",
-         "score": 20,
+         "score": 21,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -1370,10 +1370,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "1:29 - 1st",
+       "detail": "0:56 - 1st",
        "start": "2026-11-14T18:00Z",
        "period": 1,
-       "clock": "1:29",
+       "clock": "0:56",
        "teams": [
         {
          "name": "Marshall Thundering Herd",
@@ -1559,10 +1559,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P1 00:00",
+       "detail": "P1 14:25",
        "start": "2026-11-14T18:00:00Z",
        "period": 1,
-       "clock": "00:00",
+       "clock": "14:25",
        "teams": [
         {
          "name": "Kraken",
