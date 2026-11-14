@@ -1,5 +1,5 @@
 {
- "updated": "Nov 13, 2026, 5:16 PM PT",
+ "updated": "Nov 13, 2026, 5:18 PM PT",
  "record": {
   "w": 159,
   "l": 157,
@@ -182,16 +182,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "14:18 - 1st",
+       "detail": "12:59 - 1st",
        "start": "2026-11-14T01:00Z",
        "period": 1,
-       "clock": "14:18",
+       "clock": "12:59",
        "teams": [
         {
          "name": "Illinois State Redbirds",
          "short": "Redbirds",
          "abbr": "ILST",
-         "score": 11,
+         "score": 13,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -1080,7 +1080,7 @@
          "name": "SIU Edwardsville Cougars",
          "short": "Cougars",
          "abbr": "SIUE",
-         "score": 2,
+         "score": 3,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -1142,7 +1142,7 @@
          "name": "SIU Edwardsville Cougars",
          "short": "Cougars",
          "abbr": "SIUE",
-         "score": 2,
+         "score": 3,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -1196,16 +1196,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "7:54 - 1st",
+       "detail": "6:01 - 1st",
        "start": "2026-11-14T01:00Z",
        "period": 1,
-       "clock": "7:54",
+       "clock": "6:01",
        "teams": [
         {
          "name": "Memphis Grizzlies",
          "short": "Grizzlies",
          "abbr": "MEM",
-         "score": 12,
+         "score": 14,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -1216,7 +1216,7 @@
          "name": "New Orleans Pelicans",
          "short": "Pelicans",
          "abbr": "NO",
-         "score": 9,
+         "score": 13,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -1225,7 +1225,7 @@
         }
        ],
        "stat": {
-        "v": 1,
+        "v": 2,
         "name": "Isaiah Stewart"
        }
       },
@@ -1263,10 +1263,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "7:35 - 1st",
+       "detail": "7:16 - 1st",
        "start": "2026-11-14T01:00Z",
        "period": 1,
-       "clock": "7:35",
+       "clock": "7:16",
        "teams": [
         {
          "name": "Atlanta Hawks",
@@ -1283,7 +1283,7 @@
          "name": "Chicago Bulls",
          "short": "Bulls",
          "abbr": "CHI",
-         "score": 12,
+         "score": 14,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -1330,10 +1330,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "7:35 - 1st",
+       "detail": "7:16 - 1st",
        "start": "2026-11-14T01:00Z",
        "period": 1,
-       "clock": "7:35",
+       "clock": "7:16",
        "teams": [
         {
          "name": "Atlanta Hawks",
@@ -1350,7 +1350,7 @@
          "name": "Chicago Bulls",
          "short": "Bulls",
          "abbr": "CHI",
-         "score": 12,
+         "score": 14,
          "ha": "home",
          "winner": null,
          "linescores": [
