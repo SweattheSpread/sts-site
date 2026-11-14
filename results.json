@@ -1,5 +1,5 @@
 {
- "updated": "Nov 14, 2026, 9:47 AM PT",
+ "updated": "Nov 14, 2026, 9:49 AM PT",
  "record": {
   "w": 164,
   "l": 163,
@@ -11,7 +11,7 @@
   "first": "2026-10-12",
   "last": "2026-11-13"
  },
- "pending": 26,
+ "pending": 27,
  "plays": [
   {
    "n": 334,
@@ -5529,6 +5529,22 @@
    "pick": "2nd Quarter Total Over 17.5 (both teams) LIVE",
    "odds": -115,
    "units": 2.5,
+   "result": null,
+   "pl": null,
+   "pending": true
+  },
+  {
+   "n": 805,
+   "date": "2026-11-14",
+   "day": "2026-11-14",
+   "league": "NHL",
+   "market": "spread",
+   "market_label": "Spread",
+   "ticket": "single",
+   "matchup": "Seattle Kraken @ Carolina Hurricanes",
+   "pick": "Carolina Hurricanes -1.5 (full-game puck line)",
+   "odds": -155,
+   "units": 1.5,
    "result": null,
    "pl": null,
    "pending": true

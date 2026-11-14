@@ -1,5 +1,5 @@
 {
- "updated": "Nov 14, 2026, 9:47 AM PT",
+ "updated": "Nov 14, 2026, 9:49 AM PT",
  "record": {
   "w": 164,
   "l": 163,
@@ -11,7 +11,7 @@
   "first": "2026-10-12",
   "last": "2026-11-13"
  },
- "pending": 26,
+ "pending": 27,
  "latest": [
   {
    "n": 788,
@@ -182,6 +182,64 @@
      }
     ],
     "sport": "NCAAB",
+    "ticket": "single"
+   }
+  },
+  {
+   "n": 805,
+   "league": "NHL",
+   "type": "Spread",
+   "matchup": "Seattle Kraken @ Carolina Hurricanes",
+   "pick": "Carolina Hurricanes -1.5 (full-game puck line)",
+   "odds": -155,
+   "units": 1.5,
+   "gap": null,
+   "start": "2026-11-14T10:00:00",
+   "timed": true,
+   "ticket": "single",
+   "espn": {
+    "legs": [
+     {
+      "kind": "spread",
+      "side": "Carolina Hurricanes",
+      "line": -1.5,
+      "label": "Carolina Hurricanes -1.5",
+      "path": "hockey/nhl",
+      "event": "401891809",
+      "date": "20261114",
+      "snapshot": {
+       "source": "nhl",
+       "state": "pre",
+       "detail": "Scheduled",
+       "start": "2026-11-14T18:00:00Z",
+       "period": null,
+       "clock": null,
+       "teams": [
+        {
+         "name": "Kraken",
+         "short": "SEA",
+         "abbr": "SEA",
+         "score": 0,
+         "ha": "away",
+         "winner": null,
+         "linescores": []
+        },
+        {
+         "name": "Hurricanes",
+         "short": "CAR",
+         "abbr": "CAR",
+         "score": 0,
+         "ha": "home",
+         "winner": null,
+         "linescores": []
+        }
+       ],
+       "nhl_id": 2026020321
+      },
+      "source": "nhl"
+     }
+    ],
+    "sport": "NHL",
     "ticket": "single"
    }
   },
@@ -1362,10 +1420,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "8:37 - 2nd",
+       "detail": "6:25 - 2nd",
        "start": "2026-11-14T17:00Z",
        "period": 2,
-       "clock": "8:37",
+       "clock": "6:25",
        "teams": [
         {
          "name": "Syracuse Orange",
@@ -1445,7 +1503,7 @@
          "name": "Ohio State Buckeyes",
          "short": "Buckeyes",
          "abbr": "OSU",
-         "score": 0,
+         "score": 7,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -1488,10 +1546,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "14:49 - 2nd",
+       "detail": "13:38 - 2nd",
        "start": "2026-11-14T17:00Z",
        "period": 2,
-       "clock": "14:49",
+       "clock": "13:38",
        "teams": [
         {
          "name": "Cincinnati Bearcats",
