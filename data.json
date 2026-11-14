@@ -1,5 +1,5 @@
 {
- "updated": "Nov 14, 2026, 11:01 AM PT",
+ "updated": "Nov 14, 2026, 11:04 AM PT",
  "record": {
   "w": 164,
   "l": 163,
@@ -1247,10 +1247,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "7:21 - 3rd",
+       "detail": "7:16 - 3rd",
        "start": "2026-11-14T17:00Z",
        "period": 3,
-       "clock": "7:21",
+       "clock": "7:16",
        "teams": [
         {
          "name": "Syracuse Orange",
@@ -1373,29 +1373,33 @@
       "date": "20261114",
       "snapshot": {
        "source": "espn",
-       "state": "pre",
-       "detail": "11/14 - 2:00 PM EST",
+       "state": "in",
+       "detail": "18:48 - 1st",
        "start": "2026-11-14T19:00Z",
-       "period": null,
-       "clock": null,
+       "period": 1,
+       "clock": "18:48",
        "teams": [
         {
          "name": "Stonehill Skyhawks",
          "short": "Skyhawks",
          "abbr": "STO",
-         "score": 0,
+         "score": 3,
          "ha": "away",
          "winner": null,
-         "linescores": []
+         "linescores": [
+          0
+         ]
         },
         {
          "name": "Texas Tech Red Raiders",
          "short": "Red Raiders",
          "abbr": "TTU",
-         "score": 0,
+         "score": 2,
          "ha": "home",
          "winner": null,
-         "linescores": []
+         "linescores": [
+          0
+         ]
         }
        ]
       },
@@ -1496,10 +1500,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "11:41 - 3rd",
+       "detail": "11:00 - 3rd",
        "start": "2026-11-14T17:00Z",
        "period": 3,
-       "clock": "11:41",
+       "clock": "11:00",
        "teams": [
         {
          "name": "Cincinnati Bearcats",
@@ -1561,10 +1565,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P1 04:38",
+       "detail": "P1 02:24",
        "start": "2026-11-14T18:00:00Z",
        "period": 1,
-       "clock": "04:38",
+       "clock": "02:24",
        "teams": [
         {
          "name": "Kraken",
