@@ -1,5 +1,5 @@
 {
- "updated": "Nov 14, 2026, 1:37 PM PT",
+ "updated": "Nov 14, 2026, 1:42 PM PT",
  "record": {
   "w": 164,
   "l": 163,
@@ -1144,7 +1144,33 @@
       "event": "382-2026",
       "comp": "187441",
       "date": "20261114",
-      "opp": "Jessica Pegula"
+      "opp": "Jessica Pegula",
+      "snapshot": {
+       "source": "tennis-explorer",
+       "path": "tennis/explorer",
+       "event": "3378355",
+       "state": "post",
+       "detail": "Final \u00b7 2-0 sets",
+       "tennis": [
+        {
+         "name": "Andreeva M.",
+         "winner": true,
+         "sets": [
+          6,
+          6
+         ]
+        },
+        {
+         "name": "Pegula J.",
+         "winner": false,
+         "sets": [
+          3,
+          4
+         ]
+        }
+       ],
+       "tour": "Masters Cup WTA"
+      }
      }
     ],
     "sport": "Tennis",
