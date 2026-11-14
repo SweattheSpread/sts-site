@@ -1,5 +1,5 @@
 {
- "updated": "Nov 13, 2026, 6:18 PM PT",
+ "updated": "Nov 13, 2026, 6:20 PM PT",
  "record": {
   "w": 159,
   "l": 157,
@@ -154,16 +154,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "3:46 - 4th",
+       "detail": "2:34 - 4th",
        "start": "2026-11-14T00:00Z",
        "period": 4,
-       "clock": "3:46",
+       "clock": "2:34",
        "teams": [
         {
          "name": "Milwaukee Bucks",
          "short": "Bucks",
          "abbr": "MIL",
-         "score": 84,
+         "score": 86,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -984,16 +984,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "17:22 - 2nd",
+       "detail": "16:22 - 2nd",
        "start": "2026-11-14T01:00Z",
        "period": 2,
-       "clock": "17:22",
+       "clock": "16:22",
        "teams": [
         {
          "name": "SIU Edwardsville Cougars",
          "short": "Cougars",
          "abbr": "SIUE",
-         "score": 21,
+         "score": 23,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -1005,7 +1005,7 @@
          "name": "Duke Blue Devils",
          "short": "Blue Devils",
          "abbr": "DUKE",
-         "score": 47,
+         "score": 52,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -1048,16 +1048,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "17:22 - 2nd",
+       "detail": "16:22 - 2nd",
        "start": "2026-11-14T01:00Z",
        "period": 2,
-       "clock": "17:22",
+       "clock": "16:22",
        "teams": [
         {
          "name": "SIU Edwardsville Cougars",
          "short": "Cougars",
          "abbr": "SIUE",
-         "score": 21,
+         "score": 23,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -1069,7 +1069,7 @@
          "name": "Duke Blue Devils",
          "short": "Blue Devils",
          "abbr": "DUKE",
-         "score": 47,
+         "score": 52,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -1314,16 +1314,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "9:12 - 2nd",
+       "detail": "7:26 - 2nd",
        "start": "2026-11-14T01:30Z",
        "period": 2,
-       "clock": "9:12",
+       "clock": "7:26",
        "teams": [
         {
          "name": "Utah Jazz",
          "short": "Jazz",
          "abbr": "UTAH",
-         "score": 34,
+         "score": 37,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -1335,7 +1335,7 @@
          "name": "Houston Rockets",
          "short": "Rockets",
          "abbr": "HOU",
-         "score": 32,
+         "score": 39,
          "ha": "home",
          "winner": null,
          "linescores": [
