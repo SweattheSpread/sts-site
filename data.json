@@ -1,5 +1,5 @@
 {
- "updated": "Nov 14, 2026, 2:30 PM PT",
+ "updated": "Nov 14, 2026, 2:33 PM PT",
  "record": {
   "w": 164,
   "l": 163,
@@ -153,10 +153,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "14:01 - 4th",
+       "detail": "13:12 - 4th",
        "start": "2026-11-14T20:00Z",
        "period": 4,
-       "clock": "14:01",
+       "clock": "13:12",
        "teams": [
         {
          "name": "New Mexico State Aggies",
@@ -1150,10 +1150,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "12:54 - 4th",
+       "detail": "10:57 - 4th",
        "start": "2026-11-14T20:00Z",
        "period": 4,
-       "clock": "12:54",
+       "clock": "10:57",
        "teams": [
         {
          "name": "Tennessee Volunteers",
@@ -1430,16 +1430,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "3:21 - 2nd",
+       "detail": "1:27 - 2nd",
        "start": "2026-11-14T20:30Z",
        "period": 2,
-       "clock": "3:21",
+       "clock": "1:27",
        "teams": [
         {
          "name": "LSU Tigers",
          "short": "Tigers",
          "abbr": "LSU",
-         "score": 68,
+         "score": 76,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -1451,7 +1451,7 @@
          "name": "Gonzaga Bulldogs",
          "short": "Bulldogs",
          "abbr": "GONZ",
-         "score": 77,
+         "score": 79,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -1494,16 +1494,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "3:21 - 2nd",
+       "detail": "1:27 - 2nd",
        "start": "2026-11-14T20:30Z",
        "period": 2,
-       "clock": "3:21",
+       "clock": "1:27",
        "teams": [
         {
          "name": "LSU Tigers",
          "short": "Tigers",
          "abbr": "LSU",
-         "score": 68,
+         "score": 76,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -1515,7 +1515,7 @@
          "name": "Gonzaga Bulldogs",
          "short": "Bulldogs",
          "abbr": "GONZ",
-         "score": 77,
+         "score": 79,
          "ha": "home",
          "winner": null,
          "linescores": [
