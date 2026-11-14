@@ -1,5 +1,5 @@
 {
- "updated": "Nov 14, 2026, 2:40 PM PT",
+ "updated": "Nov 14, 2026, 2:42 PM PT",
  "record": {
   "w": 164,
   "l": 163,
@@ -153,10 +153,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "12:00 - 4th",
+       "detail": "9:28 - 4th",
        "start": "2026-11-14T20:00Z",
        "period": 4,
-       "clock": "12:00",
+       "clock": "9:28",
        "teams": [
         {
          "name": "New Mexico State Aggies",
@@ -1430,16 +1430,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "0:12 - 2nd",
+       "detail": "0:01 - 2nd",
        "start": "2026-11-14T20:30Z",
        "period": 2,
-       "clock": "0:12",
+       "clock": "0:01",
        "teams": [
         {
          "name": "LSU Tigers",
          "short": "Tigers",
          "abbr": "LSU",
-         "score": 78,
+         "score": 81,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -1451,7 +1451,7 @@
          "name": "Gonzaga Bulldogs",
          "short": "Bulldogs",
          "abbr": "GONZ",
-         "score": 79,
+         "score": 80,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -1494,16 +1494,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "0:12 - 2nd",
+       "detail": "0:01 - 2nd",
        "start": "2026-11-14T20:30Z",
        "period": 2,
-       "clock": "0:12",
+       "clock": "0:01",
        "teams": [
         {
          "name": "LSU Tigers",
          "short": "Tigers",
          "abbr": "LSU",
-         "score": 78,
+         "score": 81,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -1515,7 +1515,7 @@
          "name": "Gonzaga Bulldogs",
          "short": "Bulldogs",
          "abbr": "GONZ",
-         "score": 79,
+         "score": 80,
          "ha": "home",
          "winner": null,
          "linescores": [
