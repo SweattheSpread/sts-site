@@ -1,5 +1,5 @@
 {
- "updated": "Nov 13, 2026, 5:58 PM PT",
+ "updated": "Nov 13, 2026, 6:00 PM PT",
  "record": {
   "w": 159,
   "l": 157,
@@ -127,67 +127,6 @@
   }
  ],
  "picks": [
-  {
-   "n": 782,
-   "league": "NCAAB",
-   "type": "Spread",
-   "matchup": "Ball State Cardinals @ SMU Mustangs",
-   "pick": "Ball State +23.5",
-   "odds": -115,
-   "units": 1.0,
-   "gap": null,
-   "start": "2026-11-13T18:00:00",
-   "timed": true,
-   "ticket": "single",
-   "espn": {
-    "legs": [
-     {
-      "kind": "spread",
-      "side": "Ball State",
-      "line": 23.5,
-      "label": "Ball State +23.5",
-      "path": "basketball/mens-college-basketball",
-      "event": "401927374",
-      "date": "20261113",
-      "snapshot": {
-       "source": "espn",
-       "state": "in",
-       "detail": "Halftime",
-       "start": "2026-11-14T01:00Z",
-       "period": 1,
-       "clock": "0:00",
-       "teams": [
-        {
-         "name": "Illinois State Redbirds",
-         "short": "Redbirds",
-         "abbr": "ILST",
-         "score": 31,
-         "ha": "away",
-         "winner": null,
-         "linescores": [
-          0
-         ]
-        },
-        {
-         "name": "North Dakota State Bison",
-         "short": "Bison",
-         "abbr": "NDSU",
-         "score": 31,
-         "ha": "home",
-         "winner": null,
-         "linescores": [
-          0
-         ]
-        }
-       ]
-      },
-      "source": "espn"
-     }
-    ],
-    "sport": "NCAAB",
-    "ticket": "single"
-   }
-  },
   {
    "n": 785,
    "league": "NBA",
@@ -918,16 +857,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "2:00 - 2nd",
+       "detail": "1:49 - 2nd",
        "start": "2026-11-14T00:00Z",
        "period": 2,
-       "clock": "2:00",
+       "clock": "1:49",
        "teams": [
         {
          "name": "Sam Houston Bearkats",
          "short": "Bearkats",
          "abbr": "SHSU",
-         "score": 82,
+         "score": 83,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -982,16 +921,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "2:00 - 2nd",
+       "detail": "1:49 - 2nd",
        "start": "2026-11-14T00:00Z",
        "period": 2,
-       "clock": "2:00",
+       "clock": "1:49",
        "teams": [
         {
          "name": "Sam Houston Bearkats",
          "short": "Bearkats",
          "abbr": "SHSU",
-         "score": 82,
+         "score": 83,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -1144,6 +1083,67 @@
    }
   },
   {
+   "n": 782,
+   "league": "NCAAB",
+   "type": "Spread",
+   "matchup": "Ball State Cardinals @ SMU Mustangs",
+   "pick": "Ball State +23.5",
+   "odds": -115,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-13T18:00:00",
+   "timed": true,
+   "ticket": "single",
+   "espn": {
+    "legs": [
+     {
+      "kind": "spread",
+      "side": "Ball State",
+      "line": 23.5,
+      "label": "Ball State +23.5",
+      "path": "basketball/mens-college-basketball",
+      "event": "401927374",
+      "date": "20261113",
+      "snapshot": {
+       "source": "espn",
+       "state": "in",
+       "detail": "Halftime",
+       "start": "2026-11-14T01:00Z",
+       "period": 1,
+       "clock": "0:00",
+       "teams": [
+        {
+         "name": "Illinois State Redbirds",
+         "short": "Redbirds",
+         "abbr": "ILST",
+         "score": 31,
+         "ha": "away",
+         "winner": null,
+         "linescores": [
+          0
+         ]
+        },
+        {
+         "name": "North Dakota State Bison",
+         "short": "Bison",
+         "abbr": "NDSU",
+         "score": 31,
+         "ha": "home",
+         "winner": null,
+         "linescores": [
+          0
+         ]
+        }
+       ]
+      },
+      "source": "espn"
+     }
+    ],
+    "sport": "NCAAB",
+    "ticket": "single"
+   }
+  },
+  {
    "n": 784,
    "league": "NBA",
    "type": "Player Prop",
@@ -1170,16 +1170,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "5:14 - 2nd",
+       "detail": "4:35 - 2nd",
        "start": "2026-11-14T01:00Z",
        "period": 2,
-       "clock": "5:14",
+       "clock": "4:35",
        "teams": [
         {
          "name": "Memphis Grizzlies",
          "short": "Grizzlies",
          "abbr": "MEM",
-         "score": 48,
+         "score": 51,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -1191,7 +1191,7 @@
          "name": "New Orleans Pelicans",
          "short": "Pelicans",
          "abbr": "NO",
-         "score": 45,
+         "score": 46,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -1239,10 +1239,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "2:55 - 2nd",
+       "detail": "2:26 - 2nd",
        "start": "2026-11-14T01:00Z",
        "period": 2,
-       "clock": "2:55",
+       "clock": "2:26",
        "teams": [
         {
          "name": "Atlanta Hawks",
@@ -1260,7 +1260,7 @@
          "name": "Chicago Bulls",
          "short": "Bulls",
          "abbr": "CHI",
-         "score": 53,
+         "score": 56,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -1308,16 +1308,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "4:36 - 1st",
+       "detail": "3:23 - 1st",
        "start": "2026-11-14T01:30Z",
        "period": 1,
-       "clock": "4:36",
+       "clock": "3:23",
        "teams": [
         {
          "name": "Utah Jazz",
          "short": "Jazz",
          "abbr": "UTAH",
-         "score": 16,
+         "score": 18,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -1328,7 +1328,7 @@
          "name": "Houston Rockets",
          "short": "Rockets",
          "abbr": "HOU",
-         "score": 21,
+         "score": 23,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -1375,10 +1375,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "2:55 - 2nd",
+       "detail": "2:26 - 2nd",
        "start": "2026-11-14T01:00Z",
        "period": 2,
-       "clock": "2:55",
+       "clock": "2:26",
        "teams": [
         {
          "name": "Atlanta Hawks",
@@ -1396,7 +1396,7 @@
          "name": "Chicago Bulls",
          "short": "Bulls",
          "abbr": "CHI",
-         "score": 53,
+         "score": 56,
          "ha": "home",
          "winner": null,
          "linescores": [
