@@ -1,5 +1,5 @@
 {
- "updated": "Nov 13, 2026, 4:30 PM PT",
+ "updated": "Nov 13, 2026, 4:32 PM PT",
  "record": {
   "w": 159,
   "l": 157,
@@ -1200,16 +1200,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "8:08 - 1st",
+       "detail": "7:12 - 1st",
        "start": "2026-11-14T00:00Z",
        "period": 1,
-       "clock": "8:08",
+       "clock": "7:12",
        "teams": [
         {
          "name": "Sam Houston Bearkats",
          "short": "Bearkats",
          "abbr": "SHSU",
-         "score": 21,
+         "score": 23,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -1220,7 +1220,7 @@
          "name": "Illinois Fighting Illini",
          "short": "Fighting Illini",
          "abbr": "ILL",
-         "score": 31,
+         "score": 33,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -1262,16 +1262,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "8:08 - 1st",
+       "detail": "7:12 - 1st",
        "start": "2026-11-14T00:00Z",
        "period": 1,
-       "clock": "8:08",
+       "clock": "7:12",
        "teams": [
         {
          "name": "Sam Houston Bearkats",
          "short": "Bearkats",
          "abbr": "SHSU",
-         "score": 21,
+         "score": 23,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -1282,7 +1282,7 @@
          "name": "Illinois Fighting Illini",
          "short": "Fighting Illini",
          "abbr": "ILL",
-         "score": 31,
+         "score": 33,
          "ha": "home",
          "winner": null,
          "linescores": [
