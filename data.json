@@ -1,5 +1,5 @@
 {
- "updated": "Nov 14, 2026, 9:40 AM PT",
+ "updated": "Nov 14, 2026, 9:43 AM PT",
  "record": {
   "w": 164,
   "l": 163,
@@ -11,7 +11,7 @@
   "first": "2026-10-12",
   "last": "2026-11-13"
  },
- "pending": 24,
+ "pending": 25,
  "latest": [
   {
    "n": 788,
@@ -1362,10 +1362,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "11:26 - 2nd",
+       "detail": "10:40 - 2nd",
        "start": "2026-11-14T17:00Z",
        "period": 2,
-       "clock": "11:26",
+       "clock": "10:40",
        "teams": [
         {
          "name": "Syracuse Orange",
@@ -1383,6 +1383,68 @@
          "name": "NC State Wolfpack",
          "short": "Wolfpack",
          "abbr": "NCSU",
+         "score": 0,
+         "ha": "home",
+         "winner": null,
+         "linescores": [
+          0,
+          0
+         ]
+        }
+       ]
+      },
+      "source": "espn"
+     }
+    ],
+    "sport": "NCAAF",
+    "ticket": "single"
+   }
+  },
+  {
+   "n": 803,
+   "league": "NCAAF",
+   "type": "Moneyline",
+   "matchup": "Northwestern Wildcats @ Ohio State Buckeyes",
+   "pick": "Northwestern Wildcats ML LIVE",
+   "odds": 400,
+   "units": 0.5,
+   "gap": null,
+   "start": "2026-11-14T09:10:00",
+   "timed": true,
+   "ticket": "single",
+   "espn": {
+    "legs": [
+     {
+      "kind": "ml",
+      "side": "Northwestern Wildcats",
+      "label": "Northwestern Wildcats ML",
+      "path": "football/college-football",
+      "event": "401858522",
+      "date": "20261114",
+      "snapshot": {
+       "source": "espn",
+       "state": "in",
+       "detail": "15:00 - 2nd",
+       "start": "2026-11-14T17:00Z",
+       "period": 2,
+       "clock": "15:00",
+       "teams": [
+        {
+         "name": "Northwestern Wildcats",
+         "short": "Wildcats",
+         "abbr": "NU",
+         "score": 3,
+         "ha": "away",
+         "winner": null,
+         "linescores": [
+          0,
+          0
+         ]
+        },
+        {
+         "name": "Ohio State Buckeyes",
+         "short": "Buckeyes",
+         "abbr": "OSU",
          "score": 0,
          "ha": "home",
          "winner": null,

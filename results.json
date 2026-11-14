@@ -1,5 +1,5 @@
 {
- "updated": "Nov 14, 2026, 9:40 AM PT",
+ "updated": "Nov 14, 2026, 9:43 AM PT",
  "record": {
   "w": 164,
   "l": 163,
@@ -11,7 +11,7 @@
   "first": "2026-10-12",
   "last": "2026-11-13"
  },
- "pending": 24,
+ "pending": 25,
  "plays": [
   {
    "n": 334,
@@ -5497,6 +5497,22 @@
    "pick": "Under 158.5 total points",
    "odds": -110,
    "units": 1.0,
+   "result": null,
+   "pl": null,
+   "pending": true
+  },
+  {
+   "n": 803,
+   "date": "2026-11-14",
+   "day": "2026-11-14",
+   "league": "NCAAF",
+   "market": "ml",
+   "market_label": "Moneyline",
+   "ticket": "single",
+   "matchup": "Northwestern Wildcats @ Ohio State Buckeyes",
+   "pick": "Northwestern Wildcats ML LIVE",
+   "odds": 400,
+   "units": 0.5,
    "result": null,
    "pl": null,
    "pending": true
