@@ -1,5 +1,5 @@
 {
- "updated": "Nov 13, 2026, 5:02 PM PT",
+ "updated": "Nov 13, 2026, 5:04 PM PT",
  "record": {
   "w": 159,
   "l": 157,
@@ -378,16 +378,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "53.6 - 2nd",
+       "detail": "0.0 - 2nd",
        "start": "2026-11-14T00:00Z",
        "period": 2,
-       "clock": "53.6",
+       "clock": "0.0",
        "teams": [
         {
          "name": "Milwaukee Bucks",
          "short": "Bucks",
          "abbr": "MIL",
-         "score": 33,
+         "score": 36,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -399,7 +399,7 @@
          "name": "Orlando Magic",
          "short": "Magic",
          "abbr": "ORL",
-         "score": 49,
+         "score": 52,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -1077,16 +1077,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "20:00 - 2nd",
+       "detail": "18:49 - 2nd",
        "start": "2026-11-14T00:00Z",
        "period": 2,
-       "clock": "20:00",
+       "clock": "18:49",
        "teams": [
         {
          "name": "Sam Houston Bearkats",
          "short": "Bearkats",
          "abbr": "SHSU",
-         "score": 40,
+         "score": 42,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -1098,7 +1098,7 @@
          "name": "Illinois Fighting Illini",
          "short": "Fighting Illini",
          "abbr": "ILL",
-         "score": 45,
+         "score": 49,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -1141,16 +1141,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "20:00 - 2nd",
+       "detail": "18:49 - 2nd",
        "start": "2026-11-14T00:00Z",
        "period": 2,
-       "clock": "20:00",
+       "clock": "18:49",
        "teams": [
         {
          "name": "Sam Houston Bearkats",
          "short": "Bearkats",
          "abbr": "SHSU",
-         "score": 40,
+         "score": 42,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -1162,7 +1162,7 @@
          "name": "Illinois Fighting Illini",
          "short": "Fighting Illini",
          "abbr": "ILL",
-         "score": 45,
+         "score": 49,
          "ha": "home",
          "winner": null,
          "linescores": [
