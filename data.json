@@ -1,5 +1,5 @@
 {
- "updated": "Nov 13, 2026, 7:37 PM PT",
+ "updated": "Nov 13, 2026, 7:39 PM PT",
  "record": {
   "w": 159,
   "l": 157,
@@ -1055,7 +1055,7 @@
          "name": "UIC Flames",
          "short": "Flames",
          "abbr": "UIC",
-         "score": 19,
+         "score": 21,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -1109,16 +1109,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "44.1 - 4th",
+       "detail": "0.1 - 4th",
        "start": "2026-11-14T01:00Z",
        "period": 4,
-       "clock": "44.1",
+       "clock": "0.1",
        "teams": [
         {
          "name": "Memphis Grizzlies",
          "short": "Grizzlies",
          "abbr": "MEM",
-         "score": 137,
+         "score": 142,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -1132,7 +1132,7 @@
          "name": "New Orleans Pelicans",
          "short": "Pelicans",
          "abbr": "NO",
-         "score": 109,
+         "score": 111,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -1182,16 +1182,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "5:35 - 2nd",
+       "detail": "4:29 - 2nd",
        "start": "2026-11-14T02:30Z",
        "period": 2,
-       "clock": "5:35",
+       "clock": "4:29",
        "teams": [
         {
          "name": "Golden State Warriors",
          "short": "Warriors",
          "abbr": "GS",
-         "score": 23,
+         "score": 25,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -1203,7 +1203,7 @@
          "name": "San Antonio Spurs",
          "short": "Spurs",
          "abbr": "SA",
-         "score": 48,
+         "score": 52,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -1251,16 +1251,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "2:14 - OT",
+       "detail": "51.2 - OT",
        "start": "2026-11-14T01:00Z",
        "period": 5,
-       "clock": "2:14",
+       "clock": "51.2",
        "teams": [
         {
          "name": "Atlanta Hawks",
          "short": "Hawks",
          "abbr": "ATL",
-         "score": 113,
+         "score": 115,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -1275,7 +1275,7 @@
          "name": "Chicago Bulls",
          "short": "Bulls",
          "abbr": "CHI",
-         "score": 115,
+         "score": 120,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -1326,16 +1326,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "10:14 - 4th",
+       "detail": "9:43 - 4th",
        "start": "2026-11-14T01:30Z",
        "period": 4,
-       "clock": "10:14",
+       "clock": "9:43",
        "teams": [
         {
          "name": "Utah Jazz",
          "short": "Jazz",
          "abbr": "UTAH",
-         "score": 91,
+         "score": 94,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -1349,7 +1349,7 @@
          "name": "Houston Rockets",
          "short": "Rockets",
          "abbr": "HOU",
-         "score": 99,
+         "score": 102,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -1399,16 +1399,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "2:14 - OT",
+       "detail": "51.2 - OT",
        "start": "2026-11-14T01:00Z",
        "period": 5,
-       "clock": "2:14",
+       "clock": "51.2",
        "teams": [
         {
          "name": "Atlanta Hawks",
          "short": "Hawks",
          "abbr": "ATL",
-         "score": 113,
+         "score": 115,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -1423,7 +1423,7 @@
          "name": "Chicago Bulls",
          "short": "Bulls",
          "abbr": "CHI",
-         "score": 115,
+         "score": 120,
          "ha": "home",
          "winner": null,
          "linescores": [
