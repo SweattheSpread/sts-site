@@ -1,5 +1,5 @@
 {
- "updated": "Nov 13, 2026, 8:07 PM PT",
+ "updated": "Nov 13, 2026, 8:16 PM PT",
  "record": {
   "w": 159,
   "l": 157,
@@ -1046,16 +1046,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "16:55 - 2nd",
+       "detail": "12:44 - 2nd",
        "start": "2026-11-14T03:00Z",
        "period": 2,
-       "clock": "16:55",
+       "clock": "12:44",
        "teams": [
         {
          "name": "UIC Flames",
          "short": "Flames",
          "abbr": "UIC",
-         "score": 29,
+         "score": 34,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -1067,7 +1067,7 @@
          "name": "Saint Mary's Gaels",
          "short": "Gaels",
          "abbr": "SMC",
-         "score": 49,
+         "score": 56,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -1184,19 +1184,20 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "Halftime",
+       "detail": "7:25 - 3rd",
        "start": "2026-11-14T02:30Z",
-       "period": 2,
-       "clock": "0.0",
+       "period": 3,
+       "clock": "7:25",
        "teams": [
         {
          "name": "Golden State Warriors",
          "short": "Warriors",
          "abbr": "GS",
-         "score": 33,
+         "score": 43,
          "ha": "away",
          "winner": null,
          "linescores": [
+          0,
           0,
           0
          ]
@@ -1205,17 +1206,18 @@
          "name": "San Antonio Spurs",
          "short": "Spurs",
          "abbr": "SA",
-         "score": 63,
+         "score": 76,
          "ha": "home",
          "winner": null,
          "linescores": [
+          0,
           0,
           0
          ]
         }
        ],
        "stat": {
-        "v": 1,
+        "v": 3,
         "name": "Draymond Green"
        }
       },
@@ -1327,11 +1329,11 @@
       "date": "20261113",
       "snapshot": {
        "source": "espn",
-       "state": "in",
-       "detail": "9.7 - 4th",
+       "state": "post",
+       "detail": "Final",
        "start": "2026-11-14T01:30Z",
-       "period": 4,
-       "clock": "9.7",
+       "period": null,
+       "clock": null,
        "teams": [
         {
          "name": "Utah Jazz",
@@ -1339,7 +1341,7 @@
          "abbr": "UTAH",
          "score": 118,
          "ha": "away",
-         "winner": null,
+         "winner": false,
          "linescores": [
           0,
           0,
@@ -1351,9 +1353,9 @@
          "name": "Houston Rockets",
          "short": "Rockets",
          "abbr": "HOU",
-         "score": 123,
+         "score": 125,
          "ha": "home",
-         "winner": null,
+         "winner": true,
          "linescores": [
           0,
           0,
