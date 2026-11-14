@@ -1,5 +1,5 @@
 {
- "updated": "Nov 13, 2026, 6:53 PM PT",
+ "updated": "Nov 13, 2026, 7:00 PM PT",
  "record": {
   "w": 159,
   "l": 157,
@@ -127,64 +127,6 @@
   }
  ],
  "picks": [
-  {
-   "n": 783,
-   "league": "NCAAB",
-   "type": "Over/Under",
-   "matchup": "UIC Flames @ Saint Mary's Gaels",
-   "pick": "Under 150.5 total points",
-   "odds": -105,
-   "units": 1.0,
-   "gap": null,
-   "start": "2026-11-13T19:00:00",
-   "timed": true,
-   "ticket": "single",
-   "espn": {
-    "legs": [
-     {
-      "kind": "total",
-      "side": null,
-      "ou": "U",
-      "line": 150.5,
-      "label": "U 150.5",
-      "path": "basketball/mens-college-basketball",
-      "event": "401917525",
-      "date": "20261113",
-      "snapshot": {
-       "source": "espn",
-       "state": "pre",
-       "detail": "11/13 - 10:00 PM EST",
-       "start": "2026-11-14T03:00Z",
-       "period": null,
-       "clock": null,
-       "teams": [
-        {
-         "name": "UIC Flames",
-         "short": "Flames",
-         "abbr": "UIC",
-         "score": 0,
-         "ha": "away",
-         "winner": null,
-         "linescores": []
-        },
-        {
-         "name": "Saint Mary's Gaels",
-         "short": "Gaels",
-         "abbr": "SMC",
-         "score": 0,
-         "ha": "home",
-         "winner": null,
-         "linescores": []
-        }
-       ]
-      },
-      "source": "espn"
-     }
-    ],
-    "sport": "NCAAB",
-    "ticket": "single"
-   }
-  },
   {
    "n": 747,
    "league": "NFL",
@@ -911,10 +853,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "6:47 - 2nd",
+       "detail": "4:51 - 2nd",
        "start": "2026-11-14T01:00Z",
        "period": 2,
-       "clock": "6:47",
+       "clock": "4:51",
        "teams": [
         {
          "name": "SIU Edwardsville Cougars",
@@ -932,7 +874,7 @@
          "name": "Duke Blue Devils",
          "short": "Blue Devils",
          "abbr": "DUKE",
-         "score": 74,
+         "score": 79,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -975,10 +917,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "6:47 - 2nd",
+       "detail": "4:51 - 2nd",
        "start": "2026-11-14T01:00Z",
        "period": 2,
-       "clock": "6:47",
+       "clock": "4:51",
        "teams": [
         {
          "name": "SIU Edwardsville Cougars",
@@ -996,7 +938,7 @@
          "name": "Duke Blue Devils",
          "short": "Blue Devils",
          "abbr": "DUKE",
-         "score": 74,
+         "score": 79,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -1038,19 +980,20 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "1:24 - 2nd",
+       "detail": "4:09 - OT",
        "start": "2026-11-14T01:00Z",
-       "period": 2,
-       "clock": "1:24",
+       "period": 3,
+       "clock": "4:09",
        "teams": [
         {
          "name": "Illinois State Redbirds",
          "short": "Redbirds",
          "abbr": "ILST",
-         "score": 69,
+         "score": 72,
          "ha": "away",
          "winner": null,
          "linescores": [
+          0,
           0,
           0
          ]
@@ -1059,13 +1002,72 @@
          "name": "North Dakota State Bison",
          "short": "Bison",
          "abbr": "NDSU",
-         "score": 67,
+         "score": 69,
          "ha": "home",
          "winner": null,
          "linescores": [
           0,
+          0,
           0
          ]
+        }
+       ]
+      },
+      "source": "espn"
+     }
+    ],
+    "sport": "NCAAB",
+    "ticket": "single"
+   }
+  },
+  {
+   "n": 783,
+   "league": "NCAAB",
+   "type": "Over/Under",
+   "matchup": "UIC Flames @ Saint Mary's Gaels",
+   "pick": "Under 150.5 total points",
+   "odds": -105,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-13T19:00:00",
+   "timed": true,
+   "ticket": "single",
+   "espn": {
+    "legs": [
+     {
+      "kind": "total",
+      "side": null,
+      "ou": "U",
+      "line": 150.5,
+      "label": "U 150.5",
+      "path": "basketball/mens-college-basketball",
+      "event": "401917525",
+      "date": "20261113",
+      "snapshot": {
+       "source": "espn",
+       "state": "pre",
+       "detail": "11/13 - 10:00 PM EST",
+       "start": "2026-11-14T03:00Z",
+       "period": null,
+       "clock": null,
+       "teams": [
+        {
+         "name": "UIC Flames",
+         "short": "Flames",
+         "abbr": "UIC",
+         "score": 0,
+         "ha": "away",
+         "winner": null,
+         "linescores": []
+        },
+        {
+         "name": "Saint Mary's Gaels",
+         "short": "Gaels",
+         "abbr": "SMC",
+         "score": 0,
+         "ha": "home",
+         "winner": null,
+         "linescores": []
         }
        ]
       },
@@ -1103,16 +1105,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "2:50 - 3rd",
+       "detail": "55.1 - 3rd",
        "start": "2026-11-14T01:00Z",
        "period": 3,
-       "clock": "2:50",
+       "clock": "55.1",
        "teams": [
         {
          "name": "Memphis Grizzlies",
          "short": "Grizzlies",
          "abbr": "MEM",
-         "score": 95,
+         "score": 105,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -1125,7 +1127,7 @@
          "name": "New Orleans Pelicans",
          "short": "Pelicans",
          "abbr": "NO",
-         "score": 81,
+         "score": 86,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -1174,16 +1176,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "9:08 - 1st",
+       "detail": "4:15 - 1st",
        "start": "2026-11-14T02:30Z",
        "period": 1,
-       "clock": "9:08",
+       "clock": "4:15",
        "teams": [
         {
          "name": "Golden State Warriors",
          "short": "Warriors",
          "abbr": "GS",
-         "score": 0,
+         "score": 5,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -1194,7 +1196,7 @@
          "name": "San Antonio Spurs",
          "short": "Spurs",
          "abbr": "SA",
-         "score": 12,
+         "score": 26,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -1241,16 +1243,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "10:58 - 4th",
+       "detail": "7:38 - 4th",
        "start": "2026-11-14T01:00Z",
        "period": 4,
-       "clock": "10:58",
+       "clock": "7:38",
        "teams": [
         {
          "name": "Atlanta Hawks",
          "short": "Hawks",
          "abbr": "ATL",
-         "score": 85,
+         "score": 90,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -1264,7 +1266,7 @@
          "name": "Chicago Bulls",
          "short": "Bulls",
          "abbr": "CHI",
-         "score": 88,
+         "score": 99,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -1383,16 +1385,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "10:58 - 4th",
+       "detail": "7:38 - 4th",
        "start": "2026-11-14T01:00Z",
        "period": 4,
-       "clock": "10:58",
+       "clock": "7:38",
        "teams": [
         {
          "name": "Atlanta Hawks",
          "short": "Hawks",
          "abbr": "ATL",
-         "score": 85,
+         "score": 90,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -1406,7 +1408,7 @@
          "name": "Chicago Bulls",
          "short": "Bulls",
          "abbr": "CHI",
-         "score": 88,
+         "score": 99,
          "ha": "home",
          "winner": null,
          "linescores": [
