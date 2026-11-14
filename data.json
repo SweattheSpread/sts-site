@@ -1,5 +1,5 @@
 {
- "updated": "Nov 14, 2026, 6:33 AM PT",
+ "updated": "Nov 14, 2026, 8:08 AM PT",
  "record": {
   "w": 164,
   "l": 163,
@@ -11,7 +11,7 @@
   "first": "2026-10-12",
   "last": "2026-11-13"
  },
- "pending": 18,
+ "pending": 19,
  "latest": [
   {
    "n": 788,
@@ -870,6 +870,63 @@
       "date": "20261115",
       "unverified": true,
       "reason": "Player not found in this game"
+     }
+    ],
+    "sport": "NFL",
+    "ticket": "single"
+   }
+  },
+  {
+   "n": 797,
+   "league": "NFL",
+   "type": "Spread",
+   "matchup": "Jacksonville Jaguars @ Tennessee Titans",
+   "pick": "Jacksonville Jaguars -11",
+   "odds": -108,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-15T10:00:00",
+   "timed": true,
+   "ticket": "single",
+   "espn": {
+    "legs": [
+     {
+      "kind": "spread",
+      "side": "Jacksonville Jaguars",
+      "line": -11.0,
+      "label": "Jacksonville Jaguars -11",
+      "path": "football/nfl",
+      "event": "401873057",
+      "date": "20261115",
+      "snapshot": {
+       "source": "espn",
+       "state": "pre",
+       "detail": "11/15 - 1:00 PM EST",
+       "start": "2026-11-15T18:00Z",
+       "period": null,
+       "clock": null,
+       "teams": [
+        {
+         "name": "Jacksonville Jaguars",
+         "short": "Jaguars",
+         "abbr": "JAX",
+         "score": 0,
+         "ha": "away",
+         "winner": null,
+         "linescores": []
+        },
+        {
+         "name": "Tennessee Titans",
+         "short": "Titans",
+         "abbr": "TEN",
+         "score": 0,
+         "ha": "home",
+         "winner": null,
+         "linescores": []
+        }
+       ]
+      },
+      "source": "espn"
      }
     ],
     "sport": "NFL",

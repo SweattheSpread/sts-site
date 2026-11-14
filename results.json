@@ -1,5 +1,5 @@
 {
- "updated": "Nov 14, 2026, 6:33 AM PT",
+ "updated": "Nov 14, 2026, 8:08 AM PT",
  "record": {
   "w": 164,
   "l": 163,
@@ -11,7 +11,7 @@
   "first": "2026-10-12",
   "last": "2026-11-13"
  },
- "pending": 18,
+ "pending": 19,
  "plays": [
   {
    "n": 334,
@@ -5592,6 +5592,22 @@
    "matchup": "NFL GAP PLAY (official) \u2014 Houston Texans @ Cleveland Browns",
    "pick": "Jerry Jeudy longest reception OVER 11.5 yds",
    "odds": -120,
+   "units": 1.0,
+   "result": null,
+   "pl": null,
+   "pending": true
+  },
+  {
+   "n": 797,
+   "date": "2026-11-14",
+   "day": "2026-11-15",
+   "league": "NFL",
+   "market": "spread",
+   "market_label": "Spread",
+   "ticket": "single",
+   "matchup": "Jacksonville Jaguars @ Tennessee Titans",
+   "pick": "Jacksonville Jaguars -11 -108",
+   "odds": -108,
    "units": 1.0,
    "result": null,
    "pl": null,
