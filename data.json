@@ -1,5 +1,5 @@
 {
- "updated": "Nov 14, 2026, 2:23 PM PT",
+ "updated": "Nov 14, 2026, 2:25 PM PT",
  "record": {
   "w": 164,
   "l": 163,
@@ -153,10 +153,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "0:36 - 3rd",
+       "detail": "End of 3rd",
        "start": "2026-11-14T20:00Z",
        "period": 3,
-       "clock": "0:36",
+       "clock": "0:00",
        "teams": [
         {
          "name": "New Mexico State Aggies",
@@ -1428,16 +1428,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "4:39 - 2nd",
+       "detail": "4:22 - 2nd",
        "start": "2026-11-14T20:30Z",
        "period": 2,
-       "clock": "4:39",
+       "clock": "4:22",
        "teams": [
         {
          "name": "LSU Tigers",
          "short": "Tigers",
          "abbr": "LSU",
-         "score": 65,
+         "score": 68,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -1492,16 +1492,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "4:39 - 2nd",
+       "detail": "4:22 - 2nd",
        "start": "2026-11-14T20:30Z",
        "period": 2,
-       "clock": "4:39",
+       "clock": "4:22",
        "teams": [
         {
          "name": "LSU Tigers",
          "short": "Tigers",
          "abbr": "LSU",
-         "score": 65,
+         "score": 68,
          "ha": "away",
          "winner": null,
          "linescores": [
