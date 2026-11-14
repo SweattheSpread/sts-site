@@ -1,5 +1,5 @@
 {
- "updated": "Nov 14, 2026, 10:42 AM PT",
+ "updated": "Nov 14, 2026, 10:45 AM PT",
  "record": {
   "w": 164,
   "l": 163,
@@ -1370,16 +1370,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "3:48 - 1st",
+       "detail": "3:40 - 1st",
        "start": "2026-11-14T18:00Z",
        "period": 1,
-       "clock": "3:48",
+       "clock": "3:40",
        "teams": [
         {
          "name": "Marshall Thundering Herd",
          "short": "Thundering Herd",
          "abbr": "MRSH",
-         "score": 26,
+         "score": 28,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -1559,10 +1559,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P1 04:09",
+       "detail": "P1 02:39",
        "start": "2026-11-14T18:00:00Z",
        "period": 1,
-       "clock": "04:09",
+       "clock": "02:39",
        "teams": [
         {
          "name": "Kraken",
