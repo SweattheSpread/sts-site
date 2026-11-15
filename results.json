@@ -1,5 +1,5 @@
 {
- "updated": "Nov 15, 2026, 9:34 AM PT",
+ "updated": "Nov 15, 2026, 9:36 AM PT",
  "record": {
   "w": 174,
   "l": 170,
@@ -11,7 +11,7 @@
   "first": "2026-10-12",
   "last": "2026-11-14"
  },
- "pending": 23,
+ "pending": 26,
  "plays": [
   {
    "n": 334,
@@ -5928,6 +5928,54 @@
    "matchup": "Buffalo Bills @ New York Jets",
    "pick": "James Cook Under 98.5 rushing yards (player prop)",
    "odds": -115,
+   "units": 1.0,
+   "result": null,
+   "pl": null,
+   "pending": true
+  },
+  {
+   "n": 819,
+   "date": "2026-11-15",
+   "day": "2026-11-15",
+   "league": "NCAAB",
+   "market": "total",
+   "market_label": "Total",
+   "ticket": "single",
+   "matchup": "Boise State Broncos @ Nebraska Cornhuskers",
+   "pick": "Under 159.5 total points",
+   "odds": -110,
+   "units": 1.0,
+   "result": null,
+   "pl": null,
+   "pending": true
+  },
+  {
+   "n": 820,
+   "date": "2026-11-15",
+   "day": "2026-11-15",
+   "league": "NCAAB",
+   "market": "total",
+   "market_label": "Total",
+   "ticket": "single",
+   "matchup": "Canisius Golden Griffins @ Buffalo Bulls",
+   "pick": "Under 151 total points",
+   "odds": -110,
+   "units": 1.0,
+   "result": null,
+   "pl": null,
+   "pending": true
+  },
+  {
+   "n": 821,
+   "date": "2026-11-15",
+   "day": "2026-11-15",
+   "league": "NCAAB",
+   "market": "spread",
+   "market_label": "Spread",
+   "ticket": "single",
+   "matchup": "Coastal Carolina Chanticleers @ Wisconsin Badgers",
+   "pick": "Coastal Carolina +27.5",
+   "odds": -110,
    "units": 1.0,
    "result": null,
    "pl": null,

@@ -1,5 +1,5 @@
 {
- "updated": "Nov 15, 2026, 9:34 AM PT",
+ "updated": "Nov 15, 2026, 9:36 AM PT",
  "record": {
   "w": 174,
   "l": 170,
@@ -11,7 +11,7 @@
   "first": "2026-10-12",
   "last": "2026-11-14"
  },
- "pending": 22,
+ "pending": 25,
  "latest": [
   {
    "n": 808,
@@ -793,6 +793,64 @@
    }
   },
   {
+   "n": 819,
+   "league": "NCAAB",
+   "type": "Over/Under",
+   "matchup": "Boise State Broncos @ Nebraska Cornhuskers",
+   "pick": "Under 159.5 total points",
+   "odds": -110,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-15T10:00:00",
+   "timed": true,
+   "ticket": "single",
+   "espn": {
+    "legs": [
+     {
+      "kind": "total",
+      "side": null,
+      "ou": "U",
+      "line": 159.5,
+      "label": "U 159.5",
+      "path": "basketball/mens-college-basketball",
+      "event": "401926063",
+      "date": "20261115",
+      "snapshot": {
+       "source": "espn",
+       "state": "pre",
+       "detail": "11/15 - 1:00 PM EST",
+       "start": "2026-11-15T18:00Z",
+       "period": null,
+       "clock": null,
+       "teams": [
+        {
+         "name": "Boise State Broncos",
+         "short": "Broncos",
+         "abbr": "BOIS",
+         "score": 0,
+         "ha": "away",
+         "winner": null,
+         "linescores": []
+        },
+        {
+         "name": "Nebraska Cornhuskers",
+         "short": "Cornhuskers",
+         "abbr": "NEB",
+         "score": 0,
+         "ha": "home",
+         "winner": null,
+         "linescores": []
+        }
+       ]
+      },
+      "source": "espn"
+     }
+    ],
+    "sport": "NCAAB",
+    "ticket": "single"
+   }
+  },
+  {
    "n": 748,
    "league": "NFL",
    "type": "Spread",
@@ -908,6 +966,64 @@
    }
   },
   {
+   "n": 820,
+   "league": "NCAAB",
+   "type": "Over/Under",
+   "matchup": "Canisius Golden Griffins @ Buffalo Bulls",
+   "pick": "Under 151 total points",
+   "odds": -110,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-15T14:30:00",
+   "timed": true,
+   "ticket": "single",
+   "espn": {
+    "legs": [
+     {
+      "kind": "total",
+      "side": null,
+      "ou": "U",
+      "line": 151.0,
+      "label": "U 151.0",
+      "path": "basketball/mens-college-basketball",
+      "event": "401911017",
+      "date": "20261115",
+      "snapshot": {
+       "source": "espn",
+       "state": "pre",
+       "detail": "11/15 - 5:30 PM EST",
+       "start": "2026-11-15T22:30Z",
+       "period": null,
+       "clock": null,
+       "teams": [
+        {
+         "name": "Canisius Golden Griffins",
+         "short": "Golden Griffins",
+         "abbr": "CAN",
+         "score": 0,
+         "ha": "away",
+         "winner": null,
+         "linescores": []
+        },
+        {
+         "name": "Buffalo Bulls",
+         "short": "Bulls",
+         "abbr": "BUF",
+         "score": 0,
+         "ha": "home",
+         "winner": null,
+         "linescores": []
+        }
+       ]
+      },
+      "source": "espn"
+     }
+    ],
+    "sport": "NCAAB",
+    "ticket": "single"
+   }
+  },
+  {
    "n": 816,
    "league": "NHL",
    "type": "Over/Under",
@@ -963,6 +1079,63 @@
      }
     ],
     "sport": "NHL",
+    "ticket": "single"
+   }
+  },
+  {
+   "n": 821,
+   "league": "NCAAB",
+   "type": "Spread",
+   "matchup": "Coastal Carolina Chanticleers @ Wisconsin Badgers",
+   "pick": "Coastal Carolina +27.5",
+   "odds": -110,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-15T17:00:00",
+   "timed": true,
+   "ticket": "single",
+   "espn": {
+    "legs": [
+     {
+      "kind": "spread",
+      "side": "Coastal Carolina",
+      "line": 27.5,
+      "label": "Coastal Carolina +27.5",
+      "path": "basketball/mens-college-basketball",
+      "event": "401920896",
+      "date": "20261115",
+      "snapshot": {
+       "source": "espn",
+       "state": "pre",
+       "detail": "11/15 - 8:00 PM EST",
+       "start": "2026-11-16T01:00Z",
+       "period": null,
+       "clock": null,
+       "teams": [
+        {
+         "name": "Coastal Carolina Chanticleers",
+         "short": "Chanticleers",
+         "abbr": "CCU",
+         "score": 0,
+         "ha": "away",
+         "winner": null,
+         "linescores": []
+        },
+        {
+         "name": "Wisconsin Badgers",
+         "short": "Badgers",
+         "abbr": "WIS",
+         "score": 0,
+         "ha": "home",
+         "winner": null,
+         "linescores": []
+        }
+       ]
+      },
+      "source": "espn"
+     }
+    ],
+    "sport": "NCAAB",
     "ticket": "single"
    }
   },
@@ -1224,10 +1397,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "2:00 - 4th",
+       "detail": "1:19 - 4th",
        "start": "2026-11-15T14:30Z",
        "period": 4,
-       "clock": "2:00",
+       "clock": "1:19",
        "teams": [
         {
          "name": "New England Patriots",
@@ -1292,10 +1465,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "2:00 - 4th",
+       "detail": "1:19 - 4th",
        "start": "2026-11-15T14:30Z",
        "period": 4,
-       "clock": "2:00",
+       "clock": "1:19",
        "teams": [
         {
          "name": "New England Patriots",
