@@ -1,5 +1,5 @@
 {
- "updated": "Nov 15, 2026, 2:30 PM PT",
+ "updated": "Nov 15, 2026, 2:33 PM PT",
  "record": {
   "w": 174,
   "l": 170,
@@ -665,10 +665,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "0:13 - 2nd",
+       "detail": "Halftime",
        "start": "2026-11-15T21:05Z",
        "period": 2,
-       "clock": "0:13",
+       "clock": "0:00",
        "teams": [
         {
          "name": "Los Angeles Rams",
@@ -1795,10 +1795,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "0:13 - 2nd",
+       "detail": "Halftime",
        "start": "2026-11-15T21:05Z",
        "period": 2,
-       "clock": "0:13",
+       "clock": "0:00",
        "teams": [
         {
          "name": "Los Angeles Rams",
