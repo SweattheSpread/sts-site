@@ -1,5 +1,5 @@
 {
- "updated": "Nov 15, 2026, 3:27 PM PT",
+ "updated": "Nov 15, 2026, 3:30 PM PT",
  "record": {
   "w": 174,
   "l": 170,
@@ -738,10 +738,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "13:13 - 4th",
+       "detail": "12:15 - 4th",
        "start": "2026-11-15T21:05Z",
        "period": 4,
-       "clock": "13:13",
+       "clock": "12:15",
        "teams": [
         {
          "name": "Los Angeles Rams",
@@ -1560,10 +1560,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "9:59 - 4th",
+       "detail": "7:43 - 4th",
        "start": "2026-11-15T21:05Z",
        "period": 4,
-       "clock": "9:59",
+       "clock": "7:43",
        "teams": [
         {
          "name": "Seattle Seahawks",
@@ -1880,10 +1880,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "13:13 - 4th",
+       "detail": "12:15 - 4th",
        "start": "2026-11-15T21:05Z",
        "period": 4,
-       "clock": "13:13",
+       "clock": "12:15",
        "teams": [
         {
          "name": "Los Angeles Rams",
@@ -2021,16 +2021,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "8:32 - 3rd",
+       "detail": "6:59 - 3rd",
        "start": "2026-11-15T21:25Z",
        "period": 3,
-       "clock": "8:32",
+       "clock": "6:59",
        "teams": [
         {
          "name": "San Francisco 49ers",
          "short": "49ers",
          "abbr": "SF",
-         "score": 24,
+         "score": 31,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -2089,16 +2089,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "3:17 - 1st",
+       "detail": "2:06 - 1st",
        "start": "2026-11-15T23:00Z",
        "period": 1,
-       "clock": "3:17",
+       "clock": "2:06",
        "teams": [
         {
          "name": "Dallas Mavericks",
          "short": "Mavericks",
          "abbr": "DAL",
-         "score": 7,
+         "score": 9,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -2109,7 +2109,7 @@
          "name": "Boston Celtics",
          "short": "Celtics",
          "abbr": "BOS",
-         "score": 31,
+         "score": 34,
          "ha": "home",
          "winner": null,
          "linescores": [
