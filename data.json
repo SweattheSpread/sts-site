@@ -1,5 +1,5 @@
 {
- "updated": "Nov 14, 2026, 3:47 PM PT",
+ "updated": "Nov 14, 2026, 4:01 PM PT",
  "record": {
   "w": 164,
   "l": 163,
@@ -11,7 +11,7 @@
   "first": "2026-10-12",
   "last": "2026-11-13"
  },
- "pending": 28,
+ "pending": 29,
  "latest": [
   {
    "n": 788,
@@ -128,64 +128,6 @@
  ],
  "picks": [
   {
-   "n": 802,
-   "league": "NCAAB",
-   "type": "Over/Under",
-   "matchup": "Brown Bears @ Siena Saints",
-   "pick": "Under 158.5 total points",
-   "odds": -110,
-   "units": 1.0,
-   "gap": null,
-   "start": "2026-11-14T16:00:00",
-   "timed": true,
-   "ticket": "single",
-   "espn": {
-    "legs": [
-     {
-      "kind": "total",
-      "side": null,
-      "ou": "U",
-      "line": 158.5,
-      "label": "U 158.5",
-      "path": "basketball/mens-college-basketball",
-      "event": "401911308",
-      "date": "20261114",
-      "snapshot": {
-       "source": "espn",
-       "state": "pre",
-       "detail": "11/14 - 7:00 PM EST",
-       "start": "2026-11-15T00:00Z",
-       "period": null,
-       "clock": null,
-       "teams": [
-        {
-         "name": "Brown Bears",
-         "short": "Bears",
-         "abbr": "BRWN",
-         "score": 0,
-         "ha": "away",
-         "winner": null,
-         "linescores": []
-        },
-        {
-         "name": "Siena Saints",
-         "short": "Saints",
-         "abbr": "SIE",
-         "score": 0,
-         "ha": "home",
-         "winner": null,
-         "linescores": []
-        }
-       ]
-      },
-      "source": "espn"
-     }
-    ],
-    "sport": "NCAAB",
-    "ticket": "single"
-   }
-  },
-  {
    "n": 792,
    "league": "NCAAF",
    "type": "Spread",
@@ -240,6 +182,36 @@
      }
     ],
     "sport": "NCAAF",
+    "ticket": "single"
+   }
+  },
+  {
+   "n": 807,
+   "league": "NBA",
+   "type": "Player Prop",
+   "matchup": "Brooklyn Nets @ Memphis Grizzlies",
+   "pick": "Day'Ron Sharpe Over 9.5 points (player prop)",
+   "odds": 120,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-14T17:10:00",
+   "timed": true,
+   "ticket": "single",
+   "espn": {
+    "legs": [
+     {
+      "kind": "prop",
+      "player": "Day'Ron Sharpe",
+      "ou": "O",
+      "line": 9.5,
+      "stat": "points",
+      "label": "Day'Ron Sharpe O 9.5 points",
+      "date": "20261114",
+      "unverified": true,
+      "reason": "Player not found in this game"
+     }
+    ],
+    "sport": "NBA",
     "ticket": "single"
    }
   },
@@ -1480,6 +1452,64 @@
           0,
           0
          ]
+        }
+       ]
+      },
+      "source": "espn"
+     }
+    ],
+    "sport": "NCAAB",
+    "ticket": "single"
+   }
+  },
+  {
+   "n": 802,
+   "league": "NCAAB",
+   "type": "Over/Under",
+   "matchup": "Brown Bears @ Siena Saints",
+   "pick": "Under 158.5 total points",
+   "odds": -110,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-14T16:00:00",
+   "timed": true,
+   "ticket": "single",
+   "espn": {
+    "legs": [
+     {
+      "kind": "total",
+      "side": null,
+      "ou": "U",
+      "line": 158.5,
+      "label": "U 158.5",
+      "path": "basketball/mens-college-basketball",
+      "event": "401911308",
+      "date": "20261114",
+      "snapshot": {
+       "source": "espn",
+       "state": "pre",
+       "detail": "11/14 - 7:00 PM EST",
+       "start": "2026-11-15T00:00Z",
+       "period": null,
+       "clock": null,
+       "teams": [
+        {
+         "name": "Brown Bears",
+         "short": "Bears",
+         "abbr": "BRWN",
+         "score": 0,
+         "ha": "away",
+         "winner": null,
+         "linescores": []
+        },
+        {
+         "name": "Siena Saints",
+         "short": "Saints",
+         "abbr": "SIE",
+         "score": 0,
+         "ha": "home",
+         "winner": null,
+         "linescores": []
         }
        ]
       },
