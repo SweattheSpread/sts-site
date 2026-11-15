@@ -1,5 +1,5 @@
 {
- "updated": "Nov 15, 2026, 12:40 PM PT",
+ "updated": "Nov 15, 2026, 12:42 PM PT",
  "record": {
   "w": 174,
   "l": 170,
@@ -704,10 +704,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "10:59 - 4th",
+       "detail": "10:55 - 4th",
        "start": "2026-11-15T18:00Z",
        "period": 4,
-       "clock": "10:59",
+       "clock": "10:55",
        "teams": [
         {
          "name": "Buffalo Bills",
@@ -838,10 +838,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "6:18 - 4th",
+       "detail": "5:55 - 4th",
        "start": "2026-11-15T18:00Z",
        "period": 4,
-       "clock": "6:18",
+       "clock": "5:55",
        "teams": [
         {
          "name": "Carolina Panthers",
@@ -905,10 +905,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "12:37 - 4th",
+       "detail": "11:50 - 4th",
        "start": "2026-11-15T18:00Z",
        "period": 4,
-       "clock": "12:37",
+       "clock": "11:50",
        "teams": [
         {
          "name": "Miami Dolphins",
@@ -973,10 +973,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "9:17 - 4th",
+       "detail": "9:12 - 4th",
        "start": "2026-11-15T18:00Z",
        "period": 4,
-       "clock": "9:17",
+       "clock": "9:12",
        "teams": [
         {
          "name": "Houston Texans",
@@ -1041,10 +1041,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "8:12 - 4th",
+       "detail": "7:37 - 4th",
        "start": "2026-11-15T18:00Z",
        "period": 4,
-       "clock": "8:12",
+       "clock": "7:37",
        "teams": [
         {
          "name": "Kansas City Chiefs",
@@ -1108,10 +1108,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "6:54 - 4th",
+       "detail": "5:39 - 4th",
        "start": "2026-11-15T18:00Z",
        "period": 4,
-       "clock": "6:54",
+       "clock": "5:39",
        "teams": [
         {
          "name": "Minnesota Vikings",
@@ -1177,10 +1177,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "9:17 - 4th",
+       "detail": "9:12 - 4th",
        "start": "2026-11-15T18:00Z",
        "period": 4,
-       "clock": "9:17",
+       "clock": "9:12",
        "teams": [
         {
          "name": "Houston Texans",
@@ -1250,10 +1250,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "9:17 - 4th",
+       "detail": "9:12 - 4th",
        "start": "2026-11-15T18:00Z",
        "period": 4,
-       "clock": "9:17",
+       "clock": "9:12",
        "teams": [
         {
          "name": "Houston Texans",
@@ -1321,16 +1321,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "9:50 - 4th",
+       "detail": "9:44 - 4th",
        "start": "2026-11-15T18:00Z",
        "period": 4,
-       "clock": "9:50",
+       "clock": "9:44",
        "teams": [
         {
          "name": "Jacksonville Jaguars",
          "short": "Jaguars",
          "abbr": "JAX",
-         "score": 23,
+         "score": 30,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -1389,10 +1389,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "9:17 - 4th",
+       "detail": "9:12 - 4th",
        "start": "2026-11-15T18:00Z",
        "period": 4,
-       "clock": "9:17",
+       "clock": "9:12",
        "teams": [
         {
          "name": "Houston Texans",
@@ -1457,10 +1457,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "9:17 - 4th",
+       "detail": "9:12 - 4th",
        "start": "2026-11-15T18:00Z",
        "period": 4,
-       "clock": "9:17",
+       "clock": "9:12",
        "teams": [
         {
          "name": "Houston Texans",
@@ -1593,16 +1593,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "9:50 - 4th",
+       "detail": "9:44 - 4th",
        "start": "2026-11-15T18:00Z",
        "period": 4,
-       "clock": "9:50",
+       "clock": "9:44",
        "teams": [
         {
          "name": "Jacksonville Jaguars",
          "short": "Jaguars",
          "abbr": "JAX",
-         "score": 23,
+         "score": 30,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -1662,10 +1662,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "10:59 - 4th",
+       "detail": "10:55 - 4th",
        "start": "2026-11-15T18:00Z",
        "period": 4,
-       "clock": "10:59",
+       "clock": "10:55",
        "teams": [
         {
          "name": "Buffalo Bills",
@@ -1795,10 +1795,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "10:59 - 4th",
+       "detail": "10:55 - 4th",
        "start": "2026-11-15T18:00Z",
        "period": 4,
-       "clock": "10:59",
+       "clock": "10:55",
        "teams": [
         {
          "name": "Buffalo Bills",
