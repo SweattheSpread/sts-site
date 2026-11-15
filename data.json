@@ -1,5 +1,5 @@
 {
- "updated": "Nov 15, 2026, 11:34 AM PT",
+ "updated": "Nov 15, 2026, 11:36 AM PT",
  "record": {
   "w": 174,
   "l": 170,
@@ -1649,16 +1649,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "7:22 - 2nd",
+       "detail": "6:17 - 2nd",
        "start": "2026-11-15T18:00Z",
        "period": 2,
-       "clock": "7:22",
+       "clock": "6:17",
        "teams": [
         {
          "name": "Boise State Broncos",
          "short": "Broncos",
          "abbr": "BOIS",
-         "score": 59,
+         "score": 61,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -1670,7 +1670,7 @@
          "name": "Nebraska Cornhuskers",
          "short": "Cornhuskers",
          "abbr": "NEB",
-         "score": 82,
+         "score": 86,
          "ha": "home",
          "winner": null,
          "linescores": [
