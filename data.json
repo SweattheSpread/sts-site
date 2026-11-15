@@ -1,5 +1,5 @@
 {
- "updated": "Nov 15, 2026, 1:38 PM PT",
+ "updated": "Nov 15, 2026, 1:40 PM PT",
  "record": {
   "w": 174,
   "l": 170,
@@ -723,10 +723,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "2:11 - 1st",
+       "detail": "0:47 - 1st",
        "start": "2026-11-15T21:05Z",
        "period": 1,
-       "clock": "2:11",
+       "clock": "0:47",
        "teams": [
         {
          "name": "Los Angeles Rams",
@@ -1539,10 +1539,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "15:00 - 2nd",
+       "detail": "12:46 - 2nd",
        "start": "2026-11-15T21:05Z",
        "period": 2,
-       "clock": "15:00",
+       "clock": "12:46",
        "teams": [
         {
          "name": "Seattle Seahawks",
@@ -1793,10 +1793,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "2:11 - 1st",
+       "detail": "0:47 - 1st",
        "start": "2026-11-15T21:05Z",
        "period": 1,
-       "clock": "2:11",
+       "clock": "0:47",
        "teams": [
         {
          "name": "Los Angeles Rams",
@@ -1928,10 +1928,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "11:31 - 1st",
+       "detail": "8:59 - 1st",
        "start": "2026-11-15T21:25Z",
        "period": 1,
-       "clock": "11:31",
+       "clock": "8:59",
        "teams": [
         {
          "name": "San Francisco 49ers",
