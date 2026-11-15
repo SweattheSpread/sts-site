@@ -1,5 +1,5 @@
 {
- "updated": "Nov 15, 2026, 7:08 AM PT",
+ "updated": "Nov 15, 2026, 7:13 AM PT",
  "record": {
   "w": 174,
   "l": 170,
@@ -11,7 +11,7 @@
   "first": "2026-10-12",
   "last": "2026-11-14"
  },
- "pending": 16,
+ "pending": 17,
  "plays": [
   {
    "n": 334,
@@ -5833,6 +5833,22 @@
    "pick": "Drake Maye anytime TD scorer (player prop)",
    "odds": 320,
    "units": 0.5,
+   "result": null,
+   "pl": null,
+   "pending": true
+  },
+  {
+   "n": 812,
+   "date": "2026-11-15",
+   "day": "2026-11-15",
+   "league": "NFL",
+   "market": "team_total",
+   "market_label": "Team Total",
+   "ticket": "single",
+   "matchup": "New England Patriots @ Detroit Lions",
+   "pick": "Lions TT Over 30.5 (vs Patriots) \u2014 Detroit Lions team total Over 30.5 points (full game; DET needs 31+ final points) LIVE",
+   "odds": -110,
+   "units": 7.0,
    "result": null,
    "pl": null,
    "pending": true
