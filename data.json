@@ -1,5 +1,5 @@
 {
- "updated": "Nov 15, 2026, 1:11 PM PT",
+ "updated": "Nov 15, 2026, 1:13 PM PT",
  "record": {
   "w": 174,
   "l": 170,
@@ -723,10 +723,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "12:19 - 1st",
+       "detail": "10:48 - 1st",
        "start": "2026-11-15T21:05Z",
        "period": 1,
-       "clock": "12:19",
+       "clock": "10:48",
        "teams": [
         {
          "name": "Los Angeles Rams",
@@ -743,7 +743,7 @@
          "name": "Arizona Cardinals",
          "short": "Cardinals",
          "abbr": "ARI",
-         "score": 0,
+         "score": 3,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -783,19 +783,19 @@
       "date": "20261115",
       "snapshot": {
        "source": "espn",
-       "state": "in",
-       "detail": "0:02 - 4th",
+       "state": "post",
+       "detail": "Final",
        "start": "2026-11-15T18:00Z",
-       "period": 4,
-       "clock": "0:02",
+       "period": null,
+       "clock": null,
        "teams": [
         {
          "name": "Carolina Panthers",
          "short": "Panthers",
          "abbr": "CAR",
-         "score": 17,
+         "score": 20,
          "ha": "away",
-         "winner": null,
+         "winner": true,
          "linescores": [
           0,
           0,
@@ -809,7 +809,7 @@
          "abbr": "NO",
          "score": 17,
          "ha": "home",
-         "winner": null,
+         "winner": false,
          "linescores": [
           0,
           0,
@@ -851,10 +851,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "1:41 - 4th",
+       "detail": "1:36 - 4th",
        "start": "2026-11-15T18:00Z",
        "period": 4,
-       "clock": "1:41",
+       "clock": "1:36",
        "teams": [
         {
          "name": "Miami Dolphins",
@@ -919,10 +919,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "0:22 - 4th",
+       "detail": "0:10 - 4th",
        "start": "2026-11-15T18:00Z",
        "period": 4,
-       "clock": "0:22",
+       "clock": "0:10",
        "teams": [
         {
          "name": "Houston Texans",
@@ -986,11 +986,11 @@
       "date": "20261115",
       "snapshot": {
        "source": "espn",
-       "state": "in",
-       "detail": "0:32 - 4th",
+       "state": "post",
+       "detail": "Final",
        "start": "2026-11-15T18:00Z",
-       "period": 4,
-       "clock": "0:32",
+       "period": null,
+       "clock": null,
        "teams": [
         {
          "name": "Kansas City Chiefs",
@@ -998,7 +998,7 @@
          "abbr": "KC",
          "score": 35,
          "ha": "away",
-         "winner": null,
+         "winner": true,
          "linescores": [
           0,
           0,
@@ -1012,7 +1012,7 @@
          "abbr": "ATL",
          "score": 13,
          "ha": "home",
-         "winner": null,
+         "winner": false,
          "linescores": [
           0,
           0,
@@ -1123,10 +1123,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "0:22 - 4th",
+       "detail": "0:10 - 4th",
        "start": "2026-11-15T18:00Z",
        "period": 4,
-       "clock": "0:22",
+       "clock": "0:10",
        "teams": [
         {
          "name": "Houston Texans",
@@ -1196,10 +1196,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "0:22 - 4th",
+       "detail": "0:10 - 4th",
        "start": "2026-11-15T18:00Z",
        "period": 4,
-       "clock": "0:22",
+       "clock": "0:10",
        "teams": [
         {
          "name": "Houston Texans",
@@ -1266,11 +1266,11 @@
       "date": "20261115",
       "snapshot": {
        "source": "espn",
-       "state": "in",
-       "detail": "0:30 - 4th",
+       "state": "post",
+       "detail": "Final",
        "start": "2026-11-15T18:00Z",
-       "period": 4,
-       "clock": "0:30",
+       "period": null,
+       "clock": null,
        "teams": [
         {
          "name": "Jacksonville Jaguars",
@@ -1278,7 +1278,7 @@
          "abbr": "JAX",
          "score": 40,
          "ha": "away",
-         "winner": null,
+         "winner": true,
          "linescores": [
           0,
           0,
@@ -1292,7 +1292,7 @@
          "abbr": "TEN",
          "score": 23,
          "ha": "home",
-         "winner": null,
+         "winner": false,
          "linescores": [
           0,
           0,
@@ -1335,10 +1335,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "0:22 - 4th",
+       "detail": "0:10 - 4th",
        "start": "2026-11-15T18:00Z",
        "period": 4,
-       "clock": "0:22",
+       "clock": "0:10",
        "teams": [
         {
          "name": "Houston Texans",
@@ -1403,10 +1403,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "0:22 - 4th",
+       "detail": "0:10 - 4th",
        "start": "2026-11-15T18:00Z",
        "period": 4,
-       "clock": "0:22",
+       "clock": "0:10",
        "teams": [
         {
          "name": "Houston Texans",
@@ -1539,10 +1539,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "12:09 - 1st",
+       "detail": "11:20 - 1st",
        "start": "2026-11-15T21:05Z",
        "period": 1,
-       "clock": "12:09",
+       "clock": "11:20",
        "teams": [
         {
          "name": "Seattle Seahawks",
@@ -1600,11 +1600,11 @@
       "date": "20261115",
       "snapshot": {
        "source": "espn",
-       "state": "in",
-       "detail": "0:30 - 4th",
+       "state": "post",
+       "detail": "Final",
        "start": "2026-11-15T18:00Z",
-       "period": 4,
-       "clock": "0:30",
+       "period": null,
+       "clock": null,
        "teams": [
         {
          "name": "Jacksonville Jaguars",
@@ -1612,7 +1612,7 @@
          "abbr": "JAX",
          "score": 40,
          "ha": "away",
-         "winner": null,
+         "winner": true,
          "linescores": [
           0,
           0,
@@ -1626,7 +1626,7 @@
          "abbr": "TEN",
          "score": 23,
          "ha": "home",
-         "winner": null,
+         "winner": false,
          "linescores": [
           0,
           0,
@@ -1791,10 +1791,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "12:19 - 1st",
+       "detail": "10:48 - 1st",
        "start": "2026-11-15T21:05Z",
        "period": 1,
-       "clock": "12:19",
+       "clock": "10:48",
        "teams": [
         {
          "name": "Los Angeles Rams",
@@ -1811,7 +1811,7 @@
          "name": "Arizona Cardinals",
          "short": "Cardinals",
          "abbr": "ARI",
-         "score": 0,
+         "score": 3,
          "ha": "home",
          "winner": null,
          "linescores": [
