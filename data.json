@@ -1,5 +1,5 @@
 {
- "updated": "Nov 14, 2026, 6:10 PM PT",
+ "updated": "Nov 14, 2026, 6:23 PM PT",
  "record": {
   "w": 164,
   "l": 163,
@@ -968,10 +968,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "Halftime",
+       "detail": "11:23 - 3rd",
        "start": "2026-11-15T00:30Z",
-       "period": 2,
-       "clock": "0:00",
+       "period": 3,
+       "clock": "11:23",
        "teams": [
         {
          "name": "Purdue Boilermakers",
@@ -981,6 +981,7 @@
          "ha": "away",
          "winner": null,
          "linescores": [
+          0,
           0,
           0
          ]
@@ -993,6 +994,7 @@
          "ha": "home",
          "winner": null,
          "linescores": [
+          0,
           0,
           0
          ]
