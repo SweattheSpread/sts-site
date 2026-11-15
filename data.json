@@ -1,5 +1,5 @@
 {
- "updated": "Nov 15, 2026, 3:32 PM PT",
+ "updated": "Nov 15, 2026, 3:34 PM PT",
  "record": {
   "w": 174,
   "l": 170,
@@ -738,10 +738,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "12:15 - 4th",
+       "detail": "10:10 - 4th",
        "start": "2026-11-15T21:05Z",
        "period": 4,
-       "clock": "12:15",
+       "clock": "10:10",
        "teams": [
         {
          "name": "Los Angeles Rams",
@@ -1560,10 +1560,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "6:35 - 4th",
+       "detail": "5:59 - 4th",
        "start": "2026-11-15T21:05Z",
        "period": 4,
-       "clock": "6:35",
+       "clock": "5:59",
        "teams": [
         {
          "name": "Seattle Seahawks",
@@ -1880,10 +1880,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "12:15 - 4th",
+       "detail": "10:10 - 4th",
        "start": "2026-11-15T21:05Z",
        "period": 4,
-       "clock": "12:15",
+       "clock": "10:10",
        "teams": [
         {
          "name": "Los Angeles Rams",
@@ -2021,10 +2021,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "6:59 - 3rd",
+       "detail": "6:27 - 3rd",
        "start": "2026-11-15T21:25Z",
        "period": 3,
-       "clock": "6:59",
+       "clock": "6:27",
        "teams": [
         {
          "name": "San Francisco 49ers",
@@ -2089,10 +2089,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "1:47 - 1st",
+       "detail": "42.9 - 1st",
        "start": "2026-11-15T23:00Z",
        "period": 1,
-       "clock": "1:47",
+       "clock": "42.9",
        "teams": [
         {
          "name": "Dallas Mavericks",
@@ -2109,7 +2109,7 @@
          "name": "Boston Celtics",
          "short": "Celtics",
          "abbr": "BOS",
-         "score": 36,
+         "score": 42,
          "ha": "home",
          "winner": null,
          "linescores": [
