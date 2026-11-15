@@ -1,5 +1,5 @@
 {
- "updated": "Nov 14, 2026, 5:52 PM PT",
+ "updated": "Nov 14, 2026, 5:55 PM PT",
  "record": {
   "w": 164,
   "l": 163,
@@ -968,10 +968,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "0:37 - 2nd",
+       "detail": "0:05 - 2nd",
        "start": "2026-11-15T00:30Z",
        "period": 2,
-       "clock": "0:37",
+       "clock": "0:05",
        "teams": [
         {
          "name": "Purdue Boilermakers",
@@ -989,7 +989,7 @@
          "name": "Iowa Hawkeyes",
          "short": "Hawkeyes",
          "abbr": "IOWA",
-         "score": 14,
+         "score": 20,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -1464,10 +1464,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "3:01 - 2nd",
+       "detail": "2:58 - 2nd",
        "start": "2026-11-15T00:00Z",
        "period": 2,
-       "clock": "3:01",
+       "clock": "2:58",
        "teams": [
         {
          "name": "Brown Bears",
@@ -1791,16 +1791,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "6:40 - 2nd",
+       "detail": "6:09 - 2nd",
        "start": "2026-11-15T01:00Z",
        "period": 2,
-       "clock": "6:40",
+       "clock": "6:09",
        "teams": [
         {
          "name": "Brooklyn Nets",
          "short": "Nets",
          "abbr": "BKN",
-         "score": 37,
+         "score": 39,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -1860,16 +1860,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "6:40 - 2nd",
+       "detail": "6:09 - 2nd",
        "start": "2026-11-15T01:00Z",
        "period": 2,
-       "clock": "6:40",
+       "clock": "6:09",
        "teams": [
         {
          "name": "Brooklyn Nets",
          "short": "Nets",
          "abbr": "BKN",
-         "score": 37,
+         "score": 39,
          "ha": "away",
          "winner": null,
          "linescores": [
