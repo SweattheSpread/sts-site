@@ -1,5 +1,5 @@
 {
- "updated": "Nov 15, 2026, 11:30 AM PT",
+ "updated": "Nov 15, 2026, 11:32 AM PT",
  "record": {
   "w": 174,
   "l": 170,
@@ -674,10 +674,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "0:12 - 2nd",
+       "detail": "Halftime",
        "start": "2026-11-15T18:00Z",
        "period": 2,
-       "clock": "0:12",
+       "clock": "0:00",
        "teams": [
         {
          "name": "Buffalo Bills",
@@ -1058,10 +1058,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "0:20 - 2nd",
+       "detail": "Halftime",
        "start": "2026-11-15T18:00Z",
        "period": 2,
-       "clock": "0:20",
+       "clock": "0:00",
        "teams": [
         {
          "name": "Minnesota Vikings",
@@ -1259,10 +1259,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "0:25 - 2nd",
+       "detail": "0:11 - 2nd",
        "start": "2026-11-15T18:00Z",
        "period": 2,
-       "clock": "0:25",
+       "clock": "0:11",
        "teams": [
         {
          "name": "Jacksonville Jaguars",
@@ -1519,10 +1519,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "0:25 - 2nd",
+       "detail": "0:11 - 2nd",
        "start": "2026-11-15T18:00Z",
        "period": 2,
-       "clock": "0:25",
+       "clock": "0:11",
        "teams": [
         {
          "name": "Jacksonville Jaguars",
@@ -1584,10 +1584,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "0:12 - 2nd",
+       "detail": "Halftime",
        "start": "2026-11-15T18:00Z",
        "period": 2,
-       "clock": "0:12",
+       "clock": "0:00",
        "teams": [
         {
          "name": "Buffalo Bills",
@@ -1649,16 +1649,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "8:41 - 2nd",
+       "detail": "7:39 - 2nd",
        "start": "2026-11-15T18:00Z",
        "period": 2,
-       "clock": "8:41",
+       "clock": "7:39",
        "teams": [
         {
          "name": "Boise State Broncos",
          "short": "Broncos",
          "abbr": "BOIS",
-         "score": 57,
+         "score": 59,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -1670,7 +1670,7 @@
          "name": "Nebraska Cornhuskers",
          "short": "Cornhuskers",
          "abbr": "NEB",
-         "score": 78,
+         "score": 82,
          "ha": "home",
          "winner": null,
          "linescores": [
