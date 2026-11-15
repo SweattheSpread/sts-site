@@ -1,5 +1,5 @@
 {
- "updated": "Nov 14, 2026, 6:43 PM PT",
+ "updated": "Nov 14, 2026, 6:45 PM PT",
  "record": {
   "w": 164,
   "l": 163,
@@ -968,10 +968,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "4:31 - 3rd",
+       "detail": "4:26 - 3rd",
        "start": "2026-11-15T00:30Z",
        "period": 3,
-       "clock": "4:31",
+       "clock": "4:26",
        "teams": [
         {
          "name": "Purdue Boilermakers",
@@ -1793,16 +1793,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "6:28 - 3rd",
+       "detail": "4:56 - 3rd",
        "start": "2026-11-15T01:00Z",
        "period": 3,
-       "clock": "6:28",
+       "clock": "4:56",
        "teams": [
         {
          "name": "Brooklyn Nets",
          "short": "Nets",
          "abbr": "BKN",
-         "score": 69,
+         "score": 77,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -1815,7 +1815,7 @@
          "name": "Memphis Grizzlies",
          "short": "Grizzlies",
          "abbr": "MEM",
-         "score": 83,
+         "score": 85,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -1826,7 +1826,7 @@
         }
        ],
        "stat": {
-        "v": 14,
+        "v": 16,
         "name": "Day'Ron Sharpe"
        }
       },
@@ -1864,16 +1864,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "6:28 - 3rd",
+       "detail": "4:56 - 3rd",
        "start": "2026-11-15T01:00Z",
        "period": 3,
-       "clock": "6:28",
+       "clock": "4:56",
        "teams": [
         {
          "name": "Brooklyn Nets",
          "short": "Nets",
          "abbr": "BKN",
-         "score": 69,
+         "score": 77,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -1886,7 +1886,7 @@
          "name": "Memphis Grizzlies",
          "short": "Grizzlies",
          "abbr": "MEM",
-         "score": 83,
+         "score": 85,
          "ha": "home",
          "winner": null,
          "linescores": [
