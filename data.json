@@ -1,5 +1,5 @@
 {
- "updated": "Nov 15, 2026, 1:49 PM PT",
+ "updated": "Nov 15, 2026, 1:56 PM PT",
  "record": {
   "w": 174,
   "l": 170,
@@ -723,10 +723,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "12:14 - 2nd",
+       "detail": "10:21 - 2nd",
        "start": "2026-11-15T21:05Z",
        "period": 2,
-       "clock": "12:14",
+       "clock": "10:21",
        "teams": [
         {
          "name": "Los Angeles Rams",
@@ -1541,10 +1541,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "10:24 - 2nd",
+       "detail": "8:36 - 2nd",
        "start": "2026-11-15T21:05Z",
        "period": 2,
-       "clock": "10:24",
+       "clock": "8:36",
        "teams": [
         {
          "name": "Seattle Seahawks",
@@ -1795,10 +1795,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "12:14 - 2nd",
+       "detail": "10:21 - 2nd",
        "start": "2026-11-15T21:05Z",
        "period": 2,
-       "clock": "12:14",
+       "clock": "10:21",
        "teams": [
         {
          "name": "Los Angeles Rams",
@@ -1932,10 +1932,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "5:34 - 1st",
+       "detail": "1:08 - 1st",
        "start": "2026-11-15T21:25Z",
        "period": 1,
-       "clock": "5:34",
+       "clock": "1:08",
        "teams": [
         {
          "name": "San Francisco 49ers",
@@ -1952,7 +1952,7 @@
          "name": "Dallas Cowboys",
          "short": "Cowboys",
          "abbr": "DAL",
-         "score": 3,
+         "score": 9,
          "ha": "home",
          "winner": null,
          "linescores": [
