@@ -1,5 +1,5 @@
 {
- "updated": "Nov 15, 2026, 6:15 AM PT",
+ "updated": "Nov 15, 2026, 6:35 AM PT",
  "record": {
   "w": 174,
   "l": 170,
@@ -127,63 +127,6 @@
   }
  ],
  "picks": [
-  {
-   "n": 747,
-   "league": "NFL",
-   "type": "Spread",
-   "matchup": "New England Patriots @ Detroit Lions",
-   "pick": "New England Patriots +3",
-   "odds": -118,
-   "units": 1.0,
-   "gap": null,
-   "start": "2026-11-15T06:30:00",
-   "timed": true,
-   "ticket": "single",
-   "espn": {
-    "legs": [
-     {
-      "kind": "spread",
-      "side": "New England Patriots",
-      "line": 3.0,
-      "label": "New England Patriots +3",
-      "path": "football/nfl",
-      "event": "401873053",
-      "date": "20261115",
-      "snapshot": {
-       "source": "espn",
-       "state": "pre",
-       "detail": "11/15 - 9:30 AM EST",
-       "start": "2026-11-15T14:30Z",
-       "period": null,
-       "clock": null,
-       "teams": [
-        {
-         "name": "New England Patriots",
-         "short": "Patriots",
-         "abbr": "NE",
-         "score": 0,
-         "ha": "away",
-         "winner": null,
-         "linescores": []
-        },
-        {
-         "name": "Detroit Lions",
-         "short": "Lions",
-         "abbr": "DET",
-         "score": 0,
-         "ha": "home",
-         "winner": null,
-         "linescores": []
-        }
-       ]
-      },
-      "source": "espn"
-     }
-    ],
-    "sport": "NFL",
-    "ticket": "single"
-   }
-  },
   {
    "n": 746,
    "league": "NFL",
@@ -933,7 +876,69 @@
    }
   }
  ],
- "awaiting": [],
+ "awaiting": [
+  {
+   "n": 747,
+   "league": "NFL",
+   "type": "Spread",
+   "matchup": "New England Patriots @ Detroit Lions",
+   "pick": "New England Patriots +3",
+   "odds": -118,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-15T06:30:00",
+   "timed": true,
+   "ticket": "single",
+   "espn": {
+    "legs": [
+     {
+      "kind": "spread",
+      "side": "New England Patriots",
+      "line": 3.0,
+      "label": "New England Patriots +3",
+      "path": "football/nfl",
+      "event": "401873053",
+      "date": "20261115",
+      "snapshot": {
+       "source": "espn",
+       "state": "in",
+       "detail": "14:54 - 1st",
+       "start": "2026-11-15T14:30Z",
+       "period": 1,
+       "clock": "14:54",
+       "teams": [
+        {
+         "name": "New England Patriots",
+         "short": "Patriots",
+         "abbr": "NE",
+         "score": 0,
+         "ha": "away",
+         "winner": null,
+         "linescores": [
+          0
+         ]
+        },
+        {
+         "name": "Detroit Lions",
+         "short": "Lions",
+         "abbr": "DET",
+         "score": 0,
+         "ha": "home",
+         "winner": null,
+         "linescores": [
+          0
+         ]
+        }
+       ]
+      },
+      "source": "espn"
+     }
+    ],
+    "sport": "NFL",
+    "ticket": "single"
+   }
+  }
+ ],
  "daily": {
   "2026-10-12": {
    "u": 5.67,
