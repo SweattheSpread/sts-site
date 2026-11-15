@@ -1,5 +1,5 @@
 {
- "updated": "Nov 15, 2026, 6:39 AM PT",
+ "updated": "Nov 15, 2026, 6:46 AM PT",
  "record": {
   "w": 174,
   "l": 170,
@@ -902,16 +902,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "10:45 - 1st",
+       "detail": "9:12 - 1st",
        "start": "2026-11-15T14:30Z",
        "period": 1,
-       "clock": "10:45",
+       "clock": "9:12",
        "teams": [
         {
          "name": "New England Patriots",
          "short": "Patriots",
          "abbr": "NE",
-         "score": 0,
+         "score": 3,
          "ha": "away",
          "winner": null,
          "linescores": [
