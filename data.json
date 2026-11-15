@@ -1,5 +1,5 @@
 {
- "updated": "Nov 15, 2026, 8:07 AM PT",
+ "updated": "Nov 15, 2026, 8:23 AM PT",
  "record": {
   "w": 174,
   "l": 170,
@@ -1194,10 +1194,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "Halftime",
+       "detail": "15:00 - 3rd",
        "start": "2026-11-15T14:30Z",
-       "period": 2,
-       "clock": "0:00",
+       "period": 3,
+       "clock": "15:00",
        "teams": [
         {
          "name": "New England Patriots",
@@ -1258,10 +1258,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "Halftime",
+       "detail": "15:00 - 3rd",
        "start": "2026-11-15T14:30Z",
-       "period": 2,
-       "clock": "0:00",
+       "period": 3,
+       "clock": "15:00",
        "teams": [
         {
          "name": "New England Patriots",
