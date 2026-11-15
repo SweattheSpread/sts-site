@@ -1,5 +1,5 @@
 {
- "updated": "Nov 15, 2026, 1:17 PM PT",
+ "updated": "Nov 15, 2026, 1:19 PM PT",
  "record": {
   "w": 174,
   "l": 170,
@@ -11,7 +11,7 @@
   "first": "2026-10-12",
   "last": "2026-11-14"
  },
- "pending": 28,
+ "pending": 29,
  "latest": [
   {
    "n": 808,
@@ -212,6 +212,36 @@
      }
     ],
     "sport": "NCAAB",
+    "ticket": "single"
+   }
+  },
+  {
+   "n": 825,
+   "league": "NBA",
+   "type": "Player Prop",
+   "matchup": "Dallas Mavericks @ Boston Celtics",
+   "pick": "P.J. Washington Under 1.5 made threes (player prop)",
+   "odds": 140,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-15T15:10:00",
+   "timed": true,
+   "ticket": "single",
+   "espn": {
+    "legs": [
+     {
+      "kind": "prop",
+      "player": "P.J. Washington",
+      "ou": "U",
+      "line": 1.5,
+      "stat": "made threes",
+      "label": "P.J. Washington U 1.5 made threes",
+      "date": "20261115",
+      "unverified": true,
+      "reason": "Player not found in this game"
+     }
+    ],
+    "sport": "NBA",
     "ticket": "single"
    }
   },
@@ -723,10 +753,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "10:48 - 1st",
+       "detail": "10:41 - 1st",
        "start": "2026-11-15T21:05Z",
        "period": 1,
-       "clock": "10:48",
+       "clock": "10:41",
        "teams": [
         {
          "name": "Los Angeles Rams",
@@ -1539,10 +1569,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "7:45 - 1st",
+       "detail": "7:41 - 1st",
        "start": "2026-11-15T21:05Z",
        "period": 1,
-       "clock": "7:45",
+       "clock": "7:41",
        "teams": [
         {
          "name": "Seattle Seahawks",
@@ -1559,7 +1589,7 @@
          "name": "Las Vegas Raiders",
          "short": "Raiders",
          "abbr": "LV",
-         "score": 0,
+         "score": 7,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -1791,10 +1821,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "10:48 - 1st",
+       "detail": "10:41 - 1st",
        "start": "2026-11-15T21:05Z",
        "period": 1,
-       "clock": "10:48",
+       "clock": "10:41",
        "teams": [
         {
          "name": "Los Angeles Rams",

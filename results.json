@@ -1,5 +1,5 @@
 {
- "updated": "Nov 15, 2026, 1:17 PM PT",
+ "updated": "Nov 15, 2026, 1:19 PM PT",
  "record": {
   "w": 174,
   "l": 170,
@@ -11,7 +11,7 @@
   "first": "2026-10-12",
   "last": "2026-11-14"
  },
- "pending": 29,
+ "pending": 30,
  "plays": [
   {
    "n": 334,
@@ -6025,6 +6025,22 @@
    "pick": "Brock Purdy Over 2.5 passing TDs (player prop)",
    "odds": 155,
    "units": 3.0,
+   "result": null,
+   "pl": null,
+   "pending": true
+  },
+  {
+   "n": 825,
+   "date": "2026-11-15",
+   "day": "2026-11-15",
+   "league": "NBA",
+   "market": "player_prop",
+   "market_label": "Player Prop",
+   "ticket": "single",
+   "matchup": "Dallas Mavericks @ Boston Celtics",
+   "pick": "P.J. Washington Under 1.5 made threes (player prop)",
+   "odds": 140,
+   "units": 1.0,
    "result": null,
    "pl": null,
    "pending": true
