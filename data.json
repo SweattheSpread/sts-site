@@ -1,5 +1,5 @@
 {
- "updated": "Nov 15, 2026, 3:20 PM PT",
+ "updated": "Nov 15, 2026, 3:22 PM PT",
  "record": {
   "w": 174,
   "l": 170,
@@ -11,7 +11,7 @@
   "first": "2026-10-12",
   "last": "2026-11-14"
  },
- "pending": 29,
+ "pending": 31,
  "latest": [
   {
    "n": 808,
@@ -127,6 +127,79 @@
   }
  ],
  "picks": [
+  {
+   "n": 826,
+   "league": "NBA",
+   "type": "Player Prop",
+   "matchup": "Houston Rockets @ Washington Wizards",
+   "pick": "Amen Thompson Over 4.5 assists (player prop)",
+   "odds": 100,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-15T16:10:00",
+   "timed": true,
+   "ticket": "single",
+   "espn": {
+    "legs": [
+     {
+      "kind": "prop",
+      "player": "Amen Thompson",
+      "ou": "O",
+      "line": 4.5,
+      "stat": "assists",
+      "label": "Amen Thompson O 4.5 assists",
+      "path": "basketball/nba",
+      "event": "401909982",
+      "date": "20261114",
+      "snapshot": {
+       "source": "espn",
+       "state": "post",
+       "detail": "Final",
+       "start": "2026-11-15T01:00Z",
+       "period": null,
+       "clock": null,
+       "teams": [
+        {
+         "name": "Detroit Pistons",
+         "short": "Pistons",
+         "abbr": "DET",
+         "score": 117,
+         "ha": "away",
+         "winner": false,
+         "linescores": [
+          0,
+          0,
+          0,
+          0
+         ]
+        },
+        {
+         "name": "Miami Heat",
+         "short": "Heat",
+         "abbr": "MIA",
+         "score": 137,
+         "ha": "home",
+         "winner": true,
+         "linescores": [
+          0,
+          0,
+          0,
+          0
+         ]
+        }
+       ],
+       "stat": {
+        "v": 5,
+        "name": "Ausar Thompson"
+       }
+      },
+      "source": "espn"
+     }
+    ],
+    "sport": "NBA",
+    "ticket": "single"
+   }
+  },
   {
    "n": 816,
    "league": "NHL",
@@ -299,6 +372,36 @@
      }
     ],
     "sport": "NHL",
+    "ticket": "single"
+   }
+  },
+  {
+   "n": 827,
+   "league": "NBA",
+   "type": "Player Prop",
+   "matchup": "Atlanta Hawks @ Milwaukee Bucks",
+   "pick": "Jaime Jaquez Jr Under 5.5 rebounds (player prop)",
+   "odds": -110,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-15T17:10:00",
+   "timed": true,
+   "ticket": "single",
+   "espn": {
+    "legs": [
+     {
+      "kind": "prop",
+      "player": "Jaime Jaquez Jr",
+      "ou": "U",
+      "line": 5.5,
+      "stat": "rebounds",
+      "label": "Jaime Jaquez Jr U 5.5 rebounds",
+      "date": "20261115",
+      "unverified": true,
+      "reason": "Player not found in this game"
+     }
+    ],
+    "sport": "NBA",
     "ticket": "single"
    }
   },
@@ -635,10 +738,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "0:51 - 3rd",
+       "detail": "15:00 - 4th",
        "start": "2026-11-15T21:05Z",
-       "period": 3,
-       "clock": "0:51",
+       "period": 4,
+       "clock": "15:00",
        "teams": [
         {
          "name": "Los Angeles Rams",
@@ -648,6 +751,7 @@
          "ha": "away",
          "winner": null,
          "linescores": [
+          0,
           0,
           0,
           0
@@ -661,6 +765,7 @@
          "ha": "home",
          "winner": null,
          "linescores": [
+          0,
           0,
           0,
           0
@@ -1455,10 +1560,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "13:42 - 4th",
+       "detail": "11:34 - 4th",
        "start": "2026-11-15T21:05Z",
        "period": 4,
-       "clock": "13:42",
+       "clock": "11:34",
        "teams": [
         {
          "name": "Seattle Seahawks",
@@ -1712,10 +1817,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "0:54 - 1st",
+       "detail": "Halftime",
        "start": "2026-11-15T22:30Z",
        "period": 1,
-       "clock": "0:54",
+       "clock": "0:00",
        "teams": [
         {
          "name": "Canisius Golden Griffins",
@@ -1775,10 +1880,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "0:51 - 3rd",
+       "detail": "15:00 - 4th",
        "start": "2026-11-15T21:05Z",
-       "period": 3,
-       "clock": "0:51",
+       "period": 4,
+       "clock": "15:00",
        "teams": [
         {
          "name": "Los Angeles Rams",
@@ -1788,6 +1893,7 @@
          "ha": "away",
          "winner": null,
          "linescores": [
+          0,
           0,
           0,
           0
@@ -1801,6 +1907,7 @@
          "ha": "home",
          "winner": null,
          "linescores": [
+          0,
           0,
           0,
           0
@@ -1914,10 +2021,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "12:05 - 3rd",
+       "detail": "9:31 - 3rd",
        "start": "2026-11-15T21:25Z",
        "period": 3,
-       "clock": "12:05",
+       "clock": "9:31",
        "teams": [
         {
          "name": "San Francisco 49ers",
@@ -1982,10 +2089,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "7:14 - 1st",
+       "detail": "6:18 - 1st",
        "start": "2026-11-15T23:00Z",
        "period": 1,
-       "clock": "7:14",
+       "clock": "6:18",
        "teams": [
         {
          "name": "Dallas Mavericks",
@@ -2002,7 +2109,7 @@
          "name": "Boston Celtics",
          "short": "Celtics",
          "abbr": "BOS",
-         "score": 19,
+         "score": 22,
          "ha": "home",
          "winner": null,
          "linescores": [
