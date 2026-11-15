@@ -1,5 +1,5 @@
 {
- "updated": "Nov 15, 2026, 2:42 PM PT",
+ "updated": "Nov 15, 2026, 2:45 PM PT",
  "record": {
   "w": 174,
   "l": 170,
@@ -1483,10 +1483,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "12:05 - 3rd",
+       "detail": "10:18 - 3rd",
        "start": "2026-11-15T21:05Z",
        "period": 3,
-       "clock": "12:05",
+       "clock": "10:18",
        "teams": [
         {
          "name": "Seattle Seahawks",
@@ -1738,16 +1738,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "16:28 - 1st",
+       "detail": "14:48 - 1st",
        "start": "2026-11-15T22:30Z",
        "period": 1,
-       "clock": "16:28",
+       "clock": "14:48",
        "teams": [
         {
          "name": "Canisius Golden Griffins",
          "short": "Golden Griffins",
          "abbr": "CAN",
-         "score": 4,
+         "score": 8,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -1938,10 +1938,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "2:00 - 2nd",
+       "detail": "1:18 - 2nd",
        "start": "2026-11-15T21:25Z",
        "period": 2,
-       "clock": "2:00",
+       "clock": "1:18",
        "teams": [
         {
          "name": "San Francisco 49ers",
