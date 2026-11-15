@@ -1,5 +1,5 @@
 {
- "updated": "Nov 15, 2026, 9:36 AM PT",
+ "updated": "Nov 15, 2026, 9:38 AM PT",
  "record": {
   "w": 174,
   "l": 170,
@@ -1396,11 +1396,11 @@
       "date": "20261115",
       "snapshot": {
        "source": "espn",
-       "state": "in",
-       "detail": "1:19 - 4th",
+       "state": "post",
+       "detail": "Final",
        "start": "2026-11-15T14:30Z",
-       "period": 4,
-       "clock": "1:19",
+       "period": null,
+       "clock": null,
        "teams": [
         {
          "name": "New England Patriots",
@@ -1408,7 +1408,7 @@
          "abbr": "NE",
          "score": 10,
          "ha": "away",
-         "winner": null,
+         "winner": false,
          "linescores": [
           0,
           0,
@@ -1422,7 +1422,7 @@
          "abbr": "DET",
          "score": 35,
          "ha": "home",
-         "winner": null,
+         "winner": true,
          "linescores": [
           0,
           0,
@@ -1464,11 +1464,11 @@
       "date": "20261115",
       "snapshot": {
        "source": "espn",
-       "state": "in",
-       "detail": "1:19 - 4th",
+       "state": "post",
+       "detail": "Final",
        "start": "2026-11-15T14:30Z",
-       "period": 4,
-       "clock": "1:19",
+       "period": null,
+       "clock": null,
        "teams": [
         {
          "name": "New England Patriots",
@@ -1476,7 +1476,7 @@
          "abbr": "NE",
          "score": 10,
          "ha": "away",
-         "winner": null,
+         "winner": false,
          "linescores": [
           0,
           0,
@@ -1490,7 +1490,7 @@
          "abbr": "DET",
          "score": 35,
          "ha": "home",
-         "winner": null,
+         "winner": true,
          "linescores": [
           0,
           0,
