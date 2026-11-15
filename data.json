@@ -1,5 +1,5 @@
 {
- "updated": "Nov 14, 2026, 6:02 PM PT",
+ "updated": "Nov 14, 2026, 6:05 PM PT",
  "record": {
   "w": 164,
   "l": 163,
@@ -1464,16 +1464,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "0:22 - 2nd",
+       "detail": "0:09 - 2nd",
        "start": "2026-11-15T00:00Z",
        "period": 2,
-       "clock": "0:22",
+       "clock": "0:09",
        "teams": [
         {
          "name": "Brown Bears",
          "short": "Bears",
          "abbr": "BRWN",
-         "score": 72,
+         "score": 74,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -1791,16 +1791,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "2:40 - 2nd",
+       "detail": "1:38 - 2nd",
        "start": "2026-11-15T01:00Z",
        "period": 2,
-       "clock": "2:40",
+       "clock": "1:38",
        "teams": [
         {
          "name": "Brooklyn Nets",
          "short": "Nets",
          "abbr": "BKN",
-         "score": 50,
+         "score": 52,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -1812,7 +1812,7 @@
          "name": "Memphis Grizzlies",
          "short": "Grizzlies",
          "abbr": "MEM",
-         "score": 60,
+         "score": 64,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -1822,7 +1822,7 @@
         }
        ],
        "stat": {
-        "v": 6,
+        "v": 8,
         "name": "Day'Ron Sharpe"
        }
       },
@@ -1860,16 +1860,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "2:40 - 2nd",
+       "detail": "1:38 - 2nd",
        "start": "2026-11-15T01:00Z",
        "period": 2,
-       "clock": "2:40",
+       "clock": "1:38",
        "teams": [
         {
          "name": "Brooklyn Nets",
          "short": "Nets",
          "abbr": "BKN",
-         "score": 50,
+         "score": 52,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -1881,7 +1881,7 @@
          "name": "Memphis Grizzlies",
          "short": "Grizzlies",
          "abbr": "MEM",
-         "score": 60,
+         "score": 64,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -1891,7 +1891,7 @@
         }
        ],
        "stat": {
-        "v": 3,
+        "v": 5,
         "name": "Jaylen Wells"
        }
       },
