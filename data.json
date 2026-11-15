@@ -1,5 +1,5 @@
 {
- "updated": "Nov 15, 2026, 3:01 PM PT",
+ "updated": "Nov 15, 2026, 3:08 PM PT",
  "record": {
   "w": 174,
   "l": 170,
@@ -665,16 +665,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "8:48 - 3rd",
+       "detail": "5:55 - 3rd",
        "start": "2026-11-15T21:05Z",
        "period": 3,
-       "clock": "8:48",
+       "clock": "5:55",
        "teams": [
         {
          "name": "Los Angeles Rams",
          "short": "Rams",
          "abbr": "LAR",
-         "score": 24,
+         "score": 31,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -1485,10 +1485,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "7:10 - 3rd",
+       "detail": "3:19 - 3rd",
        "start": "2026-11-15T21:05Z",
        "period": 3,
-       "clock": "7:10",
+       "clock": "3:19",
        "teams": [
         {
          "name": "Seattle Seahawks",
@@ -1740,16 +1740,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "8:21 - 1st",
+       "detail": "5:29 - 1st",
        "start": "2026-11-15T22:30Z",
        "period": 1,
-       "clock": "8:21",
+       "clock": "5:29",
        "teams": [
         {
          "name": "Canisius Golden Griffins",
          "short": "Golden Griffins",
          "abbr": "CAN",
-         "score": 16,
+         "score": 23,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -1760,7 +1760,7 @@
          "name": "Buffalo Bulls",
          "short": "Bulls",
          "abbr": "BUF",
-         "score": 24,
+         "score": 32,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -1803,16 +1803,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "8:48 - 3rd",
+       "detail": "5:55 - 3rd",
        "start": "2026-11-15T21:05Z",
        "period": 3,
-       "clock": "8:48",
+       "clock": "5:55",
        "teams": [
         {
          "name": "Los Angeles Rams",
          "short": "Rams",
          "abbr": "LAR",
-         "score": 24,
+         "score": 31,
          "ha": "away",
          "winner": null,
          "linescores": [
