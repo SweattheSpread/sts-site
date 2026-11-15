@@ -1,5 +1,5 @@
 {
- "updated": "Nov 14, 2026, 4:01 PM PT",
+ "updated": "Nov 14, 2026, 4:03 PM PT",
  "record": {
   "w": 164,
   "l": 163,
@@ -1487,11 +1487,11 @@
       "date": "20261114",
       "snapshot": {
        "source": "espn",
-       "state": "pre",
-       "detail": "11/14 - 7:00 PM EST",
+       "state": "in",
+       "detail": "19:16 - 1st",
        "start": "2026-11-15T00:00Z",
-       "period": null,
-       "clock": null,
+       "period": 1,
+       "clock": "19:16",
        "teams": [
         {
          "name": "Brown Bears",
@@ -1500,16 +1500,20 @@
          "score": 0,
          "ha": "away",
          "winner": null,
-         "linescores": []
+         "linescores": [
+          0
+         ]
         },
         {
          "name": "Siena Saints",
          "short": "Saints",
          "abbr": "SIE",
-         "score": 0,
+         "score": 2,
          "ha": "home",
          "winner": null,
-         "linescores": []
+         "linescores": [
+          0
+         ]
         }
        ]
       },
