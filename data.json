@@ -1,5 +1,5 @@
 {
- "updated": "Nov 15, 2026, 1:04 PM PT",
+ "updated": "Nov 15, 2026, 1:11 PM PT",
  "record": {
   "w": 174,
   "l": 170,
@@ -127,178 +127,6 @@
   }
  ],
  "picks": [
-  {
-   "n": 748,
-   "league": "NFL",
-   "type": "Spread",
-   "matchup": "Los Angeles Rams @ Arizona Cardinals",
-   "pick": "Los Angeles Rams -9.5",
-   "odds": -105,
-   "units": 1.0,
-   "gap": null,
-   "start": "2026-11-15T13:05:00",
-   "timed": true,
-   "ticket": "single",
-   "espn": {
-    "legs": [
-     {
-      "kind": "spread",
-      "side": "Los Angeles Rams",
-      "line": -9.5,
-      "label": "Los Angeles Rams -9.5",
-      "path": "football/nfl",
-      "event": "401873061",
-      "date": "20261115",
-      "snapshot": {
-       "source": "espn",
-       "state": "pre",
-       "detail": "11/15 - 4:05 PM EST",
-       "start": "2026-11-15T21:05Z",
-       "period": null,
-       "clock": null,
-       "teams": [
-        {
-         "name": "Los Angeles Rams",
-         "short": "Rams",
-         "abbr": "LAR",
-         "score": 0,
-         "ha": "away",
-         "winner": null,
-         "linescores": []
-        },
-        {
-         "name": "Arizona Cardinals",
-         "short": "Cardinals",
-         "abbr": "ARI",
-         "score": 0,
-         "ha": "home",
-         "winner": null,
-         "linescores": []
-        }
-       ]
-      },
-      "source": "espn"
-     }
-    ],
-    "sport": "NFL",
-    "ticket": "single"
-   }
-  },
-  {
-   "n": 813,
-   "league": "NFL",
-   "type": "Over/Under",
-   "matchup": "Seattle Seahawks @ Las Vegas Raiders",
-   "pick": "Over 40.5",
-   "odds": -110,
-   "units": 1.0,
-   "gap": null,
-   "start": "2026-11-15T13:05:00",
-   "timed": true,
-   "ticket": "single",
-   "espn": {
-    "legs": [
-     {
-      "kind": "total",
-      "side": null,
-      "ou": "O",
-      "line": 40.5,
-      "label": "O 40.5",
-      "path": "football/nfl",
-      "event": "401873062",
-      "date": "20261115",
-      "snapshot": {
-       "source": "espn",
-       "state": "pre",
-       "detail": "11/15 - 4:05 PM EST",
-       "start": "2026-11-15T21:05Z",
-       "period": null,
-       "clock": null,
-       "teams": [
-        {
-         "name": "Seattle Seahawks",
-         "short": "Seahawks",
-         "abbr": "SEA",
-         "score": 0,
-         "ha": "away",
-         "winner": null,
-         "linescores": []
-        },
-        {
-         "name": "Las Vegas Raiders",
-         "short": "Raiders",
-         "abbr": "LV",
-         "score": 0,
-         "ha": "home",
-         "winner": null,
-         "linescores": []
-        }
-       ]
-      },
-      "source": "espn"
-     }
-    ],
-    "sport": "NFL",
-    "ticket": "single"
-   }
-  },
-  {
-   "n": 822,
-   "league": "NFL",
-   "type": "Player Prop",
-   "matchup": "Los Angeles Rams @ Arizona Cardinals",
-   "pick": "Simi Fehoko Over 1.5 receptions (player prop)",
-   "odds": 155,
-   "units": 1.0,
-   "gap": null,
-   "start": "2026-11-15T13:05:00",
-   "timed": true,
-   "ticket": "single",
-   "espn": {
-    "legs": [
-     {
-      "kind": "prop",
-      "player": "Simi Fehoko",
-      "ou": "O",
-      "line": 1.5,
-      "stat": "receptions",
-      "label": "Simi Fehoko O 1.5 receptions",
-      "date": "20261115",
-      "unverified": true,
-      "reason": "Player not found in this game",
-      "snapshot": {
-       "source": "odds-api",
-       "state": "in",
-       "detail": "Live",
-       "start": "2026-11-15T21:05:00Z",
-       "teams": [
-        {
-         "name": "Los Angeles Rams",
-         "short": "Los Angeles Rams",
-         "abbr": "",
-         "score": 0,
-         "ha": "away",
-         "winner": null,
-         "linescores": []
-        },
-        {
-         "name": "Arizona Cardinals",
-         "short": "Arizona Cardinals",
-         "abbr": "",
-         "score": 0,
-         "ha": "home",
-         "winner": null,
-         "linescores": []
-        }
-       ]
-      },
-      "source": "odds-api"
-     }
-    ],
-    "sport": "NFL",
-    "ticket": "single"
-   }
-  },
   {
    "n": 824,
    "league": "NFL",
@@ -760,11 +588,11 @@
       "date": "20261115",
       "snapshot": {
        "source": "espn",
-       "state": "in",
-       "detail": "1:51 - 4th",
+       "state": "post",
+       "detail": "Final",
        "start": "2026-11-15T18:00Z",
-       "period": 4,
-       "clock": "1:51",
+       "period": null,
+       "clock": null,
        "teams": [
         {
          "name": "Buffalo Bills",
@@ -772,7 +600,7 @@
          "abbr": "BUF",
          "score": 31,
          "ha": "away",
-         "winner": null,
+         "winner": true,
          "linescores": [
           0,
           0,
@@ -786,7 +614,7 @@
          "abbr": "NYJ",
          "score": 12,
          "ha": "home",
-         "winner": null,
+         "winner": false,
          "linescores": [
           0,
           0,
@@ -871,6 +699,67 @@
    }
   },
   {
+   "n": 748,
+   "league": "NFL",
+   "type": "Spread",
+   "matchup": "Los Angeles Rams @ Arizona Cardinals",
+   "pick": "Los Angeles Rams -9.5",
+   "odds": -105,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-15T13:05:00",
+   "timed": true,
+   "ticket": "single",
+   "espn": {
+    "legs": [
+     {
+      "kind": "spread",
+      "side": "Los Angeles Rams",
+      "line": -9.5,
+      "label": "Los Angeles Rams -9.5",
+      "path": "football/nfl",
+      "event": "401873061",
+      "date": "20261115",
+      "snapshot": {
+       "source": "espn",
+       "state": "in",
+       "detail": "12:19 - 1st",
+       "start": "2026-11-15T21:05Z",
+       "period": 1,
+       "clock": "12:19",
+       "teams": [
+        {
+         "name": "Los Angeles Rams",
+         "short": "Rams",
+         "abbr": "LAR",
+         "score": 0,
+         "ha": "away",
+         "winner": null,
+         "linescores": [
+          0
+         ]
+        },
+        {
+         "name": "Arizona Cardinals",
+         "short": "Cardinals",
+         "abbr": "ARI",
+         "score": 0,
+         "ha": "home",
+         "winner": null,
+         "linescores": [
+          0
+         ]
+        }
+       ]
+      },
+      "source": "espn"
+     }
+    ],
+    "sport": "NFL",
+    "ticket": "single"
+   }
+  },
+  {
    "n": 749,
    "league": "NFL",
    "type": "Spread",
@@ -895,10 +784,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "0:56 - 4th",
+       "detail": "0:02 - 4th",
        "start": "2026-11-15T18:00Z",
        "period": 4,
-       "clock": "0:56",
+       "clock": "0:02",
        "teams": [
         {
          "name": "Carolina Panthers",
@@ -918,7 +807,7 @@
          "name": "New Orleans Saints",
          "short": "Saints",
          "abbr": "NO",
-         "score": 14,
+         "score": 17,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -962,10 +851,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "3:15 - 4th",
+       "detail": "1:41 - 4th",
        "start": "2026-11-15T18:00Z",
        "period": 4,
-       "clock": "3:15",
+       "clock": "1:41",
        "teams": [
         {
          "name": "Miami Dolphins",
@@ -1030,10 +919,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "0:53 - 4th",
+       "detail": "0:22 - 4th",
        "start": "2026-11-15T18:00Z",
        "period": 4,
-       "clock": "0:53",
+       "clock": "0:22",
        "teams": [
         {
          "name": "Houston Texans",
@@ -1098,10 +987,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "2:00 - 4th",
+       "detail": "0:32 - 4th",
        "start": "2026-11-15T18:00Z",
        "period": 4,
-       "clock": "2:00",
+       "clock": "0:32",
        "teams": [
         {
          "name": "Kansas City Chiefs",
@@ -1234,10 +1123,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "0:53 - 4th",
+       "detail": "0:22 - 4th",
        "start": "2026-11-15T18:00Z",
        "period": 4,
-       "clock": "0:53",
+       "clock": "0:22",
        "teams": [
         {
          "name": "Houston Texans",
@@ -1307,10 +1196,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "0:53 - 4th",
+       "detail": "0:22 - 4th",
        "start": "2026-11-15T18:00Z",
        "period": 4,
-       "clock": "0:53",
+       "clock": "0:22",
        "teams": [
         {
          "name": "Houston Texans",
@@ -1378,16 +1267,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "2:00 - 4th",
+       "detail": "0:30 - 4th",
        "start": "2026-11-15T18:00Z",
        "period": 4,
-       "clock": "2:00",
+       "clock": "0:30",
        "teams": [
         {
          "name": "Jacksonville Jaguars",
          "short": "Jaguars",
          "abbr": "JAX",
-         "score": 33,
+         "score": 40,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -1446,10 +1335,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "0:53 - 4th",
+       "detail": "0:22 - 4th",
        "start": "2026-11-15T18:00Z",
        "period": 4,
-       "clock": "0:53",
+       "clock": "0:22",
        "teams": [
         {
          "name": "Houston Texans",
@@ -1514,10 +1403,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "0:53 - 4th",
+       "detail": "0:22 - 4th",
        "start": "2026-11-15T18:00Z",
        "period": 4,
-       "clock": "0:53",
+       "clock": "0:22",
        "teams": [
         {
          "name": "Houston Texans",
@@ -1625,6 +1514,68 @@
    }
   },
   {
+   "n": 813,
+   "league": "NFL",
+   "type": "Over/Under",
+   "matchup": "Seattle Seahawks @ Las Vegas Raiders",
+   "pick": "Over 40.5",
+   "odds": -110,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-15T13:05:00",
+   "timed": true,
+   "ticket": "single",
+   "espn": {
+    "legs": [
+     {
+      "kind": "total",
+      "side": null,
+      "ou": "O",
+      "line": 40.5,
+      "label": "O 40.5",
+      "path": "football/nfl",
+      "event": "401873062",
+      "date": "20261115",
+      "snapshot": {
+       "source": "espn",
+       "state": "in",
+       "detail": "12:09 - 1st",
+       "start": "2026-11-15T21:05Z",
+       "period": 1,
+       "clock": "12:09",
+       "teams": [
+        {
+         "name": "Seattle Seahawks",
+         "short": "Seahawks",
+         "abbr": "SEA",
+         "score": 0,
+         "ha": "away",
+         "winner": null,
+         "linescores": [
+          0
+         ]
+        },
+        {
+         "name": "Las Vegas Raiders",
+         "short": "Raiders",
+         "abbr": "LV",
+         "score": 0,
+         "ha": "home",
+         "winner": null,
+         "linescores": [
+          0
+         ]
+        }
+       ]
+      },
+      "source": "espn"
+     }
+    ],
+    "sport": "NFL",
+    "ticket": "single"
+   }
+  },
+  {
    "n": 815,
    "league": "NFL",
    "type": "Over/Under",
@@ -1650,16 +1601,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "2:00 - 4th",
+       "detail": "0:30 - 4th",
        "start": "2026-11-15T18:00Z",
        "period": 4,
-       "clock": "2:00",
+       "clock": "0:30",
        "teams": [
         {
          "name": "Jacksonville Jaguars",
          "short": "Jaguars",
          "abbr": "JAX",
-         "score": 33,
+         "score": 40,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -1713,49 +1664,36 @@
       "line": 98.5,
       "stat": "rushing yards",
       "label": "James Cook U 98.5 rushing yards",
-      "path": "football/nfl",
-      "event": "401873054",
       "date": "20261115",
+      "unverified": true,
+      "reason": "Player not found in this game",
       "snapshot": {
-       "source": "espn",
-       "state": "in",
-       "detail": "1:51 - 4th",
-       "start": "2026-11-15T18:00Z",
-       "period": 4,
-       "clock": "1:51",
+       "source": "odds-api",
+       "state": "post",
+       "detail": "Final",
+       "start": "2026-11-15T18:03:31Z",
        "teams": [
         {
          "name": "Buffalo Bills",
-         "short": "Bills",
-         "abbr": "BUF",
+         "short": "Buffalo Bills",
+         "abbr": "",
          "score": 31,
          "ha": "away",
-         "winner": null,
-         "linescores": [
-          0,
-          0,
-          0,
-          0
-         ]
+         "winner": true,
+         "linescores": []
         },
         {
          "name": "New York Jets",
-         "short": "Jets",
-         "abbr": "NYJ",
+         "short": "New York Jets",
+         "abbr": "",
          "score": 12,
          "ha": "home",
-         "winner": null,
-         "linescores": [
-          0,
-          0,
-          0,
-          0
-         ]
+         "winner": false,
+         "linescores": []
         }
-       ],
-       "stat": null
+       ]
       },
-      "source": "espn"
+      "source": "odds-api"
      }
     ],
     "sport": "NFL",
@@ -1827,6 +1765,73 @@
    }
   },
   {
+   "n": 822,
+   "league": "NFL",
+   "type": "Player Prop",
+   "matchup": "Los Angeles Rams @ Arizona Cardinals",
+   "pick": "Simi Fehoko Over 1.5 receptions (player prop)",
+   "odds": 155,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-15T13:05:00",
+   "timed": true,
+   "ticket": "single",
+   "espn": {
+    "legs": [
+     {
+      "kind": "prop",
+      "player": "Simi Fehoko",
+      "ou": "O",
+      "line": 1.5,
+      "stat": "receptions",
+      "label": "Simi Fehoko O 1.5 receptions",
+      "path": "football/nfl",
+      "event": "401873061",
+      "date": "20261115",
+      "snapshot": {
+       "source": "espn",
+       "state": "in",
+       "detail": "12:19 - 1st",
+       "start": "2026-11-15T21:05Z",
+       "period": 1,
+       "clock": "12:19",
+       "teams": [
+        {
+         "name": "Los Angeles Rams",
+         "short": "Rams",
+         "abbr": "LAR",
+         "score": 0,
+         "ha": "away",
+         "winner": null,
+         "linescores": [
+          0
+         ]
+        },
+        {
+         "name": "Arizona Cardinals",
+         "short": "Cardinals",
+         "abbr": "ARI",
+         "score": 0,
+         "ha": "home",
+         "winner": null,
+         "linescores": [
+          0
+         ]
+        }
+       ],
+       "stat": {
+        "v": 1,
+        "name": "Simi Fehoko"
+       }
+      },
+      "source": "espn"
+     }
+    ],
+    "sport": "NFL",
+    "ticket": "single"
+   }
+  },
+  {
    "n": 823,
    "league": "NFL",
    "type": "Team Total",
@@ -1851,11 +1856,11 @@
       "date": "20261115",
       "snapshot": {
        "source": "espn",
-       "state": "in",
-       "detail": "1:51 - 4th",
+       "state": "post",
+       "detail": "Final",
        "start": "2026-11-15T18:00Z",
-       "period": 4,
-       "clock": "1:51",
+       "period": null,
+       "clock": null,
        "teams": [
         {
          "name": "Buffalo Bills",
@@ -1863,7 +1868,7 @@
          "abbr": "BUF",
          "score": 31,
          "ha": "away",
-         "winner": null,
+         "winner": true,
          "linescores": [
           0,
           0,
@@ -1877,7 +1882,7 @@
          "abbr": "NYJ",
          "score": 12,
          "ha": "home",
-         "winner": null,
+         "winner": false,
          "linescores": [
           0,
           0,
