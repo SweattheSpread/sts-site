@@ -1,5 +1,5 @@
 {
- "updated": "Nov 15, 2026, 1:26 PM PT",
+ "updated": "Nov 15, 2026, 1:29 PM PT",
  "record": {
   "w": 174,
   "l": 170,
@@ -235,7 +235,9 @@
       "ou": "U",
       "line": 6.0,
       "label": "U 6.0",
-      "unverified": true,
+      "path": "hockey/nhl",
+      "event": "401892721",
+      "date": "20261115",
       "snapshot": {
        "source": "nhl",
        "state": "pre",
@@ -349,7 +351,9 @@
       "ou": "U",
       "line": 6.5,
       "label": "U 6.5",
-      "unverified": true,
+      "path": "hockey/nhl",
+      "event": "401892723",
+      "date": "20261115",
       "snapshot": {
        "source": "nhl",
        "state": "pre",
@@ -719,16 +723,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "6:10 - 1st",
+       "detail": "5:22 - 1st",
        "start": "2026-11-15T21:05Z",
        "period": 1,
-       "clock": "6:10",
+       "clock": "5:22",
        "teams": [
         {
          "name": "Los Angeles Rams",
          "short": "Rams",
          "abbr": "LAR",
-         "score": 0,
+         "score": 3,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -1535,16 +1539,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "4:06 - 1st",
+       "detail": "2:32 - 1st",
        "start": "2026-11-15T21:05Z",
        "period": 1,
-       "clock": "4:06",
+       "clock": "2:32",
        "teams": [
         {
          "name": "Seattle Seahawks",
          "short": "Seahawks",
          "abbr": "SEA",
-         "score": 0,
+         "score": 7,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -1787,16 +1791,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "6:10 - 1st",
+       "detail": "5:22 - 1st",
        "start": "2026-11-15T21:05Z",
        "period": 1,
-       "clock": "6:10",
+       "clock": "5:22",
        "teams": [
         {
          "name": "Los Angeles Rams",
          "short": "Rams",
          "abbr": "LAR",
-         "score": 0,
+         "score": 3,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -1922,10 +1926,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "14:54 - 1st",
+       "detail": "14:46 - 1st",
        "start": "2026-11-15T21:25Z",
        "period": 1,
-       "clock": "14:54",
+       "clock": "14:46",
        "teams": [
         {
          "name": "San Francisco 49ers",
