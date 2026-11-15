@@ -1,5 +1,5 @@
 {
- "updated": "Nov 15, 2026, 1:13 PM PT",
+ "updated": "Nov 15, 2026, 1:15 PM PT",
  "record": {
   "w": 174,
   "l": 170,
@@ -851,10 +851,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "1:36 - 4th",
+       "detail": "1:18 - 4th",
        "start": "2026-11-15T18:00Z",
        "period": 4,
-       "clock": "1:36",
+       "clock": "1:18",
        "teams": [
         {
          "name": "Miami Dolphins",
@@ -918,11 +918,11 @@
       "date": "20261115",
       "snapshot": {
        "source": "espn",
-       "state": "in",
-       "detail": "0:10 - 4th",
+       "state": "post",
+       "detail": "Final",
        "start": "2026-11-15T18:00Z",
-       "period": 4,
-       "clock": "0:10",
+       "period": null,
+       "clock": null,
        "teams": [
         {
          "name": "Houston Texans",
@@ -930,7 +930,7 @@
          "abbr": "HOU",
          "score": 24,
          "ha": "away",
-         "winner": null,
+         "winner": false,
          "linescores": [
           0,
           0,
@@ -944,7 +944,7 @@
          "abbr": "CLE",
          "score": 27,
          "ha": "home",
-         "winner": null,
+         "winner": true,
          "linescores": [
           0,
           0,
@@ -1122,11 +1122,11 @@
       "date": "20261115",
       "snapshot": {
        "source": "espn",
-       "state": "in",
-       "detail": "0:10 - 4th",
+       "state": "post",
+       "detail": "Final",
        "start": "2026-11-15T18:00Z",
-       "period": 4,
-       "clock": "0:10",
+       "period": null,
+       "clock": null,
        "teams": [
         {
          "name": "Houston Texans",
@@ -1134,7 +1134,7 @@
          "abbr": "HOU",
          "score": 24,
          "ha": "away",
-         "winner": null,
+         "winner": false,
          "linescores": [
           0,
           0,
@@ -1148,7 +1148,7 @@
          "abbr": "CLE",
          "score": 27,
          "ha": "home",
-         "winner": null,
+         "winner": true,
          "linescores": [
           0,
           0,
@@ -1195,11 +1195,11 @@
       "date": "20261115",
       "snapshot": {
        "source": "espn",
-       "state": "in",
-       "detail": "0:10 - 4th",
+       "state": "post",
+       "detail": "Final",
        "start": "2026-11-15T18:00Z",
-       "period": 4,
-       "clock": "0:10",
+       "period": null,
+       "clock": null,
        "teams": [
         {
          "name": "Houston Texans",
@@ -1207,7 +1207,7 @@
          "abbr": "HOU",
          "score": 24,
          "ha": "away",
-         "winner": null,
+         "winner": false,
          "linescores": [
           0,
           0,
@@ -1221,7 +1221,7 @@
          "abbr": "CLE",
          "score": 27,
          "ha": "home",
-         "winner": null,
+         "winner": true,
          "linescores": [
           0,
           0,
@@ -1334,11 +1334,11 @@
       "date": "20261115",
       "snapshot": {
        "source": "espn",
-       "state": "in",
-       "detail": "0:10 - 4th",
+       "state": "post",
+       "detail": "Final",
        "start": "2026-11-15T18:00Z",
-       "period": 4,
-       "clock": "0:10",
+       "period": null,
+       "clock": null,
        "teams": [
         {
          "name": "Houston Texans",
@@ -1346,7 +1346,7 @@
          "abbr": "HOU",
          "score": 24,
          "ha": "away",
-         "winner": null,
+         "winner": false,
          "linescores": [
           0,
           0,
@@ -1360,7 +1360,7 @@
          "abbr": "CLE",
          "score": 27,
          "ha": "home",
-         "winner": null,
+         "winner": true,
          "linescores": [
           0,
           0,
@@ -1402,11 +1402,11 @@
       "date": "20261115",
       "snapshot": {
        "source": "espn",
-       "state": "in",
-       "detail": "0:10 - 4th",
+       "state": "post",
+       "detail": "Final",
        "start": "2026-11-15T18:00Z",
-       "period": 4,
-       "clock": "0:10",
+       "period": null,
+       "clock": null,
        "teams": [
         {
          "name": "Houston Texans",
@@ -1414,7 +1414,7 @@
          "abbr": "HOU",
          "score": 24,
          "ha": "away",
-         "winner": null,
+         "winner": false,
          "linescores": [
           0,
           0,
@@ -1428,7 +1428,7 @@
          "abbr": "CLE",
          "score": 27,
          "ha": "home",
-         "winner": null,
+         "winner": true,
          "linescores": [
           0,
           0,
@@ -1539,10 +1539,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "11:20 - 1st",
+       "detail": "10:36 - 1st",
        "start": "2026-11-15T21:05Z",
        "period": 1,
-       "clock": "11:20",
+       "clock": "10:36",
        "teams": [
         {
          "name": "Seattle Seahawks",
