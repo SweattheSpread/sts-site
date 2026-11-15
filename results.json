@@ -1,5 +1,5 @@
 {
- "updated": "Nov 15, 2026, 3:34 AM PT",
+ "updated": "Nov 15, 2026, 4:38 AM PT",
  "record": {
   "w": 174,
   "l": 170,
@@ -11,7 +11,7 @@
   "first": "2026-10-12",
   "last": "2026-11-14"
  },
- "pending": 15,
+ "pending": 16,
  "plays": [
   {
    "n": 334,
@@ -5817,6 +5817,22 @@
    "pick": "Denzel Boston longest reception Over 21.5 (player prop)",
    "odds": -120,
    "units": 1.0,
+   "result": null,
+   "pl": null,
+   "pending": true
+  },
+  {
+   "n": 811,
+   "date": "2026-11-15",
+   "day": "2026-11-15",
+   "league": "NFL",
+   "market": "player_prop",
+   "market_label": "Player Prop",
+   "ticket": "single",
+   "matchup": "New England Patriots @ Detroit Lions",
+   "pick": "Drake Maye anytime TD scorer (player prop)",
+   "odds": 320,
+   "units": 0.5,
    "result": null,
    "pl": null,
    "pending": true
