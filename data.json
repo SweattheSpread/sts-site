@@ -1,5 +1,5 @@
 {
- "updated": "Nov 15, 2026, 12:14 PM PT",
+ "updated": "Nov 15, 2026, 12:16 PM PT",
  "record": {
   "w": 174,
   "l": 170,
@@ -11,7 +11,7 @@
   "first": "2026-10-12",
   "last": "2026-11-14"
  },
- "pending": 25,
+ "pending": 26,
  "latest": [
   {
    "n": 808,
@@ -236,6 +236,36 @@
        ]
       },
       "source": "espn"
+     }
+    ],
+    "sport": "NFL",
+    "ticket": "single"
+   }
+  },
+  {
+   "n": 822,
+   "league": "NFL",
+   "type": "Player Prop",
+   "matchup": "Los Angeles Rams @ Arizona Cardinals",
+   "pick": "Simi Fehoko Over 1.5 receptions (player prop)",
+   "odds": 155,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-15T13:05:00",
+   "timed": true,
+   "ticket": "single",
+   "espn": {
+    "legs": [
+     {
+      "kind": "prop",
+      "player": "Simi Fehoko",
+      "ou": "O",
+      "line": 1.5,
+      "stat": "receptions",
+      "label": "Simi Fehoko O 1.5 receptions",
+      "date": "20261115",
+      "unverified": true,
+      "reason": "Player not found in this game"
      }
     ],
     "sport": "NFL",
@@ -674,16 +704,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "4:21 - 3rd",
+       "detail": "3:42 - 3rd",
        "start": "2026-11-15T18:00Z",
        "period": 3,
-       "clock": "4:21",
+       "clock": "3:42",
        "teams": [
         {
          "name": "Buffalo Bills",
          "short": "Bills",
          "abbr": "BUF",
-         "score": 17,
+         "score": 24,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -806,10 +836,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "2:13 - 3rd",
+       "detail": "1:17 - 3rd",
        "start": "2026-11-15T18:00Z",
        "period": 3,
-       "clock": "2:13",
+       "clock": "1:17",
        "teams": [
         {
          "name": "Carolina Panthers",
@@ -871,10 +901,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "4:31 - 3rd",
+       "detail": "3:40 - 3rd",
        "start": "2026-11-15T18:00Z",
        "period": 3,
-       "clock": "4:31",
+       "clock": "3:40",
        "teams": [
         {
          "name": "Miami Dolphins",
@@ -893,7 +923,7 @@
          "name": "Indianapolis Colts",
          "short": "Colts",
          "abbr": "IND",
-         "score": 21,
+         "score": 24,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -937,10 +967,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "1:41 - 3rd",
+       "detail": "0:12 - 3rd",
        "start": "2026-11-15T18:00Z",
        "period": 3,
-       "clock": "1:41",
+       "clock": "0:12",
        "teams": [
         {
          "name": "Houston Texans",
@@ -1070,10 +1100,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "2:07 - 3rd",
+       "detail": "0:34 - 3rd",
        "start": "2026-11-15T18:00Z",
        "period": 3,
-       "clock": "2:07",
+       "clock": "0:34",
        "teams": [
         {
          "name": "Minnesota Vikings",
@@ -1137,10 +1167,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "1:41 - 3rd",
+       "detail": "0:12 - 3rd",
        "start": "2026-11-15T18:00Z",
        "period": 3,
-       "clock": "1:41",
+       "clock": "0:12",
        "teams": [
         {
          "name": "Houston Texans",
@@ -1208,10 +1238,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "1:41 - 3rd",
+       "detail": "0:12 - 3rd",
        "start": "2026-11-15T18:00Z",
        "period": 3,
-       "clock": "1:41",
+       "clock": "0:12",
        "teams": [
         {
          "name": "Houston Texans",
@@ -1277,10 +1307,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "6:28 - 3rd",
+       "detail": "5:36 - 3rd",
        "start": "2026-11-15T18:00Z",
        "period": 3,
-       "clock": "6:28",
+       "clock": "5:36",
        "teams": [
         {
          "name": "Jacksonville Jaguars",
@@ -1343,10 +1373,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "1:41 - 3rd",
+       "detail": "0:12 - 3rd",
        "start": "2026-11-15T18:00Z",
        "period": 3,
-       "clock": "1:41",
+       "clock": "0:12",
        "teams": [
         {
          "name": "Houston Texans",
@@ -1409,10 +1439,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "1:41 - 3rd",
+       "detail": "0:12 - 3rd",
        "start": "2026-11-15T18:00Z",
        "period": 3,
-       "clock": "1:41",
+       "clock": "0:12",
        "teams": [
         {
          "name": "Houston Texans",
@@ -1543,10 +1573,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "6:28 - 3rd",
+       "detail": "5:36 - 3rd",
        "start": "2026-11-15T18:00Z",
        "period": 3,
-       "clock": "6:28",
+       "clock": "5:36",
        "teams": [
         {
          "name": "Jacksonville Jaguars",
@@ -1610,16 +1640,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "4:21 - 3rd",
+       "detail": "3:42 - 3rd",
        "start": "2026-11-15T18:00Z",
        "period": 3,
-       "clock": "4:21",
+       "clock": "3:42",
        "teams": [
         {
          "name": "Buffalo Bills",
          "short": "Bills",
          "abbr": "BUF",
-         "score": 17,
+         "score": 24,
          "ha": "away",
          "winner": null,
          "linescores": [

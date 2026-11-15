@@ -1,5 +1,5 @@
 {
- "updated": "Nov 15, 2026, 12:14 PM PT",
+ "updated": "Nov 15, 2026, 12:16 PM PT",
  "record": {
   "w": 174,
   "l": 170,
@@ -11,7 +11,7 @@
   "first": "2026-10-12",
   "last": "2026-11-14"
  },
- "pending": 26,
+ "pending": 27,
  "plays": [
   {
    "n": 334,
@@ -5976,6 +5976,22 @@
    "matchup": "Coastal Carolina Chanticleers @ Wisconsin Badgers",
    "pick": "Coastal Carolina +27.5",
    "odds": -110,
+   "units": 1.0,
+   "result": null,
+   "pl": null,
+   "pending": true
+  },
+  {
+   "n": 822,
+   "date": "2026-11-15",
+   "day": "2026-11-15",
+   "league": "NFL",
+   "market": "player_prop",
+   "market_label": "Player Prop",
+   "ticket": "single",
+   "matchup": "Los Angeles Rams @ Arizona Cardinals",
+   "pick": "Simi Fehoko Over 1.5 receptions (player prop)",
+   "odds": 155,
    "units": 1.0,
    "result": null,
    "pl": null,
