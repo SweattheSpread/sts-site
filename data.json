@@ -1,5 +1,5 @@
 {
- "updated": "Nov 15, 2026, 12:16 PM PT",
+ "updated": "Nov 15, 2026, 12:18 PM PT",
  "record": {
   "w": 174,
   "l": 170,
@@ -836,10 +836,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "1:17 - 3rd",
+       "detail": "0:35 - 3rd",
        "start": "2026-11-15T18:00Z",
        "period": 3,
-       "clock": "1:17",
+       "clock": "0:35",
        "teams": [
         {
          "name": "Carolina Panthers",
@@ -901,10 +901,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "3:40 - 3rd",
+       "detail": "2:47 - 3rd",
        "start": "2026-11-15T18:00Z",
        "period": 3,
-       "clock": "3:40",
+       "clock": "2:47",
        "teams": [
         {
          "name": "Miami Dolphins",
@@ -989,7 +989,7 @@
          "name": "Cleveland Browns",
          "short": "Browns",
          "abbr": "CLE",
-         "score": 17,
+         "score": 20,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -1033,10 +1033,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "15:00 - 4th",
+       "detail": "14:47 - 4th",
        "start": "2026-11-15T18:00Z",
        "period": 4,
-       "clock": "15:00",
+       "clock": "14:47",
        "teams": [
         {
          "name": "Kansas City Chiefs",
@@ -1100,10 +1100,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "0:34 - 3rd",
+       "detail": "0:19 - 3rd",
        "start": "2026-11-15T18:00Z",
        "period": 3,
-       "clock": "0:34",
+       "clock": "0:19",
        "teams": [
         {
          "name": "Minnesota Vikings",
@@ -1122,7 +1122,7 @@
          "name": "Green Bay Packers",
          "short": "Packers",
          "abbr": "GB",
-         "score": 7,
+         "score": 10,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -1189,7 +1189,7 @@
          "name": "Cleveland Browns",
          "short": "Browns",
          "abbr": "CLE",
-         "score": 17,
+         "score": 20,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -1260,7 +1260,7 @@
          "name": "Cleveland Browns",
          "short": "Browns",
          "abbr": "CLE",
-         "score": 17,
+         "score": 20,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -1307,10 +1307,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "5:36 - 3rd",
+       "detail": "4:19 - 3rd",
        "start": "2026-11-15T18:00Z",
        "period": 3,
-       "clock": "5:36",
+       "clock": "4:19",
        "teams": [
         {
          "name": "Jacksonville Jaguars",
@@ -1395,7 +1395,7 @@
          "name": "Cleveland Browns",
          "short": "Browns",
          "abbr": "CLE",
-         "score": 17,
+         "score": 20,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -1461,7 +1461,7 @@
          "name": "Cleveland Browns",
          "short": "Browns",
          "abbr": "CLE",
-         "score": 17,
+         "score": 20,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -1573,10 +1573,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "5:36 - 3rd",
+       "detail": "4:19 - 3rd",
        "start": "2026-11-15T18:00Z",
        "period": 3,
-       "clock": "5:36",
+       "clock": "4:19",
        "teams": [
         {
          "name": "Jacksonville Jaguars",
