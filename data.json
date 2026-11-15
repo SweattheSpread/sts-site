@@ -1,5 +1,5 @@
 {
- "updated": "Nov 15, 2026, 10:16 AM PT",
+ "updated": "Nov 15, 2026, 10:18 AM PT",
  "record": {
   "w": 174,
   "l": 170,
@@ -802,10 +802,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "8:48 - 1st",
+       "detail": "8:28 - 1st",
        "start": "2026-11-15T18:00Z",
        "period": 1,
-       "clock": "8:48",
+       "clock": "8:28",
        "teams": [
         {
          "name": "Carolina Panthers",
@@ -925,10 +925,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "9:24 - 1st",
+       "detail": "7:58 - 1st",
        "start": "2026-11-15T18:00Z",
        "period": 1,
-       "clock": "9:24",
+       "clock": "7:58",
        "teams": [
         {
          "name": "Houston Texans",
@@ -987,10 +987,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "8:44 - 1st",
+       "detail": "7:18 - 1st",
        "start": "2026-11-15T18:00Z",
        "period": 1,
-       "clock": "8:44",
+       "clock": "7:18",
        "teams": [
         {
          "name": "Kansas City Chiefs",
@@ -1048,10 +1048,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "10:20 - 1st",
+       "detail": "8:52 - 1st",
        "start": "2026-11-15T18:00Z",
        "period": 1,
-       "clock": "10:20",
+       "clock": "8:52",
        "teams": [
         {
          "name": "Minnesota Vikings",
@@ -1111,10 +1111,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "9:24 - 1st",
+       "detail": "7:58 - 1st",
        "start": "2026-11-15T18:00Z",
        "period": 1,
-       "clock": "9:24",
+       "clock": "7:58",
        "teams": [
         {
          "name": "Houston Texans",
@@ -1140,7 +1140,7 @@
         }
        ],
        "stat": {
-        "v": 0,
+        "v": 6,
         "name": "KC Concepcion"
        }
       },
@@ -1178,10 +1178,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "9:24 - 1st",
+       "detail": "7:58 - 1st",
        "start": "2026-11-15T18:00Z",
        "period": 1,
-       "clock": "9:24",
+       "clock": "7:58",
        "teams": [
         {
          "name": "Houston Texans",
@@ -1206,7 +1206,10 @@
          ]
         }
        ],
-       "stat": null
+       "stat": {
+        "v": 0,
+        "name": "Jerry Jeudy"
+       }
       },
       "source": "espn"
      }
@@ -1240,10 +1243,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "9:33 - 1st",
+       "detail": "9:23 - 1st",
        "start": "2026-11-15T18:00Z",
        "period": 1,
-       "clock": "9:33",
+       "clock": "9:23",
        "teams": [
         {
          "name": "Jacksonville Jaguars",
@@ -1302,10 +1305,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "9:24 - 1st",
+       "detail": "7:58 - 1st",
        "start": "2026-11-15T18:00Z",
        "period": 1,
-       "clock": "9:24",
+       "clock": "7:58",
        "teams": [
         {
          "name": "Houston Texans",
@@ -1364,10 +1367,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "9:24 - 1st",
+       "detail": "7:58 - 1st",
        "start": "2026-11-15T18:00Z",
        "period": 1,
-       "clock": "9:24",
+       "clock": "7:58",
        "teams": [
         {
          "name": "Houston Texans",
@@ -1494,10 +1497,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "9:33 - 1st",
+       "detail": "9:23 - 1st",
        "start": "2026-11-15T18:00Z",
        "period": 1,
-       "clock": "9:33",
+       "clock": "9:23",
        "teams": [
         {
          "name": "Jacksonville Jaguars",
@@ -1620,10 +1623,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "13:21 - 1st",
+       "detail": "12:08 - 1st",
        "start": "2026-11-15T18:00Z",
        "period": 1,
-       "clock": "13:21",
+       "clock": "12:08",
        "teams": [
         {
          "name": "Boise State Broncos",
