@@ -1,5 +1,5 @@
 {
- "updated": "Nov 14, 2026, 4:29 PM PT",
+ "updated": "Nov 14, 2026, 4:32 PM PT",
  "record": {
   "w": 164,
   "l": 163,
@@ -127,64 +127,6 @@
   }
  ],
  "picks": [
-  {
-   "n": 792,
-   "league": "NCAAF",
-   "type": "Spread",
-   "matchup": "Purdue Boilermakers @ Iowa Hawkeyes",
-   "pick": "Iowa Hawkeyes 1st half -10.5",
-   "odds": -102,
-   "units": 3.0,
-   "gap": null,
-   "start": "2026-11-14T16:30:00",
-   "timed": true,
-   "ticket": "single",
-   "espn": {
-    "legs": [
-     {
-      "kind": "spread",
-      "side": "Iowa Hawkeyes",
-      "line": -10.5,
-      "scope": "1H",
-      "label": "Iowa Hawkeyes -10.5",
-      "path": "football/college-football",
-      "event": "401858519",
-      "date": "20261114",
-      "snapshot": {
-       "source": "espn",
-       "state": "pre",
-       "detail": "11/14 - 7:30 PM EST",
-       "start": "2026-11-15T00:30Z",
-       "period": null,
-       "clock": null,
-       "teams": [
-        {
-         "name": "Purdue Boilermakers",
-         "short": "Boilermakers",
-         "abbr": "PUR",
-         "score": 0,
-         "ha": "away",
-         "winner": null,
-         "linescores": []
-        },
-        {
-         "name": "Iowa Hawkeyes",
-         "short": "Hawkeyes",
-         "abbr": "IOWA",
-         "score": 0,
-         "ha": "home",
-         "winner": null,
-         "linescores": []
-        }
-       ]
-      },
-      "source": "espn"
-     }
-    ],
-    "sport": "NCAAF",
-    "ticket": "single"
-   }
-  },
   {
    "n": 807,
    "league": "NBA",
@@ -1031,6 +973,68 @@
    }
   },
   {
+   "n": 792,
+   "league": "NCAAF",
+   "type": "Spread",
+   "matchup": "Purdue Boilermakers @ Iowa Hawkeyes",
+   "pick": "Iowa Hawkeyes 1st half -10.5",
+   "odds": -102,
+   "units": 3.0,
+   "gap": null,
+   "start": "2026-11-14T16:30:00",
+   "timed": true,
+   "ticket": "single",
+   "espn": {
+    "legs": [
+     {
+      "kind": "spread",
+      "side": "Iowa Hawkeyes",
+      "line": -10.5,
+      "scope": "1H",
+      "label": "Iowa Hawkeyes -10.5",
+      "path": "football/college-football",
+      "event": "401858519",
+      "date": "20261114",
+      "snapshot": {
+       "source": "espn",
+       "state": "in",
+       "detail": "14:56 - 1st",
+       "start": "2026-11-15T00:30Z",
+       "period": 1,
+       "clock": "14:56",
+       "teams": [
+        {
+         "name": "Purdue Boilermakers",
+         "short": "Boilermakers",
+         "abbr": "PUR",
+         "score": 0,
+         "ha": "away",
+         "winner": null,
+         "linescores": [
+          0
+         ]
+        },
+        {
+         "name": "Iowa Hawkeyes",
+         "short": "Hawkeyes",
+         "abbr": "IOWA",
+         "score": 0,
+         "ha": "home",
+         "winner": null,
+         "linescores": [
+          0
+         ]
+        }
+       ]
+      },
+      "source": "espn"
+     }
+    ],
+    "sport": "NCAAF",
+    "ticket": "single"
+   }
+  },
+  {
    "n": 794,
    "league": "NCAAF",
    "type": "Moneyline",
@@ -1488,16 +1492,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "7:31 - 1st",
+       "detail": "5:58 - 1st",
        "start": "2026-11-15T00:00Z",
        "period": 1,
-       "clock": "7:31",
+       "clock": "5:58",
        "teams": [
         {
          "name": "Brown Bears",
          "short": "Bears",
          "abbr": "BRWN",
-         "score": 23,
+         "score": 29,
          "ha": "away",
          "winner": null,
          "linescores": [
