@@ -1,5 +1,5 @@
 {
- "updated": "Nov 15, 2026, 11:18 AM PT",
+ "updated": "Nov 15, 2026, 11:20 AM PT",
  "record": {
   "w": 174,
   "l": 170,
@@ -804,10 +804,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "2:00 - 2nd",
+       "detail": "1:02 - 2nd",
        "start": "2026-11-15T18:00Z",
        "period": 2,
-       "clock": "2:00",
+       "clock": "1:02",
        "teams": [
         {
          "name": "Carolina Panthers",
@@ -867,10 +867,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "2:00 - 2nd",
+       "detail": "0:44 - 2nd",
        "start": "2026-11-15T18:00Z",
        "period": 2,
-       "clock": "2:00",
+       "clock": "0:44",
        "teams": [
         {
          "name": "Miami Dolphins",
@@ -931,10 +931,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "1:18 - 2nd",
+       "detail": "0:32 - 2nd",
        "start": "2026-11-15T18:00Z",
        "period": 2,
-       "clock": "1:18",
+       "clock": "0:32",
        "teams": [
         {
          "name": "Houston Texans",
@@ -995,10 +995,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "1:02 - 2nd",
+       "detail": "0:34 - 2nd",
        "start": "2026-11-15T18:00Z",
        "period": 2,
-       "clock": "1:02",
+       "clock": "0:34",
        "teams": [
         {
          "name": "Kansas City Chiefs",
@@ -1058,10 +1058,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "4:33 - 2nd",
+       "detail": "3:07 - 2nd",
        "start": "2026-11-15T18:00Z",
        "period": 2,
-       "clock": "4:33",
+       "clock": "3:07",
        "teams": [
         {
          "name": "Minnesota Vikings",
@@ -1123,10 +1123,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "1:18 - 2nd",
+       "detail": "0:32 - 2nd",
        "start": "2026-11-15T18:00Z",
        "period": 2,
-       "clock": "1:18",
+       "clock": "0:32",
        "teams": [
         {
          "name": "Houston Texans",
@@ -1192,10 +1192,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "1:18 - 2nd",
+       "detail": "0:32 - 2nd",
        "start": "2026-11-15T18:00Z",
        "period": 2,
-       "clock": "1:18",
+       "clock": "0:32",
        "teams": [
         {
          "name": "Houston Texans",
@@ -1259,10 +1259,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "2:00 - 2nd",
+       "detail": "1:23 - 2nd",
        "start": "2026-11-15T18:00Z",
        "period": 2,
-       "clock": "2:00",
+       "clock": "1:23",
        "teams": [
         {
          "name": "Jacksonville Jaguars",
@@ -1323,10 +1323,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "1:18 - 2nd",
+       "detail": "0:32 - 2nd",
        "start": "2026-11-15T18:00Z",
        "period": 2,
-       "clock": "1:18",
+       "clock": "0:32",
        "teams": [
         {
          "name": "Houston Texans",
@@ -1387,10 +1387,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "1:18 - 2nd",
+       "detail": "0:32 - 2nd",
        "start": "2026-11-15T18:00Z",
        "period": 2,
-       "clock": "1:18",
+       "clock": "0:32",
        "teams": [
         {
          "name": "Houston Texans",
@@ -1519,10 +1519,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "2:00 - 2nd",
+       "detail": "1:23 - 2nd",
        "start": "2026-11-15T18:00Z",
        "period": 2,
-       "clock": "2:00",
+       "clock": "1:23",
        "teams": [
         {
          "name": "Jacksonville Jaguars",
@@ -1649,16 +1649,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "13:44 - 2nd",
+       "detail": "12:48 - 2nd",
        "start": "2026-11-15T18:00Z",
        "period": 2,
-       "clock": "13:44",
+       "clock": "12:48",
        "teams": [
         {
          "name": "Boise State Broncos",
          "short": "Broncos",
          "abbr": "BOIS",
-         "score": 47,
+         "score": 49,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -1670,7 +1670,7 @@
          "name": "Nebraska Cornhuskers",
          "short": "Cornhuskers",
          "abbr": "NEB",
-         "score": 69,
+         "score": 72,
          "ha": "home",
          "winner": null,
          "linescores": [
