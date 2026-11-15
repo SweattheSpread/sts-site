@@ -1,5 +1,5 @@
 {
- "updated": "Nov 14, 2026, 6:08 PM PT",
+ "updated": "Nov 14, 2026, 6:10 PM PT",
  "record": {
   "w": 164,
   "l": 163,
@@ -1463,11 +1463,11 @@
       "date": "20261114",
       "snapshot": {
        "source": "espn",
-       "state": "in",
-       "detail": "End of 2nd",
+       "state": "post",
+       "detail": "Final",
        "start": "2026-11-15T00:00Z",
-       "period": 2,
-       "clock": "0:00",
+       "period": null,
+       "clock": null,
        "teams": [
         {
          "name": "Brown Bears",
@@ -1475,7 +1475,7 @@
          "abbr": "BRWN",
          "score": 74,
          "ha": "away",
-         "winner": null,
+         "winner": false,
          "linescores": [
           0,
           0
@@ -1487,7 +1487,7 @@
          "abbr": "SIE",
          "score": 79,
          "ha": "home",
-         "winner": null,
+         "winner": true,
          "linescores": [
           0,
           0
@@ -1791,7 +1791,7 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "0.0 - 2nd",
+       "detail": "Halftime",
        "start": "2026-11-15T01:00Z",
        "period": 2,
        "clock": "0.0",
@@ -1860,7 +1860,7 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "0.0 - 2nd",
+       "detail": "Halftime",
        "start": "2026-11-15T01:00Z",
        "period": 2,
        "clock": "0.0",
