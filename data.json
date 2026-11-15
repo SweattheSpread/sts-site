@@ -1,5 +1,5 @@
 {
- "updated": "Nov 15, 2026, 2:33 PM PT",
+ "updated": "Nov 15, 2026, 2:35 PM PT",
  "record": {
   "w": 174,
   "l": 170,
@@ -1483,10 +1483,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "Halftime",
+       "detail": "14:54 - 3rd",
        "start": "2026-11-15T21:05Z",
-       "period": 2,
-       "clock": "0:00",
+       "period": 3,
+       "clock": "14:54",
        "teams": [
         {
          "name": "Seattle Seahawks",
@@ -1496,6 +1496,7 @@
          "ha": "away",
          "winner": null,
          "linescores": [
+          0,
           0,
           0
          ]
@@ -1508,6 +1509,7 @@
          "ha": "home",
          "winner": null,
          "linescores": [
+          0,
           0,
           0
          ]
@@ -1735,11 +1737,11 @@
       "date": "20261115",
       "snapshot": {
        "source": "espn",
-       "state": "pre",
-       "detail": "11/15 - 5:30 PM EST",
+       "state": "in",
+       "detail": "19:17 - 1st",
        "start": "2026-11-15T22:30Z",
-       "period": null,
-       "clock": null,
+       "period": 1,
+       "clock": "19:17",
        "teams": [
         {
          "name": "Canisius Golden Griffins",
@@ -1748,16 +1750,20 @@
          "score": 0,
          "ha": "away",
          "winner": null,
-         "linescores": []
+         "linescores": [
+          0
+         ]
         },
         {
          "name": "Buffalo Bulls",
          "short": "Bulls",
          "abbr": "BUF",
-         "score": 0,
+         "score": 2,
          "ha": "home",
          "winner": null,
-         "linescores": []
+         "linescores": [
+          0
+         ]
         }
        ]
       },
@@ -1932,10 +1938,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "4:08 - 2nd",
+       "detail": "3:22 - 2nd",
        "start": "2026-11-15T21:25Z",
        "period": 2,
-       "clock": "4:08",
+       "clock": "3:22",
        "teams": [
         {
          "name": "San Francisco 49ers",
