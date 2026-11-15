@@ -1,5 +1,5 @@
 {
- "updated": "Nov 14, 2026, 4:09 PM PT",
+ "updated": "Nov 14, 2026, 4:11 PM PT",
  "record": {
   "w": 164,
   "l": 163,
@@ -1488,16 +1488,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "17:17 - 1st",
+       "detail": "15:59 - 1st",
        "start": "2026-11-15T00:00Z",
        "period": 1,
-       "clock": "17:17",
+       "clock": "15:59",
        "teams": [
         {
          "name": "Brown Bears",
          "short": "Bears",
          "abbr": "BRWN",
-         "score": 0,
+         "score": 2,
          "ha": "away",
          "winner": null,
          "linescores": [
