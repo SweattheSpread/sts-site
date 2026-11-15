@@ -1,5 +1,5 @@
 {
- "updated": "Nov 15, 2026, 8:44 AM PT",
+ "updated": "Nov 15, 2026, 8:48 AM PT",
  "record": {
   "w": 174,
   "l": 170,
@@ -11,7 +11,7 @@
   "first": "2026-10-12",
   "last": "2026-11-14"
  },
- "pending": 22,
+ "pending": 23,
  "plays": [
   {
    "n": 334,
@@ -5913,6 +5913,22 @@
    "pick": "Under 6.5 +106",
    "odds": 106,
    "units": 0.5,
+   "result": null,
+   "pl": null,
+   "pending": true
+  },
+  {
+   "n": 818,
+   "date": "2026-11-15",
+   "day": "2026-11-15",
+   "league": "NFL",
+   "market": "player_prop",
+   "market_label": "Player Prop",
+   "ticket": "single",
+   "matchup": "Buffalo Bills @ New York Jets",
+   "pick": "James Cook Under 98.5 rushing yards (player prop)",
+   "odds": -115,
+   "units": 1.0,
    "result": null,
    "pl": null,
    "pending": true
