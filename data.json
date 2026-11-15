@@ -1,5 +1,5 @@
 {
- "updated": "Nov 15, 2026, 1:24 PM PT",
+ "updated": "Nov 15, 2026, 1:26 PM PT",
  "record": {
   "w": 174,
   "l": 170,
@@ -128,36 +128,6 @@
  ],
  "picks": [
   {
-   "n": 824,
-   "league": "NFL",
-   "type": "Player Prop",
-   "matchup": "San Francisco 49ers @ Dallas Cowboys",
-   "pick": "Brock Purdy Over 2.5 passing TDs (player prop)",
-   "odds": 155,
-   "units": 3.0,
-   "gap": null,
-   "start": "2026-11-15T13:25:00",
-   "timed": true,
-   "ticket": "single",
-   "espn": {
-    "legs": [
-     {
-      "kind": "prop",
-      "player": "Brock Purdy",
-      "ou": "O",
-      "line": 2.5,
-      "stat": "passing tds",
-      "label": "Brock Purdy O 2.5 passing tds",
-      "date": "20261115",
-      "unverified": true,
-      "reason": "Player not found in this game"
-     }
-    ],
-    "sport": "NFL",
-    "ticket": "single"
-   }
-  },
-  {
    "n": 820,
    "league": "NCAAB",
    "type": "Over/Under",
@@ -265,9 +235,7 @@
       "ou": "U",
       "line": 6.0,
       "label": "U 6.0",
-      "path": "hockey/nhl",
-      "event": "401892721",
-      "date": "20261115",
+      "unverified": true,
       "snapshot": {
        "source": "nhl",
        "state": "pre",
@@ -381,9 +349,7 @@
       "ou": "U",
       "line": 6.5,
       "label": "U 6.5",
-      "path": "hockey/nhl",
-      "event": "401892723",
-      "date": "20261115",
+      "unverified": true,
       "snapshot": {
        "source": "nhl",
        "state": "pre",
@@ -753,10 +719,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "6:56 - 1st",
+       "detail": "6:10 - 1st",
        "start": "2026-11-15T21:05Z",
        "period": 1,
-       "clock": "6:56",
+       "clock": "6:10",
        "teams": [
         {
          "name": "Los Angeles Rams",
@@ -1569,10 +1535,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "5:37 - 1st",
+       "detail": "4:06 - 1st",
        "start": "2026-11-15T21:05Z",
        "period": 1,
-       "clock": "5:37",
+       "clock": "4:06",
        "teams": [
         {
          "name": "Seattle Seahawks",
@@ -1821,10 +1787,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "6:56 - 1st",
+       "detail": "6:10 - 1st",
        "start": "2026-11-15T21:05Z",
        "period": 1,
-       "clock": "6:56",
+       "clock": "6:10",
        "teams": [
         {
          "name": "Los Angeles Rams",
@@ -1921,6 +1887,70 @@
          ]
         }
        ]
+      },
+      "source": "espn"
+     }
+    ],
+    "sport": "NFL",
+    "ticket": "single"
+   }
+  },
+  {
+   "n": 824,
+   "league": "NFL",
+   "type": "Player Prop",
+   "matchup": "San Francisco 49ers @ Dallas Cowboys",
+   "pick": "Brock Purdy Over 2.5 passing TDs (player prop)",
+   "odds": 155,
+   "units": 3.0,
+   "gap": null,
+   "start": "2026-11-15T13:25:00",
+   "timed": true,
+   "ticket": "single",
+   "espn": {
+    "legs": [
+     {
+      "kind": "prop",
+      "player": "Brock Purdy",
+      "ou": "O",
+      "line": 2.5,
+      "stat": "passing tds",
+      "label": "Brock Purdy O 2.5 passing tds",
+      "path": "football/nfl",
+      "event": "401873063",
+      "date": "20261115",
+      "snapshot": {
+       "source": "espn",
+       "state": "in",
+       "detail": "14:54 - 1st",
+       "start": "2026-11-15T21:25Z",
+       "period": 1,
+       "clock": "14:54",
+       "teams": [
+        {
+         "name": "San Francisco 49ers",
+         "short": "49ers",
+         "abbr": "SF",
+         "score": 0,
+         "ha": "away",
+         "winner": null,
+         "linescores": [
+          0
+         ]
+        },
+        {
+         "name": "Dallas Cowboys",
+         "short": "Cowboys",
+         "abbr": "DAL",
+         "score": 0,
+         "ha": "home",
+         "winner": null,
+         "linescores": [
+          0
+         ]
+        }
+       ],
+       "stat": null
       },
       "source": "espn"
      }
