@@ -1,5 +1,5 @@
 {
- "updated": "Nov 15, 2026, 11:36 AM PT",
+ "updated": "Nov 15, 2026, 11:38 AM PT",
  "record": {
   "w": 174,
   "l": 170,
@@ -804,10 +804,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "Halftime",
+       "detail": "15:00 - 3rd",
        "start": "2026-11-15T18:00Z",
-       "period": 2,
-       "clock": "0:00",
+       "period": 3,
+       "clock": "15:00",
        "teams": [
         {
          "name": "Carolina Panthers",
@@ -817,6 +817,7 @@
          "ha": "away",
          "winner": null,
          "linescores": [
+          0,
           0,
           0
          ]
@@ -829,6 +830,7 @@
          "ha": "home",
          "winner": null,
          "linescores": [
+          0,
           0,
           0
          ]
@@ -1649,10 +1651,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "6:17 - 2nd",
+       "detail": "5:10 - 2nd",
        "start": "2026-11-15T18:00Z",
        "period": 2,
-       "clock": "6:17",
+       "clock": "5:10",
        "teams": [
         {
          "name": "Boise State Broncos",
