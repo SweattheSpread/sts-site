@@ -1,5 +1,5 @@
 {
- "updated": "Nov 15, 2026, 11:57 AM PT",
+ "updated": "Nov 15, 2026, 12:00 PM PT",
  "record": {
   "w": 174,
   "l": 170,
@@ -674,10 +674,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "10:02 - 3rd",
+       "detail": "9:27 - 3rd",
        "start": "2026-11-15T18:00Z",
        "period": 3,
-       "clock": "10:02",
+       "clock": "9:27",
        "teams": [
         {
          "name": "Buffalo Bills",
@@ -828,7 +828,7 @@
          "name": "New Orleans Saints",
          "short": "Saints",
          "abbr": "NO",
-         "score": 0,
+         "score": 7,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -937,10 +937,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "9:33 - 3rd",
+       "detail": "8:35 - 3rd",
        "start": "2026-11-15T18:00Z",
        "period": 3,
-       "clock": "9:33",
+       "clock": "8:35",
        "teams": [
         {
          "name": "Houston Texans",
@@ -959,7 +959,7 @@
          "name": "Cleveland Browns",
          "short": "Browns",
          "abbr": "CLE",
-         "score": 10,
+         "score": 17,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -1003,10 +1003,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "9:27 - 3rd",
+       "detail": "7:36 - 3rd",
        "start": "2026-11-15T18:00Z",
        "period": 3,
-       "clock": "9:27",
+       "clock": "7:36",
        "teams": [
         {
          "name": "Kansas City Chiefs",
@@ -1068,10 +1068,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "9:14 - 3rd",
+       "detail": "6:33 - 3rd",
        "start": "2026-11-15T18:00Z",
        "period": 3,
-       "clock": "9:14",
+       "clock": "6:33",
        "teams": [
         {
          "name": "Minnesota Vikings",
@@ -1135,10 +1135,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "9:33 - 3rd",
+       "detail": "8:35 - 3rd",
        "start": "2026-11-15T18:00Z",
        "period": 3,
-       "clock": "9:33",
+       "clock": "8:35",
        "teams": [
         {
          "name": "Houston Texans",
@@ -1157,7 +1157,7 @@
          "name": "Cleveland Browns",
          "short": "Browns",
          "abbr": "CLE",
-         "score": 10,
+         "score": 17,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -1168,7 +1168,7 @@
         }
        ],
        "stat": {
-        "v": 14,
+        "v": 6,
         "name": "KC Concepcion"
        }
       },
@@ -1206,10 +1206,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "9:33 - 3rd",
+       "detail": "8:35 - 3rd",
        "start": "2026-11-15T18:00Z",
        "period": 3,
-       "clock": "9:33",
+       "clock": "8:35",
        "teams": [
         {
          "name": "Houston Texans",
@@ -1228,7 +1228,7 @@
          "name": "Cleveland Browns",
          "short": "Browns",
          "abbr": "CLE",
-         "score": 10,
+         "score": 17,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -1275,10 +1275,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "12:35 - 3rd",
+       "detail": "11:56 - 3rd",
        "start": "2026-11-15T18:00Z",
        "period": 3,
-       "clock": "12:35",
+       "clock": "11:56",
        "teams": [
         {
          "name": "Jacksonville Jaguars",
@@ -1341,10 +1341,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "9:33 - 3rd",
+       "detail": "8:35 - 3rd",
        "start": "2026-11-15T18:00Z",
        "period": 3,
-       "clock": "9:33",
+       "clock": "8:35",
        "teams": [
         {
          "name": "Houston Texans",
@@ -1363,7 +1363,7 @@
          "name": "Cleveland Browns",
          "short": "Browns",
          "abbr": "CLE",
-         "score": 10,
+         "score": 17,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -1407,10 +1407,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "9:33 - 3rd",
+       "detail": "8:35 - 3rd",
        "start": "2026-11-15T18:00Z",
        "period": 3,
-       "clock": "9:33",
+       "clock": "8:35",
        "teams": [
         {
          "name": "Houston Texans",
@@ -1429,7 +1429,7 @@
          "name": "Cleveland Browns",
          "short": "Browns",
          "abbr": "CLE",
-         "score": 10,
+         "score": 17,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -1541,10 +1541,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "12:35 - 3rd",
+       "detail": "11:56 - 3rd",
        "start": "2026-11-15T18:00Z",
        "period": 3,
-       "clock": "12:35",
+       "clock": "11:56",
        "teams": [
         {
          "name": "Jacksonville Jaguars",
@@ -1608,10 +1608,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "10:02 - 3rd",
+       "detail": "9:27 - 3rd",
        "start": "2026-11-15T18:00Z",
        "period": 3,
-       "clock": "10:02",
+       "clock": "9:27",
        "teams": [
         {
          "name": "Buffalo Bills",
@@ -1675,16 +1675,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "1:17 - 2nd",
+       "detail": "0:19 - 2nd",
        "start": "2026-11-15T18:00Z",
        "period": 2,
-       "clock": "1:17",
+       "clock": "0:19",
        "teams": [
         {
          "name": "Boise State Broncos",
          "short": "Broncos",
          "abbr": "BOIS",
-         "score": 72,
+         "score": 75,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -1696,7 +1696,7 @@
          "name": "Nebraska Cornhuskers",
          "short": "Cornhuskers",
          "abbr": "NEB",
-         "score": 97,
+         "score": 102,
          "ha": "home",
          "winner": null,
          "linescores": [
