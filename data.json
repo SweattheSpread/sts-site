@@ -1,40 +1,26 @@
 {
- "updated": "Nov 14, 2026, 11:26 PM PT",
+ "updated": "Nov 14, 2026, 11:29 PM PT",
  "record": {
-  "w": 164,
-  "l": 163,
+  "w": 174,
+  "l": 170,
   "p": 0,
-  "n": 327,
-  "units": 36.57,
-  "risked": 470.25,
-  "roi": 7.78,
+  "n": 344,
+  "units": 42.37,
+  "risked": 493.75,
+  "roi": 8.58,
   "first": "2026-10-12",
-  "last": "2026-11-13"
+  "last": "2026-11-14"
  },
- "pending": 30,
+ "pending": 13,
  "latest": [
   {
-   "n": 788,
-   "date": "2026-11-13",
-   "day": "2026-11-13",
+   "n": 808,
+   "date": "2026-11-14",
+   "day": "2026-11-14",
    "league": "NBA",
    "type": "Player Prop",
-   "matchup": "Atlanta Hawks @ Chicago Bulls",
-   "pick": "Aaron Wiggins OVER 2.5 threes",
-   "odds": 117,
-   "units": 1.0,
-   "result": "L",
-   "pl": -1.0,
-   "ticket": "single"
-  },
-  {
-   "n": 787,
-   "date": "2026-11-13",
-   "day": "2026-11-13",
-   "league": "NBA",
-   "type": "Player Prop",
-   "matchup": "Utah Jazz @ Houston Rockets",
-   "pick": "Alperen Sengun OVER 6.5 assists",
+   "matchup": "Brooklyn Nets @ Memphis Grizzlies",
+   "pick": "Jaylen Wells Over 11.5 points (player prop)",
    "odds": -115,
    "units": 1.0,
    "result": "L",
@@ -42,87 +28,101 @@
    "ticket": "single"
   },
   {
-   "n": 786,
-   "date": "2026-11-13",
-   "day": "2026-11-13",
+   "n": 807,
+   "date": "2026-11-14",
+   "day": "2026-11-14",
    "league": "NBA",
    "type": "Player Prop",
-   "matchup": "Atlanta Hawks @ Chicago Bulls",
-   "pick": "Jalen Johnson UNDER 22.5 points",
-   "odds": -113,
+   "matchup": "Brooklyn Nets @ Memphis Grizzlies",
+   "pick": "Day'Ron Sharpe Over 9.5 points (player prop)",
+   "odds": 120,
    "units": 1.0,
-   "result": "L",
-   "pl": -1.0,
-   "ticket": "single"
-  },
-  {
-   "n": 785,
-   "date": "2026-11-13",
-   "day": "2026-11-13",
-   "league": "NBA",
-   "type": "Player Prop",
-   "matchup": "Golden State Warriors @ San Antonio Spurs",
-   "pick": "Draymond Green OVER 5.5 assists",
-   "odds": -120,
-   "units": 2.0,
-   "result": "L",
-   "pl": -2.0,
-   "ticket": "single"
-  },
-  {
-   "n": 784,
-   "date": "2026-11-13",
-   "day": "2026-11-13",
-   "league": "NBA",
-   "type": "Player Prop",
-   "matchup": "Memphis Grizzlies @ New Orleans Pelicans",
-   "pick": "Isaiah Stewart UNDER 5.5 rebounds",
-   "odds": -136,
-   "units": 2.0,
    "result": "W",
-   "pl": 1.47,
+   "pl": 1.2,
    "ticket": "single"
   },
   {
-   "n": 783,
-   "date": "2026-11-13",
-   "day": "2026-11-13",
-   "league": "NCAAB",
+   "n": 806,
+   "date": "2026-11-14",
+   "day": "2026-11-14",
+   "league": "NCAAF",
    "type": "Over/Under",
-   "matchup": "UIC Flames @ Saint Mary's Gaels",
-   "pick": "Under 150.5 total points",
-   "odds": -105,
-   "units": 1.0,
+   "matchup": "Oregon State Beavers @ Boise State Broncos",
+   "pick": "1st Quarter Total Over 14 (both teams)",
+   "odds": -118,
+   "units": 3.0,
    "result": "W",
-   "pl": 0.95,
+   "pl": 2.54,
    "ticket": "single"
   },
   {
-   "n": 782,
-   "date": "2026-11-13",
-   "day": "2026-11-13",
-   "league": "NCAAB",
+   "n": 805,
+   "date": "2026-11-14",
+   "day": "2026-11-14",
+   "league": "NHL",
    "type": "Spread",
-   "matchup": "Ball State Cardinals @ SMU Mustangs",
-   "pick": "Ball State +23.5",
-   "odds": -115,
-   "units": 1.0,
-   "result": "L",
-   "pl": -1.0,
+   "matchup": "Seattle Kraken @ Carolina Hurricanes",
+   "pick": "Carolina Hurricanes -1.5 (full-game puck line)",
+   "odds": -155,
+   "units": 1.5,
+   "result": "W",
+   "pl": 0.97,
    "ticket": "single"
   },
   {
-   "n": 781,
-   "date": "2026-11-13",
-   "day": "2026-11-13",
+   "n": 804,
+   "date": "2026-11-14",
+   "day": "2026-11-14",
+   "league": "NCAAF",
+   "type": "Over/Under",
+   "matchup": "Cincinnati Bearcats @ Iowa State Cyclones",
+   "pick": "2nd Quarter Total Over 17.5 (both teams) LIVE",
+   "odds": -115,
+   "units": 2.5,
+   "result": "L",
+   "pl": -2.5,
+   "ticket": "single"
+  },
+  {
+   "n": 803,
+   "date": "2026-11-14",
+   "day": "2026-11-14",
+   "league": "NCAAF",
+   "type": "Moneyline",
+   "matchup": "Northwestern Wildcats @ Ohio State Buckeyes",
+   "pick": "Northwestern Wildcats ML LIVE",
+   "odds": 400,
+   "units": 0.5,
+   "result": "L",
+   "pl": -0.5,
+   "ticket": "single"
+  },
+  {
+   "n": 802,
+   "date": "2026-11-14",
+   "day": "2026-11-14",
    "league": "NCAAB",
    "type": "Over/Under",
-   "matchup": "SIU Edwardsville Cougars @ Duke Blue Devils",
-   "pick": "Under 148.5 total points",
+   "matchup": "Brown Bears @ Siena Saints",
+   "pick": "Under 158.5 total points",
    "odds": -110,
    "units": 1.0,
    "result": "W",
    "pl": 0.91,
+   "ticket": "single"
+  },
+  {
+   "n": 801,
+   "date": "2026-11-14",
+   "day": "2026-11-14",
+   "league": "NCAAB",
+   "type": "Over/Under",
+   "matchup": "LSU Tigers @ Gonzaga Bulldogs",
+   "pick": "Under 160.5 total points",
+   "odds": -110,
+   "units": 1.0,
+   "result": "L",
+   "pl": -1.0,
    "ticket": "single"
   }
  ],
@@ -817,1114 +817,7 @@
    }
   }
  ],
- "awaiting": [
-  {
-   "n": 791,
-   "league": "NCAAF",
-   "type": "Spread",
-   "matchup": "Syracuse Orange @ NC State Wolfpack",
-   "pick": "NC State Wolfpack +3.5",
-   "odds": -140,
-   "units": 1.0,
-   "gap": null,
-   "start": "2026-11-14T09:00:00",
-   "timed": true,
-   "ticket": "single",
-   "espn": {
-    "legs": [
-     {
-      "kind": "spread",
-      "side": "NC State Wolfpack",
-      "line": 3.5,
-      "label": "NC State Wolfpack +3.5",
-      "path": "football/college-football",
-      "event": "401858300",
-      "date": "20261114",
-      "snapshot": {
-       "source": "espn",
-       "state": "post",
-       "detail": "Final",
-       "start": "2026-11-14T17:00Z",
-       "period": null,
-       "clock": null,
-       "teams": [
-        {
-         "name": "Syracuse Orange",
-         "short": "Orange",
-         "abbr": "SYR",
-         "score": 34,
-         "ha": "away",
-         "winner": true,
-         "linescores": [
-          0,
-          0,
-          0,
-          0
-         ]
-        },
-        {
-         "name": "NC State Wolfpack",
-         "short": "Wolfpack",
-         "abbr": "NCSU",
-         "score": 31,
-         "ha": "home",
-         "winner": false,
-         "linescores": [
-          0,
-          0,
-          0,
-          0
-         ]
-        }
-       ]
-      },
-      "source": "espn"
-     }
-    ],
-    "sport": "NCAAF",
-    "ticket": "single"
-   }
-  },
-  {
-   "n": 792,
-   "league": "NCAAF",
-   "type": "Spread",
-   "matchup": "Purdue Boilermakers @ Iowa Hawkeyes",
-   "pick": "Iowa Hawkeyes 1st half -10.5",
-   "odds": -102,
-   "units": 3.0,
-   "gap": null,
-   "start": "2026-11-14T16:30:00",
-   "timed": true,
-   "ticket": "single",
-   "espn": {
-    "legs": [
-     {
-      "kind": "spread",
-      "side": "Iowa Hawkeyes",
-      "line": -10.5,
-      "scope": "1H",
-      "label": "Iowa Hawkeyes -10.5",
-      "path": "football/college-football",
-      "event": "401858519",
-      "date": "20261114",
-      "snapshot": {
-       "source": "espn",
-       "state": "post",
-       "detail": "Final",
-       "start": "2026-11-15T00:30Z",
-       "period": null,
-       "clock": null,
-       "teams": [
-        {
-         "name": "Purdue Boilermakers",
-         "short": "Boilermakers",
-         "abbr": "PUR",
-         "score": 7,
-         "ha": "away",
-         "winner": false,
-         "linescores": [
-          0,
-          0,
-          0,
-          0
-         ]
-        },
-        {
-         "name": "Iowa Hawkeyes",
-         "short": "Hawkeyes",
-         "abbr": "IOWA",
-         "score": 28,
-         "ha": "home",
-         "winner": true,
-         "linescores": [
-          0,
-          0,
-          0,
-          0
-         ]
-        }
-       ]
-      },
-      "source": "espn"
-     }
-    ],
-    "sport": "NCAAF",
-    "ticket": "single"
-   }
-  },
-  {
-   "n": 793,
-   "league": "NCAAF",
-   "type": "Spread",
-   "matchup": "North Dakota State Bison @ Hawaii Rainbow Warriors",
-   "pick": "North Dakota State Bison -7",
-   "odds": -107,
-   "units": 2.0,
-   "gap": null,
-   "start": "2026-11-14T20:00:00",
-   "timed": true,
-   "ticket": "single",
-   "espn": {
-    "legs": [
-     {
-      "kind": "spread",
-      "side": "North Dakota State Bison",
-      "line": -7.0,
-      "label": "North Dakota State Bison -7",
-      "path": "football/college-football",
-      "event": "401864537",
-      "date": "20261114",
-      "snapshot": {
-       "source": "espn",
-       "state": "in",
-       "detail": "0:38 - 4th",
-       "start": "2026-11-15T04:00Z",
-       "period": 4,
-       "clock": "0:38",
-       "teams": [
-        {
-         "name": "North Dakota State Bison",
-         "short": "Bison",
-         "abbr": "NDSU",
-         "score": 21,
-         "ha": "away",
-         "winner": null,
-         "linescores": [
-          0,
-          0,
-          0,
-          0
-         ]
-        },
-        {
-         "name": "Hawai'i Rainbow Warriors",
-         "short": "Rainbow Warriors",
-         "abbr": "HAW",
-         "score": 13,
-         "ha": "home",
-         "winner": null,
-         "linescores": [
-          0,
-          0,
-          0,
-          0
-         ]
-        }
-       ]
-      },
-      "source": "espn"
-     }
-    ],
-    "sport": "NCAAF",
-    "ticket": "single"
-   }
-  },
-  {
-   "n": 794,
-   "league": "NCAAF",
-   "type": "Moneyline",
-   "matchup": "Tennessee Volunteers @ Texas A&M Aggies",
-   "pick": "Tennessee Volunteers ML",
-   "odds": -110,
-   "units": 1.0,
-   "gap": null,
-   "start": "2026-11-14T12:00:00",
-   "timed": true,
-   "ticket": "single",
-   "espn": {
-    "legs": [
-     {
-      "kind": "ml",
-      "side": "Tennessee Volunteers",
-      "label": "Tennessee Volunteers ML",
-      "path": "football/college-football",
-      "event": "401856888",
-      "date": "20261114",
-      "snapshot": {
-       "source": "espn",
-       "state": "post",
-       "detail": "Final",
-       "start": "2026-11-14T20:00Z",
-       "period": null,
-       "clock": null,
-       "teams": [
-        {
-         "name": "Tennessee Volunteers",
-         "short": "Volunteers",
-         "abbr": "TENN",
-         "score": 22,
-         "ha": "away",
-         "winner": true,
-         "linescores": [
-          0,
-          0,
-          0,
-          0
-         ]
-        },
-        {
-         "name": "Texas A&M Aggies",
-         "short": "Aggies",
-         "abbr": "TA&M",
-         "score": 7,
-         "ha": "home",
-         "winner": false,
-         "linescores": [
-          0,
-          0,
-          0,
-          0
-         ]
-        }
-       ]
-      },
-      "source": "espn"
-     }
-    ],
-    "sport": "NCAAF",
-    "ticket": "single"
-   }
-  },
-  {
-   "n": 795,
-   "league": "Tennis",
-   "type": "Spread",
-   "matchup": "WTA Finals final: Mirra Andreeva vs Jessica Pegula",
-   "pick": "Mirra Andreeva -3.5 games",
-   "odds": -125,
-   "units": 1.0,
-   "gap": null,
-   "start": "2026-11-14T12:00:00",
-   "timed": true,
-   "ticket": "single",
-   "espn": {
-    "legs": [
-     {
-      "kind": "spread",
-      "side": "Mirra Andreeva",
-      "line": -3.5,
-      "unit": "game",
-      "label": "Mirra Andreeva -3.5 games",
-      "path": "tennis/wta",
-      "event": "382-2026",
-      "comp": "187441",
-      "date": "20261114",
-      "opp": "Jessica Pegula",
-      "snapshot": {
-       "source": "tennis-explorer",
-       "path": "tennis/explorer",
-       "event": "3378355",
-       "state": "post",
-       "detail": "Final \u00b7 2-0 sets",
-       "tennis": [
-        {
-         "name": "Andreeva M.",
-         "winner": true,
-         "sets": [
-          6,
-          6
-         ]
-        },
-        {
-         "name": "Pegula J.",
-         "winner": false,
-         "sets": [
-          3,
-          4
-         ]
-        }
-       ],
-       "tour": "Masters Cup WTA"
-      }
-     }
-    ],
-    "sport": "Tennis",
-    "ticket": "single"
-   }
-  },
-  {
-   "n": 796,
-   "league": "Tennis",
-   "type": "Moneyline",
-   "matchup": "WTA Finals: Linda Noskova vs Elina Svitolina",
-   "pick": "Linda Noskova ML",
-   "odds": -160,
-   "units": 1.0,
-   "gap": null,
-   "start": "2026-11-14T13:30:00",
-   "timed": true,
-   "ticket": "single",
-   "espn": {
-    "legs": [
-     {
-      "kind": "ml",
-      "side": "Linda Noskova",
-      "label": "Linda Noskova ML",
-      "path": "tennis/wta",
-      "event": "382-2026",
-      "comp": "187440",
-      "date": "20261114",
-      "opp": "Elina Svitolina",
-      "snapshot": {
-       "source": "tennis-explorer",
-       "path": "tennis/explorer",
-       "event": "3378469",
-       "state": "post",
-       "detail": "Final \u00b7 2-0 sets",
-       "tennis": [
-        {
-         "name": "Svitolina E.",
-         "winner": true,
-         "sets": [
-          6,
-          6
-         ]
-        },
-        {
-         "name": "Noskova L.",
-         "winner": false,
-         "sets": [
-          2,
-          1
-         ]
-        }
-       ],
-       "tour": "Masters Cup WTA"
-      }
-     }
-    ],
-    "sport": "Tennis",
-    "ticket": "single"
-   }
-  },
-  {
-   "n": 798,
-   "league": "NCAAB",
-   "type": "Over/Under",
-   "matchup": "Marshall Thundering Herd @ Youngstown State Penguins",
-   "pick": "Under 158.5 total points",
-   "odds": -105,
-   "units": 1.0,
-   "gap": null,
-   "start": "2026-11-14T10:00:00",
-   "timed": true,
-   "ticket": "single",
-   "espn": {
-    "legs": [
-     {
-      "kind": "total",
-      "side": null,
-      "ou": "U",
-      "line": 158.5,
-      "label": "U 158.5",
-      "path": "basketball/mens-college-basketball",
-      "event": "401920750",
-      "date": "20261114",
-      "snapshot": {
-       "source": "espn",
-       "state": "post",
-       "detail": "Final",
-       "start": "2026-11-14T18:00Z",
-       "period": null,
-       "clock": null,
-       "teams": [
-        {
-         "name": "Marshall Thundering Herd",
-         "short": "Thundering Herd",
-         "abbr": "MRSH",
-         "score": 71,
-         "ha": "away",
-         "winner": false,
-         "linescores": [
-          0,
-          0
-         ]
-        },
-        {
-         "name": "Youngstown State Penguins",
-         "short": "Penguins",
-         "abbr": "YSU",
-         "score": 74,
-         "ha": "home",
-         "winner": true,
-         "linescores": [
-          0,
-          0
-         ]
-        }
-       ]
-      },
-      "source": "espn"
-     }
-    ],
-    "sport": "NCAAB",
-    "ticket": "single"
-   }
-  },
-  {
-   "n": 799,
-   "league": "NCAAB",
-   "type": "Spread",
-   "matchup": "Stonehill Skyhawks @ Texas Tech Red Raiders",
-   "pick": "Stonehill +39.5",
-   "odds": -115,
-   "units": 1.0,
-   "gap": null,
-   "start": "2026-11-14T11:00:00",
-   "timed": true,
-   "ticket": "single",
-   "espn": {
-    "legs": [
-     {
-      "kind": "spread",
-      "side": "Stonehill",
-      "line": 39.5,
-      "label": "Stonehill +39.5",
-      "path": "basketball/mens-college-basketball",
-      "event": "401919847",
-      "date": "20261114",
-      "snapshot": {
-       "source": "espn",
-       "state": "post",
-       "detail": "Final",
-       "start": "2026-11-14T19:00Z",
-       "period": null,
-       "clock": null,
-       "teams": [
-        {
-         "name": "Stonehill Skyhawks",
-         "short": "Skyhawks",
-         "abbr": "STO",
-         "score": 37,
-         "ha": "away",
-         "winner": false,
-         "linescores": [
-          0,
-          0
-         ]
-        },
-        {
-         "name": "Texas Tech Red Raiders",
-         "short": "Red Raiders",
-         "abbr": "TTU",
-         "score": 88,
-         "ha": "home",
-         "winner": true,
-         "linescores": [
-          0,
-          0
-         ]
-        }
-       ]
-      },
-      "source": "espn"
-     }
-    ],
-    "sport": "NCAAB",
-    "ticket": "single"
-   }
-  },
-  {
-   "n": 800,
-   "league": "NCAAB",
-   "type": "Spread",
-   "matchup": "LSU Tigers @ Gonzaga Bulldogs",
-   "pick": "Gonzaga -5.5",
-   "odds": -105,
-   "units": 1.0,
-   "gap": null,
-   "start": "2026-11-14T12:30:00",
-   "timed": true,
-   "ticket": "single",
-   "espn": {
-    "legs": [
-     {
-      "kind": "spread",
-      "side": "Gonzaga",
-      "line": -5.5,
-      "label": "Gonzaga -5.5",
-      "path": "basketball/mens-college-basketball",
-      "event": "401921689",
-      "date": "20261114",
-      "snapshot": {
-       "source": "espn",
-       "state": "post",
-       "detail": "Final",
-       "start": "2026-11-14T20:30Z",
-       "period": null,
-       "clock": null,
-       "teams": [
-        {
-         "name": "LSU Tigers",
-         "short": "Tigers",
-         "abbr": "LSU",
-         "score": 81,
-         "ha": "away",
-         "winner": true,
-         "linescores": [
-          0,
-          0
-         ]
-        },
-        {
-         "name": "Gonzaga Bulldogs",
-         "short": "Bulldogs",
-         "abbr": "GONZ",
-         "score": 80,
-         "ha": "home",
-         "winner": false,
-         "linescores": [
-          0,
-          0
-         ]
-        }
-       ]
-      },
-      "source": "espn"
-     }
-    ],
-    "sport": "NCAAB",
-    "ticket": "single"
-   }
-  },
-  {
-   "n": 801,
-   "league": "NCAAB",
-   "type": "Over/Under",
-   "matchup": "LSU Tigers @ Gonzaga Bulldogs",
-   "pick": "Under 160.5 total points",
-   "odds": -110,
-   "units": 1.0,
-   "gap": null,
-   "start": "2026-11-14T12:30:00",
-   "timed": true,
-   "ticket": "single",
-   "espn": {
-    "legs": [
-     {
-      "kind": "total",
-      "side": null,
-      "ou": "U",
-      "line": 160.5,
-      "label": "U 160.5",
-      "path": "basketball/mens-college-basketball",
-      "event": "401921689",
-      "date": "20261114",
-      "snapshot": {
-       "source": "espn",
-       "state": "post",
-       "detail": "Final",
-       "start": "2026-11-14T20:30Z",
-       "period": null,
-       "clock": null,
-       "teams": [
-        {
-         "name": "LSU Tigers",
-         "short": "Tigers",
-         "abbr": "LSU",
-         "score": 81,
-         "ha": "away",
-         "winner": true,
-         "linescores": [
-          0,
-          0
-         ]
-        },
-        {
-         "name": "Gonzaga Bulldogs",
-         "short": "Bulldogs",
-         "abbr": "GONZ",
-         "score": 80,
-         "ha": "home",
-         "winner": false,
-         "linescores": [
-          0,
-          0
-         ]
-        }
-       ]
-      },
-      "source": "espn"
-     }
-    ],
-    "sport": "NCAAB",
-    "ticket": "single"
-   }
-  },
-  {
-   "n": 802,
-   "league": "NCAAB",
-   "type": "Over/Under",
-   "matchup": "Brown Bears @ Siena Saints",
-   "pick": "Under 158.5 total points",
-   "odds": -110,
-   "units": 1.0,
-   "gap": null,
-   "start": "2026-11-14T16:00:00",
-   "timed": true,
-   "ticket": "single",
-   "espn": {
-    "legs": [
-     {
-      "kind": "total",
-      "side": null,
-      "ou": "U",
-      "line": 158.5,
-      "label": "U 158.5",
-      "path": "basketball/mens-college-basketball",
-      "event": "401911308",
-      "date": "20261114",
-      "snapshot": {
-       "source": "espn",
-       "state": "post",
-       "detail": "Final",
-       "start": "2026-11-15T00:00Z",
-       "period": null,
-       "clock": null,
-       "teams": [
-        {
-         "name": "Brown Bears",
-         "short": "Bears",
-         "abbr": "BRWN",
-         "score": 74,
-         "ha": "away",
-         "winner": false,
-         "linescores": [
-          0,
-          0
-         ]
-        },
-        {
-         "name": "Siena Saints",
-         "short": "Saints",
-         "abbr": "SIE",
-         "score": 79,
-         "ha": "home",
-         "winner": true,
-         "linescores": [
-          0,
-          0
-         ]
-        }
-       ]
-      },
-      "source": "espn"
-     }
-    ],
-    "sport": "NCAAB",
-    "ticket": "single"
-   }
-  },
-  {
-   "n": 803,
-   "league": "NCAAF",
-   "type": "Moneyline",
-   "matchup": "Northwestern Wildcats @ Ohio State Buckeyes",
-   "pick": "Northwestern Wildcats ML LIVE",
-   "odds": 400,
-   "units": 0.5,
-   "gap": null,
-   "start": "2026-11-14T09:10:00",
-   "timed": true,
-   "ticket": "single",
-   "espn": {
-    "legs": [
-     {
-      "kind": "ml",
-      "side": "Northwestern Wildcats",
-      "label": "Northwestern Wildcats ML",
-      "path": "football/college-football",
-      "event": "401858522",
-      "date": "20261114",
-      "snapshot": {
-       "source": "espn",
-       "state": "post",
-       "detail": "Final",
-       "start": "2026-11-14T17:00Z",
-       "period": null,
-       "clock": null,
-       "teams": [
-        {
-         "name": "Northwestern Wildcats",
-         "short": "Wildcats",
-         "abbr": "NU",
-         "score": 19,
-         "ha": "away",
-         "winner": false,
-         "linescores": [
-          0,
-          0,
-          0,
-          0
-         ]
-        },
-        {
-         "name": "Ohio State Buckeyes",
-         "short": "Buckeyes",
-         "abbr": "OSU",
-         "score": 28,
-         "ha": "home",
-         "winner": true,
-         "linescores": [
-          0,
-          0,
-          0,
-          0
-         ]
-        }
-       ]
-      },
-      "source": "espn"
-     }
-    ],
-    "sport": "NCAAF",
-    "ticket": "single"
-   }
-  },
-  {
-   "n": 804,
-   "league": "NCAAF",
-   "type": "Over/Under",
-   "matchup": "Cincinnati Bearcats @ Iowa State Cyclones",
-   "pick": "2nd Quarter Total Over 17.5 (both teams) LIVE",
-   "odds": -115,
-   "units": 2.5,
-   "gap": null,
-   "start": "2026-11-14T09:00:00",
-   "timed": true,
-   "ticket": "single",
-   "espn": {
-    "legs": [
-     {
-      "kind": "total",
-      "side": "2nd Quarter Total",
-      "ou": "O",
-      "line": 17.5,
-      "label": "2nd Quarter Total O 17.5",
-      "path": "football/college-football",
-      "event": "401856859",
-      "date": "20261114",
-      "snapshot": {
-       "source": "espn",
-       "state": "post",
-       "detail": "Final",
-       "start": "2026-11-14T17:00Z",
-       "period": null,
-       "clock": null,
-       "teams": [
-        {
-         "name": "Cincinnati Bearcats",
-         "short": "Bearcats",
-         "abbr": "CIN",
-         "score": 13,
-         "ha": "away",
-         "winner": false,
-         "linescores": [
-          0,
-          0,
-          0,
-          0
-         ]
-        },
-        {
-         "name": "Iowa State Cyclones",
-         "short": "Cyclones",
-         "abbr": "ISU",
-         "score": 41,
-         "ha": "home",
-         "winner": true,
-         "linescores": [
-          0,
-          0,
-          0,
-          0
-         ]
-        }
-       ]
-      },
-      "source": "espn"
-     }
-    ],
-    "sport": "NCAAF",
-    "ticket": "single"
-   }
-  },
-  {
-   "n": 805,
-   "league": "NHL",
-   "type": "Spread",
-   "matchup": "Seattle Kraken @ Carolina Hurricanes",
-   "pick": "Carolina Hurricanes -1.5 (full-game puck line)",
-   "odds": -155,
-   "units": 1.5,
-   "gap": null,
-   "start": "2026-11-14T10:00:00",
-   "timed": true,
-   "ticket": "single",
-   "espn": {
-    "legs": [
-     {
-      "kind": "spread",
-      "side": "Carolina Hurricanes",
-      "line": -1.5,
-      "label": "Carolina Hurricanes -1.5",
-      "path": "hockey/nhl",
-      "event": "401891809",
-      "date": "20261114",
-      "snapshot": {
-       "source": "nhl",
-       "state": "post",
-       "detail": "Final",
-       "start": "2026-11-14T18:00:00Z",
-       "period": 3,
-       "clock": "00:00",
-       "teams": [
-        {
-         "name": "Kraken",
-         "short": "SEA",
-         "abbr": "SEA",
-         "score": 1,
-         "ha": "away",
-         "winner": false,
-         "linescores": []
-        },
-        {
-         "name": "Hurricanes",
-         "short": "CAR",
-         "abbr": "CAR",
-         "score": 5,
-         "ha": "home",
-         "winner": true,
-         "linescores": []
-        }
-       ],
-       "nhl_id": 2026020321
-      },
-      "source": "nhl"
-     }
-    ],
-    "sport": "NHL",
-    "ticket": "single"
-   }
-  },
-  {
-   "n": 806,
-   "league": "NCAAF",
-   "type": "Over/Under",
-   "matchup": "Oregon State Beavers @ Boise State Broncos",
-   "pick": "1st Quarter Total Over 14 (both teams)",
-   "odds": -118,
-   "units": 3.0,
-   "gap": null,
-   "start": "2026-11-14T15:00:00",
-   "timed": true,
-   "ticket": "single",
-   "espn": {
-    "legs": [
-     {
-      "kind": "total",
-      "side": "1st Quarter Total",
-      "ou": "O",
-      "line": 14.0,
-      "label": "1st Quarter Total O 14.0",
-      "path": "football/college-football",
-      "event": "401870796",
-      "date": "20261114",
-      "snapshot": {
-       "source": "espn",
-       "state": "post",
-       "detail": "Final/OT",
-       "start": "2026-11-14T20:00Z",
-       "period": null,
-       "clock": null,
-       "teams": [
-        {
-         "name": "New Mexico State Aggies",
-         "short": "Aggies",
-         "abbr": "NMSU",
-         "score": 21,
-         "ha": "away",
-         "winner": false,
-         "linescores": [
-          0,
-          0,
-          0,
-          0,
-          0
-         ]
-        },
-        {
-         "name": "Missouri State Bears",
-         "short": "Bears",
-         "abbr": "MOST",
-         "score": 27,
-         "ha": "home",
-         "winner": true,
-         "linescores": [
-          0,
-          0,
-          0,
-          0,
-          0
-         ]
-        }
-       ]
-      },
-      "source": "espn"
-     }
-    ],
-    "sport": "NCAAF",
-    "ticket": "single"
-   }
-  },
-  {
-   "n": 807,
-   "league": "NBA",
-   "type": "Player Prop",
-   "matchup": "Brooklyn Nets @ Memphis Grizzlies",
-   "pick": "Day'Ron Sharpe Over 9.5 points (player prop)",
-   "odds": 120,
-   "units": 1.0,
-   "gap": null,
-   "start": "2026-11-14T17:10:00",
-   "timed": true,
-   "ticket": "single",
-   "espn": {
-    "legs": [
-     {
-      "kind": "prop",
-      "player": "Day'Ron Sharpe",
-      "ou": "O",
-      "line": 9.5,
-      "stat": "points",
-      "label": "Day'Ron Sharpe O 9.5 points",
-      "path": "basketball/nba",
-      "event": "401909983",
-      "date": "20261114",
-      "snapshot": {
-       "source": "espn",
-       "state": "post",
-       "detail": "Final",
-       "start": "2026-11-15T01:00Z",
-       "period": null,
-       "clock": null,
-       "teams": [
-        {
-         "name": "Brooklyn Nets",
-         "short": "Nets",
-         "abbr": "BKN",
-         "score": 110,
-         "ha": "away",
-         "winner": false,
-         "linescores": [
-          0,
-          0,
-          0,
-          0
-         ]
-        },
-        {
-         "name": "Memphis Grizzlies",
-         "short": "Grizzlies",
-         "abbr": "MEM",
-         "score": 129,
-         "ha": "home",
-         "winner": true,
-         "linescores": [
-          0,
-          0,
-          0,
-          0
-         ]
-        }
-       ],
-       "stat": {
-        "v": 16,
-        "name": "Day'Ron Sharpe"
-       }
-      },
-      "source": "espn"
-     }
-    ],
-    "sport": "NBA",
-    "ticket": "single"
-   }
-  },
-  {
-   "n": 808,
-   "league": "NBA",
-   "type": "Player Prop",
-   "matchup": "Brooklyn Nets @ Memphis Grizzlies",
-   "pick": "Jaylen Wells Over 11.5 points (player prop)",
-   "odds": -115,
-   "units": 1.0,
-   "gap": null,
-   "start": "2026-11-14T17:10:00",
-   "timed": true,
-   "ticket": "single",
-   "espn": {
-    "legs": [
-     {
-      "kind": "prop",
-      "player": "Jaylen Wells",
-      "ou": "O",
-      "line": 11.5,
-      "stat": "points",
-      "label": "Jaylen Wells O 11.5 points",
-      "path": "basketball/nba",
-      "event": "401909983",
-      "date": "20261114",
-      "snapshot": {
-       "source": "espn",
-       "state": "post",
-       "detail": "Final",
-       "start": "2026-11-15T01:00Z",
-       "period": null,
-       "clock": null,
-       "teams": [
-        {
-         "name": "Brooklyn Nets",
-         "short": "Nets",
-         "abbr": "BKN",
-         "score": 110,
-         "ha": "away",
-         "winner": false,
-         "linescores": [
-          0,
-          0,
-          0,
-          0
-         ]
-        },
-        {
-         "name": "Memphis Grizzlies",
-         "short": "Grizzlies",
-         "abbr": "MEM",
-         "score": 129,
-         "ha": "home",
-         "winner": true,
-         "linescores": [
-          0,
-          0,
-          0,
-          0
-         ]
-        }
-       ],
-       "stat": {
-        "v": 5,
-        "name": "Jaylen Wells"
-       }
-      },
-      "source": "espn"
-     }
-    ],
-    "sport": "NBA",
-    "ticket": "single"
-   }
-  }
- ],
+ "awaiting": [],
  "daily": {
   "2026-10-12": {
    "u": 5.67,
@@ -2053,6 +946,10 @@
   "2026-11-13": {
    "u": -1.81,
    "n": 11
+  },
+  "2026-11-14": {
+   "u": 5.8,
+   "n": 17
   }
  }
 }
