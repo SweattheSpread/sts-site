@@ -1,5 +1,5 @@
 {
- "updated": "Nov 15, 2026, 11:20 AM PT",
+ "updated": "Nov 15, 2026, 11:22 AM PT",
  "record": {
   "w": 174,
   "l": 170,
@@ -674,10 +674,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "2:00 - 2nd",
+       "detail": "1:43 - 2nd",
        "start": "2026-11-15T18:00Z",
        "period": 2,
-       "clock": "2:00",
+       "clock": "1:43",
        "teams": [
         {
          "name": "Buffalo Bills",
@@ -804,10 +804,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "1:02 - 2nd",
+       "detail": "0:45 - 2nd",
        "start": "2026-11-15T18:00Z",
        "period": 2,
-       "clock": "1:02",
+       "clock": "0:45",
        "teams": [
         {
          "name": "Carolina Panthers",
@@ -867,10 +867,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "0:44 - 2nd",
+       "detail": "0:39 - 2nd",
        "start": "2026-11-15T18:00Z",
        "period": 2,
-       "clock": "0:44",
+       "clock": "0:39",
        "teams": [
         {
          "name": "Miami Dolphins",
@@ -888,7 +888,7 @@
          "name": "Indianapolis Colts",
          "short": "Colts",
          "abbr": "IND",
-         "score": 7,
+         "score": 14,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -931,10 +931,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "0:32 - 2nd",
+       "detail": "0:16 - 2nd",
        "start": "2026-11-15T18:00Z",
        "period": 2,
-       "clock": "0:32",
+       "clock": "0:16",
        "teams": [
         {
          "name": "Houston Texans",
@@ -995,10 +995,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "0:34 - 2nd",
+       "detail": "0:28 - 2nd",
        "start": "2026-11-15T18:00Z",
        "period": 2,
-       "clock": "0:34",
+       "clock": "0:28",
        "teams": [
         {
          "name": "Kansas City Chiefs",
@@ -1058,10 +1058,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "3:07 - 2nd",
+       "detail": "1:56 - 2nd",
        "start": "2026-11-15T18:00Z",
        "period": 2,
-       "clock": "3:07",
+       "clock": "1:56",
        "teams": [
         {
          "name": "Minnesota Vikings",
@@ -1123,10 +1123,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "0:32 - 2nd",
+       "detail": "0:16 - 2nd",
        "start": "2026-11-15T18:00Z",
        "period": 2,
-       "clock": "0:32",
+       "clock": "0:16",
        "teams": [
         {
          "name": "Houston Texans",
@@ -1192,10 +1192,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "0:32 - 2nd",
+       "detail": "0:16 - 2nd",
        "start": "2026-11-15T18:00Z",
        "period": 2,
-       "clock": "0:32",
+       "clock": "0:16",
        "teams": [
         {
          "name": "Houston Texans",
@@ -1259,10 +1259,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "1:23 - 2nd",
+       "detail": "1:09 - 2nd",
        "start": "2026-11-15T18:00Z",
        "period": 2,
-       "clock": "1:23",
+       "clock": "1:09",
        "teams": [
         {
          "name": "Jacksonville Jaguars",
@@ -1323,10 +1323,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "0:32 - 2nd",
+       "detail": "0:16 - 2nd",
        "start": "2026-11-15T18:00Z",
        "period": 2,
-       "clock": "0:32",
+       "clock": "0:16",
        "teams": [
         {
          "name": "Houston Texans",
@@ -1387,10 +1387,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "0:32 - 2nd",
+       "detail": "0:16 - 2nd",
        "start": "2026-11-15T18:00Z",
        "period": 2,
-       "clock": "0:32",
+       "clock": "0:16",
        "teams": [
         {
          "name": "Houston Texans",
@@ -1519,10 +1519,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "1:23 - 2nd",
+       "detail": "1:09 - 2nd",
        "start": "2026-11-15T18:00Z",
        "period": 2,
-       "clock": "1:23",
+       "clock": "1:09",
        "teams": [
         {
          "name": "Jacksonville Jaguars",
@@ -1584,10 +1584,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "2:00 - 2nd",
+       "detail": "1:43 - 2nd",
        "start": "2026-11-15T18:00Z",
        "period": 2,
-       "clock": "2:00",
+       "clock": "1:43",
        "teams": [
         {
          "name": "Buffalo Bills",
@@ -1649,16 +1649,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "12:48 - 2nd",
+       "detail": "11:46 - 2nd",
        "start": "2026-11-15T18:00Z",
        "period": 2,
-       "clock": "12:48",
+       "clock": "11:46",
        "teams": [
         {
          "name": "Boise State Broncos",
          "short": "Broncos",
          "abbr": "BOIS",
-         "score": 49,
+         "score": 51,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -1670,7 +1670,7 @@
          "name": "Nebraska Cornhuskers",
          "short": "Cornhuskers",
          "abbr": "NEB",
-         "score": 72,
+         "score": 75,
          "ha": "home",
          "winner": null,
          "linescores": [
