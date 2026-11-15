@@ -1,5 +1,5 @@
 {
- "updated": "Nov 15, 2026, 2:21 PM PT",
+ "updated": "Nov 15, 2026, 2:24 PM PT",
  "record": {
   "w": 174,
   "l": 170,
@@ -723,16 +723,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "1:09 - 2nd",
+       "detail": "1:06 - 2nd",
        "start": "2026-11-15T21:05Z",
        "period": 2,
-       "clock": "1:09",
+       "clock": "1:06",
        "teams": [
         {
          "name": "Los Angeles Rams",
          "short": "Rams",
          "abbr": "LAR",
-         "score": 3,
+         "score": 10,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -1795,16 +1795,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "1:09 - 2nd",
+       "detail": "1:06 - 2nd",
        "start": "2026-11-15T21:05Z",
        "period": 2,
-       "clock": "1:09",
+       "clock": "1:06",
        "teams": [
         {
          "name": "Los Angeles Rams",
          "short": "Rams",
          "abbr": "LAR",
-         "score": 3,
+         "score": 10,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -1932,10 +1932,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "6:54 - 2nd",
+       "detail": "6:49 - 2nd",
        "start": "2026-11-15T21:25Z",
        "period": 2,
-       "clock": "6:54",
+       "clock": "6:49",
        "teams": [
         {
          "name": "San Francisco 49ers",
