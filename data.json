@@ -1,5 +1,5 @@
 {
- "updated": "Nov 14, 2026, 9:37 PM PT",
+ "updated": "Nov 14, 2026, 10:10 PM PT",
  "record": {
   "w": 164,
   "l": 163,
@@ -978,10 +978,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "Halftime",
+       "detail": "8:07 - 3rd",
        "start": "2026-11-15T04:00Z",
-       "period": 2,
-       "clock": "0:00",
+       "period": 3,
+       "clock": "8:07",
        "teams": [
         {
          "name": "North Dakota State Bison",
@@ -991,6 +991,7 @@
          "ha": "away",
          "winner": null,
          "linescores": [
+          0,
           0,
           0
          ]
@@ -1003,6 +1004,7 @@
          "ha": "home",
          "winner": null,
          "linescores": [
+          0,
           0,
           0
          ]
