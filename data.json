@@ -1,5 +1,5 @@
 {
- "updated": "Nov 14, 2026, 10:10 PM PT",
+ "updated": "Nov 14, 2026, 10:12 PM PT",
  "record": {
   "w": 164,
   "l": 163,
@@ -978,10 +978,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "8:07 - 3rd",
+       "detail": "7:54 - 3rd",
        "start": "2026-11-15T04:00Z",
        "period": 3,
-       "clock": "8:07",
+       "clock": "7:54",
        "teams": [
         {
          "name": "North Dakota State Bison",
@@ -1000,7 +1000,7 @@
          "name": "Hawai'i Rainbow Warriors",
          "short": "Rainbow Warriors",
          "abbr": "HAW",
-         "score": 7,
+         "score": 10,
          "ha": "home",
          "winner": null,
          "linescores": [
