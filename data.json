@@ -1,5 +1,5 @@
 {
- "updated": "Nov 15, 2026, 7:15 AM PT",
+ "updated": "Nov 15, 2026, 7:17 AM PT",
  "record": {
   "w": 174,
   "l": 170,
@@ -11,7 +11,7 @@
   "first": "2026-10-12",
   "last": "2026-11-14"
  },
- "pending": 15,
+ "pending": 16,
  "latest": [
   {
    "n": 808,
@@ -902,10 +902,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "13:39 - 2nd",
+       "detail": "12:57 - 2nd",
        "start": "2026-11-15T14:30Z",
        "period": 2,
-       "clock": "13:39",
+       "clock": "12:57",
        "teams": [
         {
          "name": "New England Patriots",
@@ -923,7 +923,71 @@
          "name": "Detroit Lions",
          "short": "Lions",
          "abbr": "DET",
-         "score": 7,
+         "score": 14,
+         "ha": "home",
+         "winner": null,
+         "linescores": [
+          0,
+          0
+         ]
+        }
+       ]
+      },
+      "source": "espn"
+     }
+    ],
+    "sport": "NFL",
+    "ticket": "single"
+   }
+  },
+  {
+   "n": 812,
+   "league": "NFL",
+   "type": "Team Total",
+   "matchup": "New England Patriots @ Detroit Lions",
+   "pick": "Lions TT Over 30.5 (vs Patriots) LIVE",
+   "odds": -110,
+   "units": 7.0,
+   "gap": null,
+   "start": "2026-11-15T06:30:00",
+   "timed": true,
+   "ticket": "single",
+   "espn": {
+    "legs": [
+     {
+      "kind": "team_total",
+      "side": "Lions TT",
+      "ou": "O",
+      "line": 30.5,
+      "label": "Lions TT O 30.5",
+      "path": "football/nfl",
+      "event": "401873053",
+      "date": "20261115",
+      "snapshot": {
+       "source": "espn",
+       "state": "in",
+       "detail": "12:57 - 2nd",
+       "start": "2026-11-15T14:30Z",
+       "period": 2,
+       "clock": "12:57",
+       "teams": [
+        {
+         "name": "New England Patriots",
+         "short": "Patriots",
+         "abbr": "NE",
+         "score": 3,
+         "ha": "away",
+         "winner": null,
+         "linescores": [
+          0,
+          0
+         ]
+        },
+        {
+         "name": "Detroit Lions",
+         "short": "Lions",
+         "abbr": "DET",
+         "score": 14,
          "ha": "home",
          "winner": null,
          "linescores": [
