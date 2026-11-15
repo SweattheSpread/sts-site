@@ -1,5 +1,5 @@
 {
- "updated": "Nov 14, 2026, 7:23 PM PT",
+ "updated": "Nov 14, 2026, 7:27 PM PT",
  "record": {
   "w": 164,
   "l": 163,
@@ -968,10 +968,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "5:14 - 4th",
+       "detail": "4:23 - 4th",
        "start": "2026-11-15T00:30Z",
        "period": 4,
-       "clock": "5:14",
+       "clock": "4:23",
        "teams": [
         {
          "name": "Purdue Boilermakers",
@@ -1795,10 +1795,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "2:55 - 4th",
+       "detail": "1:27 - 4th",
        "start": "2026-11-15T01:00Z",
        "period": 4,
-       "clock": "2:55",
+       "clock": "1:27",
        "teams": [
         {
          "name": "Brooklyn Nets",
@@ -1818,7 +1818,7 @@
          "name": "Memphis Grizzlies",
          "short": "Grizzlies",
          "abbr": "MEM",
-         "score": 124,
+         "score": 127,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -1868,10 +1868,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "2:55 - 4th",
+       "detail": "1:27 - 4th",
        "start": "2026-11-15T01:00Z",
        "period": 4,
-       "clock": "2:55",
+       "clock": "1:27",
        "teams": [
         {
          "name": "Brooklyn Nets",
@@ -1891,7 +1891,7 @@
          "name": "Memphis Grizzlies",
          "short": "Grizzlies",
          "abbr": "MEM",
-         "score": 124,
+         "score": 127,
          "ha": "home",
          "winner": null,
          "linescores": [
