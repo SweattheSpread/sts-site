@@ -1,5 +1,5 @@
 {
- "updated": "Nov 15, 2026, 11:22 AM PT",
+ "updated": "Nov 15, 2026, 11:24 AM PT",
  "record": {
   "w": 174,
   "l": 170,
@@ -674,10 +674,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "1:43 - 2nd",
+       "detail": "0:35 - 2nd",
        "start": "2026-11-15T18:00Z",
        "period": 2,
-       "clock": "1:43",
+       "clock": "0:35",
        "teams": [
         {
          "name": "Buffalo Bills",
@@ -804,10 +804,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "0:45 - 2nd",
+       "detail": "Halftime",
        "start": "2026-11-15T18:00Z",
        "period": 2,
-       "clock": "0:45",
+       "clock": "0:00",
        "teams": [
         {
          "name": "Carolina Panthers",
@@ -931,10 +931,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "0:16 - 2nd",
+       "detail": "0:11 - 2nd",
        "start": "2026-11-15T18:00Z",
        "period": 2,
-       "clock": "0:16",
+       "clock": "0:11",
        "teams": [
         {
          "name": "Houston Texans",
@@ -995,16 +995,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "0:28 - 2nd",
+       "detail": "0:18 - 2nd",
        "start": "2026-11-15T18:00Z",
        "period": 2,
-       "clock": "0:28",
+       "clock": "0:18",
        "teams": [
         {
          "name": "Kansas City Chiefs",
          "short": "Chiefs",
          "abbr": "KC",
-         "score": 7,
+         "score": 14,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -1123,10 +1123,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "0:16 - 2nd",
+       "detail": "0:11 - 2nd",
        "start": "2026-11-15T18:00Z",
        "period": 2,
-       "clock": "0:16",
+       "clock": "0:11",
        "teams": [
         {
          "name": "Houston Texans",
@@ -1192,10 +1192,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "0:16 - 2nd",
+       "detail": "0:11 - 2nd",
        "start": "2026-11-15T18:00Z",
        "period": 2,
-       "clock": "0:16",
+       "clock": "0:11",
        "teams": [
         {
          "name": "Houston Texans",
@@ -1259,10 +1259,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "1:09 - 2nd",
+       "detail": "1:16 - 2nd",
        "start": "2026-11-15T18:00Z",
        "period": 2,
-       "clock": "1:09",
+       "clock": "1:16",
        "teams": [
         {
          "name": "Jacksonville Jaguars",
@@ -1323,10 +1323,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "0:16 - 2nd",
+       "detail": "0:11 - 2nd",
        "start": "2026-11-15T18:00Z",
        "period": 2,
-       "clock": "0:16",
+       "clock": "0:11",
        "teams": [
         {
          "name": "Houston Texans",
@@ -1387,10 +1387,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "0:16 - 2nd",
+       "detail": "0:11 - 2nd",
        "start": "2026-11-15T18:00Z",
        "period": 2,
-       "clock": "0:16",
+       "clock": "0:11",
        "teams": [
         {
          "name": "Houston Texans",
@@ -1519,10 +1519,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "1:09 - 2nd",
+       "detail": "1:16 - 2nd",
        "start": "2026-11-15T18:00Z",
        "period": 2,
-       "clock": "1:09",
+       "clock": "1:16",
        "teams": [
         {
          "name": "Jacksonville Jaguars",
@@ -1584,10 +1584,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "1:43 - 2nd",
+       "detail": "0:35 - 2nd",
        "start": "2026-11-15T18:00Z",
        "period": 2,
-       "clock": "1:43",
+       "clock": "0:35",
        "teams": [
         {
          "name": "Buffalo Bills",
@@ -1658,7 +1658,7 @@
          "name": "Boise State Broncos",
          "short": "Broncos",
          "abbr": "BOIS",
-         "score": 51,
+         "score": 52,
          "ha": "away",
          "winner": null,
          "linescores": [
