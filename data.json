@@ -1,5 +1,5 @@
 {
- "updated": "Nov 14, 2026, 7:27 PM PT",
+ "updated": "Nov 14, 2026, 7:39 PM PT",
  "record": {
   "w": 164,
   "l": 163,
@@ -968,10 +968,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "4:23 - 4th",
+       "detail": "1:12 - 4th",
        "start": "2026-11-15T00:30Z",
        "period": 4,
-       "clock": "4:23",
+       "clock": "1:12",
        "teams": [
         {
          "name": "Purdue Boilermakers",
@@ -1794,19 +1794,19 @@
       "date": "20261114",
       "snapshot": {
        "source": "espn",
-       "state": "in",
-       "detail": "1:27 - 4th",
+       "state": "post",
+       "detail": "Final",
        "start": "2026-11-15T01:00Z",
-       "period": 4,
-       "clock": "1:27",
+       "period": null,
+       "clock": null,
        "teams": [
         {
          "name": "Brooklyn Nets",
          "short": "Nets",
          "abbr": "BKN",
-         "score": 108,
+         "score": 110,
          "ha": "away",
-         "winner": null,
+         "winner": false,
          "linescores": [
           0,
           0,
@@ -1818,9 +1818,9 @@
          "name": "Memphis Grizzlies",
          "short": "Grizzlies",
          "abbr": "MEM",
-         "score": 127,
+         "score": 129,
          "ha": "home",
-         "winner": null,
+         "winner": true,
          "linescores": [
           0,
           0,
@@ -1867,19 +1867,19 @@
       "date": "20261114",
       "snapshot": {
        "source": "espn",
-       "state": "in",
-       "detail": "1:27 - 4th",
+       "state": "post",
+       "detail": "Final",
        "start": "2026-11-15T01:00Z",
-       "period": 4,
-       "clock": "1:27",
+       "period": null,
+       "clock": null,
        "teams": [
         {
          "name": "Brooklyn Nets",
          "short": "Nets",
          "abbr": "BKN",
-         "score": 108,
+         "score": 110,
          "ha": "away",
-         "winner": null,
+         "winner": false,
          "linescores": [
           0,
           0,
@@ -1891,9 +1891,9 @@
          "name": "Memphis Grizzlies",
          "short": "Grizzlies",
          "abbr": "MEM",
-         "score": 127,
+         "score": 129,
          "ha": "home",
-         "winner": null,
+         "winner": true,
          "linescores": [
           0,
           0,
