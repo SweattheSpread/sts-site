@@ -1,5 +1,5 @@
 {
- "updated": "Nov 15, 2026, 3:08 PM PT",
+ "updated": "Nov 15, 2026, 3:10 PM PT",
  "record": {
   "w": 174,
   "l": 170,
@@ -127,36 +127,6 @@
   }
  ],
  "picks": [
-  {
-   "n": 825,
-   "league": "NBA",
-   "type": "Player Prop",
-   "matchup": "Dallas Mavericks @ Boston Celtics",
-   "pick": "P.J. Washington Under 1.5 made threes (player prop)",
-   "odds": 140,
-   "units": 1.0,
-   "gap": null,
-   "start": "2026-11-15T15:10:00",
-   "timed": true,
-   "ticket": "single",
-   "espn": {
-    "legs": [
-     {
-      "kind": "prop",
-      "player": "P.J. Washington",
-      "ou": "U",
-      "line": 1.5,
-      "stat": "made threes",
-      "label": "P.J. Washington U 1.5 made threes",
-      "date": "20261115",
-      "unverified": true,
-      "reason": "Player not found in this game"
-     }
-    ],
-    "sport": "NBA",
-    "ticket": "single"
-   }
-  },
   {
    "n": 816,
    "league": "NHL",
@@ -665,10 +635,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "5:55 - 3rd",
+       "detail": "5:17 - 3rd",
        "start": "2026-11-15T21:05Z",
        "period": 3,
-       "clock": "5:55",
+       "clock": "5:17",
        "teams": [
         {
          "name": "Los Angeles Rams",
@@ -1485,10 +1455,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "3:19 - 3rd",
+       "detail": "0:33 - 3rd",
        "start": "2026-11-15T21:05Z",
        "period": 3,
-       "clock": "3:19",
+       "clock": "0:33",
        "teams": [
         {
          "name": "Seattle Seahawks",
@@ -1740,10 +1710,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "5:29 - 1st",
+       "detail": "4:52 - 1st",
        "start": "2026-11-15T22:30Z",
        "period": 1,
-       "clock": "5:29",
+       "clock": "4:52",
        "teams": [
         {
          "name": "Canisius Golden Griffins",
@@ -1760,7 +1730,7 @@
          "name": "Buffalo Bulls",
          "short": "Bulls",
          "abbr": "BUF",
-         "score": 32,
+         "score": 37,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -1803,10 +1773,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "5:55 - 3rd",
+       "detail": "5:17 - 3rd",
        "start": "2026-11-15T21:05Z",
        "period": 3,
-       "clock": "5:55",
+       "clock": "5:17",
        "teams": [
         {
          "name": "Los Angeles Rams",
@@ -1942,10 +1912,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "Halftime",
+       "detail": "14:51 - 3rd",
        "start": "2026-11-15T21:25Z",
-       "period": 2,
-       "clock": "0:00",
+       "period": 3,
+       "clock": "14:51",
        "teams": [
         {
          "name": "San Francisco 49ers",
@@ -1955,6 +1925,7 @@
          "ha": "away",
          "winner": null,
          "linescores": [
+          0,
           0,
           0
          ]
@@ -1968,6 +1939,7 @@
          "winner": null,
          "linescores": [
           0,
+          0,
           0
          ]
         }
@@ -1978,6 +1950,63 @@
      }
     ],
     "sport": "NFL",
+    "ticket": "single"
+   }
+  },
+  {
+   "n": 825,
+   "league": "NBA",
+   "type": "Player Prop",
+   "matchup": "Dallas Mavericks @ Boston Celtics",
+   "pick": "P.J. Washington Under 1.5 made threes (player prop)",
+   "odds": 140,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-15T15:10:00",
+   "timed": true,
+   "ticket": "single",
+   "espn": {
+    "legs": [
+     {
+      "kind": "prop",
+      "player": "P.J. Washington",
+      "ou": "U",
+      "line": 1.5,
+      "stat": "made threes",
+      "label": "P.J. Washington U 1.5 made threes",
+      "date": "20261115",
+      "unverified": true,
+      "reason": "Player not found in this game",
+      "snapshot": {
+       "source": "odds-api",
+       "state": "pre",
+       "detail": "Scheduled",
+       "start": "2026-11-15T23:11:00Z",
+       "teams": [
+        {
+         "name": "Dallas Mavericks",
+         "short": "Dallas Mavericks",
+         "abbr": "",
+         "score": 0,
+         "ha": "away",
+         "winner": null,
+         "linescores": []
+        },
+        {
+         "name": "Boston Celtics",
+         "short": "Boston Celtics",
+         "abbr": "",
+         "score": 0,
+         "ha": "home",
+         "winner": null,
+         "linescores": []
+        }
+       ]
+      },
+      "source": "odds-api"
+     }
+    ],
+    "sport": "NBA",
     "ticket": "single"
    }
   }
