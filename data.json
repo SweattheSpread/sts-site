@@ -1,5 +1,5 @@
 {
- "updated": "Nov 14, 2026, 6:29 PM PT",
+ "updated": "Nov 14, 2026, 6:32 PM PT",
  "record": {
   "w": 164,
   "l": 163,
@@ -968,10 +968,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "10:11 - 3rd",
+       "detail": "9:51 - 3rd",
        "start": "2026-11-15T00:30Z",
        "period": 3,
-       "clock": "10:11",
+       "clock": "9:51",
        "teams": [
         {
          "name": "Purdue Boilermakers",
@@ -1793,16 +1793,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "9:14 - 3rd",
+       "detail": "9:13 - 3rd",
        "start": "2026-11-15T01:00Z",
        "period": 3,
-       "clock": "9:14",
+       "clock": "9:13",
        "teams": [
         {
          "name": "Brooklyn Nets",
          "short": "Nets",
          "abbr": "BKN",
-         "score": 62,
+         "score": 64,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -1826,7 +1826,7 @@
         }
        ],
        "stat": {
-        "v": 10,
+        "v": 11,
         "name": "Day'Ron Sharpe"
        }
       },
@@ -1864,16 +1864,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "9:14 - 3rd",
+       "detail": "9:13 - 3rd",
        "start": "2026-11-15T01:00Z",
        "period": 3,
-       "clock": "9:14",
+       "clock": "9:13",
        "teams": [
         {
          "name": "Brooklyn Nets",
          "short": "Nets",
          "abbr": "BKN",
-         "score": 62,
+         "score": 64,
          "ha": "away",
          "winner": null,
          "linescores": [
