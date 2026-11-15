@@ -1,5 +1,5 @@
 {
- "updated": "Nov 15, 2026, 10:00 AM PT",
+ "updated": "Nov 15, 2026, 10:03 AM PT",
  "record": {
   "w": 174,
   "l": 170,
@@ -970,11 +970,11 @@
       "date": "20261115",
       "snapshot": {
        "source": "espn",
-       "state": "pre",
-       "detail": "11/15 - 1:00 PM EST",
+       "state": "in",
+       "detail": "15:00 - 1st",
        "start": "2026-11-15T18:00Z",
-       "period": null,
-       "clock": null,
+       "period": 1,
+       "clock": "15:00",
        "teams": [
         {
          "name": "Kansas City Chiefs",
@@ -983,7 +983,9 @@
          "score": 0,
          "ha": "away",
          "winner": null,
-         "linescores": []
+         "linescores": [
+          0
+         ]
         },
         {
          "name": "Atlanta Falcons",
@@ -992,7 +994,9 @@
          "score": 0,
          "ha": "home",
          "winner": null,
-         "linescores": []
+         "linescores": [
+          0
+         ]
         }
        ]
       },
@@ -1027,11 +1031,11 @@
       "date": "20261115",
       "snapshot": {
        "source": "espn",
-       "state": "pre",
-       "detail": "11/15 - 1:00 PM EST",
+       "state": "in",
+       "detail": "15:00 - 1st",
        "start": "2026-11-15T18:00Z",
-       "period": null,
-       "clock": null,
+       "period": 1,
+       "clock": "15:00",
        "teams": [
         {
          "name": "Minnesota Vikings",
@@ -1555,11 +1559,11 @@
       "date": "20261115",
       "snapshot": {
        "source": "espn",
-       "state": "pre",
-       "detail": "11/15 - 1:00 PM EST",
+       "state": "in",
+       "detail": "19:55 - 1st",
        "start": "2026-11-15T18:00Z",
-       "period": null,
-       "clock": null,
+       "period": 1,
+       "clock": "19:55",
        "teams": [
         {
          "name": "Boise State Broncos",
@@ -1568,7 +1572,9 @@
          "score": 0,
          "ha": "away",
          "winner": null,
-         "linescores": []
+         "linescores": [
+          0
+         ]
         },
         {
          "name": "Nebraska Cornhuskers",
@@ -1577,7 +1583,9 @@
          "score": 0,
          "ha": "home",
          "winner": null,
-         "linescores": []
+         "linescores": [
+          0
+         ]
         }
        ]
       },
