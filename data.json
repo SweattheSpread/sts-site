@@ -1,5 +1,5 @@
 {
- "updated": "Nov 14, 2026, 5:44 PM PT",
+ "updated": "Nov 14, 2026, 5:46 PM PT",
  "record": {
   "w": 164,
   "l": 163,
@@ -968,16 +968,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "2:00 - 2nd",
+       "detail": "1:49 - 2nd",
        "start": "2026-11-15T00:30Z",
        "period": 2,
-       "clock": "2:00",
+       "clock": "1:49",
        "teams": [
         {
          "name": "Purdue Boilermakers",
          "short": "Boilermakers",
          "abbr": "PUR",
-         "score": 0,
+         "score": 7,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -1464,10 +1464,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "6:06 - 2nd",
+       "detail": "4:52 - 2nd",
        "start": "2026-11-15T00:00Z",
        "period": 2,
-       "clock": "6:06",
+       "clock": "4:52",
        "teams": [
         {
          "name": "Brown Bears",
@@ -1485,7 +1485,7 @@
          "name": "Siena Saints",
          "short": "Saints",
          "abbr": "SIE",
-         "score": 66,
+         "score": 68,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -1791,16 +1791,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "9:45 - 2nd",
+       "detail": "8:31 - 2nd",
        "start": "2026-11-15T01:00Z",
        "period": 2,
-       "clock": "9:45",
+       "clock": "8:31",
        "teams": [
         {
          "name": "Brooklyn Nets",
          "short": "Nets",
          "abbr": "BKN",
-         "score": 27,
+         "score": 30,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -1812,7 +1812,7 @@
          "name": "Memphis Grizzlies",
          "short": "Grizzlies",
          "abbr": "MEM",
-         "score": 43,
+         "score": 47,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -1860,16 +1860,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "9:45 - 2nd",
+       "detail": "8:31 - 2nd",
        "start": "2026-11-15T01:00Z",
        "period": 2,
-       "clock": "9:45",
+       "clock": "8:31",
        "teams": [
         {
          "name": "Brooklyn Nets",
          "short": "Nets",
          "abbr": "BKN",
-         "score": 27,
+         "score": 30,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -1881,7 +1881,7 @@
          "name": "Memphis Grizzlies",
          "short": "Grizzlies",
          "abbr": "MEM",
-         "score": 43,
+         "score": 47,
          "ha": "home",
          "winner": null,
          "linescores": [
