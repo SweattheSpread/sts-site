@@ -1,5 +1,5 @@
 {
- "updated": "Nov 15, 2026, 12:49 PM PT",
+ "updated": "Nov 15, 2026, 12:51 PM PT",
  "record": {
   "w": 174,
   "l": 170,
@@ -11,7 +11,7 @@
   "first": "2026-10-12",
   "last": "2026-11-14"
  },
- "pending": 28,
+ "pending": 29,
  "plays": [
   {
    "n": 334,
@@ -6008,6 +6008,22 @@
    "matchup": "Buffalo Bills @ New York Jets",
    "pick": "Jets TT Under 17.5 (vs Bills) LIVE",
    "odds": 115,
+   "units": 3.0,
+   "result": null,
+   "pl": null,
+   "pending": true
+  },
+  {
+   "n": 824,
+   "date": "2026-11-15",
+   "day": "2026-11-15",
+   "league": "NFL",
+   "market": "player_prop",
+   "market_label": "Player Prop",
+   "ticket": "single",
+   "matchup": "San Francisco 49ers @ Dallas Cowboys",
+   "pick": "Brock Purdy Over 2.5 passing TDs (player prop)",
+   "odds": 155,
    "units": 3.0,
    "result": null,
    "pl": null,
