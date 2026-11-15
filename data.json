@@ -1,5 +1,5 @@
 {
- "updated": "Nov 15, 2026, 7:44 AM PT",
+ "updated": "Nov 15, 2026, 7:46 AM PT",
  "record": {
   "w": 174,
   "l": 170,
@@ -11,7 +11,7 @@
   "first": "2026-10-12",
   "last": "2026-11-14"
  },
- "pending": 16,
+ "pending": 21,
  "latest": [
   {
    "n": 808,
@@ -705,6 +705,64 @@
    }
   },
   {
+   "n": 815,
+   "league": "NFL",
+   "type": "Over/Under",
+   "matchup": "Jacksonville Jaguars @ Tennessee Titans",
+   "pick": "Over 45.5",
+   "odds": -109,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-15T10:00:00",
+   "timed": true,
+   "ticket": "single",
+   "espn": {
+    "legs": [
+     {
+      "kind": "total",
+      "side": null,
+      "ou": "O",
+      "line": 45.5,
+      "label": "O 45.5",
+      "path": "football/nfl",
+      "event": "401873057",
+      "date": "20261115",
+      "snapshot": {
+       "source": "espn",
+       "state": "pre",
+       "detail": "11/15 - 1:00 PM EST",
+       "start": "2026-11-15T18:00Z",
+       "period": null,
+       "clock": null,
+       "teams": [
+        {
+         "name": "Jacksonville Jaguars",
+         "short": "Jaguars",
+         "abbr": "JAX",
+         "score": 0,
+         "ha": "away",
+         "winner": null,
+         "linescores": []
+        },
+        {
+         "name": "Tennessee Titans",
+         "short": "Titans",
+         "abbr": "TEN",
+         "score": 0,
+         "ha": "home",
+         "winner": null,
+         "linescores": []
+        }
+       ]
+      },
+      "source": "espn"
+     }
+    ],
+    "sport": "NFL",
+    "ticket": "single"
+   }
+  },
+  {
    "n": 748,
    "league": "NFL",
    "type": "Spread",
@@ -758,6 +816,182 @@
      }
     ],
     "sport": "NFL",
+    "ticket": "single"
+   }
+  },
+  {
+   "n": 813,
+   "league": "NFL",
+   "type": "Over/Under",
+   "matchup": "Seattle Seahawks @ Las Vegas Raiders",
+   "pick": "Over 40.5",
+   "odds": -110,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-15T13:05:00",
+   "timed": true,
+   "ticket": "single",
+   "espn": {
+    "legs": [
+     {
+      "kind": "total",
+      "side": null,
+      "ou": "O",
+      "line": 40.5,
+      "label": "O 40.5",
+      "path": "football/nfl",
+      "event": "401873062",
+      "date": "20261115",
+      "snapshot": {
+       "source": "espn",
+       "state": "pre",
+       "detail": "11/15 - 4:05 PM EST",
+       "start": "2026-11-15T21:05Z",
+       "period": null,
+       "clock": null,
+       "teams": [
+        {
+         "name": "Seattle Seahawks",
+         "short": "Seahawks",
+         "abbr": "SEA",
+         "score": 0,
+         "ha": "away",
+         "winner": null,
+         "linescores": []
+        },
+        {
+         "name": "Las Vegas Raiders",
+         "short": "Raiders",
+         "abbr": "LV",
+         "score": 0,
+         "ha": "home",
+         "winner": null,
+         "linescores": []
+        }
+       ]
+      },
+      "source": "espn"
+     }
+    ],
+    "sport": "NFL",
+    "ticket": "single"
+   }
+  },
+  {
+   "n": 816,
+   "league": "NHL",
+   "type": "Over/Under",
+   "matchup": "Edmonton Oilers @ Philadelphia Flyers",
+   "pick": "Under 6",
+   "odds": -106,
+   "units": 0.5,
+   "gap": null,
+   "start": "2026-11-15T16:40:00",
+   "timed": true,
+   "ticket": "single",
+   "espn": {
+    "legs": [
+     {
+      "kind": "total",
+      "side": null,
+      "ou": "U",
+      "line": 6.0,
+      "label": "U 6.0",
+      "path": "hockey/nhl",
+      "event": "401892721",
+      "date": "20261115",
+      "snapshot": {
+       "source": "nhl",
+       "state": "pre",
+       "detail": "Scheduled",
+       "start": "2026-11-16T00:30:00Z",
+       "period": null,
+       "clock": null,
+       "teams": [
+        {
+         "name": "Oilers",
+         "short": "EDM",
+         "abbr": "EDM",
+         "score": 0,
+         "ha": "away",
+         "winner": null,
+         "linescores": []
+        },
+        {
+         "name": "Flyers",
+         "short": "PHI",
+         "abbr": "PHI",
+         "score": 0,
+         "ha": "home",
+         "winner": null,
+         "linescores": []
+        }
+       ],
+       "nhl_id": 2026020326
+      },
+      "source": "nhl"
+     }
+    ],
+    "sport": "NHL",
+    "ticket": "single"
+   }
+  },
+  {
+   "n": 817,
+   "league": "NHL",
+   "type": "Over/Under",
+   "matchup": "Calgary Flames @ Anaheim Ducks",
+   "pick": "Under 6.5",
+   "odds": 106,
+   "units": 0.5,
+   "gap": null,
+   "start": "2026-11-15T17:10:00",
+   "timed": true,
+   "ticket": "single",
+   "espn": {
+    "legs": [
+     {
+      "kind": "total",
+      "side": null,
+      "ou": "U",
+      "line": 6.5,
+      "label": "U 6.5",
+      "path": "hockey/nhl",
+      "event": "401892723",
+      "date": "20261115",
+      "snapshot": {
+       "source": "nhl",
+       "state": "pre",
+       "detail": "Scheduled",
+       "start": "2026-11-16T01:00:00Z",
+       "period": null,
+       "clock": null,
+       "teams": [
+        {
+         "name": "Flames",
+         "short": "CGY",
+         "abbr": "CGY",
+         "score": 0,
+         "ha": "away",
+         "winner": null,
+         "linescores": []
+        },
+        {
+         "name": "Ducks",
+         "short": "ANA",
+         "abbr": "ANA",
+         "score": 0,
+         "ha": "home",
+         "winner": null,
+         "linescores": []
+        }
+       ],
+       "nhl_id": 2026020328
+      },
+      "source": "nhl"
+     }
+    ],
+    "sport": "NHL",
     "ticket": "single"
    }
   },
@@ -874,6 +1108,64 @@
     "sport": "NFL",
     "ticket": "single"
    }
+  },
+  {
+   "n": 814,
+   "league": "NFL",
+   "type": "Over/Under",
+   "matchup": "Los Angeles Chargers @ Baltimore Ravens",
+   "pick": "Over 39",
+   "odds": -108,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-16T17:15:00",
+   "timed": true,
+   "ticket": "single",
+   "espn": {
+    "legs": [
+     {
+      "kind": "total",
+      "side": null,
+      "ou": "O",
+      "line": 39.0,
+      "label": "O 39.0",
+      "path": "football/nfl",
+      "event": "401873065",
+      "date": "20261116",
+      "snapshot": {
+       "source": "espn",
+       "state": "pre",
+       "detail": "11/16 - 8:15 PM EST",
+       "start": "2026-11-17T01:15Z",
+       "period": null,
+       "clock": null,
+       "teams": [
+        {
+         "name": "Los Angeles Chargers",
+         "short": "Chargers",
+         "abbr": "LAC",
+         "score": 0,
+         "ha": "away",
+         "winner": null,
+         "linescores": []
+        },
+        {
+         "name": "Baltimore Ravens",
+         "short": "Ravens",
+         "abbr": "BAL",
+         "score": 0,
+         "ha": "home",
+         "winner": null,
+         "linescores": []
+        }
+       ]
+      },
+      "source": "espn"
+     }
+    ],
+    "sport": "NFL",
+    "ticket": "single"
+   }
   }
  ],
  "awaiting": [
@@ -902,10 +1194,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "4:23 - 2nd",
+       "detail": "3:27 - 2nd",
        "start": "2026-11-15T14:30Z",
        "period": 2,
-       "clock": "4:23",
+       "clock": "3:27",
        "teams": [
         {
          "name": "New England Patriots",
@@ -966,10 +1258,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "4:23 - 2nd",
+       "detail": "3:27 - 2nd",
        "start": "2026-11-15T14:30Z",
        "period": 2,
-       "clock": "4:23",
+       "clock": "3:27",
        "teams": [
         {
          "name": "New England Patriots",
