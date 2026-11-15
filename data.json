@@ -1,5 +1,5 @@
 {
- "updated": "Nov 14, 2026, 7:46 PM PT",
+ "updated": "Nov 14, 2026, 8:13 PM PT",
  "record": {
   "w": 164,
   "l": 163,
@@ -127,63 +127,6 @@
   }
  ],
  "picks": [
-  {
-   "n": 793,
-   "league": "NCAAF",
-   "type": "Spread",
-   "matchup": "North Dakota State Bison @ Hawaii Rainbow Warriors",
-   "pick": "North Dakota State Bison -7",
-   "odds": -107,
-   "units": 2.0,
-   "gap": null,
-   "start": "2026-11-14T20:00:00",
-   "timed": true,
-   "ticket": "single",
-   "espn": {
-    "legs": [
-     {
-      "kind": "spread",
-      "side": "North Dakota State Bison",
-      "line": -7.0,
-      "label": "North Dakota State Bison -7",
-      "path": "football/college-football",
-      "event": "401864537",
-      "date": "20261114",
-      "snapshot": {
-       "source": "espn",
-       "state": "pre",
-       "detail": "11/14 - 11:00 PM EST",
-       "start": "2026-11-15T04:00Z",
-       "period": null,
-       "clock": null,
-       "teams": [
-        {
-         "name": "North Dakota State Bison",
-         "short": "Bison",
-         "abbr": "NDSU",
-         "score": 0,
-         "ha": "away",
-         "winner": null,
-         "linescores": []
-        },
-        {
-         "name": "Hawai'i Rainbow Warriors",
-         "short": "Rainbow Warriors",
-         "abbr": "HAW",
-         "score": 0,
-         "ha": "home",
-         "winner": null,
-         "linescores": []
-        }
-       ]
-      },
-      "source": "espn"
-     }
-    ],
-    "sport": "NCAAF",
-    "ticket": "single"
-   }
-  },
   {
    "n": 747,
    "league": "NFL",
@@ -998,6 +941,67 @@
           0,
           0,
           0,
+          0
+         ]
+        }
+       ]
+      },
+      "source": "espn"
+     }
+    ],
+    "sport": "NCAAF",
+    "ticket": "single"
+   }
+  },
+  {
+   "n": 793,
+   "league": "NCAAF",
+   "type": "Spread",
+   "matchup": "North Dakota State Bison @ Hawaii Rainbow Warriors",
+   "pick": "North Dakota State Bison -7",
+   "odds": -107,
+   "units": 2.0,
+   "gap": null,
+   "start": "2026-11-14T20:00:00",
+   "timed": true,
+   "ticket": "single",
+   "espn": {
+    "legs": [
+     {
+      "kind": "spread",
+      "side": "North Dakota State Bison",
+      "line": -7.0,
+      "label": "North Dakota State Bison -7",
+      "path": "football/college-football",
+      "event": "401864537",
+      "date": "20261114",
+      "snapshot": {
+       "source": "espn",
+       "state": "in",
+       "detail": "14:21 - 1st",
+       "start": "2026-11-15T04:00Z",
+       "period": 1,
+       "clock": "14:21",
+       "teams": [
+        {
+         "name": "North Dakota State Bison",
+         "short": "Bison",
+         "abbr": "NDSU",
+         "score": 0,
+         "ha": "away",
+         "winner": null,
+         "linescores": [
+          0
+         ]
+        },
+        {
+         "name": "Hawai'i Rainbow Warriors",
+         "short": "Rainbow Warriors",
+         "abbr": "HAW",
+         "score": 0,
+         "ha": "home",
+         "winner": null,
+         "linescores": [
           0
          ]
         }
