@@ -1,5 +1,5 @@
 {
- "updated": "Nov 15, 2026, 1:15 PM PT",
+ "updated": "Nov 15, 2026, 1:17 PM PT",
  "record": {
   "w": 174,
   "l": 170,
@@ -850,11 +850,11 @@
       "date": "20261115",
       "snapshot": {
        "source": "espn",
-       "state": "in",
-       "detail": "1:18 - 4th",
+       "state": "post",
+       "detail": "Final",
        "start": "2026-11-15T18:00Z",
-       "period": 4,
-       "clock": "1:18",
+       "period": null,
+       "clock": null,
        "teams": [
         {
          "name": "Miami Dolphins",
@@ -862,7 +862,7 @@
          "abbr": "MIA",
          "score": 22,
          "ha": "away",
-         "winner": null,
+         "winner": false,
          "linescores": [
           0,
           0,
@@ -876,7 +876,7 @@
          "abbr": "IND",
          "score": 24,
          "ha": "home",
-         "winner": null,
+         "winner": true,
          "linescores": [
           0,
           0,
@@ -1539,10 +1539,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "10:36 - 1st",
+       "detail": "7:45 - 1st",
        "start": "2026-11-15T21:05Z",
        "period": 1,
-       "clock": "10:36",
+       "clock": "7:45",
        "teams": [
         {
          "name": "Seattle Seahawks",
