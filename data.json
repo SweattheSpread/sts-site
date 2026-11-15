@@ -1,5 +1,5 @@
 {
- "updated": "Nov 14, 2026, 6:05 PM PT",
+ "updated": "Nov 14, 2026, 6:08 PM PT",
  "record": {
   "w": 164,
   "l": 163,
@@ -1464,10 +1464,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "0:09 - 2nd",
+       "detail": "End of 2nd",
        "start": "2026-11-15T00:00Z",
        "period": 2,
-       "clock": "0:09",
+       "clock": "0:00",
        "teams": [
         {
          "name": "Brown Bears",
@@ -1485,7 +1485,7 @@
          "name": "Siena Saints",
          "short": "Saints",
          "abbr": "SIE",
-         "score": 77,
+         "score": 79,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -1791,16 +1791,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "1:38 - 2nd",
+       "detail": "0.0 - 2nd",
        "start": "2026-11-15T01:00Z",
        "period": 2,
-       "clock": "1:38",
+       "clock": "0.0",
        "teams": [
         {
          "name": "Brooklyn Nets",
          "short": "Nets",
          "abbr": "BKN",
-         "score": 52,
+         "score": 54,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -1812,7 +1812,7 @@
          "name": "Memphis Grizzlies",
          "short": "Grizzlies",
          "abbr": "MEM",
-         "score": 64,
+         "score": 71,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -1860,16 +1860,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "1:38 - 2nd",
+       "detail": "0.0 - 2nd",
        "start": "2026-11-15T01:00Z",
        "period": 2,
-       "clock": "1:38",
+       "clock": "0.0",
        "teams": [
         {
          "name": "Brooklyn Nets",
          "short": "Nets",
          "abbr": "BKN",
-         "score": 52,
+         "score": 54,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -1881,7 +1881,7 @@
          "name": "Memphis Grizzlies",
          "short": "Grizzlies",
          "abbr": "MEM",
-         "score": 64,
+         "score": 71,
          "ha": "home",
          "winner": null,
          "linescores": [
