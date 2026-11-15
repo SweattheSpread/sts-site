@@ -1,5 +1,5 @@
 {
- "updated": "Nov 14, 2026, 5:08 PM PT",
+ "updated": "Nov 14, 2026, 5:12 PM PT",
  "record": {
   "w": 164,
   "l": 163,
@@ -127,109 +127,6 @@
   }
  ],
  "picks": [
-  {
-   "n": 807,
-   "league": "NBA",
-   "type": "Player Prop",
-   "matchup": "Brooklyn Nets @ Memphis Grizzlies",
-   "pick": "Day'Ron Sharpe Over 9.5 points (player prop)",
-   "odds": 120,
-   "units": 1.0,
-   "gap": null,
-   "start": "2026-11-14T17:10:00",
-   "timed": true,
-   "ticket": "single",
-   "espn": {
-    "legs": [
-     {
-      "kind": "prop",
-      "player": "Day'Ron Sharpe",
-      "ou": "O",
-      "line": 9.5,
-      "stat": "points",
-      "label": "Day'Ron Sharpe O 9.5 points",
-      "date": "20261114",
-      "unverified": true,
-      "reason": "Player not found in this game"
-     }
-    ],
-    "sport": "NBA",
-    "ticket": "single"
-   }
-  },
-  {
-   "n": 808,
-   "league": "NBA",
-   "type": "Player Prop",
-   "matchup": "Brooklyn Nets @ Memphis Grizzlies",
-   "pick": "Jaylen Wells Over 11.5 points (player prop)",
-   "odds": -115,
-   "units": 1.0,
-   "gap": null,
-   "start": "2026-11-14T17:10:00",
-   "timed": true,
-   "ticket": "single",
-   "espn": {
-    "legs": [
-     {
-      "kind": "prop",
-      "player": "Jaylen Wells",
-      "ou": "O",
-      "line": 11.5,
-      "stat": "points",
-      "label": "Jaylen Wells O 11.5 points",
-      "path": "basketball/nba",
-      "event": "401909300",
-      "date": "20261113",
-      "snapshot": {
-       "source": "espn",
-       "state": "post",
-       "detail": "Final",
-       "start": "2026-11-14T01:00Z",
-       "period": null,
-       "clock": null,
-       "teams": [
-        {
-         "name": "Memphis Grizzlies",
-         "short": "Grizzlies",
-         "abbr": "MEM",
-         "score": 142,
-         "ha": "away",
-         "winner": true,
-         "linescores": [
-          0,
-          0,
-          0,
-          0
-         ]
-        },
-        {
-         "name": "New Orleans Pelicans",
-         "short": "Pelicans",
-         "abbr": "NO",
-         "score": 111,
-         "ha": "home",
-         "winner": false,
-         "linescores": [
-          0,
-          0,
-          0,
-          0
-         ]
-        }
-       ],
-       "stat": {
-        "v": 11,
-        "name": "Jaylen Wells"
-       }
-      },
-      "source": "espn"
-     }
-    ],
-    "sport": "NBA",
-    "ticket": "single"
-   }
-  },
   {
    "n": 793,
    "league": "NCAAF",
@@ -1071,10 +968,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "0:10 - 1st",
+       "detail": "6:20 - 1st",
        "start": "2026-11-15T00:30Z",
        "period": 1,
-       "clock": "0:10",
+       "clock": "6:20",
        "teams": [
         {
          "name": "Purdue Boilermakers",
@@ -1565,10 +1462,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "17:50 - 2nd",
+       "detail": "16:02 - 2nd",
        "start": "2026-11-15T00:00Z",
        "period": 2,
-       "clock": "17:50",
+       "clock": "16:02",
        "teams": [
         {
          "name": "Brown Bears",
@@ -1586,7 +1483,7 @@
          "name": "Siena Saints",
          "short": "Saints",
          "abbr": "SIE",
-         "score": 37,
+         "score": 39,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -1862,6 +1759,140 @@
      }
     ],
     "sport": "NCAAF",
+    "ticket": "single"
+   }
+  },
+  {
+   "n": 807,
+   "league": "NBA",
+   "type": "Player Prop",
+   "matchup": "Brooklyn Nets @ Memphis Grizzlies",
+   "pick": "Day'Ron Sharpe Over 9.5 points (player prop)",
+   "odds": 120,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-14T17:10:00",
+   "timed": true,
+   "ticket": "single",
+   "espn": {
+    "legs": [
+     {
+      "kind": "prop",
+      "player": "Day'Ron Sharpe",
+      "ou": "O",
+      "line": 9.5,
+      "stat": "points",
+      "label": "Day'Ron Sharpe O 9.5 points",
+      "path": "basketball/nba",
+      "event": "401909983",
+      "date": "20261114",
+      "snapshot": {
+       "source": "espn",
+       "state": "in",
+       "detail": "10:48 - 1st",
+       "start": "2026-11-15T01:00Z",
+       "period": 1,
+       "clock": "10:48",
+       "teams": [
+        {
+         "name": "Brooklyn Nets",
+         "short": "Nets",
+         "abbr": "BKN",
+         "score": 2,
+         "ha": "away",
+         "winner": null,
+         "linescores": [
+          0
+         ]
+        },
+        {
+         "name": "Memphis Grizzlies",
+         "short": "Grizzlies",
+         "abbr": "MEM",
+         "score": 2,
+         "ha": "home",
+         "winner": null,
+         "linescores": [
+          0
+         ]
+        }
+       ],
+       "stat": {
+        "v": 0,
+        "name": "Day'Ron Sharpe"
+       }
+      },
+      "source": "espn"
+     }
+    ],
+    "sport": "NBA",
+    "ticket": "single"
+   }
+  },
+  {
+   "n": 808,
+   "league": "NBA",
+   "type": "Player Prop",
+   "matchup": "Brooklyn Nets @ Memphis Grizzlies",
+   "pick": "Jaylen Wells Over 11.5 points (player prop)",
+   "odds": -115,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-14T17:10:00",
+   "timed": true,
+   "ticket": "single",
+   "espn": {
+    "legs": [
+     {
+      "kind": "prop",
+      "player": "Jaylen Wells",
+      "ou": "O",
+      "line": 11.5,
+      "stat": "points",
+      "label": "Jaylen Wells O 11.5 points",
+      "path": "basketball/nba",
+      "event": "401909983",
+      "date": "20261114",
+      "snapshot": {
+       "source": "espn",
+       "state": "in",
+       "detail": "10:48 - 1st",
+       "start": "2026-11-15T01:00Z",
+       "period": 1,
+       "clock": "10:48",
+       "teams": [
+        {
+         "name": "Brooklyn Nets",
+         "short": "Nets",
+         "abbr": "BKN",
+         "score": 2,
+         "ha": "away",
+         "winner": null,
+         "linescores": [
+          0
+         ]
+        },
+        {
+         "name": "Memphis Grizzlies",
+         "short": "Grizzlies",
+         "abbr": "MEM",
+         "score": 2,
+         "ha": "home",
+         "winner": null,
+         "linescores": [
+          0
+         ]
+        }
+       ],
+       "stat": {
+        "v": 0,
+        "name": "Jaylen Wells"
+       }
+      },
+      "source": "espn"
+     }
+    ],
+    "sport": "NBA",
     "ticket": "single"
    }
   }
