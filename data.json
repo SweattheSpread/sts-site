@@ -1,5 +1,5 @@
 {
- "updated": "Nov 15, 2026, 2:28 PM PT",
+ "updated": "Nov 15, 2026, 2:30 PM PT",
  "record": {
   "w": 174,
   "l": 170,
@@ -127,64 +127,6 @@
   }
  ],
  "picks": [
-  {
-   "n": 820,
-   "league": "NCAAB",
-   "type": "Over/Under",
-   "matchup": "Canisius Golden Griffins @ Buffalo Bulls",
-   "pick": "Under 151 total points",
-   "odds": -110,
-   "units": 1.0,
-   "gap": null,
-   "start": "2026-11-15T14:30:00",
-   "timed": true,
-   "ticket": "single",
-   "espn": {
-    "legs": [
-     {
-      "kind": "total",
-      "side": null,
-      "ou": "U",
-      "line": 151.0,
-      "label": "U 151.0",
-      "path": "basketball/mens-college-basketball",
-      "event": "401911017",
-      "date": "20261115",
-      "snapshot": {
-       "source": "espn",
-       "state": "pre",
-       "detail": "11/15 - 5:30 PM EST",
-       "start": "2026-11-15T22:30Z",
-       "period": null,
-       "clock": null,
-       "teams": [
-        {
-         "name": "Canisius Golden Griffins",
-         "short": "Golden Griffins",
-         "abbr": "CAN",
-         "score": 0,
-         "ha": "away",
-         "winner": null,
-         "linescores": []
-        },
-        {
-         "name": "Buffalo Bulls",
-         "short": "Bulls",
-         "abbr": "BUF",
-         "score": 0,
-         "ha": "home",
-         "winner": null,
-         "linescores": []
-        }
-       ]
-      },
-      "source": "espn"
-     }
-    ],
-    "sport": "NCAAB",
-    "ticket": "single"
-   }
-  },
   {
    "n": 825,
    "league": "NBA",
@@ -723,16 +665,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "0:22 - 2nd",
+       "detail": "0:13 - 2nd",
        "start": "2026-11-15T21:05Z",
        "period": 2,
-       "clock": "0:22",
+       "clock": "0:13",
        "teams": [
         {
          "name": "Los Angeles Rams",
          "short": "Rams",
          "abbr": "LAR",
-         "score": 10,
+         "score": 17,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -1769,6 +1711,64 @@
    }
   },
   {
+   "n": 820,
+   "league": "NCAAB",
+   "type": "Over/Under",
+   "matchup": "Canisius Golden Griffins @ Buffalo Bulls",
+   "pick": "Under 151 total points",
+   "odds": -110,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-15T14:30:00",
+   "timed": true,
+   "ticket": "single",
+   "espn": {
+    "legs": [
+     {
+      "kind": "total",
+      "side": null,
+      "ou": "U",
+      "line": 151.0,
+      "label": "U 151.0",
+      "path": "basketball/mens-college-basketball",
+      "event": "401911017",
+      "date": "20261115",
+      "snapshot": {
+       "source": "espn",
+       "state": "pre",
+       "detail": "11/15 - 5:30 PM EST",
+       "start": "2026-11-15T22:30Z",
+       "period": null,
+       "clock": null,
+       "teams": [
+        {
+         "name": "Canisius Golden Griffins",
+         "short": "Golden Griffins",
+         "abbr": "CAN",
+         "score": 0,
+         "ha": "away",
+         "winner": null,
+         "linescores": []
+        },
+        {
+         "name": "Buffalo Bulls",
+         "short": "Bulls",
+         "abbr": "BUF",
+         "score": 0,
+         "ha": "home",
+         "winner": null,
+         "linescores": []
+        }
+       ]
+      },
+      "source": "espn"
+     }
+    ],
+    "sport": "NCAAB",
+    "ticket": "single"
+   }
+  },
+  {
    "n": 822,
    "league": "NFL",
    "type": "Player Prop",
@@ -1795,16 +1795,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "0:22 - 2nd",
+       "detail": "0:13 - 2nd",
        "start": "2026-11-15T21:05Z",
        "period": 2,
-       "clock": "0:22",
+       "clock": "0:13",
        "teams": [
         {
          "name": "Los Angeles Rams",
          "short": "Rams",
          "abbr": "LAR",
-         "score": 10,
+         "score": 17,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -1932,10 +1932,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "4:51 - 2nd",
+       "detail": "4:08 - 2nd",
        "start": "2026-11-15T21:25Z",
        "period": 2,
-       "clock": "4:51",
+       "clock": "4:08",
        "teams": [
         {
          "name": "San Francisco 49ers",
@@ -1953,7 +1953,7 @@
          "name": "Dallas Cowboys",
          "short": "Cowboys",
          "abbr": "DAL",
-         "score": 10,
+         "score": 16,
          "ha": "home",
          "winner": null,
          "linescores": [
