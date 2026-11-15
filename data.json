@@ -1,5 +1,5 @@
 {
- "updated": "Nov 15, 2026, 10:03 AM PT",
+ "updated": "Nov 15, 2026, 10:05 AM PT",
  "record": {
   "w": 174,
   "l": 170,
@@ -673,11 +673,11 @@
       "date": "20261115",
       "snapshot": {
        "source": "espn",
-       "state": "pre",
-       "detail": "11/15 - 1:00 PM EST",
+       "state": "in",
+       "detail": "14:55 - 1st",
        "start": "2026-11-15T18:00Z",
-       "period": null,
-       "clock": null,
+       "period": 1,
+       "clock": "14:55",
        "teams": [
         {
          "name": "Buffalo Bills",
@@ -686,7 +686,9 @@
          "score": 0,
          "ha": "away",
          "winner": null,
-         "linescores": []
+         "linescores": [
+          0
+         ]
         },
         {
          "name": "New York Jets",
@@ -695,7 +697,9 @@
          "score": 0,
          "ha": "home",
          "winner": null,
-         "linescores": []
+         "linescores": [
+          0
+         ]
         }
        ]
       },
@@ -797,11 +801,11 @@
       "date": "20261115",
       "snapshot": {
        "source": "espn",
-       "state": "pre",
-       "detail": "11/15 - 1:00 PM EST",
+       "state": "in",
+       "detail": "14:26 - 1st",
        "start": "2026-11-15T18:00Z",
-       "period": null,
-       "clock": null,
+       "period": 1,
+       "clock": "14:26",
        "teams": [
         {
          "name": "Carolina Panthers",
@@ -810,7 +814,9 @@
          "score": 0,
          "ha": "away",
          "winner": null,
-         "linescores": []
+         "linescores": [
+          0
+         ]
         },
         {
          "name": "New Orleans Saints",
@@ -819,7 +825,9 @@
          "score": 0,
          "ha": "home",
          "winner": null,
-         "linescores": []
+         "linescores": [
+          0
+         ]
         }
        ]
       },
@@ -854,11 +862,11 @@
       "date": "20261115",
       "snapshot": {
        "source": "espn",
-       "state": "pre",
-       "detail": "11/15 - 1:00 PM EST",
+       "state": "in",
+       "detail": "14:51 - 1st",
        "start": "2026-11-15T18:00Z",
-       "period": null,
-       "clock": null,
+       "period": 1,
+       "clock": "14:51",
        "teams": [
         {
          "name": "Miami Dolphins",
@@ -867,7 +875,9 @@
          "score": 0,
          "ha": "away",
          "winner": null,
-         "linescores": []
+         "linescores": [
+          0
+         ]
         },
         {
          "name": "Indianapolis Colts",
@@ -876,7 +886,9 @@
          "score": 0,
          "ha": "home",
          "winner": null,
-         "linescores": []
+         "linescores": [
+          0
+         ]
         }
        ]
       },
@@ -912,11 +924,11 @@
       "date": "20261115",
       "snapshot": {
        "source": "espn",
-       "state": "pre",
-       "detail": "11/15 - 1:00 PM EST",
+       "state": "in",
+       "detail": "14:14 - 1st",
        "start": "2026-11-15T18:00Z",
-       "period": null,
-       "clock": null,
+       "period": 1,
+       "clock": "14:14",
        "teams": [
         {
          "name": "Houston Texans",
@@ -925,7 +937,9 @@
          "score": 0,
          "ha": "away",
          "winner": null,
-         "linescores": []
+         "linescores": [
+          0
+         ]
         },
         {
          "name": "Cleveland Browns",
@@ -934,7 +948,9 @@
          "score": 0,
          "ha": "home",
          "winner": null,
-         "linescores": []
+         "linescores": [
+          0
+         ]
         }
        ]
       },
@@ -971,10 +987,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "15:00 - 1st",
+       "detail": "14:44 - 1st",
        "start": "2026-11-15T18:00Z",
        "period": 1,
-       "clock": "15:00",
+       "clock": "14:44",
        "teams": [
         {
          "name": "Kansas City Chiefs",
@@ -1032,10 +1048,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "15:00 - 1st",
+       "detail": "14:49 - 1st",
        "start": "2026-11-15T18:00Z",
        "period": 1,
-       "clock": "15:00",
+       "clock": "14:49",
        "teams": [
         {
          "name": "Minnesota Vikings",
@@ -1044,7 +1060,9 @@
          "score": 0,
          "ha": "away",
          "winner": null,
-         "linescores": []
+         "linescores": [
+          0
+         ]
         },
         {
          "name": "Green Bay Packers",
@@ -1053,7 +1071,9 @@
          "score": 0,
          "ha": "home",
          "winner": null,
-         "linescores": []
+         "linescores": [
+          0
+         ]
         }
        ]
       },
@@ -1085,36 +1105,43 @@
       "line": 19.5,
       "stat": "yds",
       "label": "KC Concepcion longest reception O 19.5 yds",
+      "path": "football/nfl",
+      "event": "401873056",
       "date": "20261115",
-      "unverified": true,
-      "reason": "Player not found in this game",
       "snapshot": {
-       "source": "odds-api",
-       "state": "pre",
-       "detail": "Scheduled",
-       "start": "2026-11-15T18:05:00Z",
+       "source": "espn",
+       "state": "in",
+       "detail": "14:14 - 1st",
+       "start": "2026-11-15T18:00Z",
+       "period": 1,
+       "clock": "14:14",
        "teams": [
         {
          "name": "Houston Texans",
-         "short": "Houston Texans",
-         "abbr": "",
+         "short": "Texans",
+         "abbr": "HOU",
          "score": 0,
          "ha": "away",
          "winner": null,
-         "linescores": []
+         "linescores": [
+          0
+         ]
         },
         {
          "name": "Cleveland Browns",
-         "short": "Cleveland Browns",
-         "abbr": "",
+         "short": "Browns",
+         "abbr": "CLE",
          "score": 0,
          "ha": "home",
          "winner": null,
-         "linescores": []
+         "linescores": [
+          0
+         ]
         }
-       ]
+       ],
+       "stat": null
       },
-      "source": "odds-api"
+      "source": "espn"
      }
     ],
     "sport": "NFL",
@@ -1142,36 +1169,43 @@
       "line": 11.5,
       "stat": "yds",
       "label": "Jerry Jeudy longest reception O 11.5 yds",
+      "path": "football/nfl",
+      "event": "401873056",
       "date": "20261115",
-      "unverified": true,
-      "reason": "Player not found in this game",
       "snapshot": {
-       "source": "odds-api",
-       "state": "pre",
-       "detail": "Scheduled",
-       "start": "2026-11-15T18:05:00Z",
+       "source": "espn",
+       "state": "in",
+       "detail": "14:14 - 1st",
+       "start": "2026-11-15T18:00Z",
+       "period": 1,
+       "clock": "14:14",
        "teams": [
         {
          "name": "Houston Texans",
-         "short": "Houston Texans",
-         "abbr": "",
+         "short": "Texans",
+         "abbr": "HOU",
          "score": 0,
          "ha": "away",
          "winner": null,
-         "linescores": []
+         "linescores": [
+          0
+         ]
         },
         {
          "name": "Cleveland Browns",
-         "short": "Cleveland Browns",
-         "abbr": "",
+         "short": "Browns",
+         "abbr": "CLE",
          "score": 0,
          "ha": "home",
          "winner": null,
-         "linescores": []
+         "linescores": [
+          0
+         ]
         }
-       ]
+       ],
+       "stat": null
       },
-      "source": "odds-api"
+      "source": "espn"
      }
     ],
     "sport": "NFL",
@@ -1202,11 +1236,11 @@
       "date": "20261115",
       "snapshot": {
        "source": "espn",
-       "state": "pre",
-       "detail": "11/15 - 1:00 PM EST",
+       "state": "in",
+       "detail": "15:00 - 1st",
        "start": "2026-11-15T18:00Z",
-       "period": null,
-       "clock": null,
+       "period": 1,
+       "clock": "15:00",
        "teams": [
         {
          "name": "Jacksonville Jaguars",
@@ -1215,7 +1249,9 @@
          "score": 0,
          "ha": "away",
          "winner": null,
-         "linescores": []
+         "linescores": [
+          0
+         ]
         },
         {
          "name": "Tennessee Titans",
@@ -1224,7 +1260,9 @@
          "score": 0,
          "ha": "home",
          "winner": null,
-         "linescores": []
+         "linescores": [
+          0
+         ]
         }
        ]
       },
@@ -1260,11 +1298,11 @@
       "date": "20261115",
       "snapshot": {
        "source": "espn",
-       "state": "pre",
-       "detail": "11/15 - 1:00 PM EST",
+       "state": "in",
+       "detail": "14:14 - 1st",
        "start": "2026-11-15T18:00Z",
-       "period": null,
-       "clock": null,
+       "period": 1,
+       "clock": "14:14",
        "teams": [
         {
          "name": "Houston Texans",
@@ -1273,7 +1311,9 @@
          "score": 0,
          "ha": "away",
          "winner": null,
-         "linescores": []
+         "linescores": [
+          0
+         ]
         },
         {
          "name": "Cleveland Browns",
@@ -1282,7 +1322,9 @@
          "score": 0,
          "ha": "home",
          "winner": null,
-         "linescores": []
+         "linescores": [
+          0
+         ]
         }
        ]
       },
@@ -1318,11 +1360,11 @@
       "date": "20261115",
       "snapshot": {
        "source": "espn",
-       "state": "pre",
-       "detail": "11/15 - 1:00 PM EST",
+       "state": "in",
+       "detail": "14:14 - 1st",
        "start": "2026-11-15T18:00Z",
-       "period": null,
-       "clock": null,
+       "period": 1,
+       "clock": "14:14",
        "teams": [
         {
          "name": "Houston Texans",
@@ -1331,7 +1373,9 @@
          "score": 0,
          "ha": "away",
          "winner": null,
-         "linescores": []
+         "linescores": [
+          0
+         ]
         },
         {
          "name": "Cleveland Browns",
@@ -1340,7 +1384,9 @@
          "score": 0,
          "ha": "home",
          "winner": null,
-         "linescores": []
+         "linescores": [
+          0
+         ]
         }
        ]
       },
@@ -1444,11 +1490,11 @@
       "date": "20261115",
       "snapshot": {
        "source": "espn",
-       "state": "pre",
-       "detail": "11/15 - 1:00 PM EST",
+       "state": "in",
+       "detail": "15:00 - 1st",
        "start": "2026-11-15T18:00Z",
-       "period": null,
-       "clock": null,
+       "period": 1,
+       "clock": "15:00",
        "teams": [
         {
          "name": "Jacksonville Jaguars",
@@ -1457,7 +1503,9 @@
          "score": 0,
          "ha": "away",
          "winner": null,
-         "linescores": []
+         "linescores": [
+          0
+         ]
         },
         {
          "name": "Tennessee Titans",
@@ -1466,7 +1514,9 @@
          "score": 0,
          "ha": "home",
          "winner": null,
-         "linescores": []
+         "linescores": [
+          0
+         ]
         }
        ]
       },
@@ -1498,36 +1548,43 @@
       "line": 98.5,
       "stat": "rushing yards",
       "label": "James Cook U 98.5 rushing yards",
+      "path": "football/nfl",
+      "event": "401873054",
       "date": "20261115",
-      "unverified": true,
-      "reason": "Player not found in this game",
       "snapshot": {
-       "source": "odds-api",
-       "state": "pre",
-       "detail": "Scheduled",
-       "start": "2026-11-15T18:05:00Z",
+       "source": "espn",
+       "state": "in",
+       "detail": "14:55 - 1st",
+       "start": "2026-11-15T18:00Z",
+       "period": 1,
+       "clock": "14:55",
        "teams": [
         {
          "name": "Buffalo Bills",
-         "short": "Buffalo Bills",
-         "abbr": "",
+         "short": "Bills",
+         "abbr": "BUF",
          "score": 0,
          "ha": "away",
          "winner": null,
-         "linescores": []
+         "linescores": [
+          0
+         ]
         },
         {
          "name": "New York Jets",
-         "short": "New York Jets",
-         "abbr": "",
+         "short": "Jets",
+         "abbr": "NYJ",
          "score": 0,
          "ha": "home",
          "winner": null,
-         "linescores": []
+         "linescores": [
+          0
+         ]
         }
-       ]
+       ],
+       "stat": null
       },
-      "source": "odds-api"
+      "source": "espn"
      }
     ],
     "sport": "NFL",
@@ -1560,10 +1617,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "19:55 - 1st",
+       "detail": "18:46 - 1st",
        "start": "2026-11-15T18:00Z",
        "period": 1,
-       "clock": "19:55",
+       "clock": "18:46",
        "teams": [
         {
          "name": "Boise State Broncos",
@@ -1580,7 +1637,7 @@
          "name": "Nebraska Cornhuskers",
          "short": "Cornhuskers",
          "abbr": "NEB",
-         "score": 0,
+         "score": 2,
          "ha": "home",
          "winner": null,
          "linescores": [
