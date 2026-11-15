@@ -1,5 +1,5 @@
 {
- "updated": "Nov 14, 2026, 5:46 PM PT",
+ "updated": "Nov 14, 2026, 5:52 PM PT",
  "record": {
   "w": 164,
   "l": 163,
@@ -968,10 +968,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "1:49 - 2nd",
+       "detail": "0:37 - 2nd",
        "start": "2026-11-15T00:30Z",
        "period": 2,
-       "clock": "1:49",
+       "clock": "0:37",
        "teams": [
         {
          "name": "Purdue Boilermakers",
@@ -1464,16 +1464,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "4:52 - 2nd",
+       "detail": "3:01 - 2nd",
        "start": "2026-11-15T00:00Z",
        "period": 2,
-       "clock": "4:52",
+       "clock": "3:01",
        "teams": [
         {
          "name": "Brown Bears",
          "short": "Bears",
          "abbr": "BRWN",
-         "score": 69,
+         "score": 70,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -1485,7 +1485,7 @@
          "name": "Siena Saints",
          "short": "Saints",
          "abbr": "SIE",
-         "score": 68,
+         "score": 73,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -1791,16 +1791,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "8:31 - 2nd",
+       "detail": "6:40 - 2nd",
        "start": "2026-11-15T01:00Z",
        "period": 2,
-       "clock": "8:31",
+       "clock": "6:40",
        "teams": [
         {
          "name": "Brooklyn Nets",
          "short": "Nets",
          "abbr": "BKN",
-         "score": 30,
+         "score": 37,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -1812,7 +1812,7 @@
          "name": "Memphis Grizzlies",
          "short": "Grizzlies",
          "abbr": "MEM",
-         "score": 47,
+         "score": 55,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -1822,7 +1822,7 @@
         }
        ],
        "stat": {
-        "v": 2,
+        "v": 4,
         "name": "Day'Ron Sharpe"
        }
       },
@@ -1860,16 +1860,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "8:31 - 2nd",
+       "detail": "6:40 - 2nd",
        "start": "2026-11-15T01:00Z",
        "period": 2,
-       "clock": "8:31",
+       "clock": "6:40",
        "teams": [
         {
          "name": "Brooklyn Nets",
          "short": "Nets",
          "abbr": "BKN",
-         "score": 30,
+         "score": 37,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -1881,7 +1881,7 @@
          "name": "Memphis Grizzlies",
          "short": "Grizzlies",
          "abbr": "MEM",
-         "score": 47,
+         "score": 55,
          "ha": "home",
          "winner": null,
          "linescores": [
