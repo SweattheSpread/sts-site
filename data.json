@@ -1,5 +1,5 @@
 {
- "updated": "Nov 15, 2026, 11:32 AM PT",
+ "updated": "Nov 15, 2026, 11:34 AM PT",
  "record": {
   "w": 174,
   "l": 170,
@@ -1259,16 +1259,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "0:11 - 2nd",
+       "detail": "Halftime",
        "start": "2026-11-15T18:00Z",
        "period": 2,
-       "clock": "0:11",
+       "clock": "0:00",
        "teams": [
         {
          "name": "Jacksonville Jaguars",
          "short": "Jaguars",
          "abbr": "JAX",
-         "score": 13,
+         "score": 16,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -1519,16 +1519,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "0:11 - 2nd",
+       "detail": "Halftime",
        "start": "2026-11-15T18:00Z",
        "period": 2,
-       "clock": "0:11",
+       "clock": "0:00",
        "teams": [
         {
          "name": "Jacksonville Jaguars",
          "short": "Jaguars",
          "abbr": "JAX",
-         "score": 13,
+         "score": 16,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -1649,10 +1649,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "7:39 - 2nd",
+       "detail": "7:22 - 2nd",
        "start": "2026-11-15T18:00Z",
        "period": 2,
-       "clock": "7:39",
+       "clock": "7:22",
        "teams": [
         {
          "name": "Boise State Broncos",
