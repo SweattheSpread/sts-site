@@ -1,5 +1,5 @@
 {
- "updated": "Nov 15, 2026, 2:56 PM PT",
+ "updated": "Nov 15, 2026, 2:58 PM PT",
  "record": {
   "w": 174,
   "l": 170,
@@ -1485,16 +1485,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "8:12 - 3rd",
+       "detail": "7:10 - 3rd",
        "start": "2026-11-15T21:05Z",
        "period": 3,
-       "clock": "8:12",
+       "clock": "7:10",
        "teams": [
         {
          "name": "Seattle Seahawks",
          "short": "Seahawks",
          "abbr": "SEA",
-         "score": 14,
+         "score": 20,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -1740,16 +1740,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "11:11 - 1st",
+       "detail": "9:56 - 1st",
        "start": "2026-11-15T22:30Z",
        "period": 1,
-       "clock": "11:11",
+       "clock": "9:56",
        "teams": [
         {
          "name": "Canisius Golden Griffins",
          "short": "Golden Griffins",
          "abbr": "CAN",
-         "score": 14,
+         "score": 16,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -1760,7 +1760,7 @@
          "name": "Buffalo Bulls",
          "short": "Bulls",
          "abbr": "BUF",
-         "score": 13,
+         "score": 17,
          "ha": "home",
          "winner": null,
          "linescores": [
