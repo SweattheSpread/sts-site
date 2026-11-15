@@ -1,5 +1,5 @@
 {
- "updated": "Nov 14, 2026, 5:41 PM PT",
+ "updated": "Nov 14, 2026, 5:44 PM PT",
  "record": {
   "w": 164,
   "l": 163,
@@ -1464,16 +1464,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "6:45 - 2nd",
+       "detail": "6:06 - 2nd",
        "start": "2026-11-15T00:00Z",
        "period": 2,
-       "clock": "6:45",
+       "clock": "6:06",
        "teams": [
         {
          "name": "Brown Bears",
          "short": "Bears",
          "abbr": "BRWN",
-         "score": 67,
+         "score": 69,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -1485,7 +1485,7 @@
          "name": "Siena Saints",
          "short": "Saints",
          "abbr": "SIE",
-         "score": 64,
+         "score": 66,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -1791,16 +1791,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "10:38 - 2nd",
+       "detail": "9:45 - 2nd",
        "start": "2026-11-15T01:00Z",
        "period": 2,
-       "clock": "10:38",
+       "clock": "9:45",
        "teams": [
         {
          "name": "Brooklyn Nets",
          "short": "Nets",
          "abbr": "BKN",
-         "score": 25,
+         "score": 27,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -1812,7 +1812,7 @@
          "name": "Memphis Grizzlies",
          "short": "Grizzlies",
          "abbr": "MEM",
-         "score": 41,
+         "score": 43,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -1860,16 +1860,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "10:38 - 2nd",
+       "detail": "9:45 - 2nd",
        "start": "2026-11-15T01:00Z",
        "period": 2,
-       "clock": "10:38",
+       "clock": "9:45",
        "teams": [
         {
          "name": "Brooklyn Nets",
          "short": "Nets",
          "abbr": "BKN",
-         "score": 25,
+         "score": 27,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -1881,7 +1881,7 @@
          "name": "Memphis Grizzlies",
          "short": "Grizzlies",
          "abbr": "MEM",
-         "score": 41,
+         "score": 43,
          "ha": "home",
          "winner": null,
          "linescores": [
