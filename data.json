@@ -1,5 +1,5 @@
 {
- "updated": "Nov 15, 2026, 3:10 PM PT",
+ "updated": "Nov 15, 2026, 3:13 PM PT",
  "record": {
   "w": 174,
   "l": 170,
@@ -635,10 +635,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "5:17 - 3rd",
+       "detail": "4:09 - 3rd",
        "start": "2026-11-15T21:05Z",
        "period": 3,
-       "clock": "5:17",
+       "clock": "4:09",
        "teams": [
         {
          "name": "Los Angeles Rams",
@@ -1455,10 +1455,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "0:33 - 3rd",
+       "detail": "15:00 - 4th",
        "start": "2026-11-15T21:05Z",
-       "period": 3,
-       "clock": "0:33",
+       "period": 4,
+       "clock": "15:00",
        "teams": [
         {
          "name": "Seattle Seahawks",
@@ -1468,6 +1468,7 @@
          "ha": "away",
          "winner": null,
          "linescores": [
+          0,
           0,
           0,
           0
@@ -1481,6 +1482,7 @@
          "ha": "home",
          "winner": null,
          "linescores": [
+          0,
           0,
           0,
           0
@@ -1710,16 +1712,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "4:52 - 1st",
+       "detail": "3:46 - 1st",
        "start": "2026-11-15T22:30Z",
        "period": 1,
-       "clock": "4:52",
+       "clock": "3:46",
        "teams": [
         {
          "name": "Canisius Golden Griffins",
          "short": "Golden Griffins",
          "abbr": "CAN",
-         "score": 23,
+         "score": 26,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -1730,7 +1732,7 @@
          "name": "Buffalo Bulls",
          "short": "Bulls",
          "abbr": "BUF",
-         "score": 37,
+         "score": 40,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -1773,10 +1775,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "5:17 - 3rd",
+       "detail": "4:09 - 3rd",
        "start": "2026-11-15T21:05Z",
        "period": 3,
-       "clock": "5:17",
+       "clock": "4:09",
        "teams": [
         {
          "name": "Los Angeles Rams",
@@ -1912,10 +1914,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "14:51 - 3rd",
+       "detail": "13:42 - 3rd",
        "start": "2026-11-15T21:25Z",
        "period": 3,
-       "clock": "14:51",
+       "clock": "13:42",
        "teams": [
         {
          "name": "San Francisco 49ers",
@@ -1974,36 +1976,43 @@
       "line": 1.5,
       "stat": "made threes",
       "label": "P.J. Washington U 1.5 made threes",
+      "path": "basketball/nba",
+      "event": "401909989",
       "date": "20261115",
-      "unverified": true,
-      "reason": "Player not found in this game",
       "snapshot": {
-       "source": "odds-api",
-       "state": "pre",
-       "detail": "Scheduled",
-       "start": "2026-11-15T23:11:00Z",
+       "source": "espn",
+       "state": "in",
+       "detail": "10:21 - 1st",
+       "start": "2026-11-15T23:00Z",
+       "period": 1,
+       "clock": "10:21",
        "teams": [
         {
          "name": "Dallas Mavericks",
-         "short": "Dallas Mavericks",
-         "abbr": "",
-         "score": 0,
+         "short": "Mavericks",
+         "abbr": "DAL",
+         "score": 2,
          "ha": "away",
          "winner": null,
-         "linescores": []
+         "linescores": [
+          0
+         ]
         },
         {
          "name": "Boston Celtics",
-         "short": "Boston Celtics",
-         "abbr": "",
-         "score": 0,
+         "short": "Celtics",
+         "abbr": "BOS",
+         "score": 5,
          "ha": "home",
          "winner": null,
-         "linescores": []
+         "linescores": [
+          0
+         ]
         }
-       ]
+       ],
+       "stat": null
       },
-      "source": "odds-api"
+      "source": "espn"
      }
     ],
     "sport": "NBA",
