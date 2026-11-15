@@ -1,5 +1,5 @@
 {
- "updated": "Nov 15, 2026, 2:45 PM PT",
+ "updated": "Nov 15, 2026, 2:47 PM PT",
  "record": {
   "w": 174,
   "l": 170,
@@ -665,10 +665,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "Halftime",
+       "detail": "14:56 - 3rd",
        "start": "2026-11-15T21:05Z",
-       "period": 2,
-       "clock": "0:00",
+       "period": 3,
+       "clock": "14:56",
        "teams": [
         {
          "name": "Los Angeles Rams",
@@ -678,6 +678,7 @@
          "ha": "away",
          "winner": null,
          "linescores": [
+          0,
           0,
           0
          ]
@@ -690,6 +691,7 @@
          "ha": "home",
          "winner": null,
          "linescores": [
+          0,
           0,
           0
          ]
@@ -1483,16 +1485,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "10:18 - 3rd",
+       "detail": "9:28 - 3rd",
        "start": "2026-11-15T21:05Z",
        "period": 3,
-       "clock": "10:18",
+       "clock": "9:28",
        "teams": [
         {
          "name": "Seattle Seahawks",
          "short": "Seahawks",
          "abbr": "SEA",
-         "score": 7,
+         "score": 14,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -1801,10 +1803,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "Halftime",
+       "detail": "14:56 - 3rd",
        "start": "2026-11-15T21:05Z",
-       "period": 2,
-       "clock": "0:00",
+       "period": 3,
+       "clock": "14:56",
        "teams": [
         {
          "name": "Los Angeles Rams",
@@ -1814,6 +1816,7 @@
          "ha": "away",
          "winner": null,
          "linescores": [
+          0,
           0,
           0
          ]
@@ -1826,6 +1829,7 @@
          "ha": "home",
          "winner": null,
          "linescores": [
+          0,
           0,
           0
          ]
@@ -1938,10 +1942,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "1:18 - 2nd",
+       "detail": "1:10 - 2nd",
        "start": "2026-11-15T21:25Z",
        "period": 2,
-       "clock": "1:18",
+       "clock": "1:10",
        "teams": [
         {
          "name": "San Francisco 49ers",
