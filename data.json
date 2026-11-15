@@ -1,5 +1,5 @@
 {
- "updated": "Nov 14, 2026, 5:14 PM PT",
+ "updated": "Nov 14, 2026, 5:17 PM PT",
  "record": {
   "w": 164,
   "l": 163,
@@ -968,10 +968,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "14:05 - 2nd",
+       "detail": "13:29 - 2nd",
        "start": "2026-11-15T00:30Z",
        "period": 2,
-       "clock": "14:05",
+       "clock": "13:29",
        "teams": [
         {
          "name": "Purdue Boilermakers",
@@ -1485,7 +1485,7 @@
          "name": "Siena Saints",
          "short": "Saints",
          "abbr": "SIE",
-         "score": 40,
+         "score": 42,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -1791,16 +1791,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "9:13 - 1st",
+       "detail": "7:53 - 1st",
        "start": "2026-11-15T01:00Z",
        "period": 1,
-       "clock": "9:13",
+       "clock": "7:53",
        "teams": [
         {
          "name": "Brooklyn Nets",
          "short": "Nets",
          "abbr": "BKN",
-         "score": 7,
+         "score": 9,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -1811,7 +1811,7 @@
          "name": "Memphis Grizzlies",
          "short": "Grizzlies",
          "abbr": "MEM",
-         "score": 8,
+         "score": 16,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -1858,16 +1858,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "9:13 - 1st",
+       "detail": "7:53 - 1st",
        "start": "2026-11-15T01:00Z",
        "period": 1,
-       "clock": "9:13",
+       "clock": "7:53",
        "teams": [
         {
          "name": "Brooklyn Nets",
          "short": "Nets",
          "abbr": "BKN",
-         "score": 7,
+         "score": 9,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -1878,7 +1878,7 @@
          "name": "Memphis Grizzlies",
          "short": "Grizzlies",
          "abbr": "MEM",
-         "score": 8,
+         "score": 16,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -1887,7 +1887,7 @@
         }
        ],
        "stat": {
-        "v": 0,
+        "v": 3,
         "name": "Jaylen Wells"
        }
       },
