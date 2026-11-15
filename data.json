@@ -1,5 +1,5 @@
 {
- "updated": "Nov 14, 2026, 4:32 PM PT",
+ "updated": "Nov 14, 2026, 4:34 PM PT",
  "record": {
   "w": 164,
   "l": 163,
@@ -11,7 +11,7 @@
   "first": "2026-10-12",
   "last": "2026-11-13"
  },
- "pending": 29,
+ "pending": 30,
  "latest": [
   {
    "n": 788,
@@ -151,6 +151,79 @@
       "date": "20261114",
       "unverified": true,
       "reason": "Player not found in this game"
+     }
+    ],
+    "sport": "NBA",
+    "ticket": "single"
+   }
+  },
+  {
+   "n": 808,
+   "league": "NBA",
+   "type": "Player Prop",
+   "matchup": "Brooklyn Nets @ Memphis Grizzlies",
+   "pick": "Jaylen Wells Over 11.5 points (player prop)",
+   "odds": -115,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-14T17:10:00",
+   "timed": true,
+   "ticket": "single",
+   "espn": {
+    "legs": [
+     {
+      "kind": "prop",
+      "player": "Jaylen Wells",
+      "ou": "O",
+      "line": 11.5,
+      "stat": "points",
+      "label": "Jaylen Wells O 11.5 points",
+      "path": "basketball/nba",
+      "event": "401909300",
+      "date": "20261113",
+      "snapshot": {
+       "source": "espn",
+       "state": "post",
+       "detail": "Final",
+       "start": "2026-11-14T01:00Z",
+       "period": null,
+       "clock": null,
+       "teams": [
+        {
+         "name": "Memphis Grizzlies",
+         "short": "Grizzlies",
+         "abbr": "MEM",
+         "score": 142,
+         "ha": "away",
+         "winner": true,
+         "linescores": [
+          0,
+          0,
+          0,
+          0
+         ]
+        },
+        {
+         "name": "New Orleans Pelicans",
+         "short": "Pelicans",
+         "abbr": "NO",
+         "score": 111,
+         "ha": "home",
+         "winner": false,
+         "linescores": [
+          0,
+          0,
+          0,
+          0
+         ]
+        }
+       ],
+       "stat": {
+        "v": 11,
+        "name": "Jaylen Wells"
+       }
+      },
+      "source": "espn"
      }
     ],
     "sport": "NBA",
@@ -998,10 +1071,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "14:56 - 1st",
+       "detail": "12:51 - 1st",
        "start": "2026-11-15T00:30Z",
        "period": 1,
-       "clock": "14:56",
+       "clock": "12:51",
        "teams": [
         {
          "name": "Purdue Boilermakers",
@@ -1492,16 +1565,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "5:58 - 1st",
+       "detail": "5:15 - 1st",
        "start": "2026-11-15T00:00Z",
        "period": 1,
-       "clock": "5:58",
+       "clock": "5:15",
        "teams": [
         {
          "name": "Brown Bears",
          "short": "Bears",
          "abbr": "BRWN",
-         "score": 29,
+         "score": 34,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -1512,7 +1585,7 @@
          "name": "Siena Saints",
          "short": "Saints",
          "abbr": "SIE",
-         "score": 17,
+         "score": 19,
          "ha": "home",
          "winner": null,
          "linescores": [

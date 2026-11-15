@@ -1,5 +1,5 @@
 {
- "updated": "Nov 14, 2026, 4:32 PM PT",
+ "updated": "Nov 14, 2026, 4:34 PM PT",
  "record": {
   "w": 164,
   "l": 163,
@@ -11,7 +11,7 @@
   "first": "2026-10-12",
   "last": "2026-11-13"
  },
- "pending": 29,
+ "pending": 30,
  "plays": [
   {
    "n": 334,
@@ -5576,6 +5576,22 @@
    "matchup": "Brooklyn Nets @ Memphis Grizzlies",
    "pick": "Day'Ron Sharpe Over 9.5 points (player prop)",
    "odds": 120,
+   "units": 1.0,
+   "result": null,
+   "pl": null,
+   "pending": true
+  },
+  {
+   "n": 808,
+   "date": "2026-11-14",
+   "day": "2026-11-14",
+   "league": "NBA",
+   "market": "player_prop",
+   "market_label": "Player Prop",
+   "ticket": "single",
+   "matchup": "Brooklyn Nets @ Memphis Grizzlies",
+   "pick": "Jaylen Wells Over 11.5 points (player prop)",
+   "odds": -115,
    "units": 1.0,
    "result": null,
    "pl": null,
