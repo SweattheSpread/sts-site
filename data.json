@@ -1,5 +1,5 @@
 {
- "updated": "Nov 15, 2026, 3:37 PM PT",
+ "updated": "Nov 15, 2026, 3:39 PM PT",
  "record": {
   "w": 174,
   "l": 170,
@@ -738,10 +738,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "7:11 - 4th",
+       "detail": "5:43 - 4th",
        "start": "2026-11-15T21:05Z",
        "period": 4,
-       "clock": "7:11",
+       "clock": "5:43",
        "teams": [
         {
          "name": "Los Angeles Rams",
@@ -1560,10 +1560,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "5:47 - 4th",
+       "detail": "4:31 - 4th",
        "start": "2026-11-15T21:05Z",
        "period": 4,
-       "clock": "5:47",
+       "clock": "4:31",
        "teams": [
         {
          "name": "Seattle Seahawks",
@@ -1817,10 +1817,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "Halftime",
+       "detail": "19:48 - 2nd",
        "start": "2026-11-15T22:30Z",
-       "period": 1,
-       "clock": "0:00",
+       "period": 2,
+       "clock": "19:48",
        "teams": [
         {
          "name": "Canisius Golden Griffins",
@@ -1830,6 +1830,7 @@
          "ha": "away",
          "winner": null,
          "linescores": [
+          0,
           0
          ]
         },
@@ -1841,6 +1842,7 @@
          "ha": "home",
          "winner": null,
          "linescores": [
+          0,
           0
          ]
         }
@@ -1880,10 +1882,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "7:11 - 4th",
+       "detail": "5:43 - 4th",
        "start": "2026-11-15T21:05Z",
        "period": 4,
-       "clock": "7:11",
+       "clock": "5:43",
        "teams": [
         {
          "name": "Los Angeles Rams",
@@ -2021,10 +2023,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "3:49 - 3rd",
+       "detail": "3:36 - 3rd",
        "start": "2026-11-15T21:25Z",
        "period": 3,
-       "clock": "3:49",
+       "clock": "3:36",
        "teams": [
         {
          "name": "San Francisco 49ers",
@@ -2089,10 +2091,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "End of 1st",
+       "detail": "11:37 - 2nd",
        "start": "2026-11-15T23:00Z",
-       "period": 1,
-       "clock": "0.0",
+       "period": 2,
+       "clock": "11:37",
        "teams": [
         {
          "name": "Dallas Mavericks",
@@ -2102,6 +2104,7 @@
          "ha": "away",
          "winner": null,
          "linescores": [
+          0,
           0
          ]
         },
@@ -2113,6 +2116,7 @@
          "ha": "home",
          "winner": null,
          "linescores": [
+          0,
           0
          ]
         }
