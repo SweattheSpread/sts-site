@@ -1,5 +1,5 @@
 {
- "updated": "Nov 15, 2026, 11:40 AM PT",
+ "updated": "Nov 15, 2026, 11:43 AM PT",
  "record": {
   "w": 174,
   "l": 170,
@@ -804,10 +804,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "14:37 - 3rd",
+       "detail": "13:49 - 3rd",
        "start": "2026-11-15T18:00Z",
        "period": 3,
-       "clock": "14:37",
+       "clock": "13:49",
        "teams": [
         {
          "name": "Carolina Panthers",
@@ -869,10 +869,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "15:00 - 3rd",
+       "detail": "14:48 - 3rd",
        "start": "2026-11-15T18:00Z",
        "period": 3,
-       "clock": "15:00",
+       "clock": "14:48",
        "teams": [
         {
          "name": "Miami Dolphins",
@@ -883,6 +883,7 @@
          "winner": null,
          "linescores": [
           0,
+          0,
           0
          ]
         },
@@ -890,10 +891,11 @@
          "name": "Indianapolis Colts",
          "short": "Colts",
          "abbr": "IND",
-         "score": 14,
+         "score": 21,
          "ha": "home",
          "winner": null,
          "linescores": [
+          0,
           0,
           0
          ]
@@ -933,10 +935,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "14:49 - 3rd",
+       "detail": "14:26 - 3rd",
        "start": "2026-11-15T18:00Z",
        "period": 3,
-       "clock": "14:49",
+       "clock": "14:26",
        "teams": [
         {
          "name": "Houston Texans",
@@ -999,10 +1001,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "Halftime",
+       "detail": "13:43 - 3rd",
        "start": "2026-11-15T18:00Z",
-       "period": 2,
-       "clock": "0:00",
+       "period": 3,
+       "clock": "13:43",
        "teams": [
         {
          "name": "Kansas City Chiefs",
@@ -1012,6 +1014,7 @@
          "ha": "away",
          "winner": null,
          "linescores": [
+          0,
           0,
           0
          ]
@@ -1024,6 +1027,7 @@
          "ha": "home",
          "winner": null,
          "linescores": [
+          0,
           0,
           0
          ]
@@ -1127,10 +1131,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "14:49 - 3rd",
+       "detail": "14:26 - 3rd",
        "start": "2026-11-15T18:00Z",
        "period": 3,
-       "clock": "14:49",
+       "clock": "14:26",
        "teams": [
         {
          "name": "Houston Texans",
@@ -1198,10 +1202,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "14:49 - 3rd",
+       "detail": "14:26 - 3rd",
        "start": "2026-11-15T18:00Z",
        "period": 3,
-       "clock": "14:49",
+       "clock": "14:26",
        "teams": [
         {
          "name": "Houston Texans",
@@ -1331,10 +1335,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "14:49 - 3rd",
+       "detail": "14:26 - 3rd",
        "start": "2026-11-15T18:00Z",
        "period": 3,
-       "clock": "14:49",
+       "clock": "14:26",
        "teams": [
         {
          "name": "Houston Texans",
@@ -1397,10 +1401,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "14:49 - 3rd",
+       "detail": "14:26 - 3rd",
        "start": "2026-11-15T18:00Z",
        "period": 3,
-       "clock": "14:49",
+       "clock": "14:26",
        "teams": [
         {
          "name": "Houston Texans",
@@ -1661,16 +1665,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "4:34 - 2nd",
+       "detail": "4:00 - 2nd",
        "start": "2026-11-15T18:00Z",
        "period": 2,
-       "clock": "4:34",
+       "clock": "4:00",
        "teams": [
         {
          "name": "Boise State Broncos",
          "short": "Broncos",
          "abbr": "BOIS",
-         "score": 62,
+         "score": 64,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -1682,7 +1686,7 @@
          "name": "Nebraska Cornhuskers",
          "short": "Cornhuskers",
          "abbr": "NEB",
-         "score": 88,
+         "score": 90,
          "ha": "home",
          "winner": null,
          "linescores": [
