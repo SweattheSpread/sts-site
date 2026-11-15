@@ -1,5 +1,5 @@
 {
- "updated": "Nov 14, 2026, 4:42 PM PT",
+ "updated": "Nov 14, 2026, 4:53 PM PT",
  "record": {
   "w": 164,
   "l": 163,
@@ -1071,10 +1071,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "10:09 - 1st",
+       "detail": "3:19 - 1st",
        "start": "2026-11-15T00:30Z",
        "period": 1,
-       "clock": "10:09",
+       "clock": "3:19",
        "teams": [
         {
          "name": "Purdue Boilermakers",
@@ -1091,7 +1091,7 @@
          "name": "Iowa Hawkeyes",
          "short": "Hawkeyes",
          "abbr": "IOWA",
-         "score": 0,
+         "score": 6,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -1565,16 +1565,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "2:31 - 1st",
+       "detail": "Halftime",
        "start": "2026-11-15T00:00Z",
        "period": 1,
-       "clock": "2:31",
+       "clock": "0:00",
        "teams": [
         {
          "name": "Brown Bears",
          "short": "Bears",
          "abbr": "BRWN",
-         "score": 38,
+         "score": 44,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -1585,7 +1585,7 @@
          "name": "Siena Saints",
          "short": "Saints",
          "abbr": "SIE",
-         "score": 26,
+         "score": 34,
          "ha": "home",
          "winner": null,
          "linescores": [
