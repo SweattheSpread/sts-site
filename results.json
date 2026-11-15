@@ -1,5 +1,5 @@
 {
- "updated": "Nov 15, 2026, 12:25 AM PT",
+ "updated": "Nov 15, 2026, 3:34 AM PT",
  "record": {
   "w": 174,
   "l": 170,
@@ -11,7 +11,7 @@
   "first": "2026-10-12",
   "last": "2026-11-14"
  },
- "pending": 13,
+ "pending": 15,
  "plays": [
   {
    "n": 334,
@@ -5784,6 +5784,38 @@
    "matchup": "Jacksonville Jaguars @ Tennessee Titans",
    "pick": "Jacksonville Jaguars -11 -108",
    "odds": -108,
+   "units": 1.0,
+   "result": null,
+   "pl": null,
+   "pending": true
+  },
+  {
+   "n": 809,
+   "date": "2026-11-15",
+   "day": "2026-11-15",
+   "league": "NFL",
+   "market": "player_prop",
+   "market_label": "Player Prop",
+   "ticket": "single",
+   "matchup": "Houston Texans @ Cleveland Browns",
+   "pick": "Kayshon Boutte longest reception Over 13.5 (player prop)",
+   "odds": -120,
+   "units": 1.0,
+   "result": null,
+   "pl": null,
+   "pending": true
+  },
+  {
+   "n": 810,
+   "date": "2026-11-15",
+   "day": "2026-11-15",
+   "league": "NFL",
+   "market": "player_prop",
+   "market_label": "Player Prop",
+   "ticket": "single",
+   "matchup": "Houston Texans @ Cleveland Browns",
+   "pick": "Denzel Boston longest reception Over 21.5 (player prop)",
+   "odds": -120,
    "units": 1.0,
    "result": null,
    "pl": null,

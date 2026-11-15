@@ -1,5 +1,5 @@
 {
- "updated": "Nov 15, 2026, 12:25 AM PT",
+ "updated": "Nov 15, 2026, 3:34 AM PT",
  "record": {
   "w": 174,
   "l": 170,
@@ -11,7 +11,7 @@
   "first": "2026-10-12",
   "last": "2026-11-14"
  },
- "pending": 13,
+ "pending": 15,
  "latest": [
   {
    "n": 808,
@@ -631,6 +631,122 @@
          "name": "Tennessee Titans",
          "short": "Titans",
          "abbr": "TEN",
+         "score": 0,
+         "ha": "home",
+         "winner": null,
+         "linescores": []
+        }
+       ]
+      },
+      "source": "espn"
+     }
+    ],
+    "sport": "NFL",
+    "ticket": "single"
+   }
+  },
+  {
+   "n": 809,
+   "league": "NFL",
+   "type": "Player Prop",
+   "matchup": "Houston Texans @ Cleveland Browns",
+   "pick": "Kayshon Boutte longest reception Over 13.5 (player prop)",
+   "odds": -120,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-15T10:00:00",
+   "timed": true,
+   "ticket": "single",
+   "espn": {
+    "legs": [
+     {
+      "kind": "team_total",
+      "side": "Kayshon Boutte longest reception",
+      "ou": "O",
+      "line": 13.5,
+      "label": "Kayshon Boutte longest reception O 13.5",
+      "path": "football/nfl",
+      "event": "401873056",
+      "date": "20261115",
+      "snapshot": {
+       "source": "espn",
+       "state": "pre",
+       "detail": "11/15 - 1:00 PM EST",
+       "start": "2026-11-15T18:00Z",
+       "period": null,
+       "clock": null,
+       "teams": [
+        {
+         "name": "Houston Texans",
+         "short": "Texans",
+         "abbr": "HOU",
+         "score": 0,
+         "ha": "away",
+         "winner": null,
+         "linescores": []
+        },
+        {
+         "name": "Cleveland Browns",
+         "short": "Browns",
+         "abbr": "CLE",
+         "score": 0,
+         "ha": "home",
+         "winner": null,
+         "linescores": []
+        }
+       ]
+      },
+      "source": "espn"
+     }
+    ],
+    "sport": "NFL",
+    "ticket": "single"
+   }
+  },
+  {
+   "n": 810,
+   "league": "NFL",
+   "type": "Player Prop",
+   "matchup": "Houston Texans @ Cleveland Browns",
+   "pick": "Denzel Boston longest reception Over 21.5 (player prop)",
+   "odds": -120,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-15T10:00:00",
+   "timed": true,
+   "ticket": "single",
+   "espn": {
+    "legs": [
+     {
+      "kind": "team_total",
+      "side": "Denzel Boston longest reception",
+      "ou": "O",
+      "line": 21.5,
+      "label": "Denzel Boston longest reception O 21.5",
+      "path": "football/nfl",
+      "event": "401873056",
+      "date": "20261115",
+      "snapshot": {
+       "source": "espn",
+       "state": "pre",
+       "detail": "11/15 - 1:00 PM EST",
+       "start": "2026-11-15T18:00Z",
+       "period": null,
+       "clock": null,
+       "teams": [
+        {
+         "name": "Houston Texans",
+         "short": "Texans",
+         "abbr": "HOU",
+         "score": 0,
+         "ha": "away",
+         "winner": null,
+         "linescores": []
+        },
+        {
+         "name": "Cleveland Browns",
+         "short": "Browns",
+         "abbr": "CLE",
          "score": 0,
          "ha": "home",
          "winner": null,
