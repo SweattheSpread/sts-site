@@ -1,5 +1,5 @@
 {
- "updated": "Nov 14, 2026, 7:39 PM PT",
+ "updated": "Nov 14, 2026, 7:42 PM PT",
  "record": {
   "w": 164,
   "l": 163,
@@ -967,11 +967,11 @@
       "date": "20261114",
       "snapshot": {
        "source": "espn",
-       "state": "in",
-       "detail": "1:12 - 4th",
+       "state": "post",
+       "detail": "Final",
        "start": "2026-11-15T00:30Z",
-       "period": 4,
-       "clock": "1:12",
+       "period": null,
+       "clock": null,
        "teams": [
         {
          "name": "Purdue Boilermakers",
@@ -979,7 +979,7 @@
          "abbr": "PUR",
          "score": 7,
          "ha": "away",
-         "winner": null,
+         "winner": false,
          "linescores": [
           0,
           0,
@@ -993,7 +993,7 @@
          "abbr": "IOWA",
          "score": 28,
          "ha": "home",
-         "winner": null,
+         "winner": true,
          "linescores": [
           0,
           0,
