@@ -1,5 +1,5 @@
 {
- "updated": "Nov 15, 2026, 12:25 PM PT",
+ "updated": "Nov 15, 2026, 12:27 PM PT",
  "record": {
   "w": 174,
   "l": 170,
@@ -11,7 +11,7 @@
   "first": "2026-10-12",
   "last": "2026-11-14"
  },
- "pending": 27,
+ "pending": 28,
  "plays": [
   {
    "n": 334,
@@ -5993,6 +5993,22 @@
    "pick": "Simi Fehoko Over 1.5 receptions (player prop)",
    "odds": 155,
    "units": 1.0,
+   "result": null,
+   "pl": null,
+   "pending": true
+  },
+  {
+   "n": 823,
+   "date": "2026-11-15",
+   "day": "2026-11-15",
+   "league": "NFL",
+   "market": "team_total",
+   "market_label": "Team Total",
+   "ticket": "single",
+   "matchup": "Buffalo Bills @ New York Jets",
+   "pick": "Jets TT Under 17.5 (vs Bills) LIVE",
+   "odds": 115,
+   "units": 3.0,
    "result": null,
    "pl": null,
    "pending": true
