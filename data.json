@@ -1,5 +1,5 @@
 {
- "updated": "Nov 15, 2026, 10:56 AM PT",
+ "updated": "Nov 15, 2026, 11:09 AM PT",
  "record": {
   "w": 174,
   "l": 170,
@@ -674,16 +674,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "9:01 - 2nd",
+       "detail": "4:49 - 2nd",
        "start": "2026-11-15T18:00Z",
        "period": 2,
-       "clock": "9:01",
+       "clock": "4:49",
        "teams": [
         {
          "name": "Buffalo Bills",
          "short": "Bills",
          "abbr": "BUF",
-         "score": 7,
+         "score": 10,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -804,16 +804,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "8:11 - 2nd",
+       "detail": "3:17 - 2nd",
        "start": "2026-11-15T18:00Z",
        "period": 2,
-       "clock": "8:11",
+       "clock": "3:17",
        "teams": [
         {
          "name": "Carolina Panthers",
          "short": "Panthers",
          "abbr": "CAR",
-         "score": 0,
+         "score": 7,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -867,10 +867,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "10:30 - 2nd",
+       "detail": "6:35 - 2nd",
        "start": "2026-11-15T18:00Z",
        "period": 2,
-       "clock": "10:30",
+       "clock": "6:35",
        "teams": [
         {
          "name": "Miami Dolphins",
@@ -931,10 +931,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "9:02 - 2nd",
+       "detail": "4:12 - 2nd",
        "start": "2026-11-15T18:00Z",
        "period": 2,
-       "clock": "9:02",
+       "clock": "4:12",
        "teams": [
         {
          "name": "Houston Texans",
@@ -952,7 +952,7 @@
          "name": "Cleveland Browns",
          "short": "Browns",
          "abbr": "CLE",
-         "score": 3,
+         "score": 10,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -995,10 +995,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "9:24 - 2nd",
+       "detail": "3:49 - 2nd",
        "start": "2026-11-15T18:00Z",
        "period": 2,
-       "clock": "9:24",
+       "clock": "3:49",
        "teams": [
         {
          "name": "Kansas City Chiefs",
@@ -1016,7 +1016,7 @@
          "name": "Atlanta Falcons",
          "short": "Falcons",
          "abbr": "ATL",
-         "score": 0,
+         "score": 3,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -1058,16 +1058,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "11:39 - 2nd",
+       "detail": "6:17 - 2nd",
        "start": "2026-11-15T18:00Z",
        "period": 2,
-       "clock": "11:39",
+       "clock": "6:17",
        "teams": [
         {
          "name": "Minnesota Vikings",
          "short": "Vikings",
          "abbr": "MIN",
-         "score": 10,
+         "score": 17,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -1123,10 +1123,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "9:02 - 2nd",
+       "detail": "4:12 - 2nd",
        "start": "2026-11-15T18:00Z",
        "period": 2,
-       "clock": "9:02",
+       "clock": "4:12",
        "teams": [
         {
          "name": "Houston Texans",
@@ -1144,7 +1144,7 @@
          "name": "Cleveland Browns",
          "short": "Browns",
          "abbr": "CLE",
-         "score": 3,
+         "score": 10,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -1192,10 +1192,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "9:02 - 2nd",
+       "detail": "4:12 - 2nd",
        "start": "2026-11-15T18:00Z",
        "period": 2,
-       "clock": "9:02",
+       "clock": "4:12",
        "teams": [
         {
          "name": "Houston Texans",
@@ -1213,7 +1213,7 @@
          "name": "Cleveland Browns",
          "short": "Browns",
          "abbr": "CLE",
-         "score": 3,
+         "score": 10,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -1223,7 +1223,7 @@
         }
        ],
        "stat": {
-        "v": 0,
+        "v": 65,
         "name": "Jerry Jeudy"
        }
       },
@@ -1259,16 +1259,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "8:38 - 2nd",
+       "detail": "4:58 - 2nd",
        "start": "2026-11-15T18:00Z",
        "period": 2,
-       "clock": "8:38",
+       "clock": "4:58",
        "teams": [
         {
          "name": "Jacksonville Jaguars",
          "short": "Jaguars",
          "abbr": "JAX",
-         "score": 10,
+         "score": 13,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -1280,7 +1280,7 @@
          "name": "Tennessee Titans",
          "short": "Titans",
          "abbr": "TEN",
-         "score": 3,
+         "score": 10,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -1323,10 +1323,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "9:02 - 2nd",
+       "detail": "4:12 - 2nd",
        "start": "2026-11-15T18:00Z",
        "period": 2,
-       "clock": "9:02",
+       "clock": "4:12",
        "teams": [
         {
          "name": "Houston Texans",
@@ -1344,7 +1344,7 @@
          "name": "Cleveland Browns",
          "short": "Browns",
          "abbr": "CLE",
-         "score": 3,
+         "score": 10,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -1387,10 +1387,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "9:02 - 2nd",
+       "detail": "4:12 - 2nd",
        "start": "2026-11-15T18:00Z",
        "period": 2,
-       "clock": "9:02",
+       "clock": "4:12",
        "teams": [
         {
          "name": "Houston Texans",
@@ -1408,7 +1408,7 @@
          "name": "Cleveland Browns",
          "short": "Browns",
          "abbr": "CLE",
-         "score": 3,
+         "score": 10,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -1519,16 +1519,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "8:38 - 2nd",
+       "detail": "4:58 - 2nd",
        "start": "2026-11-15T18:00Z",
        "period": 2,
-       "clock": "8:38",
+       "clock": "4:58",
        "teams": [
         {
          "name": "Jacksonville Jaguars",
          "short": "Jaguars",
          "abbr": "JAX",
-         "score": 10,
+         "score": 13,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -1540,7 +1540,7 @@
          "name": "Tennessee Titans",
          "short": "Titans",
          "abbr": "TEN",
-         "score": 3,
+         "score": 10,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -1584,16 +1584,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "9:01 - 2nd",
+       "detail": "4:49 - 2nd",
        "start": "2026-11-15T18:00Z",
        "period": 2,
-       "clock": "9:01",
+       "clock": "4:49",
        "teams": [
         {
          "name": "Buffalo Bills",
          "short": "Bills",
          "abbr": "BUF",
-         "score": 7,
+         "score": 10,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -1649,10 +1649,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "Halftime",
+       "detail": "End of 2nd",
        "start": "2026-11-15T18:00Z",
-       "period": 1,
-       "clock": "0:00",
+       "period": 2,
+       "clock": "20:00",
        "teams": [
         {
          "name": "Boise State Broncos",
@@ -1662,6 +1662,7 @@
          "ha": "away",
          "winner": null,
          "linescores": [
+          0,
           0
          ]
         },
@@ -1673,6 +1674,7 @@
          "ha": "home",
          "winner": null,
          "linescores": [
+          0,
           0
          ]
         }
