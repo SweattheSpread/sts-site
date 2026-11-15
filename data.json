@@ -1,5 +1,5 @@
 {
- "updated": "Nov 14, 2026, 5:04 PM PT",
+ "updated": "Nov 14, 2026, 5:08 PM PT",
  "record": {
   "w": 164,
   "l": 163,
@@ -1071,10 +1071,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "1:13 - 1st",
+       "detail": "0:10 - 1st",
        "start": "2026-11-15T00:30Z",
        "period": 1,
-       "clock": "1:13",
+       "clock": "0:10",
        "teams": [
         {
          "name": "Purdue Boilermakers",
@@ -1565,16 +1565,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "18:12 - 2nd",
+       "detail": "17:50 - 2nd",
        "start": "2026-11-15T00:00Z",
        "period": 2,
-       "clock": "18:12",
+       "clock": "17:50",
        "teams": [
         {
          "name": "Brown Bears",
          "short": "Bears",
          "abbr": "BRWN",
-         "score": 51,
+         "score": 53,
          "ha": "away",
          "winner": null,
          "linescores": [
