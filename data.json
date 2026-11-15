@@ -1,5 +1,5 @@
 {
- "updated": "Nov 14, 2026, 5:02 PM PT",
+ "updated": "Nov 14, 2026, 5:04 PM PT",
  "record": {
   "w": 164,
   "l": 163,
@@ -1071,10 +1071,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "2:27 - 1st",
+       "detail": "1:13 - 1st",
        "start": "2026-11-15T00:30Z",
        "period": 1,
-       "clock": "2:27",
+       "clock": "1:13",
        "teams": [
         {
          "name": "Purdue Boilermakers",
@@ -1565,19 +1565,20 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "Halftime",
+       "detail": "18:12 - 2nd",
        "start": "2026-11-15T00:00Z",
-       "period": 1,
-       "clock": "0:00",
+       "period": 2,
+       "clock": "18:12",
        "teams": [
         {
          "name": "Brown Bears",
          "short": "Bears",
          "abbr": "BRWN",
-         "score": 44,
+         "score": 51,
          "ha": "away",
          "winner": null,
          "linescores": [
+          0,
           0
          ]
         },
@@ -1585,10 +1586,11 @@
          "name": "Siena Saints",
          "short": "Saints",
          "abbr": "SIE",
-         "score": 34,
+         "score": 37,
          "ha": "home",
          "winner": null,
          "linescores": [
+          0,
           0
          ]
         }
