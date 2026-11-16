@@ -1,5 +1,5 @@
 {
- "updated": "Nov 15, 2026, 6:04 PM PT",
+ "updated": "Nov 15, 2026, 6:07 PM PT",
  "record": {
   "w": 174,
   "l": 170,
@@ -1424,10 +1424,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P2 05:14",
+       "detail": "P2 04:15",
        "start": "2026-11-16T00:30:00Z",
        "period": 2,
-       "clock": "05:14",
+       "clock": "04:15",
        "teams": [
         {
          "name": "Oilers",
@@ -1483,10 +1483,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P2 19:13",
+       "detail": "P2 17:52",
        "start": "2026-11-16T01:00:00Z",
        "period": 2,
-       "clock": "19:13",
+       "clock": "17:52",
        "teams": [
         {
          "name": "Flames",
@@ -2044,16 +2044,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "10:56 - 4th",
+       "detail": "9:42 - 4th",
        "start": "2026-11-16T00:00Z",
        "period": 4,
-       "clock": "10:56",
+       "clock": "9:42",
        "teams": [
         {
          "name": "Houston Rockets",
          "short": "Rockets",
          "abbr": "HOU",
-         "score": 119,
+         "score": 122,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -2067,7 +2067,7 @@
          "name": "Washington Wizards",
          "short": "Wizards",
          "abbr": "WSH",
-         "score": 88,
+         "score": 92,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -2117,7 +2117,7 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "0.0 - 2nd",
+       "detail": "Halftime",
        "start": "2026-11-16T01:00Z",
        "period": 2,
        "clock": "0.0",
