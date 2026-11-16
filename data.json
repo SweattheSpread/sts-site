@@ -1,5 +1,5 @@
 {
- "updated": "Nov 15, 2026, 4:28 PM PT",
+ "updated": "Nov 15, 2026, 4:30 PM PT",
  "record": {
   "w": 174,
   "l": 170,
@@ -2020,16 +2020,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "5:47 - 3rd",
+       "detail": "4:15 - 3rd",
        "start": "2026-11-15T23:00Z",
        "period": 3,
-       "clock": "5:47",
+       "clock": "4:15",
        "teams": [
         {
          "name": "Dallas Mavericks",
          "short": "Mavericks",
          "abbr": "DAL",
-         "score": 54,
+         "score": 58,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -2042,7 +2042,7 @@
          "name": "Boston Celtics",
          "short": "Celtics",
          "abbr": "BOS",
-         "score": 88,
+         "score": 91,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -2088,10 +2088,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "2:16 - 1st",
+       "detail": "2:11 - 1st",
        "start": "2026-11-16T00:00Z",
        "period": 1,
-       "clock": "2:16",
+       "clock": "2:11",
        "teams": [
         {
          "name": "Houston Rockets",
