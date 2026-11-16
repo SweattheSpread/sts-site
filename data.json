@@ -1,5 +1,5 @@
 {
- "updated": "Nov 15, 2026, 7:37 PM PT",
+ "updated": "Nov 15, 2026, 7:41 PM PT",
  "record": {
   "w": 174,
   "l": 170,
@@ -740,10 +740,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "0:21 - 3rd",
+       "detail": "15:00 - 4th",
        "start": "2026-11-16T01:20Z",
-       "period": 3,
-       "clock": "0:21",
+       "period": 4,
+       "clock": "15:00",
        "teams": [
         {
          "name": "Pittsburgh Steelers",
@@ -753,6 +753,7 @@
          "ha": "away",
          "winner": null,
          "linescores": [
+          0,
           0,
           0,
           0
@@ -766,6 +767,7 @@
          "ha": "home",
          "winner": null,
          "linescores": [
+          0,
           0,
           0,
           0
