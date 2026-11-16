@@ -1,5 +1,5 @@
 {
- "updated": "Nov 15, 2026, 6:00 PM PT",
+ "updated": "Nov 15, 2026, 6:04 PM PT",
  "record": {
   "w": 174,
   "l": 170,
@@ -740,10 +740,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "14:47 - 2nd",
+       "detail": "13:19 - 2nd",
        "start": "2026-11-16T01:20Z",
        "period": 2,
-       "clock": "14:47",
+       "clock": "13:19",
        "teams": [
         {
          "name": "Pittsburgh Steelers",
@@ -1424,10 +1424,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P2 08:35",
+       "detail": "P2 05:14",
        "start": "2026-11-16T00:30:00Z",
        "period": 2,
-       "clock": "08:35",
+       "clock": "05:14",
        "teams": [
         {
          "name": "Oilers",
@@ -1442,7 +1442,7 @@
          "name": "Flyers",
          "short": "PHI",
          "abbr": "PHI",
-         "score": 0,
+         "score": 1,
          "ha": "home",
          "winner": null,
          "linescores": []
@@ -1483,10 +1483,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P1 01:20",
+       "detail": "P2 19:13",
        "start": "2026-11-16T01:00:00Z",
-       "period": 1,
-       "clock": "01:20",
+       "period": 2,
+       "clock": "19:13",
        "teams": [
         {
          "name": "Flames",
@@ -2044,10 +2044,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "3.2 - 3rd",
+       "detail": "10:56 - 4th",
        "start": "2026-11-16T00:00Z",
-       "period": 3,
-       "clock": "3.2",
+       "period": 4,
+       "clock": "10:56",
        "teams": [
         {
          "name": "Houston Rockets",
@@ -2059,6 +2059,7 @@
          "linescores": [
           0,
           0,
+          0,
           0
          ]
         },
@@ -2066,10 +2067,11 @@
          "name": "Washington Wizards",
          "short": "Wizards",
          "abbr": "WSH",
-         "score": 85,
+         "score": 88,
          "ha": "home",
          "winner": null,
          "linescores": [
+          0,
           0,
           0,
           0
@@ -2115,16 +2117,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "1:54 - 2nd",
+       "detail": "0.0 - 2nd",
        "start": "2026-11-16T01:00Z",
        "period": 2,
-       "clock": "1:54",
+       "clock": "0.0",
        "teams": [
         {
          "name": "Atlanta Hawks",
          "short": "Hawks",
          "abbr": "ATL",
-         "score": 47,
+         "score": 55,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -2136,7 +2138,7 @@
          "name": "Milwaukee Bucks",
          "short": "Bucks",
          "abbr": "MIL",
-         "score": 51,
+         "score": 53,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -2146,7 +2148,7 @@
         }
        ],
        "stat": {
-        "v": 4,
+        "v": 3,
         "name": "Jaime Jaquez Jr."
        }
       },
