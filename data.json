@@ -1,5 +1,5 @@
 {
- "updated": "Nov 15, 2026, 7:03 PM PT",
+ "updated": "Nov 15, 2026, 7:05 PM PT",
  "record": {
   "w": 174,
   "l": 170,
@@ -1483,10 +1483,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P3 15:56",
+       "detail": "P3 15:13",
        "start": "2026-11-16T01:00:00Z",
        "period": 3,
-       "clock": "15:56",
+       "clock": "15:13",
        "teams": [
         {
          "name": "Flames",
@@ -1501,7 +1501,7 @@
          "name": "Ducks",
          "short": "ANA",
          "abbr": "ANA",
-         "score": 3,
+         "score": 4,
          "ha": "home",
          "winner": null,
          "linescores": []
@@ -1747,7 +1747,7 @@
          "name": "Wisconsin Badgers",
          "short": "Badgers",
          "abbr": "WIS",
-         "score": 83,
+         "score": 84,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -2119,10 +2119,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "6:58 - 4th",
+       "detail": "5:49 - 4th",
        "start": "2026-11-16T01:00Z",
        "period": 4,
-       "clock": "6:58",
+       "clock": "5:49",
        "teams": [
         {
          "name": "Atlanta Hawks",
@@ -2142,7 +2142,7 @@
          "name": "Milwaukee Bucks",
          "short": "Bucks",
          "abbr": "MIL",
-         "score": 92,
+         "score": 95,
          "ha": "home",
          "winner": null,
          "linescores": [
