@@ -1,5 +1,5 @@
 {
- "updated": "Nov 15, 2026, 6:07 PM PT",
+ "updated": "Nov 15, 2026, 6:10 PM PT",
  "record": {
   "w": 174,
   "l": 170,
@@ -740,10 +740,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "13:19 - 2nd",
+       "detail": "12:25 - 2nd",
        "start": "2026-11-16T01:20Z",
        "period": 2,
-       "clock": "13:19",
+       "clock": "12:25",
        "teams": [
         {
          "name": "Pittsburgh Steelers",
@@ -1424,10 +1424,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P2 04:15",
+       "detail": "P2 02:48",
        "start": "2026-11-16T00:30:00Z",
        "period": 2,
-       "clock": "04:15",
+       "clock": "02:48",
        "teams": [
         {
          "name": "Oilers",
@@ -1483,10 +1483,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P2 17:52",
+       "detail": "P2 15:26",
        "start": "2026-11-16T01:00:00Z",
        "period": 2,
-       "clock": "17:52",
+       "clock": "15:26",
        "teams": [
         {
          "name": "Flames",
@@ -2044,16 +2044,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "9:42 - 4th",
+       "detail": "8:16 - 4th",
        "start": "2026-11-16T00:00Z",
        "period": 4,
-       "clock": "9:42",
+       "clock": "8:16",
        "teams": [
         {
          "name": "Houston Rockets",
          "short": "Rockets",
          "abbr": "HOU",
-         "score": 122,
+         "score": 126,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -2067,7 +2067,7 @@
          "name": "Washington Wizards",
          "short": "Wizards",
          "abbr": "WSH",
-         "score": 92,
+         "score": 96,
          "ha": "home",
          "winner": null,
          "linescores": [
