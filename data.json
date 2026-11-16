@@ -1,5 +1,5 @@
 {
- "updated": "Nov 15, 2026, 4:18 PM PT",
+ "updated": "Nov 15, 2026, 4:21 PM PT",
  "record": {
   "w": 174,
   "l": 170,
@@ -1744,16 +1744,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "2:56 - 2nd",
+       "detail": "1:03 - 2nd",
        "start": "2026-11-15T22:30Z",
        "period": 2,
-       "clock": "2:56",
+       "clock": "1:03",
        "teams": [
         {
          "name": "Canisius Golden Griffins",
          "short": "Golden Griffins",
          "abbr": "CAN",
-         "score": 50,
+         "score": 53,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -1765,7 +1765,7 @@
          "name": "Buffalo Bulls",
          "short": "Bulls",
          "abbr": "BUF",
-         "score": 74,
+         "score": 76,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -1950,16 +1950,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "3:38 - 4th",
+       "detail": "3:23 - 4th",
        "start": "2026-11-15T21:25Z",
        "period": 4,
-       "clock": "3:38",
+       "clock": "3:23",
        "teams": [
         {
          "name": "San Francisco 49ers",
          "short": "49ers",
          "abbr": "SF",
-         "score": 38,
+         "score": 44,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -2020,16 +2020,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "9:58 - 3rd",
+       "detail": "8:45 - 3rd",
        "start": "2026-11-15T23:00Z",
        "period": 3,
-       "clock": "9:58",
+       "clock": "8:45",
        "teams": [
         {
          "name": "Dallas Mavericks",
          "short": "Mavericks",
          "abbr": "DAL",
-         "score": 42,
+         "score": 49,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -2042,7 +2042,7 @@
          "name": "Boston Celtics",
          "short": "Celtics",
          "abbr": "BOS",
-         "score": 73,
+         "score": 78,
          "ha": "home",
          "winner": null,
          "linescores": [
