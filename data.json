@@ -1,5 +1,5 @@
 {
- "updated": "Nov 15, 2026, 5:43 PM PT",
+ "updated": "Nov 15, 2026, 5:45 PM PT",
  "record": {
   "w": 174,
   "l": 170,
@@ -740,10 +740,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "6:46 - 1st",
+       "detail": "4:00 - 1st",
        "start": "2026-11-16T01:20Z",
        "period": 1,
-       "clock": "6:46",
+       "clock": "4:00",
        "teams": [
         {
          "name": "Pittsburgh Steelers",
@@ -1422,10 +1422,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P2 17:14",
+       "detail": "P2 15:29",
        "start": "2026-11-16T00:30:00Z",
        "period": 2,
-       "clock": "17:14",
+       "clock": "15:29",
        "teams": [
         {
          "name": "Oilers",
@@ -1481,10 +1481,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P1 00:31",
+       "detail": "P1 15:51",
        "start": "2026-11-16T01:00:00Z",
        "period": 1,
-       "clock": "00:31",
+       "clock": "15:51",
        "teams": [
         {
          "name": "Flames",
@@ -1724,10 +1724,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "3:45 - 1st",
+       "detail": "2:26 - 1st",
        "start": "2026-11-16T01:00Z",
        "period": 1,
-       "clock": "3:45",
+       "clock": "2:26",
        "teams": [
         {
          "name": "Coastal Carolina Chanticleers",
@@ -1744,7 +1744,7 @@
          "name": "Wisconsin Badgers",
          "short": "Badgers",
          "abbr": "WIS",
-         "score": 29,
+         "score": 30,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -2042,16 +2042,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "3:25 - 3rd",
+       "detail": "3:15 - 3rd",
        "start": "2026-11-16T00:00Z",
        "period": 3,
-       "clock": "3:25",
+       "clock": "3:15",
        "teams": [
         {
          "name": "Houston Rockets",
          "short": "Rockets",
          "abbr": "HOU",
-         "score": 102,
+         "score": 103,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -2064,7 +2064,7 @@
          "name": "Washington Wizards",
          "short": "Wizards",
          "abbr": "WSH",
-         "score": 75,
+         "score": 77,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -2122,7 +2122,7 @@
          "name": "Atlanta Hawks",
          "short": "Hawks",
          "abbr": "ATL",
-         "score": 25,
+         "score": 28,
          "ha": "away",
          "winner": null,
          "linescores": [
