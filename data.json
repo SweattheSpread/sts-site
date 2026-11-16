@@ -1,5 +1,5 @@
 {
- "updated": "Nov 15, 2026, 6:14 PM PT",
+ "updated": "Nov 15, 2026, 6:25 PM PT",
  "record": {
   "w": 174,
   "l": 170,
@@ -740,10 +740,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "9:51 - 2nd",
+       "detail": "7:04 - 2nd",
        "start": "2026-11-16T01:20Z",
        "period": 2,
-       "clock": "9:51",
+       "clock": "7:04",
        "teams": [
         {
          "name": "Pittsburgh Steelers",
@@ -1424,10 +1424,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P2 01:18",
+       "detail": "P2 08:36",
        "start": "2026-11-16T00:30:00Z",
        "period": 2,
-       "clock": "01:18",
+       "clock": "08:36",
        "teams": [
         {
          "name": "Oilers",
@@ -1483,10 +1483,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P2 13:22",
+       "detail": "P2 08:36",
        "start": "2026-11-16T01:00:00Z",
        "period": 2,
-       "clock": "13:22",
+       "clock": "08:36",
        "teams": [
         {
          "name": "Flames",
@@ -1726,16 +1726,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "16:59 - 2nd",
+       "detail": "14:37 - 2nd",
        "start": "2026-11-16T01:00Z",
        "period": 2,
-       "clock": "16:59",
+       "clock": "14:37",
        "teams": [
         {
          "name": "Coastal Carolina Chanticleers",
          "short": "Chanticleers",
          "abbr": "CCU",
-         "score": 46,
+         "score": 48,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -1747,7 +1747,7 @@
          "name": "Wisconsin Badgers",
          "short": "Badgers",
          "abbr": "WIS",
-         "score": 43,
+         "score": 53,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -2046,16 +2046,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "5:48 - 4th",
+       "detail": "3:18 - 4th",
        "start": "2026-11-16T00:00Z",
        "period": 4,
-       "clock": "5:48",
+       "clock": "3:18",
        "teams": [
         {
          "name": "Houston Rockets",
          "short": "Rockets",
          "abbr": "HOU",
-         "score": 132,
+         "score": 138,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -2069,7 +2069,7 @@
          "name": "Washington Wizards",
          "short": "Wizards",
          "abbr": "WSH",
-         "score": 101,
+         "score": 104,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -2119,19 +2119,20 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "Halftime",
+       "detail": "8:49 - 3rd",
        "start": "2026-11-16T01:00Z",
-       "period": 2,
-       "clock": "0.0",
+       "period": 3,
+       "clock": "8:49",
        "teams": [
         {
          "name": "Atlanta Hawks",
          "short": "Hawks",
          "abbr": "ATL",
-         "score": 55,
+         "score": 64,
          "ha": "away",
          "winner": null,
          "linescores": [
+          0,
           0,
           0
          ]
@@ -2140,10 +2141,11 @@
          "name": "Milwaukee Bucks",
          "short": "Bucks",
          "abbr": "MIL",
-         "score": 53,
+         "score": 56,
          "ha": "home",
          "winner": null,
          "linescores": [
+          0,
           0,
           0
          ]
