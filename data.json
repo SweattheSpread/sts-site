@@ -1,5 +1,5 @@
 {
- "updated": "Nov 15, 2026, 5:09 PM PT",
+ "updated": "Nov 15, 2026, 5:11 PM PT",
  "record": {
   "w": 174,
   "l": 170,
@@ -127,95 +127,6 @@
   }
  ],
  "picks": [
-  {
-   "n": 817,
-   "league": "NHL",
-   "type": "Over/Under",
-   "matchup": "Calgary Flames @ Anaheim Ducks",
-   "pick": "Under 6.5",
-   "odds": 106,
-   "units": 0.5,
-   "gap": null,
-   "start": "2026-11-15T17:10:00",
-   "timed": true,
-   "ticket": "single",
-   "espn": {
-    "legs": [
-     {
-      "kind": "total",
-      "side": null,
-      "ou": "U",
-      "line": 6.5,
-      "label": "U 6.5",
-      "path": "hockey/nhl",
-      "event": "401892723",
-      "date": "20261115",
-      "snapshot": {
-       "source": "nhl",
-       "state": "in",
-       "detail": "P1 20:00",
-       "start": "2026-11-16T01:00:00Z",
-       "period": 1,
-       "clock": "20:00",
-       "teams": [
-        {
-         "name": "Flames",
-         "short": "CGY",
-         "abbr": "CGY",
-         "score": 0,
-         "ha": "away",
-         "winner": null,
-         "linescores": []
-        },
-        {
-         "name": "Ducks",
-         "short": "ANA",
-         "abbr": "ANA",
-         "score": 0,
-         "ha": "home",
-         "winner": null,
-         "linescores": []
-        }
-       ],
-       "nhl_id": 2026020328
-      },
-      "source": "nhl"
-     }
-    ],
-    "sport": "NHL",
-    "ticket": "single"
-   }
-  },
-  {
-   "n": 827,
-   "league": "NBA",
-   "type": "Player Prop",
-   "matchup": "Atlanta Hawks @ Milwaukee Bucks",
-   "pick": "Jaime Jaquez Jr Under 5.5 rebounds (player prop)",
-   "odds": -110,
-   "units": 1.0,
-   "gap": null,
-   "start": "2026-11-15T17:10:00",
-   "timed": true,
-   "ticket": "single",
-   "espn": {
-    "legs": [
-     {
-      "kind": "prop",
-      "player": "Jaime Jaquez Jr",
-      "ou": "U",
-      "line": 5.5,
-      "stat": "rebounds",
-      "label": "Jaime Jaquez Jr U 5.5 rebounds",
-      "date": "20261115",
-      "unverified": true,
-      "reason": "Player not found in this game"
-     }
-    ],
-    "sport": "NBA",
-    "ticket": "single"
-   }
-  },
   {
    "n": 766,
    "league": "NFL",
@@ -1507,10 +1418,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P1 05:15",
+       "detail": "P1 04:12",
        "start": "2026-11-16T00:30:00Z",
        "period": 1,
-       "clock": "05:15",
+       "clock": "04:12",
        "teams": [
         {
          "name": "Oilers",
@@ -1532,6 +1443,65 @@
         }
        ],
        "nhl_id": 2026020326
+      },
+      "source": "nhl"
+     }
+    ],
+    "sport": "NHL",
+    "ticket": "single"
+   }
+  },
+  {
+   "n": 817,
+   "league": "NHL",
+   "type": "Over/Under",
+   "matchup": "Calgary Flames @ Anaheim Ducks",
+   "pick": "Under 6.5",
+   "odds": 106,
+   "units": 0.5,
+   "gap": null,
+   "start": "2026-11-15T17:10:00",
+   "timed": true,
+   "ticket": "single",
+   "espn": {
+    "legs": [
+     {
+      "kind": "total",
+      "side": null,
+      "ou": "U",
+      "line": 6.5,
+      "label": "U 6.5",
+      "path": "hockey/nhl",
+      "event": "401892723",
+      "date": "20261115",
+      "snapshot": {
+       "source": "nhl",
+       "state": "in",
+       "detail": "P1 19:02",
+       "start": "2026-11-16T01:00:00Z",
+       "period": 1,
+       "clock": "19:02",
+       "teams": [
+        {
+         "name": "Flames",
+         "short": "CGY",
+         "abbr": "CGY",
+         "score": 0,
+         "ha": "away",
+         "winner": null,
+         "linescores": []
+        },
+        {
+         "name": "Ducks",
+         "short": "ANA",
+         "abbr": "ANA",
+         "score": 0,
+         "ha": "home",
+         "winner": null,
+         "linescores": []
+        }
+       ],
+       "nhl_id": 2026020328
       },
       "source": "nhl"
      }
@@ -1750,10 +1720,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "16:52 - 1st",
+       "detail": "16:24 - 1st",
        "start": "2026-11-16T01:00Z",
        "period": 1,
-       "clock": "16:52",
+       "clock": "16:24",
        "teams": [
         {
          "name": "Coastal Carolina Chanticleers",
@@ -2010,8 +1980,8 @@
       "reason": "Player not found in this game",
       "snapshot": {
        "source": "odds-api",
-       "state": "in",
-       "detail": "Live",
+       "state": "post",
+       "detail": "Final",
        "start": "2026-11-15T23:11:00Z",
        "teams": [
         {
@@ -2020,7 +1990,7 @@
          "abbr": "",
          "score": 94,
          "ha": "away",
-         "winner": null,
+         "winner": false,
          "linescores": []
         },
         {
@@ -2029,7 +1999,7 @@
          "abbr": "",
          "score": 131,
          "ha": "home",
-         "winner": null,
+         "winner": true,
          "linescores": []
         }
        ]
@@ -2102,6 +2072,70 @@
         "v": 4,
         "name": "Amen Thompson"
        }
+      },
+      "source": "espn"
+     }
+    ],
+    "sport": "NBA",
+    "ticket": "single"
+   }
+  },
+  {
+   "n": 827,
+   "league": "NBA",
+   "type": "Player Prop",
+   "matchup": "Atlanta Hawks @ Milwaukee Bucks",
+   "pick": "Jaime Jaquez Jr Under 5.5 rebounds (player prop)",
+   "odds": -110,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-15T17:10:00",
+   "timed": true,
+   "ticket": "single",
+   "espn": {
+    "legs": [
+     {
+      "kind": "prop",
+      "player": "Jaime Jaquez Jr",
+      "ou": "U",
+      "line": 5.5,
+      "stat": "rebounds",
+      "label": "Jaime Jaquez Jr U 5.5 rebounds",
+      "path": "basketball/nba",
+      "event": "401909992",
+      "date": "20261115",
+      "snapshot": {
+       "source": "espn",
+       "state": "in",
+       "detail": "11:17 - 1st",
+       "start": "2026-11-16T01:00Z",
+       "period": 1,
+       "clock": "11:17",
+       "teams": [
+        {
+         "name": "Atlanta Hawks",
+         "short": "Hawks",
+         "abbr": "ATL",
+         "score": 0,
+         "ha": "away",
+         "winner": null,
+         "linescores": [
+          0
+         ]
+        },
+        {
+         "name": "Milwaukee Bucks",
+         "short": "Bucks",
+         "abbr": "MIL",
+         "score": 3,
+         "ha": "home",
+         "winner": null,
+         "linescores": [
+          0
+         ]
+        }
+       ],
+       "stat": null
       },
       "source": "espn"
      }
