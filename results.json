@@ -1,17 +1,17 @@
 {
- "updated": "Nov 15, 2026, 7:53 PM PT",
+ "updated": "Nov 15, 2026, 7:56 PM PT",
  "record": {
-  "w": 174,
-  "l": 170,
+  "w": 191,
+  "l": 182,
   "p": 0,
-  "n": 344,
-  "units": 42.37,
-  "risked": 493.75,
-  "roi": 8.58,
+  "n": 373,
+  "units": 59.75,
+  "risked": 531.25,
+  "roi": 11.25,
   "first": "2026-10-12",
-  "last": "2026-11-14"
+  "last": "2026-11-15"
  },
- "pending": 32,
+ "pending": 3,
  "plays": [
   {
    "n": 334,
@@ -5609,9 +5609,9 @@
    "pick": "Buffalo Bills -8 -110",
    "odds": -110,
    "units": 1.0,
-   "result": null,
-   "pl": null,
-   "pending": true
+   "result": "W",
+   "pl": 0.91,
+   "pending": false
   },
   {
    "n": 747,
@@ -5625,9 +5625,9 @@
    "pick": "New England Patriots +3 -118",
    "odds": -118,
    "units": 1.0,
-   "result": null,
-   "pl": null,
-   "pending": true
+   "result": "L",
+   "pl": -1.0,
+   "pending": false
   },
   {
    "n": 748,
@@ -5641,9 +5641,9 @@
    "pick": "Los Angeles Rams -9.5 -105",
    "odds": -105,
    "units": 1.0,
-   "result": null,
-   "pl": null,
-   "pending": true
+   "result": "W",
+   "pl": 0.95,
+   "pending": false
   },
   {
    "n": 749,
@@ -5657,9 +5657,9 @@
    "pick": "Carolina Panthers +2.5 -108",
    "odds": -108,
    "units": 1.0,
-   "result": null,
-   "pl": null,
-   "pending": true
+   "result": "W",
+   "pl": 0.93,
+   "pending": false
   },
   {
    "n": 750,
@@ -5673,9 +5673,9 @@
    "pick": "Indianapolis Colts -3.5 -112",
    "odds": -112,
    "units": 1.0,
-   "result": null,
-   "pl": null,
-   "pending": true
+   "result": "L",
+   "pl": -1.0,
+   "pending": false
   },
   {
    "n": 763,
@@ -5689,9 +5689,9 @@
    "pick": "Over 41.5 -105",
    "odds": -105,
    "units": 1.0,
-   "result": null,
-   "pl": null,
-   "pending": true
+   "result": "W",
+   "pl": 0.95,
+   "pending": false
   },
   {
    "n": 764,
@@ -5705,9 +5705,9 @@
    "pick": "Over 47.0 -110",
    "odds": -110,
    "units": 1.0,
-   "result": null,
-   "pl": null,
-   "pending": true
+   "result": "W",
+   "pl": 0.91,
+   "pending": false
   },
   {
    "n": 766,
@@ -5737,9 +5737,9 @@
    "pick": "Minnesota Vikings +3 -104",
    "odds": -104,
    "units": 1.0,
-   "result": null,
-   "pl": null,
-   "pending": true
+   "result": "W",
+   "pl": 0.96,
+   "pending": false
   },
   {
    "n": 789,
@@ -5753,9 +5753,9 @@
    "pick": "KC Concepcion longest reception OVER 19.5 yds",
    "odds": -115,
    "units": 1.0,
-   "result": null,
-   "pl": null,
-   "pending": true
+   "result": "L",
+   "pl": -1.0,
+   "pending": false
   },
   {
    "n": 790,
@@ -5769,9 +5769,9 @@
    "pick": "Jerry Jeudy longest reception OVER 11.5 yds",
    "odds": -120,
    "units": 1.0,
-   "result": null,
-   "pl": null,
-   "pending": true
+   "result": "W",
+   "pl": 0.83,
+   "pending": false
   },
   {
    "n": 797,
@@ -5785,9 +5785,9 @@
    "pick": "Jacksonville Jaguars -11 -108",
    "odds": -108,
    "units": 1.0,
-   "result": null,
-   "pl": null,
-   "pending": true
+   "result": "W",
+   "pl": 0.93,
+   "pending": false
   },
   {
    "n": 809,
@@ -5801,9 +5801,9 @@
    "pick": "Kayshon Boutte longest reception Over 13.5 (player prop)",
    "odds": -120,
    "units": 1.0,
-   "result": null,
-   "pl": null,
-   "pending": true
+   "result": "L",
+   "pl": -1.0,
+   "pending": false
   },
   {
    "n": 810,
@@ -5817,9 +5817,9 @@
    "pick": "Denzel Boston longest reception Over 21.5 (player prop)",
    "odds": -120,
    "units": 1.0,
-   "result": null,
-   "pl": null,
-   "pending": true
+   "result": "L",
+   "pl": -1.0,
+   "pending": false
   },
   {
    "n": 811,
@@ -5833,9 +5833,9 @@
    "pick": "Drake Maye anytime TD scorer (player prop)",
    "odds": 320,
    "units": 0.5,
-   "result": null,
-   "pl": null,
-   "pending": true
+   "result": "L",
+   "pl": -0.5,
+   "pending": false
   },
   {
    "n": 812,
@@ -5849,9 +5849,9 @@
    "pick": "Lions TT Over 30.5 (vs Patriots) LIVE",
    "odds": -110,
    "units": 7.0,
-   "result": null,
-   "pl": null,
-   "pending": true
+   "result": "W",
+   "pl": 6.36,
+   "pending": false
   },
   {
    "n": 813,
@@ -5865,9 +5865,9 @@
    "pick": "Over 40.5 -110",
    "odds": -110,
    "units": 1.0,
-   "result": null,
-   "pl": null,
-   "pending": true
+   "result": "L",
+   "pl": -1.0,
+   "pending": false
   },
   {
    "n": 815,
@@ -5881,9 +5881,9 @@
    "pick": "Over 45.5 -109",
    "odds": -109,
    "units": 1.0,
-   "result": null,
-   "pl": null,
-   "pending": true
+   "result": "W",
+   "pl": 0.92,
+   "pending": false
   },
   {
    "n": 816,
@@ -5897,9 +5897,9 @@
    "pick": "Under 6 -106",
    "odds": -106,
    "units": 0.5,
-   "result": null,
-   "pl": null,
-   "pending": true
+   "result": "L",
+   "pl": -0.5,
+   "pending": false
   },
   {
    "n": 817,
@@ -5913,9 +5913,9 @@
    "pick": "Under 6.5 +106",
    "odds": 106,
    "units": 0.5,
-   "result": null,
-   "pl": null,
-   "pending": true
+   "result": "L",
+   "pl": -0.5,
+   "pending": false
   },
   {
    "n": 818,
@@ -5929,9 +5929,9 @@
    "pick": "James Cook Under 98.5 rushing yards (player prop)",
    "odds": -115,
    "units": 1.0,
-   "result": null,
-   "pl": null,
-   "pending": true
+   "result": "L",
+   "pl": -1.0,
+   "pending": false
   },
   {
    "n": 819,
@@ -5945,9 +5945,9 @@
    "pick": "Under 159.5 total points",
    "odds": -110,
    "units": 1.0,
-   "result": null,
-   "pl": null,
-   "pending": true
+   "result": "L",
+   "pl": -1.0,
+   "pending": false
   },
   {
    "n": 820,
@@ -5961,9 +5961,9 @@
    "pick": "Under 151 total points",
    "odds": -110,
    "units": 1.0,
-   "result": null,
-   "pl": null,
-   "pending": true
+   "result": "W",
+   "pl": 0.91,
+   "pending": false
   },
   {
    "n": 821,
@@ -5977,9 +5977,9 @@
    "pick": "Coastal Carolina +27.5",
    "odds": -110,
    "units": 1.0,
-   "result": null,
-   "pl": null,
-   "pending": true
+   "result": "W",
+   "pl": 0.91,
+   "pending": false
   },
   {
    "n": 822,
@@ -5993,9 +5993,9 @@
    "pick": "Simi Fehoko Over 1.5 receptions (player prop)",
    "odds": 155,
    "units": 1.0,
-   "result": null,
-   "pl": null,
-   "pending": true
+   "result": "L",
+   "pl": -1.0,
+   "pending": false
   },
   {
    "n": 823,
@@ -6009,9 +6009,9 @@
    "pick": "Jets TT Under 17.5 (vs Bills) LIVE",
    "odds": 115,
    "units": 3.0,
-   "result": null,
-   "pl": null,
-   "pending": true
+   "result": "W",
+   "pl": 3.45,
+   "pending": false
   },
   {
    "n": 824,
@@ -6025,9 +6025,9 @@
    "pick": "Brock Purdy Over 2.5 passing TDs (player prop)",
    "odds": 155,
    "units": 3.0,
-   "result": null,
-   "pl": null,
-   "pending": true
+   "result": "W",
+   "pl": 4.65,
+   "pending": false
   },
   {
    "n": 825,
@@ -6041,9 +6041,9 @@
    "pick": "P.J. Washington Under 1.5 made threes (player prop)",
    "odds": 140,
    "units": 1.0,
-   "result": null,
-   "pl": null,
-   "pending": true
+   "result": "W",
+   "pl": 1.4,
+   "pending": false
   },
   {
    "n": 826,
@@ -6057,9 +6057,9 @@
    "pick": "Amen Thompson Over 4.5 assists (player prop)",
    "odds": 100,
    "units": 1.0,
-   "result": null,
-   "pl": null,
-   "pending": true
+   "result": "W",
+   "pl": 1.0,
+   "pending": false
   },
   {
    "n": 827,
@@ -6073,9 +6073,9 @@
    "pick": "Jaime Jaquez Jr Under 5.5 rebounds (player prop)",
    "odds": -110,
    "units": 1.0,
-   "result": null,
-   "pl": null,
-   "pending": true
+   "result": "W",
+   "pl": 0.91,
+   "pending": false
   },
   {
    "n": 765,
