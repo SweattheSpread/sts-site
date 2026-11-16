@@ -1,5 +1,5 @@
 {
- "updated": "Nov 15, 2026, 5:41 PM PT",
+ "updated": "Nov 15, 2026, 5:43 PM PT",
  "record": {
   "w": 174,
   "l": 170,
@@ -740,10 +740,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "7:56 - 1st",
+       "detail": "6:46 - 1st",
        "start": "2026-11-16T01:20Z",
        "period": 1,
-       "clock": "7:56",
+       "clock": "6:46",
        "teams": [
         {
          "name": "Pittsburgh Steelers",
@@ -1422,10 +1422,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P2 18:54",
+       "detail": "P2 17:14",
        "start": "2026-11-16T00:30:00Z",
        "period": 2,
-       "clock": "18:54",
+       "clock": "17:14",
        "teams": [
         {
          "name": "Oilers",
@@ -1481,10 +1481,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P1 02:45",
+       "detail": "P1 00:31",
        "start": "2026-11-16T01:00:00Z",
        "period": 1,
-       "clock": "02:45",
+       "clock": "00:31",
        "teams": [
         {
          "name": "Flames",
@@ -2042,16 +2042,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "3:59 - 3rd",
+       "detail": "3:25 - 3rd",
        "start": "2026-11-16T00:00Z",
        "period": 3,
-       "clock": "3:59",
+       "clock": "3:25",
        "teams": [
         {
          "name": "Houston Rockets",
          "short": "Rockets",
          "abbr": "HOU",
-         "score": 99,
+         "score": 102,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -2113,16 +2113,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "10:12 - 2nd",
+       "detail": "9:04 - 2nd",
        "start": "2026-11-16T01:00Z",
        "period": 2,
-       "clock": "10:12",
+       "clock": "9:04",
        "teams": [
         {
          "name": "Atlanta Hawks",
          "short": "Hawks",
          "abbr": "ATL",
-         "score": 21,
+         "score": 25,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -2134,7 +2134,7 @@
          "name": "Milwaukee Bucks",
          "short": "Bucks",
          "abbr": "MIL",
-         "score": 40,
+         "score": 43,
          "ha": "home",
          "winner": null,
          "linescores": [
