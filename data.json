@@ -1,5 +1,5 @@
 {
- "updated": "Nov 15, 2026, 4:40 PM PT",
+ "updated": "Nov 15, 2026, 4:42 PM PT",
  "record": {
   "w": 174,
   "l": 170,
@@ -1564,10 +1564,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P1 19:53",
+       "detail": "P1 18:55",
        "start": "2026-11-16T00:30:00Z",
        "period": 1,
-       "clock": "19:53",
+       "clock": "18:55",
        "teams": [
         {
          "name": "Oilers",
@@ -1950,10 +1950,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "0:42 - 4th",
+       "detail": "0:21 - 4th",
        "start": "2026-11-15T21:25Z",
        "period": 4,
-       "clock": "0:42",
+       "clock": "0:21",
        "teams": [
         {
          "name": "San Francisco 49ers",
@@ -2020,10 +2020,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "0.1 - 3rd",
+       "detail": "End of 3rd",
        "start": "2026-11-15T23:00Z",
        "period": 3,
-       "clock": "0.1",
+       "clock": "0.0",
        "teams": [
         {
          "name": "Dallas Mavericks",
@@ -2088,10 +2088,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "10:52 - 2nd",
+       "detail": "10:30 - 2nd",
        "start": "2026-11-16T00:00Z",
        "period": 2,
-       "clock": "10:52",
+       "clock": "10:30",
        "teams": [
         {
          "name": "Houston Rockets",
@@ -2109,7 +2109,7 @@
          "name": "Washington Wizards",
          "short": "Wizards",
          "abbr": "WSH",
-         "score": 31,
+         "score": 34,
          "ha": "home",
          "winner": null,
          "linescores": [
