@@ -1,5 +1,5 @@
 {
- "updated": "Nov 15, 2026, 4:01 PM PT",
+ "updated": "Nov 15, 2026, 4:04 PM PT",
  "record": {
   "w": 174,
   "l": 170,
@@ -1817,16 +1817,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "9:51 - 2nd",
+       "detail": "8:23 - 2nd",
        "start": "2026-11-15T22:30Z",
        "period": 2,
-       "clock": "9:51",
+       "clock": "8:23",
        "teams": [
         {
          "name": "Canisius Golden Griffins",
          "short": "Golden Griffins",
          "abbr": "CAN",
-         "score": 45,
+         "score": 47,
          "ha": "away",
          "winner": null,
          "linescores": [
