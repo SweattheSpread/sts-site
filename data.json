@@ -1,5 +1,5 @@
 {
- "updated": "Nov 15, 2026, 6:56 PM PT",
+ "updated": "Nov 15, 2026, 7:00 PM PT",
  "record": {
   "w": 174,
   "l": 170,
@@ -1424,10 +1424,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P3 07:53",
+       "detail": "P3 05:16",
        "start": "2026-11-16T00:30:00Z",
        "period": 3,
-       "clock": "07:53",
+       "clock": "05:16",
        "teams": [
         {
          "name": "Oilers",
@@ -1483,10 +1483,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P3 20:00",
+       "detail": "P3 17:44",
        "start": "2026-11-16T01:00:00Z",
        "period": 3,
-       "clock": "20:00",
+       "clock": "17:44",
        "teams": [
         {
          "name": "Flames",
@@ -1501,7 +1501,7 @@
          "name": "Ducks",
          "short": "ANA",
          "abbr": "ANA",
-         "score": 2,
+         "score": 3,
          "ha": "home",
          "winner": null,
          "linescores": []
@@ -1726,16 +1726,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "2:31 - 2nd",
+       "detail": "1:40 - 2nd",
        "start": "2026-11-16T01:00Z",
        "period": 2,
-       "clock": "2:31",
+       "clock": "1:40",
        "teams": [
         {
          "name": "Coastal Carolina Chanticleers",
          "short": "Chanticleers",
          "abbr": "CCU",
-         "score": 67,
+         "score": 72,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -1747,7 +1747,7 @@
          "name": "Wisconsin Badgers",
          "short": "Badgers",
          "abbr": "WIS",
-         "score": 77,
+         "score": 81,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -2119,16 +2119,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "8:54 - 4th",
+       "detail": "6:58 - 4th",
        "start": "2026-11-16T01:00Z",
        "period": 4,
-       "clock": "8:54",
+       "clock": "6:58",
        "teams": [
         {
          "name": "Atlanta Hawks",
          "short": "Hawks",
          "abbr": "ATL",
-         "score": 94,
+         "score": 97,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -2142,7 +2142,7 @@
          "name": "Milwaukee Bucks",
          "short": "Bucks",
          "abbr": "MIL",
-         "score": 89,
+         "score": 92,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -2154,7 +2154,7 @@
         }
        ],
        "stat": {
-        "v": 3,
+        "v": 4,
         "name": "Jaime Jaquez Jr."
        }
       },
