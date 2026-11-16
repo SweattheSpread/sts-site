@@ -1,5 +1,5 @@
 {
- "updated": "Nov 16, 2026, 8:51 AM PT",
+ "updated": "Nov 16, 2026, 9:40 AM PT",
  "record": {
   "w": 191,
   "l": 183,
@@ -11,7 +11,7 @@
   "first": "2026-10-12",
   "last": "2026-11-15"
  },
- "pending": 8,
+ "pending": 10,
  "plays": [
   {
    "n": 334,
@@ -6169,6 +6169,38 @@
    "pick": "Under 162.5",
    "odds": -110,
    "units": 3.0,
+   "result": null,
+   "pl": null,
+   "pending": true
+  },
+  {
+   "n": 834,
+   "date": "2026-11-16",
+   "day": "2026-11-16",
+   "league": "NCAAB",
+   "market": "spread",
+   "market_label": "Spread",
+   "ticket": "single",
+   "matchup": "Columbia Lions @ Northwestern Wildcats",
+   "pick": "Columbia +11.5",
+   "odds": -102,
+   "units": 1.0,
+   "result": null,
+   "pl": null,
+   "pending": true
+  },
+  {
+   "n": 835,
+   "date": "2026-11-16",
+   "day": "2026-11-16",
+   "league": "NCAAB",
+   "market": "total",
+   "market_label": "Total",
+   "ticket": "single",
+   "matchup": "Texas Southern Tigers @ UC San Diego Tritons",
+   "pick": "Under 156.5 total points",
+   "odds": -110,
+   "units": 1.0,
    "result": null,
    "pl": null,
    "pending": true
