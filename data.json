@@ -1,5 +1,5 @@
 {
- "updated": "Nov 15, 2026, 6:25 PM PT",
+ "updated": "Nov 15, 2026, 6:27 PM PT",
  "record": {
   "w": 174,
   "l": 170,
@@ -740,10 +740,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "7:04 - 2nd",
+       "detail": "5:28 - 2nd",
        "start": "2026-11-16T01:20Z",
        "period": 2,
-       "clock": "7:04",
+       "clock": "5:28",
        "teams": [
         {
          "name": "Pittsburgh Steelers",
@@ -761,7 +761,7 @@
          "name": "Cincinnati Bengals",
          "short": "Bengals",
          "abbr": "CIN",
-         "score": 10,
+         "score": 17,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -1424,10 +1424,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P2 08:36",
+       "detail": "P2 06:19",
        "start": "2026-11-16T00:30:00Z",
        "period": 2,
-       "clock": "08:36",
+       "clock": "06:19",
        "teams": [
         {
          "name": "Oilers",
@@ -1483,10 +1483,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P2 08:36",
+       "detail": "P2 06:58",
        "start": "2026-11-16T01:00:00Z",
        "period": 2,
-       "clock": "08:36",
+       "clock": "06:58",
        "teams": [
         {
          "name": "Flames",
@@ -1726,16 +1726,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "14:37 - 2nd",
+       "detail": "13:32 - 2nd",
        "start": "2026-11-16T01:00Z",
        "period": 2,
-       "clock": "14:37",
+       "clock": "13:32",
        "teams": [
         {
          "name": "Coastal Carolina Chanticleers",
          "short": "Chanticleers",
          "abbr": "CCU",
-         "score": 48,
+         "score": 50,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -2046,16 +2046,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "3:18 - 4th",
+       "detail": "1:42 - 4th",
        "start": "2026-11-16T00:00Z",
        "period": 4,
-       "clock": "3:18",
+       "clock": "1:42",
        "teams": [
         {
          "name": "Houston Rockets",
          "short": "Rockets",
          "abbr": "HOU",
-         "score": 138,
+         "score": 143,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -2069,7 +2069,7 @@
          "name": "Washington Wizards",
          "short": "Wizards",
          "abbr": "WSH",
-         "score": 104,
+         "score": 109,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -2119,10 +2119,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "8:49 - 3rd",
+       "detail": "8:01 - 3rd",
        "start": "2026-11-16T01:00Z",
        "period": 3,
-       "clock": "8:49",
+       "clock": "8:01",
        "teams": [
         {
          "name": "Atlanta Hawks",
