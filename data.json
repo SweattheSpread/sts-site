@@ -1,5 +1,5 @@
 {
- "updated": "Nov 15, 2026, 4:06 PM PT",
+ "updated": "Nov 15, 2026, 4:08 PM PT",
  "record": {
   "w": 174,
   "l": 170,
@@ -1817,16 +1817,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "7:58 - 2nd",
+       "detail": "6:58 - 2nd",
        "start": "2026-11-15T22:30Z",
        "period": 2,
-       "clock": "7:58",
+       "clock": "6:58",
        "teams": [
         {
          "name": "Canisius Golden Griffins",
          "short": "Golden Griffins",
          "abbr": "CAN",
-         "score": 47,
+         "score": 49,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -1838,7 +1838,7 @@
          "name": "Buffalo Bulls",
          "short": "Bulls",
          "abbr": "BUF",
-         "score": 63,
+         "score": 66,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -2023,10 +2023,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "8:21 - 4th",
+       "detail": "6:50 - 4th",
        "start": "2026-11-15T21:25Z",
        "period": 4,
-       "clock": "8:21",
+       "clock": "6:50",
        "teams": [
         {
          "name": "San Francisco 49ers",
