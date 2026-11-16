@@ -1,5 +1,5 @@
 {
- "updated": "Nov 16, 2026, 7:49 AM PT",
+ "updated": "Nov 16, 2026, 8:51 AM PT",
  "record": {
   "w": 191,
   "l": 183,
@@ -11,7 +11,7 @@
   "first": "2026-10-12",
   "last": "2026-11-15"
  },
- "pending": 7,
+ "pending": 8,
  "plays": [
   {
    "n": 334,
@@ -6153,6 +6153,22 @@
    "pick": "Li Tu ML",
    "odds": -118,
    "units": 1.5,
+   "result": null,
+   "pl": null,
+   "pending": true
+  },
+  {
+   "n": 833,
+   "date": "2026-11-16",
+   "day": "2026-11-16",
+   "league": "NCAAB",
+   "market": "total",
+   "market_label": "Total",
+   "ticket": "single",
+   "matchup": "Central Arkansas Bears @ Oklahoma St Cowboys",
+   "pick": "Under 162.5",
+   "odds": -110,
+   "units": 3.0,
    "result": null,
    "pl": null,
    "pending": true
