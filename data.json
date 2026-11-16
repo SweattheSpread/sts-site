@@ -1,5 +1,5 @@
 {
- "updated": "Nov 15, 2026, 5:32 PM PT",
+ "updated": "Nov 15, 2026, 5:38 PM PT",
  "record": {
   "w": 174,
   "l": 170,
@@ -740,10 +740,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "9:04 - 1st",
+       "detail": "8:06 - 1st",
        "start": "2026-11-16T01:20Z",
        "period": 1,
-       "clock": "9:04",
+       "clock": "8:06",
        "teams": [
         {
          "name": "Pittsburgh Steelers",
@@ -760,7 +760,7 @@
          "name": "Cincinnati Bengals",
          "short": "Bengals",
          "abbr": "CIN",
-         "score": 0,
+         "score": 3,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -1422,10 +1422,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P1 05:26",
+       "detail": "P2 20:00",
        "start": "2026-11-16T00:30:00Z",
-       "period": 1,
-       "clock": "05:26",
+       "period": 2,
+       "clock": "20:00",
        "teams": [
         {
          "name": "Oilers",
@@ -1481,10 +1481,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P1 07:31",
+       "detail": "P1 04:44",
        "start": "2026-11-16T01:00:00Z",
        "period": 1,
-       "clock": "07:31",
+       "clock": "04:44",
        "teams": [
         {
          "name": "Flames",
@@ -1499,7 +1499,7 @@
          "name": "Ducks",
          "short": "ANA",
          "abbr": "ANA",
-         "score": 1,
+         "score": 2,
          "ha": "home",
          "winner": null,
          "linescores": []
@@ -1724,16 +1724,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "7:16 - 1st",
+       "detail": "4:21 - 1st",
        "start": "2026-11-16T01:00Z",
        "period": 1,
-       "clock": "7:16",
+       "clock": "4:21",
        "teams": [
         {
          "name": "Coastal Carolina Chanticleers",
          "short": "Chanticleers",
          "abbr": "CCU",
-         "score": 28,
+         "score": 38,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -1744,7 +1744,7 @@
          "name": "Wisconsin Badgers",
          "short": "Badgers",
          "abbr": "WIS",
-         "score": 23,
+         "score": 29,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -2042,16 +2042,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "7:18 - 3rd",
+       "detail": "4:23 - 3rd",
        "start": "2026-11-16T00:00Z",
        "period": 3,
-       "clock": "7:18",
+       "clock": "4:23",
        "teams": [
         {
          "name": "Houston Rockets",
          "short": "Rockets",
          "abbr": "HOU",
-         "score": 90,
+         "score": 99,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -2064,7 +2064,7 @@
          "name": "Washington Wizards",
          "short": "Wizards",
          "abbr": "WSH",
-         "score": 60,
+         "score": 75,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -2075,7 +2075,7 @@
         }
        ],
        "stat": {
-        "v": 5,
+        "v": 6,
         "name": "Amen Thompson"
        }
       },
@@ -2113,10 +2113,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "2:09 - 1st",
+       "detail": "11:40 - 2nd",
        "start": "2026-11-16T01:00Z",
-       "period": 1,
-       "clock": "2:09",
+       "period": 2,
+       "clock": "11:40",
        "teams": [
         {
          "name": "Atlanta Hawks",
@@ -2126,6 +2126,7 @@
          "ha": "away",
          "winner": null,
          "linescores": [
+          0,
           0
          ]
         },
@@ -2133,16 +2134,17 @@
          "name": "Milwaukee Bucks",
          "short": "Bucks",
          "abbr": "MIL",
-         "score": 31,
+         "score": 37,
          "ha": "home",
          "winner": null,
          "linescores": [
+          0,
           0
          ]
         }
        ],
        "stat": {
-        "v": 0,
+        "v": 1,
         "name": "Jaime Jaquez Jr."
        }
       },
