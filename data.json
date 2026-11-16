@@ -1,5 +1,5 @@
 {
- "updated": "Nov 15, 2026, 4:53 PM PT",
+ "updated": "Nov 15, 2026, 4:55 PM PT",
  "record": {
   "w": 174,
   "l": 170,
@@ -1564,16 +1564,16 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P1 13:05",
+       "detail": "P1 11:43",
        "start": "2026-11-16T00:30:00Z",
        "period": 1,
-       "clock": "13:05",
+       "clock": "11:43",
        "teams": [
         {
          "name": "Oilers",
          "short": "EDM",
          "abbr": "EDM",
-         "score": 0,
+         "score": 1,
          "ha": "away",
          "winner": null,
          "linescores": []
@@ -2007,16 +2007,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "6:39 - 4th",
+       "detail": "5:16 - 4th",
        "start": "2026-11-15T23:00Z",
        "period": 4,
-       "clock": "6:39",
+       "clock": "5:16",
        "teams": [
         {
          "name": "Dallas Mavericks",
          "short": "Mavericks",
          "abbr": "DAL",
-         "score": 84,
+         "score": 88,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -2030,7 +2030,7 @@
          "name": "Boston Celtics",
          "short": "Celtics",
          "abbr": "BOS",
-         "score": 120,
+         "score": 124,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -2077,16 +2077,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "6:29 - 2nd",
+       "detail": "5:40 - 2nd",
        "start": "2026-11-16T00:00Z",
        "period": 2,
-       "clock": "6:29",
+       "clock": "5:40",
        "teams": [
         {
          "name": "Houston Rockets",
          "short": "Rockets",
          "abbr": "HOU",
-         "score": 57,
+         "score": 59,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -2098,7 +2098,7 @@
          "name": "Washington Wizards",
          "short": "Wizards",
          "abbr": "WSH",
-         "score": 40,
+         "score": 43,
          "ha": "home",
          "winner": null,
          "linescores": [
