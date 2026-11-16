@@ -1,5 +1,5 @@
 {
- "updated": "Nov 15, 2026, 5:11 PM PT",
+ "updated": "Nov 15, 2026, 5:20 PM PT",
  "record": {
   "w": 174,
   "l": 170,
@@ -127,63 +127,6 @@
   }
  ],
  "picks": [
-  {
-   "n": 766,
-   "league": "NFL",
-   "type": "Spread",
-   "matchup": "Pittsburgh Steelers @ Cincinnati Bengals",
-   "pick": "Pittsburgh Steelers +3.5",
-   "odds": -110,
-   "units": 1.0,
-   "gap": null,
-   "start": "2026-11-15T17:20:00",
-   "timed": true,
-   "ticket": "single",
-   "espn": {
-    "legs": [
-     {
-      "kind": "spread",
-      "side": "Pittsburgh Steelers",
-      "line": 3.5,
-      "label": "Pittsburgh Steelers +3.5",
-      "path": "football/nfl",
-      "event": "401873064",
-      "date": "20261115",
-      "snapshot": {
-       "source": "espn",
-       "state": "pre",
-       "detail": "11/15 - 8:20 PM EST",
-       "start": "2026-11-16T01:20Z",
-       "period": null,
-       "clock": null,
-       "teams": [
-        {
-         "name": "Pittsburgh Steelers",
-         "short": "Steelers",
-         "abbr": "PIT",
-         "score": 0,
-         "ha": "away",
-         "winner": null,
-         "linescores": []
-        },
-        {
-         "name": "Cincinnati Bengals",
-         "short": "Bengals",
-         "abbr": "CIN",
-         "score": 0,
-         "ha": "home",
-         "winner": null,
-         "linescores": []
-        }
-       ]
-      },
-      "source": "espn"
-     }
-    ],
-    "sport": "NFL",
-    "ticket": "single"
-   }
-  },
   {
    "n": 765,
    "league": "NFL",
@@ -762,6 +705,63 @@
           0,
           0
          ]
+        }
+       ]
+      },
+      "source": "espn"
+     }
+    ],
+    "sport": "NFL",
+    "ticket": "single"
+   }
+  },
+  {
+   "n": 766,
+   "league": "NFL",
+   "type": "Spread",
+   "matchup": "Pittsburgh Steelers @ Cincinnati Bengals",
+   "pick": "Pittsburgh Steelers +3.5",
+   "odds": -110,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-15T17:20:00",
+   "timed": true,
+   "ticket": "single",
+   "espn": {
+    "legs": [
+     {
+      "kind": "spread",
+      "side": "Pittsburgh Steelers",
+      "line": 3.5,
+      "label": "Pittsburgh Steelers +3.5",
+      "path": "football/nfl",
+      "event": "401873064",
+      "date": "20261115",
+      "snapshot": {
+       "source": "espn",
+       "state": "pre",
+       "detail": "11/15 - 8:20 PM EST",
+       "start": "2026-11-16T01:20Z",
+       "period": null,
+       "clock": null,
+       "teams": [
+        {
+         "name": "Pittsburgh Steelers",
+         "short": "Steelers",
+         "abbr": "PIT",
+         "score": 0,
+         "ha": "away",
+         "winner": null,
+         "linescores": []
+        },
+        {
+         "name": "Cincinnati Bengals",
+         "short": "Bengals",
+         "abbr": "CIN",
+         "score": 0,
+         "ha": "home",
+         "winner": null,
+         "linescores": []
         }
        ]
       },
@@ -1418,16 +1418,16 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P1 04:12",
+       "detail": "P1 00:00",
        "start": "2026-11-16T00:30:00Z",
        "period": 1,
-       "clock": "04:12",
+       "clock": "00:00",
        "teams": [
         {
          "name": "Oilers",
          "short": "EDM",
          "abbr": "EDM",
-         "score": 2,
+         "score": 3,
          "ha": "away",
          "winner": null,
          "linescores": []
@@ -1477,10 +1477,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P1 19:02",
+       "detail": "P1 13:22",
        "start": "2026-11-16T01:00:00Z",
        "period": 1,
-       "clock": "19:02",
+       "clock": "13:22",
        "teams": [
         {
          "name": "Flames",
@@ -1495,7 +1495,7 @@
          "name": "Ducks",
          "short": "ANA",
          "abbr": "ANA",
-         "score": 0,
+         "score": 1,
          "ha": "home",
          "winner": null,
          "linescores": []
@@ -1720,16 +1720,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "16:24 - 1st",
+       "detail": "12:06 - 1st",
        "start": "2026-11-16T01:00Z",
        "period": 1,
-       "clock": "16:24",
+       "clock": "12:06",
        "teams": [
         {
          "name": "Coastal Carolina Chanticleers",
          "short": "Chanticleers",
          "abbr": "CCU",
-         "score": 4,
+         "score": 17,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -1740,7 +1740,7 @@
          "name": "Wisconsin Badgers",
          "short": "Badgers",
          "abbr": "WIS",
-         "score": 7,
+         "score": 15,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -2038,19 +2038,20 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "Halftime",
+       "detail": "10:52 - 3rd",
        "start": "2026-11-16T00:00Z",
-       "period": 2,
-       "clock": "0.0",
+       "period": 3,
+       "clock": "10:52",
        "teams": [
         {
          "name": "Houston Rockets",
          "short": "Rockets",
          "abbr": "HOU",
-         "score": 73,
+         "score": 75,
          "ha": "away",
          "winner": null,
          "linescores": [
+          0,
           0,
           0
          ]
@@ -2059,10 +2060,11 @@
          "name": "Washington Wizards",
          "short": "Wizards",
          "abbr": "WSH",
-         "score": 54,
+         "score": 56,
          "ha": "home",
          "winner": null,
          "linescores": [
+          0,
           0,
           0
          ]
@@ -2107,16 +2109,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "11:17 - 1st",
+       "detail": "6:12 - 1st",
        "start": "2026-11-16T01:00Z",
        "period": 1,
-       "clock": "11:17",
+       "clock": "6:12",
        "teams": [
         {
          "name": "Atlanta Hawks",
          "short": "Hawks",
          "abbr": "ATL",
-         "score": 0,
+         "score": 9,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -2127,7 +2129,7 @@
          "name": "Milwaukee Bucks",
          "short": "Bucks",
          "abbr": "MIL",
-         "score": 3,
+         "score": 18,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -2135,7 +2137,10 @@
          ]
         }
        ],
-       "stat": null
+       "stat": {
+        "v": 0,
+        "name": "Jaime Jaquez Jr."
+       }
       },
       "source": "espn"
      }
