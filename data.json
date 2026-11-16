@@ -1,5 +1,5 @@
 {
- "updated": "Nov 15, 2026, 4:42 PM PT",
+ "updated": "Nov 15, 2026, 4:44 PM PT",
  "record": {
   "w": 174,
   "l": 170,
@@ -1564,10 +1564,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P1 18:55",
+       "detail": "P1 17:17",
        "start": "2026-11-16T00:30:00Z",
        "period": 1,
-       "clock": "18:55",
+       "clock": "17:17",
        "teams": [
         {
          "name": "Oilers",
@@ -1950,10 +1950,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "0:21 - 4th",
+       "detail": "0:09 - 4th",
        "start": "2026-11-15T21:25Z",
        "period": 4,
-       "clock": "0:21",
+       "clock": "0:09",
        "teams": [
         {
          "name": "San Francisco 49ers",
@@ -2020,19 +2020,20 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "End of 3rd",
+       "detail": "10:21 - 4th",
        "start": "2026-11-15T23:00Z",
-       "period": 3,
-       "clock": "0.0",
+       "period": 4,
+       "clock": "10:21",
        "teams": [
         {
          "name": "Dallas Mavericks",
          "short": "Mavericks",
          "abbr": "DAL",
-         "score": 71,
+         "score": 74,
          "ha": "away",
          "winner": null,
          "linescores": [
+          0,
           0,
           0,
           0
@@ -2042,10 +2043,11 @@
          "name": "Boston Celtics",
          "short": "Celtics",
          "abbr": "BOS",
-         "score": 104,
+         "score": 109,
          "ha": "home",
          "winner": null,
          "linescores": [
+          0,
           0,
           0,
           0
@@ -2088,10 +2090,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "10:30 - 2nd",
+       "detail": "9:49 - 2nd",
        "start": "2026-11-16T00:00Z",
        "period": 2,
-       "clock": "10:30",
+       "clock": "9:49",
        "teams": [
         {
          "name": "Houston Rockets",
@@ -2109,7 +2111,7 @@
          "name": "Washington Wizards",
          "short": "Wizards",
          "abbr": "WSH",
-         "score": 34,
+         "score": 35,
          "ha": "home",
          "winner": null,
          "linescores": [
