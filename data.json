@@ -1,5 +1,5 @@
 {
- "updated": "Nov 15, 2026, 5:38 PM PT",
+ "updated": "Nov 15, 2026, 5:41 PM PT",
  "record": {
   "w": 174,
   "l": 170,
@@ -740,10 +740,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "8:06 - 1st",
+       "detail": "7:56 - 1st",
        "start": "2026-11-16T01:20Z",
        "period": 1,
-       "clock": "8:06",
+       "clock": "7:56",
        "teams": [
         {
          "name": "Pittsburgh Steelers",
@@ -1422,10 +1422,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P2 20:00",
+       "detail": "P2 18:54",
        "start": "2026-11-16T00:30:00Z",
        "period": 2,
-       "clock": "20:00",
+       "clock": "18:54",
        "teams": [
         {
          "name": "Oilers",
@@ -1481,10 +1481,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P1 04:44",
+       "detail": "P1 02:45",
        "start": "2026-11-16T01:00:00Z",
        "period": 1,
-       "clock": "04:44",
+       "clock": "02:45",
        "teams": [
         {
          "name": "Flames",
@@ -1724,10 +1724,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "4:21 - 1st",
+       "detail": "3:45 - 1st",
        "start": "2026-11-16T01:00Z",
        "period": 1,
-       "clock": "4:21",
+       "clock": "3:45",
        "teams": [
         {
          "name": "Coastal Carolina Chanticleers",
@@ -2042,10 +2042,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "4:23 - 3rd",
+       "detail": "3:59 - 3rd",
        "start": "2026-11-16T00:00Z",
        "period": 3,
-       "clock": "4:23",
+       "clock": "3:59",
        "teams": [
         {
          "name": "Houston Rockets",
@@ -2113,16 +2113,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "11:40 - 2nd",
+       "detail": "10:12 - 2nd",
        "start": "2026-11-16T01:00Z",
        "period": 2,
-       "clock": "11:40",
+       "clock": "10:12",
        "teams": [
         {
          "name": "Atlanta Hawks",
          "short": "Hawks",
          "abbr": "ATL",
-         "score": 18,
+         "score": 21,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -2134,7 +2134,7 @@
          "name": "Milwaukee Bucks",
          "short": "Bucks",
          "abbr": "MIL",
-         "score": 37,
+         "score": 40,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -2144,7 +2144,7 @@
         }
        ],
        "stat": {
-        "v": 1,
+        "v": 2,
         "name": "Jaime Jaquez Jr."
        }
       },
