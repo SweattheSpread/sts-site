@@ -1,5 +1,5 @@
 {
- "updated": "Nov 15, 2026, 4:23 PM PT",
+ "updated": "Nov 15, 2026, 4:28 PM PT",
  "record": {
   "w": 174,
   "l": 170,
@@ -1743,11 +1743,11 @@
       "date": "20261115",
       "snapshot": {
        "source": "espn",
-       "state": "in",
-       "detail": "0:00 - 2nd",
+       "state": "post",
+       "detail": "Final",
        "start": "2026-11-15T22:30Z",
-       "period": 2,
-       "clock": "0:00",
+       "period": null,
+       "clock": null,
        "teams": [
         {
          "name": "Canisius Golden Griffins",
@@ -1755,7 +1755,7 @@
          "abbr": "CAN",
          "score": 55,
          "ha": "away",
-         "winner": null,
+         "winner": false,
          "linescores": [
           0,
           0
@@ -1767,7 +1767,7 @@
          "abbr": "BUF",
          "score": 79,
          "ha": "home",
-         "winner": null,
+         "winner": true,
          "linescores": [
           0,
           0
@@ -1950,10 +1950,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "3:23 - 4th",
+       "detail": "1:56 - 4th",
        "start": "2026-11-15T21:25Z",
        "period": 4,
-       "clock": "3:23",
+       "clock": "1:56",
        "teams": [
         {
          "name": "San Francisco 49ers",
@@ -2020,10 +2020,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "7:08 - 3rd",
+       "detail": "5:47 - 3rd",
        "start": "2026-11-15T23:00Z",
        "period": 3,
-       "clock": "7:08",
+       "clock": "5:47",
        "teams": [
         {
          "name": "Dallas Mavericks",
@@ -2042,7 +2042,7 @@
          "name": "Boston Celtics",
          "short": "Celtics",
          "abbr": "BOS",
-         "score": 83,
+         "score": 88,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -2088,16 +2088,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "5:15 - 1st",
+       "detail": "2:16 - 1st",
        "start": "2026-11-16T00:00Z",
        "period": 1,
-       "clock": "5:15",
+       "clock": "2:16",
        "teams": [
         {
          "name": "Houston Rockets",
          "short": "Rockets",
          "abbr": "HOU",
-         "score": 17,
+         "score": 27,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -2108,7 +2108,7 @@
          "name": "Washington Wizards",
          "short": "Wizards",
          "abbr": "WSH",
-         "score": 18,
+         "score": 23,
          "ha": "home",
          "winner": null,
          "linescores": [
