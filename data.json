@@ -1,5 +1,5 @@
 {
- "updated": "Nov 15, 2026, 6:30 PM PT",
+ "updated": "Nov 15, 2026, 6:32 PM PT",
  "record": {
   "w": 174,
   "l": 170,
@@ -740,10 +740,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "5:28 - 2nd",
+       "detail": "4:41 - 2nd",
        "start": "2026-11-16T01:20Z",
        "period": 2,
-       "clock": "5:28",
+       "clock": "4:41",
        "teams": [
         {
          "name": "Pittsburgh Steelers",
@@ -1424,10 +1424,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P2 03:35",
+       "detail": "P2 01:19",
        "start": "2026-11-16T00:30:00Z",
        "period": 2,
-       "clock": "03:35",
+       "clock": "01:19",
        "teams": [
         {
          "name": "Oilers",
@@ -1483,10 +1483,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P2 04:14",
+       "detail": "P2 03:21",
        "start": "2026-11-16T01:00:00Z",
        "period": 2,
-       "clock": "04:14",
+       "clock": "03:21",
        "teams": [
         {
          "name": "Flames",
@@ -2045,19 +2045,19 @@
       "date": "20261115",
       "snapshot": {
        "source": "espn",
-       "state": "in",
-       "detail": "58.1 - 4th",
+       "state": "post",
+       "detail": "Final",
        "start": "2026-11-16T00:00Z",
-       "period": 4,
-       "clock": "58.1",
+       "period": null,
+       "clock": null,
        "teams": [
         {
          "name": "Houston Rockets",
          "short": "Rockets",
          "abbr": "HOU",
-         "score": 145,
+         "score": 147,
          "ha": "away",
-         "winner": null,
+         "winner": true,
          "linescores": [
           0,
           0,
@@ -2069,9 +2069,9 @@
          "name": "Washington Wizards",
          "short": "Wizards",
          "abbr": "WSH",
-         "score": 113,
+         "score": 119,
          "ha": "home",
-         "winner": null,
+         "winner": false,
          "linescores": [
           0,
           0,
