@@ -1,5 +1,5 @@
 {
- "updated": "Nov 15, 2026, 6:12 PM PT",
+ "updated": "Nov 15, 2026, 6:14 PM PT",
  "record": {
   "w": 174,
   "l": 170,
@@ -740,10 +740,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "10:00 - 2nd",
+       "detail": "9:51 - 2nd",
        "start": "2026-11-16T01:20Z",
        "period": 2,
-       "clock": "10:00",
+       "clock": "9:51",
        "teams": [
         {
          "name": "Pittsburgh Steelers",
@@ -1483,10 +1483,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P2 13:41",
+       "detail": "P2 13:22",
        "start": "2026-11-16T01:00:00Z",
        "period": 2,
-       "clock": "13:41",
+       "clock": "13:22",
        "teams": [
         {
          "name": "Flames",
@@ -1726,10 +1726,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "17:56 - 2nd",
+       "detail": "16:59 - 2nd",
        "start": "2026-11-16T01:00Z",
        "period": 2,
-       "clock": "17:56",
+       "clock": "16:59",
        "teams": [
         {
          "name": "Coastal Carolina Chanticleers",
@@ -1747,7 +1747,7 @@
          "name": "Wisconsin Badgers",
          "short": "Badgers",
          "abbr": "WIS",
-         "score": 40,
+         "score": 43,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -2046,10 +2046,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "6:21 - 4th",
+       "detail": "5:48 - 4th",
        "start": "2026-11-16T00:00Z",
        "period": 4,
-       "clock": "6:21",
+       "clock": "5:48",
        "teams": [
         {
          "name": "Houston Rockets",
