@@ -1,5 +1,5 @@
 {
- "updated": "Nov 15, 2026, 5:06 PM PT",
+ "updated": "Nov 15, 2026, 5:09 PM PT",
  "record": {
   "w": 174,
   "l": 170,
@@ -1507,16 +1507,16 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P1 06:59",
+       "detail": "P1 05:15",
        "start": "2026-11-16T00:30:00Z",
        "period": 1,
-       "clock": "06:59",
+       "clock": "05:15",
        "teams": [
         {
          "name": "Oilers",
          "short": "EDM",
          "abbr": "EDM",
-         "score": 1,
+         "score": 2,
          "ha": "away",
          "winner": null,
          "linescores": []
@@ -1750,16 +1750,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "17:53 - 1st",
+       "detail": "16:52 - 1st",
        "start": "2026-11-16T01:00Z",
        "period": 1,
-       "clock": "17:53",
+       "clock": "16:52",
        "teams": [
         {
          "name": "Coastal Carolina Chanticleers",
          "short": "Chanticleers",
          "abbr": "CCU",
-         "score": 0,
+         "score": 4,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -1770,7 +1770,7 @@
          "name": "Wisconsin Badgers",
          "short": "Badgers",
          "abbr": "WIS",
-         "score": 5,
+         "score": 7,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -2005,49 +2005,36 @@
       "line": 1.5,
       "stat": "made threes",
       "label": "P.J. Washington U 1.5 made threes",
-      "path": "basketball/nba",
-      "event": "401909989",
       "date": "20261115",
+      "unverified": true,
+      "reason": "Player not found in this game",
       "snapshot": {
-       "source": "espn",
+       "source": "odds-api",
        "state": "in",
-       "detail": "1:03 - 4th",
-       "start": "2026-11-15T23:00Z",
-       "period": 4,
-       "clock": "1:03",
+       "detail": "Live",
+       "start": "2026-11-15T23:11:00Z",
        "teams": [
         {
          "name": "Dallas Mavericks",
-         "short": "Mavericks",
-         "abbr": "DAL",
+         "short": "Dallas Mavericks",
+         "abbr": "",
          "score": 94,
          "ha": "away",
          "winner": null,
-         "linescores": [
-          0,
-          0,
-          0,
-          0
-         ]
+         "linescores": []
         },
         {
          "name": "Boston Celtics",
-         "short": "Celtics",
-         "abbr": "BOS",
+         "short": "Boston Celtics",
+         "abbr": "",
          "score": 131,
          "ha": "home",
          "winner": null,
-         "linescores": [
-          0,
-          0,
-          0,
-          0
-         ]
+         "linescores": []
         }
-       ],
-       "stat": null
+       ]
       },
-      "source": "espn"
+      "source": "odds-api"
      }
     ],
     "sport": "NBA",
