@@ -1,5 +1,5 @@
 {
- "updated": "Nov 15, 2026, 4:12 PM PT",
+ "updated": "Nov 15, 2026, 4:14 PM PT",
  "record": {
   "w": 174,
   "l": 170,
@@ -1744,16 +1744,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "5:29 - 2nd",
+       "detail": "4:39 - 2nd",
        "start": "2026-11-15T22:30Z",
        "period": 2,
-       "clock": "5:29",
+       "clock": "4:39",
        "teams": [
         {
          "name": "Canisius Golden Griffins",
          "short": "Golden Griffins",
          "abbr": "CAN",
-         "score": 49,
+         "score": 50,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -1765,7 +1765,7 @@
          "name": "Buffalo Bulls",
          "short": "Bulls",
          "abbr": "BUF",
-         "score": 66,
+         "score": 68,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -1950,10 +1950,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "6:16 - 4th",
+       "detail": "4:27 - 4th",
        "start": "2026-11-15T21:25Z",
        "period": 4,
-       "clock": "6:16",
+       "clock": "4:27",
        "teams": [
         {
          "name": "San Francisco 49ers",
@@ -2086,16 +2086,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "11:55 - 1st",
+       "detail": "9:55 - 1st",
        "start": "2026-11-16T00:00Z",
        "period": 1,
-       "clock": "11:55",
+       "clock": "9:55",
        "teams": [
         {
          "name": "Houston Rockets",
          "short": "Rockets",
          "abbr": "HOU",
-         "score": 0,
+         "score": 4,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -2106,7 +2106,7 @@
          "name": "Washington Wizards",
          "short": "Wizards",
          "abbr": "WSH",
-         "score": 0,
+         "score": 4,
          "ha": "home",
          "winner": null,
          "linescores": [
