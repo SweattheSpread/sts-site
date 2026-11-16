@@ -1,5 +1,5 @@
 {
- "updated": "Nov 15, 2026, 5:04 PM PT",
+ "updated": "Nov 15, 2026, 5:06 PM PT",
  "record": {
   "w": 174,
   "l": 170,
@@ -152,11 +152,11 @@
       "date": "20261115",
       "snapshot": {
        "source": "nhl",
-       "state": "pre",
-       "detail": "Scheduled",
+       "state": "in",
+       "detail": "P1 20:00",
        "start": "2026-11-16T01:00:00Z",
-       "period": null,
-       "clock": null,
+       "period": 1,
+       "clock": "20:00",
        "teams": [
         {
          "name": "Flames",
@@ -1507,10 +1507,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P1 07:39",
+       "detail": "P1 06:59",
        "start": "2026-11-16T00:30:00Z",
        "period": 1,
-       "clock": "07:39",
+       "clock": "06:59",
        "teams": [
         {
          "name": "Oilers",
@@ -1750,10 +1750,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "19:02 - 1st",
+       "detail": "17:53 - 1st",
        "start": "2026-11-16T01:00Z",
        "period": 1,
-       "clock": "19:02",
+       "clock": "17:53",
        "teams": [
         {
          "name": "Coastal Carolina Chanticleers",
@@ -1770,7 +1770,7 @@
          "name": "Wisconsin Badgers",
          "short": "Badgers",
          "abbr": "WIS",
-         "score": 3,
+         "score": 5,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -2011,16 +2011,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "1:40 - 4th",
+       "detail": "1:03 - 4th",
        "start": "2026-11-15T23:00Z",
        "period": 4,
-       "clock": "1:40",
+       "clock": "1:03",
        "teams": [
         {
          "name": "Dallas Mavericks",
          "short": "Mavericks",
          "abbr": "DAL",
-         "score": 90,
+         "score": 94,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -2034,7 +2034,7 @@
          "name": "Boston Celtics",
          "short": "Celtics",
          "abbr": "BOS",
-         "score": 129,
+         "score": 131,
          "ha": "home",
          "winner": null,
          "linescores": [
