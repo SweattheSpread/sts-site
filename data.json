@@ -1,5 +1,5 @@
 {
- "updated": "Nov 16, 2026, 4:19 AM PT",
+ "updated": "Nov 16, 2026, 4:20 AM PT",
  "record": {
   "w": 191,
   "l": 183,
@@ -11,7 +11,7 @@
   "first": "2026-10-12",
   "last": "2026-11-15"
  },
- "pending": 3,
+ "pending": 5,
  "latest": [
   {
    "n": 827,
@@ -155,6 +155,54 @@
    }
   },
   {
+   "n": 829,
+   "league": "Tennis",
+   "type": "Moneyline",
+   "matchup": "Challenger Sydney: Casey Hoole vs Florian Broska",
+   "pick": "Casey Hoole ML",
+   "odds": -107,
+   "units": 1.5,
+   "gap": null,
+   "start": "2026-11-16T15:00:00",
+   "timed": true,
+   "ticket": "single",
+   "espn": {
+    "legs": [
+     {
+      "kind": "ml",
+      "side": "Casey Hoole",
+      "label": "Casey Hoole ML",
+      "snapshot": {
+       "source": "tennis-explorer",
+       "path": "tennis/explorer",
+       "event": "3378581",
+       "state": "in",
+       "detail": "Live",
+       "tennis": [
+        {
+         "name": "Hoole C.",
+         "winner": false,
+         "sets": []
+        },
+        {
+         "name": "Broska F.",
+         "winner": false,
+         "sets": []
+        }
+       ],
+       "tour": "Sydney challenger"
+      },
+      "path": "tennis/explorer",
+      "event": "3378581",
+      "source": "tennis-explorer",
+      "date": "20261116"
+     }
+    ],
+    "sport": "Tennis",
+    "ticket": "single"
+   }
+  },
+  {
    "n": 765,
    "league": "NFL",
    "type": "Spread",
@@ -266,6 +314,54 @@
      }
     ],
     "sport": "NFL",
+    "ticket": "single"
+   }
+  },
+  {
+   "n": 830,
+   "league": "Tennis",
+   "type": "Moneyline",
+   "matchup": "Challenger Sydney: Li Tu vs James McCabe",
+   "pick": "Li Tu ML",
+   "odds": -118,
+   "units": 1.5,
+   "gap": null,
+   "start": "2026-11-16T18:00:00",
+   "timed": true,
+   "ticket": "single",
+   "espn": {
+    "legs": [
+     {
+      "kind": "ml",
+      "side": "Li Tu",
+      "label": "Li Tu ML",
+      "snapshot": {
+       "source": "tennis-explorer",
+       "path": "tennis/explorer",
+       "event": "3378589",
+       "state": "in",
+       "detail": "Live",
+       "tennis": [
+        {
+         "name": "Tu L.",
+         "winner": false,
+         "sets": []
+        },
+        {
+         "name": "McCabe J.",
+         "winner": false,
+         "sets": []
+        }
+       ],
+       "tour": "Sydney challenger"
+      },
+      "path": "tennis/explorer",
+      "event": "3378589",
+      "source": "tennis-explorer",
+      "date": "20261116"
+     }
+    ],
+    "sport": "Tennis",
     "ticket": "single"
    }
   }
