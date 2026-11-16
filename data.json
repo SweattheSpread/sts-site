@@ -1,5 +1,5 @@
 {
- "updated": "Nov 15, 2026, 4:59 PM PT",
+ "updated": "Nov 15, 2026, 5:02 PM PT",
  "record": {
   "w": 174,
   "l": 170,
@@ -127,63 +127,6 @@
   }
  ],
  "picks": [
-  {
-   "n": 821,
-   "league": "NCAAB",
-   "type": "Spread",
-   "matchup": "Coastal Carolina Chanticleers @ Wisconsin Badgers",
-   "pick": "Coastal Carolina +27.5",
-   "odds": -110,
-   "units": 1.0,
-   "gap": null,
-   "start": "2026-11-15T17:00:00",
-   "timed": true,
-   "ticket": "single",
-   "espn": {
-    "legs": [
-     {
-      "kind": "spread",
-      "side": "Coastal Carolina",
-      "line": 27.5,
-      "label": "Coastal Carolina +27.5",
-      "path": "basketball/mens-college-basketball",
-      "event": "401920896",
-      "date": "20261115",
-      "snapshot": {
-       "source": "espn",
-       "state": "pre",
-       "detail": "11/15 - 8:00 PM EST",
-       "start": "2026-11-16T01:00Z",
-       "period": null,
-       "clock": null,
-       "teams": [
-        {
-         "name": "Coastal Carolina Chanticleers",
-         "short": "Chanticleers",
-         "abbr": "CCU",
-         "score": 0,
-         "ha": "away",
-         "winner": null,
-         "linescores": []
-        },
-        {
-         "name": "Wisconsin Badgers",
-         "short": "Badgers",
-         "abbr": "WIS",
-         "score": 0,
-         "ha": "home",
-         "winner": null,
-         "linescores": []
-        }
-       ]
-      },
-      "source": "espn"
-     }
-    ],
-    "sport": "NCAAB",
-    "ticket": "single"
-   }
-  },
   {
    "n": 817,
    "league": "NHL",
@@ -1564,10 +1507,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P1 09:35",
+       "detail": "P1 08:19",
        "start": "2026-11-16T00:30:00Z",
        "period": 1,
-       "clock": "09:35",
+       "clock": "08:19",
        "teams": [
         {
          "name": "Oilers",
@@ -1772,6 +1715,63 @@
           0,
           0
          ]
+        }
+       ]
+      },
+      "source": "espn"
+     }
+    ],
+    "sport": "NCAAB",
+    "ticket": "single"
+   }
+  },
+  {
+   "n": 821,
+   "league": "NCAAB",
+   "type": "Spread",
+   "matchup": "Coastal Carolina Chanticleers @ Wisconsin Badgers",
+   "pick": "Coastal Carolina +27.5",
+   "odds": -110,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-15T17:00:00",
+   "timed": true,
+   "ticket": "single",
+   "espn": {
+    "legs": [
+     {
+      "kind": "spread",
+      "side": "Coastal Carolina",
+      "line": 27.5,
+      "label": "Coastal Carolina +27.5",
+      "path": "basketball/mens-college-basketball",
+      "event": "401920896",
+      "date": "20261115",
+      "snapshot": {
+       "source": "espn",
+       "state": "pre",
+       "detail": "11/15 - 8:00 PM EST",
+       "start": "2026-11-16T01:00Z",
+       "period": null,
+       "clock": null,
+       "teams": [
+        {
+         "name": "Coastal Carolina Chanticleers",
+         "short": "Chanticleers",
+         "abbr": "CCU",
+         "score": 0,
+         "ha": "away",
+         "winner": null,
+         "linescores": []
+        },
+        {
+         "name": "Wisconsin Badgers",
+         "short": "Badgers",
+         "abbr": "WIS",
+         "score": 0,
+         "ha": "home",
+         "winner": null,
+         "linescores": []
         }
        ]
       },
@@ -2007,10 +2007,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "2:52 - 4th",
+       "detail": "2:40 - 4th",
        "start": "2026-11-15T23:00Z",
        "period": 4,
-       "clock": "2:52",
+       "clock": "2:40",
        "teams": [
         {
          "name": "Dallas Mavericks",
@@ -2030,7 +2030,7 @@
          "name": "Boston Celtics",
          "short": "Celtics",
          "abbr": "BOS",
-         "score": 126,
+         "score": 127,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -2077,10 +2077,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "2:26 - 2nd",
+       "detail": "1:27 - 2nd",
        "start": "2026-11-16T00:00Z",
        "period": 2,
-       "clock": "2:26",
+       "clock": "1:27",
        "teams": [
         {
          "name": "Houston Rockets",
@@ -2098,7 +2098,7 @@
          "name": "Washington Wizards",
          "short": "Wizards",
          "abbr": "WSH",
-         "score": 50,
+         "score": 52,
          "ha": "home",
          "winner": null,
          "linescores": [
