@@ -1,5 +1,5 @@
 {
- "updated": "Nov 15, 2026, 4:37 PM PT",
+ "updated": "Nov 15, 2026, 4:40 PM PT",
  "record": {
   "w": 174,
   "l": 170,
@@ -127,65 +127,6 @@
   }
  ],
  "picks": [
-  {
-   "n": 816,
-   "league": "NHL",
-   "type": "Over/Under",
-   "matchup": "Edmonton Oilers @ Philadelphia Flyers",
-   "pick": "Under 6",
-   "odds": -106,
-   "units": 0.5,
-   "gap": null,
-   "start": "2026-11-15T16:40:00",
-   "timed": true,
-   "ticket": "single",
-   "espn": {
-    "legs": [
-     {
-      "kind": "total",
-      "side": null,
-      "ou": "U",
-      "line": 6.0,
-      "label": "U 6.0",
-      "path": "hockey/nhl",
-      "event": "401892721",
-      "date": "20261115",
-      "snapshot": {
-       "source": "nhl",
-       "state": "pre",
-       "detail": "Scheduled",
-       "start": "2026-11-16T00:30:00Z",
-       "period": null,
-       "clock": null,
-       "teams": [
-        {
-         "name": "Oilers",
-         "short": "EDM",
-         "abbr": "EDM",
-         "score": 0,
-         "ha": "away",
-         "winner": null,
-         "linescores": []
-        },
-        {
-         "name": "Flyers",
-         "short": "PHI",
-         "abbr": "PHI",
-         "score": 0,
-         "ha": "home",
-         "winner": null,
-         "linescores": []
-        }
-       ],
-       "nhl_id": 2026020326
-      },
-      "source": "nhl"
-     }
-    ],
-    "sport": "NHL",
-    "ticket": "single"
-   }
-  },
   {
    "n": 821,
    "league": "NCAAB",
@@ -1598,6 +1539,65 @@
    }
   },
   {
+   "n": 816,
+   "league": "NHL",
+   "type": "Over/Under",
+   "matchup": "Edmonton Oilers @ Philadelphia Flyers",
+   "pick": "Under 6",
+   "odds": -106,
+   "units": 0.5,
+   "gap": null,
+   "start": "2026-11-15T16:40:00",
+   "timed": true,
+   "ticket": "single",
+   "espn": {
+    "legs": [
+     {
+      "kind": "total",
+      "side": null,
+      "ou": "U",
+      "line": 6.0,
+      "label": "U 6.0",
+      "path": "hockey/nhl",
+      "event": "401892721",
+      "date": "20261115",
+      "snapshot": {
+       "source": "nhl",
+       "state": "in",
+       "detail": "P1 19:53",
+       "start": "2026-11-16T00:30:00Z",
+       "period": 1,
+       "clock": "19:53",
+       "teams": [
+        {
+         "name": "Oilers",
+         "short": "EDM",
+         "abbr": "EDM",
+         "score": 0,
+         "ha": "away",
+         "winner": null,
+         "linescores": []
+        },
+        {
+         "name": "Flyers",
+         "short": "PHI",
+         "abbr": "PHI",
+         "score": 0,
+         "ha": "home",
+         "winner": null,
+         "linescores": []
+        }
+       ],
+       "nhl_id": 2026020326
+      },
+      "source": "nhl"
+     }
+    ],
+    "sport": "NHL",
+    "ticket": "single"
+   }
+  },
+  {
    "n": 818,
    "league": "NFL",
    "type": "Player Prop",
@@ -1950,10 +1950,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "0:43 - 4th",
+       "detail": "0:42 - 4th",
        "start": "2026-11-15T21:25Z",
        "period": 4,
-       "clock": "0:43",
+       "clock": "0:42",
        "teams": [
         {
          "name": "San Francisco 49ers",
@@ -1973,7 +1973,7 @@
          "name": "Dallas Cowboys",
          "short": "Cowboys",
          "abbr": "DAL",
-         "score": 38,
+         "score": 40,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -2020,16 +2020,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "2:12 - 3rd",
+       "detail": "0.1 - 3rd",
        "start": "2026-11-15T23:00Z",
        "period": 3,
-       "clock": "2:12",
+       "clock": "0.1",
        "teams": [
         {
          "name": "Dallas Mavericks",
          "short": "Mavericks",
          "abbr": "DAL",
-         "score": 63,
+         "score": 71,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -2042,7 +2042,7 @@
          "name": "Boston Celtics",
          "short": "Celtics",
          "abbr": "BOS",
-         "score": 101,
+         "score": 104,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -2088,19 +2088,20 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "End of 1st",
+       "detail": "10:52 - 2nd",
        "start": "2026-11-16T00:00Z",
-       "period": 1,
-       "clock": "0.1",
+       "period": 2,
+       "clock": "10:52",
        "teams": [
         {
          "name": "Houston Rockets",
          "short": "Rockets",
          "abbr": "HOU",
-         "score": 36,
+         "score": 43,
          "ha": "away",
          "winner": null,
          "linescores": [
+          0,
           0
          ]
         },
@@ -2112,6 +2113,7 @@
          "ha": "home",
          "winner": null,
          "linescores": [
+          0,
           0
          ]
         }
