@@ -1,5 +1,5 @@
 {
- "updated": "Nov 15, 2026, 5:48 PM PT",
+ "updated": "Nov 15, 2026, 5:50 PM PT",
  "record": {
   "w": 174,
   "l": 170,
@@ -740,10 +740,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "3:17 - 1st",
+       "detail": "2:32 - 1st",
        "start": "2026-11-16T01:20Z",
        "period": 1,
-       "clock": "3:17",
+       "clock": "2:32",
        "teams": [
         {
          "name": "Pittsburgh Steelers",
@@ -1422,10 +1422,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P2 14:36",
+       "detail": "P2 13:39",
        "start": "2026-11-16T00:30:00Z",
        "period": 2,
-       "clock": "14:36",
+       "clock": "13:39",
        "teams": [
         {
          "name": "Oilers",
@@ -1481,10 +1481,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P1 13:22",
+       "detail": "P1 10:52",
        "start": "2026-11-16T01:00:00Z",
        "period": 1,
-       "clock": "13:22",
+       "clock": "10:52",
        "teams": [
         {
          "name": "Flames",
@@ -1724,10 +1724,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "1:03 - 1st",
+       "detail": "0:16 - 1st",
        "start": "2026-11-16T01:00Z",
        "period": 1,
-       "clock": "1:03",
+       "clock": "0:16",
        "teams": [
         {
          "name": "Coastal Carolina Chanticleers",
@@ -1744,7 +1744,7 @@
          "name": "Wisconsin Badgers",
          "short": "Badgers",
          "abbr": "WIS",
-         "score": 34,
+         "score": 36,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -2042,16 +2042,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "2:37 - 3rd",
+       "detail": "1:47 - 3rd",
        "start": "2026-11-16T00:00Z",
        "period": 3,
-       "clock": "2:37",
+       "clock": "1:47",
        "teams": [
         {
          "name": "Houston Rockets",
          "short": "Rockets",
          "abbr": "HOU",
-         "score": 106,
+         "score": 110,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -2064,7 +2064,7 @@
          "name": "Washington Wizards",
          "short": "Wizards",
          "abbr": "WSH",
-         "score": 77,
+         "score": 79,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -2075,7 +2075,7 @@
         }
        ],
        "stat": {
-        "v": 6,
+        "v": 7,
         "name": "Amen Thompson"
        }
       },
@@ -2113,16 +2113,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "7:37 - 2nd",
+       "detail": "6:37 - 2nd",
        "start": "2026-11-16T01:00Z",
        "period": 2,
-       "clock": "7:37",
+       "clock": "6:37",
        "teams": [
         {
          "name": "Atlanta Hawks",
          "short": "Hawks",
          "abbr": "ATL",
-         "score": 33,
+         "score": 35,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -2134,7 +2134,7 @@
          "name": "Milwaukee Bucks",
          "short": "Bucks",
          "abbr": "MIL",
-         "score": 46,
+         "score": 47,
          "ha": "home",
          "winner": null,
          "linescores": [
