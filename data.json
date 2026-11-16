@@ -1,5 +1,5 @@
 {
- "updated": "Nov 15, 2026, 4:44 PM PT",
+ "updated": "Nov 15, 2026, 4:48 PM PT",
  "record": {
   "w": 174,
   "l": 170,
@@ -1564,10 +1564,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P1 17:17",
+       "detail": "P1 14:31",
        "start": "2026-11-16T00:30:00Z",
        "period": 1,
-       "clock": "17:17",
+       "clock": "14:31",
        "teams": [
         {
          "name": "Oilers",
@@ -1944,49 +1944,36 @@
       "line": 2.5,
       "stat": "passing tds",
       "label": "Brock Purdy O 2.5 passing tds",
-      "path": "football/nfl",
-      "event": "401873063",
       "date": "20261115",
+      "unverified": true,
+      "reason": "Player not found in this game",
       "snapshot": {
-       "source": "espn",
-       "state": "in",
-       "detail": "0:09 - 4th",
-       "start": "2026-11-15T21:25Z",
-       "period": 4,
-       "clock": "0:09",
+       "source": "odds-api",
+       "state": "post",
+       "detail": "Final",
+       "start": "2026-11-15T21:25:51Z",
        "teams": [
         {
          "name": "San Francisco 49ers",
-         "short": "49ers",
-         "abbr": "SF",
+         "short": "San Francisco 49ers",
+         "abbr": "",
          "score": 46,
          "ha": "away",
-         "winner": null,
-         "linescores": [
-          0,
-          0,
-          0,
-          0
-         ]
+         "winner": true,
+         "linescores": []
         },
         {
          "name": "Dallas Cowboys",
-         "short": "Cowboys",
-         "abbr": "DAL",
+         "short": "Dallas Cowboys",
+         "abbr": "",
          "score": 40,
          "ha": "home",
-         "winner": null,
-         "linescores": [
-          0,
-          0,
-          0,
-          0
-         ]
+         "winner": false,
+         "linescores": []
         }
-       ],
-       "stat": null
+       ]
       },
-      "source": "espn"
+      "source": "odds-api"
      }
     ],
     "sport": "NFL",
@@ -2020,16 +2007,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "10:21 - 4th",
+       "detail": "8:58 - 4th",
        "start": "2026-11-15T23:00Z",
        "period": 4,
-       "clock": "10:21",
+       "clock": "8:58",
        "teams": [
         {
          "name": "Dallas Mavericks",
          "short": "Mavericks",
          "abbr": "DAL",
-         "score": 74,
+         "score": 77,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -2043,7 +2030,7 @@
          "name": "Boston Celtics",
          "short": "Celtics",
          "abbr": "BOS",
-         "score": 109,
+         "score": 117,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -2090,16 +2077,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "9:49 - 2nd",
+       "detail": "7:23 - 2nd",
        "start": "2026-11-16T00:00Z",
        "period": 2,
-       "clock": "9:49",
+       "clock": "7:23",
        "teams": [
         {
          "name": "Houston Rockets",
          "short": "Rockets",
          "abbr": "HOU",
-         "score": 43,
+         "score": 51,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -2111,7 +2098,7 @@
          "name": "Washington Wizards",
          "short": "Wizards",
          "abbr": "WSH",
-         "score": 35,
+         "score": 40,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -2121,7 +2108,7 @@
         }
        ],
        "stat": {
-        "v": 2,
+        "v": 3,
         "name": "Amen Thompson"
        }
       },
