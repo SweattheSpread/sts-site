@@ -1,5 +1,5 @@
 {
- "updated": "Nov 15, 2026, 7:56 PM PT",
+ "updated": "Nov 15, 2026, 7:58 PM PT",
  "record": {
   "w": 191,
   "l": 182,
@@ -269,10 +269,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "10:53 - 4th",
+       "detail": "10:08 - 4th",
        "start": "2026-11-16T01:20Z",
        "period": 4,
-       "clock": "10:53",
+       "clock": "10:08",
        "teams": [
         {
          "name": "Pittsburgh Steelers",
@@ -292,7 +292,7 @@
          "name": "Cincinnati Bengals",
          "short": "Bengals",
          "abbr": "CIN",
-         "score": 31,
+         "score": 38,
          "ha": "home",
          "winner": null,
          "linescores": [
