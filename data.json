@@ -1,5 +1,5 @@
 {
- "updated": "Nov 15, 2026, 4:32 PM PT",
+ "updated": "Nov 15, 2026, 4:35 PM PT",
  "record": {
   "w": 174,
   "l": 170,
@@ -1950,10 +1950,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "1:33 - 4th",
+       "detail": "0:57 - 4th",
        "start": "2026-11-15T21:25Z",
        "period": 4,
-       "clock": "1:33",
+       "clock": "0:57",
        "teams": [
         {
          "name": "San Francisco 49ers",
@@ -2020,16 +2020,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "3:12 - 3rd",
+       "detail": "2:12 - 3rd",
        "start": "2026-11-15T23:00Z",
        "period": 3,
-       "clock": "3:12",
+       "clock": "2:12",
        "teams": [
         {
          "name": "Dallas Mavericks",
          "short": "Mavericks",
          "abbr": "DAL",
-         "score": 61,
+         "score": 63,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -2042,7 +2042,7 @@
          "name": "Boston Celtics",
          "short": "Celtics",
          "abbr": "BOS",
-         "score": 96,
+         "score": 99,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -2088,16 +2088,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "2:01 - 1st",
+       "detail": "2.8 - 1st",
        "start": "2026-11-16T00:00Z",
        "period": 1,
-       "clock": "2:01",
+       "clock": "2.8",
        "teams": [
         {
          "name": "Houston Rockets",
          "short": "Rockets",
          "abbr": "HOU",
-         "score": 29,
+         "score": 36,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -2108,7 +2108,7 @@
          "name": "Washington Wizards",
          "short": "Wizards",
          "abbr": "WSH",
-         "score": 23,
+         "score": 31,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -2117,7 +2117,7 @@
         }
        ],
        "stat": {
-        "v": 1,
+        "v": 2,
         "name": "Amen Thompson"
        }
       },
