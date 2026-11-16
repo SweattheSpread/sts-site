@@ -1,5 +1,5 @@
 {
- "updated": "Nov 15, 2026, 7:00 PM PT",
+ "updated": "Nov 15, 2026, 7:03 PM PT",
  "record": {
   "w": 174,
   "l": 170,
@@ -1424,10 +1424,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P3 05:16",
+       "detail": "P3 03:00",
        "start": "2026-11-16T00:30:00Z",
        "period": 3,
-       "clock": "05:16",
+       "clock": "03:00",
        "teams": [
         {
          "name": "Oilers",
@@ -1483,16 +1483,16 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P3 17:44",
+       "detail": "P3 15:56",
        "start": "2026-11-16T01:00:00Z",
        "period": 3,
-       "clock": "17:44",
+       "clock": "15:56",
        "teams": [
         {
          "name": "Flames",
          "short": "CGY",
          "abbr": "CGY",
-         "score": 0,
+         "score": 1,
          "ha": "away",
          "winner": null,
          "linescores": []
@@ -1726,16 +1726,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "1:40 - 2nd",
+       "detail": "0:36 - 2nd",
        "start": "2026-11-16T01:00Z",
        "period": 2,
-       "clock": "1:40",
+       "clock": "0:36",
        "teams": [
         {
          "name": "Coastal Carolina Chanticleers",
          "short": "Chanticleers",
          "abbr": "CCU",
-         "score": 72,
+         "score": 76,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -1747,7 +1747,7 @@
          "name": "Wisconsin Badgers",
          "short": "Badgers",
          "abbr": "WIS",
-         "score": 81,
+         "score": 83,
          "ha": "home",
          "winner": null,
          "linescores": [
