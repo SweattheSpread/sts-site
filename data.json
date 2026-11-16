@@ -1,5 +1,5 @@
 {
- "updated": "Nov 15, 2026, 7:18 PM PT",
+ "updated": "Nov 15, 2026, 7:21 PM PT",
  "record": {
   "w": 174,
   "l": 170,
@@ -740,10 +740,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "10:04 - 3rd",
+       "detail": "8:00 - 3rd",
        "start": "2026-11-16T01:20Z",
        "period": 3,
-       "clock": "10:04",
+       "clock": "8:00",
        "teams": [
         {
          "name": "Pittsburgh Steelers",
@@ -1485,10 +1485,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P3 06:03",
+       "detail": "P3 05:36",
        "start": "2026-11-16T01:00:00Z",
        "period": 3,
-       "clock": "06:03",
+       "clock": "05:36",
        "teams": [
         {
          "name": "Flames",
@@ -2121,16 +2121,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "2:23 - 4th",
+       "detail": "24.5 - 4th",
        "start": "2026-11-16T01:00Z",
        "period": 4,
-       "clock": "2:23",
+       "clock": "24.5",
        "teams": [
         {
          "name": "Atlanta Hawks",
          "short": "Hawks",
          "abbr": "ATL",
-         "score": 106,
+         "score": 109,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -2144,7 +2144,7 @@
          "name": "Milwaukee Bucks",
          "short": "Bucks",
          "abbr": "MIL",
-         "score": 103,
+         "score": 106,
          "ha": "home",
          "winner": null,
          "linescores": [
