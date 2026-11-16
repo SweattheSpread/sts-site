@@ -1,5 +1,5 @@
 {
- "updated": "Nov 16, 2026, 4:45 AM PT",
+ "updated": "Nov 16, 2026, 7:49 AM PT",
  "record": {
   "w": 191,
   "l": 183,
@@ -11,7 +11,7 @@
   "first": "2026-10-12",
   "last": "2026-11-15"
  },
- "pending": 5,
+ "pending": 7,
  "latest": [
   {
    "n": 827,
@@ -127,33 +127,6 @@
   }
  ],
  "picks": [
-  {
-   "n": 828,
-   "league": "Tennis",
-   "type": "Over/Under",
-   "matchup": "ATP Finals: Carlos Alcaraz vs Frances Tiafoe",
-   "pick": "Over 20.5 games",
-   "odds": -130,
-   "units": 1.0,
-   "gap": null,
-   "start": "2026-11-16T05:00:00",
-   "timed": true,
-   "ticket": "single",
-   "espn": {
-    "legs": [
-     {
-      "kind": "total",
-      "side": null,
-      "ou": "O",
-      "line": 20.5,
-      "label": "O 20.5",
-      "unverified": true
-     }
-    ],
-    "sport": "Tennis",
-    "ticket": "single"
-   }
-  },
   {
    "n": 829,
    "league": "Tennis",
@@ -364,9 +337,152 @@
     "sport": "Tennis",
     "ticket": "single"
    }
+  },
+  {
+   "n": 831,
+   "league": "NFL",
+   "type": "Over/Under",
+   "matchup": "Indianapolis Colts @ Houston Texans",
+   "pick": "Over 44.5",
+   "odds": -105,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-19T17:15:00",
+   "timed": true,
+   "ticket": "single",
+   "espn": {
+    "legs": [
+     {
+      "kind": "total",
+      "side": null,
+      "ou": "O",
+      "line": 44.5,
+      "label": "O 44.5",
+      "path": "football/nfl",
+      "event": "401873066",
+      "date": "20261119",
+      "snapshot": {
+       "source": "espn",
+       "state": "pre",
+       "detail": "11/19 - 8:15 PM EST",
+       "start": "2026-11-20T01:15Z",
+       "period": null,
+       "clock": null,
+       "teams": [
+        {
+         "name": "Indianapolis Colts",
+         "short": "Colts",
+         "abbr": "IND",
+         "score": 0,
+         "ha": "away",
+         "winner": null,
+         "linescores": []
+        },
+        {
+         "name": "Houston Texans",
+         "short": "Texans",
+         "abbr": "HOU",
+         "score": 0,
+         "ha": "home",
+         "winner": null,
+         "linescores": []
+        }
+       ]
+      },
+      "source": "espn"
+     }
+    ],
+    "sport": "NFL",
+    "ticket": "single"
+   }
+  },
+  {
+   "n": 832,
+   "league": "NFL",
+   "type": "Spread",
+   "matchup": "Indianapolis Colts @ Houston Texans",
+   "pick": "Indianapolis Colts +11",
+   "odds": -110,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-19T17:15:00",
+   "timed": true,
+   "ticket": "single",
+   "espn": {
+    "legs": [
+     {
+      "kind": "spread",
+      "side": "Indianapolis Colts",
+      "line": 11.0,
+      "label": "Indianapolis Colts +11",
+      "path": "football/nfl",
+      "event": "401873066",
+      "date": "20261119",
+      "snapshot": {
+       "source": "espn",
+       "state": "pre",
+       "detail": "11/19 - 8:15 PM EST",
+       "start": "2026-11-20T01:15Z",
+       "period": null,
+       "clock": null,
+       "teams": [
+        {
+         "name": "Indianapolis Colts",
+         "short": "Colts",
+         "abbr": "IND",
+         "score": 0,
+         "ha": "away",
+         "winner": null,
+         "linescores": []
+        },
+        {
+         "name": "Houston Texans",
+         "short": "Texans",
+         "abbr": "HOU",
+         "score": 0,
+         "ha": "home",
+         "winner": null,
+         "linescores": []
+        }
+       ]
+      },
+      "source": "espn"
+     }
+    ],
+    "sport": "NFL",
+    "ticket": "single"
+   }
   }
  ],
- "awaiting": [],
+ "awaiting": [
+  {
+   "n": 828,
+   "league": "Tennis",
+   "type": "Over/Under",
+   "matchup": "ATP Finals: Carlos Alcaraz vs Frances Tiafoe",
+   "pick": "Over 20.5 games",
+   "odds": -130,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-16T05:00:00",
+   "timed": true,
+   "ticket": "single",
+   "espn": {
+    "legs": [
+     {
+      "kind": "total",
+      "side": null,
+      "ou": "O",
+      "line": 20.5,
+      "label": "O 20.5",
+      "unverified": true
+     }
+    ],
+    "sport": "Tennis",
+    "ticket": "single"
+   }
+  }
+ ],
  "daily": {
   "2026-10-12": {
    "u": 5.67,

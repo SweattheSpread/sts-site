@@ -1,5 +1,5 @@
 {
- "updated": "Nov 16, 2026, 4:45 AM PT",
+ "updated": "Nov 16, 2026, 7:49 AM PT",
  "record": {
   "w": 191,
   "l": 183,
@@ -11,7 +11,7 @@
   "first": "2026-10-12",
   "last": "2026-11-15"
  },
- "pending": 5,
+ "pending": 7,
  "plays": [
   {
    "n": 334,
@@ -6153,6 +6153,38 @@
    "pick": "Li Tu ML",
    "odds": -118,
    "units": 1.5,
+   "result": null,
+   "pl": null,
+   "pending": true
+  },
+  {
+   "n": 831,
+   "date": "2026-11-16",
+   "day": "2026-11-19",
+   "league": "NFL",
+   "market": "total",
+   "market_label": "Total",
+   "ticket": "single",
+   "matchup": "Indianapolis Colts @ Houston Texans",
+   "pick": "Over 44.5 -105",
+   "odds": -105,
+   "units": 1.0,
+   "result": null,
+   "pl": null,
+   "pending": true
+  },
+  {
+   "n": 832,
+   "date": "2026-11-16",
+   "day": "2026-11-19",
+   "league": "NFL",
+   "market": "spread",
+   "market_label": "Spread",
+   "ticket": "single",
+   "matchup": "Indianapolis Colts @ Houston Texans",
+   "pick": "Indianapolis Colts +11 -110",
+   "odds": -110,
+   "units": 1.0,
    "result": null,
    "pl": null,
    "pending": true
