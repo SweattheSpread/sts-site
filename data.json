@@ -1,5 +1,5 @@
 {
- "updated": "Nov 15, 2026, 4:30 PM PT",
+ "updated": "Nov 15, 2026, 4:32 PM PT",
  "record": {
   "w": 174,
   "l": 170,
@@ -1950,10 +1950,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "1:56 - 4th",
+       "detail": "1:33 - 4th",
        "start": "2026-11-15T21:25Z",
        "period": 4,
-       "clock": "1:56",
+       "clock": "1:33",
        "teams": [
         {
          "name": "San Francisco 49ers",
@@ -2020,16 +2020,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "4:15 - 3rd",
+       "detail": "3:12 - 3rd",
        "start": "2026-11-15T23:00Z",
        "period": 3,
-       "clock": "4:15",
+       "clock": "3:12",
        "teams": [
         {
          "name": "Dallas Mavericks",
          "short": "Mavericks",
          "abbr": "DAL",
-         "score": 58,
+         "score": 61,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -2042,7 +2042,7 @@
          "name": "Boston Celtics",
          "short": "Celtics",
          "abbr": "BOS",
-         "score": 91,
+         "score": 96,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -2088,16 +2088,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "2:11 - 1st",
+       "detail": "2:01 - 1st",
        "start": "2026-11-16T00:00Z",
        "period": 1,
-       "clock": "2:11",
+       "clock": "2:01",
        "teams": [
         {
          "name": "Houston Rockets",
          "short": "Rockets",
          "abbr": "HOU",
-         "score": 27,
+         "score": 29,
          "ha": "away",
          "winner": null,
          "linescores": [
