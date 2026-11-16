@@ -1,5 +1,5 @@
 {
- "updated": "Nov 15, 2026, 4:16 PM PT",
+ "updated": "Nov 15, 2026, 4:18 PM PT",
  "record": {
   "w": 174,
   "l": 170,
@@ -1744,10 +1744,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "3:21 - 2nd",
+       "detail": "2:56 - 2nd",
        "start": "2026-11-15T22:30Z",
        "period": 2,
-       "clock": "3:21",
+       "clock": "2:56",
        "teams": [
         {
          "name": "Canisius Golden Griffins",
@@ -1765,7 +1765,7 @@
          "name": "Buffalo Bulls",
          "short": "Bulls",
          "abbr": "BUF",
-         "score": 70,
+         "score": 74,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -1950,10 +1950,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "3:42 - 4th",
+       "detail": "3:38 - 4th",
        "start": "2026-11-15T21:25Z",
        "period": 4,
-       "clock": "3:42",
+       "clock": "3:38",
        "teams": [
         {
          "name": "San Francisco 49ers",
@@ -1973,7 +1973,7 @@
          "name": "Dallas Cowboys",
          "short": "Cowboys",
          "abbr": "DAL",
-         "score": 31,
+         "score": 32,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -2020,16 +2020,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "11:00 - 3rd",
+       "detail": "9:58 - 3rd",
        "start": "2026-11-15T23:00Z",
        "period": 3,
-       "clock": "11:00",
+       "clock": "9:58",
        "teams": [
         {
          "name": "Dallas Mavericks",
          "short": "Mavericks",
          "abbr": "DAL",
-         "score": 37,
+         "score": 42,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -2042,7 +2042,7 @@
          "name": "Boston Celtics",
          "short": "Celtics",
          "abbr": "BOS",
-         "score": 70,
+         "score": 73,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -2088,16 +2088,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "7:58 - 1st",
+       "detail": "6:37 - 1st",
        "start": "2026-11-16T00:00Z",
        "period": 1,
-       "clock": "7:58",
+       "clock": "6:37",
        "teams": [
         {
          "name": "Houston Rockets",
          "short": "Rockets",
          "abbr": "HOU",
-         "score": 7,
+         "score": 12,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -2108,7 +2108,7 @@
          "name": "Washington Wizards",
          "short": "Wizards",
          "abbr": "WSH",
-         "score": 11,
+         "score": 13,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -2117,7 +2117,7 @@
         }
        ],
        "stat": {
-        "v": 0,
+        "v": 1,
         "name": "Amen Thompson"
        }
       },
