@@ -1,5 +1,5 @@
 {
- "updated": "Nov 16, 2026, 12:24 AM PT",
+ "updated": "Nov 16, 2026, 4:19 AM PT",
  "record": {
   "w": 191,
   "l": 183,
@@ -11,7 +11,7 @@
   "first": "2026-10-12",
   "last": "2026-11-15"
  },
- "pending": 2,
+ "pending": 5,
  "plays": [
   {
    "n": 334,
@@ -6105,6 +6105,54 @@
    "pick": "Over 39 -108",
    "odds": -108,
    "units": 1.0,
+   "result": null,
+   "pl": null,
+   "pending": true
+  },
+  {
+   "n": 828,
+   "date": "2026-11-16",
+   "day": "2026-11-16",
+   "league": "Tennis",
+   "market": "total",
+   "market_label": "Total",
+   "ticket": "single",
+   "matchup": "ATP Finals: Carlos Alcaraz vs Frances Tiafoe",
+   "pick": "Over 20.5 games",
+   "odds": -130,
+   "units": 1.0,
+   "result": null,
+   "pl": null,
+   "pending": true
+  },
+  {
+   "n": 829,
+   "date": "2026-11-16",
+   "day": "2026-11-16",
+   "league": "Tennis",
+   "market": "ml",
+   "market_label": "Moneyline",
+   "ticket": "single",
+   "matchup": "Challenger Sydney: Casey Hoole vs Florian Broska",
+   "pick": "Casey Hoole ML",
+   "odds": -107,
+   "units": 1.5,
+   "result": null,
+   "pl": null,
+   "pending": true
+  },
+  {
+   "n": 830,
+   "date": "2026-11-16",
+   "day": "2026-11-16",
+   "league": "Tennis",
+   "market": "ml",
+   "market_label": "Moneyline",
+   "ticket": "single",
+   "matchup": "Challenger Sydney: Li Tu vs James McCabe",
+   "pick": "Li Tu ML",
+   "odds": -118,
+   "units": 1.5,
    "result": null,
    "pl": null,
    "pending": true

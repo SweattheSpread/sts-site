@@ -1,5 +1,5 @@
 {
- "updated": "Nov 16, 2026, 12:24 AM PT",
+ "updated": "Nov 16, 2026, 4:19 AM PT",
  "record": {
   "w": 191,
   "l": 183,
@@ -11,7 +11,7 @@
   "first": "2026-10-12",
   "last": "2026-11-15"
  },
- "pending": 2,
+ "pending": 3,
  "latest": [
   {
    "n": 827,
@@ -127,6 +127,33 @@
   }
  ],
  "picks": [
+  {
+   "n": 828,
+   "league": "Tennis",
+   "type": "Over/Under",
+   "matchup": "ATP Finals: Carlos Alcaraz vs Frances Tiafoe",
+   "pick": "Over 20.5 games",
+   "odds": -130,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-16T05:00:00",
+   "timed": true,
+   "ticket": "single",
+   "espn": {
+    "legs": [
+     {
+      "kind": "total",
+      "side": null,
+      "ou": "O",
+      "line": 20.5,
+      "label": "O 20.5",
+      "unverified": true
+     }
+    ],
+    "sport": "Tennis",
+    "ticket": "single"
+   }
+  },
   {
    "n": 765,
    "league": "NFL",
