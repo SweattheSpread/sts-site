@@ -1,5 +1,5 @@
 {
- "updated": "Nov 16, 2026, 5:10 PM PT",
+ "updated": "Nov 16, 2026, 5:13 PM PT",
  "record": {
   "w": 191,
   "l": 183,
@@ -766,10 +766,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "14:49 - 1st",
+       "detail": "14:48 - 1st",
        "start": "2026-11-17T01:00Z",
        "period": 1,
-       "clock": "14:49",
+       "clock": "14:48",
        "teams": [
         {
          "name": "Central Arkansas Bears",
@@ -827,16 +827,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "14:09 - 1st",
+       "detail": "13:32 - 1st",
        "start": "2026-11-17T01:00Z",
        "period": 1,
-       "clock": "14:09",
+       "clock": "13:32",
        "teams": [
         {
          "name": "Columbia Lions",
          "short": "Lions",
          "abbr": "COLU",
-         "score": 4,
+         "score": 6,
          "ha": "away",
          "winner": null,
          "linescores": [
