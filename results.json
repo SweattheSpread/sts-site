@@ -1,5 +1,5 @@
 {
- "updated": "Nov 17, 2026, 7:46 AM PT",
+ "updated": "Nov 17, 2026, 9:17 AM PT",
  "record": {
   "w": 194,
   "l": 190,
@@ -11,7 +11,7 @@
   "first": "2026-10-12",
   "last": "2026-11-16"
  },
- "pending": 3,
+ "pending": 4,
  "plays": [
   {
    "n": 334,
@@ -6249,6 +6249,22 @@
    "pick": "Florida Panthers ML -118",
    "odds": -118,
    "units": 0.5,
+   "result": null,
+   "pl": null,
+   "pending": true
+  },
+  {
+   "n": 840,
+   "date": "2026-11-17",
+   "day": "2026-11-17",
+   "league": "NCAAB",
+   "market": "total",
+   "market_label": "Total",
+   "ticket": "single",
+   "matchup": "Charlotte 49ers @ Davidson Wildcats",
+   "pick": "Over 132",
+   "odds": -110,
+   "units": 3.0,
    "result": null,
    "pl": null,
    "pending": true

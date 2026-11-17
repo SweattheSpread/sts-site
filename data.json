@@ -1,5 +1,5 @@
 {
- "updated": "Nov 17, 2026, 7:46 AM PT",
+ "updated": "Nov 17, 2026, 9:17 AM PT",
  "record": {
   "w": 194,
   "l": 190,
@@ -11,7 +11,7 @@
   "first": "2026-10-12",
   "last": "2026-11-16"
  },
- "pending": 3,
+ "pending": 4,
  "latest": [
   {
    "n": 837,
@@ -127,6 +127,64 @@
   }
  ],
  "picks": [
+  {
+   "n": 840,
+   "league": "NCAAB",
+   "type": "Over/Under",
+   "matchup": "Charlotte 49ers @ Davidson Wildcats",
+   "pick": "Over 132",
+   "odds": -110,
+   "units": 3.0,
+   "gap": null,
+   "start": "2026-11-17T16:00:00",
+   "timed": true,
+   "ticket": "single",
+   "espn": {
+    "legs": [
+     {
+      "kind": "total",
+      "side": null,
+      "ou": "O",
+      "line": 132.0,
+      "label": "O 132.0",
+      "path": "basketball/mens-college-basketball",
+      "event": "401925775",
+      "date": "20261117",
+      "snapshot": {
+       "source": "espn",
+       "state": "pre",
+       "detail": "11/17 - 7:00 PM EST",
+       "start": "2026-11-18T00:00Z",
+       "period": null,
+       "clock": null,
+       "teams": [
+        {
+         "name": "Charlotte 49ers",
+         "short": "49ers",
+         "abbr": "CLT",
+         "score": 0,
+         "ha": "away",
+         "winner": null,
+         "linescores": []
+        },
+        {
+         "name": "Davidson Wildcats",
+         "short": "Wildcats",
+         "abbr": "DAV",
+         "score": 0,
+         "ha": "home",
+         "winner": null,
+         "linescores": []
+        }
+       ]
+      },
+      "source": "espn"
+     }
+    ],
+    "sport": "NCAAB",
+    "ticket": "single"
+   }
+  },
   {
    "n": 839,
    "league": "NHL",
