@@ -1,17 +1,17 @@
 {
- "updated": "Nov 16, 2026, 9:15 PM PT",
+ "updated": "Nov 16, 2026, 11:36 PM PT",
  "record": {
-  "w": 191,
-  "l": 183,
+  "w": 194,
+  "l": 190,
   "p": 0,
-  "n": 374,
-  "units": 58.75,
-  "risked": 532.25,
-  "roi": 11.04,
+  "n": 384,
+  "units": 48.43,
+  "risked": 549.25,
+  "roi": 8.82,
   "first": "2026-10-12",
-  "last": "2026-11-15"
+  "last": "2026-11-16"
  },
- "pending": 12,
+ "pending": 2,
  "plays": [
   {
    "n": 334,
@@ -6089,9 +6089,9 @@
    "pick": "Baltimore Ravens -4.5 -105",
    "odds": -105,
    "units": 1.0,
-   "result": null,
-   "pl": null,
-   "pending": true
+   "result": "L",
+   "pl": -1.0,
+   "pending": false
   },
   {
    "n": 814,
@@ -6105,9 +6105,9 @@
    "pick": "Over 39 -108",
    "odds": -108,
    "units": 1.0,
-   "result": null,
-   "pl": null,
-   "pending": true
+   "result": "W",
+   "pl": 0.93,
+   "pending": false
   },
   {
    "n": 828,
@@ -6121,9 +6121,9 @@
    "pick": "Over 20.5 games",
    "odds": -130,
    "units": 1.0,
-   "result": null,
-   "pl": null,
-   "pending": true
+   "result": "L",
+   "pl": -1.0,
+   "pending": false
   },
   {
    "n": 829,
@@ -6137,9 +6137,9 @@
    "pick": "Casey Hoole ML",
    "odds": -107,
    "units": 1.5,
-   "result": null,
-   "pl": null,
-   "pending": true
+   "result": "L",
+   "pl": -1.5,
+   "pending": false
   },
   {
    "n": 830,
@@ -6153,9 +6153,9 @@
    "pick": "Li Tu ML",
    "odds": -118,
    "units": 1.5,
-   "result": null,
-   "pl": null,
-   "pending": true
+   "result": "W",
+   "pl": 1.27,
+   "pending": false
   },
   {
    "n": 833,
@@ -6169,9 +6169,9 @@
    "pick": "Under 162.5",
    "odds": -110,
    "units": 3.0,
-   "result": null,
-   "pl": null,
-   "pending": true
+   "result": "L",
+   "pl": -3.0,
+   "pending": false
   },
   {
    "n": 834,
@@ -6185,9 +6185,9 @@
    "pick": "Columbia +11.5",
    "odds": -102,
    "units": 1.0,
-   "result": null,
-   "pl": null,
-   "pending": true
+   "result": "W",
+   "pl": 0.98,
+   "pending": false
   },
   {
    "n": 835,
@@ -6201,9 +6201,9 @@
    "pick": "Under 156.5 total points",
    "odds": -110,
    "units": 1.0,
-   "result": null,
-   "pl": null,
-   "pending": true
+   "result": "L",
+   "pl": -1.0,
+   "pending": false
   },
   {
    "n": 836,
@@ -6217,9 +6217,9 @@
    "pick": "Keaton Mitchell Over 1.5 receptions (-190) + Over 10.5 receiving yards (-120) same-player 2-leg parlay",
    "odds": 180,
    "units": 4.0,
-   "result": null,
-   "pl": null,
-   "pending": true
+   "result": "L",
+   "pl": -4.0,
+   "pending": false
   },
   {
    "n": 837,
@@ -6233,9 +6233,9 @@
    "pick": "Keaton Mitchell Over 2.5 receptions (+145) + Over 15.5 receiving yards (+155) same-player 2-leg parlay",
    "odds": 525,
    "units": 2.0,
-   "result": null,
-   "pl": null,
-   "pending": true
+   "result": "L",
+   "pl": -2.0,
+   "pending": false
   },
   {
    "n": 831,
