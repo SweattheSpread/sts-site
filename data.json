@@ -1,5 +1,5 @@
 {
- "updated": "Nov 16, 2026, 6:58 PM PT",
+ "updated": "Nov 16, 2026, 7:00 PM PT",
  "record": {
   "w": 191,
   "l": 183,
@@ -127,64 +127,6 @@
   }
  ],
  "picks": [
-  {
-   "n": 835,
-   "league": "NCAAB",
-   "type": "Over/Under",
-   "matchup": "Texas Southern Tigers @ UC San Diego Tritons",
-   "pick": "Under 156.5 total points",
-   "odds": -110,
-   "units": 1.0,
-   "gap": null,
-   "start": "2026-11-16T19:00:00",
-   "timed": true,
-   "ticket": "single",
-   "espn": {
-    "legs": [
-     {
-      "kind": "total",
-      "side": null,
-      "ou": "U",
-      "line": 156.5,
-      "label": "U 156.5",
-      "path": "basketball/mens-college-basketball",
-      "event": "401920373",
-      "date": "20261116",
-      "snapshot": {
-       "source": "espn",
-       "state": "pre",
-       "detail": "11/16 - 10:00 PM EST",
-       "start": "2026-11-17T03:00Z",
-       "period": null,
-       "clock": null,
-       "teams": [
-        {
-         "name": "Texas Southern Tigers",
-         "short": "Tigers",
-         "abbr": "TXSO",
-         "score": 0,
-         "ha": "away",
-         "winner": null,
-         "linescores": []
-        },
-        {
-         "name": "UC San Diego Tritons",
-         "short": "Tritons",
-         "abbr": "UCSD",
-         "score": 0,
-         "ha": "home",
-         "winner": null,
-         "linescores": []
-        }
-       ]
-      },
-      "source": "espn"
-     }
-    ],
-    "sport": "NCAAB",
-    "ticket": "single"
-   }
-  },
   {
    "n": 831,
    "league": "NFL",
@@ -327,10 +269,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "Halftime",
+       "detail": "14:55 - 3rd",
        "start": "2026-11-17T01:15Z",
-       "period": 2,
-       "clock": "0:00",
+       "period": 3,
+       "clock": "14:55",
        "teams": [
         {
          "name": "Los Angeles Chargers",
@@ -340,6 +282,7 @@
          "ha": "away",
          "winner": null,
          "linescores": [
+          0,
           0,
           0
          ]
@@ -352,6 +295,7 @@
          "ha": "home",
          "winner": null,
          "linescores": [
+          0,
           0,
           0
          ]
@@ -391,10 +335,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "Halftime",
+       "detail": "14:55 - 3rd",
        "start": "2026-11-17T01:15Z",
-       "period": 2,
-       "clock": "0:00",
+       "period": 3,
+       "clock": "14:55",
        "teams": [
         {
          "name": "Los Angeles Chargers",
@@ -404,6 +348,7 @@
          "ha": "away",
          "winner": null,
          "linescores": [
+          0,
           0,
           0
          ]
@@ -416,6 +361,7 @@
          "ha": "home",
          "winner": null,
          "linescores": [
+          0,
           0,
           0
          ]
@@ -584,10 +530,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "3:38 - 2nd",
+       "detail": "2:35 - 2nd",
        "start": "2026-11-17T01:00Z",
        "period": 2,
-       "clock": "3:38",
+       "clock": "2:35",
        "teams": [
         {
          "name": "Central Arkansas Bears",
@@ -686,6 +632,64 @@
    }
   },
   {
+   "n": 835,
+   "league": "NCAAB",
+   "type": "Over/Under",
+   "matchup": "Texas Southern Tigers @ UC San Diego Tritons",
+   "pick": "Under 156.5 total points",
+   "odds": -110,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-16T19:00:00",
+   "timed": true,
+   "ticket": "single",
+   "espn": {
+    "legs": [
+     {
+      "kind": "total",
+      "side": null,
+      "ou": "U",
+      "line": 156.5,
+      "label": "U 156.5",
+      "path": "basketball/mens-college-basketball",
+      "event": "401920373",
+      "date": "20261116",
+      "snapshot": {
+       "source": "espn",
+       "state": "pre",
+       "detail": "11/16 - 10:00 PM EST",
+       "start": "2026-11-17T03:00Z",
+       "period": null,
+       "clock": null,
+       "teams": [
+        {
+         "name": "Texas Southern Tigers",
+         "short": "Tigers",
+         "abbr": "TXSO",
+         "score": 0,
+         "ha": "away",
+         "winner": null,
+         "linescores": []
+        },
+        {
+         "name": "UC San Diego Tritons",
+         "short": "Tritons",
+         "abbr": "UCSD",
+         "score": 0,
+         "ha": "home",
+         "winner": null,
+         "linescores": []
+        }
+       ]
+      },
+      "source": "espn"
+     }
+    ],
+    "sport": "NCAAB",
+    "ticket": "single"
+   }
+  },
+  {
    "n": 836,
    "league": "NFL",
    "type": "Parlay",
@@ -711,10 +715,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "Halftime",
+       "detail": "14:55 - 3rd",
        "start": "2026-11-17T01:15Z",
-       "period": 2,
-       "clock": "0:00",
+       "period": 3,
+       "clock": "14:55",
        "teams": [
         {
          "name": "Los Angeles Chargers",
@@ -724,6 +728,7 @@
          "ha": "away",
          "winner": null,
          "linescores": [
+          0,
           0,
           0
          ]
@@ -736,6 +741,7 @@
          "ha": "home",
          "winner": null,
          "linescores": [
+          0,
           0,
           0
          ]
@@ -756,10 +762,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "Halftime",
+       "detail": "14:55 - 3rd",
        "start": "2026-11-17T01:15Z",
-       "period": 2,
-       "clock": "0:00",
+       "period": 3,
+       "clock": "14:55",
        "teams": [
         {
          "name": "Los Angeles Chargers",
@@ -769,6 +775,7 @@
          "ha": "away",
          "winner": null,
          "linescores": [
+          0,
           0,
           0
          ]
@@ -781,6 +788,7 @@
          "ha": "home",
          "winner": null,
          "linescores": [
+          0,
           0,
           0
          ]
@@ -820,10 +828,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "Halftime",
+       "detail": "14:55 - 3rd",
        "start": "2026-11-17T01:15Z",
-       "period": 2,
-       "clock": "0:00",
+       "period": 3,
+       "clock": "14:55",
        "teams": [
         {
          "name": "Los Angeles Chargers",
@@ -833,6 +841,7 @@
          "ha": "away",
          "winner": null,
          "linescores": [
+          0,
           0,
           0
          ]
@@ -845,6 +854,7 @@
          "ha": "home",
          "winner": null,
          "linescores": [
+          0,
           0,
           0
          ]
@@ -865,10 +875,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "Halftime",
+       "detail": "14:55 - 3rd",
        "start": "2026-11-17T01:15Z",
-       "period": 2,
-       "clock": "0:00",
+       "period": 3,
+       "clock": "14:55",
        "teams": [
         {
          "name": "Los Angeles Chargers",
@@ -878,6 +888,7 @@
          "ha": "away",
          "winner": null,
          "linescores": [
+          0,
           0,
           0
          ]
@@ -890,6 +901,7 @@
          "ha": "home",
          "winner": null,
          "linescores": [
+          0,
           0,
           0
          ]
