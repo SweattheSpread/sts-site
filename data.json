@@ -1,5 +1,5 @@
 {
- "updated": "Nov 16, 2026, 8:54 PM PT",
+ "updated": "Nov 16, 2026, 8:57 PM PT",
  "record": {
   "w": 191,
   "l": 183,
@@ -661,16 +661,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "3:18 - 2nd",
+       "detail": "2:33 - 2nd",
        "start": "2026-11-17T03:00Z",
        "period": 2,
-       "clock": "3:18",
+       "clock": "2:33",
        "teams": [
         {
          "name": "Texas Southern Tigers",
          "short": "Tigers",
          "abbr": "TXSO",
-         "score": 81,
+         "score": 83,
          "ha": "away",
          "winner": null,
          "linescores": [
