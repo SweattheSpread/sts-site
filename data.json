@@ -1,5 +1,5 @@
 {
- "updated": "Nov 16, 2026, 8:28 PM PT",
+ "updated": "Nov 16, 2026, 8:37 PM PT",
  "record": {
   "w": 191,
   "l": 183,
@@ -661,16 +661,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "12:37 - 2nd",
+       "detail": "9:58 - 2nd",
        "start": "2026-11-17T03:00Z",
        "period": 2,
-       "clock": "12:37",
+       "clock": "9:58",
        "teams": [
         {
          "name": "Texas Southern Tigers",
          "short": "Tigers",
          "abbr": "TXSO",
-         "score": 62,
+         "score": 67,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -682,7 +682,7 @@
          "name": "UC San Diego Tritons",
          "short": "Tritons",
          "abbr": "UCSD",
-         "score": 71,
+         "score": 78,
          "ha": "home",
          "winner": null,
          "linescores": [
