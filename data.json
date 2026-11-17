@@ -1,5 +1,5 @@
 {
- "updated": "Nov 16, 2026, 7:00 PM PT",
+ "updated": "Nov 16, 2026, 7:08 PM PT",
  "record": {
   "w": 191,
   "l": 183,
@@ -269,10 +269,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "14:55 - 3rd",
+       "detail": "11:17 - 3rd",
        "start": "2026-11-17T01:15Z",
        "period": 3,
-       "clock": "14:55",
+       "clock": "11:17",
        "teams": [
         {
          "name": "Los Angeles Chargers",
@@ -335,10 +335,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "14:55 - 3rd",
+       "detail": "11:17 - 3rd",
        "start": "2026-11-17T01:15Z",
        "period": 3,
-       "clock": "14:55",
+       "clock": "11:17",
        "teams": [
         {
          "name": "Los Angeles Chargers",
@@ -529,19 +529,19 @@
       "date": "20261116",
       "snapshot": {
        "source": "espn",
-       "state": "in",
-       "detail": "2:35 - 2nd",
+       "state": "post",
+       "detail": "Final",
        "start": "2026-11-17T01:00Z",
-       "period": 2,
-       "clock": "2:35",
+       "period": null,
+       "clock": null,
        "teams": [
         {
          "name": "Central Arkansas Bears",
          "short": "Bears",
          "abbr": "CARK",
-         "score": 65,
+         "score": 66,
          "ha": "away",
-         "winner": null,
+         "winner": false,
          "linescores": [
           0,
           0
@@ -551,9 +551,9 @@
          "name": "Oklahoma State Cowboys",
          "short": "Cowboys",
          "abbr": "OKST",
-         "score": 89,
+         "score": 99,
          "ha": "home",
-         "winner": null,
+         "winner": true,
          "linescores": [
           0,
           0
@@ -656,29 +656,33 @@
       "date": "20261116",
       "snapshot": {
        "source": "espn",
-       "state": "pre",
-       "detail": "11/16 - 10:00 PM EST",
+       "state": "in",
+       "detail": "17:23 - 1st",
        "start": "2026-11-17T03:00Z",
-       "period": null,
-       "clock": null,
+       "period": 1,
+       "clock": "17:23",
        "teams": [
         {
          "name": "Texas Southern Tigers",
          "short": "Tigers",
          "abbr": "TXSO",
-         "score": 0,
+         "score": 6,
          "ha": "away",
          "winner": null,
-         "linescores": []
+         "linescores": [
+          0
+         ]
         },
         {
          "name": "UC San Diego Tritons",
          "short": "Tritons",
          "abbr": "UCSD",
-         "score": 0,
+         "score": 6,
          "ha": "home",
          "winner": null,
-         "linescores": []
+         "linescores": [
+          0
+         ]
         }
        ]
       },
@@ -715,10 +719,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "14:55 - 3rd",
+       "detail": "11:17 - 3rd",
        "start": "2026-11-17T01:15Z",
        "period": 3,
-       "clock": "14:55",
+       "clock": "11:17",
        "teams": [
         {
          "name": "Los Angeles Chargers",
@@ -762,10 +766,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "14:55 - 3rd",
+       "detail": "11:17 - 3rd",
        "start": "2026-11-17T01:15Z",
        "period": 3,
-       "clock": "14:55",
+       "clock": "11:17",
        "teams": [
         {
          "name": "Los Angeles Chargers",
@@ -828,10 +832,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "14:55 - 3rd",
+       "detail": "11:17 - 3rd",
        "start": "2026-11-17T01:15Z",
        "period": 3,
-       "clock": "14:55",
+       "clock": "11:17",
        "teams": [
         {
          "name": "Los Angeles Chargers",
@@ -875,10 +879,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "14:55 - 3rd",
+       "detail": "11:17 - 3rd",
        "start": "2026-11-17T01:15Z",
        "period": 3,
-       "clock": "14:55",
+       "clock": "11:17",
        "teams": [
         {
          "name": "Los Angeles Chargers",
