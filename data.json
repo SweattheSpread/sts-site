@@ -1,5 +1,5 @@
 {
- "updated": "Nov 16, 2026, 5:58 PM PT",
+ "updated": "Nov 16, 2026, 6:01 PM PT",
  "record": {
   "w": 191,
   "l": 183,
@@ -127,54 +127,6 @@
   }
  ],
  "picks": [
-  {
-   "n": 830,
-   "league": "Tennis",
-   "type": "Moneyline",
-   "matchup": "Challenger Sydney: Li Tu vs James McCabe",
-   "pick": "Li Tu ML",
-   "odds": -118,
-   "units": 1.5,
-   "gap": null,
-   "start": "2026-11-16T18:00:00",
-   "timed": true,
-   "ticket": "single",
-   "espn": {
-    "legs": [
-     {
-      "kind": "ml",
-      "side": "Li Tu",
-      "label": "Li Tu ML",
-      "snapshot": {
-       "source": "tennis-explorer",
-       "path": "tennis/explorer",
-       "event": "3378589",
-       "state": "in",
-       "detail": "Live",
-       "tennis": [
-        {
-         "name": "Tu L.",
-         "winner": false,
-         "sets": []
-        },
-        {
-         "name": "McCabe J.",
-         "winner": false,
-         "sets": []
-        }
-       ],
-       "tour": "Sydney challenger"
-      },
-      "path": "tennis/explorer",
-      "event": "3378589",
-      "source": "tennis-explorer",
-      "date": "20261116"
-     }
-    ],
-    "sport": "Tennis",
-    "ticket": "single"
-   }
-  },
   {
    "n": 835,
    "league": "NCAAB",
@@ -375,10 +327,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "0:32 - 1st",
+       "detail": "15:00 - 2nd",
        "start": "2026-11-17T01:15Z",
-       "period": 1,
-       "clock": "0:32",
+       "period": 2,
+       "clock": "15:00",
        "teams": [
         {
          "name": "Los Angeles Chargers",
@@ -388,6 +340,7 @@
          "ha": "away",
          "winner": null,
          "linescores": [
+          0,
           0
          ]
         },
@@ -399,6 +352,7 @@
          "ha": "home",
          "winner": null,
          "linescores": [
+          0,
           0
          ]
         }
@@ -437,10 +391,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "0:32 - 1st",
+       "detail": "15:00 - 2nd",
        "start": "2026-11-17T01:15Z",
-       "period": 1,
-       "clock": "0:32",
+       "period": 2,
+       "clock": "15:00",
        "teams": [
         {
          "name": "Los Angeles Chargers",
@@ -450,6 +404,7 @@
          "ha": "away",
          "winner": null,
          "linescores": [
+          0,
           0
          ]
         },
@@ -461,6 +416,7 @@
          "ha": "home",
          "winner": null,
          "linescores": [
+          0,
           0
          ]
         }
@@ -546,6 +502,54 @@
       },
       "path": "tennis/explorer",
       "event": "3378581",
+      "source": "tennis-explorer",
+      "date": "20261116"
+     }
+    ],
+    "sport": "Tennis",
+    "ticket": "single"
+   }
+  },
+  {
+   "n": 830,
+   "league": "Tennis",
+   "type": "Moneyline",
+   "matchup": "Challenger Sydney: Li Tu vs James McCabe",
+   "pick": "Li Tu ML",
+   "odds": -118,
+   "units": 1.5,
+   "gap": null,
+   "start": "2026-11-16T18:00:00",
+   "timed": true,
+   "ticket": "single",
+   "espn": {
+    "legs": [
+     {
+      "kind": "ml",
+      "side": "Li Tu",
+      "label": "Li Tu ML",
+      "snapshot": {
+       "source": "tennis-explorer",
+       "path": "tennis/explorer",
+       "event": "3378589",
+       "state": "in",
+       "detail": "Live",
+       "tennis": [
+        {
+         "name": "Tu L.",
+         "winner": false,
+         "sets": []
+        },
+        {
+         "name": "McCabe J.",
+         "winner": false,
+         "sets": []
+        }
+       ],
+       "tour": "Sydney challenger"
+      },
+      "path": "tennis/explorer",
+      "event": "3378589",
       "source": "tennis-explorer",
       "date": "20261116"
      }
@@ -703,10 +707,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "0:32 - 1st",
+       "detail": "15:00 - 2nd",
        "start": "2026-11-17T01:15Z",
-       "period": 1,
-       "clock": "0:32",
+       "period": 2,
+       "clock": "15:00",
        "teams": [
         {
          "name": "Los Angeles Chargers",
@@ -716,6 +720,7 @@
          "ha": "away",
          "winner": null,
          "linescores": [
+          0,
           0
          ]
         },
@@ -727,6 +732,7 @@
          "ha": "home",
          "winner": null,
          "linescores": [
+          0,
           0
          ]
         }
@@ -746,10 +752,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "0:32 - 1st",
+       "detail": "15:00 - 2nd",
        "start": "2026-11-17T01:15Z",
-       "period": 1,
-       "clock": "0:32",
+       "period": 2,
+       "clock": "15:00",
        "teams": [
         {
          "name": "Los Angeles Chargers",
@@ -759,6 +765,7 @@
          "ha": "away",
          "winner": null,
          "linescores": [
+          0,
           0
          ]
         },
@@ -770,6 +777,7 @@
          "ha": "home",
          "winner": null,
          "linescores": [
+          0,
           0
          ]
         }
@@ -808,10 +816,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "0:32 - 1st",
+       "detail": "15:00 - 2nd",
        "start": "2026-11-17T01:15Z",
-       "period": 1,
-       "clock": "0:32",
+       "period": 2,
+       "clock": "15:00",
        "teams": [
         {
          "name": "Los Angeles Chargers",
@@ -821,6 +829,7 @@
          "ha": "away",
          "winner": null,
          "linescores": [
+          0,
           0
          ]
         },
@@ -832,6 +841,7 @@
          "ha": "home",
          "winner": null,
          "linescores": [
+          0,
           0
          ]
         }
@@ -851,10 +861,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "0:32 - 1st",
+       "detail": "15:00 - 2nd",
        "start": "2026-11-17T01:15Z",
-       "period": 1,
-       "clock": "0:32",
+       "period": 2,
+       "clock": "15:00",
        "teams": [
         {
          "name": "Los Angeles Chargers",
@@ -864,6 +874,7 @@
          "ha": "away",
          "winner": null,
          "linescores": [
+          0,
           0
          ]
         },
@@ -875,6 +886,7 @@
          "ha": "home",
          "winner": null,
          "linescores": [
+          0,
           0
          ]
         }
