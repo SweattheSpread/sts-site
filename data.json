@@ -1,5 +1,5 @@
 {
- "updated": "Nov 16, 2026, 3:18 PM PT",
+ "updated": "Nov 16, 2026, 4:41 PM PT",
  "record": {
   "w": 191,
   "l": 183,
@@ -823,18 +823,24 @@
        "source": "tennis-explorer",
        "path": "tennis/explorer",
        "event": "3378581",
-       "state": "in",
-       "detail": "Live",
+       "state": "post",
+       "detail": "Final \u00b7 2-0 sets",
        "tennis": [
+        {
+         "name": "Broska F.",
+         "winner": true,
+         "sets": [
+          7,
+          6
+         ]
+        },
         {
          "name": "Hoole C.",
          "winner": false,
-         "sets": []
-        },
-        {
-         "name": "Broska F.",
-         "winner": false,
-         "sets": []
+         "sets": [
+          5,
+          4
+         ]
         }
        ],
        "tour": "Sydney challenger"
