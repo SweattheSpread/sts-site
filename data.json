@@ -1,5 +1,5 @@
 {
- "updated": "Nov 16, 2026, 6:16 PM PT",
+ "updated": "Nov 16, 2026, 6:18 PM PT",
  "record": {
   "w": 191,
   "l": 183,
@@ -584,10 +584,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "17:42 - 2nd",
+       "detail": "17:28 - 2nd",
        "start": "2026-11-17T01:00Z",
        "period": 2,
-       "clock": "17:42",
+       "clock": "17:28",
        "teams": [
         {
          "name": "Central Arkansas Bears",
@@ -605,7 +605,7 @@
          "name": "Oklahoma State Cowboys",
          "short": "Cowboys",
          "abbr": "OKST",
-         "score": 52,
+         "score": 54,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -647,16 +647,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "13:23 - 2nd",
+       "detail": "11:48 - 2nd",
        "start": "2026-11-17T01:00Z",
        "period": 2,
-       "clock": "13:23",
+       "clock": "11:48",
        "teams": [
         {
          "name": "Columbia Lions",
          "short": "Lions",
          "abbr": "COLU",
-         "score": 44,
+         "score": 47,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -668,7 +668,7 @@
          "name": "Northwestern Wildcats",
          "short": "Wildcats",
          "abbr": "NU",
-         "score": 34,
+         "score": 36,
          "ha": "home",
          "winner": null,
          "linescores": [
