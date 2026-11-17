@@ -1,5 +1,5 @@
 {
- "updated": "Nov 17, 2026, 12:26 AM PT",
+ "updated": "Nov 17, 2026, 7:46 AM PT",
  "record": {
   "w": 194,
   "l": 190,
@@ -11,7 +11,7 @@
   "first": "2026-10-12",
   "last": "2026-11-16"
  },
- "pending": 2,
+ "pending": 3,
  "latest": [
   {
    "n": 837,
@@ -127,6 +127,63 @@
   }
  ],
  "picks": [
+  {
+   "n": 839,
+   "league": "NHL",
+   "type": "Moneyline",
+   "matchup": "Edmonton Oilers @ Florida Panthers",
+   "pick": "Florida Panthers ML",
+   "odds": -118,
+   "units": 0.5,
+   "gap": null,
+   "start": "2026-11-17T16:10:00",
+   "timed": true,
+   "ticket": "single",
+   "espn": {
+    "legs": [
+     {
+      "kind": "ml",
+      "side": "Florida Panthers",
+      "label": "Florida Panthers ML",
+      "path": "hockey/nhl",
+      "event": "401892730",
+      "date": "20261117",
+      "snapshot": {
+       "source": "nhl",
+       "state": "pre",
+       "detail": "Scheduled",
+       "start": "2026-11-18T00:00:00Z",
+       "period": null,
+       "clock": null,
+       "teams": [
+        {
+         "name": "Oilers",
+         "short": "EDM",
+         "abbr": "EDM",
+         "score": 0,
+         "ha": "away",
+         "winner": null,
+         "linescores": []
+        },
+        {
+         "name": "Panthers",
+         "short": "FLA",
+         "abbr": "FLA",
+         "score": 0,
+         "ha": "home",
+         "winner": null,
+         "linescores": []
+        }
+       ],
+       "nhl_id": 2026020335
+      },
+      "source": "nhl"
+     }
+    ],
+    "sport": "NHL",
+    "ticket": "single"
+   }
+  },
   {
    "n": 831,
    "league": "NFL",

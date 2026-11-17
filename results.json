@@ -1,5 +1,5 @@
 {
- "updated": "Nov 17, 2026, 12:26 AM PT",
+ "updated": "Nov 17, 2026, 7:46 AM PT",
  "record": {
   "w": 194,
   "l": 190,
@@ -11,7 +11,7 @@
   "first": "2026-10-12",
   "last": "2026-11-16"
  },
- "pending": 2,
+ "pending": 3,
  "plays": [
   {
    "n": 334,
@@ -6236,6 +6236,22 @@
    "result": "L",
    "pl": -2.0,
    "pending": false
+  },
+  {
+   "n": 839,
+   "date": "2026-11-17",
+   "day": "2026-11-17",
+   "league": "NHL",
+   "market": "ml",
+   "market_label": "Moneyline",
+   "ticket": "single",
+   "matchup": "Edmonton Oilers @ Florida Panthers",
+   "pick": "Florida Panthers ML -118",
+   "odds": -118,
+   "units": 0.5,
+   "result": null,
+   "pl": null,
+   "pending": true
   },
   {
    "n": 831,
