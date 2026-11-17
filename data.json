@@ -1,5 +1,5 @@
 {
- "updated": "Nov 16, 2026, 6:55 PM PT",
+ "updated": "Nov 16, 2026, 6:58 PM PT",
  "record": {
   "w": 191,
   "l": 183,
@@ -584,16 +584,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "3:58 - 2nd",
+       "detail": "3:38 - 2nd",
        "start": "2026-11-17T01:00Z",
        "period": 2,
-       "clock": "3:58",
+       "clock": "3:38",
        "teams": [
         {
          "name": "Central Arkansas Bears",
          "short": "Bears",
          "abbr": "CARK",
-         "score": 63,
+         "score": 65,
          "ha": "away",
          "winner": null,
          "linescores": [
