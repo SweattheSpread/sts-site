@@ -1,5 +1,5 @@
 {
- "updated": "Nov 16, 2026, 6:10 PM PT",
+ "updated": "Nov 16, 2026, 6:13 PM PT",
  "record": {
   "w": 191,
   "l": 183,
@@ -327,10 +327,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "11:59 - 2nd",
+       "detail": "10:16 - 2nd",
        "start": "2026-11-17T01:15Z",
        "period": 2,
-       "clock": "11:59",
+       "clock": "10:16",
        "teams": [
         {
          "name": "Los Angeles Chargers",
@@ -391,10 +391,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "11:59 - 2nd",
+       "detail": "10:16 - 2nd",
        "start": "2026-11-17T01:15Z",
        "period": 2,
-       "clock": "11:59",
+       "clock": "10:16",
        "teams": [
         {
          "name": "Los Angeles Chargers",
@@ -584,10 +584,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "Halftime",
+       "detail": "18:48 - 2nd",
        "start": "2026-11-17T01:00Z",
-       "period": 1,
-       "clock": "0:00",
+       "period": 2,
+       "clock": "18:48",
        "teams": [
         {
          "name": "Central Arkansas Bears",
@@ -597,6 +597,7 @@
          "ha": "away",
          "winner": null,
          "linescores": [
+          0,
           0
          ]
         },
@@ -604,10 +605,11 @@
          "name": "Oklahoma State Cowboys",
          "short": "Cowboys",
          "abbr": "OKST",
-         "score": 49,
+         "score": 52,
          "ha": "home",
          "winner": null,
          "linescores": [
+          0,
           0
          ]
         }
@@ -645,16 +647,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "15:52 - 2nd",
+       "detail": "14:45 - 2nd",
        "start": "2026-11-17T01:00Z",
        "period": 2,
-       "clock": "15:52",
+       "clock": "14:45",
        "teams": [
         {
          "name": "Columbia Lions",
          "short": "Lions",
          "abbr": "COLU",
-         "score": 39,
+         "score": 41,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -709,10 +711,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "11:59 - 2nd",
+       "detail": "10:16 - 2nd",
        "start": "2026-11-17T01:15Z",
        "period": 2,
-       "clock": "11:59",
+       "clock": "10:16",
        "teams": [
         {
          "name": "Los Angeles Chargers",
@@ -754,10 +756,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "11:59 - 2nd",
+       "detail": "10:16 - 2nd",
        "start": "2026-11-17T01:15Z",
        "period": 2,
-       "clock": "11:59",
+       "clock": "10:16",
        "teams": [
         {
          "name": "Los Angeles Chargers",
@@ -818,10 +820,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "11:59 - 2nd",
+       "detail": "10:16 - 2nd",
        "start": "2026-11-17T01:15Z",
        "period": 2,
-       "clock": "11:59",
+       "clock": "10:16",
        "teams": [
         {
          "name": "Los Angeles Chargers",
@@ -863,10 +865,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "11:59 - 2nd",
+       "detail": "10:16 - 2nd",
        "start": "2026-11-17T01:15Z",
        "period": 2,
-       "clock": "11:59",
+       "clock": "10:16",
        "teams": [
         {
          "name": "Los Angeles Chargers",
