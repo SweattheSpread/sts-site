@@ -1,5 +1,5 @@
 {
- "updated": "Nov 16, 2026, 7:20 PM PT",
+ "updated": "Nov 16, 2026, 7:23 PM PT",
  "record": {
   "w": 191,
   "l": 183,
@@ -269,10 +269,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "5:49 - 3rd",
+       "detail": "5:13 - 3rd",
        "start": "2026-11-17T01:15Z",
        "period": 3,
-       "clock": "5:49",
+       "clock": "5:13",
        "teams": [
         {
          "name": "Los Angeles Chargers",
@@ -335,10 +335,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "5:49 - 3rd",
+       "detail": "5:13 - 3rd",
        "start": "2026-11-17T01:15Z",
        "period": 3,
-       "clock": "5:49",
+       "clock": "5:13",
        "teams": [
         {
          "name": "Los Angeles Chargers",
@@ -657,16 +657,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "12:55 - 1st",
+       "detail": "11:11 - 1st",
        "start": "2026-11-17T03:00Z",
        "period": 1,
-       "clock": "12:55",
+       "clock": "11:11",
        "teams": [
         {
          "name": "Texas Southern Tigers",
          "short": "Tigers",
          "abbr": "TXSO",
-         "score": 18,
+         "score": 22,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -677,7 +677,7 @@
          "name": "UC San Diego Tritons",
          "short": "Tritons",
          "abbr": "UCSD",
-         "score": 16,
+         "score": 18,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -719,10 +719,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "5:49 - 3rd",
+       "detail": "5:13 - 3rd",
        "start": "2026-11-17T01:15Z",
        "period": 3,
-       "clock": "5:49",
+       "clock": "5:13",
        "teams": [
         {
          "name": "Los Angeles Chargers",
@@ -766,10 +766,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "5:49 - 3rd",
+       "detail": "5:13 - 3rd",
        "start": "2026-11-17T01:15Z",
        "period": 3,
-       "clock": "5:49",
+       "clock": "5:13",
        "teams": [
         {
          "name": "Los Angeles Chargers",
@@ -832,10 +832,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "5:49 - 3rd",
+       "detail": "5:13 - 3rd",
        "start": "2026-11-17T01:15Z",
        "period": 3,
-       "clock": "5:49",
+       "clock": "5:13",
        "teams": [
         {
          "name": "Los Angeles Chargers",
@@ -879,10 +879,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "5:49 - 3rd",
+       "detail": "5:13 - 3rd",
        "start": "2026-11-17T01:15Z",
        "period": 3,
-       "clock": "5:49",
+       "clock": "5:13",
        "teams": [
         {
          "name": "Los Angeles Chargers",
