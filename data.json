@@ -1,5 +1,5 @@
 {
- "updated": "Nov 17, 2026, 6:40 PM PT",
+ "updated": "Nov 17, 2026, 6:42 PM PT",
  "record": {
   "w": 195,
   "l": 190,
@@ -511,16 +511,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "4:43 - 2nd",
+       "detail": "4:07 - 2nd",
        "start": "2026-11-18T01:00Z",
        "period": 2,
-       "clock": "4:43",
+       "clock": "4:07",
        "teams": [
         {
          "name": "Maryland Eastern Shore Hawks",
          "short": "Hawks",
          "abbr": "UMES",
-         "score": 35,
+         "score": 37,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -532,7 +532,7 @@
          "name": "DePaul Blue Demons",
          "short": "Blue Demons",
          "abbr": "DEP",
-         "score": 73,
+         "score": 74,
          "ha": "home",
          "winner": null,
          "linescores": [
