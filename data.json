@@ -1,5 +1,5 @@
 {
- "updated": "Nov 17, 2026, 4:13 PM PT",
+ "updated": "Nov 17, 2026, 4:15 PM PT",
  "record": {
   "w": 194,
   "l": 190,
@@ -613,10 +613,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P1 16:48",
+       "detail": "P1 15:25",
        "start": "2026-11-18T00:00:00Z",
        "period": 1,
-       "clock": "16:48",
+       "clock": "15:25",
        "teams": [
         {
          "name": "Oilers",
@@ -672,10 +672,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "14:56 - 1st",
+       "detail": "13:54 - 1st",
        "start": "2026-11-18T00:00Z",
        "period": 1,
-       "clock": "14:56",
+       "clock": "13:54",
        "teams": [
         {
          "name": "Charlotte 49ers",
@@ -692,7 +692,7 @@
          "name": "Davidson Wildcats",
          "short": "Wildcats",
          "abbr": "DAV",
-         "score": 0,
+         "score": 1,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -734,10 +734,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "15:15 - 1st",
+       "detail": "14:20 - 1st",
        "start": "2026-11-18T00:00Z",
        "period": 1,
-       "clock": "15:15",
+       "clock": "14:20",
        "teams": [
         {
          "name": "Villanova Wildcats",
@@ -754,7 +754,7 @@
          "name": "Pittsburgh Panthers",
          "short": "Panthers",
          "abbr": "PITT",
-         "score": 5,
+         "score": 9,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -795,10 +795,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "15:27 - 1st",
+       "detail": "13:44 - 1st",
        "start": "2026-11-18T00:00Z",
        "period": 1,
-       "clock": "15:27",
+       "clock": "13:44",
        "teams": [
         {
          "name": "Cal State Northridge Matadors",
@@ -815,7 +815,7 @@
          "name": "Troy Trojans",
          "short": "Trojans",
          "abbr": "TROY",
-         "score": 10,
+         "score": 15,
          "ha": "home",
          "winner": null,
          "linescores": [
