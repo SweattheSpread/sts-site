@@ -1,5 +1,5 @@
 {
- "updated": "Nov 17, 2026, 8:01 PM PT",
+ "updated": "Nov 17, 2026, 8:03 PM PT",
  "record": {
   "w": 195,
   "l": 190,
@@ -574,16 +574,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "6:02 - 2nd",
+       "detail": "5:41 - 2nd",
        "start": "2026-11-18T02:00Z",
        "period": 2,
-       "clock": "6:02",
+       "clock": "5:41",
        "teams": [
         {
          "name": "Michigan State Spartans",
          "short": "Spartans",
          "abbr": "MSU",
-         "score": 38,
+         "score": 39,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -595,7 +595,7 @@
          "name": "Tennessee Volunteers",
          "short": "Volunteers",
          "abbr": "TENN",
-         "score": 46,
+         "score": 47,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -638,16 +638,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "6:02 - 2nd",
+       "detail": "5:41 - 2nd",
        "start": "2026-11-18T02:00Z",
        "period": 2,
-       "clock": "6:02",
+       "clock": "5:41",
        "teams": [
         {
          "name": "Michigan State Spartans",
          "short": "Spartans",
          "abbr": "MSU",
-         "score": 38,
+         "score": 39,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -659,7 +659,7 @@
          "name": "Tennessee Volunteers",
          "short": "Volunteers",
          "abbr": "TENN",
-         "score": 46,
+         "score": 47,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -701,10 +701,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "Halftime",
+       "detail": "19:27 - 2nd",
        "start": "2026-11-18T02:30Z",
-       "period": 1,
-       "clock": "0:00",
+       "period": 2,
+       "clock": "19:27",
        "teams": [
         {
          "name": "UNLV Rebels",
@@ -714,6 +714,7 @@
          "ha": "away",
          "winner": null,
          "linescores": [
+          0,
           0
          ]
         },
@@ -725,6 +726,7 @@
          "ha": "home",
          "winner": null,
          "linescores": [
+          0,
           0
          ]
         }
@@ -763,10 +765,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "Halftime",
+       "detail": "19:27 - 2nd",
        "start": "2026-11-18T02:30Z",
-       "period": 1,
-       "clock": "0:00",
+       "period": 2,
+       "clock": "19:27",
        "teams": [
         {
          "name": "UNLV Rebels",
@@ -776,6 +778,7 @@
          "ha": "away",
          "winner": null,
          "linescores": [
+          0,
           0
          ]
         },
@@ -787,6 +790,7 @@
          "ha": "home",
          "winner": null,
          "linescores": [
+          0,
           0
          ]
         }
