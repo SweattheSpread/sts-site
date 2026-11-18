@@ -1,68 +1,40 @@
 {
- "updated": "Nov 18, 2026, 4:40 AM PT",
+ "updated": "Nov 18, 2026, 4:43 AM PT",
  "record": {
-  "w": 195,
-  "l": 190,
+  "w": 199,
+  "l": 195,
   "p": 0,
-  "n": 385,
-  "units": 51.16,
-  "risked": 552.25,
-  "roi": 9.26,
+  "n": 394,
+  "units": 50.3,
+  "risked": 560.75,
+  "roi": 8.97,
   "first": "2026-10-12",
   "last": "2026-11-17"
  },
- "pending": 14,
+ "pending": 5,
  "latest": [
   {
-   "n": 840,
+   "n": 848,
+   "date": "2026-11-17",
+   "day": "2026-11-17",
+   "league": "NCAAB",
+   "type": "Spread",
+   "matchup": "Auburn Tigers vs West Virginia Mountaineers at Michelob ULTRA Arena, Las Vegas",
+   "pick": "Auburn +1.5",
+   "odds": -115,
+   "units": 1.0,
+   "result": "L",
+   "pl": -1.0,
+   "ticket": "single"
+  },
+  {
+   "n": 847,
    "date": "2026-11-17",
    "day": "2026-11-17",
    "league": "NCAAB",
    "type": "Over/Under",
-   "matchup": "Charlotte 49ers @ Davidson Wildcats",
-   "pick": "Over 132",
-   "odds": -110,
-   "units": 3.0,
-   "result": "W",
-   "pl": 2.73,
-   "ticket": "single"
-  },
-  {
-   "n": 837,
-   "date": "2026-11-16",
-   "day": "2026-11-16",
-   "league": "NFL",
-   "type": "Parlay",
-   "matchup": "Los Angeles Chargers @ Baltimore Ravens",
-   "pick": "Keaton Mitchell Over 2.5 receptions (+145) + Over 15.5 receiving yards (+155) same-player 2-leg parlay",
-   "odds": 525,
-   "units": 2.0,
-   "result": "L",
-   "pl": -2.0,
-   "ticket": "parlay"
-  },
-  {
-   "n": 836,
-   "date": "2026-11-16",
-   "day": "2026-11-16",
-   "league": "NFL",
-   "type": "Parlay",
-   "matchup": "Los Angeles Chargers @ Baltimore Ravens",
-   "pick": "Keaton Mitchell Over 1.5 receptions (-190) + Over 10.5 receiving yards (-120) same-player 2-leg parlay",
-   "odds": 180,
-   "units": 4.0,
-   "result": "L",
-   "pl": -4.0,
-   "ticket": "parlay"
-  },
-  {
-   "n": 835,
-   "date": "2026-11-16",
-   "day": "2026-11-16",
-   "league": "NCAAB",
-   "type": "Over/Under",
-   "matchup": "Texas Southern Tigers @ UC San Diego Tritons",
-   "pick": "Under 156.5 total points",
+   "matchup": "UNLV Rebels vs Kansas Jayhawks at Michelob ULTRA Arena, Las Vegas",
+   "pick": "Under 158 total points",
    "odds": -110,
    "units": 1.0,
    "result": "L",
@@ -70,59 +42,87 @@
    "ticket": "single"
   },
   {
-   "n": 834,
-   "date": "2026-11-16",
-   "day": "2026-11-16",
+   "n": 846,
+   "date": "2026-11-17",
+   "day": "2026-11-17",
    "league": "NCAAB",
    "type": "Spread",
-   "matchup": "Columbia Lions @ Northwestern Wildcats",
-   "pick": "Columbia +11.5",
-   "odds": -102,
+   "matchup": "UNLV Rebels vs Kansas Jayhawks at Michelob ULTRA Arena, Las Vegas",
+   "pick": "UNLV +17",
+   "odds": -110,
    "units": 1.0,
-   "result": "W",
-   "pl": 0.98,
+   "result": "L",
+   "pl": -1.0,
    "ticket": "single"
   },
   {
-   "n": 833,
-   "date": "2026-11-16",
-   "day": "2026-11-16",
+   "n": 845,
+   "date": "2026-11-17",
+   "day": "2026-11-17",
    "league": "NCAAB",
    "type": "Over/Under",
-   "matchup": "Central Arkansas Bears @ Oklahoma St Cowboys",
-   "pick": "Under 162.5",
+   "matchup": "Michigan State Spartans @ Tennessee Volunteers",
+   "pick": "Under 150.5 total points",
    "odds": -110,
-   "units": 3.0,
-   "result": "L",
-   "pl": -3.0,
-   "ticket": "single"
-  },
-  {
-   "n": 830,
-   "date": "2026-11-16",
-   "day": "2026-11-16",
-   "league": "Tennis",
-   "type": "Moneyline",
-   "matchup": "Challenger Sydney: Li Tu vs James McCabe",
-   "pick": "Li Tu ML",
-   "odds": -118,
-   "units": 1.5,
+   "units": 1.0,
    "result": "W",
-   "pl": 1.27,
+   "pl": 0.91,
    "ticket": "single"
   },
   {
-   "n": 829,
-   "date": "2026-11-16",
-   "day": "2026-11-16",
-   "league": "Tennis",
-   "type": "Moneyline",
-   "matchup": "Challenger Sydney: Casey Hoole vs Florian Broska",
-   "pick": "Casey Hoole ML",
-   "odds": -107,
-   "units": 1.5,
+   "n": 844,
+   "date": "2026-11-17",
+   "day": "2026-11-17",
+   "league": "NCAAB",
+   "type": "Spread",
+   "matchup": "Michigan State Spartans @ Tennessee Volunteers",
+   "pick": "Tennessee +3",
+   "odds": -110,
+   "units": 1.0,
+   "result": "W",
+   "pl": 0.91,
+   "ticket": "single"
+  },
+  {
+   "n": 843,
+   "date": "2026-11-17",
+   "day": "2026-11-17",
+   "league": "NCAAB",
+   "type": "Over/Under",
+   "matchup": "Maryland-Eastern Shore Hawks @ DePaul Blue Demons",
+   "pick": "Over 125.5 total points",
+   "odds": -110,
+   "units": 1.0,
    "result": "L",
-   "pl": -1.5,
+   "pl": -1.0,
+   "ticket": "single"
+  },
+  {
+   "n": 842,
+   "date": "2026-11-17",
+   "day": "2026-11-17",
+   "league": "NCAAB",
+   "type": "Spread",
+   "matchup": "CSU Northridge Matadors @ Troy Trojans",
+   "pick": "Troy -1.5",
+   "odds": -110,
+   "units": 1.0,
+   "result": "W",
+   "pl": 0.91,
+   "ticket": "single"
+  },
+  {
+   "n": 841,
+   "date": "2026-11-17",
+   "day": "2026-11-17",
+   "league": "NCAAB",
+   "type": "Over/Under",
+   "matchup": "Villanova Wildcats @ Pittsburgh Panthers",
+   "pick": "Under 148.5 total points",
+   "odds": -110,
+   "units": 1.0,
+   "result": "W",
+   "pl": 0.91,
    "ticket": "single"
   }
  ],
@@ -412,573 +412,7 @@
    }
   }
  ],
- "awaiting": [
-  {
-   "n": 839,
-   "league": "NHL",
-   "type": "Moneyline",
-   "matchup": "Edmonton Oilers @ Florida Panthers",
-   "pick": "Florida Panthers ML",
-   "odds": -118,
-   "units": 0.5,
-   "gap": null,
-   "start": "2026-11-17T16:10:00",
-   "timed": true,
-   "ticket": "single",
-   "espn": {
-    "legs": [
-     {
-      "kind": "ml",
-      "side": "Florida Panthers",
-      "label": "Florida Panthers ML",
-      "path": "hockey/nhl",
-      "event": "401892730",
-      "date": "20261117",
-      "snapshot": {
-       "source": "nhl",
-       "state": "post",
-       "detail": "Final",
-       "start": "2026-11-18T00:00:00Z",
-       "period": 3,
-       "clock": "00:00",
-       "teams": [
-        {
-         "name": "Oilers",
-         "short": "EDM",
-         "abbr": "EDM",
-         "score": 5,
-         "ha": "away",
-         "winner": true,
-         "linescores": []
-        },
-        {
-         "name": "Panthers",
-         "short": "FLA",
-         "abbr": "FLA",
-         "score": 2,
-         "ha": "home",
-         "winner": false,
-         "linescores": []
-        }
-       ],
-       "nhl_id": 2026020335
-      },
-      "source": "nhl"
-     }
-    ],
-    "sport": "NHL",
-    "ticket": "single"
-   }
-  },
-  {
-   "n": 841,
-   "league": "NCAAB",
-   "type": "Over/Under",
-   "matchup": "Villanova Wildcats @ Pittsburgh Panthers",
-   "pick": "Under 148.5 total points",
-   "odds": -110,
-   "units": 1.0,
-   "gap": null,
-   "start": "2026-11-17T16:00:00",
-   "timed": true,
-   "ticket": "single",
-   "espn": {
-    "legs": [
-     {
-      "kind": "total",
-      "side": null,
-      "ou": "U",
-      "line": 148.5,
-      "label": "U 148.5",
-      "path": "basketball/mens-college-basketball",
-      "event": "401909708",
-      "date": "20261117",
-      "snapshot": {
-       "source": "espn",
-       "state": "post",
-       "detail": "Final",
-       "start": "2026-11-18T00:00Z",
-       "period": null,
-       "clock": null,
-       "teams": [
-        {
-         "name": "Villanova Wildcats",
-         "short": "Wildcats",
-         "abbr": "VILL",
-         "score": 61,
-         "ha": "away",
-         "winner": false,
-         "linescores": [
-          0,
-          0
-         ]
-        },
-        {
-         "name": "Pittsburgh Panthers",
-         "short": "Panthers",
-         "abbr": "PITT",
-         "score": 81,
-         "ha": "home",
-         "winner": true,
-         "linescores": [
-          0,
-          0
-         ]
-        }
-       ]
-      },
-      "source": "espn"
-     }
-    ],
-    "sport": "NCAAB",
-    "ticket": "single"
-   }
-  },
-  {
-   "n": 842,
-   "league": "NCAAB",
-   "type": "Spread",
-   "matchup": "CSU Northridge Matadors @ Troy Trojans",
-   "pick": "Troy -1.5",
-   "odds": -110,
-   "units": 1.0,
-   "gap": null,
-   "start": "2026-11-17T16:00:00",
-   "timed": true,
-   "ticket": "single",
-   "espn": {
-    "legs": [
-     {
-      "kind": "spread",
-      "side": "Troy",
-      "line": -1.5,
-      "label": "Troy -1.5",
-      "path": "basketball/mens-college-basketball",
-      "event": "401920297",
-      "date": "20261117",
-      "snapshot": {
-       "source": "espn",
-       "state": "post",
-       "detail": "Final",
-       "start": "2026-11-18T00:00Z",
-       "period": null,
-       "clock": null,
-       "teams": [
-        {
-         "name": "Cal State Northridge Matadors",
-         "short": "Matadors",
-         "abbr": "CSUN",
-         "score": 74,
-         "ha": "away",
-         "winner": false,
-         "linescores": [
-          0,
-          0
-         ]
-        },
-        {
-         "name": "Troy Trojans",
-         "short": "Trojans",
-         "abbr": "TROY",
-         "score": 84,
-         "ha": "home",
-         "winner": true,
-         "linescores": [
-          0,
-          0
-         ]
-        }
-       ]
-      },
-      "source": "espn"
-     }
-    ],
-    "sport": "NCAAB",
-    "ticket": "single"
-   }
-  },
-  {
-   "n": 843,
-   "league": "NCAAB",
-   "type": "Over/Under",
-   "matchup": "Maryland-Eastern Shore Hawks @ DePaul Blue Demons",
-   "pick": "Over 125.5 total points",
-   "odds": -110,
-   "units": 1.0,
-   "gap": null,
-   "start": "2026-11-17T17:00:00",
-   "timed": true,
-   "ticket": "single",
-   "espn": {
-    "legs": [
-     {
-      "kind": "total",
-      "side": null,
-      "ou": "O",
-      "line": 125.5,
-      "label": "O 125.5",
-      "path": "basketball/mens-college-basketball",
-      "event": "401909504",
-      "date": "20261117",
-      "snapshot": {
-       "source": "espn",
-       "state": "post",
-       "detail": "Final",
-       "start": "2026-11-18T01:00Z",
-       "period": null,
-       "clock": null,
-       "teams": [
-        {
-         "name": "Maryland Eastern Shore Hawks",
-         "short": "Hawks",
-         "abbr": "UMES",
-         "score": 39,
-         "ha": "away",
-         "winner": false,
-         "linescores": [
-          0,
-          0
-         ]
-        },
-        {
-         "name": "DePaul Blue Demons",
-         "short": "Blue Demons",
-         "abbr": "DEP",
-         "score": 83,
-         "ha": "home",
-         "winner": true,
-         "linescores": [
-          0,
-          0
-         ]
-        }
-       ]
-      },
-      "source": "espn"
-     }
-    ],
-    "sport": "NCAAB",
-    "ticket": "single"
-   }
-  },
-  {
-   "n": 844,
-   "league": "NCAAB",
-   "type": "Spread",
-   "matchup": "Michigan State Spartans @ Tennessee Volunteers",
-   "pick": "Tennessee +3",
-   "odds": -110,
-   "units": 1.0,
-   "gap": null,
-   "start": "2026-11-17T18:00:00",
-   "timed": true,
-   "ticket": "single",
-   "espn": {
-    "legs": [
-     {
-      "kind": "spread",
-      "side": "Tennessee",
-      "line": 3.0,
-      "label": "Tennessee +3",
-      "path": "basketball/mens-college-basketball",
-      "event": "401906851",
-      "date": "20261117",
-      "snapshot": {
-       "source": "espn",
-       "state": "post",
-       "detail": "Final",
-       "start": "2026-11-18T02:00Z",
-       "period": null,
-       "clock": null,
-       "teams": [
-        {
-         "name": "Michigan State Spartans",
-         "short": "Spartans",
-         "abbr": "MSU",
-         "score": 46,
-         "ha": "away",
-         "winner": false,
-         "linescores": [
-          0,
-          0
-         ]
-        },
-        {
-         "name": "Tennessee Volunteers",
-         "short": "Volunteers",
-         "abbr": "TENN",
-         "score": 61,
-         "ha": "home",
-         "winner": true,
-         "linescores": [
-          0,
-          0
-         ]
-        }
-       ]
-      },
-      "source": "espn"
-     }
-    ],
-    "sport": "NCAAB",
-    "ticket": "single"
-   }
-  },
-  {
-   "n": 845,
-   "league": "NCAAB",
-   "type": "Over/Under",
-   "matchup": "Michigan State Spartans @ Tennessee Volunteers",
-   "pick": "Under 150.5 total points",
-   "odds": -110,
-   "units": 1.0,
-   "gap": null,
-   "start": "2026-11-17T18:00:00",
-   "timed": true,
-   "ticket": "single",
-   "espn": {
-    "legs": [
-     {
-      "kind": "total",
-      "side": null,
-      "ou": "U",
-      "line": 150.5,
-      "label": "U 150.5",
-      "path": "basketball/mens-college-basketball",
-      "event": "401906851",
-      "date": "20261117",
-      "snapshot": {
-       "source": "espn",
-       "state": "post",
-       "detail": "Final",
-       "start": "2026-11-18T02:00Z",
-       "period": null,
-       "clock": null,
-       "teams": [
-        {
-         "name": "Michigan State Spartans",
-         "short": "Spartans",
-         "abbr": "MSU",
-         "score": 46,
-         "ha": "away",
-         "winner": false,
-         "linescores": [
-          0,
-          0
-         ]
-        },
-        {
-         "name": "Tennessee Volunteers",
-         "short": "Volunteers",
-         "abbr": "TENN",
-         "score": 61,
-         "ha": "home",
-         "winner": true,
-         "linescores": [
-          0,
-          0
-         ]
-        }
-       ]
-      },
-      "source": "espn"
-     }
-    ],
-    "sport": "NCAAB",
-    "ticket": "single"
-   }
-  },
-  {
-   "n": 846,
-   "league": "NCAAB",
-   "type": "Spread",
-   "matchup": "UNLV Rebels vs Kansas Jayhawks at Michelob ULTRA Arena, Las Vegas",
-   "pick": "UNLV +17",
-   "odds": -110,
-   "units": 1.0,
-   "gap": null,
-   "start": "2026-11-17T18:30:00",
-   "timed": true,
-   "ticket": "single",
-   "espn": {
-    "legs": [
-     {
-      "kind": "spread",
-      "side": "UNLV",
-      "line": 17.0,
-      "label": "UNLV +17",
-      "path": "basketball/mens-college-basketball",
-      "event": "401909787",
-      "date": "20261117",
-      "snapshot": {
-       "source": "espn",
-       "state": "post",
-       "detail": "Final",
-       "start": "2026-11-18T02:30Z",
-       "period": null,
-       "clock": null,
-       "teams": [
-        {
-         "name": "UNLV Rebels",
-         "short": "Rebels",
-         "abbr": "UNLV",
-         "score": 77,
-         "ha": "away",
-         "winner": false,
-         "linescores": [
-          0,
-          0
-         ]
-        },
-        {
-         "name": "Kansas Jayhawks",
-         "short": "Jayhawks",
-         "abbr": "KU",
-         "score": 102,
-         "ha": "home",
-         "winner": true,
-         "linescores": [
-          0,
-          0
-         ]
-        }
-       ]
-      },
-      "source": "espn"
-     }
-    ],
-    "sport": "NCAAB",
-    "ticket": "single"
-   }
-  },
-  {
-   "n": 847,
-   "league": "NCAAB",
-   "type": "Over/Under",
-   "matchup": "UNLV Rebels vs Kansas Jayhawks at Michelob ULTRA Arena, Las Vegas",
-   "pick": "Under 158 total points",
-   "odds": -110,
-   "units": 1.0,
-   "gap": null,
-   "start": "2026-11-17T18:30:00",
-   "timed": true,
-   "ticket": "single",
-   "espn": {
-    "legs": [
-     {
-      "kind": "total",
-      "side": null,
-      "ou": "U",
-      "line": 158.0,
-      "label": "U 158.0",
-      "path": "basketball/mens-college-basketball",
-      "event": "401909787",
-      "date": "20261117",
-      "snapshot": {
-       "source": "espn",
-       "state": "post",
-       "detail": "Final",
-       "start": "2026-11-18T02:30Z",
-       "period": null,
-       "clock": null,
-       "teams": [
-        {
-         "name": "UNLV Rebels",
-         "short": "Rebels",
-         "abbr": "UNLV",
-         "score": 77,
-         "ha": "away",
-         "winner": false,
-         "linescores": [
-          0,
-          0
-         ]
-        },
-        {
-         "name": "Kansas Jayhawks",
-         "short": "Jayhawks",
-         "abbr": "KU",
-         "score": 102,
-         "ha": "home",
-         "winner": true,
-         "linescores": [
-          0,
-          0
-         ]
-        }
-       ]
-      },
-      "source": "espn"
-     }
-    ],
-    "sport": "NCAAB",
-    "ticket": "single"
-   }
-  },
-  {
-   "n": 848,
-   "league": "NCAAB",
-   "type": "Spread",
-   "matchup": "Auburn Tigers vs West Virginia Mountaineers at Michelob ULTRA Arena, Las Vegas",
-   "pick": "Auburn +1.5",
-   "odds": -115,
-   "units": 1.0,
-   "gap": null,
-   "start": "2026-11-17T20:59:00",
-   "timed": true,
-   "ticket": "single",
-   "espn": {
-    "legs": [
-     {
-      "kind": "spread",
-      "side": "Auburn",
-      "line": 1.5,
-      "label": "Auburn +1.5",
-      "path": "basketball/mens-college-basketball",
-      "event": "401920512",
-      "date": "20261117",
-      "snapshot": {
-       "source": "espn",
-       "state": "post",
-       "detail": "Final",
-       "start": "2026-11-18T04:59Z",
-       "period": null,
-       "clock": null,
-       "teams": [
-        {
-         "name": "West Virginia Mountaineers",
-         "short": "Mountaineers",
-         "abbr": "WVU",
-         "score": 76,
-         "ha": "away",
-         "winner": true,
-         "linescores": [
-          0,
-          0
-         ]
-        },
-        {
-         "name": "Auburn Tigers",
-         "short": "Tigers",
-         "abbr": "AUB",
-         "score": 70,
-         "ha": "home",
-         "winner": false,
-         "linescores": [
-          0,
-          0
-         ]
-        }
-       ]
-      },
-      "source": "espn"
-     }
-    ],
-    "sport": "NCAAB",
-    "ticket": "single"
-   }
-  }
- ],
+ "awaiting": [],
  "daily": {
   "2026-10-12": {
    "u": 5.67,
@@ -1121,8 +555,8 @@
    "n": 10
   },
   "2026-11-17": {
-   "u": 2.73,
-   "n": 1
+   "u": 1.87,
+   "n": 10
   }
  }
 }

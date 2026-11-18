@@ -1,17 +1,17 @@
 {
- "updated": "Nov 18, 2026, 4:40 AM PT",
+ "updated": "Nov 18, 2026, 4:43 AM PT",
  "record": {
-  "w": 195,
-  "l": 190,
+  "w": 199,
+  "l": 195,
   "p": 0,
-  "n": 385,
-  "units": 51.16,
-  "risked": 552.25,
-  "roi": 9.26,
+  "n": 394,
+  "units": 50.3,
+  "risked": 560.75,
+  "roi": 8.97,
   "first": "2026-10-12",
   "last": "2026-11-17"
  },
- "pending": 14,
+ "pending": 5,
  "plays": [
   {
    "n": 334,
@@ -6249,9 +6249,9 @@
    "pick": "Florida Panthers ML -118",
    "odds": -118,
    "units": 0.5,
-   "result": null,
-   "pl": null,
-   "pending": true
+   "result": "L",
+   "pl": -0.5,
+   "pending": false
   },
   {
    "n": 840,
@@ -6281,9 +6281,9 @@
    "pick": "Under 148.5 total points",
    "odds": -110,
    "units": 1.0,
-   "result": null,
-   "pl": null,
-   "pending": true
+   "result": "W",
+   "pl": 0.91,
+   "pending": false
   },
   {
    "n": 842,
@@ -6297,9 +6297,9 @@
    "pick": "Troy -1.5",
    "odds": -110,
    "units": 1.0,
-   "result": null,
-   "pl": null,
-   "pending": true
+   "result": "W",
+   "pl": 0.91,
+   "pending": false
   },
   {
    "n": 843,
@@ -6313,9 +6313,9 @@
    "pick": "Over 125.5 total points",
    "odds": -110,
    "units": 1.0,
-   "result": null,
-   "pl": null,
-   "pending": true
+   "result": "L",
+   "pl": -1.0,
+   "pending": false
   },
   {
    "n": 844,
@@ -6329,9 +6329,9 @@
    "pick": "Tennessee +3",
    "odds": -110,
    "units": 1.0,
-   "result": null,
-   "pl": null,
-   "pending": true
+   "result": "W",
+   "pl": 0.91,
+   "pending": false
   },
   {
    "n": 845,
@@ -6345,9 +6345,9 @@
    "pick": "Under 150.5 total points",
    "odds": -110,
    "units": 1.0,
-   "result": null,
-   "pl": null,
-   "pending": true
+   "result": "W",
+   "pl": 0.91,
+   "pending": false
   },
   {
    "n": 846,
@@ -6361,9 +6361,9 @@
    "pick": "UNLV +17",
    "odds": -110,
    "units": 1.0,
-   "result": null,
-   "pl": null,
-   "pending": true
+   "result": "L",
+   "pl": -1.0,
+   "pending": false
   },
   {
    "n": 847,
@@ -6377,9 +6377,9 @@
    "pick": "Under 158 total points",
    "odds": -110,
    "units": 1.0,
-   "result": null,
-   "pl": null,
-   "pending": true
+   "result": "L",
+   "pl": -1.0,
+   "pending": false
   },
   {
    "n": 848,
@@ -6393,9 +6393,9 @@
    "pick": "Auburn +1.5",
    "odds": -115,
    "units": 1.0,
-   "result": null,
-   "pl": null,
-   "pending": true
+   "result": "L",
+   "pl": -1.0,
+   "pending": false
   },
   {
    "n": 849,
