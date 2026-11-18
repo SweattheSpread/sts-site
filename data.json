@@ -1,5 +1,5 @@
 {
- "updated": "Nov 17, 2026, 5:58 PM PT",
+ "updated": "Nov 17, 2026, 6:00 PM PT",
  "record": {
   "w": 194,
   "l": 190,
@@ -127,121 +127,6 @@
   }
  ],
  "picks": [
-  {
-   "n": 844,
-   "league": "NCAAB",
-   "type": "Spread",
-   "matchup": "Michigan State Spartans @ Tennessee Volunteers",
-   "pick": "Tennessee +3",
-   "odds": -110,
-   "units": 1.0,
-   "gap": null,
-   "start": "2026-11-17T18:00:00",
-   "timed": true,
-   "ticket": "single",
-   "espn": {
-    "legs": [
-     {
-      "kind": "spread",
-      "side": "Tennessee",
-      "line": 3.0,
-      "label": "Tennessee +3",
-      "path": "basketball/mens-college-basketball",
-      "event": "401906851",
-      "date": "20261117",
-      "snapshot": {
-       "source": "espn",
-       "state": "pre",
-       "detail": "11/17 - 9:00 PM EST",
-       "start": "2026-11-18T02:00Z",
-       "period": null,
-       "clock": null,
-       "teams": [
-        {
-         "name": "Michigan State Spartans",
-         "short": "Spartans",
-         "abbr": "MSU",
-         "score": 0,
-         "ha": "away",
-         "winner": null,
-         "linescores": []
-        },
-        {
-         "name": "Tennessee Volunteers",
-         "short": "Volunteers",
-         "abbr": "TENN",
-         "score": 0,
-         "ha": "home",
-         "winner": null,
-         "linescores": []
-        }
-       ]
-      },
-      "source": "espn"
-     }
-    ],
-    "sport": "NCAAB",
-    "ticket": "single"
-   }
-  },
-  {
-   "n": 845,
-   "league": "NCAAB",
-   "type": "Over/Under",
-   "matchup": "Michigan State Spartans @ Tennessee Volunteers",
-   "pick": "Under 150.5 total points",
-   "odds": -110,
-   "units": 1.0,
-   "gap": null,
-   "start": "2026-11-17T18:00:00",
-   "timed": true,
-   "ticket": "single",
-   "espn": {
-    "legs": [
-     {
-      "kind": "total",
-      "side": null,
-      "ou": "U",
-      "line": 150.5,
-      "label": "U 150.5",
-      "path": "basketball/mens-college-basketball",
-      "event": "401906851",
-      "date": "20261117",
-      "snapshot": {
-       "source": "espn",
-       "state": "pre",
-       "detail": "11/17 - 9:00 PM EST",
-       "start": "2026-11-18T02:00Z",
-       "period": null,
-       "clock": null,
-       "teams": [
-        {
-         "name": "Michigan State Spartans",
-         "short": "Spartans",
-         "abbr": "MSU",
-         "score": 0,
-         "ha": "away",
-         "winner": null,
-         "linescores": []
-        },
-        {
-         "name": "Tennessee Volunteers",
-         "short": "Volunteers",
-         "abbr": "TENN",
-         "score": 0,
-         "ha": "home",
-         "winner": null,
-         "linescores": []
-        }
-       ]
-      },
-      "source": "espn"
-     }
-    ],
-    "sport": "NCAAB",
-    "ticket": "single"
-   }
-  },
   {
    "n": 846,
    "league": "NCAAB",
@@ -555,10 +440,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P3 19:11",
+       "detail": "P3 17:07",
        "start": "2026-11-18T00:00:00Z",
        "period": 3,
-       "clock": "19:11",
+       "clock": "17:07",
        "teams": [
         {
          "name": "Oilers",
@@ -614,16 +499,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "0:56 - 2nd",
+       "detail": "0:20 - 2nd",
        "start": "2026-11-18T00:00Z",
        "period": 2,
-       "clock": "0:56",
+       "clock": "0:20",
        "teams": [
         {
          "name": "Charlotte 49ers",
          "short": "49ers",
          "abbr": "CLT",
-         "score": 67,
+         "score": 69,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -635,7 +520,7 @@
          "name": "Davidson Wildcats",
          "short": "Wildcats",
          "abbr": "DAV",
-         "score": 64,
+         "score": 66,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -741,16 +626,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "3:03 - 2nd",
+       "detail": "2:47 - 2nd",
        "start": "2026-11-18T00:00Z",
        "period": 2,
-       "clock": "3:03",
+       "clock": "2:47",
        "teams": [
         {
          "name": "Cal State Northridge Matadors",
          "short": "Matadors",
          "abbr": "CSUN",
-         "score": 62,
+         "score": 65,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -831,6 +716,121 @@
          "linescores": [
           0
          ]
+        }
+       ]
+      },
+      "source": "espn"
+     }
+    ],
+    "sport": "NCAAB",
+    "ticket": "single"
+   }
+  },
+  {
+   "n": 844,
+   "league": "NCAAB",
+   "type": "Spread",
+   "matchup": "Michigan State Spartans @ Tennessee Volunteers",
+   "pick": "Tennessee +3",
+   "odds": -110,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-17T18:00:00",
+   "timed": true,
+   "ticket": "single",
+   "espn": {
+    "legs": [
+     {
+      "kind": "spread",
+      "side": "Tennessee",
+      "line": 3.0,
+      "label": "Tennessee +3",
+      "path": "basketball/mens-college-basketball",
+      "event": "401906851",
+      "date": "20261117",
+      "snapshot": {
+       "source": "espn",
+       "state": "pre",
+       "detail": "11/17 - 9:00 PM EST",
+       "start": "2026-11-18T02:00Z",
+       "period": null,
+       "clock": null,
+       "teams": [
+        {
+         "name": "Michigan State Spartans",
+         "short": "Spartans",
+         "abbr": "MSU",
+         "score": 0,
+         "ha": "away",
+         "winner": null,
+         "linescores": []
+        },
+        {
+         "name": "Tennessee Volunteers",
+         "short": "Volunteers",
+         "abbr": "TENN",
+         "score": 0,
+         "ha": "home",
+         "winner": null,
+         "linescores": []
+        }
+       ]
+      },
+      "source": "espn"
+     }
+    ],
+    "sport": "NCAAB",
+    "ticket": "single"
+   }
+  },
+  {
+   "n": 845,
+   "league": "NCAAB",
+   "type": "Over/Under",
+   "matchup": "Michigan State Spartans @ Tennessee Volunteers",
+   "pick": "Under 150.5 total points",
+   "odds": -110,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-17T18:00:00",
+   "timed": true,
+   "ticket": "single",
+   "espn": {
+    "legs": [
+     {
+      "kind": "total",
+      "side": null,
+      "ou": "U",
+      "line": 150.5,
+      "label": "U 150.5",
+      "path": "basketball/mens-college-basketball",
+      "event": "401906851",
+      "date": "20261117",
+      "snapshot": {
+       "source": "espn",
+       "state": "pre",
+       "detail": "11/17 - 9:00 PM EST",
+       "start": "2026-11-18T02:00Z",
+       "period": null,
+       "clock": null,
+       "teams": [
+        {
+         "name": "Michigan State Spartans",
+         "short": "Spartans",
+         "abbr": "MSU",
+         "score": 0,
+         "ha": "away",
+         "winner": null,
+         "linescores": []
+        },
+        {
+         "name": "Tennessee Volunteers",
+         "short": "Volunteers",
+         "abbr": "TENN",
+         "score": 0,
+         "ha": "home",
+         "winner": null,
+         "linescores": []
         }
        ]
       },
