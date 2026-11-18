@@ -1,5 +1,5 @@
 {
- "updated": "Nov 17, 2026, 7:00 PM PT",
+ "updated": "Nov 17, 2026, 7:03 PM PT",
  "record": {
   "w": 195,
   "l": 190,
@@ -574,16 +574,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "0:44 - 1st",
+       "detail": "0:00 - 1st",
        "start": "2026-11-18T02:00Z",
        "period": 1,
-       "clock": "0:44",
+       "clock": "0:00",
        "teams": [
         {
          "name": "Michigan State Spartans",
          "short": "Spartans",
          "abbr": "MSU",
-         "score": 23,
+         "score": 25,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -636,16 +636,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "0:44 - 1st",
+       "detail": "0:00 - 1st",
        "start": "2026-11-18T02:00Z",
        "period": 1,
-       "clock": "0:44",
+       "clock": "0:00",
        "teams": [
         {
          "name": "Michigan State Spartans",
          "short": "Spartans",
          "abbr": "MSU",
-         "score": 23,
+         "score": 25,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -697,10 +697,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "14:49 - 1st",
+       "detail": "14:47 - 1st",
        "start": "2026-11-18T02:30Z",
        "period": 1,
-       "clock": "14:49",
+       "clock": "14:47",
        "teams": [
         {
          "name": "UNLV Rebels",
@@ -759,10 +759,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "14:49 - 1st",
+       "detail": "14:47 - 1st",
        "start": "2026-11-18T02:30Z",
        "period": 1,
-       "clock": "14:49",
+       "clock": "14:47",
        "teams": [
         {
          "name": "UNLV Rebels",
