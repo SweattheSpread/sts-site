@@ -1,5 +1,5 @@
 {
- "updated": "Nov 17, 2026, 7:22 PM PT",
+ "updated": "Nov 17, 2026, 7:25 PM PT",
  "record": {
   "w": 195,
   "l": 190,
@@ -574,10 +574,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "18:10 - 2nd",
+       "detail": "17:27 - 2nd",
        "start": "2026-11-18T02:00Z",
        "period": 2,
-       "clock": "18:10",
+       "clock": "17:27",
        "teams": [
         {
          "name": "Michigan State Spartans",
@@ -595,7 +595,7 @@
          "name": "Tennessee Volunteers",
          "short": "Volunteers",
          "abbr": "TENN",
-         "score": 34,
+         "score": 37,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -638,10 +638,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "18:10 - 2nd",
+       "detail": "17:27 - 2nd",
        "start": "2026-11-18T02:00Z",
        "period": 2,
-       "clock": "18:10",
+       "clock": "17:27",
        "teams": [
         {
          "name": "Michigan State Spartans",
@@ -659,7 +659,7 @@
          "name": "Tennessee Volunteers",
          "short": "Volunteers",
          "abbr": "TENN",
-         "score": 34,
+         "score": 37,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -701,10 +701,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "8:05 - 1st",
+       "detail": "7:44 - 1st",
        "start": "2026-11-18T02:30Z",
        "period": 1,
-       "clock": "8:05",
+       "clock": "7:44",
        "teams": [
         {
          "name": "UNLV Rebels",
@@ -763,10 +763,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "8:05 - 1st",
+       "detail": "7:44 - 1st",
        "start": "2026-11-18T02:30Z",
        "period": 1,
-       "clock": "8:05",
+       "clock": "7:44",
        "teams": [
         {
          "name": "UNLV Rebels",
