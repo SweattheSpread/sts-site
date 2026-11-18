@@ -1,5 +1,5 @@
 {
- "updated": "Nov 18, 2026, 4:49 AM PT",
+ "updated": "Nov 18, 2026, 6:55 AM PT",
  "record": {
   "w": 199,
   "l": 195,
@@ -11,7 +11,7 @@
   "first": "2026-10-12",
   "last": "2026-11-17"
  },
- "pending": 5,
+ "pending": 8,
  "plays": [
   {
    "n": 334,
@@ -6472,6 +6472,54 @@
    "matchup": "Indianapolis Colts @ Houston Texans",
    "pick": "Indianapolis Colts +11 -110",
    "odds": -110,
+   "units": 1.0,
+   "result": null,
+   "pl": null,
+   "pending": true
+  },
+  {
+   "n": 852,
+   "date": "2026-11-18",
+   "day": "2026-11-25",
+   "league": "NFL",
+   "market": "spread",
+   "market_label": "Spread",
+   "ticket": "single",
+   "matchup": "Green Bay Packers @ Los Angeles Rams",
+   "pick": "Los Angeles Rams -3.5 (-117)",
+   "odds": -117,
+   "units": 1.0,
+   "result": null,
+   "pl": null,
+   "pending": true
+  },
+  {
+   "n": 853,
+   "date": "2026-11-18",
+   "day": "2026-11-26",
+   "league": "NFL",
+   "market": "spread",
+   "market_label": "Spread",
+   "ticket": "single",
+   "matchup": "Chicago Bears @ Detroit Lions",
+   "pick": "Detroit Lions +2.5 (-107)",
+   "odds": -107,
+   "units": 1.0,
+   "result": null,
+   "pl": null,
+   "pending": true
+  },
+  {
+   "n": 854,
+   "date": "2026-11-18",
+   "day": "2026-11-26",
+   "league": "NFL",
+   "market": "spread",
+   "market_label": "Spread",
+   "ticket": "single",
+   "matchup": "Philadelphia Eagles @ Dallas Cowboys",
+   "pick": "Philadelphia Eagles +8.5 (-109)",
+   "odds": -109,
    "units": 1.0,
    "result": null,
    "pl": null,

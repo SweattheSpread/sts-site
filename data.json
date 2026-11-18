@@ -1,5 +1,5 @@
 {
- "updated": "Nov 18, 2026, 4:49 AM PT",
+ "updated": "Nov 18, 2026, 6:55 AM PT",
  "record": {
   "w": 199,
   "l": 195,
@@ -11,7 +11,7 @@
   "first": "2026-10-12",
   "last": "2026-11-17"
  },
- "pending": 5,
+ "pending": 8,
  "latest": [
   {
    "n": 848,
@@ -397,6 +397,177 @@
          "name": "Houston Texans",
          "short": "Texans",
          "abbr": "HOU",
+         "score": 0,
+         "ha": "home",
+         "winner": null,
+         "linescores": []
+        }
+       ]
+      },
+      "source": "espn"
+     }
+    ],
+    "sport": "NFL",
+    "ticket": "single"
+   }
+  },
+  {
+   "n": 852,
+   "league": "NFL",
+   "type": "Spread",
+   "matchup": "Green Bay Packers @ Los Angeles Rams",
+   "pick": "Los Angeles Rams -3.5 (-117)",
+   "odds": -117,
+   "units": 1.0,
+   "gap": 4.3,
+   "start": "2026-11-25T17:00:00",
+   "timed": true,
+   "ticket": "single",
+   "espn": {
+    "legs": [
+     {
+      "kind": "spread",
+      "side": "Los Angeles Rams",
+      "line": -3.5,
+      "label": "Los Angeles Rams -3.5",
+      "path": "football/nfl",
+      "event": "401873079",
+      "date": "20261125",
+      "snapshot": {
+       "source": "espn",
+       "state": "pre",
+       "detail": "11/25 - 8:00 PM EST",
+       "start": "2026-11-26T01:00Z",
+       "period": null,
+       "clock": null,
+       "teams": [
+        {
+         "name": "Green Bay Packers",
+         "short": "Packers",
+         "abbr": "GB",
+         "score": 0,
+         "ha": "away",
+         "winner": null,
+         "linescores": []
+        },
+        {
+         "name": "Los Angeles Rams",
+         "short": "Rams",
+         "abbr": "LAR",
+         "score": 0,
+         "ha": "home",
+         "winner": null,
+         "linescores": []
+        }
+       ]
+      },
+      "source": "espn"
+     }
+    ],
+    "sport": "NFL",
+    "ticket": "single"
+   }
+  },
+  {
+   "n": 853,
+   "league": "NFL",
+   "type": "Spread",
+   "matchup": "Chicago Bears @ Detroit Lions",
+   "pick": "Detroit Lions +2.5 (-107)",
+   "odds": -107,
+   "units": 1.0,
+   "gap": 6.4,
+   "start": "2026-11-26T10:00:00",
+   "timed": true,
+   "ticket": "single",
+   "espn": {
+    "legs": [
+     {
+      "kind": "spread",
+      "side": "Detroit Lions",
+      "line": 2.5,
+      "label": "Detroit Lions +2.5",
+      "path": "football/nfl",
+      "event": "401873081",
+      "date": "20261126",
+      "snapshot": {
+       "source": "espn",
+       "state": "pre",
+       "detail": "11/26 - 1:00 PM EST",
+       "start": "2026-11-26T18:00Z",
+       "period": null,
+       "clock": null,
+       "teams": [
+        {
+         "name": "Chicago Bears",
+         "short": "Bears",
+         "abbr": "CHI",
+         "score": 0,
+         "ha": "away",
+         "winner": null,
+         "linescores": []
+        },
+        {
+         "name": "Detroit Lions",
+         "short": "Lions",
+         "abbr": "DET",
+         "score": 0,
+         "ha": "home",
+         "winner": null,
+         "linescores": []
+        }
+       ]
+      },
+      "source": "espn"
+     }
+    ],
+    "sport": "NFL",
+    "ticket": "single"
+   }
+  },
+  {
+   "n": 854,
+   "league": "NFL",
+   "type": "Spread",
+   "matchup": "Philadelphia Eagles @ Dallas Cowboys",
+   "pick": "Philadelphia Eagles +8.5 (-109)",
+   "odds": -109,
+   "units": 1.0,
+   "gap": 4.1,
+   "start": "2026-11-26T12:30:00",
+   "timed": true,
+   "ticket": "single",
+   "espn": {
+    "legs": [
+     {
+      "kind": "spread",
+      "side": "Philadelphia Eagles",
+      "line": 8.5,
+      "label": "Philadelphia Eagles +8.5",
+      "path": "football/nfl",
+      "event": "401873080",
+      "date": "20261126",
+      "snapshot": {
+       "source": "espn",
+       "state": "pre",
+       "detail": "11/26 - 4:30 PM EST",
+       "start": "2026-11-26T21:30Z",
+       "period": null,
+       "clock": null,
+       "teams": [
+        {
+         "name": "Philadelphia Eagles",
+         "short": "Eagles",
+         "abbr": "PHI",
+         "score": 0,
+         "ha": "away",
+         "winner": null,
+         "linescores": []
+        },
+        {
+         "name": "Dallas Cowboys",
+         "short": "Cowboys",
+         "abbr": "DAL",
          "score": 0,
          "ha": "home",
          "winner": null,
