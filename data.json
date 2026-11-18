@@ -1,18 +1,32 @@
 {
- "updated": "Nov 17, 2026, 6:07 PM PT",
+ "updated": "Nov 17, 2026, 6:09 PM PT",
  "record": {
-  "w": 194,
+  "w": 195,
   "l": 190,
   "p": 0,
-  "n": 384,
-  "units": 48.43,
-  "risked": 549.25,
-  "roi": 8.82,
+  "n": 385,
+  "units": 51.16,
+  "risked": 552.25,
+  "roi": 9.26,
   "first": "2026-10-12",
-  "last": "2026-11-16"
+  "last": "2026-11-17"
  },
- "pending": 12,
+ "pending": 11,
  "latest": [
+  {
+   "n": 840,
+   "date": "2026-11-17",
+   "day": "2026-11-17",
+   "league": "NCAAB",
+   "type": "Over/Under",
+   "matchup": "Charlotte 49ers @ Davidson Wildcats",
+   "pick": "Over 132",
+   "odds": -110,
+   "units": 3.0,
+   "result": "W",
+   "pl": 2.73,
+   "ticket": "single"
+  },
   {
    "n": 837,
    "date": "2026-11-16",
@@ -109,20 +123,6 @@
    "units": 1.5,
    "result": "L",
    "pl": -1.5,
-   "ticket": "single"
-  },
-  {
-   "n": 828,
-   "date": "2026-11-16",
-   "day": "2026-11-16",
-   "league": "Tennis",
-   "type": "Over/Under",
-   "matchup": "ATP Finals: Carlos Alcaraz vs Frances Tiafoe",
-   "pick": "Over 20.5 games",
-   "odds": -130,
-   "units": 1.0,
-   "result": "L",
-   "pl": -1.0,
    "ticket": "single"
   }
  ],
@@ -440,10 +440,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P3 12:42",
+       "detail": "P3 11:50",
        "start": "2026-11-18T00:00:00Z",
        "period": 3,
-       "clock": "12:42",
+       "clock": "11:50",
        "teams": [
         {
          "name": "Oilers",
@@ -470,70 +470,6 @@
      }
     ],
     "sport": "NHL",
-    "ticket": "single"
-   }
-  },
-  {
-   "n": 840,
-   "league": "NCAAB",
-   "type": "Over/Under",
-   "matchup": "Charlotte 49ers @ Davidson Wildcats",
-   "pick": "Over 132",
-   "odds": -110,
-   "units": 3.0,
-   "gap": null,
-   "start": "2026-11-17T16:00:00",
-   "timed": true,
-   "ticket": "single",
-   "espn": {
-    "legs": [
-     {
-      "kind": "total",
-      "side": null,
-      "ou": "O",
-      "line": 132.0,
-      "label": "O 132.0",
-      "path": "basketball/mens-college-basketball",
-      "event": "401925775",
-      "date": "20261117",
-      "snapshot": {
-       "source": "espn",
-       "state": "post",
-       "detail": "Final",
-       "start": "2026-11-18T00:00Z",
-       "period": null,
-       "clock": null,
-       "teams": [
-        {
-         "name": "Charlotte 49ers",
-         "short": "49ers",
-         "abbr": "CLT",
-         "score": 73,
-         "ha": "away",
-         "winner": true,
-         "linescores": [
-          0,
-          0
-         ]
-        },
-        {
-         "name": "Davidson Wildcats",
-         "short": "Wildcats",
-         "abbr": "DAV",
-         "score": 66,
-         "ha": "home",
-         "winner": false,
-         "linescores": [
-          0,
-          0
-         ]
-        }
-       ]
-      },
-      "source": "espn"
-     }
-    ],
-    "sport": "NCAAB",
     "ticket": "single"
    }
   },
@@ -626,16 +562,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "0:35 - 2nd",
+       "detail": "0:24 - 2nd",
        "start": "2026-11-18T00:00Z",
        "period": 2,
-       "clock": "0:35",
+       "clock": "0:24",
        "teams": [
         {
          "name": "Cal State Northridge Matadors",
          "short": "Matadors",
          "abbr": "CSUN",
-         "score": 68,
+         "score": 70,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -647,7 +583,7 @@
          "name": "Troy Trojans",
          "short": "Trojans",
          "abbr": "TROY",
-         "score": 78,
+         "score": 80,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -690,19 +626,20 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "Halftime",
+       "detail": "18:15 - 2nd",
        "start": "2026-11-18T01:00Z",
-       "period": 1,
-       "clock": "0:00",
+       "period": 2,
+       "clock": "18:15",
        "teams": [
         {
          "name": "Maryland Eastern Shore Hawks",
          "short": "Hawks",
          "abbr": "UMES",
-         "score": 16,
+         "score": 18,
          "ha": "away",
          "winner": null,
          "linescores": [
+          0,
           0
          ]
         },
@@ -710,10 +647,11 @@
          "name": "DePaul Blue Demons",
          "short": "Blue Demons",
          "abbr": "DEP",
-         "score": 34,
+         "score": 37,
          "ha": "home",
          "winner": null,
          "linescores": [
+          0,
           0
          ]
         }
@@ -982,6 +920,10 @@
   "2026-11-16": {
    "u": -10.32,
    "n": 10
+  },
+  "2026-11-17": {
+   "u": 2.73,
+   "n": 1
   }
  }
 }

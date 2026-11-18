@@ -1,17 +1,17 @@
 {
- "updated": "Nov 17, 2026, 6:07 PM PT",
+ "updated": "Nov 17, 2026, 6:09 PM PT",
  "record": {
-  "w": 194,
+  "w": 195,
   "l": 190,
   "p": 0,
-  "n": 384,
-  "units": 48.43,
-  "risked": 549.25,
-  "roi": 8.82,
+  "n": 385,
+  "units": 51.16,
+  "risked": 552.25,
+  "roi": 9.26,
   "first": "2026-10-12",
-  "last": "2026-11-16"
+  "last": "2026-11-17"
  },
- "pending": 12,
+ "pending": 11,
  "plays": [
   {
    "n": 334,
@@ -6265,9 +6265,9 @@
    "pick": "Over 132",
    "odds": -110,
    "units": 3.0,
-   "result": null,
-   "pl": null,
-   "pending": true
+   "result": "W",
+   "pl": 2.73,
+   "pending": false
   },
   {
    "n": 841,
