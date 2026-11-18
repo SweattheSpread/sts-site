@@ -1,5 +1,5 @@
 {
- "updated": "Nov 17, 2026, 4:41 PM PT",
+ "updated": "Nov 17, 2026, 4:43 PM PT",
  "record": {
   "w": 194,
   "l": 190,
@@ -613,10 +613,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P1 01:19",
+       "detail": "P1 16:17",
        "start": "2026-11-18T00:00:00Z",
        "period": 1,
-       "clock": "01:19",
+       "clock": "16:17",
        "teams": [
         {
          "name": "Oilers",
@@ -734,16 +734,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "3:40 - 1st",
+       "detail": "1:28 - 1st",
        "start": "2026-11-18T00:00Z",
        "period": 1,
-       "clock": "3:40",
+       "clock": "1:28",
        "teams": [
         {
          "name": "Villanova Wildcats",
          "short": "Wildcats",
          "abbr": "VILL",
-         "score": 28,
+         "score": 31,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -754,7 +754,7 @@
          "name": "Pittsburgh Panthers",
          "short": "Panthers",
          "abbr": "PITT",
-         "score": 26,
+         "score": 33,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -795,16 +795,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "4:00 - 1st",
+       "detail": "3:23 - 1st",
        "start": "2026-11-18T00:00Z",
        "period": 1,
-       "clock": "4:00",
+       "clock": "3:23",
        "teams": [
         {
          "name": "Cal State Northridge Matadors",
          "short": "Matadors",
          "abbr": "CSUN",
-         "score": 22,
+         "score": 24,
          "ha": "away",
          "winner": null,
          "linescores": [
