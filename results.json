@@ -1,5 +1,5 @@
 {
- "updated": "Nov 18, 2026, 7:48 AM PT",
+ "updated": "Nov 18, 2026, 8:53 AM PT",
  "record": {
   "w": 199,
   "l": 195,
@@ -11,7 +11,7 @@
   "first": "2026-10-12",
   "last": "2026-11-17"
  },
- "pending": 21,
+ "pending": 22,
  "plays": [
   {
    "n": 334,
@@ -6457,6 +6457,22 @@
    "pick": "Detroit Red Wings ML -109",
    "odds": -109,
    "units": 0.5,
+   "result": null,
+   "pl": null,
+   "pending": true
+  },
+  {
+   "n": 868,
+   "date": "2026-11-18",
+   "day": "2026-11-18",
+   "league": "NCAAB",
+   "market": "total",
+   "market_label": "Total",
+   "ticket": "single",
+   "matchup": "Weber State Wildcats @ Utah State Aggies",
+   "pick": "Under 171.5",
+   "odds": -110,
+   "units": 3.0,
    "result": null,
    "pl": null,
    "pending": true

@@ -1,5 +1,5 @@
 {
- "updated": "Nov 18, 2026, 7:48 AM PT",
+ "updated": "Nov 18, 2026, 8:53 AM PT",
  "record": {
   "w": 199,
   "l": 195,
@@ -11,7 +11,7 @@
   "first": "2026-10-12",
   "last": "2026-11-17"
  },
- "pending": 21,
+ "pending": 22,
  "latest": [
   {
    "n": 848,
@@ -230,6 +230,64 @@
      }
     ],
     "sport": "NHL",
+    "ticket": "single"
+   }
+  },
+  {
+   "n": 868,
+   "league": "NCAAB",
+   "type": "Over/Under",
+   "matchup": "Weber State Wildcats @ Utah State Aggies",
+   "pick": "Under 171.5",
+   "odds": -110,
+   "units": 3.0,
+   "gap": null,
+   "start": "2026-11-18T18:00:00",
+   "timed": true,
+   "ticket": "single",
+   "espn": {
+    "legs": [
+     {
+      "kind": "total",
+      "side": null,
+      "ou": "U",
+      "line": 171.5,
+      "label": "U 171.5",
+      "path": "basketball/mens-college-basketball",
+      "event": "401921156",
+      "date": "20261118",
+      "snapshot": {
+       "source": "espn",
+       "state": "pre",
+       "detail": "11/18 - 7:00 PM EST",
+       "start": "2026-11-19T00:00Z",
+       "period": null,
+       "clock": null,
+       "teams": [
+        {
+         "name": "Morgan State Bears",
+         "short": "Bears",
+         "abbr": "MORG",
+         "score": 0,
+         "ha": "away",
+         "winner": null,
+         "linescores": []
+        },
+        {
+         "name": "North Carolina A&T Aggies",
+         "short": "Aggies",
+         "abbr": "NCAT",
+         "score": 0,
+         "ha": "home",
+         "winner": null,
+         "linescores": []
+        }
+       ]
+      },
+      "source": "espn"
+     }
+    ],
+    "sport": "NCAAB",
     "ticket": "single"
    }
   },
