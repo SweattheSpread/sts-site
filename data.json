@@ -1,5 +1,5 @@
 {
- "updated": "Nov 17, 2026, 5:31 PM PT",
+ "updated": "Nov 17, 2026, 5:33 PM PT",
  "record": {
   "w": 194,
   "l": 190,
@@ -555,10 +555,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P2 03:26",
+       "detail": "P2 02:31",
        "start": "2026-11-18T00:00:00Z",
        "period": 2,
-       "clock": "03:26",
+       "clock": "02:31",
        "teams": [
         {
          "name": "Oilers",
@@ -614,16 +614,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "10:13 - 2nd",
+       "detail": "8:52 - 2nd",
        "start": "2026-11-18T00:00Z",
        "period": 2,
-       "clock": "10:13",
+       "clock": "8:52",
        "teams": [
         {
          "name": "Charlotte 49ers",
          "short": "49ers",
          "abbr": "CLT",
-         "score": 52,
+         "score": 54,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -635,7 +635,7 @@
          "name": "Davidson Wildcats",
          "short": "Wildcats",
          "abbr": "DAV",
-         "score": 38,
+         "score": 41,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -678,10 +678,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "8:31 - 2nd",
+       "detail": "8:24 - 2nd",
        "start": "2026-11-18T00:00Z",
        "period": 2,
-       "clock": "8:31",
+       "clock": "8:24",
        "teams": [
         {
          "name": "Villanova Wildcats",
@@ -741,16 +741,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "12:23 - 2nd",
+       "detail": "11:37 - 2nd",
        "start": "2026-11-18T00:00Z",
        "period": 2,
-       "clock": "12:23",
+       "clock": "11:37",
        "teams": [
         {
          "name": "Cal State Northridge Matadors",
          "short": "Matadors",
          "abbr": "CSUN",
-         "score": 44,
+         "score": 46,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -762,7 +762,7 @@
          "name": "Troy Trojans",
          "short": "Trojans",
          "abbr": "TROY",
-         "score": 61,
+         "score": 63,
          "ha": "home",
          "winner": null,
          "linescores": [
