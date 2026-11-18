@@ -1,5 +1,5 @@
 {
- "updated": "Nov 17, 2026, 4:07 PM PT",
+ "updated": "Nov 17, 2026, 4:09 PM PT",
  "record": {
   "w": 194,
   "l": 190,
@@ -151,10 +151,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P1 20:00",
+       "detail": "P1 19:34",
        "start": "2026-11-18T00:00:00Z",
        "period": 1,
-       "clock": "20:00",
+       "clock": "19:34",
        "teams": [
         {
          "name": "Oilers",
@@ -672,16 +672,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "17:17 - 1st",
+       "detail": "16:09 - 1st",
        "start": "2026-11-18T00:00Z",
        "period": 1,
-       "clock": "17:17",
+       "clock": "16:09",
        "teams": [
         {
          "name": "Charlotte 49ers",
          "short": "49ers",
          "abbr": "CLT",
-         "score": 2,
+         "score": 4,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -734,10 +734,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "16:18 - 1st",
+       "detail": "15:51 - 1st",
        "start": "2026-11-18T00:00Z",
        "period": 1,
-       "clock": "16:18",
+       "clock": "15:51",
        "teams": [
         {
          "name": "Villanova Wildcats",
@@ -795,16 +795,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "17:30 - 1st",
+       "detail": "16:52 - 1st",
        "start": "2026-11-18T00:00Z",
        "period": 1,
-       "clock": "17:30",
+       "clock": "16:52",
        "teams": [
         {
          "name": "Cal State Northridge Matadors",
          "short": "Matadors",
          "abbr": "CSUN",
-         "score": 6,
+         "score": 7,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -815,7 +815,7 @@
          "name": "Troy Trojans",
          "short": "Trojans",
          "abbr": "TROY",
-         "score": 9,
+         "score": 10,
          "ha": "home",
          "winner": null,
          "linescores": [
