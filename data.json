@@ -1,5 +1,5 @@
 {
- "updated": "Nov 18, 2026, 6:55 AM PT",
+ "updated": "Nov 18, 2026, 7:44 AM PT",
  "record": {
   "w": 199,
   "l": 195,
@@ -11,7 +11,7 @@
   "first": "2026-10-12",
   "last": "2026-11-17"
  },
- "pending": 8,
+ "pending": 13,
  "latest": [
   {
    "n": 848,
@@ -397,6 +397,291 @@
          "name": "Houston Texans",
          "short": "Texans",
          "abbr": "HOU",
+         "score": 0,
+         "ha": "home",
+         "winner": null,
+         "linescores": []
+        }
+       ]
+      },
+      "source": "espn"
+     }
+    ],
+    "sport": "NFL",
+    "ticket": "single"
+   }
+  },
+  {
+   "n": 855,
+   "league": "NFL",
+   "type": "Spread",
+   "matchup": "New Orleans Saints @ Chicago Bears",
+   "pick": "Chicago Bears -11.5 (-105)",
+   "odds": -105,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-22T10:00:00",
+   "timed": true,
+   "ticket": "single",
+   "espn": {
+    "legs": [
+     {
+      "kind": "spread",
+      "side": "Chicago Bears",
+      "line": -11.5,
+      "label": "Chicago Bears -11.5",
+      "path": "football/nfl",
+      "event": "401873071",
+      "date": "20261122",
+      "snapshot": {
+       "source": "espn",
+       "state": "pre",
+       "detail": "11/22 - 1:00 PM EST",
+       "start": "2026-11-22T18:00Z",
+       "period": null,
+       "clock": null,
+       "teams": [
+        {
+         "name": "New Orleans Saints",
+         "short": "Saints",
+         "abbr": "NO",
+         "score": 0,
+         "ha": "away",
+         "winner": null,
+         "linescores": []
+        },
+        {
+         "name": "Chicago Bears",
+         "short": "Bears",
+         "abbr": "CHI",
+         "score": 0,
+         "ha": "home",
+         "winner": null,
+         "linescores": []
+        }
+       ]
+      },
+      "source": "espn"
+     }
+    ],
+    "sport": "NFL",
+    "ticket": "single"
+   }
+  },
+  {
+   "n": 857,
+   "league": "NFL",
+   "type": "Spread",
+   "matchup": "Tennessee Titans @ Dallas Cowboys",
+   "pick": "Dallas Cowboys -8 (-108)",
+   "odds": -108,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-22T10:00:00",
+   "timed": true,
+   "ticket": "single",
+   "espn": {
+    "legs": [
+     {
+      "kind": "spread",
+      "side": "Dallas Cowboys",
+      "line": -8.0,
+      "label": "Dallas Cowboys -8",
+      "path": "football/nfl",
+      "event": "401873073",
+      "date": "20261122",
+      "snapshot": {
+       "source": "espn",
+       "state": "pre",
+       "detail": "11/22 - 1:00 PM EST",
+       "start": "2026-11-22T18:00Z",
+       "period": null,
+       "clock": null,
+       "teams": [
+        {
+         "name": "Tennessee Titans",
+         "short": "Titans",
+         "abbr": "TEN",
+         "score": 0,
+         "ha": "away",
+         "winner": null,
+         "linescores": []
+        },
+        {
+         "name": "Dallas Cowboys",
+         "short": "Cowboys",
+         "abbr": "DAL",
+         "score": 0,
+         "ha": "home",
+         "winner": null,
+         "linescores": []
+        }
+       ]
+      },
+      "source": "espn"
+     }
+    ],
+    "sport": "NFL",
+    "ticket": "single"
+   }
+  },
+  {
+   "n": 859,
+   "league": "NFL",
+   "type": "Spread",
+   "matchup": "Miami Dolphins @ Buffalo Bills",
+   "pick": "Buffalo Bills -16.5 (-108)",
+   "odds": -108,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-22T10:00:00",
+   "timed": true,
+   "ticket": "single",
+   "espn": {
+    "legs": [
+     {
+      "kind": "spread",
+      "side": "Buffalo Bills",
+      "line": -16.5,
+      "label": "Buffalo Bills -16.5",
+      "path": "football/nfl",
+      "event": "401873070",
+      "date": "20261122",
+      "snapshot": {
+       "source": "espn",
+       "state": "pre",
+       "detail": "11/22 - 1:00 PM EST",
+       "start": "2026-11-22T18:00Z",
+       "period": null,
+       "clock": null,
+       "teams": [
+        {
+         "name": "Miami Dolphins",
+         "short": "Dolphins",
+         "abbr": "MIA",
+         "score": 0,
+         "ha": "away",
+         "winner": null,
+         "linescores": []
+        },
+        {
+         "name": "Buffalo Bills",
+         "short": "Bills",
+         "abbr": "BUF",
+         "score": 0,
+         "ha": "home",
+         "winner": null,
+         "linescores": []
+        }
+       ]
+      },
+      "source": "espn"
+     }
+    ],
+    "sport": "NFL",
+    "ticket": "single"
+   }
+  },
+  {
+   "n": 856,
+   "league": "NFL",
+   "type": "Spread",
+   "matchup": "Las Vegas Raiders @ Denver Broncos",
+   "pick": "Denver Broncos -10 (-109)",
+   "odds": -109,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-22T13:25:00",
+   "timed": true,
+   "ticket": "single",
+   "espn": {
+    "legs": [
+     {
+      "kind": "spread",
+      "side": "Denver Broncos",
+      "line": -10.0,
+      "label": "Denver Broncos -10",
+      "path": "football/nfl",
+      "event": "401873075",
+      "date": "20261122",
+      "snapshot": {
+       "source": "espn",
+       "state": "pre",
+       "detail": "11/22 - 4:25 PM EST",
+       "start": "2026-11-22T21:25Z",
+       "period": null,
+       "clock": null,
+       "teams": [
+        {
+         "name": "Las Vegas Raiders",
+         "short": "Raiders",
+         "abbr": "LV",
+         "score": 0,
+         "ha": "away",
+         "winner": null,
+         "linescores": []
+        },
+        {
+         "name": "Denver Broncos",
+         "short": "Broncos",
+         "abbr": "DEN",
+         "score": 0,
+         "ha": "home",
+         "winner": null,
+         "linescores": []
+        }
+       ]
+      },
+      "source": "espn"
+     }
+    ],
+    "sport": "NFL",
+    "ticket": "single"
+   }
+  },
+  {
+   "n": 858,
+   "league": "NFL",
+   "type": "Spread",
+   "matchup": "Minnesota Vikings @ San Francisco 49ers",
+   "pick": "Minnesota Vikings +3 (-108)",
+   "odds": -108,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-22T17:20:00",
+   "timed": true,
+   "ticket": "single",
+   "espn": {
+    "legs": [
+     {
+      "kind": "spread",
+      "side": "Minnesota Vikings",
+      "line": 3.0,
+      "label": "Minnesota Vikings +3",
+      "path": "football/nfl",
+      "event": "401873077",
+      "date": "20261122",
+      "snapshot": {
+       "source": "espn",
+       "state": "pre",
+       "detail": "11/22 - 8:20 PM EST",
+       "start": "2026-11-23T01:20Z",
+       "period": null,
+       "clock": null,
+       "teams": [
+        {
+         "name": "Minnesota Vikings",
+         "short": "Vikings",
+         "abbr": "MIN",
+         "score": 0,
+         "ha": "away",
+         "winner": null,
+         "linescores": []
+        },
+        {
+         "name": "San Francisco 49ers",
+         "short": "49ers",
+         "abbr": "SF",
          "score": 0,
          "ha": "home",
          "winner": null,
