@@ -1,5 +1,5 @@
 {
- "updated": "Nov 17, 2026, 3:56 PM PT",
+ "updated": "Nov 17, 2026, 4:02 PM PT",
  "record": {
   "w": 194,
   "l": 190,
@@ -127,179 +127,6 @@
   }
  ],
  "picks": [
-  {
-   "n": 840,
-   "league": "NCAAB",
-   "type": "Over/Under",
-   "matchup": "Charlotte 49ers @ Davidson Wildcats",
-   "pick": "Over 132",
-   "odds": -110,
-   "units": 3.0,
-   "gap": null,
-   "start": "2026-11-17T16:00:00",
-   "timed": true,
-   "ticket": "single",
-   "espn": {
-    "legs": [
-     {
-      "kind": "total",
-      "side": null,
-      "ou": "O",
-      "line": 132.0,
-      "label": "O 132.0",
-      "path": "basketball/mens-college-basketball",
-      "event": "401925775",
-      "date": "20261117",
-      "snapshot": {
-       "source": "espn",
-       "state": "pre",
-       "detail": "11/17 - 7:00 PM EST",
-       "start": "2026-11-18T00:00Z",
-       "period": null,
-       "clock": null,
-       "teams": [
-        {
-         "name": "Charlotte 49ers",
-         "short": "49ers",
-         "abbr": "CLT",
-         "score": 0,
-         "ha": "away",
-         "winner": null,
-         "linescores": []
-        },
-        {
-         "name": "Davidson Wildcats",
-         "short": "Wildcats",
-         "abbr": "DAV",
-         "score": 0,
-         "ha": "home",
-         "winner": null,
-         "linescores": []
-        }
-       ]
-      },
-      "source": "espn"
-     }
-    ],
-    "sport": "NCAAB",
-    "ticket": "single"
-   }
-  },
-  {
-   "n": 841,
-   "league": "NCAAB",
-   "type": "Over/Under",
-   "matchup": "Villanova Wildcats @ Pittsburgh Panthers",
-   "pick": "Under 148.5 total points",
-   "odds": -110,
-   "units": 1.0,
-   "gap": null,
-   "start": "2026-11-17T16:00:00",
-   "timed": true,
-   "ticket": "single",
-   "espn": {
-    "legs": [
-     {
-      "kind": "total",
-      "side": null,
-      "ou": "U",
-      "line": 148.5,
-      "label": "U 148.5",
-      "path": "basketball/mens-college-basketball",
-      "event": "401909708",
-      "date": "20261117",
-      "snapshot": {
-       "source": "espn",
-       "state": "pre",
-       "detail": "11/17 - 7:00 PM EST",
-       "start": "2026-11-18T00:00Z",
-       "period": null,
-       "clock": null,
-       "teams": [
-        {
-         "name": "Villanova Wildcats",
-         "short": "Wildcats",
-         "abbr": "VILL",
-         "score": 0,
-         "ha": "away",
-         "winner": null,
-         "linescores": []
-        },
-        {
-         "name": "Pittsburgh Panthers",
-         "short": "Panthers",
-         "abbr": "PITT",
-         "score": 0,
-         "ha": "home",
-         "winner": null,
-         "linescores": []
-        }
-       ]
-      },
-      "source": "espn"
-     }
-    ],
-    "sport": "NCAAB",
-    "ticket": "single"
-   }
-  },
-  {
-   "n": 842,
-   "league": "NCAAB",
-   "type": "Spread",
-   "matchup": "CSU Northridge Matadors @ Troy Trojans",
-   "pick": "Troy -1.5",
-   "odds": -110,
-   "units": 1.0,
-   "gap": null,
-   "start": "2026-11-17T16:00:00",
-   "timed": true,
-   "ticket": "single",
-   "espn": {
-    "legs": [
-     {
-      "kind": "spread",
-      "side": "Troy",
-      "line": -1.5,
-      "label": "Troy -1.5",
-      "path": "basketball/mens-college-basketball",
-      "event": "401920297",
-      "date": "20261117",
-      "snapshot": {
-       "source": "espn",
-       "state": "pre",
-       "detail": "11/17 - 7:00 PM EST",
-       "start": "2026-11-18T00:00Z",
-       "period": null,
-       "clock": null,
-       "teams": [
-        {
-         "name": "Cal State Northridge Matadors",
-         "short": "Matadors",
-         "abbr": "CSUN",
-         "score": 0,
-         "ha": "away",
-         "winner": null,
-         "linescores": []
-        },
-        {
-         "name": "Troy Trojans",
-         "short": "Trojans",
-         "abbr": "TROY",
-         "score": 0,
-         "ha": "home",
-         "winner": null,
-         "linescores": []
-        }
-       ]
-      },
-      "source": "espn"
-     }
-    ],
-    "sport": "NCAAB",
-    "ticket": "single"
-   }
-  },
   {
    "n": 839,
    "league": "NHL",
@@ -761,7 +588,185 @@
    }
   }
  ],
- "awaiting": [],
+ "awaiting": [
+  {
+   "n": 840,
+   "league": "NCAAB",
+   "type": "Over/Under",
+   "matchup": "Charlotte 49ers @ Davidson Wildcats",
+   "pick": "Over 132",
+   "odds": -110,
+   "units": 3.0,
+   "gap": null,
+   "start": "2026-11-17T16:00:00",
+   "timed": true,
+   "ticket": "single",
+   "espn": {
+    "legs": [
+     {
+      "kind": "total",
+      "side": null,
+      "ou": "O",
+      "line": 132.0,
+      "label": "O 132.0",
+      "path": "basketball/mens-college-basketball",
+      "event": "401925775",
+      "date": "20261117",
+      "snapshot": {
+       "source": "espn",
+       "state": "pre",
+       "detail": "11/17 - 7:00 PM EST",
+       "start": "2026-11-18T00:00Z",
+       "period": null,
+       "clock": null,
+       "teams": [
+        {
+         "name": "Charlotte 49ers",
+         "short": "49ers",
+         "abbr": "CLT",
+         "score": 0,
+         "ha": "away",
+         "winner": null,
+         "linescores": []
+        },
+        {
+         "name": "Davidson Wildcats",
+         "short": "Wildcats",
+         "abbr": "DAV",
+         "score": 0,
+         "ha": "home",
+         "winner": null,
+         "linescores": []
+        }
+       ]
+      },
+      "source": "espn"
+     }
+    ],
+    "sport": "NCAAB",
+    "ticket": "single"
+   }
+  },
+  {
+   "n": 841,
+   "league": "NCAAB",
+   "type": "Over/Under",
+   "matchup": "Villanova Wildcats @ Pittsburgh Panthers",
+   "pick": "Under 148.5 total points",
+   "odds": -110,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-17T16:00:00",
+   "timed": true,
+   "ticket": "single",
+   "espn": {
+    "legs": [
+     {
+      "kind": "total",
+      "side": null,
+      "ou": "U",
+      "line": 148.5,
+      "label": "U 148.5",
+      "path": "basketball/mens-college-basketball",
+      "event": "401909708",
+      "date": "20261117",
+      "snapshot": {
+       "source": "espn",
+       "state": "in",
+       "detail": "19:17 - 1st",
+       "start": "2026-11-18T00:00Z",
+       "period": 1,
+       "clock": "19:17",
+       "teams": [
+        {
+         "name": "Villanova Wildcats",
+         "short": "Wildcats",
+         "abbr": "VILL",
+         "score": 0,
+         "ha": "away",
+         "winner": null,
+         "linescores": [
+          0
+         ]
+        },
+        {
+         "name": "Pittsburgh Panthers",
+         "short": "Panthers",
+         "abbr": "PITT",
+         "score": 0,
+         "ha": "home",
+         "winner": null,
+         "linescores": [
+          0
+         ]
+        }
+       ]
+      },
+      "source": "espn"
+     }
+    ],
+    "sport": "NCAAB",
+    "ticket": "single"
+   }
+  },
+  {
+   "n": 842,
+   "league": "NCAAB",
+   "type": "Spread",
+   "matchup": "CSU Northridge Matadors @ Troy Trojans",
+   "pick": "Troy -1.5",
+   "odds": -110,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-17T16:00:00",
+   "timed": true,
+   "ticket": "single",
+   "espn": {
+    "legs": [
+     {
+      "kind": "spread",
+      "side": "Troy",
+      "line": -1.5,
+      "label": "Troy -1.5",
+      "path": "basketball/mens-college-basketball",
+      "event": "401920297",
+      "date": "20261117",
+      "snapshot": {
+       "source": "espn",
+       "state": "pre",
+       "detail": "11/17 - 7:00 PM EST",
+       "start": "2026-11-18T00:00Z",
+       "period": null,
+       "clock": null,
+       "teams": [
+        {
+         "name": "Cal State Northridge Matadors",
+         "short": "Matadors",
+         "abbr": "CSUN",
+         "score": 0,
+         "ha": "away",
+         "winner": null,
+         "linescores": []
+        },
+        {
+         "name": "Troy Trojans",
+         "short": "Trojans",
+         "abbr": "TROY",
+         "score": 0,
+         "ha": "home",
+         "winner": null,
+         "linescores": []
+        }
+       ]
+      },
+      "source": "espn"
+     }
+    ],
+    "sport": "NCAAB",
+    "ticket": "single"
+   }
+  }
+ ],
  "daily": {
   "2026-10-12": {
    "u": 5.67,
