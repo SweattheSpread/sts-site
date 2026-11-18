@@ -1,5 +1,5 @@
 {
- "updated": "Nov 17, 2026, 6:47 PM PT",
+ "updated": "Nov 17, 2026, 6:49 PM PT",
  "record": {
   "w": 195,
   "l": 190,
@@ -511,10 +511,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "3:05 - 2nd",
+       "detail": "1:10 - 2nd",
        "start": "2026-11-18T01:00Z",
        "period": 2,
-       "clock": "3:05",
+       "clock": "1:10",
        "teams": [
         {
          "name": "Maryland Eastern Shore Hawks",
@@ -532,7 +532,7 @@
          "name": "DePaul Blue Demons",
          "short": "Blue Demons",
          "abbr": "DEP",
-         "score": 74,
+         "score": 79,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -574,10 +574,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "6:31 - 1st",
+       "detail": "5:36 - 1st",
        "start": "2026-11-18T02:00Z",
        "period": 1,
-       "clock": "6:31",
+       "clock": "5:36",
        "teams": [
         {
          "name": "Michigan State Spartans",
@@ -594,7 +594,7 @@
          "name": "Tennessee Volunteers",
          "short": "Volunteers",
          "abbr": "TENN",
-         "score": 14,
+         "score": 16,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -636,10 +636,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "6:31 - 1st",
+       "detail": "5:36 - 1st",
        "start": "2026-11-18T02:00Z",
        "period": 1,
-       "clock": "6:31",
+       "clock": "5:36",
        "teams": [
         {
          "name": "Michigan State Spartans",
@@ -656,7 +656,7 @@
          "name": "Tennessee Volunteers",
          "short": "Volunteers",
          "abbr": "TENN",
-         "score": 14,
+         "score": 16,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -699,8 +699,8 @@
        "state": "pre",
        "detail": "11/17 - 9:30 PM EST",
        "start": "2026-11-18T02:30Z",
-       "period": null,
-       "clock": null,
+       "period": 0,
+       "clock": "0:00",
        "teams": [
         {
          "name": "UNLV Rebels",
@@ -709,7 +709,9 @@
          "score": 0,
          "ha": "away",
          "winner": null,
-         "linescores": []
+         "linescores": [
+          0
+         ]
         },
         {
          "name": "Kansas Jayhawks",
@@ -718,7 +720,9 @@
          "score": 0,
          "ha": "home",
          "winner": null,
-         "linescores": []
+         "linescores": [
+          0
+         ]
         }
        ]
       },
@@ -757,8 +761,8 @@
        "state": "pre",
        "detail": "11/17 - 9:30 PM EST",
        "start": "2026-11-18T02:30Z",
-       "period": null,
-       "clock": null,
+       "period": 0,
+       "clock": "0:00",
        "teams": [
         {
          "name": "UNLV Rebels",
@@ -767,7 +771,9 @@
          "score": 0,
          "ha": "away",
          "winner": null,
-         "linescores": []
+         "linescores": [
+          0
+         ]
         },
         {
          "name": "Kansas Jayhawks",
@@ -776,7 +782,9 @@
          "score": 0,
          "ha": "home",
          "winner": null,
-         "linescores": []
+         "linescores": [
+          0
+         ]
         }
        ]
       },
