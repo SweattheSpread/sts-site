@@ -1,5 +1,5 @@
 {
- "updated": "Nov 17, 2026, 4:09 PM PT",
+ "updated": "Nov 17, 2026, 4:11 PM PT",
  "record": {
   "w": 194,
   "l": 190,
@@ -127,63 +127,6 @@
   }
  ],
  "picks": [
-  {
-   "n": 839,
-   "league": "NHL",
-   "type": "Moneyline",
-   "matchup": "Edmonton Oilers @ Florida Panthers",
-   "pick": "Florida Panthers ML",
-   "odds": -118,
-   "units": 0.5,
-   "gap": null,
-   "start": "2026-11-17T16:10:00",
-   "timed": true,
-   "ticket": "single",
-   "espn": {
-    "legs": [
-     {
-      "kind": "ml",
-      "side": "Florida Panthers",
-      "label": "Florida Panthers ML",
-      "path": "hockey/nhl",
-      "event": "401892730",
-      "date": "20261117",
-      "snapshot": {
-       "source": "nhl",
-       "state": "in",
-       "detail": "P1 19:34",
-       "start": "2026-11-18T00:00:00Z",
-       "period": 1,
-       "clock": "19:34",
-       "teams": [
-        {
-         "name": "Oilers",
-         "short": "EDM",
-         "abbr": "EDM",
-         "score": 0,
-         "ha": "away",
-         "winner": null,
-         "linescores": []
-        },
-        {
-         "name": "Panthers",
-         "short": "FLA",
-         "abbr": "FLA",
-         "score": 0,
-         "ha": "home",
-         "winner": null,
-         "linescores": []
-        }
-       ],
-       "nhl_id": 2026020335
-      },
-      "source": "nhl"
-     }
-    ],
-    "sport": "NHL",
-    "ticket": "single"
-   }
-  },
   {
    "n": 843,
    "league": "NCAAB",
@@ -647,6 +590,63 @@
  ],
  "awaiting": [
   {
+   "n": 839,
+   "league": "NHL",
+   "type": "Moneyline",
+   "matchup": "Edmonton Oilers @ Florida Panthers",
+   "pick": "Florida Panthers ML",
+   "odds": -118,
+   "units": 0.5,
+   "gap": null,
+   "start": "2026-11-17T16:10:00",
+   "timed": true,
+   "ticket": "single",
+   "espn": {
+    "legs": [
+     {
+      "kind": "ml",
+      "side": "Florida Panthers",
+      "label": "Florida Panthers ML",
+      "path": "hockey/nhl",
+      "event": "401892730",
+      "date": "20261117",
+      "snapshot": {
+       "source": "nhl",
+       "state": "in",
+       "detail": "P1 18:08",
+       "start": "2026-11-18T00:00:00Z",
+       "period": 1,
+       "clock": "18:08",
+       "teams": [
+        {
+         "name": "Oilers",
+         "short": "EDM",
+         "abbr": "EDM",
+         "score": 0,
+         "ha": "away",
+         "winner": null,
+         "linescores": []
+        },
+        {
+         "name": "Panthers",
+         "short": "FLA",
+         "abbr": "FLA",
+         "score": 0,
+         "ha": "home",
+         "winner": null,
+         "linescores": []
+        }
+       ],
+       "nhl_id": 2026020335
+      },
+      "source": "nhl"
+     }
+    ],
+    "sport": "NHL",
+    "ticket": "single"
+   }
+  },
+  {
    "n": 840,
    "league": "NCAAB",
    "type": "Over/Under",
@@ -672,16 +672,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "16:09 - 1st",
+       "detail": "15:36 - 1st",
        "start": "2026-11-18T00:00Z",
        "period": 1,
-       "clock": "16:09",
+       "clock": "15:36",
        "teams": [
         {
          "name": "Charlotte 49ers",
          "short": "49ers",
          "abbr": "CLT",
-         "score": 4,
+         "score": 6,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -795,16 +795,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "16:52 - 1st",
+       "detail": "15:38 - 1st",
        "start": "2026-11-18T00:00Z",
        "period": 1,
-       "clock": "16:52",
+       "clock": "15:38",
        "teams": [
         {
          "name": "Cal State Northridge Matadors",
          "short": "Matadors",
          "abbr": "CSUN",
-         "score": 7,
+         "score": 12,
          "ha": "away",
          "winner": null,
          "linescores": [
