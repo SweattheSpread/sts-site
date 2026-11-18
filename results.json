@@ -1,5 +1,5 @@
 {
- "updated": "Nov 17, 2026, 4:02 PM PT",
+ "updated": "Nov 17, 2026, 4:05 PM PT",
  "record": {
   "w": 194,
   "l": 190,
@@ -11,7 +11,7 @@
   "first": "2026-10-12",
   "last": "2026-11-16"
  },
- "pending": 11,
+ "pending": 12,
  "plays": [
   {
    "n": 334,
@@ -6376,6 +6376,22 @@
    "matchup": "UNLV Rebels vs Kansas Jayhawks at Michelob ULTRA Arena, Las Vegas",
    "pick": "Under 158 total points",
    "odds": -110,
+   "units": 1.0,
+   "result": null,
+   "pl": null,
+   "pending": true
+  },
+  {
+   "n": 848,
+   "date": "2026-11-17",
+   "day": "2026-11-17",
+   "league": "NCAAB",
+   "market": "spread",
+   "market_label": "Spread",
+   "ticket": "single",
+   "matchup": "Auburn Tigers vs West Virginia Mountaineers at Michelob ULTRA Arena, Las Vegas",
+   "pick": "Auburn +1.5",
+   "odds": -115,
    "units": 1.0,
    "result": null,
    "pl": null,

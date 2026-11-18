@@ -1,5 +1,5 @@
 {
- "updated": "Nov 17, 2026, 4:02 PM PT",
+ "updated": "Nov 17, 2026, 4:05 PM PT",
  "record": {
   "w": 194,
   "l": 190,
@@ -11,7 +11,7 @@
   "first": "2026-10-12",
   "last": "2026-11-16"
  },
- "pending": 11,
+ "pending": 12,
  "latest": [
   {
    "n": 837,
@@ -473,6 +473,63 @@
    }
   },
   {
+   "n": 848,
+   "league": "NCAAB",
+   "type": "Spread",
+   "matchup": "Auburn Tigers vs West Virginia Mountaineers at Michelob ULTRA Arena, Las Vegas",
+   "pick": "Auburn +1.5",
+   "odds": -115,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-17T20:59:00",
+   "timed": true,
+   "ticket": "single",
+   "espn": {
+    "legs": [
+     {
+      "kind": "spread",
+      "side": "Auburn",
+      "line": 1.5,
+      "label": "Auburn +1.5",
+      "path": "basketball/mens-college-basketball",
+      "event": "401920512",
+      "date": "20261117",
+      "snapshot": {
+       "source": "espn",
+       "state": "pre",
+       "detail": "11/17 - 11:59 PM EST",
+       "start": "2026-11-18T04:59Z",
+       "period": null,
+       "clock": null,
+       "teams": [
+        {
+         "name": "West Virginia Mountaineers",
+         "short": "Mountaineers",
+         "abbr": "WVU",
+         "score": 0,
+         "ha": "away",
+         "winner": null,
+         "linescores": []
+        },
+        {
+         "name": "Auburn Tigers",
+         "short": "Tigers",
+         "abbr": "AUB",
+         "score": 0,
+         "ha": "home",
+         "winner": null,
+         "linescores": []
+        }
+       ]
+      },
+      "source": "espn"
+     }
+    ],
+    "sport": "NCAAB",
+    "ticket": "single"
+   }
+  },
+  {
    "n": 831,
    "league": "NFL",
    "type": "Over/Under",
@@ -614,11 +671,11 @@
       "date": "20261117",
       "snapshot": {
        "source": "espn",
-       "state": "pre",
-       "detail": "11/17 - 7:00 PM EST",
+       "state": "in",
+       "detail": "18:42 - 1st",
        "start": "2026-11-18T00:00Z",
-       "period": null,
-       "clock": null,
+       "period": 1,
+       "clock": "18:42",
        "teams": [
         {
          "name": "Charlotte 49ers",
@@ -627,7 +684,9 @@
          "score": 0,
          "ha": "away",
          "winner": null,
-         "linescores": []
+         "linescores": [
+          0
+         ]
         },
         {
          "name": "Davidson Wildcats",
@@ -636,7 +695,9 @@
          "score": 0,
          "ha": "home",
          "winner": null,
-         "linescores": []
+         "linescores": [
+          0
+         ]
         }
        ]
       },
@@ -673,16 +734,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "19:17 - 1st",
+       "detail": "17:53 - 1st",
        "start": "2026-11-18T00:00Z",
        "period": 1,
-       "clock": "19:17",
+       "clock": "17:53",
        "teams": [
         {
          "name": "Villanova Wildcats",
          "short": "Wildcats",
          "abbr": "VILL",
-         "score": 0,
+         "score": 3,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -693,7 +754,7 @@
          "name": "Pittsburgh Panthers",
          "short": "Panthers",
          "abbr": "PITT",
-         "score": 0,
+         "score": 5,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -733,29 +794,33 @@
       "date": "20261117",
       "snapshot": {
        "source": "espn",
-       "state": "pre",
-       "detail": "11/17 - 7:00 PM EST",
+       "state": "in",
+       "detail": "18:58 - 1st",
        "start": "2026-11-18T00:00Z",
-       "period": null,
-       "clock": null,
+       "period": 1,
+       "clock": "18:58",
        "teams": [
         {
          "name": "Cal State Northridge Matadors",
          "short": "Matadors",
          "abbr": "CSUN",
-         "score": 0,
+         "score": 5,
          "ha": "away",
          "winner": null,
-         "linescores": []
+         "linescores": [
+          0
+         ]
         },
         {
          "name": "Troy Trojans",
          "short": "Trojans",
          "abbr": "TROY",
-         "score": 0,
+         "score": 3,
          "ha": "home",
          "winner": null,
-         "linescores": []
+         "linescores": [
+          0
+         ]
         }
        ]
       },
