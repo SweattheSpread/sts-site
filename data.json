@@ -1,5 +1,5 @@
 {
- "updated": "Nov 17, 2026, 6:22 PM PT",
+ "updated": "Nov 17, 2026, 6:30 PM PT",
  "record": {
   "w": 195,
   "l": 190,
@@ -127,121 +127,6 @@
   }
  ],
  "picks": [
-  {
-   "n": 846,
-   "league": "NCAAB",
-   "type": "Spread",
-   "matchup": "UNLV Rebels vs Kansas Jayhawks at Michelob ULTRA Arena, Las Vegas",
-   "pick": "UNLV +17",
-   "odds": -110,
-   "units": 1.0,
-   "gap": null,
-   "start": "2026-11-17T18:30:00",
-   "timed": true,
-   "ticket": "single",
-   "espn": {
-    "legs": [
-     {
-      "kind": "spread",
-      "side": "UNLV",
-      "line": 17.0,
-      "label": "UNLV +17",
-      "path": "basketball/mens-college-basketball",
-      "event": "401909787",
-      "date": "20261117",
-      "snapshot": {
-       "source": "espn",
-       "state": "pre",
-       "detail": "11/17 - 9:30 PM EST",
-       "start": "2026-11-18T02:30Z",
-       "period": null,
-       "clock": null,
-       "teams": [
-        {
-         "name": "UNLV Rebels",
-         "short": "Rebels",
-         "abbr": "UNLV",
-         "score": 0,
-         "ha": "away",
-         "winner": null,
-         "linescores": []
-        },
-        {
-         "name": "Kansas Jayhawks",
-         "short": "Jayhawks",
-         "abbr": "KU",
-         "score": 0,
-         "ha": "home",
-         "winner": null,
-         "linescores": []
-        }
-       ]
-      },
-      "source": "espn"
-     }
-    ],
-    "sport": "NCAAB",
-    "ticket": "single"
-   }
-  },
-  {
-   "n": 847,
-   "league": "NCAAB",
-   "type": "Over/Under",
-   "matchup": "UNLV Rebels vs Kansas Jayhawks at Michelob ULTRA Arena, Las Vegas",
-   "pick": "Under 158 total points",
-   "odds": -110,
-   "units": 1.0,
-   "gap": null,
-   "start": "2026-11-17T18:30:00",
-   "timed": true,
-   "ticket": "single",
-   "espn": {
-    "legs": [
-     {
-      "kind": "total",
-      "side": null,
-      "ou": "U",
-      "line": 158.0,
-      "label": "U 158.0",
-      "path": "basketball/mens-college-basketball",
-      "event": "401909787",
-      "date": "20261117",
-      "snapshot": {
-       "source": "espn",
-       "state": "pre",
-       "detail": "11/17 - 9:30 PM EST",
-       "start": "2026-11-18T02:30Z",
-       "period": null,
-       "clock": null,
-       "teams": [
-        {
-         "name": "UNLV Rebels",
-         "short": "Rebels",
-         "abbr": "UNLV",
-         "score": 0,
-         "ha": "away",
-         "winner": null,
-         "linescores": []
-        },
-        {
-         "name": "Kansas Jayhawks",
-         "short": "Jayhawks",
-         "abbr": "KU",
-         "score": 0,
-         "ha": "home",
-         "winner": null,
-         "linescores": []
-        }
-       ]
-      },
-      "source": "espn"
-     }
-    ],
-    "sport": "NCAAB",
-    "ticket": "single"
-   }
-  },
   {
    "n": 848,
    "league": "NCAAB",
@@ -440,10 +325,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P3 05:55",
+       "detail": "P3 02:10",
        "start": "2026-11-18T00:00:00Z",
        "period": 3,
-       "clock": "05:55",
+       "clock": "02:10",
        "teams": [
         {
          "name": "Oilers",
@@ -458,7 +343,7 @@
          "name": "Panthers",
          "short": "FLA",
          "abbr": "FLA",
-         "score": 1,
+         "score": 2,
          "ha": "home",
          "winner": null,
          "linescores": []
@@ -626,16 +511,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "11:57 - 2nd",
+       "detail": "9:02 - 2nd",
        "start": "2026-11-18T01:00Z",
        "period": 2,
-       "clock": "11:57",
+       "clock": "9:02",
        "teams": [
         {
          "name": "Maryland Eastern Shore Hawks",
          "short": "Hawks",
          "abbr": "UMES",
-         "score": 25,
+         "score": 30,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -647,7 +532,7 @@
          "name": "DePaul Blue Demons",
          "short": "Blue Demons",
          "abbr": "DEP",
-         "score": 54,
+         "score": 62,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -689,16 +574,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "15:17 - 1st",
+       "detail": "11:59 - 1st",
        "start": "2026-11-18T02:00Z",
        "period": 1,
-       "clock": "15:17",
+       "clock": "11:59",
        "teams": [
         {
          "name": "Michigan State Spartans",
          "short": "Spartans",
          "abbr": "MSU",
-         "score": 9,
+         "score": 14,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -709,7 +594,7 @@
          "name": "Tennessee Volunteers",
          "short": "Volunteers",
          "abbr": "TENN",
-         "score": 2,
+         "score": 6,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -751,16 +636,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "15:17 - 1st",
+       "detail": "11:59 - 1st",
        "start": "2026-11-18T02:00Z",
        "period": 1,
-       "clock": "15:17",
+       "clock": "11:59",
        "teams": [
         {
          "name": "Michigan State Spartans",
          "short": "Spartans",
          "abbr": "MSU",
-         "score": 9,
+         "score": 14,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -771,12 +656,127 @@
          "name": "Tennessee Volunteers",
          "short": "Volunteers",
          "abbr": "TENN",
-         "score": 2,
+         "score": 6,
          "ha": "home",
          "winner": null,
          "linescores": [
           0
          ]
+        }
+       ]
+      },
+      "source": "espn"
+     }
+    ],
+    "sport": "NCAAB",
+    "ticket": "single"
+   }
+  },
+  {
+   "n": 846,
+   "league": "NCAAB",
+   "type": "Spread",
+   "matchup": "UNLV Rebels vs Kansas Jayhawks at Michelob ULTRA Arena, Las Vegas",
+   "pick": "UNLV +17",
+   "odds": -110,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-17T18:30:00",
+   "timed": true,
+   "ticket": "single",
+   "espn": {
+    "legs": [
+     {
+      "kind": "spread",
+      "side": "UNLV",
+      "line": 17.0,
+      "label": "UNLV +17",
+      "path": "basketball/mens-college-basketball",
+      "event": "401909787",
+      "date": "20261117",
+      "snapshot": {
+       "source": "espn",
+       "state": "pre",
+       "detail": "11/17 - 9:30 PM EST",
+       "start": "2026-11-18T02:30Z",
+       "period": null,
+       "clock": null,
+       "teams": [
+        {
+         "name": "UNLV Rebels",
+         "short": "Rebels",
+         "abbr": "UNLV",
+         "score": 0,
+         "ha": "away",
+         "winner": null,
+         "linescores": []
+        },
+        {
+         "name": "Kansas Jayhawks",
+         "short": "Jayhawks",
+         "abbr": "KU",
+         "score": 0,
+         "ha": "home",
+         "winner": null,
+         "linescores": []
+        }
+       ]
+      },
+      "source": "espn"
+     }
+    ],
+    "sport": "NCAAB",
+    "ticket": "single"
+   }
+  },
+  {
+   "n": 847,
+   "league": "NCAAB",
+   "type": "Over/Under",
+   "matchup": "UNLV Rebels vs Kansas Jayhawks at Michelob ULTRA Arena, Las Vegas",
+   "pick": "Under 158 total points",
+   "odds": -110,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-17T18:30:00",
+   "timed": true,
+   "ticket": "single",
+   "espn": {
+    "legs": [
+     {
+      "kind": "total",
+      "side": null,
+      "ou": "U",
+      "line": 158.0,
+      "label": "U 158.0",
+      "path": "basketball/mens-college-basketball",
+      "event": "401909787",
+      "date": "20261117",
+      "snapshot": {
+       "source": "espn",
+       "state": "pre",
+       "detail": "11/17 - 9:30 PM EST",
+       "start": "2026-11-18T02:30Z",
+       "period": null,
+       "clock": null,
+       "teams": [
+        {
+         "name": "UNLV Rebels",
+         "short": "Rebels",
+         "abbr": "UNLV",
+         "score": 0,
+         "ha": "away",
+         "winner": null,
+         "linescores": []
+        },
+        {
+         "name": "Kansas Jayhawks",
+         "short": "Jayhawks",
+         "abbr": "KU",
+         "score": 0,
+         "ha": "home",
+         "winner": null,
+         "linescores": []
         }
        ]
       },
