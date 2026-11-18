@@ -1,5 +1,5 @@
 {
- "updated": "Nov 17, 2026, 6:34 PM PT",
+ "updated": "Nov 17, 2026, 6:36 PM PT",
  "record": {
   "w": 195,
   "l": 190,
@@ -511,10 +511,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "7:52 - 2nd",
+       "detail": "6:20 - 2nd",
        "start": "2026-11-18T01:00Z",
        "period": 2,
-       "clock": "7:52",
+       "clock": "6:20",
        "teams": [
         {
          "name": "Maryland Eastern Shore Hawks",
@@ -532,7 +532,7 @@
          "name": "DePaul Blue Demons",
          "short": "Blue Demons",
          "abbr": "DEP",
-         "score": 67,
+         "score": 70,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -574,16 +574,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "10:03 - 1st",
+       "detail": "9:27 - 1st",
        "start": "2026-11-18T02:00Z",
        "period": 1,
-       "clock": "10:03",
+       "clock": "9:27",
        "teams": [
         {
          "name": "Michigan State Spartans",
          "short": "Spartans",
          "abbr": "MSU",
-         "score": 16,
+         "score": 18,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -636,16 +636,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "10:03 - 1st",
+       "detail": "9:27 - 1st",
        "start": "2026-11-18T02:00Z",
        "period": 1,
-       "clock": "10:03",
+       "clock": "9:27",
        "teams": [
         {
          "name": "Michigan State Spartans",
          "short": "Spartans",
          "abbr": "MSU",
-         "score": 16,
+         "score": 18,
          "ha": "away",
          "winner": null,
          "linescores": [
