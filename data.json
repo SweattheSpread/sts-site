@@ -1,5 +1,5 @@
 {
- "updated": "Nov 17, 2026, 8:58 PM PT",
+ "updated": "Nov 17, 2026, 9:04 PM PT",
  "record": {
   "w": 195,
   "l": 190,
@@ -127,63 +127,6 @@
   }
  ],
  "picks": [
-  {
-   "n": 848,
-   "league": "NCAAB",
-   "type": "Spread",
-   "matchup": "Auburn Tigers vs West Virginia Mountaineers at Michelob ULTRA Arena, Las Vegas",
-   "pick": "Auburn +1.5",
-   "odds": -115,
-   "units": 1.0,
-   "gap": null,
-   "start": "2026-11-17T20:59:00",
-   "timed": true,
-   "ticket": "single",
-   "espn": {
-    "legs": [
-     {
-      "kind": "spread",
-      "side": "Auburn",
-      "line": 1.5,
-      "label": "Auburn +1.5",
-      "path": "basketball/mens-college-basketball",
-      "event": "401920512",
-      "date": "20261117",
-      "snapshot": {
-       "source": "espn",
-       "state": "pre",
-       "detail": "11/17 - 11:59 PM EST",
-       "start": "2026-11-18T04:59Z",
-       "period": null,
-       "clock": null,
-       "teams": [
-        {
-         "name": "West Virginia Mountaineers",
-         "short": "Mountaineers",
-         "abbr": "WVU",
-         "score": 0,
-         "ha": "away",
-         "winner": null,
-         "linescores": []
-        },
-        {
-         "name": "Auburn Tigers",
-         "short": "Tigers",
-         "abbr": "AUB",
-         "score": 0,
-         "ha": "home",
-         "winner": null,
-         "linescores": []
-        }
-       ]
-      },
-      "source": "espn"
-     }
-    ],
-    "sport": "NCAAB",
-    "ticket": "single"
-   }
-  },
   {
    "n": 831,
    "league": "NFL",
@@ -700,11 +643,11 @@
       "date": "20261117",
       "snapshot": {
        "source": "espn",
-       "state": "in",
-       "detail": "0:00 - 2nd",
+       "state": "post",
+       "detail": "Final",
        "start": "2026-11-18T02:30Z",
-       "period": 2,
-       "clock": "0:00",
+       "period": null,
+       "clock": null,
        "teams": [
         {
          "name": "UNLV Rebels",
@@ -712,7 +655,7 @@
          "abbr": "UNLV",
          "score": 77,
          "ha": "away",
-         "winner": null,
+         "winner": false,
          "linescores": [
           0,
           0
@@ -724,7 +667,7 @@
          "abbr": "KU",
          "score": 102,
          "ha": "home",
-         "winner": null,
+         "winner": true,
          "linescores": [
           0,
           0
@@ -764,11 +707,11 @@
       "date": "20261117",
       "snapshot": {
        "source": "espn",
-       "state": "in",
-       "detail": "0:00 - 2nd",
+       "state": "post",
+       "detail": "Final",
        "start": "2026-11-18T02:30Z",
-       "period": 2,
-       "clock": "0:00",
+       "period": null,
+       "clock": null,
        "teams": [
         {
          "name": "UNLV Rebels",
@@ -776,7 +719,7 @@
          "abbr": "UNLV",
          "score": 77,
          "ha": "away",
-         "winner": null,
+         "winner": false,
          "linescores": [
           0,
           0
@@ -788,11 +731,68 @@
          "abbr": "KU",
          "score": 102,
          "ha": "home",
-         "winner": null,
+         "winner": true,
          "linescores": [
           0,
           0
          ]
+        }
+       ]
+      },
+      "source": "espn"
+     }
+    ],
+    "sport": "NCAAB",
+    "ticket": "single"
+   }
+  },
+  {
+   "n": 848,
+   "league": "NCAAB",
+   "type": "Spread",
+   "matchup": "Auburn Tigers vs West Virginia Mountaineers at Michelob ULTRA Arena, Las Vegas",
+   "pick": "Auburn +1.5",
+   "odds": -115,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-17T20:59:00",
+   "timed": true,
+   "ticket": "single",
+   "espn": {
+    "legs": [
+     {
+      "kind": "spread",
+      "side": "Auburn",
+      "line": 1.5,
+      "label": "Auburn +1.5",
+      "path": "basketball/mens-college-basketball",
+      "event": "401920512",
+      "date": "20261117",
+      "snapshot": {
+       "source": "espn",
+       "state": "pre",
+       "detail": "11/17 - 11:59 PM EST",
+       "start": "2026-11-18T04:59Z",
+       "period": null,
+       "clock": null,
+       "teams": [
+        {
+         "name": "West Virginia Mountaineers",
+         "short": "Mountaineers",
+         "abbr": "WVU",
+         "score": 0,
+         "ha": "away",
+         "winner": null,
+         "linescores": []
+        },
+        {
+         "name": "Auburn Tigers",
+         "short": "Tigers",
+         "abbr": "AUB",
+         "score": 0,
+         "ha": "home",
+         "winner": null,
+         "linescores": []
         }
        ]
       },
