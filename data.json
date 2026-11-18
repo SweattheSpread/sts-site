@@ -1,5 +1,5 @@
 {
- "updated": "Nov 17, 2026, 4:17 PM PT",
+ "updated": "Nov 17, 2026, 4:19 PM PT",
  "record": {
   "w": 194,
   "l": 190,
@@ -613,10 +613,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P1 14:04",
+       "detail": "P1 11:52",
        "start": "2026-11-18T00:00:00Z",
        "period": 1,
-       "clock": "14:04",
+       "clock": "11:52",
        "teams": [
         {
          "name": "Oilers",
@@ -672,16 +672,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "13:11 - 1st",
+       "detail": "11:54 - 1st",
        "start": "2026-11-18T00:00Z",
        "period": 1,
-       "clock": "13:11",
+       "clock": "11:54",
        "teams": [
         {
          "name": "Charlotte 49ers",
          "short": "49ers",
          "abbr": "CLT",
-         "score": 10,
+         "score": 15,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -692,7 +692,7 @@
          "name": "Davidson Wildcats",
          "short": "Wildcats",
          "abbr": "DAV",
-         "score": 1,
+         "score": 3,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -734,10 +734,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "13:07 - 1st",
+       "detail": "12:35 - 1st",
        "start": "2026-11-18T00:00Z",
        "period": 1,
-       "clock": "13:07",
+       "clock": "12:35",
        "teams": [
         {
          "name": "Villanova Wildcats",
@@ -795,10 +795,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "12:46 - 1st",
+       "detail": "12:26 - 1st",
        "start": "2026-11-18T00:00Z",
        "period": 1,
-       "clock": "12:46",
+       "clock": "12:26",
        "teams": [
         {
          "name": "Cal State Northridge Matadors",
