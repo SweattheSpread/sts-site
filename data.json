@@ -1,5 +1,5 @@
 {
- "updated": "Nov 17, 2026, 6:45 PM PT",
+ "updated": "Nov 17, 2026, 6:47 PM PT",
  "record": {
   "w": 195,
   "l": 190,
@@ -511,10 +511,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "3:19 - 2nd",
+       "detail": "3:05 - 2nd",
        "start": "2026-11-18T01:00Z",
        "period": 2,
-       "clock": "3:19",
+       "clock": "3:05",
        "teams": [
         {
          "name": "Maryland Eastern Shore Hawks",
@@ -574,16 +574,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "7:19 - 1st",
+       "detail": "6:31 - 1st",
        "start": "2026-11-18T02:00Z",
        "period": 1,
-       "clock": "7:19",
+       "clock": "6:31",
        "teams": [
         {
          "name": "Michigan State Spartans",
          "short": "Spartans",
          "abbr": "MSU",
-         "score": 19,
+         "score": 21,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -636,16 +636,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "7:19 - 1st",
+       "detail": "6:31 - 1st",
        "start": "2026-11-18T02:00Z",
        "period": 1,
-       "clock": "7:19",
+       "clock": "6:31",
        "teams": [
         {
          "name": "Michigan State Spartans",
          "short": "Spartans",
          "abbr": "MSU",
-         "score": 19,
+         "score": 21,
          "ha": "away",
          "winner": null,
          "linescores": [
