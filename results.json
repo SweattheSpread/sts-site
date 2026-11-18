@@ -1,5 +1,5 @@
 {
- "updated": "Nov 17, 2026, 11:33 PM PT",
+ "updated": "Nov 18, 2026, 4:40 AM PT",
  "record": {
   "w": 195,
   "l": 190,
@@ -11,7 +11,7 @@
   "first": "2026-10-12",
   "last": "2026-11-17"
  },
- "pending": 12,
+ "pending": 14,
  "plays": [
   {
    "n": 334,
@@ -6409,6 +6409,38 @@
    "pick": "Frances Tiafoe ML",
    "odds": -140,
    "units": 2.0,
+   "result": null,
+   "pl": null,
+   "pending": true
+  },
+  {
+   "n": 850,
+   "date": "2026-11-18",
+   "day": "2026-11-18",
+   "league": "NHL",
+   "market": "player_prop",
+   "market_label": "Player Prop",
+   "ticket": "single",
+   "matchup": "Colorado Avalanche @ Utah Mammoth",
+   "pick": "Mikhail Sergachev Over 2.5 shots on goal",
+   "odds": 140,
+   "units": 1.0,
+   "result": null,
+   "pl": null,
+   "pending": true
+  },
+  {
+   "n": 851,
+   "date": "2026-11-18",
+   "day": "2026-11-18",
+   "league": "NHL",
+   "market": "player_prop",
+   "market_label": "Player Prop",
+   "ticket": "single",
+   "matchup": "Colorado Avalanche @ Utah Mammoth",
+   "pick": "Artturi Lehkonen Over 0.5 points",
+   "odds": -115,
+   "units": 1.0,
    "result": null,
    "pl": null,
    "pending": true
