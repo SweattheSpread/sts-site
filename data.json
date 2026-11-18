@@ -1,5 +1,5 @@
 {
- "updated": "Nov 17, 2026, 5:44 PM PT",
+ "updated": "Nov 17, 2026, 5:47 PM PT",
  "record": {
   "w": 194,
   "l": 190,
@@ -555,10 +555,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P2 10:08",
+       "detail": "P2 07:40",
        "start": "2026-11-18T00:00:00Z",
        "period": 2,
-       "clock": "10:08",
+       "clock": "07:40",
        "teams": [
         {
          "name": "Oilers",
@@ -678,16 +678,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "4:47 - 2nd",
+       "detail": "4:04 - 2nd",
        "start": "2026-11-18T00:00Z",
        "period": 2,
-       "clock": "4:47",
+       "clock": "4:04",
        "teams": [
         {
          "name": "Villanova Wildcats",
          "short": "Wildcats",
          "abbr": "VILL",
-         "score": 56,
+         "score": 58,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -741,10 +741,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "7:50 - 2nd",
+       "detail": "7:22 - 2nd",
        "start": "2026-11-18T00:00Z",
        "period": 2,
-       "clock": "7:50",
+       "clock": "7:22",
        "teams": [
         {
          "name": "Cal State Northridge Matadors",
@@ -805,10 +805,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "3:39 - 1st",
+       "detail": "2:40 - 1st",
        "start": "2026-11-18T01:00Z",
        "period": 1,
-       "clock": "3:39",
+       "clock": "2:40",
        "teams": [
         {
          "name": "Maryland Eastern Shore Hawks",
@@ -825,7 +825,7 @@
          "name": "DePaul Blue Demons",
          "short": "Blue Demons",
          "abbr": "DEP",
-         "score": 26,
+         "score": 29,
          "ha": "home",
          "winner": null,
          "linescores": [
