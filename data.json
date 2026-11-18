@@ -1,5 +1,5 @@
 {
- "updated": "Nov 17, 2026, 7:09 PM PT",
+ "updated": "Nov 17, 2026, 7:11 PM PT",
  "record": {
   "w": 195,
   "l": 190,
@@ -697,16 +697,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "12:20 - 1st",
+       "detail": "11:36 - 1st",
        "start": "2026-11-18T02:30Z",
        "period": 1,
-       "clock": "12:20",
+       "clock": "11:36",
        "teams": [
         {
          "name": "UNLV Rebels",
          "short": "Rebels",
          "abbr": "UNLV",
-         "score": 13,
+         "score": 15,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -717,7 +717,7 @@
          "name": "Kansas Jayhawks",
          "short": "Jayhawks",
          "abbr": "KU",
-         "score": 28,
+         "score": 31,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -759,16 +759,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "12:20 - 1st",
+       "detail": "11:36 - 1st",
        "start": "2026-11-18T02:30Z",
        "period": 1,
-       "clock": "12:20",
+       "clock": "11:36",
        "teams": [
         {
          "name": "UNLV Rebels",
          "short": "Rebels",
          "abbr": "UNLV",
-         "score": 13,
+         "score": 15,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -779,7 +779,7 @@
          "name": "Kansas Jayhawks",
          "short": "Jayhawks",
          "abbr": "KU",
-         "score": 28,
+         "score": 31,
          "ha": "home",
          "winner": null,
          "linescores": [
