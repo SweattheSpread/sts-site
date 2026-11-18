@@ -1,5 +1,5 @@
 {
- "updated": "Nov 18, 2026, 1:21 PM PT",
+ "updated": "Nov 18, 2026, 3:23 PM PT",
  "record": {
   "w": 199,
   "l": 195,
@@ -11,7 +11,7 @@
   "first": "2026-10-12",
   "last": "2026-11-17"
  },
- "pending": 25,
+ "pending": 26,
  "plays": [
   {
    "n": 334,
@@ -6521,6 +6521,22 @@
    "pick": "Over 135.5",
    "odds": -110,
    "units": 1.0,
+   "result": null,
+   "pl": null,
+   "pending": true
+  },
+  {
+   "n": 872,
+   "date": "2026-11-18",
+   "day": "2026-11-18",
+   "league": "NBA",
+   "market": "parlay",
+   "market_label": "Parlay",
+   "ticket": "parlay",
+   "matchup": "2-leg parlay: Houston Rockets @ Indiana Pacers + Milwaukee Bucks @ Miami Heat",
+   "pick": "Houston Rockets ML -350 vs Indiana Pacers + Miami Heat 1H -7.0 -110 vs Milwaukee Bucks",
+   "odds": 145,
+   "units": 2.0,
    "result": null,
    "pl": null,
    "pending": true
