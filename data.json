@@ -1,5 +1,5 @@
 {
- "updated": "Nov 17, 2026, 6:09 PM PT",
+ "updated": "Nov 17, 2026, 6:11 PM PT",
  "record": {
   "w": 195,
   "l": 190,
@@ -440,10 +440,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P3 11:50",
+       "detail": "P3 09:51",
        "start": "2026-11-18T00:00:00Z",
        "period": 3,
-       "clock": "11:50",
+       "clock": "09:51",
        "teams": [
         {
          "name": "Oilers",
@@ -562,16 +562,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "0:24 - 2nd",
+       "detail": "0:16 - 2nd",
        "start": "2026-11-18T00:00Z",
        "period": 2,
-       "clock": "0:24",
+       "clock": "0:16",
        "teams": [
         {
          "name": "Cal State Northridge Matadors",
          "short": "Matadors",
          "abbr": "CSUN",
-         "score": 70,
+         "score": 72,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -583,7 +583,7 @@
          "name": "Troy Trojans",
          "short": "Trojans",
          "abbr": "TROY",
-         "score": 80,
+         "score": 82,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -626,10 +626,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "18:15 - 2nd",
+       "detail": "16:44 - 2nd",
        "start": "2026-11-18T01:00Z",
        "period": 2,
-       "clock": "18:15",
+       "clock": "16:44",
        "teams": [
         {
          "name": "Maryland Eastern Shore Hawks",
@@ -647,7 +647,7 @@
          "name": "DePaul Blue Demons",
          "short": "Blue Demons",
          "abbr": "DEP",
-         "score": 37,
+         "score": 44,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -688,11 +688,11 @@
       "date": "20261117",
       "snapshot": {
        "source": "espn",
-       "state": "pre",
-       "detail": "11/17 - 9:00 PM EST",
+       "state": "in",
+       "detail": "19:41 - 1st",
        "start": "2026-11-18T02:00Z",
-       "period": null,
-       "clock": null,
+       "period": 1,
+       "clock": "19:41",
        "teams": [
         {
          "name": "Michigan State Spartans",
@@ -701,16 +701,20 @@
          "score": 0,
          "ha": "away",
          "winner": null,
-         "linescores": []
+         "linescores": [
+          0
+         ]
         },
         {
          "name": "Tennessee Volunteers",
          "short": "Volunteers",
          "abbr": "TENN",
-         "score": 0,
+         "score": 2,
          "ha": "home",
          "winner": null,
-         "linescores": []
+         "linescores": [
+          0
+         ]
         }
        ]
       },
@@ -746,11 +750,11 @@
       "date": "20261117",
       "snapshot": {
        "source": "espn",
-       "state": "pre",
-       "detail": "11/17 - 9:00 PM EST",
+       "state": "in",
+       "detail": "19:41 - 1st",
        "start": "2026-11-18T02:00Z",
-       "period": null,
-       "clock": null,
+       "period": 1,
+       "clock": "19:41",
        "teams": [
         {
          "name": "Michigan State Spartans",
@@ -759,16 +763,20 @@
          "score": 0,
          "ha": "away",
          "winner": null,
-         "linescores": []
+         "linescores": [
+          0
+         ]
         },
         {
          "name": "Tennessee Volunteers",
          "short": "Volunteers",
          "abbr": "TENN",
-         "score": 0,
+         "score": 2,
          "ha": "home",
          "winner": null,
-         "linescores": []
+         "linescores": [
+          0
+         ]
         }
        ]
       },
