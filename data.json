@@ -1,5 +1,5 @@
 {
- "updated": "Nov 17, 2026, 5:18 PM PT",
+ "updated": "Nov 17, 2026, 5:21 PM PT",
  "record": {
   "w": 194,
   "l": 190,
@@ -555,10 +555,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P2 09:31",
+       "detail": "P2 07:59",
        "start": "2026-11-18T00:00:00Z",
        "period": 2,
-       "clock": "09:31",
+       "clock": "07:59",
        "teams": [
         {
          "name": "Oilers",
@@ -614,16 +614,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "14:52 - 2nd",
+       "detail": "12:58 - 2nd",
        "start": "2026-11-18T00:00Z",
        "period": 2,
-       "clock": "14:52",
+       "clock": "12:58",
        "teams": [
         {
          "name": "Charlotte 49ers",
          "short": "49ers",
          "abbr": "CLT",
-         "score": 46,
+         "score": 48,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -635,7 +635,7 @@
          "name": "Davidson Wildcats",
          "short": "Wildcats",
          "abbr": "DAV",
-         "score": 30,
+         "score": 33,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -678,16 +678,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "15:18 - 2nd",
+       "detail": "12:59 - 2nd",
        "start": "2026-11-18T00:00Z",
        "period": 2,
-       "clock": "15:18",
+       "clock": "12:59",
        "teams": [
         {
          "name": "Villanova Wildcats",
          "short": "Wildcats",
          "abbr": "VILL",
-         "score": 43,
+         "score": 48,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -699,7 +699,7 @@
          "name": "Pittsburgh Panthers",
          "short": "Panthers",
          "abbr": "PITT",
-         "score": 46,
+         "score": 50,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -741,16 +741,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "16:32 - 2nd",
+       "detail": "16:24 - 2nd",
        "start": "2026-11-18T00:00Z",
        "period": 2,
-       "clock": "16:32",
+       "clock": "16:24",
        "teams": [
         {
          "name": "Cal State Northridge Matadors",
          "short": "Matadors",
          "abbr": "CSUN",
-         "score": 34,
+         "score": 36,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -805,10 +805,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "13:04 - 1st",
+       "detail": "11:59 - 1st",
        "start": "2026-11-18T01:00Z",
        "period": 1,
-       "clock": "13:04",
+       "clock": "11:59",
        "teams": [
         {
          "name": "Maryland Eastern Shore Hawks",
@@ -825,7 +825,7 @@
          "name": "DePaul Blue Demons",
          "short": "Blue Demons",
          "abbr": "DEP",
-         "score": 10,
+         "score": 13,
          "ha": "home",
          "winner": null,
          "linescores": [
