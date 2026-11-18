@@ -1,5 +1,5 @@
 {
- "updated": "Nov 17, 2026, 8:56 PM PT",
+ "updated": "Nov 17, 2026, 8:58 PM PT",
  "record": {
   "w": 195,
   "l": 190,
@@ -701,16 +701,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "1:11 - 2nd",
+       "detail": "0:00 - 2nd",
        "start": "2026-11-18T02:30Z",
        "period": 2,
-       "clock": "1:11",
+       "clock": "0:00",
        "teams": [
         {
          "name": "UNLV Rebels",
          "short": "Rebels",
          "abbr": "UNLV",
-         "score": 75,
+         "score": 77,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -765,16 +765,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "1:11 - 2nd",
+       "detail": "0:00 - 2nd",
        "start": "2026-11-18T02:30Z",
        "period": 2,
-       "clock": "1:11",
+       "clock": "0:00",
        "teams": [
         {
          "name": "UNLV Rebels",
          "short": "Rebels",
          "abbr": "UNLV",
-         "score": 75,
+         "score": 77,
          "ha": "away",
          "winner": null,
          "linescores": [
