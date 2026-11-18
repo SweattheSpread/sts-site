@@ -1,5 +1,5 @@
 {
- "updated": "Nov 17, 2026, 10:15 PM PT",
+ "updated": "Nov 17, 2026, 10:18 PM PT",
  "record": {
   "w": 195,
   "l": 190,
@@ -154,8 +154,8 @@
        "source": "tennis-explorer",
        "path": "tennis/explorer",
        "event": "3377751",
-       "state": "in",
-       "detail": "Live",
+       "state": "pre",
+       "detail": "Scheduled",
        "tennis": [
         {
          "name": "Cobolli F.",
