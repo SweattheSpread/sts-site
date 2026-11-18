@@ -1,5 +1,5 @@
 {
- "updated": "Nov 17, 2026, 8:18 PM PT",
+ "updated": "Nov 17, 2026, 8:29 PM PT",
  "record": {
   "w": 195,
   "l": 190,
@@ -573,11 +573,11 @@
       "date": "20261117",
       "snapshot": {
        "source": "espn",
-       "state": "in",
-       "detail": "1:31 - 2nd",
+       "state": "post",
+       "detail": "Final",
        "start": "2026-11-18T02:00Z",
-       "period": 2,
-       "clock": "1:31",
+       "period": null,
+       "clock": null,
        "teams": [
         {
          "name": "Michigan State Spartans",
@@ -585,7 +585,7 @@
          "abbr": "MSU",
          "score": 46,
          "ha": "away",
-         "winner": null,
+         "winner": false,
          "linescores": [
           0,
           0
@@ -595,9 +595,9 @@
          "name": "Tennessee Volunteers",
          "short": "Volunteers",
          "abbr": "TENN",
-         "score": 57,
+         "score": 61,
          "ha": "home",
-         "winner": null,
+         "winner": true,
          "linescores": [
           0,
           0
@@ -637,11 +637,11 @@
       "date": "20261117",
       "snapshot": {
        "source": "espn",
-       "state": "in",
-       "detail": "1:31 - 2nd",
+       "state": "post",
+       "detail": "Final",
        "start": "2026-11-18T02:00Z",
-       "period": 2,
-       "clock": "1:31",
+       "period": null,
+       "clock": null,
        "teams": [
         {
          "name": "Michigan State Spartans",
@@ -649,7 +649,7 @@
          "abbr": "MSU",
          "score": 46,
          "ha": "away",
-         "winner": null,
+         "winner": false,
          "linescores": [
           0,
           0
@@ -659,9 +659,9 @@
          "name": "Tennessee Volunteers",
          "short": "Volunteers",
          "abbr": "TENN",
-         "score": 57,
+         "score": 61,
          "ha": "home",
-         "winner": null,
+         "winner": true,
          "linescores": [
           0,
           0
@@ -701,16 +701,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "14:01 - 2nd",
+       "detail": "10:56 - 2nd",
        "start": "2026-11-18T02:30Z",
        "period": 2,
-       "clock": "14:01",
+       "clock": "10:56",
        "teams": [
         {
          "name": "UNLV Rebels",
          "short": "Rebels",
          "abbr": "UNLV",
-         "score": 45,
+         "score": 53,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -722,7 +722,7 @@
          "name": "Kansas Jayhawks",
          "short": "Jayhawks",
          "abbr": "KU",
-         "score": 75,
+         "score": 86,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -765,16 +765,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "14:01 - 2nd",
+       "detail": "10:56 - 2nd",
        "start": "2026-11-18T02:30Z",
        "period": 2,
-       "clock": "14:01",
+       "clock": "10:56",
        "teams": [
         {
          "name": "UNLV Rebels",
          "short": "Rebels",
          "abbr": "UNLV",
-         "score": 45,
+         "score": 53,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -786,7 +786,7 @@
          "name": "Kansas Jayhawks",
          "short": "Jayhawks",
          "abbr": "KU",
-         "score": 75,
+         "score": 86,
          "ha": "home",
          "winner": null,
          "linescores": [
