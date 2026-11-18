@@ -1,5 +1,5 @@
 {
- "updated": "Nov 17, 2026, 4:53 PM PT",
+ "updated": "Nov 17, 2026, 4:55 PM PT",
  "record": {
   "w": 194,
   "l": 190,
@@ -613,10 +613,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P1 06:14",
+       "detail": "P1 04:14",
        "start": "2026-11-18T00:00:00Z",
        "period": 1,
-       "clock": "06:14",
+       "clock": "04:14",
        "teams": [
         {
          "name": "Oilers",
@@ -795,10 +795,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "0:27 - 1st",
+       "detail": "Halftime",
        "start": "2026-11-18T00:00Z",
        "period": 1,
-       "clock": "0:27",
+       "clock": "0:00",
        "teams": [
         {
          "name": "Cal State Northridge Matadors",
@@ -815,7 +815,7 @@
          "name": "Troy Trojans",
          "short": "Trojans",
          "abbr": "TROY",
-         "score": 39,
+         "score": 41,
          "ha": "home",
          "winner": null,
          "linescores": [
