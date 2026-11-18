@@ -1,5 +1,5 @@
 {
- "updated": "Nov 17, 2026, 6:30 PM PT",
+ "updated": "Nov 17, 2026, 6:32 PM PT",
  "record": {
   "w": 195,
   "l": 190,
@@ -325,16 +325,16 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P3 02:10",
+       "detail": "P3 00:33",
        "start": "2026-11-18T00:00:00Z",
        "period": 3,
-       "clock": "02:10",
+       "clock": "00:33",
        "teams": [
         {
          "name": "Oilers",
          "short": "EDM",
          "abbr": "EDM",
-         "score": 4,
+         "score": 5,
          "ha": "away",
          "winner": null,
          "linescores": []
@@ -511,16 +511,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "9:02 - 2nd",
+       "detail": "7:52 - 2nd",
        "start": "2026-11-18T01:00Z",
        "period": 2,
-       "clock": "9:02",
+       "clock": "7:52",
        "teams": [
         {
          "name": "Maryland Eastern Shore Hawks",
          "short": "Hawks",
          "abbr": "UMES",
-         "score": 30,
+         "score": 35,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -532,7 +532,7 @@
          "name": "DePaul Blue Demons",
          "short": "Blue Demons",
          "abbr": "DEP",
-         "score": 62,
+         "score": 66,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -574,10 +574,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "11:59 - 1st",
+       "detail": "11:24 - 1st",
        "start": "2026-11-18T02:00Z",
        "period": 1,
-       "clock": "11:59",
+       "clock": "11:24",
        "teams": [
         {
          "name": "Michigan State Spartans",
@@ -636,10 +636,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "11:59 - 1st",
+       "detail": "11:24 - 1st",
        "start": "2026-11-18T02:00Z",
        "period": 1,
-       "clock": "11:59",
+       "clock": "11:24",
        "teams": [
         {
          "name": "Michigan State Spartans",
