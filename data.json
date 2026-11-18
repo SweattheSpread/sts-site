@@ -1,5 +1,5 @@
 {
- "updated": "Nov 17, 2026, 7:42 PM PT",
+ "updated": "Nov 17, 2026, 7:45 PM PT",
  "record": {
   "w": 195,
   "l": 190,
@@ -574,10 +574,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "11:19 - 2nd",
+       "detail": "10:43 - 2nd",
        "start": "2026-11-18T02:00Z",
        "period": 2,
-       "clock": "11:19",
+       "clock": "10:43",
        "teams": [
         {
          "name": "Michigan State Spartans",
@@ -638,10 +638,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "11:19 - 2nd",
+       "detail": "10:43 - 2nd",
        "start": "2026-11-18T02:00Z",
        "period": 2,
-       "clock": "11:19",
+       "clock": "10:43",
        "teams": [
         {
          "name": "Michigan State Spartans",
@@ -701,16 +701,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "1:47 - 1st",
+       "detail": "0:39 - 1st",
        "start": "2026-11-18T02:30Z",
        "period": 1,
-       "clock": "1:47",
+       "clock": "0:39",
        "teams": [
         {
          "name": "UNLV Rebels",
          "short": "Rebels",
          "abbr": "UNLV",
-         "score": 30,
+         "score": 35,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -721,7 +721,7 @@
          "name": "Kansas Jayhawks",
          "short": "Jayhawks",
          "abbr": "KU",
-         "score": 51,
+         "score": 53,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -763,16 +763,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "1:47 - 1st",
+       "detail": "0:39 - 1st",
        "start": "2026-11-18T02:30Z",
        "period": 1,
-       "clock": "1:47",
+       "clock": "0:39",
        "teams": [
         {
          "name": "UNLV Rebels",
          "short": "Rebels",
          "abbr": "UNLV",
-         "score": 30,
+         "score": 35,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -783,7 +783,7 @@
          "name": "Kansas Jayhawks",
          "short": "Jayhawks",
          "abbr": "KU",
-         "score": 51,
+         "score": 53,
          "ha": "home",
          "winner": null,
          "linescores": [
