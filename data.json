@@ -1,5 +1,5 @@
 {
- "updated": "Nov 17, 2026, 9:33 PM PT",
+ "updated": "Nov 17, 2026, 9:35 PM PT",
  "record": {
   "w": 195,
   "l": 190,
@@ -11,7 +11,7 @@
   "first": "2026-10-12",
   "last": "2026-11-17"
  },
- "pending": 11,
+ "pending": 12,
  "latest": [
   {
    "n": 840,
@@ -127,6 +127,55 @@
   }
  ],
  "picks": [
+  {
+   "n": 849,
+   "league": "Tennis",
+   "type": "Moneyline",
+   "matchup": "ATP Finals: Flavio Cobolli vs Frances Tiafoe",
+   "pick": "Frances Tiafoe ML",
+   "odds": -140,
+   "units": 2.0,
+   "gap": null,
+   "start": "2026-11-18T11:30:00",
+   "timed": true,
+   "ticket": "single",
+   "espn": {
+    "legs": [
+     {
+      "kind": "ml",
+      "side": "Frances Tiafoe",
+      "label": "Frances Tiafoe ML",
+      "path": "tennis/atp",
+      "event": "339-2026",
+      "comp": "187514",
+      "date": "20261118",
+      "opp": "Flavio Cobolli",
+      "snapshot": {
+       "source": "tennis-explorer",
+       "path": "tennis/explorer",
+       "event": "3377751",
+       "state": "in",
+       "detail": "Live",
+       "tennis": [
+        {
+         "name": "Cobolli F.",
+         "winner": false,
+         "sets": []
+        },
+        {
+         "name": "Tiafoe F.",
+         "winner": false,
+         "sets": []
+        }
+       ],
+       "tour": "Masters Cup ATP"
+      }
+     }
+    ],
+    "sport": "Tennis",
+    "ticket": "single"
+   }
+  },
   {
    "n": 831,
    "league": "NFL",

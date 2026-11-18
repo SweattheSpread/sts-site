@@ -1,5 +1,5 @@
 {
- "updated": "Nov 17, 2026, 9:33 PM PT",
+ "updated": "Nov 17, 2026, 9:35 PM PT",
  "record": {
   "w": 195,
   "l": 190,
@@ -11,7 +11,7 @@
   "first": "2026-10-12",
   "last": "2026-11-17"
  },
- "pending": 11,
+ "pending": 12,
  "plays": [
   {
    "n": 334,
@@ -6393,6 +6393,22 @@
    "pick": "Auburn +1.5",
    "odds": -115,
    "units": 1.0,
+   "result": null,
+   "pl": null,
+   "pending": true
+  },
+  {
+   "n": 849,
+   "date": "2026-11-18",
+   "day": "2026-11-18",
+   "league": "Tennis",
+   "market": "ml",
+   "market_label": "Moneyline",
+   "ticket": "single",
+   "matchup": "ATP Finals: Flavio Cobolli vs Frances Tiafoe",
+   "pick": "Frances Tiafoe ML",
+   "odds": -140,
+   "units": 2.0,
    "result": null,
    "pl": null,
    "pending": true
