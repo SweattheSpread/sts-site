@@ -1,5 +1,5 @@
 {
- "updated": "Nov 18, 2026, 11:15 AM PT",
+ "updated": "Nov 18, 2026, 1:21 PM PT",
  "record": {
   "w": 199,
   "l": 195,
@@ -127,55 +127,6 @@
   }
  ],
  "picks": [
-  {
-   "n": 849,
-   "league": "Tennis",
-   "type": "Moneyline",
-   "matchup": "ATP Finals: Flavio Cobolli vs Frances Tiafoe",
-   "pick": "Frances Tiafoe ML",
-   "odds": -140,
-   "units": 2.0,
-   "gap": null,
-   "start": "2026-11-18T11:30:00",
-   "timed": true,
-   "ticket": "single",
-   "espn": {
-    "legs": [
-     {
-      "kind": "ml",
-      "side": "Frances Tiafoe",
-      "label": "Frances Tiafoe ML",
-      "path": "tennis/atp",
-      "event": "339-2026",
-      "comp": "187514",
-      "date": "20261118",
-      "opp": "Flavio Cobolli",
-      "snapshot": {
-       "source": "tennis-explorer",
-       "path": "tennis/explorer",
-       "event": "3377751",
-       "state": "pre",
-       "detail": "Scheduled",
-       "tennis": [
-        {
-         "name": "Cobolli F.",
-         "winner": false,
-         "sets": []
-        },
-        {
-         "name": "Tiafoe F.",
-         "winner": false,
-         "sets": []
-        }
-       ],
-       "tour": "Masters Cup ATP"
-      }
-     }
-    ],
-    "sport": "Tennis",
-    "ticket": "single"
-   }
-  },
   {
    "n": 869,
    "league": "NCAAB",
@@ -1562,7 +1513,63 @@
    }
   }
  ],
- "awaiting": [],
+ "awaiting": [
+  {
+   "n": 849,
+   "league": "Tennis",
+   "type": "Moneyline",
+   "matchup": "ATP Finals: Flavio Cobolli vs Frances Tiafoe",
+   "pick": "Frances Tiafoe ML",
+   "odds": -140,
+   "units": 2.0,
+   "gap": null,
+   "start": "2026-11-18T11:30:00",
+   "timed": true,
+   "ticket": "single",
+   "espn": {
+    "legs": [
+     {
+      "kind": "ml",
+      "side": "Frances Tiafoe",
+      "label": "Frances Tiafoe ML",
+      "path": "tennis/atp",
+      "event": "339-2026",
+      "comp": "187514",
+      "date": "20261118",
+      "opp": "Flavio Cobolli",
+      "snapshot": {
+       "source": "tennis-explorer",
+       "path": "tennis/explorer",
+       "event": "3377751",
+       "state": "post",
+       "detail": "Final \u00b7 2-0 sets",
+       "tennis": [
+        {
+         "name": "Tiafoe F.",
+         "winner": true,
+         "sets": [
+          7,
+          6
+         ]
+        },
+        {
+         "name": "Cobolli F.",
+         "winner": false,
+         "sets": [
+          66,
+          0
+         ]
+        }
+       ],
+       "tour": "Masters Cup ATP"
+      }
+     }
+    ],
+    "sport": "Tennis",
+    "ticket": "single"
+   }
+  }
+ ],
  "daily": {
   "2026-10-12": {
    "u": 5.67,
