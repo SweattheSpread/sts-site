@@ -1,5 +1,5 @@
 {
- "updated": "Nov 17, 2026, 6:56 PM PT",
+ "updated": "Nov 17, 2026, 6:58 PM PT",
  "record": {
   "w": 195,
   "l": 190,
@@ -574,10 +574,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "3:22 - 1st",
+       "detail": "1:36 - 1st",
        "start": "2026-11-18T02:00Z",
        "period": 1,
-       "clock": "3:22",
+       "clock": "1:36",
        "teams": [
         {
          "name": "Michigan State Spartans",
@@ -594,7 +594,7 @@
          "name": "Tennessee Volunteers",
          "short": "Volunteers",
          "abbr": "TENN",
-         "score": 21,
+         "score": 25,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -636,10 +636,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "3:22 - 1st",
+       "detail": "1:36 - 1st",
        "start": "2026-11-18T02:00Z",
        "period": 1,
-       "clock": "3:22",
+       "clock": "1:36",
        "teams": [
         {
          "name": "Michigan State Spartans",
@@ -656,7 +656,7 @@
          "name": "Tennessee Volunteers",
          "short": "Volunteers",
          "abbr": "TENN",
-         "score": 21,
+         "score": 25,
          "ha": "home",
          "winner": null,
          "linescores": [
