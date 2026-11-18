@@ -1,5 +1,5 @@
 {
- "updated": "Nov 17, 2026, 6:05 PM PT",
+ "updated": "Nov 17, 2026, 6:07 PM PT",
  "record": {
   "w": 194,
   "l": 190,
@@ -440,10 +440,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P3 13:47",
+       "detail": "P3 12:42",
        "start": "2026-11-18T00:00:00Z",
        "period": 3,
-       "clock": "13:47",
+       "clock": "12:42",
        "teams": [
         {
          "name": "Oilers",
@@ -498,11 +498,11 @@
       "date": "20261117",
       "snapshot": {
        "source": "espn",
-       "state": "in",
-       "detail": "0:00 - 2nd",
+       "state": "post",
+       "detail": "Final",
        "start": "2026-11-18T00:00Z",
-       "period": 2,
-       "clock": "0:00",
+       "period": null,
+       "clock": null,
        "teams": [
         {
          "name": "Charlotte 49ers",
@@ -510,7 +510,7 @@
          "abbr": "CLT",
          "score": 73,
          "ha": "away",
-         "winner": null,
+         "winner": true,
          "linescores": [
           0,
           0
@@ -522,7 +522,7 @@
          "abbr": "DAV",
          "score": 66,
          "ha": "home",
-         "winner": null,
+         "winner": false,
          "linescores": [
           0,
           0
@@ -626,10 +626,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "1:23 - 2nd",
+       "detail": "0:35 - 2nd",
        "start": "2026-11-18T00:00Z",
        "period": 2,
-       "clock": "1:23",
+       "clock": "0:35",
        "teams": [
         {
          "name": "Cal State Northridge Matadors",
@@ -647,7 +647,7 @@
          "name": "Troy Trojans",
          "short": "Trojans",
          "abbr": "TROY",
-         "score": 75,
+         "score": 78,
          "ha": "home",
          "winner": null,
          "linescores": [
