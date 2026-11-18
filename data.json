@@ -1,5 +1,5 @@
 {
- "updated": "Nov 17, 2026, 4:15 PM PT",
+ "updated": "Nov 17, 2026, 4:17 PM PT",
  "record": {
   "w": 194,
   "l": 190,
@@ -613,10 +613,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P1 15:25",
+       "detail": "P1 14:04",
        "start": "2026-11-18T00:00:00Z",
        "period": 1,
-       "clock": "15:25",
+       "clock": "14:04",
        "teams": [
         {
          "name": "Oilers",
@@ -672,16 +672,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "13:54 - 1st",
+       "detail": "13:11 - 1st",
        "start": "2026-11-18T00:00Z",
        "period": 1,
-       "clock": "13:54",
+       "clock": "13:11",
        "teams": [
         {
          "name": "Charlotte 49ers",
          "short": "49ers",
          "abbr": "CLT",
-         "score": 8,
+         "score": 10,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -734,16 +734,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "14:20 - 1st",
+       "detail": "13:07 - 1st",
        "start": "2026-11-18T00:00Z",
        "period": 1,
-       "clock": "14:20",
+       "clock": "13:07",
        "teams": [
         {
          "name": "Villanova Wildcats",
          "short": "Wildcats",
          "abbr": "VILL",
-         "score": 6,
+         "score": 8,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -754,7 +754,7 @@
          "name": "Pittsburgh Panthers",
          "short": "Panthers",
          "abbr": "PITT",
-         "score": 9,
+         "score": 13,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -795,10 +795,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "13:44 - 1st",
+       "detail": "12:46 - 1st",
        "start": "2026-11-18T00:00Z",
        "period": 1,
-       "clock": "13:44",
+       "clock": "12:46",
        "teams": [
         {
          "name": "Cal State Northridge Matadors",
