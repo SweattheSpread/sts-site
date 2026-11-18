@@ -1,5 +1,5 @@
 {
- "updated": "Nov 17, 2026, 7:36 PM PT",
+ "updated": "Nov 17, 2026, 7:38 PM PT",
  "record": {
   "w": 195,
   "l": 190,
@@ -146,7 +146,38 @@
       "side": "Auburn",
       "line": 1.5,
       "label": "Auburn +1.5",
-      "unverified": true
+      "path": "basketball/mens-college-basketball",
+      "event": "401920512",
+      "date": "20261117",
+      "snapshot": {
+       "source": "espn",
+       "state": "pre",
+       "detail": "11/17 - 11:59 PM EST",
+       "start": "2026-11-18T04:59Z",
+       "period": null,
+       "clock": null,
+       "teams": [
+        {
+         "name": "West Virginia Mountaineers",
+         "short": "Mountaineers",
+         "abbr": "WVU",
+         "score": 0,
+         "ha": "away",
+         "winner": null,
+         "linescores": []
+        },
+        {
+         "name": "Auburn Tigers",
+         "short": "Tigers",
+         "abbr": "AUB",
+         "score": 0,
+         "ha": "home",
+         "winner": null,
+         "linescores": []
+        }
+       ]
+      },
+      "source": "espn"
      }
     ],
     "sport": "NCAAB",
@@ -347,34 +378,44 @@
       "ou": "U",
       "line": 148.5,
       "label": "U 148.5",
-      "unverified": true,
+      "path": "basketball/mens-college-basketball",
+      "event": "401909708",
+      "date": "20261117",
       "snapshot": {
-       "source": "odds-api",
+       "source": "espn",
        "state": "post",
        "detail": "Final",
-       "start": "2026-11-18T00:00:00Z",
+       "start": "2026-11-18T00:00Z",
+       "period": null,
+       "clock": null,
        "teams": [
         {
          "name": "Villanova Wildcats",
-         "short": "Villanova Wildcats",
-         "abbr": "",
+         "short": "Wildcats",
+         "abbr": "VILL",
          "score": 61,
          "ha": "away",
          "winner": false,
-         "linescores": []
+         "linescores": [
+          0,
+          0
+         ]
         },
         {
          "name": "Pittsburgh Panthers",
-         "short": "Pittsburgh Panthers",
-         "abbr": "",
+         "short": "Panthers",
+         "abbr": "PITT",
          "score": 81,
          "ha": "home",
          "winner": true,
-         "linescores": []
+         "linescores": [
+          0,
+          0
+         ]
         }
        ]
       },
-      "source": "odds-api"
+      "source": "espn"
      }
     ],
     "sport": "NCAAB",
@@ -400,34 +441,44 @@
       "side": "Troy",
       "line": -1.5,
       "label": "Troy -1.5",
-      "unverified": true,
+      "path": "basketball/mens-college-basketball",
+      "event": "401920297",
+      "date": "20261117",
       "snapshot": {
-       "source": "odds-api",
+       "source": "espn",
        "state": "post",
        "detail": "Final",
-       "start": "2026-11-18T00:02:46Z",
+       "start": "2026-11-18T00:00Z",
+       "period": null,
+       "clock": null,
        "teams": [
         {
-         "name": "CSU Northridge Matadors",
-         "short": "CSU Northridge Matadors",
-         "abbr": "",
+         "name": "Cal State Northridge Matadors",
+         "short": "Matadors",
+         "abbr": "CSUN",
          "score": 74,
          "ha": "away",
          "winner": false,
-         "linescores": []
+         "linescores": [
+          0,
+          0
+         ]
         },
         {
          "name": "Troy Trojans",
-         "short": "Troy Trojans",
-         "abbr": "",
+         "short": "Trojans",
+         "abbr": "TROY",
          "score": 84,
          "ha": "home",
          "winner": true,
-         "linescores": []
+         "linescores": [
+          0,
+          0
+         ]
         }
        ]
       },
-      "source": "odds-api"
+      "source": "espn"
      }
     ],
     "sport": "NCAAB",
@@ -454,34 +505,44 @@
       "ou": "O",
       "line": 125.5,
       "label": "O 125.5",
-      "unverified": true,
+      "path": "basketball/mens-college-basketball",
+      "event": "401909504",
+      "date": "20261117",
       "snapshot": {
-       "source": "odds-api",
+       "source": "espn",
        "state": "post",
        "detail": "Final",
-       "start": "2026-11-18T01:00:00Z",
+       "start": "2026-11-18T01:00Z",
+       "period": null,
+       "clock": null,
        "teams": [
         {
-         "name": "Maryland-Eastern Shore Hawks",
-         "short": "Maryland-Eastern Shore Hawks",
-         "abbr": "",
+         "name": "Maryland Eastern Shore Hawks",
+         "short": "Hawks",
+         "abbr": "UMES",
          "score": 39,
          "ha": "away",
          "winner": false,
-         "linescores": []
+         "linescores": [
+          0,
+          0
+         ]
         },
         {
          "name": "DePaul Blue Demons",
-         "short": "DePaul Blue Demons",
-         "abbr": "",
+         "short": "Blue Demons",
+         "abbr": "DEP",
          "score": 83,
          "ha": "home",
          "winner": true,
-         "linescores": []
+         "linescores": [
+          0,
+          0
+         ]
         }
        ]
       },
-      "source": "odds-api"
+      "source": "espn"
      }
     ],
     "sport": "NCAAB",
@@ -507,34 +568,44 @@
       "side": "Tennessee",
       "line": 3.0,
       "label": "Tennessee +3",
-      "unverified": true,
+      "path": "basketball/mens-college-basketball",
+      "event": "401906851",
+      "date": "20261117",
       "snapshot": {
-       "source": "odds-api",
+       "source": "espn",
        "state": "in",
-       "detail": "Live",
-       "start": "2026-11-18T02:00:00Z",
+       "detail": "13:13 - 2nd",
+       "start": "2026-11-18T02:00Z",
+       "period": 2,
+       "clock": "13:13",
        "teams": [
         {
-         "name": "Michigan St Spartans",
-         "short": "Michigan St Spartans",
-         "abbr": "",
+         "name": "Michigan State Spartans",
+         "short": "Spartans",
+         "abbr": "MSU",
          "score": 29,
          "ha": "away",
          "winner": null,
-         "linescores": []
+         "linescores": [
+          0,
+          0
+         ]
         },
         {
          "name": "Tennessee Volunteers",
-         "short": "Tennessee Volunteers",
-         "abbr": "",
+         "short": "Volunteers",
+         "abbr": "TENN",
          "score": 41,
          "ha": "home",
          "winner": null,
-         "linescores": []
+         "linescores": [
+          0,
+          0
+         ]
         }
        ]
       },
-      "source": "odds-api"
+      "source": "espn"
      }
     ],
     "sport": "NCAAB",
@@ -561,34 +632,44 @@
       "ou": "U",
       "line": 150.5,
       "label": "U 150.5",
-      "unverified": true,
+      "path": "basketball/mens-college-basketball",
+      "event": "401906851",
+      "date": "20261117",
       "snapshot": {
-       "source": "odds-api",
+       "source": "espn",
        "state": "in",
-       "detail": "Live",
-       "start": "2026-11-18T02:00:00Z",
+       "detail": "13:13 - 2nd",
+       "start": "2026-11-18T02:00Z",
+       "period": 2,
+       "clock": "13:13",
        "teams": [
         {
-         "name": "Michigan St Spartans",
-         "short": "Michigan St Spartans",
-         "abbr": "",
+         "name": "Michigan State Spartans",
+         "short": "Spartans",
+         "abbr": "MSU",
          "score": 29,
          "ha": "away",
          "winner": null,
-         "linescores": []
+         "linescores": [
+          0,
+          0
+         ]
         },
         {
          "name": "Tennessee Volunteers",
-         "short": "Tennessee Volunteers",
-         "abbr": "",
+         "short": "Volunteers",
+         "abbr": "TENN",
          "score": 41,
          "ha": "home",
          "winner": null,
-         "linescores": []
+         "linescores": [
+          0,
+          0
+         ]
         }
        ]
       },
-      "source": "odds-api"
+      "source": "espn"
      }
     ],
     "sport": "NCAAB",
@@ -614,34 +695,42 @@
       "side": "UNLV",
       "line": 17.0,
       "label": "UNLV +17",
-      "unverified": true,
+      "path": "basketball/mens-college-basketball",
+      "event": "401909787",
+      "date": "20261117",
       "snapshot": {
-       "source": "odds-api",
+       "source": "espn",
        "state": "in",
-       "detail": "Live",
-       "start": "2026-11-18T02:30:00Z",
+       "detail": "3:59 - 1st",
+       "start": "2026-11-18T02:30Z",
+       "period": 1,
+       "clock": "3:59",
        "teams": [
         {
          "name": "UNLV Rebels",
-         "short": "UNLV Rebels",
-         "abbr": "",
+         "short": "Rebels",
+         "abbr": "UNLV",
          "score": 28,
          "ha": "away",
          "winner": null,
-         "linescores": []
+         "linescores": [
+          0
+         ]
         },
         {
          "name": "Kansas Jayhawks",
-         "short": "Kansas Jayhawks",
-         "abbr": "",
+         "short": "Jayhawks",
+         "abbr": "KU",
          "score": 49,
          "ha": "home",
          "winner": null,
-         "linescores": []
+         "linescores": [
+          0
+         ]
         }
        ]
       },
-      "source": "odds-api"
+      "source": "espn"
      }
     ],
     "sport": "NCAAB",
@@ -668,34 +757,42 @@
       "ou": "U",
       "line": 158.0,
       "label": "U 158.0",
-      "unverified": true,
+      "path": "basketball/mens-college-basketball",
+      "event": "401909787",
+      "date": "20261117",
       "snapshot": {
-       "source": "odds-api",
+       "source": "espn",
        "state": "in",
-       "detail": "Live",
-       "start": "2026-11-18T02:30:00Z",
+       "detail": "3:59 - 1st",
+       "start": "2026-11-18T02:30Z",
+       "period": 1,
+       "clock": "3:59",
        "teams": [
         {
          "name": "UNLV Rebels",
-         "short": "UNLV Rebels",
-         "abbr": "",
+         "short": "Rebels",
+         "abbr": "UNLV",
          "score": 28,
          "ha": "away",
          "winner": null,
-         "linescores": []
+         "linescores": [
+          0
+         ]
         },
         {
          "name": "Kansas Jayhawks",
-         "short": "Kansas Jayhawks",
-         "abbr": "",
+         "short": "Jayhawks",
+         "abbr": "KU",
          "score": 49,
          "ha": "home",
          "winner": null,
-         "linescores": []
+         "linescores": [
+          0
+         ]
         }
        ]
       },
-      "source": "odds-api"
+      "source": "espn"
      }
     ],
     "sport": "NCAAB",
