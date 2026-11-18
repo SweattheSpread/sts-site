@@ -1,5 +1,5 @@
 {
- "updated": "Nov 17, 2026, 10:09 PM PT",
+ "updated": "Nov 17, 2026, 10:11 PM PT",
  "record": {
   "w": 195,
   "l": 190,
@@ -820,16 +820,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "2:42 - 1st",
+       "detail": "1:49 - 1st",
        "start": "2026-11-18T04:59Z",
        "period": 1,
-       "clock": "2:42",
+       "clock": "1:49",
        "teams": [
         {
          "name": "West Virginia Mountaineers",
          "short": "Mountaineers",
          "abbr": "WVU",
-         "score": 30,
+         "score": 33,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -840,7 +840,7 @@
          "name": "Auburn Tigers",
          "short": "Tigers",
          "abbr": "AUB",
-         "score": 25,
+         "score": 26,
          "ha": "home",
          "winner": null,
          "linescores": [
