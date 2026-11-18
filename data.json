@@ -1,5 +1,5 @@
 {
- "updated": "Nov 17, 2026, 6:17 PM PT",
+ "updated": "Nov 17, 2026, 6:19 PM PT",
  "record": {
   "w": 195,
   "l": 190,
@@ -440,10 +440,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P3 07:45",
+       "detail": "P3 06:09",
        "start": "2026-11-18T00:00:00Z",
        "period": 3,
-       "clock": "07:45",
+       "clock": "06:09",
        "teams": [
         {
          "name": "Oilers",
@@ -626,16 +626,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "14:33 - 2nd",
+       "detail": "13:02 - 2nd",
        "start": "2026-11-18T01:00Z",
        "period": 2,
-       "clock": "14:33",
+       "clock": "13:02",
        "teams": [
         {
          "name": "Maryland Eastern Shore Hawks",
          "short": "Hawks",
          "abbr": "UMES",
-         "score": 18,
+         "score": 22,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -647,7 +647,7 @@
          "name": "DePaul Blue Demons",
          "short": "Blue Demons",
          "abbr": "DEP",
-         "score": 46,
+         "score": 53,
          "ha": "home",
          "winner": null,
          "linescores": [
