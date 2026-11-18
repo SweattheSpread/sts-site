@@ -1,5 +1,5 @@
 {
- "updated": "Nov 17, 2026, 6:36 PM PT",
+ "updated": "Nov 17, 2026, 6:38 PM PT",
  "record": {
   "w": 195,
   "l": 190,
@@ -324,8 +324,8 @@
       "date": "20261117",
       "snapshot": {
        "source": "nhl",
-       "state": "in",
-       "detail": "OVER",
+       "state": "post",
+       "detail": "Final",
        "start": "2026-11-18T00:00:00Z",
        "period": 3,
        "clock": "00:00",
@@ -336,7 +336,7 @@
          "abbr": "EDM",
          "score": 5,
          "ha": "away",
-         "winner": null,
+         "winner": true,
          "linescores": []
         },
         {
@@ -345,7 +345,7 @@
          "abbr": "FLA",
          "score": 2,
          "ha": "home",
-         "winner": null,
+         "winner": false,
          "linescores": []
         }
        ],
@@ -511,10 +511,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "6:20 - 2nd",
+       "detail": "5:47 - 2nd",
        "start": "2026-11-18T01:00Z",
        "period": 2,
-       "clock": "6:20",
+       "clock": "5:47",
        "teams": [
         {
          "name": "Maryland Eastern Shore Hawks",
@@ -532,7 +532,7 @@
          "name": "DePaul Blue Demons",
          "short": "Blue Demons",
          "abbr": "DEP",
-         "score": 70,
+         "score": 71,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -574,10 +574,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "9:27 - 1st",
+       "detail": "8:06 - 1st",
        "start": "2026-11-18T02:00Z",
        "period": 1,
-       "clock": "9:27",
+       "clock": "8:06",
        "teams": [
         {
          "name": "Michigan State Spartans",
@@ -594,7 +594,7 @@
          "name": "Tennessee Volunteers",
          "short": "Volunteers",
          "abbr": "TENN",
-         "score": 9,
+         "score": 14,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -636,10 +636,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "9:27 - 1st",
+       "detail": "8:06 - 1st",
        "start": "2026-11-18T02:00Z",
        "period": 1,
-       "clock": "9:27",
+       "clock": "8:06",
        "teams": [
         {
          "name": "Michigan State Spartans",
@@ -656,7 +656,7 @@
          "name": "Tennessee Volunteers",
          "short": "Volunteers",
          "abbr": "TENN",
-         "score": 9,
+         "score": 14,
          "ha": "home",
          "winner": null,
          "linescores": [
