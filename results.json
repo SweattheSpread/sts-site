@@ -1,5 +1,5 @@
 {
- "updated": "Nov 18, 2026, 9:02 AM PT",
+ "updated": "Nov 18, 2026, 9:39 AM PT",
  "record": {
   "w": 199,
   "l": 195,
@@ -11,7 +11,7 @@
   "first": "2026-10-12",
   "last": "2026-11-17"
  },
- "pending": 22,
+ "pending": 25,
  "plays": [
   {
    "n": 334,
@@ -6473,6 +6473,54 @@
    "pick": "Under 171.5",
    "odds": -110,
    "units": 3.0,
+   "result": null,
+   "pl": null,
+   "pending": true
+  },
+  {
+   "n": 869,
+   "date": "2026-11-18",
+   "day": "2026-11-18",
+   "league": "NCAAB",
+   "market": "spread",
+   "market_label": "Spread",
+   "ticket": "single",
+   "matchup": "UNC Wilmington Seahawks @ LIU Sharks",
+   "pick": "LIU +9.5",
+   "odds": -110,
+   "units": 1.0,
+   "result": null,
+   "pl": null,
+   "pending": true
+  },
+  {
+   "n": 870,
+   "date": "2026-11-18",
+   "day": "2026-11-18",
+   "league": "NCAAB",
+   "market": "total",
+   "market_label": "Total",
+   "ticket": "single",
+   "matchup": "UNC Wilmington Seahawks @ LIU Sharks",
+   "pick": "Under 147.5",
+   "odds": -110,
+   "units": 1.0,
+   "result": null,
+   "pl": null,
+   "pending": true
+  },
+  {
+   "n": 871,
+   "date": "2026-11-18",
+   "day": "2026-11-18",
+   "league": "NCAAB",
+   "market": "total",
+   "market_label": "Total",
+   "ticket": "single",
+   "matchup": "Purdue Fort Wayne Mastodons @ Bradley Braves",
+   "pick": "Over 135.5",
+   "odds": -110,
+   "units": 1.0,
    "result": null,
    "pl": null,
    "pending": true

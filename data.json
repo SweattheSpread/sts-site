@@ -1,5 +1,5 @@
 {
- "updated": "Nov 18, 2026, 9:02 AM PT",
+ "updated": "Nov 18, 2026, 9:39 AM PT",
  "record": {
   "w": 199,
   "l": 195,
@@ -11,7 +11,7 @@
   "first": "2026-10-12",
   "last": "2026-11-17"
  },
- "pending": 22,
+ "pending": 25,
  "latest": [
   {
    "n": 848,
@@ -177,6 +177,121 @@
    }
   },
   {
+   "n": 869,
+   "league": "NCAAB",
+   "type": "Spread",
+   "matchup": "UNC Wilmington Seahawks @ LIU Sharks",
+   "pick": "LIU +9.5",
+   "odds": -110,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-18T16:00:00",
+   "timed": true,
+   "ticket": "single",
+   "espn": {
+    "legs": [
+     {
+      "kind": "spread",
+      "side": "LIU",
+      "line": 9.5,
+      "label": "LIU +9.5",
+      "path": "basketball/mens-college-basketball",
+      "event": "401919808",
+      "date": "20261118",
+      "snapshot": {
+       "source": "espn",
+       "state": "pre",
+       "detail": "11/18 - 7:00 PM EST",
+       "start": "2026-11-19T00:00Z",
+       "period": null,
+       "clock": null,
+       "teams": [
+        {
+         "name": "UNC Wilmington Seahawks",
+         "short": "Seahawks",
+         "abbr": "UNCW",
+         "score": 0,
+         "ha": "away",
+         "winner": null,
+         "linescores": []
+        },
+        {
+         "name": "Long Island University Sharks",
+         "short": "Sharks",
+         "abbr": "LIU",
+         "score": 0,
+         "ha": "home",
+         "winner": null,
+         "linescores": []
+        }
+       ]
+      },
+      "source": "espn"
+     }
+    ],
+    "sport": "NCAAB",
+    "ticket": "single"
+   }
+  },
+  {
+   "n": 870,
+   "league": "NCAAB",
+   "type": "Over/Under",
+   "matchup": "UNC Wilmington Seahawks @ LIU Sharks",
+   "pick": "Under 147.5",
+   "odds": -110,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-18T16:00:00",
+   "timed": true,
+   "ticket": "single",
+   "espn": {
+    "legs": [
+     {
+      "kind": "total",
+      "side": null,
+      "ou": "U",
+      "line": 147.5,
+      "label": "U 147.5",
+      "path": "basketball/mens-college-basketball",
+      "event": "401919808",
+      "date": "20261118",
+      "snapshot": {
+       "source": "espn",
+       "state": "pre",
+       "detail": "11/18 - 7:00 PM EST",
+       "start": "2026-11-19T00:00Z",
+       "period": null,
+       "clock": null,
+       "teams": [
+        {
+         "name": "UNC Wilmington Seahawks",
+         "short": "Seahawks",
+         "abbr": "UNCW",
+         "score": 0,
+         "ha": "away",
+         "winner": null,
+         "linescores": []
+        },
+        {
+         "name": "Long Island University Sharks",
+         "short": "Sharks",
+         "abbr": "LIU",
+         "score": 0,
+         "ha": "home",
+         "winner": null,
+         "linescores": []
+        }
+       ]
+      },
+      "source": "espn"
+     }
+    ],
+    "sport": "NCAAB",
+    "ticket": "single"
+   }
+  },
+  {
    "n": 867,
    "league": "NHL",
    "type": "Moneyline",
@@ -230,6 +345,64 @@
      }
     ],
     "sport": "NHL",
+    "ticket": "single"
+   }
+  },
+  {
+   "n": 871,
+   "league": "NCAAB",
+   "type": "Over/Under",
+   "matchup": "Purdue Fort Wayne Mastodons @ Bradley Braves",
+   "pick": "Over 135.5",
+   "odds": -110,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-18T17:00:00",
+   "timed": true,
+   "ticket": "single",
+   "espn": {
+    "legs": [
+     {
+      "kind": "total",
+      "side": null,
+      "ou": "O",
+      "line": 135.5,
+      "label": "O 135.5",
+      "path": "basketball/mens-college-basketball",
+      "event": "401927357",
+      "date": "20261118",
+      "snapshot": {
+       "source": "espn",
+       "state": "pre",
+       "detail": "11/18 - 8:00 PM EST",
+       "start": "2026-11-19T01:00Z",
+       "period": null,
+       "clock": null,
+       "teams": [
+        {
+         "name": "Purdue Fort Wayne Mastodons",
+         "short": "Mastodons",
+         "abbr": "PFW",
+         "score": 0,
+         "ha": "away",
+         "winner": null,
+         "linescores": []
+        },
+        {
+         "name": "Bradley Braves",
+         "short": "Braves",
+         "abbr": "BRAD",
+         "score": 0,
+         "ha": "home",
+         "winner": null,
+         "linescores": []
+        }
+       ]
+      },
+      "source": "espn"
+     }
+    ],
+    "sport": "NCAAB",
     "ticket": "single"
    }
   },
