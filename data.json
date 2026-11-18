@@ -1,5 +1,5 @@
 {
- "updated": "Nov 18, 2026, 7:44 AM PT",
+ "updated": "Nov 18, 2026, 7:48 AM PT",
  "record": {
   "w": 199,
   "l": 195,
@@ -11,7 +11,7 @@
   "first": "2026-10-12",
   "last": "2026-11-17"
  },
- "pending": 13,
+ "pending": 21,
  "latest": [
   {
    "n": 848,
@@ -173,6 +173,63 @@
      }
     ],
     "sport": "Tennis",
+    "ticket": "single"
+   }
+  },
+  {
+   "n": 867,
+   "league": "NHL",
+   "type": "Moneyline",
+   "matchup": "Boston Bruins @ Detroit Red Wings",
+   "pick": "Detroit Red Wings ML",
+   "odds": -109,
+   "units": 0.5,
+   "gap": null,
+   "start": "2026-11-18T16:40:00",
+   "timed": true,
+   "ticket": "single",
+   "espn": {
+    "legs": [
+     {
+      "kind": "ml",
+      "side": "Detroit Red Wings",
+      "label": "Detroit Red Wings ML",
+      "path": "hockey/nhl",
+      "event": "401892739",
+      "date": "20261118",
+      "snapshot": {
+       "source": "nhl",
+       "state": "pre",
+       "detail": "Scheduled",
+       "start": "2026-11-19T00:30:00Z",
+       "period": null,
+       "clock": null,
+       "teams": [
+        {
+         "name": "Bruins",
+         "short": "BOS",
+         "abbr": "BOS",
+         "score": 0,
+         "ha": "away",
+         "winner": null,
+         "linescores": []
+        },
+        {
+         "name": "Red Wings",
+         "short": "DET",
+         "abbr": "DET",
+         "score": 0,
+         "ha": "home",
+         "winner": null,
+         "linescores": []
+        }
+       ],
+       "nhl_id": 2026020344
+      },
+      "source": "nhl"
+     }
+    ],
+    "sport": "NHL",
     "ticket": "single"
    }
   },
@@ -583,6 +640,296 @@
    }
   },
   {
+   "n": 860,
+   "league": "NFL",
+   "type": "Over/Under",
+   "matchup": "Miami Dolphins @ Buffalo Bills",
+   "pick": "Over 45",
+   "odds": -112,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-22T10:00:00",
+   "timed": true,
+   "ticket": "single",
+   "espn": {
+    "legs": [
+     {
+      "kind": "total",
+      "side": null,
+      "ou": "O",
+      "line": 45.0,
+      "label": "O 45.0",
+      "path": "football/nfl",
+      "event": "401873070",
+      "date": "20261122",
+      "snapshot": {
+       "source": "espn",
+       "state": "pre",
+       "detail": "11/22 - 1:00 PM EST",
+       "start": "2026-11-22T18:00Z",
+       "period": null,
+       "clock": null,
+       "teams": [
+        {
+         "name": "Miami Dolphins",
+         "short": "Dolphins",
+         "abbr": "MIA",
+         "score": 0,
+         "ha": "away",
+         "winner": null,
+         "linescores": []
+        },
+        {
+         "name": "Buffalo Bills",
+         "short": "Bills",
+         "abbr": "BUF",
+         "score": 0,
+         "ha": "home",
+         "winner": null,
+         "linescores": []
+        }
+       ]
+      },
+      "source": "espn"
+     }
+    ],
+    "sport": "NFL",
+    "ticket": "single"
+   }
+  },
+  {
+   "n": 862,
+   "league": "NFL",
+   "type": "Over/Under",
+   "matchup": "Arizona Cardinals @ Kansas City Chiefs",
+   "pick": "Over 41",
+   "odds": -110,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-22T10:00:00",
+   "timed": true,
+   "ticket": "single",
+   "espn": {
+    "legs": [
+     {
+      "kind": "total",
+      "side": null,
+      "ou": "O",
+      "line": 41.0,
+      "label": "O 41.0",
+      "path": "football/nfl",
+      "event": "401873067",
+      "date": "20261122",
+      "snapshot": {
+       "source": "espn",
+       "state": "pre",
+       "detail": "11/22 - 1:00 PM EST",
+       "start": "2026-11-22T18:00Z",
+       "period": null,
+       "clock": null,
+       "teams": [
+        {
+         "name": "Arizona Cardinals",
+         "short": "Cardinals",
+         "abbr": "ARI",
+         "score": 0,
+         "ha": "away",
+         "winner": null,
+         "linescores": []
+        },
+        {
+         "name": "Kansas City Chiefs",
+         "short": "Chiefs",
+         "abbr": "KC",
+         "score": 0,
+         "ha": "home",
+         "winner": null,
+         "linescores": []
+        }
+       ]
+      },
+      "source": "espn"
+     }
+    ],
+    "sport": "NFL",
+    "ticket": "single"
+   }
+  },
+  {
+   "n": 865,
+   "league": "NFL",
+   "type": "Over/Under",
+   "matchup": "New Orleans Saints @ Chicago Bears",
+   "pick": "Over 48.5",
+   "odds": -114,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-22T10:00:00",
+   "timed": true,
+   "ticket": "single",
+   "espn": {
+    "legs": [
+     {
+      "kind": "total",
+      "side": null,
+      "ou": "O",
+      "line": 48.5,
+      "label": "O 48.5",
+      "path": "football/nfl",
+      "event": "401873071",
+      "date": "20261122",
+      "snapshot": {
+       "source": "espn",
+       "state": "pre",
+       "detail": "11/22 - 1:00 PM EST",
+       "start": "2026-11-22T18:00Z",
+       "period": null,
+       "clock": null,
+       "teams": [
+        {
+         "name": "New Orleans Saints",
+         "short": "Saints",
+         "abbr": "NO",
+         "score": 0,
+         "ha": "away",
+         "winner": null,
+         "linescores": []
+        },
+        {
+         "name": "Chicago Bears",
+         "short": "Bears",
+         "abbr": "CHI",
+         "score": 0,
+         "ha": "home",
+         "winner": null,
+         "linescores": []
+        }
+       ]
+      },
+      "source": "espn"
+     }
+    ],
+    "sport": "NFL",
+    "ticket": "single"
+   }
+  },
+  {
+   "n": 866,
+   "league": "NFL",
+   "type": "Over/Under",
+   "matchup": "Tampa Bay Buccaneers @ Detroit Lions",
+   "pick": "Over 44",
+   "odds": -108,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-22T10:00:00",
+   "timed": true,
+   "ticket": "single",
+   "espn": {
+    "legs": [
+     {
+      "kind": "total",
+      "side": null,
+      "ou": "O",
+      "line": 44.0,
+      "label": "O 44.0",
+      "path": "football/nfl",
+      "event": "401873072",
+      "date": "20261122",
+      "snapshot": {
+       "source": "espn",
+       "state": "pre",
+       "detail": "11/22 - 1:00 PM EST",
+       "start": "2026-11-22T18:00Z",
+       "period": null,
+       "clock": null,
+       "teams": [
+        {
+         "name": "Tampa Bay Buccaneers",
+         "short": "Buccaneers",
+         "abbr": "TB",
+         "score": 0,
+         "ha": "away",
+         "winner": null,
+         "linescores": []
+        },
+        {
+         "name": "Detroit Lions",
+         "short": "Lions",
+         "abbr": "DET",
+         "score": 0,
+         "ha": "home",
+         "winner": null,
+         "linescores": []
+        }
+       ]
+      },
+      "source": "espn"
+     }
+    ],
+    "sport": "NFL",
+    "ticket": "single"
+   }
+  },
+  {
+   "n": 861,
+   "league": "NFL",
+   "type": "Over/Under",
+   "matchup": "New York Jets @ Los Angeles Chargers",
+   "pick": "Over 41.5",
+   "odds": -108,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-22T13:05:00",
+   "timed": true,
+   "ticket": "single",
+   "espn": {
+    "legs": [
+     {
+      "kind": "total",
+      "side": null,
+      "ou": "O",
+      "line": 41.5,
+      "label": "O 41.5",
+      "path": "football/nfl",
+      "event": "401873074",
+      "date": "20261122",
+      "snapshot": {
+       "source": "espn",
+       "state": "pre",
+       "detail": "11/22 - 4:05 PM EST",
+       "start": "2026-11-22T21:05Z",
+       "period": null,
+       "clock": null,
+       "teams": [
+        {
+         "name": "New York Jets",
+         "short": "Jets",
+         "abbr": "NYJ",
+         "score": 0,
+         "ha": "away",
+         "winner": null,
+         "linescores": []
+        },
+        {
+         "name": "Los Angeles Chargers",
+         "short": "Chargers",
+         "abbr": "LAC",
+         "score": 0,
+         "ha": "home",
+         "winner": null,
+         "linescores": []
+        }
+       ]
+      },
+      "source": "espn"
+     }
+    ],
+    "sport": "NFL",
+    "ticket": "single"
+   }
+  },
+  {
    "n": 856,
    "league": "NFL",
    "type": "Spread",
@@ -625,6 +972,122 @@
          "name": "Denver Broncos",
          "short": "Broncos",
          "abbr": "DEN",
+         "score": 0,
+         "ha": "home",
+         "winner": null,
+         "linescores": []
+        }
+       ]
+      },
+      "source": "espn"
+     }
+    ],
+    "sport": "NFL",
+    "ticket": "single"
+   }
+  },
+  {
+   "n": 863,
+   "league": "NFL",
+   "type": "Over/Under",
+   "matchup": "Las Vegas Raiders @ Denver Broncos",
+   "pick": "Over 40.5",
+   "odds": -106,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-22T13:25:00",
+   "timed": true,
+   "ticket": "single",
+   "espn": {
+    "legs": [
+     {
+      "kind": "total",
+      "side": null,
+      "ou": "O",
+      "line": 40.5,
+      "label": "O 40.5",
+      "path": "football/nfl",
+      "event": "401873075",
+      "date": "20261122",
+      "snapshot": {
+       "source": "espn",
+       "state": "pre",
+       "detail": "11/22 - 4:25 PM EST",
+       "start": "2026-11-22T21:25Z",
+       "period": null,
+       "clock": null,
+       "teams": [
+        {
+         "name": "Las Vegas Raiders",
+         "short": "Raiders",
+         "abbr": "LV",
+         "score": 0,
+         "ha": "away",
+         "winner": null,
+         "linescores": []
+        },
+        {
+         "name": "Denver Broncos",
+         "short": "Broncos",
+         "abbr": "DEN",
+         "score": 0,
+         "ha": "home",
+         "winner": null,
+         "linescores": []
+        }
+       ]
+      },
+      "source": "espn"
+     }
+    ],
+    "sport": "NFL",
+    "ticket": "single"
+   }
+  },
+  {
+   "n": 864,
+   "league": "NFL",
+   "type": "Over/Under",
+   "matchup": "Jacksonville Jaguars @ New York Giants",
+   "pick": "Over 46.5",
+   "odds": -110,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-22T13:25:00",
+   "timed": true,
+   "ticket": "single",
+   "espn": {
+    "legs": [
+     {
+      "kind": "total",
+      "side": null,
+      "ou": "O",
+      "line": 46.5,
+      "label": "O 46.5",
+      "path": "football/nfl",
+      "event": "401873069",
+      "date": "20261122",
+      "snapshot": {
+       "source": "espn",
+       "state": "pre",
+       "detail": "11/22 - 4:25 PM EST",
+       "start": "2026-11-22T21:25Z",
+       "period": null,
+       "clock": null,
+       "teams": [
+        {
+         "name": "Jacksonville Jaguars",
+         "short": "Jaguars",
+         "abbr": "JAX",
+         "score": 0,
+         "ha": "away",
+         "winner": null,
+         "linescores": []
+        },
+        {
+         "name": "New York Giants",
+         "short": "Giants",
+         "abbr": "NYG",
          "score": 0,
          "ha": "home",
          "winner": null,
