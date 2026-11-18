@@ -1,5 +1,5 @@
 {
- "updated": "Nov 17, 2026, 10:32 PM PT",
+ "updated": "Nov 17, 2026, 10:34 PM PT",
  "record": {
   "w": 195,
   "l": 190,
@@ -820,16 +820,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "18:04 - 2nd",
+       "detail": "17:39 - 2nd",
        "start": "2026-11-18T04:59Z",
        "period": 2,
-       "clock": "18:04",
+       "clock": "17:39",
        "teams": [
         {
          "name": "West Virginia Mountaineers",
          "short": "Mountaineers",
          "abbr": "WVU",
-         "score": 40,
+         "score": 42,
          "ha": "away",
          "winner": null,
          "linescores": [
