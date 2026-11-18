@@ -1,5 +1,5 @@
 {
- "updated": "Nov 17, 2026, 6:15 PM PT",
+ "updated": "Nov 17, 2026, 6:17 PM PT",
  "record": {
   "w": 195,
   "l": 190,
@@ -440,10 +440,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P3 09:02",
+       "detail": "P3 07:45",
        "start": "2026-11-18T00:00:00Z",
        "period": 3,
-       "clock": "09:02",
+       "clock": "07:45",
        "teams": [
         {
          "name": "Oilers",
@@ -626,10 +626,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "15:39 - 2nd",
+       "detail": "14:33 - 2nd",
        "start": "2026-11-18T01:00Z",
        "period": 2,
-       "clock": "15:39",
+       "clock": "14:33",
        "teams": [
         {
          "name": "Maryland Eastern Shore Hawks",
@@ -689,10 +689,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "16:16 - 1st",
+       "detail": "15:59 - 1st",
        "start": "2026-11-18T02:00Z",
        "period": 1,
-       "clock": "16:16",
+       "clock": "15:59",
        "teams": [
         {
          "name": "Michigan State Spartans",
@@ -751,10 +751,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "16:16 - 1st",
+       "detail": "15:59 - 1st",
        "start": "2026-11-18T02:00Z",
        "period": 1,
-       "clock": "16:16",
+       "clock": "15:59",
        "teams": [
         {
          "name": "Michigan State Spartans",
