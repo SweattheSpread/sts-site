@@ -1,5 +1,5 @@
 {
- "updated": "Nov 17, 2026, 5:27 PM PT",
+ "updated": "Nov 17, 2026, 5:29 PM PT",
  "record": {
   "w": 194,
   "l": 190,
@@ -555,10 +555,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P2 04:49",
+       "detail": "P2 03:55",
        "start": "2026-11-18T00:00:00Z",
        "period": 2,
-       "clock": "04:49",
+       "clock": "03:55",
        "teams": [
         {
          "name": "Oilers",
@@ -678,10 +678,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "10:49 - 2nd",
+       "detail": "10:33 - 2nd",
        "start": "2026-11-18T00:00Z",
        "period": 2,
-       "clock": "10:49",
+       "clock": "10:33",
        "teams": [
         {
          "name": "Villanova Wildcats",
@@ -741,16 +741,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "13:41 - 2nd",
+       "detail": "12:49 - 2nd",
        "start": "2026-11-18T00:00Z",
        "period": 2,
-       "clock": "13:41",
+       "clock": "12:49",
        "teams": [
         {
          "name": "Cal State Northridge Matadors",
          "short": "Matadors",
          "abbr": "CSUN",
-         "score": 38,
+         "score": 41,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -762,7 +762,7 @@
          "name": "Troy Trojans",
          "short": "Trojans",
          "abbr": "TROY",
-         "score": 59,
+         "score": 61,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -805,16 +805,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "9:55 - 1st",
+       "detail": "8:44 - 1st",
        "start": "2026-11-18T01:00Z",
        "period": 1,
-       "clock": "9:55",
+       "clock": "8:44",
        "teams": [
         {
          "name": "Maryland Eastern Shore Hawks",
          "short": "Hawks",
          "abbr": "UMES",
-         "score": 4,
+         "score": 6,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -825,7 +825,7 @@
          "name": "DePaul Blue Demons",
          "short": "Blue Demons",
          "abbr": "DEP",
-         "score": 17,
+         "score": 19,
          "ha": "home",
          "winner": null,
          "linescores": [
