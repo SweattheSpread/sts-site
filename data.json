@@ -1,5 +1,5 @@
 {
- "updated": "Nov 18, 2026, 6:56 PM PT",
+ "updated": "Nov 18, 2026, 6:58 PM PT",
  "record": {
   "w": 199,
   "l": 195,
@@ -1305,10 +1305,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P3 05:37",
+       "detail": "P3 05:15",
        "start": "2026-11-19T00:30:00Z",
        "period": 3,
-       "clock": "05:37",
+       "clock": "05:15",
        "teams": [
         {
          "name": "Bruins",
@@ -1560,19 +1560,19 @@
       "date": "20261118",
       "snapshot": {
        "source": "espn",
-       "state": "in",
-       "detail": "0:03 - 2nd",
+       "state": "post",
+       "detail": "Final",
        "start": "2026-11-19T01:00Z",
-       "period": 2,
-       "clock": "0:03",
+       "period": null,
+       "clock": null,
        "teams": [
         {
          "name": "Purdue Fort Wayne Mastodons",
          "short": "Mastodons",
          "abbr": "PFW",
-         "score": 77,
+         "score": 78,
          "ha": "away",
-         "winner": null,
+         "winner": true,
          "linescores": [
           0,
           0
@@ -1584,7 +1584,7 @@
          "abbr": "BRAD",
          "score": 73,
          "ha": "home",
-         "winner": null,
+         "winner": false,
          "linescores": [
           0,
           0
