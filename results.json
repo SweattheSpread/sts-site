@@ -1,5 +1,5 @@
 {
- "updated": "Nov 19, 2026, 10:16 AM PT",
+ "updated": "Nov 19, 2026, 10:48 AM PT",
  "record": {
   "w": 203,
   "l": 200,
@@ -11,7 +11,7 @@
   "first": "2026-10-12",
   "last": "2026-11-18"
  },
- "pending": 38,
+ "pending": 39,
  "plays": [
   {
    "n": 334,
@@ -6808,6 +6808,22 @@
    "matchup": "Minnesota Wild @ Calgary Flames",
    "pick": "Matt Boldy Under 3.5 shots on goal",
    "odds": -105,
+   "units": 1.0,
+   "result": null,
+   "pl": null,
+   "pending": true
+  },
+  {
+   "n": 894,
+   "date": "2026-11-19",
+   "day": "2026-11-19",
+   "league": "NHL",
+   "market": "total",
+   "market_label": "Total",
+   "ticket": "single",
+   "matchup": "St Louis Blues @ Pittsburgh Penguins",
+   "pick": "Rickard Rakell Under 2.5 shots on goal",
+   "odds": 100,
    "units": 1.0,
    "result": null,
    "pl": null,

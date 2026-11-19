@@ -1,5 +1,5 @@
 {
- "updated": "Nov 19, 2026, 10:16 AM PT",
+ "updated": "Nov 19, 2026, 10:48 AM PT",
  "record": {
   "w": 203,
   "l": 200,
@@ -11,7 +11,7 @@
   "first": "2026-10-12",
   "last": "2026-11-18"
  },
- "pending": 38,
+ "pending": 39,
  "latest": [
   {
    "n": 872,
@@ -355,6 +355,65 @@
         }
        ],
        "nhl_id": 2026020354
+      },
+      "source": "nhl"
+     }
+    ],
+    "sport": "NHL",
+    "ticket": "single"
+   }
+  },
+  {
+   "n": 894,
+   "league": "NHL",
+   "type": "Over/Under",
+   "matchup": "St Louis Blues @ Pittsburgh Penguins",
+   "pick": "Rickard Rakell Under 2.5 shots on goal",
+   "odds": 100,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-19T16:10:00",
+   "timed": true,
+   "ticket": "single",
+   "espn": {
+    "legs": [
+     {
+      "kind": "team_total",
+      "side": "Rickard Rakell",
+      "ou": "U",
+      "line": 2.5,
+      "label": "Rickard Rakell U 2.5",
+      "path": "hockey/nhl",
+      "event": "401892745",
+      "date": "20261119",
+      "snapshot": {
+       "source": "nhl",
+       "state": "pre",
+       "detail": "Scheduled",
+       "start": "2026-11-20T00:00:00Z",
+       "period": null,
+       "clock": null,
+       "teams": [
+        {
+         "name": "Blues",
+         "short": "STL",
+         "abbr": "STL",
+         "score": 0,
+         "ha": "away",
+         "winner": null,
+         "linescores": []
+        },
+        {
+         "name": "Penguins",
+         "short": "PIT",
+         "abbr": "PIT",
+         "score": 0,
+         "ha": "home",
+         "winner": null,
+         "linescores": []
+        }
+       ],
+       "nhl_id": 2026020350
       },
       "source": "nhl"
      }
