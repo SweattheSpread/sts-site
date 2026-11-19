@@ -1,5 +1,5 @@
 {
- "updated": "Nov 18, 2026, 7:06 PM PT",
+ "updated": "Nov 18, 2026, 7:10 PM PT",
  "record": {
   "w": 199,
   "l": 195,
@@ -127,126 +127,6 @@
   }
  ],
  "picks": [
-  {
-   "n": 850,
-   "league": "NHL",
-   "type": "Prop",
-   "matchup": "Colorado Avalanche @ Utah Mammoth",
-   "pick": "Mikhail Sergachev Over 2.5 shots on goal",
-   "odds": 140,
-   "units": 1.0,
-   "gap": null,
-   "start": "2026-11-18T19:10:00",
-   "timed": true,
-   "ticket": "single",
-   "espn": {
-    "legs": [
-     {
-      "kind": "prop",
-      "player": "Mikhail Sergachev",
-      "ou": "O",
-      "line": 2.5,
-      "stat": "shots on goal",
-      "label": "Mikhail Sergachev O 2.5 shots on goal",
-      "date": "20261118",
-      "unverified": true,
-      "reason": "Player not found in this game",
-      "snapshot": {
-       "source": "nhl",
-       "state": "pre",
-       "detail": "Scheduled",
-       "start": "2026-11-19T03:00:00Z",
-       "period": null,
-       "clock": null,
-       "teams": [
-        {
-         "name": "Avalanche",
-         "short": "COL",
-         "abbr": "COL",
-         "score": 0,
-         "ha": "away",
-         "winner": null,
-         "linescores": []
-        },
-        {
-         "name": "Mammoth",
-         "short": "UTA",
-         "abbr": "UTA",
-         "score": 0,
-         "ha": "home",
-         "winner": null,
-         "linescores": []
-        }
-       ],
-       "nhl_id": 2026020346
-      },
-      "source": "nhl"
-     }
-    ],
-    "sport": "NHL",
-    "ticket": "single"
-   }
-  },
-  {
-   "n": 851,
-   "league": "NHL",
-   "type": "Prop",
-   "matchup": "Colorado Avalanche @ Utah Mammoth",
-   "pick": "Artturi Lehkonen Over 0.5 points",
-   "odds": -115,
-   "units": 1.0,
-   "gap": null,
-   "start": "2026-11-18T19:10:00",
-   "timed": true,
-   "ticket": "single",
-   "espn": {
-    "legs": [
-     {
-      "kind": "prop",
-      "player": "Artturi Lehkonen",
-      "ou": "O",
-      "line": 0.5,
-      "stat": "points",
-      "label": "Artturi Lehkonen O 0.5 points",
-      "date": "20261118",
-      "unverified": true,
-      "reason": "Player not found in this game",
-      "snapshot": {
-       "source": "nhl",
-       "state": "pre",
-       "detail": "Scheduled",
-       "start": "2026-11-19T03:00:00Z",
-       "period": null,
-       "clock": null,
-       "teams": [
-        {
-         "name": "Avalanche",
-         "short": "COL",
-         "abbr": "COL",
-         "score": 0,
-         "ha": "away",
-         "winner": null,
-         "linescores": []
-        },
-        {
-         "name": "Mammoth",
-         "short": "UTA",
-         "abbr": "UTA",
-         "score": 0,
-         "ha": "home",
-         "winner": null,
-         "linescores": []
-        }
-       ],
-       "nhl_id": 2026020346
-      },
-      "source": "nhl"
-     }
-    ],
-    "sport": "NHL",
-    "ticket": "single"
-   }
-  },
   {
    "n": 831,
    "league": "NFL",
@@ -1282,6 +1162,126 @@
    }
   },
   {
+   "n": 850,
+   "league": "NHL",
+   "type": "Prop",
+   "matchup": "Colorado Avalanche @ Utah Mammoth",
+   "pick": "Mikhail Sergachev Over 2.5 shots on goal",
+   "odds": 140,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-18T19:10:00",
+   "timed": true,
+   "ticket": "single",
+   "espn": {
+    "legs": [
+     {
+      "kind": "prop",
+      "player": "Mikhail Sergachev",
+      "ou": "O",
+      "line": 2.5,
+      "stat": "shots on goal",
+      "label": "Mikhail Sergachev O 2.5 shots on goal",
+      "date": "20261118",
+      "unverified": true,
+      "reason": "Player not found in this game",
+      "snapshot": {
+       "source": "nhl",
+       "state": "pre",
+       "detail": "Scheduled",
+       "start": "2026-11-19T03:00:00Z",
+       "period": null,
+       "clock": null,
+       "teams": [
+        {
+         "name": "Avalanche",
+         "short": "COL",
+         "abbr": "COL",
+         "score": 0,
+         "ha": "away",
+         "winner": null,
+         "linescores": []
+        },
+        {
+         "name": "Mammoth",
+         "short": "UTA",
+         "abbr": "UTA",
+         "score": 0,
+         "ha": "home",
+         "winner": null,
+         "linescores": []
+        }
+       ],
+       "nhl_id": 2026020346
+      },
+      "source": "nhl"
+     }
+    ],
+    "sport": "NHL",
+    "ticket": "single"
+   }
+  },
+  {
+   "n": 851,
+   "league": "NHL",
+   "type": "Prop",
+   "matchup": "Colorado Avalanche @ Utah Mammoth",
+   "pick": "Artturi Lehkonen Over 0.5 points",
+   "odds": -115,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-18T19:10:00",
+   "timed": true,
+   "ticket": "single",
+   "espn": {
+    "legs": [
+     {
+      "kind": "prop",
+      "player": "Artturi Lehkonen",
+      "ou": "O",
+      "line": 0.5,
+      "stat": "points",
+      "label": "Artturi Lehkonen O 0.5 points",
+      "date": "20261118",
+      "unverified": true,
+      "reason": "Player not found in this game",
+      "snapshot": {
+       "source": "nhl",
+       "state": "pre",
+       "detail": "Scheduled",
+       "start": "2026-11-19T03:00:00Z",
+       "period": null,
+       "clock": null,
+       "teams": [
+        {
+         "name": "Avalanche",
+         "short": "COL",
+         "abbr": "COL",
+         "score": 0,
+         "ha": "away",
+         "winner": null,
+         "linescores": []
+        },
+        {
+         "name": "Mammoth",
+         "short": "UTA",
+         "abbr": "UTA",
+         "score": 0,
+         "ha": "home",
+         "winner": null,
+         "linescores": []
+        }
+       ],
+       "nhl_id": 2026020346
+      },
+      "source": "nhl"
+     }
+    ],
+    "sport": "NHL",
+    "ticket": "single"
+   }
+  },
+  {
    "n": 867,
    "league": "NHL",
    "type": "Moneyline",
@@ -1305,16 +1305,16 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P3 01:37",
+       "detail": "OVER",
        "start": "2026-11-19T00:30:00Z",
        "period": 3,
-       "clock": "01:37",
+       "clock": "00:00",
        "teams": [
         {
          "name": "Bruins",
          "short": "BOS",
          "abbr": "BOS",
-         "score": 3,
+         "score": 4,
          "ha": "away",
          "winner": null,
          "linescores": []
