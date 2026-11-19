@@ -1,5 +1,5 @@
 {
- "updated": "Nov 19, 2026, 3:34 AM PT",
+ "updated": "Nov 19, 2026, 4:44 AM PT",
  "record": {
   "w": 203,
   "l": 200,
@@ -11,7 +11,7 @@
   "first": "2026-10-12",
   "last": "2026-11-18"
  },
- "pending": 19,
+ "pending": 21,
  "plays": [
   {
    "n": 334,
@@ -6568,6 +6568,38 @@
    "matchup": "Indianapolis Colts @ Houston Texans",
    "pick": "Indianapolis Colts +11 -110",
    "odds": -110,
+   "units": 1.0,
+   "result": null,
+   "pl": null,
+   "pending": true
+  },
+  {
+   "n": 875,
+   "date": "2026-11-19",
+   "day": "2026-11-19",
+   "league": "NHL",
+   "market": "player_prop",
+   "market_label": "Player Prop",
+   "ticket": "single",
+   "matchup": "Edmonton Oilers @ Tampa Bay Lightning",
+   "pick": "Nikita Kucherov Over 1.5 points",
+   "odds": 150,
+   "units": 1.0,
+   "result": null,
+   "pl": null,
+   "pending": true
+  },
+  {
+   "n": 876,
+   "date": "2026-11-19",
+   "day": "2026-11-19",
+   "league": "NHL",
+   "market": "player_prop",
+   "market_label": "Player Prop",
+   "ticket": "single",
+   "matchup": "Los Angeles Kings @ Toronto Maple Leafs",
+   "pick": "Jack Roslovic Over 2.5 shots on goal",
+   "odds": 140,
    "units": 1.0,
    "result": null,
    "pl": null,

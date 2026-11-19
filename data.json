@@ -1,5 +1,5 @@
 {
- "updated": "Nov 19, 2026, 3:34 AM PT",
+ "updated": "Nov 19, 2026, 4:44 AM PT",
  "record": {
   "w": 203,
   "l": 200,
@@ -11,7 +11,7 @@
   "first": "2026-10-12",
   "last": "2026-11-18"
  },
- "pending": 19,
+ "pending": 21,
  "latest": [
   {
    "n": 872,
@@ -127,6 +127,126 @@
   }
  ],
  "picks": [
+  {
+   "n": 876,
+   "league": "NHL",
+   "type": "Prop",
+   "matchup": "Los Angeles Kings @ Toronto Maple Leafs",
+   "pick": "Jack Roslovic Over 2.5 shots on goal",
+   "odds": 140,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-19T16:10:00",
+   "timed": true,
+   "ticket": "single",
+   "espn": {
+    "legs": [
+     {
+      "kind": "prop",
+      "player": "Jack Roslovic",
+      "ou": "O",
+      "line": 2.5,
+      "stat": "shots on goal",
+      "label": "Jack Roslovic O 2.5 shots on goal",
+      "date": "20261119",
+      "unverified": true,
+      "reason": "Player not found in this game",
+      "snapshot": {
+       "source": "nhl",
+       "state": "pre",
+       "detail": "Scheduled",
+       "start": "2026-11-20T00:00:00Z",
+       "period": null,
+       "clock": null,
+       "teams": [
+        {
+         "name": "Kings",
+         "short": "LAK",
+         "abbr": "LAK",
+         "score": 0,
+         "ha": "away",
+         "winner": null,
+         "linescores": []
+        },
+        {
+         "name": "Maple Leafs",
+         "short": "TOR",
+         "abbr": "TOR",
+         "score": 0,
+         "ha": "home",
+         "winner": null,
+         "linescores": []
+        }
+       ],
+       "nhl_id": 2026020347
+      },
+      "source": "nhl"
+     }
+    ],
+    "sport": "NHL",
+    "ticket": "single"
+   }
+  },
+  {
+   "n": 875,
+   "league": "NHL",
+   "type": "Prop",
+   "matchup": "Edmonton Oilers @ Tampa Bay Lightning",
+   "pick": "Nikita Kucherov Over 1.5 points",
+   "odds": 150,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-19T16:40:00",
+   "timed": true,
+   "ticket": "single",
+   "espn": {
+    "legs": [
+     {
+      "kind": "prop",
+      "player": "Nikita Kucherov",
+      "ou": "O",
+      "line": 1.5,
+      "stat": "points",
+      "label": "Nikita Kucherov O 1.5 points",
+      "date": "20261119",
+      "unverified": true,
+      "reason": "Player not found in this game",
+      "snapshot": {
+       "source": "nhl",
+       "state": "pre",
+       "detail": "Scheduled",
+       "start": "2026-11-20T00:30:00Z",
+       "period": null,
+       "clock": null,
+       "teams": [
+        {
+         "name": "Oilers",
+         "short": "EDM",
+         "abbr": "EDM",
+         "score": 0,
+         "ha": "away",
+         "winner": null,
+         "linescores": []
+        },
+        {
+         "name": "Lightning",
+         "short": "TBL",
+         "abbr": "TBL",
+         "score": 0,
+         "ha": "home",
+         "winner": null,
+         "linescores": []
+        }
+       ],
+       "nhl_id": 2026020349
+      },
+      "source": "nhl"
+     }
+    ],
+    "sport": "NHL",
+    "ticket": "single"
+   }
+  },
   {
    "n": 831,
    "league": "NFL",
