@@ -1,5 +1,5 @@
 {
- "updated": "Nov 18, 2026, 5:28 PM PT",
+ "updated": "Nov 18, 2026, 5:34 PM PT",
  "record": {
   "w": 199,
   "l": 195,
@@ -1363,10 +1363,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P1 03:05",
+       "detail": "P2 19:54",
        "start": "2026-11-19T00:30:00Z",
-       "period": 1,
-       "clock": "03:05",
+       "period": 2,
+       "clock": "19:54",
        "teams": [
         {
          "name": "Bruins",
@@ -1421,16 +1421,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "12:27 - 2nd",
+       "detail": "10:51 - 2nd",
        "start": "2026-11-19T00:00Z",
        "period": 2,
-       "clock": "12:27",
+       "clock": "10:51",
        "teams": [
         {
          "name": "UNC Wilmington Seahawks",
          "short": "Seahawks",
          "abbr": "UNCW",
-         "score": 67,
+         "score": 71,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -1442,7 +1442,7 @@
          "name": "Long Island University Sharks",
          "short": "Sharks",
          "abbr": "LIU",
-         "score": 60,
+         "score": 65,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -1485,16 +1485,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "12:27 - 2nd",
+       "detail": "10:51 - 2nd",
        "start": "2026-11-19T00:00Z",
        "period": 2,
-       "clock": "12:27",
+       "clock": "10:51",
        "teams": [
         {
          "name": "UNC Wilmington Seahawks",
          "short": "Seahawks",
          "abbr": "UNCW",
-         "score": 67,
+         "score": 71,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -1506,7 +1506,7 @@
          "name": "Long Island University Sharks",
          "short": "Sharks",
          "abbr": "LIU",
-         "score": 60,
+         "score": 65,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -1549,16 +1549,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "6:38 - 1st",
+       "detail": "5:19 - 1st",
        "start": "2026-11-19T01:00Z",
        "period": 1,
-       "clock": "6:38",
+       "clock": "5:19",
        "teams": [
         {
          "name": "Purdue Fort Wayne Mastodons",
          "short": "Mastodons",
          "abbr": "PFW",
-         "score": 24,
+         "score": 27,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -1569,7 +1569,7 @@
          "name": "Bradley Braves",
          "short": "Braves",
          "abbr": "BRAD",
-         "score": 27,
+         "score": 29,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -1610,10 +1610,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "8:17 - 3rd",
+       "detail": "6:15 - 3rd",
        "start": "2026-11-19T00:00Z",
        "period": 3,
-       "clock": "8:17",
+       "clock": "6:15",
        "teams": [
         {
          "name": "Houston Rockets",
@@ -1632,7 +1632,7 @@
          "name": "Indiana Pacers",
          "short": "Pacers",
          "abbr": "IND",
-         "score": 56,
+         "score": 63,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -1658,7 +1658,7 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "0.0 - 2nd",
+       "detail": "Halftime",
        "start": "2026-11-19T00:00Z",
        "period": 2,
        "clock": "0.0",
