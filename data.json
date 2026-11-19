@@ -1,5 +1,5 @@
 {
- "updated": "Nov 18, 2026, 4:37 PM PT",
+ "updated": "Nov 18, 2026, 4:42 PM PT",
  "record": {
   "w": 199,
   "l": 195,
@@ -127,63 +127,6 @@
   }
  ],
  "picks": [
-  {
-   "n": 867,
-   "league": "NHL",
-   "type": "Moneyline",
-   "matchup": "Boston Bruins @ Detroit Red Wings",
-   "pick": "Detroit Red Wings ML",
-   "odds": -109,
-   "units": 0.5,
-   "gap": null,
-   "start": "2026-11-18T16:40:00",
-   "timed": true,
-   "ticket": "single",
-   "espn": {
-    "legs": [
-     {
-      "kind": "ml",
-      "side": "Detroit Red Wings",
-      "label": "Detroit Red Wings ML",
-      "path": "hockey/nhl",
-      "event": "401892739",
-      "date": "20261118",
-      "snapshot": {
-       "source": "nhl",
-       "state": "pre",
-       "detail": "Scheduled",
-       "start": "2026-11-19T00:30:00Z",
-       "period": null,
-       "clock": null,
-       "teams": [
-        {
-         "name": "Bruins",
-         "short": "BOS",
-         "abbr": "BOS",
-         "score": 0,
-         "ha": "away",
-         "winner": null,
-         "linescores": []
-        },
-        {
-         "name": "Red Wings",
-         "short": "DET",
-         "abbr": "DET",
-         "score": 0,
-         "ha": "home",
-         "winner": null,
-         "linescores": []
-        }
-       ],
-       "nhl_id": 2026020344
-      },
-      "source": "nhl"
-     }
-    ],
-    "sport": "NHL",
-    "ticket": "single"
-   }
-  },
   {
    "n": 871,
    "league": "NCAAB",
@@ -1455,6 +1398,63 @@
    }
   },
   {
+   "n": 867,
+   "league": "NHL",
+   "type": "Moneyline",
+   "matchup": "Boston Bruins @ Detroit Red Wings",
+   "pick": "Detroit Red Wings ML",
+   "odds": -109,
+   "units": 0.5,
+   "gap": null,
+   "start": "2026-11-18T16:40:00",
+   "timed": true,
+   "ticket": "single",
+   "espn": {
+    "legs": [
+     {
+      "kind": "ml",
+      "side": "Detroit Red Wings",
+      "label": "Detroit Red Wings ML",
+      "path": "hockey/nhl",
+      "event": "401892739",
+      "date": "20261118",
+      "snapshot": {
+       "source": "nhl",
+       "state": "in",
+       "detail": "P1 17:15",
+       "start": "2026-11-19T00:30:00Z",
+       "period": 1,
+       "clock": "17:15",
+       "teams": [
+        {
+         "name": "Bruins",
+         "short": "BOS",
+         "abbr": "BOS",
+         "score": 0,
+         "ha": "away",
+         "winner": null,
+         "linescores": []
+        },
+        {
+         "name": "Red Wings",
+         "short": "DET",
+         "abbr": "DET",
+         "score": 0,
+         "ha": "home",
+         "winner": null,
+         "linescores": []
+        }
+       ],
+       "nhl_id": 2026020344
+      },
+      "source": "nhl"
+     }
+    ],
+    "sport": "NHL",
+    "ticket": "single"
+   }
+  },
+  {
    "n": 869,
    "league": "NCAAB",
    "type": "Spread",
@@ -1479,16 +1479,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "6:05 - 1st",
+       "detail": "4:08 - 1st",
        "start": "2026-11-19T00:00Z",
        "period": 1,
-       "clock": "6:05",
+       "clock": "4:08",
        "teams": [
         {
          "name": "UNC Wilmington Seahawks",
          "short": "Seahawks",
          "abbr": "UNCW",
-         "score": 38,
+         "score": 41,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -1499,7 +1499,7 @@
          "name": "Long Island University Sharks",
          "short": "Sharks",
          "abbr": "LIU",
-         "score": 28,
+         "score": 34,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -1541,16 +1541,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "6:05 - 1st",
+       "detail": "4:08 - 1st",
        "start": "2026-11-19T00:00Z",
        "period": 1,
-       "clock": "6:05",
+       "clock": "4:08",
        "teams": [
         {
          "name": "UNC Wilmington Seahawks",
          "short": "Seahawks",
          "abbr": "UNCW",
-         "score": 38,
+         "score": 41,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -1561,7 +1561,7 @@
          "name": "Long Island University Sharks",
          "short": "Sharks",
          "abbr": "LIU",
-         "score": 28,
+         "score": 34,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -1602,19 +1602,20 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "End of 1st",
+       "detail": "8:56 - 2nd",
        "start": "2026-11-19T00:00Z",
-       "period": 1,
-       "clock": "0.0",
+       "period": 2,
+       "clock": "8:56",
        "teams": [
         {
          "name": "Houston Rockets",
          "short": "Rockets",
          "abbr": "HOU",
-         "score": 39,
+         "score": 43,
          "ha": "away",
          "winner": null,
          "linescores": [
+          0,
           0
          ]
         },
@@ -1622,10 +1623,11 @@
          "name": "Indiana Pacers",
          "short": "Pacers",
          "abbr": "IND",
-         "score": 28,
+         "score": 30,
          "ha": "home",
          "winner": null,
          "linescores": [
+          0,
           0
          ]
         }
@@ -1646,10 +1648,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "2:49 - 1st",
+       "detail": "1:36 - 1st",
        "start": "2026-11-19T00:00Z",
        "period": 1,
-       "clock": "2:49",
+       "clock": "1:36",
        "teams": [
         {
          "name": "Milwaukee Bucks",
@@ -1666,7 +1668,7 @@
          "name": "Miami Heat",
          "short": "Heat",
          "abbr": "MIA",
-         "score": 28,
+         "score": 30,
          "ha": "home",
          "winner": null,
          "linescores": [
