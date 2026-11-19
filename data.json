@@ -1,5 +1,5 @@
 {
- "updated": "Nov 19, 2026, 12:20 AM PT",
+ "updated": "Nov 19, 2026, 3:34 AM PT",
  "record": {
   "w": 203,
   "l": 200,
@@ -11,7 +11,7 @@
   "first": "2026-10-12",
   "last": "2026-11-18"
  },
- "pending": 17,
+ "pending": 19,
  "latest": [
   {
    "n": 872,
@@ -631,6 +631,122 @@
          "name": "Detroit Lions",
          "short": "Lions",
          "abbr": "DET",
+         "score": 0,
+         "ha": "home",
+         "winner": null,
+         "linescores": []
+        }
+       ]
+      },
+      "source": "espn"
+     }
+    ],
+    "sport": "NFL",
+    "ticket": "single"
+   }
+  },
+  {
+   "n": 873,
+   "league": "NFL",
+   "type": "Prop",
+   "matchup": "New Orleans Saints @ Chicago Bears",
+   "pick": "Juwan Johnson longest reception OVER 11.5 (-120)",
+   "odds": -120,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-22T10:00:00",
+   "timed": true,
+   "ticket": "single",
+   "espn": {
+    "legs": [
+     {
+      "kind": "team_total",
+      "side": "Juwan Johnson longest reception",
+      "ou": "O",
+      "line": 11.5,
+      "label": "Juwan Johnson longest reception O 11.5",
+      "path": "football/nfl",
+      "event": "401873071",
+      "date": "20261122",
+      "snapshot": {
+       "source": "espn",
+       "state": "pre",
+       "detail": "11/22 - 1:00 PM EST",
+       "start": "2026-11-22T18:00Z",
+       "period": null,
+       "clock": null,
+       "teams": [
+        {
+         "name": "New Orleans Saints",
+         "short": "Saints",
+         "abbr": "NO",
+         "score": 0,
+         "ha": "away",
+         "winner": null,
+         "linescores": []
+        },
+        {
+         "name": "Chicago Bears",
+         "short": "Bears",
+         "abbr": "CHI",
+         "score": 0,
+         "ha": "home",
+         "winner": null,
+         "linescores": []
+        }
+       ]
+      },
+      "source": "espn"
+     }
+    ],
+    "sport": "NFL",
+    "ticket": "single"
+   }
+  },
+  {
+   "n": 874,
+   "league": "NFL",
+   "type": "Prop",
+   "matchup": "Tennessee Titans @ Dallas Cowboys",
+   "pick": "Ryan Flournoy longest reception OVER 17.5 (-115)",
+   "odds": -115,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-22T10:00:00",
+   "timed": true,
+   "ticket": "single",
+   "espn": {
+    "legs": [
+     {
+      "kind": "team_total",
+      "side": "Ryan Flournoy longest reception",
+      "ou": "O",
+      "line": 17.5,
+      "label": "Ryan Flournoy longest reception O 17.5",
+      "path": "football/nfl",
+      "event": "401873073",
+      "date": "20261122",
+      "snapshot": {
+       "source": "espn",
+       "state": "pre",
+       "detail": "11/22 - 1:00 PM EST",
+       "start": "2026-11-22T18:00Z",
+       "period": null,
+       "clock": null,
+       "teams": [
+        {
+         "name": "Tennessee Titans",
+         "short": "Titans",
+         "abbr": "TEN",
+         "score": 0,
+         "ha": "away",
+         "winner": null,
+         "linescores": []
+        },
+        {
+         "name": "Dallas Cowboys",
+         "short": "Cowboys",
+         "abbr": "DAL",
          "score": 0,
          "ha": "home",
          "winner": null,
