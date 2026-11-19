@@ -1,5 +1,5 @@
 {
- "updated": "Nov 18, 2026, 7:41 PM PT",
+ "updated": "Nov 18, 2026, 7:44 PM PT",
  "record": {
   "w": 199,
   "l": 195,
@@ -1188,10 +1188,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P1 07:54",
+       "detail": "P1 07:30",
        "start": "2026-11-19T03:00:00Z",
        "period": 1,
-       "clock": "07:54",
+       "clock": "07:30",
        "teams": [
         {
          "name": "Avalanche",
@@ -1252,10 +1252,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P1 07:54",
+       "detail": "P1 07:30",
        "start": "2026-11-19T03:00:00Z",
        "period": 1,
-       "clock": "07:54",
+       "clock": "07:30",
        "teams": [
         {
          "name": "Avalanche",
@@ -1372,16 +1372,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "4:59 - 2nd",
+       "detail": "2:35 - 2nd",
        "start": "2026-11-19T02:00Z",
        "period": 2,
-       "clock": "4:59",
+       "clock": "2:35",
        "teams": [
         {
          "name": "Weber State Wildcats",
          "short": "Wildcats",
          "abbr": "WEB",
-         "score": 61,
+         "score": 65,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -1393,7 +1393,7 @@
          "name": "Utah State Aggies",
          "short": "Aggies",
          "abbr": "USU",
-         "score": 93,
+         "score": 101,
          "ha": "home",
          "winner": null,
          "linescores": [
