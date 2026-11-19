@@ -1,5 +1,5 @@
 {
- "updated": "Nov 18, 2026, 8:15 PM PT",
+ "updated": "Nov 18, 2026, 8:17 PM PT",
  "record": {
   "w": 199,
   "l": 195,
@@ -1188,10 +1188,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P1 00:40",
+       "detail": "P2 20:00",
        "start": "2026-11-19T03:00:00Z",
-       "period": 1,
-       "clock": "00:40",
+       "period": 2,
+       "clock": "20:00",
        "teams": [
         {
          "name": "Avalanche",
@@ -1252,10 +1252,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P1 00:40",
+       "detail": "P2 20:00",
        "start": "2026-11-19T03:00:00Z",
-       "period": 1,
-       "clock": "00:40",
+       "period": 2,
+       "clock": "20:00",
        "teams": [
         {
          "name": "Avalanche",
