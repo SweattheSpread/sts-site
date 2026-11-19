@@ -1,5 +1,5 @@
 {
- "updated": "Nov 19, 2026, 10:48 AM PT",
+ "updated": "Nov 19, 2026, 11:46 AM PT",
  "record": {
   "w": 203,
   "l": 200,
@@ -11,7 +11,7 @@
   "first": "2026-10-12",
   "last": "2026-11-18"
  },
- "pending": 39,
+ "pending": 41,
  "plays": [
   {
    "n": 334,
@@ -6824,6 +6824,38 @@
    "matchup": "St Louis Blues @ Pittsburgh Penguins",
    "pick": "Rickard Rakell Under 2.5 shots on goal",
    "odds": 100,
+   "units": 1.0,
+   "result": null,
+   "pl": null,
+   "pending": true
+  },
+  {
+   "n": 895,
+   "date": "2026-11-19",
+   "day": "2026-11-19",
+   "league": "NHL",
+   "market": "total",
+   "market_label": "Total",
+   "ticket": "single",
+   "matchup": "Columbus Blue Jackets @ Chicago Blackhawks",
+   "pick": "Adam Fantilli Under 0.5 points",
+   "odds": 130,
+   "units": 1.0,
+   "result": null,
+   "pl": null,
+   "pending": true
+  },
+  {
+   "n": 896,
+   "date": "2026-11-19",
+   "day": "2026-11-19",
+   "league": "NHL",
+   "market": "total",
+   "market_label": "Total",
+   "ticket": "single",
+   "matchup": "Anaheim Ducks @ Colorado Avalanche",
+   "pick": "Gabriel Landeskog Under 0.5 points",
+   "odds": -111,
    "units": 1.0,
    "result": null,
    "pl": null,
