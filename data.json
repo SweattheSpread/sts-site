@@ -1,5 +1,5 @@
 {
- "updated": "Nov 18, 2026, 8:33 PM PT",
+ "updated": "Nov 18, 2026, 8:35 PM PT",
  "record": {
   "w": 199,
   "l": 195,
@@ -1009,38 +1009,7 @@
       "side": "Detroit Lions",
       "line": 2.5,
       "label": "Detroit Lions +2.5",
-      "path": "football/nfl",
-      "event": "401873081",
-      "date": "20261126",
-      "snapshot": {
-       "source": "espn",
-       "state": "pre",
-       "detail": "11/26 - 1:00 PM EST",
-       "start": "2026-11-26T18:00Z",
-       "period": null,
-       "clock": null,
-       "teams": [
-        {
-         "name": "Chicago Bears",
-         "short": "Bears",
-         "abbr": "CHI",
-         "score": 0,
-         "ha": "away",
-         "winner": null,
-         "linescores": []
-        },
-        {
-         "name": "Detroit Lions",
-         "short": "Lions",
-         "abbr": "DET",
-         "score": 0,
-         "ha": "home",
-         "winner": null,
-         "linescores": []
-        }
-       ]
-      },
-      "source": "espn"
+      "unverified": true
      }
     ],
     "sport": "NFL",
@@ -1066,38 +1035,7 @@
       "side": "Philadelphia Eagles",
       "line": 8.5,
       "label": "Philadelphia Eagles +8.5",
-      "path": "football/nfl",
-      "event": "401873080",
-      "date": "20261126",
-      "snapshot": {
-       "source": "espn",
-       "state": "pre",
-       "detail": "11/26 - 4:30 PM EST",
-       "start": "2026-11-26T21:30Z",
-       "period": null,
-       "clock": null,
-       "teams": [
-        {
-         "name": "Philadelphia Eagles",
-         "short": "Eagles",
-         "abbr": "PHI",
-         "score": 0,
-         "ha": "away",
-         "winner": null,
-         "linescores": []
-        },
-        {
-         "name": "Dallas Cowboys",
-         "short": "Cowboys",
-         "abbr": "DAL",
-         "score": 0,
-         "ha": "home",
-         "winner": null,
-         "linescores": []
-        }
-       ]
-      },
-      "source": "espn"
+      "unverified": true
      }
     ],
     "sport": "NFL",
@@ -1188,10 +1126,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P2 13:30",
+       "detail": "P2 12:01",
        "start": "2026-11-19T03:00:00Z",
        "period": 2,
-       "clock": "13:30",
+       "clock": "12:01",
        "teams": [
         {
          "name": "Avalanche",
@@ -1252,10 +1190,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P2 13:30",
+       "detail": "P2 12:01",
        "start": "2026-11-19T03:00:00Z",
        "period": 2,
-       "clock": "13:30",
+       "clock": "12:01",
        "teams": [
         {
          "name": "Avalanche",
