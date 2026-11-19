@@ -1,5 +1,5 @@
 {
- "updated": "Nov 19, 2026, 7:15 AM PT",
+ "updated": "Nov 19, 2026, 7:47 AM PT",
  "record": {
   "w": 203,
   "l": 200,
@@ -11,7 +11,7 @@
   "first": "2026-10-12",
   "last": "2026-11-18"
  },
- "pending": 25,
+ "pending": 30,
  "latest": [
   {
    "n": 872,
@@ -509,6 +509,65 @@
      }
     ],
     "sport": "NFL",
+    "ticket": "single"
+   }
+  },
+  {
+   "n": 885,
+   "league": "NHL",
+   "type": "Over/Under",
+   "matchup": "Anaheim Ducks @ Colorado Avalanche",
+   "pick": "Under 6.5",
+   "odds": 105,
+   "units": 0.5,
+   "gap": null,
+   "start": "2026-11-19T18:10:00",
+   "timed": true,
+   "ticket": "single",
+   "espn": {
+    "legs": [
+     {
+      "kind": "total",
+      "side": null,
+      "ou": "U",
+      "line": 6.5,
+      "label": "U 6.5",
+      "path": "hockey/nhl",
+      "event": "401892751",
+      "date": "20261119",
+      "snapshot": {
+       "source": "nhl",
+       "state": "pre",
+       "detail": "Scheduled",
+       "start": "2026-11-20T02:00:00Z",
+       "period": null,
+       "clock": null,
+       "teams": [
+        {
+         "name": "Ducks",
+         "short": "ANA",
+         "abbr": "ANA",
+         "score": 0,
+         "ha": "away",
+         "winner": null,
+         "linescores": []
+        },
+        {
+         "name": "Avalanche",
+         "short": "COL",
+         "abbr": "COL",
+         "score": 0,
+         "ha": "home",
+         "winner": null,
+         "linescores": []
+        }
+       ],
+       "nhl_id": 2026020356
+      },
+      "source": "nhl"
+     }
+    ],
+    "sport": "NHL",
     "ticket": "single"
    }
   },
@@ -1092,6 +1151,64 @@
    }
   },
   {
+   "n": 883,
+   "league": "NFL",
+   "type": "Over/Under",
+   "matchup": "Tennessee Titans @ Dallas Cowboys",
+   "pick": "Over 55",
+   "odds": -110,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-22T10:00:00",
+   "timed": true,
+   "ticket": "single",
+   "espn": {
+    "legs": [
+     {
+      "kind": "total",
+      "side": null,
+      "ou": "O",
+      "line": 55.0,
+      "label": "O 55.0",
+      "path": "football/nfl",
+      "event": "401873073",
+      "date": "20261122",
+      "snapshot": {
+       "source": "espn",
+       "state": "pre",
+       "detail": "11/22 - 1:00 PM EST",
+       "start": "2026-11-22T18:00Z",
+       "period": null,
+       "clock": null,
+       "teams": [
+        {
+         "name": "Tennessee Titans",
+         "short": "Titans",
+         "abbr": "TEN",
+         "score": 0,
+         "ha": "away",
+         "winner": null,
+         "linescores": []
+        },
+        {
+         "name": "Dallas Cowboys",
+         "short": "Cowboys",
+         "abbr": "DAL",
+         "score": 0,
+         "ha": "home",
+         "winner": null,
+         "linescores": []
+        }
+       ]
+      },
+      "source": "espn"
+     }
+    ],
+    "sport": "NFL",
+    "ticket": "single"
+   }
+  },
+  {
    "n": 861,
    "league": "NFL",
    "type": "Over/Under",
@@ -1365,6 +1482,178 @@
          "name": "San Francisco 49ers",
          "short": "49ers",
          "abbr": "SF",
+         "score": 0,
+         "ha": "home",
+         "winner": null,
+         "linescores": []
+        }
+       ]
+      },
+      "source": "espn"
+     }
+    ],
+    "sport": "NFL",
+    "ticket": "single"
+   }
+  },
+  {
+   "n": 881,
+   "league": "NFL",
+   "type": "Over/Under",
+   "matchup": "Minnesota Vikings @ San Francisco 49ers",
+   "pick": "Over 46.5",
+   "odds": -108,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-22T17:20:00",
+   "timed": true,
+   "ticket": "single",
+   "espn": {
+    "legs": [
+     {
+      "kind": "total",
+      "side": null,
+      "ou": "O",
+      "line": 46.5,
+      "label": "O 46.5",
+      "path": "football/nfl",
+      "event": "401873077",
+      "date": "20261122",
+      "snapshot": {
+       "source": "espn",
+       "state": "pre",
+       "detail": "11/22 - 8:20 PM EST",
+       "start": "2026-11-23T01:20Z",
+       "period": null,
+       "clock": null,
+       "teams": [
+        {
+         "name": "Minnesota Vikings",
+         "short": "Vikings",
+         "abbr": "MIN",
+         "score": 0,
+         "ha": "away",
+         "winner": null,
+         "linescores": []
+        },
+        {
+         "name": "San Francisco 49ers",
+         "short": "49ers",
+         "abbr": "SF",
+         "score": 0,
+         "ha": "home",
+         "winner": null,
+         "linescores": []
+        }
+       ]
+      },
+      "source": "espn"
+     }
+    ],
+    "sport": "NFL",
+    "ticket": "single"
+   }
+  },
+  {
+   "n": 882,
+   "league": "NFL",
+   "type": "Moneyline",
+   "matchup": "Cincinnati Bengals @ Washington Commanders",
+   "pick": "Washington Commanders ML",
+   "odds": 240,
+   "units": 0.5,
+   "gap": null,
+   "start": "2026-11-23T17:15:00",
+   "timed": true,
+   "ticket": "single",
+   "espn": {
+    "legs": [
+     {
+      "kind": "ml",
+      "side": "Washington Commanders",
+      "label": "Washington Commanders ML",
+      "path": "football/nfl",
+      "event": "401873078",
+      "date": "20261123",
+      "snapshot": {
+       "source": "espn",
+       "state": "pre",
+       "detail": "11/23 - 8:15 PM EST",
+       "start": "2026-11-24T01:15Z",
+       "period": null,
+       "clock": null,
+       "teams": [
+        {
+         "name": "Cincinnati Bengals",
+         "short": "Bengals",
+         "abbr": "CIN",
+         "score": 0,
+         "ha": "away",
+         "winner": null,
+         "linescores": []
+        },
+        {
+         "name": "Washington Commanders",
+         "short": "Commanders",
+         "abbr": "WSH",
+         "score": 0,
+         "ha": "home",
+         "winner": null,
+         "linescores": []
+        }
+       ]
+      },
+      "source": "espn"
+     }
+    ],
+    "sport": "NFL",
+    "ticket": "single"
+   }
+  },
+  {
+   "n": 884,
+   "league": "NFL",
+   "type": "Over/Under",
+   "matchup": "Cincinnati Bengals @ Washington Commanders",
+   "pick": "Over 53.5",
+   "odds": -115,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-23T17:15:00",
+   "timed": true,
+   "ticket": "single",
+   "espn": {
+    "legs": [
+     {
+      "kind": "total",
+      "side": null,
+      "ou": "O",
+      "line": 53.5,
+      "label": "O 53.5",
+      "path": "football/nfl",
+      "event": "401873078",
+      "date": "20261123",
+      "snapshot": {
+       "source": "espn",
+       "state": "pre",
+       "detail": "11/23 - 8:15 PM EST",
+       "start": "2026-11-24T01:15Z",
+       "period": null,
+       "clock": null,
+       "teams": [
+        {
+         "name": "Cincinnati Bengals",
+         "short": "Bengals",
+         "abbr": "CIN",
+         "score": 0,
+         "ha": "away",
+         "winner": null,
+         "linescores": []
+        },
+        {
+         "name": "Washington Commanders",
+         "short": "Commanders",
+         "abbr": "WSH",
          "score": 0,
          "ha": "home",
          "winner": null,
