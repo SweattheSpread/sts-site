@@ -1,5 +1,5 @@
 {
- "updated": "Nov 18, 2026, 4:57 PM PT",
+ "updated": "Nov 18, 2026, 4:59 PM PT",
  "record": {
   "w": 199,
   "l": 195,
@@ -1421,10 +1421,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P1 09:16",
+       "detail": "P1 08:27",
        "start": "2026-11-19T00:30:00Z",
        "period": 1,
-       "clock": "09:16",
+       "clock": "08:27",
        "teams": [
         {
          "name": "Bruins",
@@ -1602,16 +1602,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "3:33 - 2nd",
+       "detail": "2:02 - 2nd",
        "start": "2026-11-19T00:00Z",
        "period": 2,
-       "clock": "3:33",
+       "clock": "2:02",
        "teams": [
         {
          "name": "Houston Rockets",
          "short": "Rockets",
          "abbr": "HOU",
-         "score": 51,
+         "score": 57,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -1623,7 +1623,7 @@
          "name": "Indiana Pacers",
          "short": "Pacers",
          "abbr": "IND",
-         "score": 38,
+         "score": 41,
          "ha": "home",
          "winner": null,
          "linescores": [
