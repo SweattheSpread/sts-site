@@ -1,5 +1,5 @@
 {
- "updated": "Nov 18, 2026, 6:47 PM PT",
+ "updated": "Nov 18, 2026, 6:51 PM PT",
  "record": {
   "w": 199,
   "l": 195,
@@ -1305,10 +1305,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P3 10:04",
+       "detail": "P3 08:44",
        "start": "2026-11-19T00:30:00Z",
        "period": 3,
-       "clock": "10:04",
+       "clock": "08:44",
        "teams": [
         {
          "name": "Bruins",
@@ -1364,16 +1364,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "2:50 - 1st",
+       "detail": "1:14 - 1st",
        "start": "2026-11-19T02:00Z",
        "period": 1,
-       "clock": "2:50",
+       "clock": "1:14",
        "teams": [
         {
          "name": "Weber State Wildcats",
          "short": "Wildcats",
          "abbr": "WEB",
-         "score": 26,
+         "score": 34,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -1384,7 +1384,7 @@
          "name": "Utah State Aggies",
          "short": "Aggies",
          "abbr": "USU",
-         "score": 47,
+         "score": 52,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -1561,16 +1561,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "1:17 - 2nd",
+       "detail": "0:29 - 2nd",
        "start": "2026-11-19T01:00Z",
        "period": 2,
-       "clock": "1:17",
+       "clock": "0:29",
        "teams": [
         {
          "name": "Purdue Fort Wayne Mastodons",
          "short": "Mastodons",
          "abbr": "PFW",
-         "score": 73,
+         "score": 75,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -1674,16 +1674,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "2:58 - 4th",
+       "detail": "1:22 - 4th",
        "start": "2026-11-19T00:00Z",
        "period": 4,
-       "clock": "2:58",
+       "clock": "1:22",
        "teams": [
         {
          "name": "Milwaukee Bucks",
          "short": "Bucks",
          "abbr": "MIL",
-         "score": 114,
+         "score": 122,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -1697,7 +1697,7 @@
          "name": "Miami Heat",
          "short": "Heat",
          "abbr": "MIA",
-         "score": 135,
+         "score": 137,
          "ha": "home",
          "winner": null,
          "linescores": [
