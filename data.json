@@ -1,5 +1,5 @@
 {
- "updated": "Nov 19, 2026, 4:44 AM PT",
+ "updated": "Nov 19, 2026, 7:15 AM PT",
  "record": {
   "w": 203,
   "l": 200,
@@ -11,7 +11,7 @@
   "first": "2026-10-12",
   "last": "2026-11-18"
  },
- "pending": 21,
+ "pending": 25,
  "latest": [
   {
    "n": 872,
@@ -188,6 +188,66 @@
    }
   },
   {
+   "n": 877,
+   "league": "NHL",
+   "type": "Prop",
+   "matchup": "New York Islanders @ Winnipeg Jets",
+   "pick": "Kyle Connor Over 3.5 shots on goal",
+   "odds": -105,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-19T16:10:00",
+   "timed": true,
+   "ticket": "single",
+   "espn": {
+    "legs": [
+     {
+      "kind": "prop",
+      "player": "Kyle Connor",
+      "ou": "O",
+      "line": 3.5,
+      "stat": "shots on goal",
+      "label": "Kyle Connor O 3.5 shots on goal",
+      "path": "hockey/nhl",
+      "event": "401892739",
+      "date": "20261118",
+      "snapshot": {
+       "source": "nhl",
+       "state": "pre",
+       "detail": "Scheduled",
+       "start": "2026-11-20T00:00:00Z",
+       "period": null,
+       "clock": null,
+       "teams": [
+        {
+         "name": "Islanders",
+         "short": "NYI",
+         "abbr": "NYI",
+         "score": 0,
+         "ha": "away",
+         "winner": null,
+         "linescores": []
+        },
+        {
+         "name": "Jets",
+         "short": "WPG",
+         "abbr": "WPG",
+         "score": 0,
+         "ha": "home",
+         "winner": null,
+         "linescores": []
+        }
+       ],
+       "nhl_id": 2026020354
+      },
+      "source": "nhl"
+     }
+    ],
+    "sport": "NHL",
+    "ticket": "single"
+   }
+  },
+  {
    "n": 875,
    "league": "NHL",
    "type": "Prop",
@@ -239,6 +299,96 @@
         }
        ],
        "nhl_id": 2026020349
+      },
+      "source": "nhl"
+     }
+    ],
+    "sport": "NHL",
+    "ticket": "single"
+   }
+  },
+  {
+   "n": 878,
+   "league": "NBA",
+   "type": "Prop",
+   "matchup": "New York Knicks @ Minnesota Timberwolves",
+   "pick": "Jalen Brunson Over 2.5 threes",
+   "odds": 110,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-19T17:10:00",
+   "timed": true,
+   "ticket": "single",
+   "espn": {
+    "legs": [
+     {
+      "kind": "prop",
+      "player": "Jalen Brunson",
+      "ou": "O",
+      "line": 2.5,
+      "stat": "threes",
+      "label": "Jalen Brunson O 2.5 threes",
+      "date": "20261119",
+      "unverified": true,
+      "reason": "Player not found in this game"
+     }
+    ],
+    "sport": "NBA",
+    "ticket": "single"
+   }
+  },
+  {
+   "n": 879,
+   "league": "NHL",
+   "type": "Prop",
+   "matchup": "Columbus Blue Jackets @ Chicago Blackhawks",
+   "pick": "Roman Kantserov Under 1.5 shots on goal",
+   "odds": 115,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-19T17:10:00",
+   "timed": true,
+   "ticket": "single",
+   "espn": {
+    "legs": [
+     {
+      "kind": "prop",
+      "player": "Roman Kantserov",
+      "ou": "U",
+      "line": 1.5,
+      "stat": "shots on goal",
+      "label": "Roman Kantserov U 1.5 shots on goal",
+      "date": "20261119",
+      "unverified": true,
+      "reason": "Player not found in this game",
+      "snapshot": {
+       "source": "nhl",
+       "state": "pre",
+       "detail": "Scheduled",
+       "start": "2026-11-20T00:00:00Z",
+       "period": null,
+       "clock": null,
+       "teams": [
+        {
+         "name": "Blues",
+         "short": "STL",
+         "abbr": "STL",
+         "score": 0,
+         "ha": "away",
+         "winner": null,
+         "linescores": []
+        },
+        {
+         "name": "Penguins",
+         "short": "PIT",
+         "abbr": "PIT",
+         "score": 0,
+         "ha": "home",
+         "winner": null,
+         "linescores": []
+        }
+       ],
+       "nhl_id": 2026020350
       },
       "source": "nhl"
      }
@@ -359,6 +509,66 @@
      }
     ],
     "sport": "NFL",
+    "ticket": "single"
+   }
+  },
+  {
+   "n": 880,
+   "league": "NHL",
+   "type": "Prop",
+   "matchup": "Vancouver Canucks @ Seattle Kraken",
+   "pick": "Linus Karlsson Over 1.5 shots on goal",
+   "odds": -110,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-19T18:50:00",
+   "timed": true,
+   "ticket": "single",
+   "espn": {
+    "legs": [
+     {
+      "kind": "prop",
+      "player": "Linus Karlsson",
+      "ou": "O",
+      "line": 1.5,
+      "stat": "shots on goal",
+      "label": "Linus Karlsson O 1.5 shots on goal",
+      "date": "20261119",
+      "unverified": true,
+      "reason": "Player not found in this game",
+      "snapshot": {
+       "source": "nhl",
+       "state": "pre",
+       "detail": "Scheduled",
+       "start": "2026-11-20T02:40:00Z",
+       "period": null,
+       "clock": null,
+       "teams": [
+        {
+         "name": "Canucks",
+         "short": "VAN",
+         "abbr": "VAN",
+         "score": 0,
+         "ha": "away",
+         "winner": null,
+         "linescores": []
+        },
+        {
+         "name": "Kraken",
+         "short": "SEA",
+         "abbr": "SEA",
+         "score": 0,
+         "ha": "home",
+         "winner": null,
+         "linescores": []
+        }
+       ],
+       "nhl_id": 2026020357
+      },
+      "source": "nhl"
+     }
+    ],
+    "sport": "NHL",
     "ticket": "single"
    }
   },
