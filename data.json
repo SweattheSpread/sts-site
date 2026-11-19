@@ -1,5 +1,5 @@
 {
- "updated": "Nov 18, 2026, 7:46 PM PT",
+ "updated": "Nov 18, 2026, 7:49 PM PT",
  "record": {
   "w": 199,
   "l": 195,
@@ -1188,10 +1188,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P1 05:55",
+       "detail": "P1 04:35",
        "start": "2026-11-19T03:00:00Z",
        "period": 1,
-       "clock": "05:55",
+       "clock": "04:35",
        "teams": [
         {
          "name": "Avalanche",
@@ -1252,10 +1252,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P1 05:55",
+       "detail": "P1 04:35",
        "start": "2026-11-19T03:00:00Z",
        "period": 1,
-       "clock": "05:55",
+       "clock": "04:35",
        "teams": [
         {
          "name": "Avalanche",
@@ -1372,16 +1372,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "2:17 - 2nd",
+       "detail": "0:31 - 2nd",
        "start": "2026-11-19T02:00Z",
        "period": 2,
-       "clock": "2:17",
+       "clock": "0:31",
        "teams": [
         {
          "name": "Weber State Wildcats",
          "short": "Wildcats",
          "abbr": "WEB",
-         "score": 65,
+         "score": 68,
          "ha": "away",
          "winner": null,
          "linescores": [
