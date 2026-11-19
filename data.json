@@ -1,5 +1,5 @@
 {
- "updated": "Nov 19, 2026, 3:08 PM PT",
+ "updated": "Nov 19, 2026, 3:10 PM PT",
  "record": {
   "w": 203,
   "l": 200,
@@ -2611,16 +2611,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "18:18 - 1st",
+       "detail": "17:14 - 1st",
        "start": "2026-11-19T23:00Z",
        "period": 1,
-       "clock": "18:18",
+       "clock": "17:14",
        "teams": [
         {
          "name": "Murray State Racers",
          "short": "Racers",
          "abbr": "MUR",
-         "score": 2,
+         "score": 3,
          "ha": "away",
          "winner": null,
          "linescores": [
