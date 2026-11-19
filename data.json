@@ -1,5 +1,5 @@
 {
- "updated": "Nov 19, 2026, 3:05 PM PT",
+ "updated": "Nov 19, 2026, 3:08 PM PT",
  "record": {
   "w": 203,
   "l": 200,
@@ -807,8 +807,8 @@
   },
   {
    "n": 898,
-   "league": "NHL",
-   "type": "Over/Under",
+   "league": "NBA",
+   "type": "Player Prop",
    "matchup": "Portland Trail Blazers @ Milwaukee Bucks",
    "pick": "Brayden Burries Under 12.5 points",
    "odds": -105,
@@ -820,22 +820,68 @@
    "espn": {
     "legs": [
      {
-      "kind": "team_total",
-      "side": "Brayden Burries",
+      "kind": "prop",
+      "player": "Brayden Burries",
       "ou": "U",
       "line": 12.5,
-      "label": "Brayden Burries U 12.5",
-      "unverified": true
+      "stat": "points",
+      "label": "Brayden Burries U 12.5 points",
+      "path": "basketball/nba",
+      "event": "401910009",
+      "date": "20261118",
+      "snapshot": {
+       "source": "espn",
+       "state": "post",
+       "detail": "Final",
+       "start": "2026-11-19T00:00Z",
+       "period": null,
+       "clock": null,
+       "teams": [
+        {
+         "name": "Milwaukee Bucks",
+         "short": "Bucks",
+         "abbr": "MIL",
+         "score": 130,
+         "ha": "away",
+         "winner": false,
+         "linescores": [
+          0,
+          0,
+          0,
+          0
+         ]
+        },
+        {
+         "name": "Miami Heat",
+         "short": "Heat",
+         "abbr": "MIA",
+         "score": 137,
+         "ha": "home",
+         "winner": true,
+         "linescores": [
+          0,
+          0,
+          0,
+          0
+         ]
+        }
+       ],
+       "stat": {
+        "v": 20,
+        "name": "Brayden Burries"
+       }
+      },
+      "source": "espn"
      }
     ],
-    "sport": "NHL",
+    "sport": "NBA",
     "ticket": "single"
    }
   },
   {
    "n": 899,
-   "league": "NHL",
-   "type": "Over/Under",
+   "league": "NBA",
+   "type": "Player Prop",
    "matchup": "New York Knicks @ Minnesota Timberwolves",
    "pick": "LaMelo Ball Under 5.5 assists",
    "odds": 130,
@@ -847,15 +893,18 @@
    "espn": {
     "legs": [
      {
-      "kind": "team_total",
-      "side": "LaMelo Ball",
+      "kind": "prop",
+      "player": "LaMelo Ball",
       "ou": "U",
       "line": 5.5,
-      "label": "LaMelo Ball U 5.5",
-      "unverified": true
+      "stat": "assists",
+      "label": "LaMelo Ball U 5.5 assists",
+      "date": "20261119",
+      "unverified": true,
+      "reason": "Player not found in this game"
      }
     ],
-    "sport": "NHL",
+    "sport": "NBA",
     "ticket": "single"
    }
   },
@@ -2562,16 +2611,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "19:39 - 1st",
+       "detail": "18:18 - 1st",
        "start": "2026-11-19T23:00Z",
        "period": 1,
-       "clock": "19:39",
+       "clock": "18:18",
        "teams": [
         {
          "name": "Murray State Racers",
          "short": "Racers",
          "abbr": "MUR",
-         "score": 0,
+         "score": 2,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -2582,7 +2631,7 @@
          "name": "NC State Wolfpack",
          "short": "Wolfpack",
          "abbr": "NCSU",
-         "score": 0,
+         "score": 2,
          "ha": "home",
          "winner": null,
          "linescores": [
