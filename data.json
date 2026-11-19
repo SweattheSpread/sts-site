@@ -1,5 +1,5 @@
 {
- "updated": "Nov 18, 2026, 4:21 PM PT",
+ "updated": "Nov 18, 2026, 4:24 PM PT",
  "record": {
   "w": 199,
   "l": 195,
@@ -1479,16 +1479,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "11:32 - 1st",
+       "detail": "10:57 - 1st",
        "start": "2026-11-19T00:00Z",
        "period": 1,
-       "clock": "11:32",
+       "clock": "10:57",
        "teams": [
         {
          "name": "UNC Wilmington Seahawks",
          "short": "Seahawks",
          "abbr": "UNCW",
-         "score": 22,
+         "score": 25,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -1541,16 +1541,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "11:32 - 1st",
+       "detail": "10:57 - 1st",
        "start": "2026-11-19T00:00Z",
        "period": 1,
-       "clock": "11:32",
+       "clock": "10:57",
        "teams": [
         {
          "name": "UNC Wilmington Seahawks",
          "short": "Seahawks",
          "abbr": "UNCW",
-         "score": 22,
+         "score": 25,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -1602,16 +1602,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "6:46 - 1st",
+       "detail": "5:12 - 1st",
        "start": "2026-11-19T00:00Z",
        "period": 1,
-       "clock": "6:46",
+       "clock": "5:12",
        "teams": [
         {
          "name": "Houston Rockets",
          "short": "Rockets",
          "abbr": "HOU",
-         "score": 18,
+         "score": 27,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -1646,16 +1646,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "9:25 - 1st",
+       "detail": "7:27 - 1st",
        "start": "2026-11-19T00:00Z",
        "period": 1,
-       "clock": "9:25",
+       "clock": "7:27",
        "teams": [
         {
          "name": "Milwaukee Bucks",
          "short": "Bucks",
          "abbr": "MIL",
-         "score": 3,
+         "score": 7,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -1666,7 +1666,7 @@
          "name": "Miami Heat",
          "short": "Heat",
          "abbr": "MIA",
-         "score": 8,
+         "score": 11,
          "ha": "home",
          "winner": null,
          "linescores": [
