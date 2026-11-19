@@ -1,5 +1,5 @@
 {
- "updated": "Nov 19, 2026, 7:47 AM PT",
+ "updated": "Nov 19, 2026, 9:12 AM PT",
  "record": {
   "w": 203,
   "l": 200,
@@ -11,7 +11,7 @@
   "first": "2026-10-12",
   "last": "2026-11-18"
  },
- "pending": 30,
+ "pending": 32,
  "latest": [
   {
    "n": 872,
@@ -248,6 +248,64 @@
    }
   },
   {
+   "n": 886,
+   "league": "NCAAB",
+   "type": "Over/Under",
+   "matchup": "Charleston Cougars @ Drake Bulldogs",
+   "pick": "Under 158.5",
+   "odds": -110,
+   "units": 3.0,
+   "gap": null,
+   "start": "2026-11-19T16:30:00",
+   "timed": true,
+   "ticket": "single",
+   "espn": {
+    "legs": [
+     {
+      "kind": "total",
+      "side": null,
+      "ou": "U",
+      "line": 158.5,
+      "label": "U 158.5",
+      "path": "basketball/mens-college-basketball",
+      "event": "401926814",
+      "date": "20261119",
+      "snapshot": {
+       "source": "espn",
+       "state": "pre",
+       "detail": "11/19 - 7:30 PM EST",
+       "start": "2026-11-20T00:30Z",
+       "period": null,
+       "clock": null,
+       "teams": [
+        {
+         "name": "Charleston Cougars",
+         "short": "Cougars",
+         "abbr": "COFC",
+         "score": 0,
+         "ha": "away",
+         "winner": null,
+         "linescores": []
+        },
+        {
+         "name": "Drake Bulldogs",
+         "short": "Bulldogs",
+         "abbr": "DRKE",
+         "score": 0,
+         "ha": "home",
+         "winner": null,
+         "linescores": []
+        }
+       ]
+      },
+      "source": "espn"
+     }
+    ],
+    "sport": "NCAAB",
+    "ticket": "single"
+   }
+  },
+  {
    "n": 875,
    "league": "NHL",
    "type": "Prop",
@@ -304,6 +362,63 @@
      }
     ],
     "sport": "NHL",
+    "ticket": "single"
+   }
+  },
+  {
+   "n": 887,
+   "league": "NCAAB",
+   "type": "Spread",
+   "matchup": "Texas A&M Aggies @ TCU Horned Frogs",
+   "pick": "Texas A&M +1.5",
+   "odds": -118,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-19T17:00:00",
+   "timed": true,
+   "ticket": "single",
+   "espn": {
+    "legs": [
+     {
+      "kind": "spread",
+      "side": "Texas A&M",
+      "line": 1.5,
+      "label": "Texas A&M +1.5",
+      "path": "basketball/mens-college-basketball",
+      "event": "401919050",
+      "date": "20261119",
+      "snapshot": {
+       "source": "espn",
+       "state": "pre",
+       "detail": "11/19 - 8:00 PM EST",
+       "start": "2026-11-20T01:00Z",
+       "period": null,
+       "clock": null,
+       "teams": [
+        {
+         "name": "Texas A&M Aggies",
+         "short": "Aggies",
+         "abbr": "TA&M",
+         "score": 0,
+         "ha": "away",
+         "winner": null,
+         "linescores": []
+        },
+        {
+         "name": "TCU Horned Frogs",
+         "short": "Horned Frogs",
+         "abbr": "TCU",
+         "score": 0,
+         "ha": "home",
+         "winner": null,
+         "linescores": []
+        }
+       ]
+      },
+      "source": "espn"
+     }
+    ],
+    "sport": "NCAAB",
     "ticket": "single"
    }
   },

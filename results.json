@@ -1,5 +1,5 @@
 {
- "updated": "Nov 19, 2026, 7:47 AM PT",
+ "updated": "Nov 19, 2026, 9:12 AM PT",
  "record": {
   "w": 203,
   "l": 200,
@@ -11,7 +11,7 @@
   "first": "2026-10-12",
   "last": "2026-11-18"
  },
- "pending": 30,
+ "pending": 32,
  "plays": [
   {
    "n": 334,
@@ -6681,6 +6681,38 @@
    "pick": "Under 6.5 +105",
    "odds": 105,
    "units": 0.5,
+   "result": null,
+   "pl": null,
+   "pending": true
+  },
+  {
+   "n": 886,
+   "date": "2026-11-19",
+   "day": "2026-11-19",
+   "league": "NCAAB",
+   "market": "total",
+   "market_label": "Total",
+   "ticket": "single",
+   "matchup": "Charleston Cougars @ Drake Bulldogs",
+   "pick": "Under 158.5",
+   "odds": -110,
+   "units": 3.0,
+   "result": null,
+   "pl": null,
+   "pending": true
+  },
+  {
+   "n": 887,
+   "date": "2026-11-19",
+   "day": "2026-11-19",
+   "league": "NCAAB",
+   "market": "spread",
+   "market_label": "Spread",
+   "ticket": "single",
+   "matchup": "Texas A&M Aggies @ TCU Horned Frogs",
+   "pick": "Texas A&M +1.5",
+   "odds": -118,
+   "units": 1.0,
    "result": null,
    "pl": null,
    "pending": true
