@@ -1,5 +1,5 @@
 {
- "updated": "Nov 18, 2026, 5:16 PM PT",
+ "updated": "Nov 18, 2026, 5:19 PM PT",
  "record": {
   "w": 199,
   "l": 195,
@@ -1363,10 +1363,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P1 15:52",
+       "detail": "P1 12:51",
        "start": "2026-11-19T00:30:00Z",
        "period": 1,
-       "clock": "15:52",
+       "clock": "12:51",
        "teams": [
         {
          "name": "Bruins",
@@ -1421,16 +1421,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "19:00 - 2nd",
+       "detail": "17:17 - 2nd",
        "start": "2026-11-19T00:00Z",
        "period": 2,
-       "clock": "19:00",
+       "clock": "17:17",
        "teams": [
         {
          "name": "UNC Wilmington Seahawks",
          "short": "Seahawks",
          "abbr": "UNCW",
-         "score": 52,
+         "score": 58,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -1485,16 +1485,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "19:00 - 2nd",
+       "detail": "17:17 - 2nd",
        "start": "2026-11-19T00:00Z",
        "period": 2,
-       "clock": "19:00",
+       "clock": "17:17",
        "teams": [
         {
          "name": "UNC Wilmington Seahawks",
          "short": "Seahawks",
          "abbr": "UNCW",
-         "score": 52,
+         "score": 58,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -1549,16 +1549,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "12:54 - 1st",
+       "detail": "11:33 - 1st",
        "start": "2026-11-19T01:00Z",
        "period": 1,
-       "clock": "12:54",
+       "clock": "11:33",
        "teams": [
         {
          "name": "Purdue Fort Wayne Mastodons",
          "short": "Mastodons",
          "abbr": "PFW",
-         "score": 9,
+         "score": 12,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -1569,7 +1569,7 @@
          "name": "Bradley Braves",
          "short": "Braves",
          "abbr": "BRAD",
-         "score": 16,
+         "score": 18,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -1656,16 +1656,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "3:46 - 2nd",
+       "detail": "3:02 - 2nd",
        "start": "2026-11-19T00:00Z",
        "period": 2,
-       "clock": "3:46",
+       "clock": "3:02",
        "teams": [
         {
          "name": "Milwaukee Bucks",
          "short": "Bucks",
          "abbr": "MIL",
-         "score": 40,
+         "score": 42,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -1677,7 +1677,7 @@
          "name": "Miami Heat",
          "short": "Heat",
          "abbr": "MIA",
-         "score": 64,
+         "score": 66,
          "ha": "home",
          "winner": null,
          "linescores": [
