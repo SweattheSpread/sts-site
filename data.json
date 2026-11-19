@@ -1,5 +1,5 @@
 {
- "updated": "Nov 19, 2026, 9:12 AM PT",
+ "updated": "Nov 19, 2026, 9:39 AM PT",
  "record": {
   "w": 203,
   "l": 200,
@@ -11,7 +11,7 @@
   "first": "2026-10-12",
   "last": "2026-11-18"
  },
- "pending": 32,
+ "pending": 36,
  "latest": [
   {
    "n": 872,
@@ -127,6 +127,122 @@
   }
  ],
  "picks": [
+  {
+   "n": 890,
+   "league": "NCAAB",
+   "type": "Over/Under",
+   "matchup": "NC State Wolfpack vs Murray St Racers (neutral)",
+   "pick": "Under 165",
+   "odds": -110,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-19T15:00:00",
+   "timed": true,
+   "ticket": "single",
+   "espn": {
+    "legs": [
+     {
+      "kind": "total",
+      "side": null,
+      "ou": "U",
+      "line": 165.0,
+      "label": "U 165.0",
+      "path": "basketball/mens-college-basketball",
+      "event": "401918959",
+      "date": "20261119",
+      "snapshot": {
+       "source": "espn",
+       "state": "pre",
+       "detail": "11/19 - 6:00 PM EST",
+       "start": "2026-11-19T23:00Z",
+       "period": null,
+       "clock": null,
+       "teams": [
+        {
+         "name": "NC State Wolfpack",
+         "short": "Wolfpack",
+         "abbr": "NCSU",
+         "score": 0,
+         "ha": "away",
+         "winner": null,
+         "linescores": []
+        },
+        {
+         "name": "Murray State Racers",
+         "short": "Racers",
+         "abbr": "MUR",
+         "score": 0,
+         "ha": "home",
+         "winner": null,
+         "linescores": []
+        }
+       ]
+      },
+      "source": "espn"
+     }
+    ],
+    "sport": "NCAAB",
+    "ticket": "single"
+   }
+  },
+  {
+   "n": 891,
+   "league": "NCAAB",
+   "type": "Over/Under",
+   "matchup": "Maine Black Bears @ Quinnipiac Bobcats",
+   "pick": "Over 133",
+   "odds": -110,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-19T16:00:00",
+   "timed": true,
+   "ticket": "single",
+   "espn": {
+    "legs": [
+     {
+      "kind": "total",
+      "side": null,
+      "ou": "O",
+      "line": 133.0,
+      "label": "O 133.0",
+      "path": "basketball/mens-college-basketball",
+      "event": "401923304",
+      "date": "20261119",
+      "snapshot": {
+       "source": "espn",
+       "state": "pre",
+       "detail": "11/19 - 7:00 PM EST",
+       "start": "2026-11-20T00:00Z",
+       "period": null,
+       "clock": null,
+       "teams": [
+        {
+         "name": "Maine Black Bears",
+         "short": "Black Bears",
+         "abbr": "ME",
+         "score": 0,
+         "ha": "away",
+         "winner": null,
+         "linescores": []
+        },
+        {
+         "name": "Quinnipiac Bobcats",
+         "short": "Bobcats",
+         "abbr": "QUIN",
+         "score": 0,
+         "ha": "home",
+         "winner": null,
+         "linescores": []
+        }
+       ]
+      },
+      "source": "espn"
+     }
+    ],
+    "sport": "NCAAB",
+    "ticket": "single"
+   }
+  },
   {
    "n": 876,
    "league": "NHL",
@@ -628,6 +744,64 @@
    }
   },
   {
+   "n": 888,
+   "league": "NCAAB",
+   "type": "Over/Under",
+   "matchup": "UTEP Miners @ New Mexico St Aggies",
+   "pick": "Over 132.5",
+   "odds": -110,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-19T18:00:00",
+   "timed": true,
+   "ticket": "single",
+   "espn": {
+    "legs": [
+     {
+      "kind": "total",
+      "side": null,
+      "ou": "O",
+      "line": 132.5,
+      "label": "O 132.5",
+      "path": "basketball/mens-college-basketball",
+      "event": "401911534",
+      "date": "20261119",
+      "snapshot": {
+       "source": "espn",
+       "state": "pre",
+       "detail": "11/19 - 9:00 PM EST",
+       "start": "2026-11-20T02:00Z",
+       "period": null,
+       "clock": null,
+       "teams": [
+        {
+         "name": "UTEP Miners",
+         "short": "Miners",
+         "abbr": "UTEP",
+         "score": 0,
+         "ha": "away",
+         "winner": null,
+         "linescores": []
+        },
+        {
+         "name": "New Mexico State Aggies",
+         "short": "Aggies",
+         "abbr": "NMSU",
+         "score": 0,
+         "ha": "home",
+         "winner": null,
+         "linescores": []
+        }
+       ]
+      },
+      "source": "espn"
+     }
+    ],
+    "sport": "NCAAB",
+    "ticket": "single"
+   }
+  },
+  {
    "n": 885,
    "league": "NHL",
    "type": "Over/Under",
@@ -743,6 +917,63 @@
      }
     ],
     "sport": "NHL",
+    "ticket": "single"
+   }
+  },
+  {
+   "n": 889,
+   "league": "NCAAB",
+   "type": "Spread",
+   "matchup": "Sacramento St Hornets @ Stanford Cardinal",
+   "pick": "Sacramento St +17.5",
+   "odds": -110,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-19T19:00:00",
+   "timed": true,
+   "ticket": "single",
+   "espn": {
+    "legs": [
+     {
+      "kind": "spread",
+      "side": "Sacramento St",
+      "line": 17.5,
+      "label": "Sacramento St +17.5",
+      "path": "basketball/mens-college-basketball",
+      "event": "401920349",
+      "date": "20261119",
+      "snapshot": {
+       "source": "espn",
+       "state": "pre",
+       "detail": "11/19 - 10:00 PM EST",
+       "start": "2026-11-20T03:00Z",
+       "period": null,
+       "clock": null,
+       "teams": [
+        {
+         "name": "Sacramento State Hornets",
+         "short": "Hornets",
+         "abbr": "SAC",
+         "score": 0,
+         "ha": "away",
+         "winner": null,
+         "linescores": []
+        },
+        {
+         "name": "Stanford Cardinal",
+         "short": "Cardinal",
+         "abbr": "STAN",
+         "score": 0,
+         "ha": "home",
+         "winner": null,
+         "linescores": []
+        }
+       ]
+      },
+      "source": "espn"
+     }
+    ],
+    "sport": "NCAAB",
     "ticket": "single"
    }
   },
