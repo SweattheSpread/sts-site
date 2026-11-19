@@ -1,5 +1,5 @@
 {
- "updated": "Nov 19, 2026, 3:25 PM PT",
+ "updated": "Nov 19, 2026, 3:31 PM PT",
  "record": {
   "w": 203,
   "l": 200,
@@ -2611,16 +2611,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "11:48 - 1st",
+       "detail": "11:09 - 1st",
        "start": "2026-11-19T23:00Z",
        "period": 1,
-       "clock": "11:48",
+       "clock": "11:09",
        "teams": [
         {
          "name": "Murray State Racers",
          "short": "Racers",
          "abbr": "MUR",
-         "score": 9,
+         "score": 11,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -2631,7 +2631,7 @@
          "name": "NC State Wolfpack",
          "short": "Wolfpack",
          "abbr": "NCSU",
-         "score": 13,
+         "score": 14,
          "ha": "home",
          "winner": null,
          "linescores": [
