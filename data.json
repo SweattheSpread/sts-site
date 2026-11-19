@@ -1,5 +1,5 @@
 {
- "updated": "Nov 18, 2026, 6:04 PM PT",
+ "updated": "Nov 18, 2026, 6:07 PM PT",
  "record": {
   "w": 199,
   "l": 195,
@@ -1305,10 +1305,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P2 04:06",
+       "detail": "P2 03:24",
        "start": "2026-11-19T00:30:00Z",
        "period": 2,
-       "clock": "04:06",
+       "clock": "03:24",
        "teams": [
         {
          "name": "Bruins",
@@ -1364,10 +1364,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "18:52 - 1st",
+       "detail": "17:00 - 1st",
        "start": "2026-11-19T02:00Z",
        "period": 1,
-       "clock": "18:52",
+       "clock": "17:00",
        "teams": [
         {
          "name": "Weber State Wildcats",
@@ -1384,7 +1384,7 @@
          "name": "Utah State Aggies",
          "short": "Aggies",
          "abbr": "USU",
-         "score": 3,
+         "score": 10,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -1446,7 +1446,7 @@
          "name": "Long Island University Sharks",
          "short": "Sharks",
          "abbr": "LIU",
-         "score": 92,
+         "score": 93,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -1510,7 +1510,7 @@
          "name": "Long Island University Sharks",
          "short": "Sharks",
          "abbr": "LIU",
-         "score": 92,
+         "score": 93,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -1553,10 +1553,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "18:07 - 2nd",
+       "detail": "17:37 - 2nd",
        "start": "2026-11-19T01:00Z",
        "period": 2,
-       "clock": "18:07",
+       "clock": "17:37",
        "teams": [
         {
          "name": "Purdue Fort Wayne Mastodons",
@@ -1625,7 +1625,7 @@
          "name": "Houston Rockets",
          "short": "Rockets",
          "abbr": "HOU",
-         "score": 106,
+         "score": 108,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -1666,16 +1666,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "5:09 - 3rd",
+       "detail": "4:44 - 3rd",
        "start": "2026-11-19T00:00Z",
        "period": 3,
-       "clock": "5:09",
+       "clock": "4:44",
        "teams": [
         {
          "name": "Milwaukee Bucks",
          "short": "Bucks",
          "abbr": "MIL",
-         "score": 65,
+         "score": 67,
          "ha": "away",
          "winner": null,
          "linescores": [
