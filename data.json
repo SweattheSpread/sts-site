@@ -1,5 +1,5 @@
 {
- "updated": "Nov 18, 2026, 7:10 PM PT",
+ "updated": "Nov 18, 2026, 7:12 PM PT",
  "record": {
   "w": 199,
   "l": 195,
@@ -1304,8 +1304,8 @@
       "date": "20261118",
       "snapshot": {
        "source": "nhl",
-       "state": "in",
-       "detail": "OVER",
+       "state": "post",
+       "detail": "Final",
        "start": "2026-11-19T00:30:00Z",
        "period": 3,
        "clock": "00:00",
@@ -1316,7 +1316,7 @@
          "abbr": "BOS",
          "score": 4,
          "ha": "away",
-         "winner": null,
+         "winner": true,
          "linescores": []
         },
         {
@@ -1325,7 +1325,7 @@
          "abbr": "DET",
          "score": 1,
          "ha": "home",
-         "winner": null,
+         "winner": false,
          "linescores": []
         }
        ],
@@ -1364,19 +1364,20 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "Halftime",
+       "detail": "16:51 - 2nd",
        "start": "2026-11-19T02:00Z",
-       "period": 1,
-       "clock": "0:00",
+       "period": 2,
+       "clock": "16:51",
        "teams": [
         {
          "name": "Weber State Wildcats",
          "short": "Wildcats",
          "abbr": "WEB",
-         "score": 34,
+         "score": 38,
          "ha": "away",
          "winner": null,
          "linescores": [
+          0,
           0
          ]
         },
@@ -1384,10 +1385,11 @@
          "name": "Utah State Aggies",
          "short": "Aggies",
          "abbr": "USU",
-         "score": 52,
+         "score": 63,
          "ha": "home",
          "winner": null,
          "linescores": [
+          0,
           0
          ]
         }
