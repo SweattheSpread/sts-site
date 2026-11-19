@@ -1,5 +1,5 @@
 {
- "updated": "Nov 19, 2026, 2:46 PM PT",
+ "updated": "Nov 19, 2026, 2:55 PM PT",
  "record": {
   "w": 203,
   "l": 200,
@@ -11,7 +11,7 @@
   "first": "2026-10-12",
   "last": "2026-11-18"
  },
- "pending": 42,
+ "pending": 44,
  "latest": [
   {
    "n": 872,
@@ -857,6 +857,60 @@
        "nhl_id": 2026020350
       },
       "source": "nhl"
+     }
+    ],
+    "sport": "NHL",
+    "ticket": "single"
+   }
+  },
+  {
+   "n": 898,
+   "league": "NHL",
+   "type": "Over/Under",
+   "matchup": "Portland Trail Blazers @ Milwaukee Bucks",
+   "pick": "Brayden Burries Under 12.5 points",
+   "odds": -105,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-19T17:10:00",
+   "timed": true,
+   "ticket": "single",
+   "espn": {
+    "legs": [
+     {
+      "kind": "team_total",
+      "side": "Brayden Burries",
+      "ou": "U",
+      "line": 12.5,
+      "label": "Brayden Burries U 12.5",
+      "unverified": true
+     }
+    ],
+    "sport": "NHL",
+    "ticket": "single"
+   }
+  },
+  {
+   "n": 899,
+   "league": "NHL",
+   "type": "Over/Under",
+   "matchup": "New York Knicks @ Minnesota Timberwolves",
+   "pick": "LaMelo Ball Under 5.5 assists",
+   "odds": 130,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-19T17:10:00",
+   "timed": true,
+   "ticket": "single",
+   "espn": {
+    "legs": [
+     {
+      "kind": "team_total",
+      "side": "LaMelo Ball",
+      "ou": "U",
+      "line": 5.5,
+      "label": "LaMelo Ball U 5.5",
+      "unverified": true
      }
     ],
     "sport": "NHL",

@@ -1,5 +1,5 @@
 {
- "updated": "Nov 19, 2026, 2:46 PM PT",
+ "updated": "Nov 19, 2026, 2:55 PM PT",
  "record": {
   "w": 203,
   "l": 200,
@@ -11,7 +11,7 @@
   "first": "2026-10-12",
   "last": "2026-11-18"
  },
- "pending": 42,
+ "pending": 44,
  "plays": [
   {
    "n": 334,
@@ -6872,6 +6872,38 @@
    "matchup": "Dallas Stars @ Vegas Golden Knights",
    "pick": "Victor Olofsson Over 0.5 points",
    "odds": 115,
+   "units": 1.0,
+   "result": null,
+   "pl": null,
+   "pending": true
+  },
+  {
+   "n": 898,
+   "date": "2026-11-19",
+   "day": "2026-11-19",
+   "league": "NHL",
+   "market": "total",
+   "market_label": "Total",
+   "ticket": "single",
+   "matchup": "Portland Trail Blazers @ Milwaukee Bucks",
+   "pick": "Brayden Burries Under 12.5 points",
+   "odds": -105,
+   "units": 1.0,
+   "result": null,
+   "pl": null,
+   "pending": true
+  },
+  {
+   "n": 899,
+   "date": "2026-11-19",
+   "day": "2026-11-19",
+   "league": "NHL",
+   "market": "total",
+   "market_label": "Total",
+   "ticket": "single",
+   "matchup": "New York Knicks @ Minnesota Timberwolves",
+   "pick": "LaMelo Ball Under 5.5 assists",
+   "odds": 130,
    "units": 1.0,
    "result": null,
    "pl": null,
