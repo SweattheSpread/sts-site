@@ -1,5 +1,5 @@
 {
- "updated": "Nov 18, 2026, 4:42 PM PT",
+ "updated": "Nov 18, 2026, 4:45 PM PT",
  "record": {
   "w": 199,
   "l": 195,
@@ -1364,33 +1364,7 @@
       "event": "339-2026",
       "comp": "187514",
       "date": "20261118",
-      "opp": "Flavio Cobolli",
-      "snapshot": {
-       "source": "tennis-explorer",
-       "path": "tennis/explorer",
-       "event": "3377751",
-       "state": "post",
-       "detail": "Final \u00b7 2-0 sets",
-       "tennis": [
-        {
-         "name": "Tiafoe F.",
-         "winner": true,
-         "sets": [
-          7,
-          6
-         ]
-        },
-        {
-         "name": "Cobolli F.",
-         "winner": false,
-         "sets": [
-          66,
-          0
-         ]
-        }
-       ],
-       "tour": "Masters Cup ATP"
-      }
+      "opp": "Flavio Cobolli"
      }
     ],
     "sport": "Tennis",
@@ -1421,10 +1395,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P1 17:15",
+       "detail": "P1 15:32",
        "start": "2026-11-19T00:30:00Z",
        "period": 1,
-       "clock": "17:15",
+       "clock": "15:32",
        "teams": [
         {
          "name": "Bruins",
@@ -1479,10 +1453,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "4:08 - 1st",
+       "detail": "3:39 - 1st",
        "start": "2026-11-19T00:00Z",
        "period": 1,
-       "clock": "4:08",
+       "clock": "3:39",
        "teams": [
         {
          "name": "UNC Wilmington Seahawks",
@@ -1499,7 +1473,7 @@
          "name": "Long Island University Sharks",
          "short": "Sharks",
          "abbr": "LIU",
-         "score": 34,
+         "score": 38,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -1541,10 +1515,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "4:08 - 1st",
+       "detail": "3:39 - 1st",
        "start": "2026-11-19T00:00Z",
        "period": 1,
-       "clock": "4:08",
+       "clock": "3:39",
        "teams": [
         {
          "name": "UNC Wilmington Seahawks",
@@ -1561,7 +1535,7 @@
          "name": "Long Island University Sharks",
          "short": "Sharks",
          "abbr": "LIU",
-         "score": 34,
+         "score": 38,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -1602,16 +1576,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "8:56 - 2nd",
+       "detail": "7:21 - 2nd",
        "start": "2026-11-19T00:00Z",
        "period": 2,
-       "clock": "8:56",
+       "clock": "7:21",
        "teams": [
         {
          "name": "Houston Rockets",
          "short": "Rockets",
          "abbr": "HOU",
-         "score": 43,
+         "score": 46,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -1648,16 +1622,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "1:36 - 1st",
+       "detail": "33.5 - 1st",
        "start": "2026-11-19T00:00Z",
        "period": 1,
-       "clock": "1:36",
+       "clock": "33.5",
        "teams": [
         {
          "name": "Milwaukee Bucks",
          "short": "Bucks",
          "abbr": "MIL",
-         "score": 20,
+         "score": 21,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -1668,7 +1642,7 @@
          "name": "Miami Heat",
          "short": "Heat",
          "abbr": "MIA",
-         "score": 30,
+         "score": 33,
          "ha": "home",
          "winner": null,
          "linescores": [
