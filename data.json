@@ -1,5 +1,5 @@
 {
- "updated": "Nov 18, 2026, 6:17 PM PT",
+ "updated": "Nov 18, 2026, 6:47 PM PT",
  "record": {
   "w": 199,
   "l": 195,
@@ -1305,16 +1305,16 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P2 10:25",
+       "detail": "P3 10:04",
        "start": "2026-11-19T00:30:00Z",
-       "period": 2,
-       "clock": "10:25",
+       "period": 3,
+       "clock": "10:04",
        "teams": [
         {
          "name": "Bruins",
          "short": "BOS",
          "abbr": "BOS",
-         "score": 2,
+         "score": 3,
          "ha": "away",
          "winner": null,
          "linescores": []
@@ -1364,16 +1364,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "15:10 - 1st",
+       "detail": "2:50 - 1st",
        "start": "2026-11-19T02:00Z",
        "period": 1,
-       "clock": "15:10",
+       "clock": "2:50",
        "teams": [
         {
          "name": "Weber State Wildcats",
          "short": "Wildcats",
          "abbr": "WEB",
-         "score": 11,
+         "score": 26,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -1384,7 +1384,7 @@
          "name": "Utah State Aggies",
          "short": "Aggies",
          "abbr": "USU",
-         "score": 23,
+         "score": 47,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -1424,20 +1424,21 @@
       "date": "20261118",
       "snapshot": {
        "source": "espn",
-       "state": "in",
-       "detail": "1:57 - OT",
+       "state": "post",
+       "detail": "Final/2OT",
        "start": "2026-11-19T00:00Z",
-       "period": 3,
-       "clock": "1:57",
+       "period": null,
+       "clock": null,
        "teams": [
         {
          "name": "UNC Wilmington Seahawks",
          "short": "Seahawks",
          "abbr": "UNCW",
-         "score": 95,
+         "score": 114,
          "ha": "away",
-         "winner": null,
+         "winner": false,
          "linescores": [
+          0,
           0,
           0,
           0
@@ -1447,10 +1448,11 @@
          "name": "Long Island University Sharks",
          "short": "Sharks",
          "abbr": "LIU",
-         "score": 99,
+         "score": 115,
          "ha": "home",
-         "winner": null,
+         "winner": true,
          "linescores": [
+          0,
           0,
           0,
           0
@@ -1490,20 +1492,21 @@
       "date": "20261118",
       "snapshot": {
        "source": "espn",
-       "state": "in",
-       "detail": "1:57 - OT",
+       "state": "post",
+       "detail": "Final/2OT",
        "start": "2026-11-19T00:00Z",
-       "period": 3,
-       "clock": "1:57",
+       "period": null,
+       "clock": null,
        "teams": [
         {
          "name": "UNC Wilmington Seahawks",
          "short": "Seahawks",
          "abbr": "UNCW",
-         "score": 95,
+         "score": 114,
          "ha": "away",
-         "winner": null,
+         "winner": false,
          "linescores": [
+          0,
           0,
           0,
           0
@@ -1513,10 +1516,11 @@
          "name": "Long Island University Sharks",
          "short": "Sharks",
          "abbr": "LIU",
-         "score": 99,
+         "score": 115,
          "ha": "home",
-         "winner": null,
+         "winner": true,
          "linescores": [
+          0,
           0,
           0,
           0
@@ -1557,16 +1561,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "14:02 - 2nd",
+       "detail": "1:17 - 2nd",
        "start": "2026-11-19T01:00Z",
        "period": 2,
-       "clock": "14:02",
+       "clock": "1:17",
        "teams": [
         {
          "name": "Purdue Fort Wayne Mastodons",
          "short": "Mastodons",
          "abbr": "PFW",
-         "score": 52,
+         "score": 73,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -1578,7 +1582,7 @@
          "name": "Bradley Braves",
          "short": "Braves",
          "abbr": "BRAD",
-         "score": 45,
+         "score": 68,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -1619,19 +1623,19 @@
       "date": "20261118",
       "snapshot": {
        "source": "espn",
-       "state": "in",
-       "detail": "2:05 - 4th",
+       "state": "post",
+       "detail": "Final",
        "start": "2026-11-19T00:00Z",
-       "period": 4,
-       "clock": "2:05",
+       "period": null,
+       "clock": null,
        "teams": [
         {
          "name": "Houston Rockets",
          "short": "Rockets",
          "abbr": "HOU",
-         "score": 116,
+         "score": 119,
          "ha": "away",
-         "winner": null,
+         "winner": true,
          "linescores": [
           0,
           0,
@@ -1643,9 +1647,9 @@
          "name": "Indiana Pacers",
          "short": "Pacers",
          "abbr": "IND",
-         "score": 99,
+         "score": 104,
          "ha": "home",
-         "winner": null,
+         "winner": false,
          "linescores": [
           0,
           0,
@@ -1668,32 +1672,44 @@
       "event": "401910009",
       "date": "20261118",
       "snapshot": {
-       "source": "odds-api",
+       "source": "espn",
        "state": "in",
-       "detail": "Live",
-       "start": "2026-11-19T00:10:00Z",
+       "detail": "2:58 - 4th",
+       "start": "2026-11-19T00:00Z",
+       "period": 4,
+       "clock": "2:58",
        "teams": [
         {
-         "name": "Houston Rockets",
-         "short": "Houston Rockets",
-         "abbr": "",
-         "score": 116,
+         "name": "Milwaukee Bucks",
+         "short": "Bucks",
+         "abbr": "MIL",
+         "score": 114,
          "ha": "away",
          "winner": null,
-         "linescores": []
+         "linescores": [
+          0,
+          0,
+          0,
+          0
+         ]
         },
         {
-         "name": "Indiana Pacers",
-         "short": "Indiana Pacers",
-         "abbr": "",
-         "score": 99,
+         "name": "Miami Heat",
+         "short": "Heat",
+         "abbr": "MIA",
+         "score": 135,
          "ha": "home",
          "winner": null,
-         "linescores": []
+         "linescores": [
+          0,
+          0,
+          0,
+          0
+         ]
         }
        ]
       },
-      "source": "odds-api"
+      "source": "espn"
      }
     ],
     "sport": "NBA",
