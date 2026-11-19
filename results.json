@@ -1,5 +1,5 @@
 {
- "updated": "Nov 19, 2026, 9:39 AM PT",
+ "updated": "Nov 19, 2026, 10:16 AM PT",
  "record": {
   "w": 203,
   "l": 200,
@@ -11,7 +11,7 @@
   "first": "2026-10-12",
   "last": "2026-11-18"
  },
- "pending": 36,
+ "pending": 38,
  "plays": [
   {
    "n": 334,
@@ -6776,6 +6776,38 @@
    "matchup": "Maine Black Bears @ Quinnipiac Bobcats",
    "pick": "Over 133",
    "odds": -110,
+   "units": 1.0,
+   "result": null,
+   "pl": null,
+   "pending": true
+  },
+  {
+   "n": 892,
+   "date": "2026-11-19",
+   "day": "2026-11-19",
+   "league": "NBA",
+   "market": "total",
+   "market_label": "Total",
+   "ticket": "single",
+   "matchup": "Portland Trail Blazers @ Milwaukee Bucks",
+   "pick": "Damian Lillard Under 3.5 threes",
+   "odds": -125,
+   "units": 1.0,
+   "result": null,
+   "pl": null,
+   "pending": true
+  },
+  {
+   "n": 893,
+   "date": "2026-11-19",
+   "day": "2026-11-19",
+   "league": "NHL",
+   "market": "total",
+   "market_label": "Total",
+   "ticket": "single",
+   "matchup": "Minnesota Wild @ Calgary Flames",
+   "pick": "Matt Boldy Under 3.5 shots on goal",
+   "odds": -105,
    "units": 1.0,
    "result": null,
    "pl": null,

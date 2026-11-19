@@ -1,5 +1,5 @@
 {
- "updated": "Nov 19, 2026, 9:39 AM PT",
+ "updated": "Nov 19, 2026, 10:16 AM PT",
  "record": {
   "w": 203,
   "l": 200,
@@ -11,7 +11,7 @@
   "first": "2026-10-12",
   "last": "2026-11-18"
  },
- "pending": 36,
+ "pending": 38,
  "latest": [
   {
    "n": 872,
@@ -620,6 +620,123 @@
         }
        ],
        "nhl_id": 2026020350
+      },
+      "source": "nhl"
+     }
+    ],
+    "sport": "NHL",
+    "ticket": "single"
+   }
+  },
+  {
+   "n": 892,
+   "league": "NBA",
+   "type": "Over/Under",
+   "matchup": "Portland Trail Blazers @ Milwaukee Bucks",
+   "pick": "Damian Lillard Under 3.5 threes",
+   "odds": -125,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-19T17:10:00",
+   "timed": true,
+   "ticket": "single",
+   "espn": {
+    "legs": [
+     {
+      "kind": "team_total",
+      "side": "Damian Lillard",
+      "ou": "U",
+      "line": 3.5,
+      "label": "Damian Lillard U 3.5",
+      "path": "basketball/nba",
+      "event": "401910020",
+      "date": "20261119",
+      "snapshot": {
+       "source": "espn",
+       "state": "pre",
+       "detail": "11/19 - 8:00 PM EST",
+       "start": "2026-11-20T01:00Z",
+       "period": null,
+       "clock": null,
+       "teams": [
+        {
+         "name": "Portland Trail Blazers",
+         "short": "Trail Blazers",
+         "abbr": "POR",
+         "score": 0,
+         "ha": "away",
+         "winner": null,
+         "linescores": []
+        },
+        {
+         "name": "Milwaukee Bucks",
+         "short": "Bucks",
+         "abbr": "MIL",
+         "score": 0,
+         "ha": "home",
+         "winner": null,
+         "linescores": []
+        }
+       ]
+      },
+      "source": "espn"
+     }
+    ],
+    "sport": "NBA",
+    "ticket": "single"
+   }
+  },
+  {
+   "n": 893,
+   "league": "NHL",
+   "type": "Over/Under",
+   "matchup": "Minnesota Wild @ Calgary Flames",
+   "pick": "Matt Boldy Under 3.5 shots on goal",
+   "odds": -105,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-19T17:10:00",
+   "timed": true,
+   "ticket": "single",
+   "espn": {
+    "legs": [
+     {
+      "kind": "team_total",
+      "side": "Matt Boldy",
+      "ou": "U",
+      "line": 3.5,
+      "label": "Matt Boldy U 3.5",
+      "path": "hockey/nhl",
+      "event": "401892750",
+      "date": "20261119",
+      "snapshot": {
+       "source": "nhl",
+       "state": "pre",
+       "detail": "Scheduled",
+       "start": "2026-11-20T01:00:00Z",
+       "period": null,
+       "clock": null,
+       "teams": [
+        {
+         "name": "Wild",
+         "short": "MIN",
+         "abbr": "MIN",
+         "score": 0,
+         "ha": "away",
+         "winner": null,
+         "linescores": []
+        },
+        {
+         "name": "Flames",
+         "short": "CGY",
+         "abbr": "CGY",
+         "score": 0,
+         "ha": "home",
+         "winner": null,
+         "linescores": []
+        }
+       ],
+       "nhl_id": 2026020355
       },
       "source": "nhl"
      }
