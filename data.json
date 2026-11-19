@@ -1,5 +1,5 @@
 {
- "updated": "Nov 18, 2026, 9:46 PM PT",
+ "updated": "Nov 18, 2026, 9:49 PM PT",
  "record": {
   "w": 199,
   "l": 195,
@@ -1188,16 +1188,16 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P3 05:57",
+       "detail": "P3 04:47",
        "start": "2026-11-19T03:00:00Z",
        "period": 3,
-       "clock": "05:57",
+       "clock": "04:47",
        "teams": [
         {
          "name": "Avalanche",
          "short": "COL",
          "abbr": "COL",
-         "score": 0,
+         "score": 1,
          "ha": "away",
          "winner": null,
          "linescores": []
@@ -1252,16 +1252,16 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P3 05:57",
+       "detail": "P3 04:47",
        "start": "2026-11-19T03:00:00Z",
        "period": 3,
-       "clock": "05:57",
+       "clock": "04:47",
        "teams": [
         {
          "name": "Avalanche",
          "short": "COL",
          "abbr": "COL",
-         "score": 0,
+         "score": 1,
          "ha": "away",
          "winner": null,
          "linescores": []
