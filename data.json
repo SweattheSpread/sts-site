@@ -1,5 +1,5 @@
 {
- "updated": "Nov 18, 2026, 3:56 PM PT",
+ "updated": "Nov 18, 2026, 4:06 PM PT",
  "record": {
   "w": 199,
   "l": 195,
@@ -127,121 +127,6 @@
   }
  ],
  "picks": [
-  {
-   "n": 869,
-   "league": "NCAAB",
-   "type": "Spread",
-   "matchup": "UNC Wilmington Seahawks @ LIU Sharks",
-   "pick": "LIU +9.5",
-   "odds": -110,
-   "units": 1.0,
-   "gap": null,
-   "start": "2026-11-18T16:00:00",
-   "timed": true,
-   "ticket": "single",
-   "espn": {
-    "legs": [
-     {
-      "kind": "spread",
-      "side": "LIU",
-      "line": 9.5,
-      "label": "LIU +9.5",
-      "path": "basketball/mens-college-basketball",
-      "event": "401919808",
-      "date": "20261118",
-      "snapshot": {
-       "source": "espn",
-       "state": "pre",
-       "detail": "11/18 - 7:00 PM EST",
-       "start": "2026-11-19T00:00Z",
-       "period": null,
-       "clock": null,
-       "teams": [
-        {
-         "name": "UNC Wilmington Seahawks",
-         "short": "Seahawks",
-         "abbr": "UNCW",
-         "score": 0,
-         "ha": "away",
-         "winner": null,
-         "linescores": []
-        },
-        {
-         "name": "Long Island University Sharks",
-         "short": "Sharks",
-         "abbr": "LIU",
-         "score": 0,
-         "ha": "home",
-         "winner": null,
-         "linescores": []
-        }
-       ]
-      },
-      "source": "espn"
-     }
-    ],
-    "sport": "NCAAB",
-    "ticket": "single"
-   }
-  },
-  {
-   "n": 870,
-   "league": "NCAAB",
-   "type": "Over/Under",
-   "matchup": "UNC Wilmington Seahawks @ LIU Sharks",
-   "pick": "Under 147.5",
-   "odds": -110,
-   "units": 1.0,
-   "gap": null,
-   "start": "2026-11-18T16:00:00",
-   "timed": true,
-   "ticket": "single",
-   "espn": {
-    "legs": [
-     {
-      "kind": "total",
-      "side": null,
-      "ou": "U",
-      "line": 147.5,
-      "label": "U 147.5",
-      "path": "basketball/mens-college-basketball",
-      "event": "401919808",
-      "date": "20261118",
-      "snapshot": {
-       "source": "espn",
-       "state": "pre",
-       "detail": "11/18 - 7:00 PM EST",
-       "start": "2026-11-19T00:00Z",
-       "period": null,
-       "clock": null,
-       "teams": [
-        {
-         "name": "UNC Wilmington Seahawks",
-         "short": "Seahawks",
-         "abbr": "UNCW",
-         "score": 0,
-         "ha": "away",
-         "winner": null,
-         "linescores": []
-        },
-        {
-         "name": "Long Island University Sharks",
-         "short": "Sharks",
-         "abbr": "LIU",
-         "score": 0,
-         "ha": "home",
-         "winner": null,
-         "linescores": []
-        }
-       ]
-      },
-      "source": "espn"
-     }
-    ],
-    "sport": "NCAAB",
-    "ticket": "single"
-   }
-  },
   {
    "n": 872,
    "league": "NBA",
@@ -1663,6 +1548,129 @@
      }
     ],
     "sport": "Tennis",
+    "ticket": "single"
+   }
+  },
+  {
+   "n": 869,
+   "league": "NCAAB",
+   "type": "Spread",
+   "matchup": "UNC Wilmington Seahawks @ LIU Sharks",
+   "pick": "LIU +9.5",
+   "odds": -110,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-18T16:00:00",
+   "timed": true,
+   "ticket": "single",
+   "espn": {
+    "legs": [
+     {
+      "kind": "spread",
+      "side": "LIU",
+      "line": 9.5,
+      "label": "LIU +9.5",
+      "path": "basketball/mens-college-basketball",
+      "event": "401919808",
+      "date": "20261118",
+      "snapshot": {
+       "source": "espn",
+       "state": "in",
+       "detail": "19:27 - 1st",
+       "start": "2026-11-19T00:00Z",
+       "period": 1,
+       "clock": "19:27",
+       "teams": [
+        {
+         "name": "UNC Wilmington Seahawks",
+         "short": "Seahawks",
+         "abbr": "UNCW",
+         "score": 2,
+         "ha": "away",
+         "winner": null,
+         "linescores": [
+          0
+         ]
+        },
+        {
+         "name": "Long Island University Sharks",
+         "short": "Sharks",
+         "abbr": "LIU",
+         "score": 0,
+         "ha": "home",
+         "winner": null,
+         "linescores": [
+          0
+         ]
+        }
+       ]
+      },
+      "source": "espn"
+     }
+    ],
+    "sport": "NCAAB",
+    "ticket": "single"
+   }
+  },
+  {
+   "n": 870,
+   "league": "NCAAB",
+   "type": "Over/Under",
+   "matchup": "UNC Wilmington Seahawks @ LIU Sharks",
+   "pick": "Under 147.5",
+   "odds": -110,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-18T16:00:00",
+   "timed": true,
+   "ticket": "single",
+   "espn": {
+    "legs": [
+     {
+      "kind": "total",
+      "side": null,
+      "ou": "U",
+      "line": 147.5,
+      "label": "U 147.5",
+      "path": "basketball/mens-college-basketball",
+      "event": "401919808",
+      "date": "20261118",
+      "snapshot": {
+       "source": "espn",
+       "state": "in",
+       "detail": "19:27 - 1st",
+       "start": "2026-11-19T00:00Z",
+       "period": 1,
+       "clock": "19:27",
+       "teams": [
+        {
+         "name": "UNC Wilmington Seahawks",
+         "short": "Seahawks",
+         "abbr": "UNCW",
+         "score": 2,
+         "ha": "away",
+         "winner": null,
+         "linescores": [
+          0
+         ]
+        },
+        {
+         "name": "Long Island University Sharks",
+         "short": "Sharks",
+         "abbr": "LIU",
+         "score": 0,
+         "ha": "home",
+         "winner": null,
+         "linescores": [
+          0
+         ]
+        }
+       ]
+      },
+      "source": "espn"
+     }
+    ],
+    "sport": "NCAAB",
     "ticket": "single"
    }
   }
