@@ -1,17 +1,17 @@
 {
- "updated": "Nov 18, 2026, 10:20 PM PT",
+ "updated": "Nov 18, 2026, 11:36 PM PT",
  "record": {
-  "w": 199,
-  "l": 195,
+  "w": 203,
+  "l": 200,
   "p": 0,
-  "n": 394,
-  "units": 50.3,
-  "risked": 560.75,
-  "roi": 8.97,
+  "n": 403,
+  "units": 49.95,
+  "risked": 573.25,
+  "roi": 8.71,
   "first": "2026-10-12",
-  "last": "2026-11-17"
+  "last": "2026-11-18"
  },
- "pending": 26,
+ "pending": 17,
  "plays": [
   {
    "n": 334,
@@ -6409,9 +6409,9 @@
    "pick": "Frances Tiafoe ML",
    "odds": -140,
    "units": 2.0,
-   "result": null,
-   "pl": null,
-   "pending": true
+   "result": "W",
+   "pl": 1.43,
+   "pending": false
   },
   {
    "n": 850,
@@ -6425,9 +6425,9 @@
    "pick": "Mikhail Sergachev Over 2.5 shots on goal",
    "odds": 140,
    "units": 1.0,
-   "result": null,
-   "pl": null,
-   "pending": true
+   "result": "L",
+   "pl": -1.0,
+   "pending": false
   },
   {
    "n": 851,
@@ -6441,9 +6441,9 @@
    "pick": "Artturi Lehkonen Over 0.5 points",
    "odds": -115,
    "units": 1.0,
-   "result": null,
-   "pl": null,
-   "pending": true
+   "result": "L",
+   "pl": -1.0,
+   "pending": false
   },
   {
    "n": 867,
@@ -6457,9 +6457,9 @@
    "pick": "Detroit Red Wings ML -109",
    "odds": -109,
    "units": 0.5,
-   "result": null,
-   "pl": null,
-   "pending": true
+   "result": "L",
+   "pl": -0.5,
+   "pending": false
   },
   {
    "n": 868,
@@ -6473,9 +6473,9 @@
    "pick": "Under 171.5",
    "odds": -110,
    "units": 3.0,
-   "result": null,
-   "pl": null,
-   "pending": true
+   "result": "L",
+   "pl": -3.0,
+   "pending": false
   },
   {
    "n": 869,
@@ -6489,9 +6489,9 @@
    "pick": "LIU +9.5",
    "odds": -110,
    "units": 1.0,
-   "result": null,
-   "pl": null,
-   "pending": true
+   "result": "W",
+   "pl": 0.91,
+   "pending": false
   },
   {
    "n": 870,
@@ -6505,9 +6505,9 @@
    "pick": "Under 147.5",
    "odds": -110,
    "units": 1.0,
-   "result": null,
-   "pl": null,
-   "pending": true
+   "result": "L",
+   "pl": -1.0,
+   "pending": false
   },
   {
    "n": 871,
@@ -6521,9 +6521,9 @@
    "pick": "Over 135.5",
    "odds": -110,
    "units": 1.0,
-   "result": null,
-   "pl": null,
-   "pending": true
+   "result": "W",
+   "pl": 0.91,
+   "pending": false
   },
   {
    "n": 872,
@@ -6537,9 +6537,9 @@
    "pick": "Houston Rockets ML -350 vs Indiana Pacers + Miami Heat 1H -7.0 -110 vs Milwaukee Bucks",
    "odds": 145,
    "units": 2.0,
-   "result": null,
-   "pl": null,
-   "pending": true
+   "result": "W",
+   "pl": 2.9,
+   "pending": false
   },
   {
    "n": 831,

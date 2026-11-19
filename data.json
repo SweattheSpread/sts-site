@@ -1,26 +1,110 @@
 {
- "updated": "Nov 18, 2026, 10:20 PM PT",
+ "updated": "Nov 18, 2026, 11:36 PM PT",
  "record": {
-  "w": 199,
-  "l": 195,
+  "w": 203,
+  "l": 200,
   "p": 0,
-  "n": 394,
-  "units": 50.3,
-  "risked": 560.75,
-  "roi": 8.97,
+  "n": 403,
+  "units": 49.95,
+  "risked": 573.25,
+  "roi": 8.71,
   "first": "2026-10-12",
-  "last": "2026-11-17"
+  "last": "2026-11-18"
  },
- "pending": 26,
+ "pending": 17,
  "latest": [
   {
-   "n": 848,
-   "date": "2026-11-17",
-   "day": "2026-11-17",
+   "n": 872,
+   "date": "2026-11-18",
+   "day": "2026-11-18",
+   "league": "NBA",
+   "type": "Parlay",
+   "matchup": "2-leg parlay: Houston Rockets @ Indiana Pacers + Milwaukee Bucks @ Miami Heat",
+   "pick": "Houston Rockets ML -350 vs Indiana Pacers + Miami Heat 1H -7.0 -110 vs Milwaukee Bucks",
+   "odds": 145,
+   "units": 2.0,
+   "result": "W",
+   "pl": 2.9,
+   "ticket": "parlay"
+  },
+  {
+   "n": 871,
+   "date": "2026-11-18",
+   "day": "2026-11-18",
+   "league": "NCAAB",
+   "type": "Over/Under",
+   "matchup": "Purdue Fort Wayne Mastodons @ Bradley Braves",
+   "pick": "Over 135.5",
+   "odds": -110,
+   "units": 1.0,
+   "result": "W",
+   "pl": 0.91,
+   "ticket": "single"
+  },
+  {
+   "n": 870,
+   "date": "2026-11-18",
+   "day": "2026-11-18",
+   "league": "NCAAB",
+   "type": "Over/Under",
+   "matchup": "UNC Wilmington Seahawks @ LIU Sharks",
+   "pick": "Under 147.5",
+   "odds": -110,
+   "units": 1.0,
+   "result": "L",
+   "pl": -1.0,
+   "ticket": "single"
+  },
+  {
+   "n": 869,
+   "date": "2026-11-18",
+   "day": "2026-11-18",
    "league": "NCAAB",
    "type": "Spread",
-   "matchup": "Auburn Tigers vs West Virginia Mountaineers at Michelob ULTRA Arena, Las Vegas",
-   "pick": "Auburn +1.5",
+   "matchup": "UNC Wilmington Seahawks @ LIU Sharks",
+   "pick": "LIU +9.5",
+   "odds": -110,
+   "units": 1.0,
+   "result": "W",
+   "pl": 0.91,
+   "ticket": "single"
+  },
+  {
+   "n": 868,
+   "date": "2026-11-18",
+   "day": "2026-11-18",
+   "league": "NCAAB",
+   "type": "Over/Under",
+   "matchup": "Weber State Wildcats @ Utah State Aggies",
+   "pick": "Under 171.5",
+   "odds": -110,
+   "units": 3.0,
+   "result": "L",
+   "pl": -3.0,
+   "ticket": "single"
+  },
+  {
+   "n": 867,
+   "date": "2026-11-18",
+   "day": "2026-11-18",
+   "league": "NHL",
+   "type": "Moneyline",
+   "matchup": "Boston Bruins @ Detroit Red Wings",
+   "pick": "Detroit Red Wings ML",
+   "odds": -109,
+   "units": 0.5,
+   "result": "L",
+   "pl": -0.5,
+   "ticket": "single"
+  },
+  {
+   "n": 851,
+   "date": "2026-11-18",
+   "day": "2026-11-18",
+   "league": "NHL",
+   "type": "Prop",
+   "matchup": "Colorado Avalanche @ Utah Mammoth",
+   "pick": "Artturi Lehkonen Over 0.5 points",
    "odds": -115,
    "units": 1.0,
    "result": "L",
@@ -28,101 +112,17 @@
    "ticket": "single"
   },
   {
-   "n": 847,
-   "date": "2026-11-17",
-   "day": "2026-11-17",
-   "league": "NCAAB",
-   "type": "Over/Under",
-   "matchup": "UNLV Rebels vs Kansas Jayhawks at Michelob ULTRA Arena, Las Vegas",
-   "pick": "Under 158 total points",
-   "odds": -110,
+   "n": 850,
+   "date": "2026-11-18",
+   "day": "2026-11-18",
+   "league": "NHL",
+   "type": "Prop",
+   "matchup": "Colorado Avalanche @ Utah Mammoth",
+   "pick": "Mikhail Sergachev Over 2.5 shots on goal",
+   "odds": 140,
    "units": 1.0,
    "result": "L",
    "pl": -1.0,
-   "ticket": "single"
-  },
-  {
-   "n": 846,
-   "date": "2026-11-17",
-   "day": "2026-11-17",
-   "league": "NCAAB",
-   "type": "Spread",
-   "matchup": "UNLV Rebels vs Kansas Jayhawks at Michelob ULTRA Arena, Las Vegas",
-   "pick": "UNLV +17",
-   "odds": -110,
-   "units": 1.0,
-   "result": "L",
-   "pl": -1.0,
-   "ticket": "single"
-  },
-  {
-   "n": 845,
-   "date": "2026-11-17",
-   "day": "2026-11-17",
-   "league": "NCAAB",
-   "type": "Over/Under",
-   "matchup": "Michigan State Spartans @ Tennessee Volunteers",
-   "pick": "Under 150.5 total points",
-   "odds": -110,
-   "units": 1.0,
-   "result": "W",
-   "pl": 0.91,
-   "ticket": "single"
-  },
-  {
-   "n": 844,
-   "date": "2026-11-17",
-   "day": "2026-11-17",
-   "league": "NCAAB",
-   "type": "Spread",
-   "matchup": "Michigan State Spartans @ Tennessee Volunteers",
-   "pick": "Tennessee +3",
-   "odds": -110,
-   "units": 1.0,
-   "result": "W",
-   "pl": 0.91,
-   "ticket": "single"
-  },
-  {
-   "n": 843,
-   "date": "2026-11-17",
-   "day": "2026-11-17",
-   "league": "NCAAB",
-   "type": "Over/Under",
-   "matchup": "Maryland-Eastern Shore Hawks @ DePaul Blue Demons",
-   "pick": "Over 125.5 total points",
-   "odds": -110,
-   "units": 1.0,
-   "result": "L",
-   "pl": -1.0,
-   "ticket": "single"
-  },
-  {
-   "n": 842,
-   "date": "2026-11-17",
-   "day": "2026-11-17",
-   "league": "NCAAB",
-   "type": "Spread",
-   "matchup": "CSU Northridge Matadors @ Troy Trojans",
-   "pick": "Troy -1.5",
-   "odds": -110,
-   "units": 1.0,
-   "result": "W",
-   "pl": 0.91,
-   "ticket": "single"
-  },
-  {
-   "n": 841,
-   "date": "2026-11-17",
-   "day": "2026-11-17",
-   "league": "NCAAB",
-   "type": "Over/Under",
-   "matchup": "Villanova Wildcats @ Pittsburgh Panthers",
-   "pick": "Under 148.5 total points",
-   "odds": -110,
-   "units": 1.0,
-   "result": "W",
-   "pl": 0.91,
    "ticket": "single"
   }
  ],
@@ -1105,628 +1105,7 @@
    }
   }
  ],
- "awaiting": [
-  {
-   "n": 849,
-   "league": "Tennis",
-   "type": "Moneyline",
-   "matchup": "ATP Finals: Flavio Cobolli vs Frances Tiafoe",
-   "pick": "Frances Tiafoe ML",
-   "odds": -140,
-   "units": 2.0,
-   "gap": null,
-   "start": "2026-11-18T11:30:00",
-   "timed": true,
-   "ticket": "single",
-   "espn": {
-    "legs": [
-     {
-      "kind": "ml",
-      "side": "Frances Tiafoe",
-      "label": "Frances Tiafoe ML",
-      "path": "tennis/atp",
-      "event": "339-2026",
-      "comp": "187514",
-      "date": "20261118",
-      "opp": "Flavio Cobolli",
-      "snapshot": {
-       "source": "tennis-explorer",
-       "path": "tennis/explorer",
-       "event": "3377751",
-       "state": "post",
-       "detail": "Final \u00b7 2-0 sets",
-       "tennis": [
-        {
-         "name": "Tiafoe F.",
-         "winner": true,
-         "sets": [
-          7,
-          6
-         ]
-        },
-        {
-         "name": "Cobolli F.",
-         "winner": false,
-         "sets": [
-          66,
-          0
-         ]
-        }
-       ],
-       "tour": "Masters Cup ATP"
-      }
-     }
-    ],
-    "sport": "Tennis",
-    "ticket": "single"
-   }
-  },
-  {
-   "n": 850,
-   "league": "NHL",
-   "type": "Prop",
-   "matchup": "Colorado Avalanche @ Utah Mammoth",
-   "pick": "Mikhail Sergachev Over 2.5 shots on goal",
-   "odds": 140,
-   "units": 1.0,
-   "gap": null,
-   "start": "2026-11-18T19:10:00",
-   "timed": true,
-   "ticket": "single",
-   "espn": {
-    "legs": [
-     {
-      "kind": "prop",
-      "player": "Mikhail Sergachev",
-      "ou": "O",
-      "line": 2.5,
-      "stat": "shots on goal",
-      "label": "Mikhail Sergachev O 2.5 shots on goal",
-      "path": "hockey/nhl",
-      "event": "401892741",
-      "date": "20261118",
-      "snapshot": {
-       "source": "nhl",
-       "state": "post",
-       "detail": "Final",
-       "start": "2026-11-19T03:00:00Z",
-       "period": 3,
-       "clock": "00:00",
-       "teams": [
-        {
-         "name": "Avalanche",
-         "short": "COL",
-         "abbr": "COL",
-         "score": 1,
-         "ha": "away",
-         "winner": false,
-         "linescores": []
-        },
-        {
-         "name": "Mammoth",
-         "short": "UTA",
-         "abbr": "UTA",
-         "score": 4,
-         "ha": "home",
-         "winner": true,
-         "linescores": []
-        }
-       ],
-       "nhl_id": 2026020346,
-       "stat": {
-        "v": 0,
-        "name": "M. Sergachev"
-       }
-      },
-      "source": "nhl"
-     }
-    ],
-    "sport": "NHL",
-    "ticket": "single"
-   }
-  },
-  {
-   "n": 851,
-   "league": "NHL",
-   "type": "Prop",
-   "matchup": "Colorado Avalanche @ Utah Mammoth",
-   "pick": "Artturi Lehkonen Over 0.5 points",
-   "odds": -115,
-   "units": 1.0,
-   "gap": null,
-   "start": "2026-11-18T19:10:00",
-   "timed": true,
-   "ticket": "single",
-   "espn": {
-    "legs": [
-     {
-      "kind": "prop",
-      "player": "Artturi Lehkonen",
-      "ou": "O",
-      "line": 0.5,
-      "stat": "points",
-      "label": "Artturi Lehkonen O 0.5 points",
-      "path": "hockey/nhl",
-      "event": "401892741",
-      "date": "20261118",
-      "snapshot": {
-       "source": "nhl",
-       "state": "post",
-       "detail": "Final",
-       "start": "2026-11-19T03:00:00Z",
-       "period": 3,
-       "clock": "00:00",
-       "teams": [
-        {
-         "name": "Avalanche",
-         "short": "COL",
-         "abbr": "COL",
-         "score": 1,
-         "ha": "away",
-         "winner": false,
-         "linescores": []
-        },
-        {
-         "name": "Mammoth",
-         "short": "UTA",
-         "abbr": "UTA",
-         "score": 4,
-         "ha": "home",
-         "winner": true,
-         "linescores": []
-        }
-       ],
-       "nhl_id": 2026020346,
-       "stat": {
-        "v": 0,
-        "name": "A. Lehkonen"
-       }
-      },
-      "source": "nhl"
-     }
-    ],
-    "sport": "NHL",
-    "ticket": "single"
-   }
-  },
-  {
-   "n": 867,
-   "league": "NHL",
-   "type": "Moneyline",
-   "matchup": "Boston Bruins @ Detroit Red Wings",
-   "pick": "Detroit Red Wings ML",
-   "odds": -109,
-   "units": 0.5,
-   "gap": null,
-   "start": "2026-11-18T16:40:00",
-   "timed": true,
-   "ticket": "single",
-   "espn": {
-    "legs": [
-     {
-      "kind": "ml",
-      "side": "Detroit Red Wings",
-      "label": "Detroit Red Wings ML",
-      "path": "hockey/nhl",
-      "event": "401892739",
-      "date": "20261118",
-      "snapshot": {
-       "source": "nhl",
-       "state": "post",
-       "detail": "Final",
-       "start": "2026-11-19T00:30:00Z",
-       "period": 3,
-       "clock": "00:00",
-       "teams": [
-        {
-         "name": "Bruins",
-         "short": "BOS",
-         "abbr": "BOS",
-         "score": 4,
-         "ha": "away",
-         "winner": true,
-         "linescores": []
-        },
-        {
-         "name": "Red Wings",
-         "short": "DET",
-         "abbr": "DET",
-         "score": 1,
-         "ha": "home",
-         "winner": false,
-         "linescores": []
-        }
-       ],
-       "nhl_id": 2026020344
-      },
-      "source": "nhl"
-     }
-    ],
-    "sport": "NHL",
-    "ticket": "single"
-   }
-  },
-  {
-   "n": 868,
-   "league": "NCAAB",
-   "type": "Over/Under",
-   "matchup": "Weber State Wildcats @ Utah State Aggies",
-   "pick": "Under 171.5",
-   "odds": -110,
-   "units": 3.0,
-   "gap": null,
-   "start": "2026-11-18T18:00:00",
-   "timed": true,
-   "ticket": "single",
-   "espn": {
-    "legs": [
-     {
-      "kind": "total",
-      "side": null,
-      "ou": "U",
-      "line": 171.5,
-      "label": "U 171.5",
-      "path": "basketball/mens-college-basketball",
-      "event": "401925949",
-      "date": "20261118",
-      "snapshot": {
-       "source": "espn",
-       "state": "post",
-       "detail": "Final",
-       "start": "2026-11-19T02:00Z",
-       "period": null,
-       "clock": null,
-       "teams": [
-        {
-         "name": "Weber State Wildcats",
-         "short": "Wildcats",
-         "abbr": "WEB",
-         "score": 71,
-         "ha": "away",
-         "winner": false,
-         "linescores": [
-          0,
-          0
-         ]
-        },
-        {
-         "name": "Utah State Aggies",
-         "short": "Aggies",
-         "abbr": "USU",
-         "score": 101,
-         "ha": "home",
-         "winner": true,
-         "linescores": [
-          0,
-          0
-         ]
-        }
-       ]
-      },
-      "source": "espn"
-     }
-    ],
-    "sport": "NCAAB",
-    "ticket": "single"
-   }
-  },
-  {
-   "n": 869,
-   "league": "NCAAB",
-   "type": "Spread",
-   "matchup": "UNC Wilmington Seahawks @ LIU Sharks",
-   "pick": "LIU +9.5",
-   "odds": -110,
-   "units": 1.0,
-   "gap": null,
-   "start": "2026-11-18T16:00:00",
-   "timed": true,
-   "ticket": "single",
-   "espn": {
-    "legs": [
-     {
-      "kind": "spread",
-      "side": "LIU",
-      "line": 9.5,
-      "label": "LIU +9.5",
-      "path": "basketball/mens-college-basketball",
-      "event": "401919808",
-      "date": "20261118",
-      "snapshot": {
-       "source": "espn",
-       "state": "post",
-       "detail": "Final/2OT",
-       "start": "2026-11-19T00:00Z",
-       "period": null,
-       "clock": null,
-       "teams": [
-        {
-         "name": "UNC Wilmington Seahawks",
-         "short": "Seahawks",
-         "abbr": "UNCW",
-         "score": 114,
-         "ha": "away",
-         "winner": false,
-         "linescores": [
-          0,
-          0,
-          0,
-          0
-         ]
-        },
-        {
-         "name": "Long Island University Sharks",
-         "short": "Sharks",
-         "abbr": "LIU",
-         "score": 115,
-         "ha": "home",
-         "winner": true,
-         "linescores": [
-          0,
-          0,
-          0,
-          0
-         ]
-        }
-       ]
-      },
-      "source": "espn"
-     }
-    ],
-    "sport": "NCAAB",
-    "ticket": "single"
-   }
-  },
-  {
-   "n": 870,
-   "league": "NCAAB",
-   "type": "Over/Under",
-   "matchup": "UNC Wilmington Seahawks @ LIU Sharks",
-   "pick": "Under 147.5",
-   "odds": -110,
-   "units": 1.0,
-   "gap": null,
-   "start": "2026-11-18T16:00:00",
-   "timed": true,
-   "ticket": "single",
-   "espn": {
-    "legs": [
-     {
-      "kind": "total",
-      "side": null,
-      "ou": "U",
-      "line": 147.5,
-      "label": "U 147.5",
-      "path": "basketball/mens-college-basketball",
-      "event": "401919808",
-      "date": "20261118",
-      "snapshot": {
-       "source": "espn",
-       "state": "post",
-       "detail": "Final/2OT",
-       "start": "2026-11-19T00:00Z",
-       "period": null,
-       "clock": null,
-       "teams": [
-        {
-         "name": "UNC Wilmington Seahawks",
-         "short": "Seahawks",
-         "abbr": "UNCW",
-         "score": 114,
-         "ha": "away",
-         "winner": false,
-         "linescores": [
-          0,
-          0,
-          0,
-          0
-         ]
-        },
-        {
-         "name": "Long Island University Sharks",
-         "short": "Sharks",
-         "abbr": "LIU",
-         "score": 115,
-         "ha": "home",
-         "winner": true,
-         "linescores": [
-          0,
-          0,
-          0,
-          0
-         ]
-        }
-       ]
-      },
-      "source": "espn"
-     }
-    ],
-    "sport": "NCAAB",
-    "ticket": "single"
-   }
-  },
-  {
-   "n": 871,
-   "league": "NCAAB",
-   "type": "Over/Under",
-   "matchup": "Purdue Fort Wayne Mastodons @ Bradley Braves",
-   "pick": "Over 135.5",
-   "odds": -110,
-   "units": 1.0,
-   "gap": null,
-   "start": "2026-11-18T17:00:00",
-   "timed": true,
-   "ticket": "single",
-   "espn": {
-    "legs": [
-     {
-      "kind": "total",
-      "side": null,
-      "ou": "O",
-      "line": 135.5,
-      "label": "O 135.5",
-      "path": "basketball/mens-college-basketball",
-      "event": "401927357",
-      "date": "20261118",
-      "snapshot": {
-       "source": "espn",
-       "state": "post",
-       "detail": "Final",
-       "start": "2026-11-19T01:00Z",
-       "period": null,
-       "clock": null,
-       "teams": [
-        {
-         "name": "Purdue Fort Wayne Mastodons",
-         "short": "Mastodons",
-         "abbr": "PFW",
-         "score": 78,
-         "ha": "away",
-         "winner": true,
-         "linescores": [
-          0,
-          0
-         ]
-        },
-        {
-         "name": "Bradley Braves",
-         "short": "Braves",
-         "abbr": "BRAD",
-         "score": 73,
-         "ha": "home",
-         "winner": false,
-         "linescores": [
-          0,
-          0
-         ]
-        }
-       ]
-      },
-      "source": "espn"
-     }
-    ],
-    "sport": "NCAAB",
-    "ticket": "single"
-   }
-  },
-  {
-   "n": 872,
-   "league": "NBA",
-   "type": "Parlay",
-   "matchup": "2-leg parlay: Houston Rockets @ Indiana Pacers + Milwaukee Bucks @ Miami Heat",
-   "pick": "Houston Rockets ML -350 vs Indiana Pacers + Miami Heat 1H -7.0 -110 vs Milwaukee Bucks",
-   "odds": 145,
-   "units": 2.0,
-   "gap": null,
-   "start": "2026-11-18T16:10:00",
-   "timed": true,
-   "ticket": "parlay",
-   "espn": {
-    "legs": [
-     {
-      "kind": "ml",
-      "side": "Houston Rockets",
-      "opp": "Indiana Pacers",
-      "label": "Houston Rockets ML",
-      "path": "basketball/nba",
-      "event": "401910008",
-      "date": "20261118",
-      "snapshot": {
-       "source": "espn",
-       "state": "post",
-       "detail": "Final",
-       "start": "2026-11-19T00:00Z",
-       "period": null,
-       "clock": null,
-       "teams": [
-        {
-         "name": "Houston Rockets",
-         "short": "Rockets",
-         "abbr": "HOU",
-         "score": 119,
-         "ha": "away",
-         "winner": true,
-         "linescores": [
-          0,
-          0,
-          0,
-          0
-         ]
-        },
-        {
-         "name": "Indiana Pacers",
-         "short": "Pacers",
-         "abbr": "IND",
-         "score": 104,
-         "ha": "home",
-         "winner": false,
-         "linescores": [
-          0,
-          0,
-          0,
-          0
-         ]
-        }
-       ]
-      },
-      "source": "espn"
-     },
-     {
-      "kind": "spread",
-      "side": "Miami Heat",
-      "line": -7.0,
-      "opp": "Milwaukee Bucks",
-      "scope": "1H",
-      "label": "Miami Heat -7",
-      "path": "basketball/nba",
-      "event": "401910009",
-      "date": "20261118",
-      "snapshot": {
-       "source": "espn",
-       "state": "post",
-       "detail": "Final",
-       "start": "2026-11-19T00:00Z",
-       "period": null,
-       "clock": null,
-       "teams": [
-        {
-         "name": "Milwaukee Bucks",
-         "short": "Bucks",
-         "abbr": "MIL",
-         "score": 130,
-         "ha": "away",
-         "winner": false,
-         "linescores": [
-          0,
-          0,
-          0,
-          0
-         ]
-        },
-        {
-         "name": "Miami Heat",
-         "short": "Heat",
-         "abbr": "MIA",
-         "score": 137,
-         "ha": "home",
-         "winner": true,
-         "linescores": [
-          0,
-          0,
-          0,
-          0
-         ]
-        }
-       ]
-      },
-      "source": "espn"
-     }
-    ],
-    "sport": "NBA",
-    "ticket": "parlay"
-   }
-  }
- ],
+ "awaiting": [],
  "daily": {
   "2026-10-12": {
    "u": 5.67,
@@ -1871,6 +1250,10 @@
   "2026-11-17": {
    "u": 1.87,
    "n": 10
+  },
+  "2026-11-18": {
+   "u": -0.35,
+   "n": 9
   }
  }
 }
