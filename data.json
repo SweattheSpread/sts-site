@@ -1,5 +1,5 @@
 {
- "updated": "Nov 18, 2026, 8:25 PM PT",
+ "updated": "Nov 18, 2026, 8:27 PM PT",
  "record": {
   "w": 199,
   "l": 195,
@@ -1188,10 +1188,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P2 15:37",
+       "detail": "P2 14:34",
        "start": "2026-11-19T03:00:00Z",
        "period": 2,
-       "clock": "15:37",
+       "clock": "14:34",
        "teams": [
         {
          "name": "Avalanche",
@@ -1206,7 +1206,7 @@
          "name": "Mammoth",
          "short": "UTA",
          "abbr": "UTA",
-         "score": 0,
+         "score": 1,
          "ha": "home",
          "winner": null,
          "linescores": []
@@ -1252,10 +1252,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P2 15:37",
+       "detail": "P2 14:34",
        "start": "2026-11-19T03:00:00Z",
        "period": 2,
-       "clock": "15:37",
+       "clock": "14:34",
        "teams": [
         {
          "name": "Avalanche",
@@ -1270,7 +1270,7 @@
          "name": "Mammoth",
          "short": "UTA",
          "abbr": "UTA",
-         "score": 0,
+         "score": 1,
          "ha": "home",
          "winner": null,
          "linescores": []
