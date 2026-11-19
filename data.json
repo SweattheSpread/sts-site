@@ -1,5 +1,5 @@
 {
- "updated": "Nov 19, 2026, 11:46 AM PT",
+ "updated": "Nov 19, 2026, 1:55 PM PT",
  "record": {
   "w": 203,
   "l": 200,
@@ -11,7 +11,7 @@
   "first": "2026-10-12",
   "last": "2026-11-18"
  },
- "pending": 41,
+ "pending": 42,
  "latest": [
   {
    "n": 872,
@@ -1268,6 +1268,65 @@
      }
     ],
     "sport": "NCAAB",
+    "ticket": "single"
+   }
+  },
+  {
+   "n": 897,
+   "league": "NHL",
+   "type": "Over/Under",
+   "matchup": "Dallas Stars @ Vegas Golden Knights",
+   "pick": "Victor Olofsson Over 0.5 points",
+   "odds": 115,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-19T19:10:00",
+   "timed": true,
+   "ticket": "single",
+   "espn": {
+    "legs": [
+     {
+      "kind": "team_total",
+      "side": "Victor Olofsson",
+      "ou": "O",
+      "line": 0.5,
+      "label": "Victor Olofsson O 0.5",
+      "path": "hockey/nhl",
+      "event": "401892753",
+      "date": "20261119",
+      "snapshot": {
+       "source": "nhl",
+       "state": "pre",
+       "detail": "Scheduled",
+       "start": "2026-11-20T03:00:00Z",
+       "period": null,
+       "clock": null,
+       "teams": [
+        {
+         "name": "Stars",
+         "short": "DAL",
+         "abbr": "DAL",
+         "score": 0,
+         "ha": "away",
+         "winner": null,
+         "linescores": []
+        },
+        {
+         "name": "Golden Knights",
+         "short": "VGK",
+         "abbr": "VGK",
+         "score": 0,
+         "ha": "home",
+         "winner": null,
+         "linescores": []
+        }
+       ],
+       "nhl_id": 2026020358
+      },
+      "source": "nhl"
+     }
+    ],
+    "sport": "NHL",
     "ticket": "single"
    }
   },

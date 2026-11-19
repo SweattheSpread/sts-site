@@ -1,5 +1,5 @@
 {
- "updated": "Nov 19, 2026, 11:46 AM PT",
+ "updated": "Nov 19, 2026, 1:55 PM PT",
  "record": {
   "w": 203,
   "l": 200,
@@ -11,7 +11,7 @@
   "first": "2026-10-12",
   "last": "2026-11-18"
  },
- "pending": 41,
+ "pending": 42,
  "plays": [
   {
    "n": 334,
@@ -6856,6 +6856,22 @@
    "matchup": "Anaheim Ducks @ Colorado Avalanche",
    "pick": "Gabriel Landeskog Under 0.5 points",
    "odds": -111,
+   "units": 1.0,
+   "result": null,
+   "pl": null,
+   "pending": true
+  },
+  {
+   "n": 897,
+   "date": "2026-11-19",
+   "day": "2026-11-19",
+   "league": "NHL",
+   "market": "total",
+   "market_label": "Total",
+   "ticket": "single",
+   "matchup": "Dallas Stars @ Vegas Golden Knights",
+   "pick": "Victor Olofsson Over 0.5 points",
+   "odds": 115,
    "units": 1.0,
    "result": null,
    "pl": null,
