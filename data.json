@@ -1,5 +1,5 @@
 {
- "updated": "Nov 19, 2026, 2:59 PM PT",
+ "updated": "Nov 19, 2026, 3:05 PM PT",
  "record": {
   "w": 203,
   "l": 200,
@@ -127,64 +127,6 @@
   }
  ],
  "picks": [
-  {
-   "n": 890,
-   "league": "NCAAB",
-   "type": "Over/Under",
-   "matchup": "NC State Wolfpack vs Murray St Racers (neutral)",
-   "pick": "Under 165",
-   "odds": -110,
-   "units": 1.0,
-   "gap": null,
-   "start": "2026-11-19T15:00:00",
-   "timed": true,
-   "ticket": "single",
-   "espn": {
-    "legs": [
-     {
-      "kind": "total",
-      "side": null,
-      "ou": "U",
-      "line": 165.0,
-      "label": "U 165.0",
-      "path": "basketball/mens-college-basketball",
-      "event": "401918959",
-      "date": "20261119",
-      "snapshot": {
-       "source": "espn",
-       "state": "pre",
-       "detail": "11/19 - 6:00 PM EST",
-       "start": "2026-11-19T23:00Z",
-       "period": null,
-       "clock": null,
-       "teams": [
-        {
-         "name": "Murray State Racers",
-         "short": "Racers",
-         "abbr": "MUR",
-         "score": 0,
-         "ha": "away",
-         "winner": null,
-         "linescores": []
-        },
-        {
-         "name": "NC State Wolfpack",
-         "short": "Wolfpack",
-         "abbr": "NCSU",
-         "score": 0,
-         "ha": "home",
-         "winner": null,
-         "linescores": []
-        }
-       ]
-      },
-      "source": "espn"
-     }
-    ],
-    "sport": "NCAAB",
-    "ticket": "single"
-   }
-  },
   {
    "n": 891,
    "league": "NCAAB",
@@ -2593,7 +2535,70 @@
    }
   }
  ],
- "awaiting": [],
+ "awaiting": [
+  {
+   "n": 890,
+   "league": "NCAAB",
+   "type": "Over/Under",
+   "matchup": "NC State Wolfpack vs Murray St Racers (neutral)",
+   "pick": "Under 165",
+   "odds": -110,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-19T15:00:00",
+   "timed": true,
+   "ticket": "single",
+   "espn": {
+    "legs": [
+     {
+      "kind": "total",
+      "side": null,
+      "ou": "U",
+      "line": 165.0,
+      "label": "U 165.0",
+      "path": "basketball/mens-college-basketball",
+      "event": "401918959",
+      "date": "20261119",
+      "snapshot": {
+       "source": "espn",
+       "state": "in",
+       "detail": "19:39 - 1st",
+       "start": "2026-11-19T23:00Z",
+       "period": 1,
+       "clock": "19:39",
+       "teams": [
+        {
+         "name": "Murray State Racers",
+         "short": "Racers",
+         "abbr": "MUR",
+         "score": 0,
+         "ha": "away",
+         "winner": null,
+         "linescores": [
+          0
+         ]
+        },
+        {
+         "name": "NC State Wolfpack",
+         "short": "Wolfpack",
+         "abbr": "NCSU",
+         "score": 0,
+         "ha": "home",
+         "winner": null,
+         "linescores": [
+          0
+         ]
+        }
+       ]
+      },
+      "source": "espn"
+     }
+    ],
+    "sport": "NCAAB",
+    "ticket": "single"
+   }
+  }
+ ],
  "daily": {
   "2026-10-12": {
    "u": 5.67,
