@@ -1,5 +1,5 @@
 {
- "updated": "Nov 18, 2026, 4:06 PM PT",
+ "updated": "Nov 18, 2026, 4:09 PM PT",
  "record": {
   "w": 199,
   "l": 195,
@@ -1576,16 +1576,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "19:27 - 1st",
+       "detail": "18:22 - 1st",
        "start": "2026-11-19T00:00Z",
        "period": 1,
-       "clock": "19:27",
+       "clock": "18:22",
        "teams": [
         {
          "name": "UNC Wilmington Seahawks",
          "short": "Seahawks",
          "abbr": "UNCW",
-         "score": 2,
+         "score": 6,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -1596,7 +1596,7 @@
          "name": "Long Island University Sharks",
          "short": "Sharks",
          "abbr": "LIU",
-         "score": 0,
+         "score": 2,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -1638,16 +1638,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "19:27 - 1st",
+       "detail": "18:22 - 1st",
        "start": "2026-11-19T00:00Z",
        "period": 1,
-       "clock": "19:27",
+       "clock": "18:22",
        "teams": [
         {
          "name": "UNC Wilmington Seahawks",
          "short": "Seahawks",
          "abbr": "UNCW",
-         "score": 2,
+         "score": 6,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -1658,7 +1658,7 @@
          "name": "Long Island University Sharks",
          "short": "Sharks",
          "abbr": "LIU",
-         "score": 0,
+         "score": 2,
          "ha": "home",
          "winner": null,
          "linescores": [
