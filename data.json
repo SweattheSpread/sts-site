@@ -1,5 +1,5 @@
 {
- "updated": "Nov 18, 2026, 5:43 PM PT",
+ "updated": "Nov 18, 2026, 5:46 PM PT",
  "record": {
   "w": 199,
   "l": 195,
@@ -1363,10 +1363,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P2 15:33",
+       "detail": "P2 13:01",
        "start": "2026-11-19T00:30:00Z",
        "period": 2,
-       "clock": "15:33",
+       "clock": "13:01",
        "teams": [
         {
          "name": "Bruins",
@@ -1421,16 +1421,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "6:47 - 2nd",
+       "detail": "5:32 - 2nd",
        "start": "2026-11-19T00:00Z",
        "period": 2,
-       "clock": "6:47",
+       "clock": "5:32",
        "teams": [
         {
          "name": "UNC Wilmington Seahawks",
          "short": "Seahawks",
          "abbr": "UNCW",
-         "score": 81,
+         "score": 83,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -1485,16 +1485,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "6:47 - 2nd",
+       "detail": "5:32 - 2nd",
        "start": "2026-11-19T00:00Z",
        "period": 2,
-       "clock": "6:47",
+       "clock": "5:32",
        "teams": [
         {
          "name": "UNC Wilmington Seahawks",
          "short": "Seahawks",
          "abbr": "UNCW",
-         "score": 81,
+         "score": 83,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -1549,10 +1549,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "0:51 - 1st",
+       "detail": "Halftime",
        "start": "2026-11-19T01:00Z",
        "period": 1,
-       "clock": "0:51",
+       "clock": "0:00",
        "teams": [
         {
          "name": "Purdue Fort Wayne Mastodons",
@@ -1658,10 +1658,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "Halftime",
+       "detail": "11:04 - 3rd",
        "start": "2026-11-19T00:00Z",
-       "period": 2,
-       "clock": "0.0",
+       "period": 3,
+       "clock": "11:04",
        "teams": [
         {
          "name": "Milwaukee Bucks",
@@ -1671,6 +1671,7 @@
          "ha": "away",
          "winner": null,
          "linescores": [
+          0,
           0,
           0
          ]
@@ -1683,6 +1684,7 @@
          "ha": "home",
          "winner": null,
          "linescores": [
+          0,
           0,
           0
          ]
