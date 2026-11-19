@@ -1,5 +1,5 @@
 {
- "updated": "Nov 18, 2026, 6:51 PM PT",
+ "updated": "Nov 18, 2026, 6:53 PM PT",
  "record": {
   "w": 199,
   "l": 195,
@@ -1305,10 +1305,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P3 08:44",
+       "detail": "P3 07:38",
        "start": "2026-11-19T00:30:00Z",
        "period": 3,
-       "clock": "08:44",
+       "clock": "07:38",
        "teams": [
         {
          "name": "Bruins",
@@ -1364,10 +1364,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "1:14 - 1st",
+       "detail": "Halftime",
        "start": "2026-11-19T02:00Z",
        "period": 1,
-       "clock": "1:14",
+       "clock": "0:00",
        "teams": [
         {
          "name": "Weber State Wildcats",
@@ -1561,10 +1561,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "0:29 - 2nd",
+       "detail": "0:20 - 2nd",
        "start": "2026-11-19T01:00Z",
        "period": 2,
-       "clock": "0:29",
+       "clock": "0:20",
        "teams": [
         {
          "name": "Purdue Fort Wayne Mastodons",
@@ -1582,7 +1582,7 @@
          "name": "Bradley Braves",
          "short": "Braves",
          "abbr": "BRAD",
-         "score": 68,
+         "score": 70,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -1674,16 +1674,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "1:22 - 4th",
+       "detail": "52.6 - 4th",
        "start": "2026-11-19T00:00Z",
        "period": 4,
-       "clock": "1:22",
+       "clock": "52.6",
        "teams": [
         {
          "name": "Milwaukee Bucks",
          "short": "Bucks",
          "abbr": "MIL",
-         "score": 122,
+         "score": 125,
          "ha": "away",
          "winner": null,
          "linescores": [
