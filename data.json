@@ -1,5 +1,5 @@
 {
- "updated": "Nov 18, 2026, 5:58 PM PT",
+ "updated": "Nov 18, 2026, 6:01 PM PT",
  "record": {
   "w": 199,
   "l": 195,
@@ -127,64 +127,6 @@
   }
  ],
  "picks": [
-  {
-   "n": 868,
-   "league": "NCAAB",
-   "type": "Over/Under",
-   "matchup": "Weber State Wildcats @ Utah State Aggies",
-   "pick": "Under 171.5",
-   "odds": -110,
-   "units": 3.0,
-   "gap": null,
-   "start": "2026-11-18T18:00:00",
-   "timed": true,
-   "ticket": "single",
-   "espn": {
-    "legs": [
-     {
-      "kind": "total",
-      "side": null,
-      "ou": "U",
-      "line": 171.5,
-      "label": "U 171.5",
-      "path": "basketball/mens-college-basketball",
-      "event": "401925949",
-      "date": "20261118",
-      "snapshot": {
-       "source": "espn",
-       "state": "pre",
-       "detail": "11/18 - 9:00 PM EST",
-       "start": "2026-11-19T02:00Z",
-       "period": null,
-       "clock": null,
-       "teams": [
-        {
-         "name": "Weber State Wildcats",
-         "short": "Wildcats",
-         "abbr": "WEB",
-         "score": 0,
-         "ha": "away",
-         "winner": null,
-         "linescores": []
-        },
-        {
-         "name": "Utah State Aggies",
-         "short": "Aggies",
-         "abbr": "USU",
-         "score": 0,
-         "ha": "home",
-         "winner": null,
-         "linescores": []
-        }
-       ]
-      },
-      "source": "espn"
-     }
-    ],
-    "sport": "NCAAB",
-    "ticket": "single"
-   }
-  },
   {
    "n": 850,
    "league": "NHL",
@@ -1363,10 +1305,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P2 08:12",
+       "detail": "P2 06:05",
        "start": "2026-11-19T00:30:00Z",
        "period": 2,
-       "clock": "08:12",
+       "clock": "06:05",
        "teams": [
         {
          "name": "Bruins",
@@ -1397,6 +1339,64 @@
    }
   },
   {
+   "n": 868,
+   "league": "NCAAB",
+   "type": "Over/Under",
+   "matchup": "Weber State Wildcats @ Utah State Aggies",
+   "pick": "Under 171.5",
+   "odds": -110,
+   "units": 3.0,
+   "gap": null,
+   "start": "2026-11-18T18:00:00",
+   "timed": true,
+   "ticket": "single",
+   "espn": {
+    "legs": [
+     {
+      "kind": "total",
+      "side": null,
+      "ou": "U",
+      "line": 171.5,
+      "label": "U 171.5",
+      "path": "basketball/mens-college-basketball",
+      "event": "401925949",
+      "date": "20261118",
+      "snapshot": {
+       "source": "espn",
+       "state": "pre",
+       "detail": "11/18 - 9:00 PM EST",
+       "start": "2026-11-19T02:00Z",
+       "period": null,
+       "clock": null,
+       "teams": [
+        {
+         "name": "Weber State Wildcats",
+         "short": "Wildcats",
+         "abbr": "WEB",
+         "score": 0,
+         "ha": "away",
+         "winner": null,
+         "linescores": []
+        },
+        {
+         "name": "Utah State Aggies",
+         "short": "Aggies",
+         "abbr": "USU",
+         "score": 0,
+         "ha": "home",
+         "winner": null,
+         "linescores": []
+        }
+       ]
+      },
+      "source": "espn"
+     }
+    ],
+    "sport": "NCAAB",
+    "ticket": "single"
+   }
+  },
+  {
    "n": 869,
    "league": "NCAAB",
    "type": "Spread",
@@ -1421,10 +1421,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "0:34 - 2nd",
+       "detail": "0:20 - 2nd",
        "start": "2026-11-19T00:00Z",
        "period": 2,
-       "clock": "0:34",
+       "clock": "0:20",
        "teams": [
         {
          "name": "UNC Wilmington Seahawks",
@@ -1485,10 +1485,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "0:34 - 2nd",
+       "detail": "0:20 - 2nd",
        "start": "2026-11-19T00:00Z",
        "period": 2,
-       "clock": "0:34",
+       "clock": "0:20",
        "teams": [
         {
          "name": "UNC Wilmington Seahawks",
@@ -1610,16 +1610,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "9:26 - 4th",
+       "detail": "7:39 - 4th",
        "start": "2026-11-19T00:00Z",
        "period": 4,
-       "clock": "9:26",
+       "clock": "7:39",
        "teams": [
         {
          "name": "Houston Rockets",
          "short": "Rockets",
          "abbr": "HOU",
-         "score": 101,
+         "score": 104,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -1633,7 +1633,7 @@
          "name": "Indiana Pacers",
          "short": "Pacers",
          "abbr": "IND",
-         "score": 81,
+         "score": 83,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -1660,16 +1660,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "7:32 - 3rd",
+       "detail": "6:22 - 3rd",
        "start": "2026-11-19T00:00Z",
        "period": 3,
-       "clock": "7:32",
+       "clock": "6:22",
        "teams": [
         {
          "name": "Milwaukee Bucks",
          "short": "Bucks",
          "abbr": "MIL",
-         "score": 59,
+         "score": 61,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -1682,7 +1682,7 @@
          "name": "Miami Heat",
          "short": "Heat",
          "abbr": "MIA",
-         "score": 81,
+         "score": 86,
          "ha": "home",
          "winner": null,
          "linescores": [
