@@ -1,5 +1,5 @@
 {
- "updated": "Nov 18, 2026, 4:12 PM PT",
+ "updated": "Nov 18, 2026, 4:14 PM PT",
  "record": {
   "w": 199,
   "l": 195,
@@ -1479,10 +1479,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "16:42 - 1st",
+       "detail": "15:54 - 1st",
        "start": "2026-11-19T00:00Z",
        "period": 1,
-       "clock": "16:42",
+       "clock": "15:54",
        "teams": [
         {
          "name": "UNC Wilmington Seahawks",
@@ -1499,7 +1499,7 @@
          "name": "Long Island University Sharks",
          "short": "Sharks",
          "abbr": "LIU",
-         "score": 7,
+         "score": 9,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -1541,10 +1541,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "16:42 - 1st",
+       "detail": "15:54 - 1st",
        "start": "2026-11-19T00:00Z",
        "period": 1,
-       "clock": "16:42",
+       "clock": "15:54",
        "teams": [
         {
          "name": "UNC Wilmington Seahawks",
@@ -1561,7 +1561,7 @@
          "name": "Long Island University Sharks",
          "short": "Sharks",
          "abbr": "LIU",
-         "score": 7,
+         "score": 9,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -1602,16 +1602,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "10:33 - 1st",
+       "detail": "8:17 - 1st",
        "start": "2026-11-19T00:00Z",
        "period": 1,
-       "clock": "10:33",
+       "clock": "8:17",
        "teams": [
         {
          "name": "Houston Rockets",
          "short": "Rockets",
          "abbr": "HOU",
-         "score": 2,
+         "score": 15,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -1622,7 +1622,7 @@
          "name": "Indiana Pacers",
          "short": "Pacers",
          "abbr": "IND",
-         "score": 6,
+         "score": 10,
          "ha": "home",
          "winner": null,
          "linescores": [
