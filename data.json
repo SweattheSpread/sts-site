@@ -1,5 +1,5 @@
 {
- "updated": "Nov 18, 2026, 4:59 PM PT",
+ "updated": "Nov 18, 2026, 5:11 PM PT",
  "record": {
   "w": 199,
   "l": 195,
@@ -127,64 +127,6 @@
   }
  ],
  "picks": [
-  {
-   "n": 871,
-   "league": "NCAAB",
-   "type": "Over/Under",
-   "matchup": "Purdue Fort Wayne Mastodons @ Bradley Braves",
-   "pick": "Over 135.5",
-   "odds": -110,
-   "units": 1.0,
-   "gap": null,
-   "start": "2026-11-18T17:00:00",
-   "timed": true,
-   "ticket": "single",
-   "espn": {
-    "legs": [
-     {
-      "kind": "total",
-      "side": null,
-      "ou": "O",
-      "line": 135.5,
-      "label": "O 135.5",
-      "path": "basketball/mens-college-basketball",
-      "event": "401927357",
-      "date": "20261118",
-      "snapshot": {
-       "source": "espn",
-       "state": "pre",
-       "detail": "11/18 - 8:00 PM EST",
-       "start": "2026-11-19T01:00Z",
-       "period": null,
-       "clock": null,
-       "teams": [
-        {
-         "name": "Purdue Fort Wayne Mastodons",
-         "short": "Mastodons",
-         "abbr": "PFW",
-         "score": 0,
-         "ha": "away",
-         "winner": null,
-         "linescores": []
-        },
-        {
-         "name": "Bradley Braves",
-         "short": "Braves",
-         "abbr": "BRAD",
-         "score": 0,
-         "ha": "home",
-         "winner": null,
-         "linescores": []
-        }
-       ]
-      },
-      "source": "espn"
-     }
-    ],
-    "sport": "NCAAB",
-    "ticket": "single"
-   }
-  },
   {
    "n": 868,
    "league": "NCAAB",
@@ -1421,10 +1363,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P1 08:27",
+       "detail": "P1 02:17",
        "start": "2026-11-19T00:30:00Z",
        "period": 1,
-       "clock": "08:27",
+       "clock": "02:17",
        "teams": [
         {
          "name": "Bruins",
@@ -1439,7 +1381,7 @@
          "name": "Red Wings",
          "short": "DET",
          "abbr": "DET",
-         "score": 0,
+         "score": 1,
          "ha": "home",
          "winner": null,
          "linescores": []
@@ -1578,6 +1520,68 @@
    }
   },
   {
+   "n": 871,
+   "league": "NCAAB",
+   "type": "Over/Under",
+   "matchup": "Purdue Fort Wayne Mastodons @ Bradley Braves",
+   "pick": "Over 135.5",
+   "odds": -110,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-18T17:00:00",
+   "timed": true,
+   "ticket": "single",
+   "espn": {
+    "legs": [
+     {
+      "kind": "total",
+      "side": null,
+      "ou": "O",
+      "line": 135.5,
+      "label": "O 135.5",
+      "path": "basketball/mens-college-basketball",
+      "event": "401927357",
+      "date": "20261118",
+      "snapshot": {
+       "source": "espn",
+       "state": "in",
+       "detail": "15:17 - 1st",
+       "start": "2026-11-19T01:00Z",
+       "period": 1,
+       "clock": "15:17",
+       "teams": [
+        {
+         "name": "Purdue Fort Wayne Mastodons",
+         "short": "Mastodons",
+         "abbr": "PFW",
+         "score": 6,
+         "ha": "away",
+         "winner": null,
+         "linescores": [
+          0
+         ]
+        },
+        {
+         "name": "Bradley Braves",
+         "short": "Braves",
+         "abbr": "BRAD",
+         "score": 6,
+         "ha": "home",
+         "winner": null,
+         "linescores": [
+          0
+         ]
+        }
+       ]
+      },
+      "source": "espn"
+     }
+    ],
+    "sport": "NCAAB",
+    "ticket": "single"
+   }
+  },
+  {
    "n": 872,
    "league": "NBA",
    "type": "Parlay",
@@ -1602,16 +1606,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "2:02 - 2nd",
+       "detail": "Halftime",
        "start": "2026-11-19T00:00Z",
        "period": 2,
-       "clock": "2:02",
+       "clock": "0.0",
        "teams": [
         {
          "name": "Houston Rockets",
          "short": "Rockets",
          "abbr": "HOU",
-         "score": 57,
+         "score": 62,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -1623,7 +1627,7 @@
          "name": "Indiana Pacers",
          "short": "Pacers",
          "abbr": "IND",
-         "score": 41,
+         "score": 46,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -1648,16 +1652,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "8:52 - 2nd",
+       "detail": "5:25 - 2nd",
        "start": "2026-11-19T00:00Z",
        "period": 2,
-       "clock": "8:52",
+       "clock": "5:25",
        "teams": [
         {
          "name": "Milwaukee Bucks",
          "short": "Bucks",
          "abbr": "MIL",
-         "score": 28,
+         "score": 36,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -1669,7 +1673,7 @@
          "name": "Miami Heat",
          "short": "Heat",
          "abbr": "MIA",
-         "score": 44,
+         "score": 57,
          "ha": "home",
          "winner": null,
          "linescores": [
