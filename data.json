@@ -1,5 +1,5 @@
 {
- "updated": "Nov 18, 2026, 9:54 PM PT",
+ "updated": "Nov 18, 2026, 10:20 PM PT",
  "record": {
   "w": 199,
   "l": 195,
@@ -1187,11 +1187,11 @@
       "date": "20261118",
       "snapshot": {
        "source": "nhl",
-       "state": "in",
-       "detail": "P3 03:06",
+       "state": "post",
+       "detail": "Final",
        "start": "2026-11-19T03:00:00Z",
        "period": 3,
-       "clock": "03:06",
+       "clock": "00:00",
        "teams": [
         {
          "name": "Avalanche",
@@ -1199,16 +1199,16 @@
          "abbr": "COL",
          "score": 1,
          "ha": "away",
-         "winner": null,
+         "winner": false,
          "linescores": []
         },
         {
          "name": "Mammoth",
          "short": "UTA",
          "abbr": "UTA",
-         "score": 3,
+         "score": 4,
          "ha": "home",
-         "winner": null,
+         "winner": true,
          "linescores": []
         }
        ],
@@ -1251,11 +1251,11 @@
       "date": "20261118",
       "snapshot": {
        "source": "nhl",
-       "state": "in",
-       "detail": "P3 03:06",
+       "state": "post",
+       "detail": "Final",
        "start": "2026-11-19T03:00:00Z",
        "period": 3,
-       "clock": "03:06",
+       "clock": "00:00",
        "teams": [
         {
          "name": "Avalanche",
@@ -1263,16 +1263,16 @@
          "abbr": "COL",
          "score": 1,
          "ha": "away",
-         "winner": null,
+         "winner": false,
          "linescores": []
         },
         {
          "name": "Mammoth",
          "short": "UTA",
          "abbr": "UTA",
-         "score": 3,
+         "score": 4,
          "ha": "home",
-         "winner": null,
+         "winner": true,
          "linescores": []
         }
        ],
