@@ -1,5 +1,5 @@
 {
- "updated": "Nov 18, 2026, 7:15 PM PT",
+ "updated": "Nov 18, 2026, 7:18 PM PT",
  "record": {
   "w": 199,
   "l": 195,
@@ -1182,16 +1182,16 @@
       "line": 2.5,
       "stat": "shots on goal",
       "label": "Mikhail Sergachev O 2.5 shots on goal",
+      "path": "hockey/nhl",
+      "event": "401892741",
       "date": "20261118",
-      "unverified": true,
-      "reason": "Player not found in this game",
       "snapshot": {
        "source": "nhl",
-       "state": "pre",
-       "detail": "Scheduled",
+       "state": "in",
+       "detail": "P1 20:00",
        "start": "2026-11-19T03:00:00Z",
-       "period": null,
-       "clock": null,
+       "period": 1,
+       "clock": "20:00",
        "teams": [
         {
          "name": "Avalanche",
@@ -1212,7 +1212,11 @@
          "linescores": []
         }
        ],
-       "nhl_id": 2026020346
+       "nhl_id": 2026020346,
+       "stat": {
+        "v": 0,
+        "name": "M. Sergachev"
+       }
       },
       "source": "nhl"
      }
@@ -1242,16 +1246,16 @@
       "line": 0.5,
       "stat": "points",
       "label": "Artturi Lehkonen O 0.5 points",
+      "path": "hockey/nhl",
+      "event": "401892741",
       "date": "20261118",
-      "unverified": true,
-      "reason": "Player not found in this game",
       "snapshot": {
        "source": "nhl",
-       "state": "pre",
-       "detail": "Scheduled",
+       "state": "in",
+       "detail": "P1 20:00",
        "start": "2026-11-19T03:00:00Z",
-       "period": null,
-       "clock": null,
+       "period": 1,
+       "clock": "20:00",
        "teams": [
         {
          "name": "Avalanche",
@@ -1272,7 +1276,11 @@
          "linescores": []
         }
        ],
-       "nhl_id": 2026020346
+       "nhl_id": 2026020346,
+       "stat": {
+        "v": 0,
+        "name": "A. Lehkonen"
+       }
       },
       "source": "nhl"
      }
@@ -1364,16 +1372,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "16:40 - 2nd",
+       "detail": "15:49 - 2nd",
        "start": "2026-11-19T02:00Z",
        "period": 2,
-       "clock": "16:40",
+       "clock": "15:49",
        "teams": [
         {
          "name": "Weber State Wildcats",
          "short": "Wildcats",
          "abbr": "WEB",
-         "score": 38,
+         "score": 40,
          "ha": "away",
          "winner": null,
          "linescores": [
