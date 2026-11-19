@@ -1,5 +1,5 @@
 {
- "updated": "Nov 18, 2026, 4:09 PM PT",
+ "updated": "Nov 18, 2026, 4:12 PM PT",
  "record": {
   "w": 199,
   "l": 195,
@@ -127,103 +127,6 @@
   }
  ],
  "picks": [
-  {
-   "n": 872,
-   "league": "NBA",
-   "type": "Parlay",
-   "matchup": "2-leg parlay: Houston Rockets @ Indiana Pacers + Milwaukee Bucks @ Miami Heat",
-   "pick": "Houston Rockets ML -350 vs Indiana Pacers + Miami Heat 1H -7.0 -110 vs Milwaukee Bucks",
-   "odds": 145,
-   "units": 2.0,
-   "gap": null,
-   "start": "2026-11-18T16:10:00",
-   "timed": true,
-   "ticket": "parlay",
-   "espn": {
-    "legs": [
-     {
-      "kind": "ml",
-      "side": "Houston Rockets",
-      "opp": "Indiana Pacers",
-      "label": "Houston Rockets ML",
-      "path": "basketball/nba",
-      "event": "401910008",
-      "date": "20261118",
-      "snapshot": {
-       "source": "espn",
-       "state": "pre",
-       "detail": "11/18 - 7:00 PM EST",
-       "start": "2026-11-19T00:00Z",
-       "period": null,
-       "clock": null,
-       "teams": [
-        {
-         "name": "Houston Rockets",
-         "short": "Rockets",
-         "abbr": "HOU",
-         "score": 0,
-         "ha": "away",
-         "winner": null,
-         "linescores": []
-        },
-        {
-         "name": "Indiana Pacers",
-         "short": "Pacers",
-         "abbr": "IND",
-         "score": 0,
-         "ha": "home",
-         "winner": null,
-         "linescores": []
-        }
-       ]
-      },
-      "source": "espn"
-     },
-     {
-      "kind": "spread",
-      "side": "Miami Heat",
-      "line": -7.0,
-      "opp": "Milwaukee Bucks",
-      "scope": "1H",
-      "label": "Miami Heat -7",
-      "path": "basketball/nba",
-      "event": "401910009",
-      "date": "20261118",
-      "snapshot": {
-       "source": "espn",
-       "state": "pre",
-       "detail": "11/18 - 7:00 PM EST",
-       "start": "2026-11-19T00:00Z",
-       "period": null,
-       "clock": null,
-       "teams": [
-        {
-         "name": "Milwaukee Bucks",
-         "short": "Bucks",
-         "abbr": "MIL",
-         "score": 0,
-         "ha": "away",
-         "winner": null,
-         "linescores": []
-        },
-        {
-         "name": "Miami Heat",
-         "short": "Heat",
-         "abbr": "MIA",
-         "score": 0,
-         "ha": "home",
-         "winner": null,
-         "linescores": []
-        }
-       ]
-      },
-      "source": "espn"
-     }
-    ],
-    "sport": "NBA",
-    "ticket": "parlay"
-   }
-  },
   {
    "n": 867,
    "league": "NHL",
@@ -1576,16 +1479,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "18:22 - 1st",
+       "detail": "16:42 - 1st",
        "start": "2026-11-19T00:00Z",
        "period": 1,
-       "clock": "18:22",
+       "clock": "16:42",
        "teams": [
         {
          "name": "UNC Wilmington Seahawks",
          "short": "Seahawks",
          "abbr": "UNCW",
-         "score": 6,
+         "score": 9,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -1596,7 +1499,7 @@
          "name": "Long Island University Sharks",
          "short": "Sharks",
          "abbr": "LIU",
-         "score": 2,
+         "score": 7,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -1638,16 +1541,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "18:22 - 1st",
+       "detail": "16:42 - 1st",
        "start": "2026-11-19T00:00Z",
        "period": 1,
-       "clock": "18:22",
+       "clock": "16:42",
        "teams": [
         {
          "name": "UNC Wilmington Seahawks",
          "short": "Seahawks",
          "abbr": "UNCW",
-         "score": 6,
+         "score": 9,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -1658,7 +1561,7 @@
          "name": "Long Island University Sharks",
          "short": "Sharks",
          "abbr": "LIU",
-         "score": 2,
+         "score": 7,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -1672,6 +1575,107 @@
     ],
     "sport": "NCAAB",
     "ticket": "single"
+   }
+  },
+  {
+   "n": 872,
+   "league": "NBA",
+   "type": "Parlay",
+   "matchup": "2-leg parlay: Houston Rockets @ Indiana Pacers + Milwaukee Bucks @ Miami Heat",
+   "pick": "Houston Rockets ML -350 vs Indiana Pacers + Miami Heat 1H -7.0 -110 vs Milwaukee Bucks",
+   "odds": 145,
+   "units": 2.0,
+   "gap": null,
+   "start": "2026-11-18T16:10:00",
+   "timed": true,
+   "ticket": "parlay",
+   "espn": {
+    "legs": [
+     {
+      "kind": "ml",
+      "side": "Houston Rockets",
+      "opp": "Indiana Pacers",
+      "label": "Houston Rockets ML",
+      "path": "basketball/nba",
+      "event": "401910008",
+      "date": "20261118",
+      "snapshot": {
+       "source": "espn",
+       "state": "in",
+       "detail": "10:33 - 1st",
+       "start": "2026-11-19T00:00Z",
+       "period": 1,
+       "clock": "10:33",
+       "teams": [
+        {
+         "name": "Houston Rockets",
+         "short": "Rockets",
+         "abbr": "HOU",
+         "score": 2,
+         "ha": "away",
+         "winner": null,
+         "linescores": [
+          0
+         ]
+        },
+        {
+         "name": "Indiana Pacers",
+         "short": "Pacers",
+         "abbr": "IND",
+         "score": 6,
+         "ha": "home",
+         "winner": null,
+         "linescores": [
+          0
+         ]
+        }
+       ]
+      },
+      "source": "espn"
+     },
+     {
+      "kind": "spread",
+      "side": "Miami Heat",
+      "line": -7.0,
+      "opp": "Milwaukee Bucks",
+      "scope": "1H",
+      "label": "Miami Heat -7",
+      "path": "basketball/nba",
+      "event": "401910009",
+      "date": "20261118",
+      "snapshot": {
+       "source": "espn",
+       "state": "pre",
+       "detail": "11/18 - 7:00 PM EST",
+       "start": "2026-11-19T00:00Z",
+       "period": null,
+       "clock": null,
+       "teams": [
+        {
+         "name": "Milwaukee Bucks",
+         "short": "Bucks",
+         "abbr": "MIL",
+         "score": 0,
+         "ha": "away",
+         "winner": null,
+         "linescores": []
+        },
+        {
+         "name": "Miami Heat",
+         "short": "Heat",
+         "abbr": "MIA",
+         "score": 0,
+         "ha": "home",
+         "winner": null,
+         "linescores": []
+        }
+       ]
+      },
+      "source": "espn"
+     }
+    ],
+    "sport": "NBA",
+    "ticket": "parlay"
    }
   }
  ],
