@@ -1,5 +1,5 @@
 {
- "updated": "Nov 19, 2026, 4:04 PM PT",
+ "updated": "Nov 19, 2026, 4:06 PM PT",
  "record": {
   "w": 203,
   "l": 200,
@@ -148,16 +148,16 @@
       "line": 2.5,
       "stat": "shots on goal",
       "label": "Jack Roslovic O 2.5 shots on goal",
+      "path": "hockey/nhl",
+      "event": "401892742",
       "date": "20261119",
-      "unverified": true,
-      "reason": "Player not found in this game",
       "snapshot": {
        "source": "nhl",
-       "state": "pre",
-       "detail": "Scheduled",
+       "state": "in",
+       "detail": "P1 20:00",
        "start": "2026-11-20T00:00:00Z",
-       "period": null,
-       "clock": null,
+       "period": 1,
+       "clock": "20:00",
        "teams": [
         {
          "name": "Kings",
@@ -178,7 +178,11 @@
          "linescores": []
         }
        ],
-       "nhl_id": 2026020347
+       "nhl_id": 2026020347,
+       "stat": {
+        "v": 0,
+        "name": "J. Roslovic"
+       }
       },
       "source": "nhl"
      }
@@ -2615,16 +2619,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "18:47 - 1st",
+       "detail": "17:28 - 1st",
        "start": "2026-11-20T00:00Z",
        "period": 1,
-       "clock": "18:47",
+       "clock": "17:28",
        "teams": [
         {
          "name": "Maine Black Bears",
          "short": "Black Bears",
          "abbr": "ME",
-         "score": 0,
+         "score": 3,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -2635,7 +2639,7 @@
          "name": "Quinnipiac Bobcats",
          "short": "Bobcats",
          "abbr": "QUIN",
-         "score": 2,
+         "score": 7,
          "ha": "home",
          "winner": null,
          "linescores": [
