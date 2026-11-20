@@ -1,5 +1,5 @@
 {
- "updated": "Nov 20, 2026, 10:28 AM PT",
+ "updated": "Nov 20, 2026, 10:54 AM PT",
  "record": {
   "w": 214,
   "l": 216,
@@ -11,7 +11,7 @@
   "first": "2026-10-12",
   "last": "2026-11-19"
  },
- "pending": 34,
+ "pending": 35,
  "latest": [
   {
    "n": 904,
@@ -127,31 +127,6 @@
   }
  ],
  "picks": [
-  {
-   "n": 906,
-   "league": "Tennis",
-   "type": "Moneyline",
-   "matchup": "Billie Jean King Cup: Laura Pigossi vs Kayla Cross",
-   "pick": "Kayla Cross ML",
-   "odds": -115,
-   "units": 1.0,
-   "gap": null,
-   "start": "2026-11-20T10:30:00",
-   "timed": true,
-   "ticket": "single",
-   "espn": {
-    "legs": [
-     {
-      "kind": "ml",
-      "side": "Kayla Cross",
-      "label": "Kayla Cross ML",
-      "unverified": true
-     }
-    ],
-    "sport": "Tennis",
-    "ticket": "single"
-   }
-  },
   {
    "n": 908,
    "league": "Tennis",
@@ -511,6 +486,36 @@
      }
     ],
     "sport": "NCAAB",
+    "ticket": "single"
+   }
+  },
+  {
+   "n": 918,
+   "league": "NBA",
+   "type": "Player Prop",
+   "matchup": "Indiana Pacers @ Cleveland Cavaliers",
+   "pick": "Kelly Oubre Jr. Under 1.5 3-pointers made",
+   "odds": -135,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-20T16:40:00",
+   "timed": true,
+   "ticket": "single",
+   "espn": {
+    "legs": [
+     {
+      "kind": "prop",
+      "player": "Kelly Oubre Jr.",
+      "ou": "U",
+      "line": 1.5,
+      "stat": "3-pointers made",
+      "label": "Kelly Oubre Jr. U 1.5 3-pointers made",
+      "date": "20261120",
+      "unverified": true,
+      "reason": "Player not found in this game"
+     }
+    ],
+    "sport": "NBA",
     "ticket": "single"
    }
   },
@@ -2037,7 +2042,33 @@
    }
   }
  ],
- "awaiting": [],
+ "awaiting": [
+  {
+   "n": 906,
+   "league": "Tennis",
+   "type": "Moneyline",
+   "matchup": "Billie Jean King Cup: Laura Pigossi vs Kayla Cross",
+   "pick": "Kayla Cross ML",
+   "odds": -115,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-20T10:30:00",
+   "timed": true,
+   "ticket": "single",
+   "espn": {
+    "legs": [
+     {
+      "kind": "ml",
+      "side": "Kayla Cross",
+      "label": "Kayla Cross ML",
+      "unverified": true
+     }
+    ],
+    "sport": "Tennis",
+    "ticket": "single"
+   }
+  }
+ ],
  "daily": {
   "2026-10-12": {
    "u": 5.67,
