@@ -1,5 +1,5 @@
 {
- "updated": "Nov 19, 2026, 6:09 PM PT",
+ "updated": "Nov 19, 2026, 6:11 PM PT",
  "record": {
   "w": 203,
   "l": 200,
@@ -127,124 +127,6 @@
   }
  ],
  "picks": [
-  {
-   "n": 885,
-   "league": "NHL",
-   "type": "Over/Under",
-   "matchup": "Anaheim Ducks @ Colorado Avalanche",
-   "pick": "Under 6.5",
-   "odds": 105,
-   "units": 0.5,
-   "gap": null,
-   "start": "2026-11-19T18:10:00",
-   "timed": true,
-   "ticket": "single",
-   "espn": {
-    "legs": [
-     {
-      "kind": "total",
-      "side": null,
-      "ou": "U",
-      "line": 6.5,
-      "label": "U 6.5",
-      "path": "hockey/nhl",
-      "event": "401892751",
-      "date": "20261119",
-      "snapshot": {
-       "source": "nhl",
-       "state": "in",
-       "detail": "P1 20:00",
-       "start": "2026-11-20T02:00:00Z",
-       "period": 1,
-       "clock": "20:00",
-       "teams": [
-        {
-         "name": "Ducks",
-         "short": "ANA",
-         "abbr": "ANA",
-         "score": 0,
-         "ha": "away",
-         "winner": null,
-         "linescores": []
-        },
-        {
-         "name": "Avalanche",
-         "short": "COL",
-         "abbr": "COL",
-         "score": 0,
-         "ha": "home",
-         "winner": null,
-         "linescores": []
-        }
-       ],
-       "nhl_id": 2026020356
-      },
-      "source": "nhl"
-     }
-    ],
-    "sport": "NHL",
-    "ticket": "single"
-   }
-  },
-  {
-   "n": 896,
-   "league": "NHL",
-   "type": "Over/Under",
-   "matchup": "Anaheim Ducks @ Colorado Avalanche",
-   "pick": "Gabriel Landeskog Under 0.5 points",
-   "odds": -111,
-   "units": 1.0,
-   "gap": null,
-   "start": "2026-11-19T18:10:00",
-   "timed": true,
-   "ticket": "single",
-   "espn": {
-    "legs": [
-     {
-      "kind": "team_total",
-      "side": "Gabriel Landeskog",
-      "ou": "U",
-      "line": 0.5,
-      "label": "Gabriel Landeskog U 0.5",
-      "path": "hockey/nhl",
-      "event": "401892751",
-      "date": "20261119",
-      "snapshot": {
-       "source": "nhl",
-       "state": "in",
-       "detail": "P1 20:00",
-       "start": "2026-11-20T02:00:00Z",
-       "period": 1,
-       "clock": "20:00",
-       "teams": [
-        {
-         "name": "Ducks",
-         "short": "ANA",
-         "abbr": "ANA",
-         "score": 0,
-         "ha": "away",
-         "winner": null,
-         "linescores": []
-        },
-        {
-         "name": "Avalanche",
-         "short": "COL",
-         "abbr": "COL",
-         "score": 0,
-         "ha": "home",
-         "winner": null,
-         "linescores": []
-        }
-       ],
-       "nhl_id": 2026020356
-      },
-      "source": "nhl"
-     }
-    ],
-    "sport": "NHL",
-    "ticket": "single"
-   }
-  },
   {
    "n": 880,
    "league": "NHL",
@@ -1657,10 +1539,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "8:25 - 2nd",
+       "detail": "7:38 - 2nd",
        "start": "2026-11-20T01:15Z",
        "period": 2,
-       "clock": "8:25",
+       "clock": "7:38",
        "teams": [
         {
          "name": "Indianapolis Colts",
@@ -1678,7 +1560,7 @@
          "name": "Houston Texans",
          "short": "Texans",
          "abbr": "HOU",
-         "score": 7,
+         "score": 14,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -1720,10 +1602,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "8:25 - 2nd",
+       "detail": "7:38 - 2nd",
        "start": "2026-11-20T01:15Z",
        "period": 2,
-       "clock": "8:25",
+       "clock": "7:38",
        "teams": [
         {
          "name": "Indianapolis Colts",
@@ -1741,7 +1623,7 @@
          "name": "Houston Texans",
          "short": "Texans",
          "abbr": "HOU",
-         "score": 7,
+         "score": 14,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -1785,10 +1667,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P2 16:15",
+       "detail": "P2 13:51",
        "start": "2026-11-20T00:30:00Z",
        "period": 2,
-       "clock": "16:15",
+       "clock": "13:51",
        "teams": [
         {
          "name": "Oilers",
@@ -1849,10 +1731,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P3 17:10",
+       "detail": "P3 15:36",
        "start": "2026-11-20T00:00:00Z",
        "period": 3,
-       "clock": "17:10",
+       "clock": "15:36",
        "teams": [
         {
          "name": "Kings",
@@ -1913,10 +1795,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P3 12:53",
+       "detail": "P3 11:01",
        "start": "2026-11-20T00:00:00Z",
        "period": 3,
-       "clock": "12:53",
+       "clock": "11:01",
        "teams": [
         {
          "name": "Islanders",
@@ -2046,10 +1928,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P3 19:41",
+       "detail": "P3 17:57",
        "start": "2026-11-20T00:00:00Z",
        "period": 3,
-       "clock": "19:41",
+       "clock": "17:57",
        "teams": [
         {
          "name": "Blues",
@@ -2071,6 +1953,65 @@
         }
        ],
        "nhl_id": 2026020350
+      },
+      "source": "nhl"
+     }
+    ],
+    "sport": "NHL",
+    "ticket": "single"
+   }
+  },
+  {
+   "n": 885,
+   "league": "NHL",
+   "type": "Over/Under",
+   "matchup": "Anaheim Ducks @ Colorado Avalanche",
+   "pick": "Under 6.5",
+   "odds": 105,
+   "units": 0.5,
+   "gap": null,
+   "start": "2026-11-19T18:10:00",
+   "timed": true,
+   "ticket": "single",
+   "espn": {
+    "legs": [
+     {
+      "kind": "total",
+      "side": null,
+      "ou": "U",
+      "line": 6.5,
+      "label": "U 6.5",
+      "path": "hockey/nhl",
+      "event": "401892751",
+      "date": "20261119",
+      "snapshot": {
+       "source": "nhl",
+       "state": "in",
+       "detail": "P1 18:10",
+       "start": "2026-11-20T02:00:00Z",
+       "period": 1,
+       "clock": "18:10",
+       "teams": [
+        {
+         "name": "Ducks",
+         "short": "ANA",
+         "abbr": "ANA",
+         "score": 0,
+         "ha": "away",
+         "winner": null,
+         "linescores": []
+        },
+        {
+         "name": "Avalanche",
+         "short": "COL",
+         "abbr": "COL",
+         "score": 0,
+         "ha": "home",
+         "winner": null,
+         "linescores": []
+        }
+       ],
+       "nhl_id": 2026020356
       },
       "source": "nhl"
      }
@@ -2105,10 +2046,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "5:58 - 2nd",
+       "detail": "4:39 - 2nd",
        "start": "2026-11-20T00:30Z",
        "period": 2,
-       "clock": "5:58",
+       "clock": "4:39",
        "teams": [
         {
          "name": "Charleston Cougars",
@@ -2126,7 +2067,7 @@
          "name": "Drake Bulldogs",
          "short": "Bulldogs",
          "abbr": "DRKE",
-         "score": 69,
+         "score": 71,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -2356,7 +2297,7 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "0:00 - 2nd",
+       "detail": "End of 2nd",
        "start": "2026-11-20T00:00Z",
        "period": 2,
        "clock": "0:00",
@@ -2420,16 +2361,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "1:57 - 2nd",
+       "detail": "1:18 - 2nd",
        "start": "2026-11-20T01:00Z",
        "period": 2,
-       "clock": "1:57",
+       "clock": "1:18",
        "teams": [
         {
          "name": "Portland Trail Blazers",
          "short": "Trail Blazers",
          "abbr": "POR",
-         "score": 55,
+         "score": 56,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -2441,7 +2382,7 @@
          "name": "Milwaukee Bucks",
          "short": "Bucks",
          "abbr": "MIL",
-         "score": 55,
+         "score": 56,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -2484,10 +2425,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P1 03:12",
+       "detail": "P1 00:45",
        "start": "2026-11-20T01:00:00Z",
        "period": 1,
-       "clock": "03:12",
+       "clock": "00:45",
        "teams": [
         {
          "name": "Wild",
@@ -2543,10 +2484,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P3 19:41",
+       "detail": "P3 17:57",
        "start": "2026-11-20T00:00:00Z",
        "period": 3,
-       "clock": "19:41",
+       "clock": "17:57",
        "teams": [
         {
          "name": "Blues",
@@ -2602,10 +2543,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P3 19:41",
+       "detail": "P3 17:57",
        "start": "2026-11-20T00:00:00Z",
        "period": 3,
-       "clock": "19:41",
+       "clock": "17:57",
        "teams": [
         {
          "name": "Blues",
@@ -2627,6 +2568,65 @@
         }
        ],
        "nhl_id": 2026020350
+      },
+      "source": "nhl"
+     }
+    ],
+    "sport": "NHL",
+    "ticket": "single"
+   }
+  },
+  {
+   "n": 896,
+   "league": "NHL",
+   "type": "Over/Under",
+   "matchup": "Anaheim Ducks @ Colorado Avalanche",
+   "pick": "Gabriel Landeskog Under 0.5 points",
+   "odds": -111,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-19T18:10:00",
+   "timed": true,
+   "ticket": "single",
+   "espn": {
+    "legs": [
+     {
+      "kind": "team_total",
+      "side": "Gabriel Landeskog",
+      "ou": "U",
+      "line": 0.5,
+      "label": "Gabriel Landeskog U 0.5",
+      "path": "hockey/nhl",
+      "event": "401892751",
+      "date": "20261119",
+      "snapshot": {
+       "source": "nhl",
+       "state": "in",
+       "detail": "P1 18:10",
+       "start": "2026-11-20T02:00:00Z",
+       "period": 1,
+       "clock": "18:10",
+       "teams": [
+        {
+         "name": "Ducks",
+         "short": "ANA",
+         "abbr": "ANA",
+         "score": 0,
+         "ha": "away",
+         "winner": null,
+         "linescores": []
+        },
+        {
+         "name": "Avalanche",
+         "short": "COL",
+         "abbr": "COL",
+         "score": 0,
+         "ha": "home",
+         "winner": null,
+         "linescores": []
+        }
+       ],
+       "nhl_id": 2026020356
       },
       "source": "nhl"
      }
@@ -2662,16 +2662,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "1:57 - 2nd",
+       "detail": "1:18 - 2nd",
        "start": "2026-11-20T01:00Z",
        "period": 2,
-       "clock": "1:57",
+       "clock": "1:18",
        "teams": [
         {
          "name": "Portland Trail Blazers",
          "short": "Trail Blazers",
          "abbr": "POR",
-         "score": 55,
+         "score": 56,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -2683,7 +2683,7 @@
          "name": "Milwaukee Bucks",
          "short": "Bucks",
          "abbr": "MIL",
-         "score": 55,
+         "score": 56,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -2693,7 +2693,7 @@
         }
        ],
        "stat": {
-        "v": 8,
+        "v": 9,
         "name": "Brayden Burries"
        }
       },
@@ -2800,10 +2800,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "47.6 - 2nd",
+       "detail": "0.1 - 2nd",
        "start": "2026-11-20T01:00Z",
        "period": 2,
-       "clock": "47.6",
+       "clock": "0.1",
        "teams": [
         {
          "name": "Golden State Warriors",
@@ -2869,16 +2869,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "1:57 - 2nd",
+       "detail": "1:18 - 2nd",
        "start": "2026-11-20T01:00Z",
        "period": 2,
-       "clock": "1:57",
+       "clock": "1:18",
        "teams": [
         {
          "name": "Portland Trail Blazers",
          "short": "Trail Blazers",
          "abbr": "POR",
-         "score": 55,
+         "score": 56,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -2890,7 +2890,7 @@
          "name": "Milwaukee Bucks",
          "short": "Bucks",
          "abbr": "MIL",
-         "score": 55,
+         "score": 56,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -3004,10 +3004,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "8:25 - 2nd",
+       "detail": "7:38 - 2nd",
        "start": "2026-11-20T01:15Z",
        "period": 2,
-       "clock": "8:25",
+       "clock": "7:38",
        "teams": [
         {
          "name": "Indianapolis Colts",
@@ -3025,7 +3025,7 @@
          "name": "Houston Texans",
          "short": "Texans",
          "abbr": "HOU",
-         "score": 7,
+         "score": 14,
          "ha": "home",
          "winner": null,
          "linescores": [
