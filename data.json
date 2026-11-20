@@ -1,5 +1,5 @@
 {
- "updated": "Nov 20, 2026, 2:56 PM PT",
+ "updated": "Nov 20, 2026, 2:59 PM PT",
  "record": {
   "w": 214,
   "l": 216,
@@ -2121,16 +2121,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "14:56 - 1st",
+       "detail": "12:56 - 1st",
        "start": "2026-11-20T22:30Z",
        "period": 1,
-       "clock": "14:56",
+       "clock": "12:56",
        "teams": [
         {
          "name": "Mercyhurst Lakers",
          "short": "Lakers",
          "abbr": "MERC",
-         "score": 9,
+         "score": 13,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -2141,7 +2141,7 @@
          "name": "Canisius Golden Griffins",
          "short": "Golden Griffins",
          "abbr": "CAN",
-         "score": 10,
+         "score": 12,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -2245,10 +2245,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "11:54 - 2nd",
+       "detail": "10:13 - 2nd",
        "start": "2026-11-20T21:30Z",
        "period": 2,
-       "clock": "11:54",
+       "clock": "10:13",
        "teams": [
         {
          "name": "Rhode Island Rams",
@@ -2266,7 +2266,7 @@
          "name": "Liberty Flames",
          "short": "Flames",
          "abbr": "LIB",
-         "score": 50,
+         "score": 52,
          "ha": "home",
          "winner": null,
          "linescores": [
