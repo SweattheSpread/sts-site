@@ -1,5 +1,5 @@
 {
- "updated": "Nov 19, 2026, 4:53 PM PT",
+ "updated": "Nov 19, 2026, 4:55 PM PT",
  "record": {
   "w": 203,
   "l": 200,
@@ -241,10 +241,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P1 06:37",
+       "detail": "P1 04:23",
        "start": "2026-11-20T00:00:00Z",
        "period": 1,
-       "clock": "06:37",
+       "clock": "04:23",
        "teams": [
         {
          "name": "Blues",
@@ -417,10 +417,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P1 06:37",
+       "detail": "P1 04:23",
        "start": "2026-11-20T00:00:00Z",
        "period": 1,
-       "clock": "06:37",
+       "clock": "04:23",
        "teams": [
         {
          "name": "Blues",
@@ -2420,10 +2420,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P1 11:24",
+       "detail": "P1 09:19",
        "start": "2026-11-20T00:30:00Z",
        "period": 1,
-       "clock": "11:24",
+       "clock": "09:19",
        "teams": [
         {
          "name": "Oilers",
@@ -2484,10 +2484,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P1 11:22",
+       "detail": "P1 09:07",
        "start": "2026-11-20T00:00:00Z",
        "period": 1,
-       "clock": "11:22",
+       "clock": "09:07",
        "teams": [
         {
          "name": "Kings",
@@ -2548,10 +2548,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P1 11:36",
+       "detail": "P1 09:21",
        "start": "2026-11-20T00:00:00Z",
        "period": 1,
-       "clock": "11:36",
+       "clock": "09:21",
        "teams": [
         {
          "name": "Islanders",
@@ -2611,10 +2611,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "11:28 - 1st",
+       "detail": "10:33 - 1st",
        "start": "2026-11-20T00:30Z",
        "period": 1,
-       "clock": "11:28",
+       "clock": "10:33",
        "teams": [
         {
          "name": "Charleston Cougars",
@@ -2673,16 +2673,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "7:48 - 2nd",
+       "detail": "6:38 - 2nd",
        "start": "2026-11-19T23:00Z",
        "period": 2,
-       "clock": "7:48",
+       "clock": "6:38",
        "teams": [
         {
          "name": "Murray State Racers",
          "short": "Racers",
          "abbr": "MUR",
-         "score": 56,
+         "score": 57,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -2694,7 +2694,7 @@
          "name": "NC State Wolfpack",
          "short": "Wolfpack",
          "abbr": "NCSU",
-         "score": 78,
+         "score": 82,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -2799,10 +2799,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P1 06:37",
+       "detail": "P1 04:23",
        "start": "2026-11-20T00:00:00Z",
        "period": 1,
-       "clock": "06:37",
+       "clock": "04:23",
        "teams": [
         {
          "name": "Blues",
