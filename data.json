@@ -1,5 +1,5 @@
 {
- "updated": "Nov 20, 2026, 3:02 PM PT",
+ "updated": "Nov 20, 2026, 3:05 PM PT",
  "record": {
   "w": 214,
   "l": 216,
@@ -2121,10 +2121,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "10:39 - 1st",
+       "detail": "10:27 - 1st",
        "start": "2026-11-20T22:30Z",
        "period": 1,
-       "clock": "10:39",
+       "clock": "10:27",
        "teams": [
         {
          "name": "Mercyhurst Lakers",
@@ -2141,7 +2141,7 @@
          "name": "Canisius Golden Griffins",
          "short": "Golden Griffins",
          "abbr": "CAN",
-         "score": 15,
+         "score": 18,
          "ha": "home",
          "winner": null,
          "linescores": [
