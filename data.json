@@ -1,5 +1,5 @@
 {
- "updated": "Nov 19, 2026, 4:43 PM PT",
+ "updated": "Nov 19, 2026, 4:48 PM PT",
  "record": {
   "w": 203,
   "l": 200,
@@ -11,7 +11,7 @@
   "first": "2026-10-12",
   "last": "2026-11-18"
  },
- "pending": 46,
+ "pending": 47,
  "latest": [
   {
    "n": 872,
@@ -241,10 +241,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P1 16:11",
+       "detail": "P1 11:10",
        "start": "2026-11-20T00:00:00Z",
        "period": 1,
-       "clock": "16:11",
+       "clock": "11:10",
        "teams": [
         {
          "name": "Blues",
@@ -417,10 +417,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P1 16:11",
+       "detail": "P1 11:10",
        "start": "2026-11-20T00:00:00Z",
        "period": 1,
-       "clock": "16:11",
+       "clock": "11:10",
        "teams": [
         {
          "name": "Blues",
@@ -647,6 +647,36 @@
       "line": 6.5,
       "stat": "rebounds",
       "label": "Deni Avdija U 6.5 rebounds",
+      "date": "20261119",
+      "unverified": true,
+      "reason": "Player not found in this game"
+     }
+    ],
+    "sport": "NBA",
+    "ticket": "single"
+   }
+  },
+  {
+   "n": 902,
+   "league": "NBA",
+   "type": "Player Prop",
+   "matchup": "New York Knicks @ Minnesota Timberwolves",
+   "pick": "Josh Hart Under 7.5 points",
+   "odds": -105,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-19T17:10:00",
+   "timed": true,
+   "ticket": "single",
+   "espn": {
+    "legs": [
+     {
+      "kind": "prop",
+      "player": "Josh Hart",
+      "ou": "U",
+      "line": 7.5,
+      "stat": "points",
+      "label": "Josh Hart U 7.5 points",
       "date": "20261119",
       "unverified": true,
       "reason": "Player not found in this game"
@@ -2360,10 +2390,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P1 17:39",
+       "detail": "P1 13:18",
        "start": "2026-11-20T00:30:00Z",
        "period": 1,
-       "clock": "17:39",
+       "clock": "13:18",
        "teams": [
         {
          "name": "Oilers",
@@ -2424,10 +2454,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P1 01:12",
+       "detail": "P1 15:55",
        "start": "2026-11-20T00:00:00Z",
        "period": 1,
-       "clock": "01:12",
+       "clock": "15:55",
        "teams": [
         {
          "name": "Kings",
@@ -2488,10 +2518,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P1 02:13",
+       "detail": "P1 16:08",
        "start": "2026-11-20T00:00:00Z",
        "period": 1,
-       "clock": "02:13",
+       "clock": "16:08",
        "teams": [
         {
          "name": "Islanders",
@@ -2551,16 +2581,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "15:56 - 1st",
+       "detail": "12:53 - 1st",
        "start": "2026-11-20T00:30Z",
        "period": 1,
-       "clock": "15:56",
+       "clock": "12:53",
        "teams": [
         {
          "name": "Charleston Cougars",
          "short": "Cougars",
          "abbr": "COFC",
-         "score": 7,
+         "score": 12,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -2571,7 +2601,7 @@
          "name": "Drake Bulldogs",
          "short": "Bulldogs",
          "abbr": "DRKE",
-         "score": 5,
+         "score": 7,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -2613,16 +2643,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "11:07 - 2nd",
+       "detail": "8:51 - 2nd",
        "start": "2026-11-19T23:00Z",
        "period": 2,
-       "clock": "11:07",
+       "clock": "8:51",
        "teams": [
         {
          "name": "Murray State Racers",
          "short": "Racers",
          "abbr": "MUR",
-         "score": 48,
+         "score": 54,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -2634,7 +2664,7 @@
          "name": "NC State Wolfpack",
          "short": "Wolfpack",
          "abbr": "NCSU",
-         "score": 68,
+         "score": 76,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -2739,10 +2769,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P1 16:11",
+       "detail": "P1 11:10",
        "start": "2026-11-20T00:00:00Z",
        "period": 1,
-       "clock": "16:11",
+       "clock": "11:10",
        "teams": [
         {
          "name": "Blues",

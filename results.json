@@ -1,5 +1,5 @@
 {
- "updated": "Nov 19, 2026, 4:43 PM PT",
+ "updated": "Nov 19, 2026, 4:48 PM PT",
  "record": {
   "w": 203,
   "l": 200,
@@ -11,7 +11,7 @@
   "first": "2026-10-12",
   "last": "2026-11-18"
  },
- "pending": 46,
+ "pending": 47,
  "plays": [
   {
    "n": 334,
@@ -6936,6 +6936,22 @@
    "matchup": "Portland Trail Blazers @ Milwaukee Bucks",
    "pick": "Deni Avdija Under 6.5 rebounds",
    "odds": 110,
+   "units": 1.0,
+   "result": null,
+   "pl": null,
+   "pending": true
+  },
+  {
+   "n": 902,
+   "date": "2026-11-19",
+   "day": "2026-11-19",
+   "league": "NBA",
+   "market": "player_prop",
+   "market_label": "Player Prop",
+   "ticket": "single",
+   "matchup": "New York Knicks @ Minnesota Timberwolves",
+   "pick": "Josh Hart Under 7.5 points",
+   "odds": -105,
    "units": 1.0,
    "result": null,
    "pl": null,
