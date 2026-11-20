@@ -1,5 +1,5 @@
 {
- "updated": "Nov 19, 2026, 7:28 PM PT",
+ "updated": "Nov 19, 2026, 7:31 PM PT",
  "record": {
   "w": 203,
   "l": 200,
@@ -1363,10 +1363,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "4:13 - 3rd",
+       "detail": "3:09 - 3rd",
        "start": "2026-11-20T01:15Z",
        "period": 3,
-       "clock": "4:13",
+       "clock": "3:09",
        "teams": [
         {
          "name": "Indianapolis Colts",
@@ -1428,10 +1428,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "4:13 - 3rd",
+       "detail": "3:09 - 3rd",
        "start": "2026-11-20T01:15Z",
        "period": 3,
-       "clock": "4:13",
+       "clock": "3:09",
        "teams": [
         {
          "name": "Indianapolis Colts",
@@ -1584,10 +1584,7 @@
         }
        ],
        "nhl_id": 2026020347,
-       "stat": {
-        "v": 0,
-        "name": "J. Roslovic"
-       }
+       "player_missing": true
       },
       "source": "nhl"
      }
@@ -1821,10 +1818,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P1 02:31",
+       "detail": "P1 00:30",
        "start": "2026-11-20T02:40:00Z",
        "period": 1,
-       "clock": "02:31",
+       "clock": "00:30",
        "teams": [
         {
          "name": "Canucks",
@@ -1884,10 +1881,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P2 07:50",
+       "detail": "P2 06:39",
        "start": "2026-11-20T02:00:00Z",
        "period": 2,
-       "clock": "07:50",
+       "clock": "06:39",
        "teams": [
         {
          "name": "Ducks",
@@ -2006,16 +2003,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "1:09 - OT",
+       "detail": "0:52 - OT",
        "start": "2026-11-20T01:00Z",
        "period": 3,
-       "clock": "1:09",
+       "clock": "0:52",
        "teams": [
         {
          "name": "Texas A&M Aggies",
          "short": "Aggies",
          "abbr": "TA&M",
-         "score": 91,
+         "score": 93,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -2072,16 +2069,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "17:09 - 2nd",
+       "detail": "16:14 - 2nd",
        "start": "2026-11-20T02:00Z",
        "period": 2,
-       "clock": "17:09",
+       "clock": "16:14",
        "teams": [
         {
          "name": "UTEP Miners",
          "short": "Miners",
          "abbr": "UTEP",
-         "score": 46,
+         "score": 51,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -2093,7 +2090,7 @@
          "name": "New Mexico State Aggies",
          "short": "Aggies",
          "abbr": "NMSU",
-         "score": 43,
+         "score": 46,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -2324,11 +2321,11 @@
       "date": "20261119",
       "snapshot": {
        "source": "espn",
-       "state": "in",
-       "detail": "22.7 - 4th",
+       "state": "post",
+       "detail": "Final",
        "start": "2026-11-20T01:00Z",
-       "period": 4,
-       "clock": "22.7",
+       "period": null,
+       "clock": null,
        "teams": [
         {
          "name": "Portland Trail Blazers",
@@ -2336,7 +2333,7 @@
          "abbr": "POR",
          "score": 124,
          "ha": "away",
-         "winner": null,
+         "winner": true,
          "linescores": [
           0,
           0,
@@ -2350,7 +2347,7 @@
          "abbr": "MIL",
          "score": 114,
          "ha": "home",
-         "winner": null,
+         "winner": false,
          "linescores": [
           0,
           0,
@@ -2393,10 +2390,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P3 07:35",
+       "detail": "P3 07:27",
        "start": "2026-11-20T01:00:00Z",
        "period": 3,
-       "clock": "07:35",
+       "clock": "07:27",
        "teams": [
         {
          "name": "Wild",
@@ -2570,10 +2567,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P2 07:50",
+       "detail": "P2 06:39",
        "start": "2026-11-20T02:00:00Z",
        "period": 2,
-       "clock": "07:50",
+       "clock": "06:39",
        "teams": [
         {
          "name": "Ducks",
@@ -2629,10 +2626,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P1 09:31",
+       "detail": "P1 07:14",
        "start": "2026-11-20T03:00:00Z",
        "period": 1,
-       "clock": "09:31",
+       "clock": "07:14",
        "teams": [
         {
          "name": "Stars",
@@ -2688,11 +2685,11 @@
       "date": "20261119",
       "snapshot": {
        "source": "espn",
-       "state": "in",
-       "detail": "22.7 - 4th",
+       "state": "post",
+       "detail": "Final",
        "start": "2026-11-20T01:00Z",
-       "period": 4,
-       "clock": "22.7",
+       "period": null,
+       "clock": null,
        "teams": [
         {
          "name": "Portland Trail Blazers",
@@ -2700,7 +2697,7 @@
          "abbr": "POR",
          "score": 124,
          "ha": "away",
-         "winner": null,
+         "winner": true,
          "linescores": [
           0,
           0,
@@ -2714,7 +2711,7 @@
          "abbr": "MIL",
          "score": 114,
          "ha": "home",
-         "winner": null,
+         "winner": false,
          "linescores": [
           0,
           0,
@@ -2902,49 +2899,36 @@
       "line": 6.5,
       "stat": "rebounds",
       "label": "Deni Avdija U 6.5 rebounds",
-      "path": "basketball/nba",
-      "event": "401910020",
       "date": "20261119",
+      "unverified": true,
+      "reason": "Player not found in this game",
       "snapshot": {
-       "source": "espn",
-       "state": "in",
-       "detail": "22.7 - 4th",
-       "start": "2026-11-20T01:00Z",
-       "period": 4,
-       "clock": "22.7",
+       "source": "odds-api",
+       "state": "post",
+       "detail": "Final",
+       "start": "2026-11-20T01:11:00Z",
        "teams": [
         {
          "name": "Portland Trail Blazers",
-         "short": "Trail Blazers",
-         "abbr": "POR",
+         "short": "Portland Trail Blazers",
+         "abbr": "",
          "score": 124,
          "ha": "away",
-         "winner": null,
-         "linescores": [
-          0,
-          0,
-          0,
-          0
-         ]
+         "winner": true,
+         "linescores": []
         },
         {
          "name": "Milwaukee Bucks",
-         "short": "Bucks",
-         "abbr": "MIL",
+         "short": "Milwaukee Bucks",
+         "abbr": "",
          "score": 114,
          "ha": "home",
-         "winner": null,
-         "linescores": [
-          0,
-          0,
-          0,
-          0
-         ]
+         "winner": false,
+         "linescores": []
         }
-       ],
-       "stat": null
+       ]
       },
-      "source": "espn"
+      "source": "odds-api"
      }
     ],
     "sport": "NBA",
@@ -3051,10 +3035,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "4:13 - 3rd",
+       "detail": "3:09 - 3rd",
        "start": "2026-11-20T01:15Z",
        "period": 3,
-       "clock": "4:13",
+       "clock": "3:09",
        "teams": [
         {
          "name": "Indianapolis Colts",
@@ -3119,10 +3103,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "4:13 - 3rd",
+       "detail": "3:09 - 3rd",
        "start": "2026-11-20T01:15Z",
        "period": 3,
-       "clock": "4:13",
+       "clock": "3:09",
        "teams": [
         {
          "name": "Indianapolis Colts",
