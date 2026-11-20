@@ -1,5 +1,5 @@
 {
- "updated": "Nov 19, 2026, 5:09 PM PT",
+ "updated": "Nov 19, 2026, 5:12 PM PT",
  "record": {
   "w": 203,
   "l": 200,
@@ -127,508 +127,6 @@
   }
  ],
  "picks": [
-  {
-   "n": 878,
-   "league": "NBA",
-   "type": "Prop",
-   "matchup": "New York Knicks @ Minnesota Timberwolves",
-   "pick": "Jalen Brunson Over 2.5 threes",
-   "odds": 110,
-   "units": 1.0,
-   "gap": null,
-   "start": "2026-11-19T17:10:00",
-   "timed": true,
-   "ticket": "single",
-   "espn": {
-    "legs": [
-     {
-      "kind": "prop",
-      "player": "Jalen Brunson",
-      "ou": "O",
-      "line": 2.5,
-      "stat": "threes",
-      "label": "Jalen Brunson O 2.5 threes",
-      "date": "20261119",
-      "unverified": true,
-      "reason": "Player not found in this game"
-     }
-    ],
-    "sport": "NBA",
-    "ticket": "single"
-   }
-  },
-  {
-   "n": 879,
-   "league": "NHL",
-   "type": "Prop",
-   "matchup": "Columbus Blue Jackets @ Chicago Blackhawks",
-   "pick": "Roman Kantserov Under 1.5 shots on goal",
-   "odds": 115,
-   "units": 1.0,
-   "gap": null,
-   "start": "2026-11-19T17:10:00",
-   "timed": true,
-   "ticket": "single",
-   "espn": {
-    "legs": [
-     {
-      "kind": "prop",
-      "player": "Roman Kantserov",
-      "ou": "U",
-      "line": 1.5,
-      "stat": "shots on goal",
-      "label": "Roman Kantserov U 1.5 shots on goal",
-      "path": "hockey/nhl",
-      "event": "401892748",
-      "date": "20261119",
-      "snapshot": {
-       "source": "nhl",
-       "state": "in",
-       "detail": "P2 17:28",
-       "start": "2026-11-20T00:00:00Z",
-       "period": 2,
-       "clock": "17:28",
-       "teams": [
-        {
-         "name": "Blues",
-         "short": "STL",
-         "abbr": "STL",
-         "score": 0,
-         "ha": "away",
-         "winner": null,
-         "linescores": []
-        },
-        {
-         "name": "Penguins",
-         "short": "PIT",
-         "abbr": "PIT",
-         "score": 1,
-         "ha": "home",
-         "winner": null,
-         "linescores": []
-        }
-       ],
-       "nhl_id": 2026020350
-      },
-      "source": "nhl"
-     }
-    ],
-    "sport": "NHL",
-    "ticket": "single"
-   }
-  },
-  {
-   "n": 892,
-   "league": "NBA",
-   "type": "Over/Under",
-   "matchup": "Portland Trail Blazers @ Milwaukee Bucks",
-   "pick": "Damian Lillard Under 3.5 threes",
-   "odds": -125,
-   "units": 1.0,
-   "gap": null,
-   "start": "2026-11-19T17:10:00",
-   "timed": true,
-   "ticket": "single",
-   "espn": {
-    "legs": [
-     {
-      "kind": "team_total",
-      "side": "Damian Lillard",
-      "ou": "U",
-      "line": 3.5,
-      "label": "Damian Lillard U 3.5",
-      "path": "basketball/nba",
-      "event": "401910020",
-      "date": "20261119",
-      "snapshot": {
-       "source": "espn",
-       "state": "pre",
-       "detail": "11/19 - 8:00 PM EST",
-       "start": "2026-11-20T01:00Z",
-       "period": null,
-       "clock": null,
-       "teams": [
-        {
-         "name": "Portland Trail Blazers",
-         "short": "Trail Blazers",
-         "abbr": "POR",
-         "score": 0,
-         "ha": "away",
-         "winner": null,
-         "linescores": []
-        },
-        {
-         "name": "Milwaukee Bucks",
-         "short": "Bucks",
-         "abbr": "MIL",
-         "score": 0,
-         "ha": "home",
-         "winner": null,
-         "linescores": []
-        }
-       ]
-      },
-      "source": "espn"
-     }
-    ],
-    "sport": "NBA",
-    "ticket": "single"
-   }
-  },
-  {
-   "n": 893,
-   "league": "NHL",
-   "type": "Over/Under",
-   "matchup": "Minnesota Wild @ Calgary Flames",
-   "pick": "Matt Boldy Under 3.5 shots on goal",
-   "odds": -105,
-   "units": 1.0,
-   "gap": null,
-   "start": "2026-11-19T17:10:00",
-   "timed": true,
-   "ticket": "single",
-   "espn": {
-    "legs": [
-     {
-      "kind": "team_total",
-      "side": "Matt Boldy",
-      "ou": "U",
-      "line": 3.5,
-      "label": "Matt Boldy U 3.5",
-      "path": "hockey/nhl",
-      "event": "401892750",
-      "date": "20261119",
-      "snapshot": {
-       "source": "nhl",
-       "state": "pre",
-       "detail": "Scheduled",
-       "start": "2026-11-20T01:00:00Z",
-       "period": null,
-       "clock": null,
-       "teams": [
-        {
-         "name": "Wild",
-         "short": "MIN",
-         "abbr": "MIN",
-         "score": 0,
-         "ha": "away",
-         "winner": null,
-         "linescores": []
-        },
-        {
-         "name": "Flames",
-         "short": "CGY",
-         "abbr": "CGY",
-         "score": 0,
-         "ha": "home",
-         "winner": null,
-         "linescores": []
-        }
-       ],
-       "nhl_id": 2026020355
-      },
-      "source": "nhl"
-     }
-    ],
-    "sport": "NHL",
-    "ticket": "single"
-   }
-  },
-  {
-   "n": 895,
-   "league": "NHL",
-   "type": "Over/Under",
-   "matchup": "Columbus Blue Jackets @ Chicago Blackhawks",
-   "pick": "Adam Fantilli Under 0.5 points",
-   "odds": 130,
-   "units": 1.0,
-   "gap": null,
-   "start": "2026-11-19T17:10:00",
-   "timed": true,
-   "ticket": "single",
-   "espn": {
-    "legs": [
-     {
-      "kind": "team_total",
-      "side": "Adam Fantilli",
-      "ou": "U",
-      "line": 0.5,
-      "label": "Adam Fantilli U 0.5",
-      "path": "hockey/nhl",
-      "event": "401892748",
-      "date": "20261119",
-      "snapshot": {
-       "source": "nhl",
-       "state": "in",
-       "detail": "P2 17:28",
-       "start": "2026-11-20T00:00:00Z",
-       "period": 2,
-       "clock": "17:28",
-       "teams": [
-        {
-         "name": "Blues",
-         "short": "STL",
-         "abbr": "STL",
-         "score": 0,
-         "ha": "away",
-         "winner": null,
-         "linescores": []
-        },
-        {
-         "name": "Penguins",
-         "short": "PIT",
-         "abbr": "PIT",
-         "score": 1,
-         "ha": "home",
-         "winner": null,
-         "linescores": []
-        }
-       ],
-       "nhl_id": 2026020350
-      },
-      "source": "nhl"
-     }
-    ],
-    "sport": "NHL",
-    "ticket": "single"
-   }
-  },
-  {
-   "n": 898,
-   "league": "NBA",
-   "type": "Player Prop",
-   "matchup": "Portland Trail Blazers @ Milwaukee Bucks",
-   "pick": "Brayden Burries Under 12.5 points",
-   "odds": -105,
-   "units": 1.0,
-   "gap": null,
-   "start": "2026-11-19T17:10:00",
-   "timed": true,
-   "ticket": "single",
-   "espn": {
-    "legs": [
-     {
-      "kind": "prop",
-      "player": "Brayden Burries",
-      "ou": "U",
-      "line": 12.5,
-      "stat": "points",
-      "label": "Brayden Burries U 12.5 points",
-      "path": "basketball/nba",
-      "event": "401910009",
-      "date": "20261118",
-      "snapshot": {
-       "source": "espn",
-       "state": "post",
-       "detail": "Final",
-       "start": "2026-11-19T00:00Z",
-       "period": null,
-       "clock": null,
-       "teams": [
-        {
-         "name": "Milwaukee Bucks",
-         "short": "Bucks",
-         "abbr": "MIL",
-         "score": 130,
-         "ha": "away",
-         "winner": false,
-         "linescores": [
-          0,
-          0,
-          0,
-          0
-         ]
-        },
-        {
-         "name": "Miami Heat",
-         "short": "Heat",
-         "abbr": "MIA",
-         "score": 137,
-         "ha": "home",
-         "winner": true,
-         "linescores": [
-          0,
-          0,
-          0,
-          0
-         ]
-        }
-       ],
-       "stat": {
-        "v": 20,
-        "name": "Brayden Burries"
-       }
-      },
-      "source": "espn"
-     }
-    ],
-    "sport": "NBA",
-    "ticket": "single"
-   }
-  },
-  {
-   "n": 899,
-   "league": "NBA",
-   "type": "Player Prop",
-   "matchup": "New York Knicks @ Minnesota Timberwolves",
-   "pick": "LaMelo Ball Under 5.5 assists",
-   "odds": 130,
-   "units": 1.0,
-   "gap": null,
-   "start": "2026-11-19T17:10:00",
-   "timed": true,
-   "ticket": "single",
-   "espn": {
-    "legs": [
-     {
-      "kind": "prop",
-      "player": "LaMelo Ball",
-      "ou": "U",
-      "line": 5.5,
-      "stat": "assists",
-      "label": "LaMelo Ball U 5.5 assists",
-      "date": "20261119",
-      "unverified": true,
-      "reason": "Player not found in this game"
-     }
-    ],
-    "sport": "NBA",
-    "ticket": "single"
-   }
-  },
-  {
-   "n": 900,
-   "league": "NBA",
-   "type": "Player Prop",
-   "matchup": "Golden State Warriors @ Memphis Grizzlies",
-   "pick": "Cameron Boozer Under 19.5 points",
-   "odds": -110,
-   "units": 1.0,
-   "gap": null,
-   "start": "2026-11-19T17:10:00",
-   "timed": true,
-   "ticket": "single",
-   "espn": {
-    "legs": [
-     {
-      "kind": "prop",
-      "player": "Cameron Boozer",
-      "ou": "U",
-      "line": 19.5,
-      "stat": "points",
-      "label": "Cameron Boozer U 19.5 points",
-      "path": "basketball/nba",
-      "event": "401910007",
-      "date": "20261118",
-      "snapshot": {
-       "source": "espn",
-       "state": "post",
-       "detail": "Final",
-       "start": "2026-11-19T00:00Z",
-       "period": null,
-       "clock": null,
-       "teams": [
-        {
-         "name": "Memphis Grizzlies",
-         "short": "Grizzlies",
-         "abbr": "MEM",
-         "score": 124,
-         "ha": "away",
-         "winner": true,
-         "linescores": [
-          0,
-          0,
-          0,
-          0
-         ]
-        },
-        {
-         "name": "Cleveland Cavaliers",
-         "short": "Cavaliers",
-         "abbr": "CLE",
-         "score": 121,
-         "ha": "home",
-         "winner": false,
-         "linescores": [
-          0,
-          0,
-          0,
-          0
-         ]
-        }
-       ],
-       "stat": {
-        "v": 18,
-        "name": "Cameron Boozer"
-       }
-      },
-      "source": "espn"
-     }
-    ],
-    "sport": "NBA",
-    "ticket": "single"
-   }
-  },
-  {
-   "n": 901,
-   "league": "NBA",
-   "type": "Player Prop",
-   "matchup": "Portland Trail Blazers @ Milwaukee Bucks",
-   "pick": "Deni Avdija Under 6.5 rebounds",
-   "odds": 110,
-   "units": 1.0,
-   "gap": null,
-   "start": "2026-11-19T17:10:00",
-   "timed": true,
-   "ticket": "single",
-   "espn": {
-    "legs": [
-     {
-      "kind": "prop",
-      "player": "Deni Avdija",
-      "ou": "U",
-      "line": 6.5,
-      "stat": "rebounds",
-      "label": "Deni Avdija U 6.5 rebounds",
-      "date": "20261119",
-      "unverified": true,
-      "reason": "Player not found in this game"
-     }
-    ],
-    "sport": "NBA",
-    "ticket": "single"
-   }
-  },
-  {
-   "n": 902,
-   "league": "NBA",
-   "type": "Player Prop",
-   "matchup": "New York Knicks @ Minnesota Timberwolves",
-   "pick": "Josh Hart Under 7.5 points",
-   "odds": -105,
-   "units": 1.0,
-   "gap": null,
-   "start": "2026-11-19T17:10:00",
-   "timed": true,
-   "ticket": "single",
-   "espn": {
-    "legs": [
-     {
-      "kind": "prop",
-      "player": "Josh Hart",
-      "ou": "U",
-      "line": 7.5,
-      "stat": "points",
-      "label": "Josh Hart U 7.5 points",
-      "date": "20261119",
-      "unverified": true,
-      "reason": "Player not found in this game"
-     }
-    ],
-    "sport": "NBA",
-    "ticket": "single"
-   }
-  },
   {
    "n": 831,
    "league": "NFL",
@@ -2363,10 +1861,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P1 02:31",
+       "detail": "P1 01:06",
        "start": "2026-11-20T00:30:00Z",
        "period": 1,
-       "clock": "02:31",
+       "clock": "01:06",
        "teams": [
         {
          "name": "Oilers",
@@ -2427,10 +1925,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P2 17:40",
+       "detail": "P2 17:05",
        "start": "2026-11-20T00:00:00Z",
        "period": 2,
-       "clock": "17:40",
+       "clock": "17:05",
        "teams": [
         {
          "name": "Kings",
@@ -2445,7 +1943,7 @@
          "name": "Maple Leafs",
          "short": "TOR",
          "abbr": "TOR",
-         "score": 2,
+         "score": 3,
          "ha": "home",
          "winner": null,
          "linescores": []
@@ -2491,10 +1989,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P2 18:36",
+       "detail": "P2 16:12",
        "start": "2026-11-20T00:00:00Z",
        "period": 2,
-       "clock": "18:36",
+       "clock": "16:12",
        "teams": [
         {
          "name": "Islanders",
@@ -2529,6 +2027,133 @@
    }
   },
   {
+   "n": 878,
+   "league": "NBA",
+   "type": "Prop",
+   "matchup": "New York Knicks @ Minnesota Timberwolves",
+   "pick": "Jalen Brunson Over 2.5 threes",
+   "odds": 110,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-19T17:10:00",
+   "timed": true,
+   "ticket": "single",
+   "espn": {
+    "legs": [
+     {
+      "kind": "prop",
+      "player": "Jalen Brunson",
+      "ou": "O",
+      "line": 2.5,
+      "stat": "threes",
+      "label": "Jalen Brunson O 2.5 threes",
+      "path": "basketball/nba",
+      "event": "401910021",
+      "date": "20261119",
+      "snapshot": {
+       "source": "espn",
+       "state": "in",
+       "detail": "11:12 - 1st",
+       "start": "2026-11-20T01:00Z",
+       "period": 1,
+       "clock": "11:12",
+       "teams": [
+        {
+         "name": "New York Knicks",
+         "short": "Knicks",
+         "abbr": "NY",
+         "score": 0,
+         "ha": "away",
+         "winner": null,
+         "linescores": [
+          0
+         ]
+        },
+        {
+         "name": "Minnesota Timberwolves",
+         "short": "Timberwolves",
+         "abbr": "MIN",
+         "score": 3,
+         "ha": "home",
+         "winner": null,
+         "linescores": [
+          0
+         ]
+        }
+       ],
+       "stat": {
+        "v": 0,
+        "name": "Jalen Brunson"
+       }
+      },
+      "source": "espn"
+     }
+    ],
+    "sport": "NBA",
+    "ticket": "single"
+   }
+  },
+  {
+   "n": 879,
+   "league": "NHL",
+   "type": "Prop",
+   "matchup": "Columbus Blue Jackets @ Chicago Blackhawks",
+   "pick": "Roman Kantserov Under 1.5 shots on goal",
+   "odds": 115,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-19T17:10:00",
+   "timed": true,
+   "ticket": "single",
+   "espn": {
+    "legs": [
+     {
+      "kind": "prop",
+      "player": "Roman Kantserov",
+      "ou": "U",
+      "line": 1.5,
+      "stat": "shots on goal",
+      "label": "Roman Kantserov U 1.5 shots on goal",
+      "path": "hockey/nhl",
+      "event": "401892748",
+      "date": "20261119",
+      "snapshot": {
+       "source": "nhl",
+       "state": "in",
+       "detail": "P2 16:43",
+       "start": "2026-11-20T00:00:00Z",
+       "period": 2,
+       "clock": "16:43",
+       "teams": [
+        {
+         "name": "Blues",
+         "short": "STL",
+         "abbr": "STL",
+         "score": 0,
+         "ha": "away",
+         "winner": null,
+         "linescores": []
+        },
+        {
+         "name": "Penguins",
+         "short": "PIT",
+         "abbr": "PIT",
+         "score": 1,
+         "ha": "home",
+         "winner": null,
+         "linescores": []
+        }
+       ],
+       "nhl_id": 2026020350
+      },
+      "source": "nhl"
+     }
+    ],
+    "sport": "NHL",
+    "ticket": "single"
+   }
+  },
+  {
    "n": 886,
    "league": "NCAAB",
    "type": "Over/Under",
@@ -2554,10 +2179,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "4:04 - 1st",
+       "detail": "3:53 - 1st",
        "start": "2026-11-20T00:30Z",
        "period": 1,
-       "clock": "4:04",
+       "clock": "3:53",
        "teams": [
         {
          "name": "Charleston Cougars",
@@ -2615,10 +2240,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "17:04 - 1st",
+       "detail": "17:05 - 1st",
        "start": "2026-11-20T01:00Z",
        "period": 1,
-       "clock": "17:04",
+       "clock": "17:05",
        "teams": [
         {
          "name": "Texas A&M Aggies",
@@ -2677,16 +2302,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "1:27 - 2nd",
+       "detail": "1:18 - 2nd",
        "start": "2026-11-19T23:00Z",
        "period": 2,
-       "clock": "1:27",
+       "clock": "1:18",
        "teams": [
         {
          "name": "Murray State Racers",
          "short": "Racers",
          "abbr": "MUR",
-         "score": 78,
+         "score": 81,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -2741,16 +2366,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "13:35 - 2nd",
+       "detail": "12:37 - 2nd",
        "start": "2026-11-20T00:00Z",
        "period": 2,
-       "clock": "13:35",
+       "clock": "12:37",
        "teams": [
         {
          "name": "Maine Black Bears",
          "short": "Black Bears",
          "abbr": "ME",
-         "score": 44,
+         "score": 48,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -2780,6 +2405,127 @@
    }
   },
   {
+   "n": 892,
+   "league": "NBA",
+   "type": "Over/Under",
+   "matchup": "Portland Trail Blazers @ Milwaukee Bucks",
+   "pick": "Damian Lillard Under 3.5 threes",
+   "odds": -125,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-19T17:10:00",
+   "timed": true,
+   "ticket": "single",
+   "espn": {
+    "legs": [
+     {
+      "kind": "team_total",
+      "side": "Damian Lillard",
+      "ou": "U",
+      "line": 3.5,
+      "label": "Damian Lillard U 3.5",
+      "path": "basketball/nba",
+      "event": "401910020",
+      "date": "20261119",
+      "snapshot": {
+       "source": "espn",
+       "state": "in",
+       "detail": "11:05 - 1st",
+       "start": "2026-11-20T01:00Z",
+       "period": 1,
+       "clock": "11:05",
+       "teams": [
+        {
+         "name": "Portland Trail Blazers",
+         "short": "Trail Blazers",
+         "abbr": "POR",
+         "score": 0,
+         "ha": "away",
+         "winner": null,
+         "linescores": [
+          0
+         ]
+        },
+        {
+         "name": "Milwaukee Bucks",
+         "short": "Bucks",
+         "abbr": "MIL",
+         "score": 0,
+         "ha": "home",
+         "winner": null,
+         "linescores": [
+          0
+         ]
+        }
+       ]
+      },
+      "source": "espn"
+     }
+    ],
+    "sport": "NBA",
+    "ticket": "single"
+   }
+  },
+  {
+   "n": 893,
+   "league": "NHL",
+   "type": "Over/Under",
+   "matchup": "Minnesota Wild @ Calgary Flames",
+   "pick": "Matt Boldy Under 3.5 shots on goal",
+   "odds": -105,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-19T17:10:00",
+   "timed": true,
+   "ticket": "single",
+   "espn": {
+    "legs": [
+     {
+      "kind": "team_total",
+      "side": "Matt Boldy",
+      "ou": "U",
+      "line": 3.5,
+      "label": "Matt Boldy U 3.5",
+      "path": "hockey/nhl",
+      "event": "401892750",
+      "date": "20261119",
+      "snapshot": {
+       "source": "nhl",
+       "state": "in",
+       "detail": "P1 20:00",
+       "start": "2026-11-20T01:00:00Z",
+       "period": 1,
+       "clock": "20:00",
+       "teams": [
+        {
+         "name": "Wild",
+         "short": "MIN",
+         "abbr": "MIN",
+         "score": 0,
+         "ha": "away",
+         "winner": null,
+         "linescores": []
+        },
+        {
+         "name": "Flames",
+         "short": "CGY",
+         "abbr": "CGY",
+         "score": 0,
+         "ha": "home",
+         "winner": null,
+         "linescores": []
+        }
+       ],
+       "nhl_id": 2026020355
+      },
+      "source": "nhl"
+     }
+    ],
+    "sport": "NHL",
+    "ticket": "single"
+   }
+  },
+  {
    "n": 894,
    "league": "NHL",
    "type": "Over/Under",
@@ -2805,10 +2551,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P2 17:28",
+       "detail": "P2 16:43",
        "start": "2026-11-20T00:00:00Z",
        "period": 2,
-       "clock": "17:28",
+       "clock": "16:43",
        "teams": [
         {
          "name": "Blues",
@@ -2835,6 +2581,397 @@
      }
     ],
     "sport": "NHL",
+    "ticket": "single"
+   }
+  },
+  {
+   "n": 895,
+   "league": "NHL",
+   "type": "Over/Under",
+   "matchup": "Columbus Blue Jackets @ Chicago Blackhawks",
+   "pick": "Adam Fantilli Under 0.5 points",
+   "odds": 130,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-19T17:10:00",
+   "timed": true,
+   "ticket": "single",
+   "espn": {
+    "legs": [
+     {
+      "kind": "team_total",
+      "side": "Adam Fantilli",
+      "ou": "U",
+      "line": 0.5,
+      "label": "Adam Fantilli U 0.5",
+      "path": "hockey/nhl",
+      "event": "401892748",
+      "date": "20261119",
+      "snapshot": {
+       "source": "nhl",
+       "state": "in",
+       "detail": "P2 16:43",
+       "start": "2026-11-20T00:00:00Z",
+       "period": 2,
+       "clock": "16:43",
+       "teams": [
+        {
+         "name": "Blues",
+         "short": "STL",
+         "abbr": "STL",
+         "score": 0,
+         "ha": "away",
+         "winner": null,
+         "linescores": []
+        },
+        {
+         "name": "Penguins",
+         "short": "PIT",
+         "abbr": "PIT",
+         "score": 1,
+         "ha": "home",
+         "winner": null,
+         "linescores": []
+        }
+       ],
+       "nhl_id": 2026020350
+      },
+      "source": "nhl"
+     }
+    ],
+    "sport": "NHL",
+    "ticket": "single"
+   }
+  },
+  {
+   "n": 898,
+   "league": "NBA",
+   "type": "Player Prop",
+   "matchup": "Portland Trail Blazers @ Milwaukee Bucks",
+   "pick": "Brayden Burries Under 12.5 points",
+   "odds": -105,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-19T17:10:00",
+   "timed": true,
+   "ticket": "single",
+   "espn": {
+    "legs": [
+     {
+      "kind": "prop",
+      "player": "Brayden Burries",
+      "ou": "U",
+      "line": 12.5,
+      "stat": "points",
+      "label": "Brayden Burries U 12.5 points",
+      "path": "basketball/nba",
+      "event": "401910020",
+      "date": "20261119",
+      "snapshot": {
+       "source": "espn",
+       "state": "in",
+       "detail": "11:05 - 1st",
+       "start": "2026-11-20T01:00Z",
+       "period": 1,
+       "clock": "11:05",
+       "teams": [
+        {
+         "name": "Portland Trail Blazers",
+         "short": "Trail Blazers",
+         "abbr": "POR",
+         "score": 0,
+         "ha": "away",
+         "winner": null,
+         "linescores": [
+          0
+         ]
+        },
+        {
+         "name": "Milwaukee Bucks",
+         "short": "Bucks",
+         "abbr": "MIL",
+         "score": 0,
+         "ha": "home",
+         "winner": null,
+         "linescores": [
+          0
+         ]
+        }
+       ],
+       "stat": {
+        "v": 0,
+        "name": "Brayden Burries"
+       }
+      },
+      "source": "espn"
+     }
+    ],
+    "sport": "NBA",
+    "ticket": "single"
+   }
+  },
+  {
+   "n": 899,
+   "league": "NBA",
+   "type": "Player Prop",
+   "matchup": "New York Knicks @ Minnesota Timberwolves",
+   "pick": "LaMelo Ball Under 5.5 assists",
+   "odds": 130,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-19T17:10:00",
+   "timed": true,
+   "ticket": "single",
+   "espn": {
+    "legs": [
+     {
+      "kind": "prop",
+      "player": "LaMelo Ball",
+      "ou": "U",
+      "line": 5.5,
+      "stat": "assists",
+      "label": "LaMelo Ball U 5.5 assists",
+      "path": "basketball/nba",
+      "event": "401910021",
+      "date": "20261119",
+      "snapshot": {
+       "source": "espn",
+       "state": "in",
+       "detail": "11:12 - 1st",
+       "start": "2026-11-20T01:00Z",
+       "period": 1,
+       "clock": "11:12",
+       "teams": [
+        {
+         "name": "New York Knicks",
+         "short": "Knicks",
+         "abbr": "NY",
+         "score": 0,
+         "ha": "away",
+         "winner": null,
+         "linescores": [
+          0
+         ]
+        },
+        {
+         "name": "Minnesota Timberwolves",
+         "short": "Timberwolves",
+         "abbr": "MIN",
+         "score": 3,
+         "ha": "home",
+         "winner": null,
+         "linescores": [
+          0
+         ]
+        }
+       ],
+       "stat": {
+        "v": 1,
+        "name": "LaMelo Ball"
+       }
+      },
+      "source": "espn"
+     }
+    ],
+    "sport": "NBA",
+    "ticket": "single"
+   }
+  },
+  {
+   "n": 900,
+   "league": "NBA",
+   "type": "Player Prop",
+   "matchup": "Golden State Warriors @ Memphis Grizzlies",
+   "pick": "Cameron Boozer Under 19.5 points",
+   "odds": -110,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-19T17:10:00",
+   "timed": true,
+   "ticket": "single",
+   "espn": {
+    "legs": [
+     {
+      "kind": "prop",
+      "player": "Cameron Boozer",
+      "ou": "U",
+      "line": 19.5,
+      "stat": "points",
+      "label": "Cameron Boozer U 19.5 points",
+      "path": "basketball/nba",
+      "event": "401910019",
+      "date": "20261119",
+      "snapshot": {
+       "source": "espn",
+       "state": "in",
+       "detail": "11:33 - 1st",
+       "start": "2026-11-20T01:00Z",
+       "period": 1,
+       "clock": "11:33",
+       "teams": [
+        {
+         "name": "Golden State Warriors",
+         "short": "Warriors",
+         "abbr": "GS",
+         "score": 0,
+         "ha": "away",
+         "winner": null,
+         "linescores": [
+          0
+         ]
+        },
+        {
+         "name": "Memphis Grizzlies",
+         "short": "Grizzlies",
+         "abbr": "MEM",
+         "score": 0,
+         "ha": "home",
+         "winner": null,
+         "linescores": [
+          0
+         ]
+        }
+       ],
+       "stat": {
+        "v": 0,
+        "name": "Cameron Boozer"
+       }
+      },
+      "source": "espn"
+     }
+    ],
+    "sport": "NBA",
+    "ticket": "single"
+   }
+  },
+  {
+   "n": 901,
+   "league": "NBA",
+   "type": "Player Prop",
+   "matchup": "Portland Trail Blazers @ Milwaukee Bucks",
+   "pick": "Deni Avdija Under 6.5 rebounds",
+   "odds": 110,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-19T17:10:00",
+   "timed": true,
+   "ticket": "single",
+   "espn": {
+    "legs": [
+     {
+      "kind": "prop",
+      "player": "Deni Avdija",
+      "ou": "U",
+      "line": 6.5,
+      "stat": "rebounds",
+      "label": "Deni Avdija U 6.5 rebounds",
+      "path": "basketball/nba",
+      "event": "401910020",
+      "date": "20261119",
+      "snapshot": {
+       "source": "espn",
+       "state": "in",
+       "detail": "11:05 - 1st",
+       "start": "2026-11-20T01:00Z",
+       "period": 1,
+       "clock": "11:05",
+       "teams": [
+        {
+         "name": "Portland Trail Blazers",
+         "short": "Trail Blazers",
+         "abbr": "POR",
+         "score": 0,
+         "ha": "away",
+         "winner": null,
+         "linescores": [
+          0
+         ]
+        },
+        {
+         "name": "Milwaukee Bucks",
+         "short": "Bucks",
+         "abbr": "MIL",
+         "score": 0,
+         "ha": "home",
+         "winner": null,
+         "linescores": [
+          0
+         ]
+        }
+       ],
+       "stat": null
+      },
+      "source": "espn"
+     }
+    ],
+    "sport": "NBA",
+    "ticket": "single"
+   }
+  },
+  {
+   "n": 902,
+   "league": "NBA",
+   "type": "Player Prop",
+   "matchup": "New York Knicks @ Minnesota Timberwolves",
+   "pick": "Josh Hart Under 7.5 points",
+   "odds": -105,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-19T17:10:00",
+   "timed": true,
+   "ticket": "single",
+   "espn": {
+    "legs": [
+     {
+      "kind": "prop",
+      "player": "Josh Hart",
+      "ou": "U",
+      "line": 7.5,
+      "stat": "points",
+      "label": "Josh Hart U 7.5 points",
+      "path": "basketball/nba",
+      "event": "401910021",
+      "date": "20261119",
+      "snapshot": {
+       "source": "espn",
+       "state": "in",
+       "detail": "11:12 - 1st",
+       "start": "2026-11-20T01:00Z",
+       "period": 1,
+       "clock": "11:12",
+       "teams": [
+        {
+         "name": "New York Knicks",
+         "short": "Knicks",
+         "abbr": "NY",
+         "score": 0,
+         "ha": "away",
+         "winner": null,
+         "linescores": [
+          0
+         ]
+        },
+        {
+         "name": "Minnesota Timberwolves",
+         "short": "Timberwolves",
+         "abbr": "MIN",
+         "score": 3,
+         "ha": "home",
+         "winner": null,
+         "linescores": [
+          0
+         ]
+        }
+       ],
+       "stat": {
+        "v": 0,
+        "name": "Josh Hart"
+       }
+      },
+      "source": "espn"
+     }
+    ],
+    "sport": "NBA",
     "ticket": "single"
    }
   }
