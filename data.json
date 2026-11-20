@@ -1,5 +1,5 @@
 {
- "updated": "Nov 19, 2026, 4:24 PM PT",
+ "updated": "Nov 19, 2026, 4:27 PM PT",
  "record": {
   "w": 203,
   "l": 200,
@@ -359,10 +359,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P1 11:17",
+       "detail": "P1 09:24",
        "start": "2026-11-20T00:00:00Z",
        "period": 1,
-       "clock": "11:17",
+       "clock": "09:24",
        "teams": [
         {
          "name": "Blues",
@@ -535,10 +535,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P1 11:17",
+       "detail": "P1 09:24",
        "start": "2026-11-20T00:00:00Z",
        "period": 1,
-       "clock": "11:17",
+       "clock": "09:24",
        "teams": [
         {
          "name": "Blues",
@@ -2478,10 +2478,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P1 10:22",
+       "detail": "P1 08:37",
        "start": "2026-11-20T00:00:00Z",
        "period": 1,
-       "clock": "10:22",
+       "clock": "08:37",
        "teams": [
         {
          "name": "Kings",
@@ -2542,16 +2542,16 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P1 12:13",
+       "detail": "P1 11:16",
        "start": "2026-11-20T00:00:00Z",
        "period": 1,
-       "clock": "12:13",
+       "clock": "11:16",
        "teams": [
         {
          "name": "Islanders",
          "short": "NYI",
          "abbr": "NYI",
-         "score": 1,
+         "score": 2,
          "ha": "away",
          "winner": null,
          "linescores": []
@@ -2669,10 +2669,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "8:20 - 1st",
+       "detail": "7:50 - 1st",
        "start": "2026-11-20T00:00Z",
        "period": 1,
-       "clock": "8:20",
+       "clock": "7:50",
        "teams": [
         {
          "name": "Maine Black Bears",
@@ -2731,10 +2731,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P1 11:17",
+       "detail": "P1 09:24",
        "start": "2026-11-20T00:00:00Z",
        "period": 1,
-       "clock": "11:17",
+       "clock": "09:24",
        "teams": [
         {
          "name": "Blues",
