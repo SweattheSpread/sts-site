@@ -1,5 +1,5 @@
 {
- "updated": "Nov 19, 2026, 9:26 PM PT",
+ "updated": "Nov 19, 2026, 9:41 PM PT",
  "record": {
   "w": 203,
   "l": 200,
@@ -1824,11 +1824,11 @@
       "date": "20261119",
       "snapshot": {
        "source": "nhl",
-       "state": "in",
-       "detail": "P3 00:42",
+       "state": "post",
+       "detail": "Final",
        "start": "2026-11-20T02:40:00Z",
        "period": 3,
-       "clock": "00:42",
+       "clock": "00:00",
        "teams": [
         {
          "name": "Canucks",
@@ -1836,7 +1836,7 @@
          "abbr": "VAN",
          "score": 1,
          "ha": "away",
-         "winner": null,
+         "winner": false,
          "linescores": []
         },
         {
@@ -1845,7 +1845,7 @@
          "abbr": "SEA",
          "score": 5,
          "ha": "home",
-         "winner": null,
+         "winner": true,
          "linescores": []
         }
        ],
@@ -2635,16 +2635,16 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P3 05:36",
+       "detail": "P4 02:43",
        "start": "2026-11-20T03:00:00Z",
-       "period": 3,
-       "clock": "05:36",
+       "period": 4,
+       "clock": "02:43",
        "teams": [
         {
          "name": "Stars",
          "short": "DAL",
          "abbr": "DAL",
-         "score": 2,
+         "score": 3,
          "ha": "away",
          "winner": null,
          "linescores": []
