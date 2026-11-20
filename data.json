@@ -1,5 +1,5 @@
 {
- "updated": "Nov 20, 2026, 12:43 PM PT",
+ "updated": "Nov 20, 2026, 12:46 PM PT",
  "record": {
   "w": 214,
   "l": 216,
@@ -2169,16 +2169,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "3:35 - 1st",
+       "detail": "2:09 - 1st",
        "start": "2026-11-20T20:00Z",
        "period": 1,
-       "clock": "3:35",
+       "clock": "2:09",
        "teams": [
         {
          "name": "Northwestern Wildcats",
          "short": "Wildcats",
          "abbr": "NU",
-         "score": 22,
+         "score": 25,
          "ha": "away",
          "winner": null,
          "linescores": [
