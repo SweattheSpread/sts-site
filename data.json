@@ -1,5 +1,5 @@
 {
- "updated": "Nov 19, 2026, 9:48 PM PT",
+ "updated": "Nov 19, 2026, 9:52 PM PT",
  "record": {
   "w": 203,
   "l": 200,
@@ -2634,19 +2634,19 @@
       "date": "20261119",
       "snapshot": {
        "source": "nhl",
-       "state": "in",
-       "detail": "P5 04:00",
+       "state": "post",
+       "detail": "Final/SO",
        "start": "2026-11-20T03:00:00Z",
        "period": 5,
-       "clock": "04:00",
+       "clock": "00:00",
        "teams": [
         {
          "name": "Stars",
          "short": "DAL",
          "abbr": "DAL",
-         "score": 3,
+         "score": 4,
          "ha": "away",
-         "winner": null,
+         "winner": true,
          "linescores": []
         },
         {
@@ -2655,7 +2655,7 @@
          "abbr": "VGK",
          "score": 3,
          "ha": "home",
-         "winner": null,
+         "winner": false,
          "linescores": []
         }
        ],
