@@ -1,5 +1,5 @@
 {
- "updated": "Nov 20, 2026, 11:15 AM PT",
+ "updated": "Nov 20, 2026, 11:43 AM PT",
  "record": {
   "w": 214,
   "l": 216,
@@ -11,7 +11,7 @@
   "first": "2026-10-12",
   "last": "2026-11-19"
  },
- "pending": 36,
+ "pending": 37,
  "latest": [
   {
    "n": 904,
@@ -127,91 +127,6 @@
   }
  ],
  "picks": [
-  {
-   "n": 908,
-   "league": "Tennis",
-   "type": "Parlay",
-   "matchup": "ATP Finals 2-leg parlay",
-   "pick": "Carlos Alcaraz ML vs Flavio Cobolli (won 6-4 6-1, started 5:15 AM PT) + Daniil Medvedev ML vs Frances Tiafoe (11:30 AM PT)",
-   "odds": -132,
-   "units": 1.0,
-   "gap": null,
-   "start": "2026-11-20T11:30:00",
-   "timed": true,
-   "ticket": "parlay",
-   "espn": {
-    "legs": [
-     {
-      "kind": "ml",
-      "side": "Carlos Alcaraz",
-      "opp": "Flavio Cobolli",
-      "label": "Carlos Alcaraz ML",
-      "path": "tennis/atp",
-      "event": "339-2026",
-      "comp": "187510",
-      "date": "20261120",
-      "snapshot": {
-       "source": "tennis-explorer",
-       "path": "tennis/explorer",
-       "event": "3377743",
-       "state": "post",
-       "detail": "Final \u00b7 2-0 sets",
-       "tennis": [
-        {
-         "name": "Alcaraz C.",
-         "winner": true,
-         "sets": [
-          6,
-          6
-         ]
-        },
-        {
-         "name": "Cobolli F.",
-         "winner": false,
-         "sets": [
-          4,
-          1
-         ]
-        }
-       ],
-       "tour": "Masters Cup ATP"
-      }
-     },
-     {
-      "kind": "ml",
-      "side": "Daniil Medvedev",
-      "opp": "Frances Tiafoe",
-      "label": "Daniil Medvedev ML",
-      "path": "tennis/atp",
-      "event": "339-2026",
-      "comp": "187513",
-      "date": "20261120",
-      "snapshot": {
-       "source": "tennis-explorer",
-       "path": "tennis/explorer",
-       "event": "3377749",
-       "state": "pre",
-       "detail": "Scheduled",
-       "tennis": [
-        {
-         "name": "Medvedev D.",
-         "winner": false,
-         "sets": []
-        },
-        {
-         "name": "Tiafoe F.",
-         "winner": false,
-         "sets": []
-        }
-       ],
-       "tour": "Masters Cup ATP"
-      }
-     }
-    ],
-    "sport": "Tennis",
-    "ticket": "parlay"
-   }
-  },
   {
    "n": 912,
    "league": "NCAAB",
@@ -543,6 +458,79 @@
       "date": "20261120",
       "unverified": true,
       "reason": "Player not found in this game"
+     }
+    ],
+    "sport": "NBA",
+    "ticket": "single"
+   }
+  },
+  {
+   "n": 920,
+   "league": "NBA",
+   "type": "Player Prop",
+   "matchup": "Washington Wizards @ Chicago Bulls",
+   "pick": "Tre Jones Under 4.5 assists",
+   "odds": -125,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-20T17:10:00",
+   "timed": true,
+   "ticket": "single",
+   "espn": {
+    "legs": [
+     {
+      "kind": "prop",
+      "player": "Tre Jones",
+      "ou": "U",
+      "line": 4.5,
+      "stat": "assists",
+      "label": "Tre Jones U 4.5 assists",
+      "path": "basketball/nba",
+      "event": "401910022",
+      "date": "20261119",
+      "snapshot": {
+       "source": "espn",
+       "state": "post",
+       "detail": "Final",
+       "start": "2026-11-20T01:00Z",
+       "period": null,
+       "clock": null,
+       "teams": [
+        {
+         "name": "LA Clippers",
+         "short": "Clippers",
+         "abbr": "LAC",
+         "score": 112,
+         "ha": "away",
+         "winner": false,
+         "linescores": [
+          0,
+          0,
+          0,
+          0
+         ]
+        },
+        {
+         "name": "San Antonio Spurs",
+         "short": "Spurs",
+         "abbr": "SA",
+         "score": 124,
+         "ha": "home",
+         "winner": true,
+         "linescores": [
+          0,
+          0,
+          0,
+          0
+         ]
+        }
+       ],
+       "stat": {
+        "v": 1,
+        "name": "Derrick Jones Jr."
+       }
+      },
+      "source": "espn"
      }
     ],
     "sport": "NBA",
@@ -2096,6 +2084,91 @@
     ],
     "sport": "Tennis",
     "ticket": "single"
+   }
+  },
+  {
+   "n": 908,
+   "league": "Tennis",
+   "type": "Parlay",
+   "matchup": "ATP Finals 2-leg parlay",
+   "pick": "Carlos Alcaraz ML vs Flavio Cobolli (won 6-4 6-1, started 5:15 AM PT) + Daniil Medvedev ML vs Frances Tiafoe (11:30 AM PT)",
+   "odds": -132,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-20T11:30:00",
+   "timed": true,
+   "ticket": "parlay",
+   "espn": {
+    "legs": [
+     {
+      "kind": "ml",
+      "side": "Carlos Alcaraz",
+      "opp": "Flavio Cobolli",
+      "label": "Carlos Alcaraz ML",
+      "path": "tennis/atp",
+      "event": "339-2026",
+      "comp": "187510",
+      "date": "20261120",
+      "snapshot": {
+       "source": "tennis-explorer",
+       "path": "tennis/explorer",
+       "event": "3377743",
+       "state": "post",
+       "detail": "Final \u00b7 2-0 sets",
+       "tennis": [
+        {
+         "name": "Alcaraz C.",
+         "winner": true,
+         "sets": [
+          6,
+          6
+         ]
+        },
+        {
+         "name": "Cobolli F.",
+         "winner": false,
+         "sets": [
+          4,
+          1
+         ]
+        }
+       ],
+       "tour": "Masters Cup ATP"
+      }
+     },
+     {
+      "kind": "ml",
+      "side": "Daniil Medvedev",
+      "opp": "Frances Tiafoe",
+      "label": "Daniil Medvedev ML",
+      "path": "tennis/atp",
+      "event": "339-2026",
+      "comp": "187513",
+      "date": "20261120",
+      "snapshot": {
+       "source": "tennis-explorer",
+       "path": "tennis/explorer",
+       "event": "3377749",
+       "state": "pre",
+       "detail": "Scheduled",
+       "tennis": [
+        {
+         "name": "Medvedev D.",
+         "winner": false,
+         "sets": []
+        },
+        {
+         "name": "Tiafoe F.",
+         "winner": false,
+         "sets": []
+        }
+       ],
+       "tour": "Masters Cup ATP"
+      }
+     }
+    ],
+    "sport": "Tennis",
+    "ticket": "parlay"
    }
   }
  ],
