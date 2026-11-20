@@ -1,5 +1,5 @@
 {
- "updated": "Nov 19, 2026, 7:08 PM PT",
+ "updated": "Nov 19, 2026, 7:10 PM PT",
  "record": {
   "w": 203,
   "l": 200,
@@ -11,7 +11,7 @@
   "first": "2026-10-12",
   "last": "2026-11-18"
  },
- "pending": 48,
+ "pending": 49,
  "latest": [
   {
    "n": 872,
@@ -127,65 +127,6 @@
   }
  ],
  "picks": [
-  {
-   "n": 897,
-   "league": "NHL",
-   "type": "Over/Under",
-   "matchup": "Dallas Stars @ Vegas Golden Knights",
-   "pick": "Victor Olofsson Over 0.5 points",
-   "odds": 115,
-   "units": 1.0,
-   "gap": null,
-   "start": "2026-11-19T19:10:00",
-   "timed": true,
-   "ticket": "single",
-   "espn": {
-    "legs": [
-     {
-      "kind": "team_total",
-      "side": "Victor Olofsson",
-      "ou": "O",
-      "line": 0.5,
-      "label": "Victor Olofsson O 0.5",
-      "path": "hockey/nhl",
-      "event": "401892753",
-      "date": "20261119",
-      "snapshot": {
-       "source": "nhl",
-       "state": "in",
-       "detail": "P1 20:00",
-       "start": "2026-11-20T03:00:00Z",
-       "period": 1,
-       "clock": "20:00",
-       "teams": [
-        {
-         "name": "Stars",
-         "short": "DAL",
-         "abbr": "DAL",
-         "score": 0,
-         "ha": "away",
-         "winner": null,
-         "linescores": []
-        },
-        {
-         "name": "Golden Knights",
-         "short": "VGK",
-         "abbr": "VGK",
-         "score": 0,
-         "ha": "home",
-         "winner": null,
-         "linescores": []
-        }
-       ],
-       "nhl_id": 2026020358
-      },
-      "source": "nhl"
-     }
-    ],
-    "sport": "NHL",
-    "ticket": "single"
-   }
-  },
   {
    "n": 855,
    "league": "NFL",
@@ -1746,16 +1687,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "4:57 - 4th",
+       "detail": "3:25 - 4th",
        "start": "2026-11-20T01:00Z",
        "period": 4,
-       "clock": "4:57",
+       "clock": "3:25",
        "teams": [
         {
          "name": "New York Knicks",
          "short": "Knicks",
          "abbr": "NY",
-         "score": 97,
+         "score": 102,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -1943,10 +1884,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P2 17:18",
+       "detail": "P2 16:35",
        "start": "2026-11-20T02:00:00Z",
        "period": 2,
-       "clock": "17:18",
+       "clock": "16:35",
        "teams": [
         {
          "name": "Ducks",
@@ -1961,7 +1902,7 @@
          "name": "Avalanche",
          "short": "COL",
          "abbr": "COL",
-         "score": 1,
+         "score": 2,
          "ha": "home",
          "winner": null,
          "linescores": []
@@ -2065,16 +2006,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "0:49 - 2nd",
+       "detail": "0:46 - 2nd",
        "start": "2026-11-20T01:00Z",
        "period": 2,
-       "clock": "0:49",
+       "clock": "0:46",
        "teams": [
         {
          "name": "Texas A&M Aggies",
          "short": "Aggies",
          "abbr": "TA&M",
-         "score": 79,
+         "score": 80,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -2190,10 +2131,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "14:56 - 1st",
+       "detail": "14:34 - 1st",
        "start": "2026-11-20T03:00Z",
        "period": 1,
-       "clock": "14:56",
+       "clock": "14:34",
        "teams": [
         {
          "name": "Sacramento State Hornets",
@@ -2210,7 +2151,7 @@
          "name": "Stanford Cardinal",
          "short": "Cardinal",
          "abbr": "STAN",
-         "score": 9,
+         "score": 11,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -2380,16 +2321,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "9:34 - 4th",
+       "detail": "8:32 - 4th",
        "start": "2026-11-20T01:00Z",
        "period": 4,
-       "clock": "9:34",
+       "clock": "8:32",
        "teams": [
         {
          "name": "Portland Trail Blazers",
          "short": "Trail Blazers",
          "abbr": "POR",
-         "score": 98,
+         "score": 100,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -2448,10 +2389,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P3 20:00",
+       "detail": "P3 18:43",
        "start": "2026-11-20T01:00:00Z",
        "period": 3,
-       "clock": "20:00",
+       "clock": "18:43",
        "teams": [
         {
          "name": "Wild",
@@ -2625,10 +2566,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P2 17:18",
+       "detail": "P2 16:35",
        "start": "2026-11-20T02:00:00Z",
        "period": 2,
-       "clock": "17:18",
+       "clock": "16:35",
        "teams": [
         {
          "name": "Ducks",
@@ -2643,13 +2584,72 @@
          "name": "Avalanche",
          "short": "COL",
          "abbr": "COL",
-         "score": 1,
+         "score": 2,
          "ha": "home",
          "winner": null,
          "linescores": []
         }
        ],
        "nhl_id": 2026020356
+      },
+      "source": "nhl"
+     }
+    ],
+    "sport": "NHL",
+    "ticket": "single"
+   }
+  },
+  {
+   "n": 897,
+   "league": "NHL",
+   "type": "Over/Under",
+   "matchup": "Dallas Stars @ Vegas Golden Knights",
+   "pick": "Victor Olofsson Over 0.5 points",
+   "odds": 115,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-19T19:10:00",
+   "timed": true,
+   "ticket": "single",
+   "espn": {
+    "legs": [
+     {
+      "kind": "team_total",
+      "side": "Victor Olofsson",
+      "ou": "O",
+      "line": 0.5,
+      "label": "Victor Olofsson O 0.5",
+      "path": "hockey/nhl",
+      "event": "401892753",
+      "date": "20261119",
+      "snapshot": {
+       "source": "nhl",
+       "state": "in",
+       "detail": "P1 18:41",
+       "start": "2026-11-20T03:00:00Z",
+       "period": 1,
+       "clock": "18:41",
+       "teams": [
+        {
+         "name": "Stars",
+         "short": "DAL",
+         "abbr": "DAL",
+         "score": 0,
+         "ha": "away",
+         "winner": null,
+         "linescores": []
+        },
+        {
+         "name": "Golden Knights",
+         "short": "VGK",
+         "abbr": "VGK",
+         "score": 0,
+         "ha": "home",
+         "winner": null,
+         "linescores": []
+        }
+       ],
+       "nhl_id": 2026020358
       },
       "source": "nhl"
      }
@@ -2685,16 +2685,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "9:34 - 4th",
+       "detail": "8:32 - 4th",
        "start": "2026-11-20T01:00Z",
        "period": 4,
-       "clock": "9:34",
+       "clock": "8:32",
        "teams": [
         {
          "name": "Portland Trail Blazers",
          "short": "Trail Blazers",
          "abbr": "POR",
-         "score": 98,
+         "score": 100,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -2758,16 +2758,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "4:57 - 4th",
+       "detail": "3:25 - 4th",
        "start": "2026-11-20T01:00Z",
        "period": 4,
-       "clock": "4:57",
+       "clock": "3:25",
        "teams": [
         {
          "name": "New York Knicks",
          "short": "Knicks",
          "abbr": "NY",
-         "score": 97,
+         "score": 102,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -2831,16 +2831,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "6:57 - 4th",
+       "detail": "6:03 - 4th",
        "start": "2026-11-20T01:00Z",
        "period": 4,
-       "clock": "6:57",
+       "clock": "6:03",
        "teams": [
         {
          "name": "Golden State Warriors",
          "short": "Warriors",
          "abbr": "GS",
-         "score": 80,
+         "score": 82,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -2854,7 +2854,7 @@
          "name": "Memphis Grizzlies",
          "short": "Grizzlies",
          "abbr": "MEM",
-         "score": 104,
+         "score": 106,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -2904,16 +2904,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "9:34 - 4th",
+       "detail": "8:32 - 4th",
        "start": "2026-11-20T01:00Z",
        "period": 4,
-       "clock": "9:34",
+       "clock": "8:32",
        "teams": [
         {
          "name": "Portland Trail Blazers",
          "short": "Trail Blazers",
          "abbr": "POR",
-         "score": 98,
+         "score": 100,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -2974,16 +2974,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "4:57 - 4th",
+       "detail": "3:25 - 4th",
        "start": "2026-11-20T01:00Z",
        "period": 4,
-       "clock": "4:57",
+       "clock": "3:25",
        "teams": [
         {
          "name": "New York Knicks",
          "short": "Knicks",
          "abbr": "NY",
-         "score": 97,
+         "score": 102,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -3041,6 +3041,74 @@
       "line": 27.5,
       "stat": "rushing yards",
       "label": "Seth McGowan O 27.5 rushing yards",
+      "path": "football/nfl",
+      "event": "401873066",
+      "date": "20261119",
+      "snapshot": {
+       "source": "espn",
+       "state": "in",
+       "detail": "11:48 - 3rd",
+       "start": "2026-11-20T01:15Z",
+       "period": 3,
+       "clock": "11:48",
+       "teams": [
+        {
+         "name": "Indianapolis Colts",
+         "short": "Colts",
+         "abbr": "IND",
+         "score": 3,
+         "ha": "away",
+         "winner": null,
+         "linescores": [
+          0,
+          0,
+          0
+         ]
+        },
+        {
+         "name": "Houston Texans",
+         "short": "Texans",
+         "abbr": "HOU",
+         "score": 17,
+         "ha": "home",
+         "winner": null,
+         "linescores": [
+          0,
+          0,
+          0
+         ]
+        }
+       ],
+       "stat": null
+      },
+      "source": "espn"
+     }
+    ],
+    "sport": "NFL",
+    "ticket": "single"
+   }
+  },
+  {
+   "n": 904,
+   "league": "NFL",
+   "type": "Player Prop",
+   "matchup": "Indianapolis Colts @ Houston Texans",
+   "pick": "David Montgomery Over 95.5 rushing yards (player prop) LIVE",
+   "odds": -120,
+   "units": 7.0,
+   "gap": null,
+   "start": "2026-11-19T17:15:00",
+   "timed": true,
+   "ticket": "single",
+   "espn": {
+    "legs": [
+     {
+      "kind": "prop",
+      "player": "David Montgomery",
+      "ou": "O",
+      "line": 95.5,
+      "stat": "rushing yards live",
+      "label": "David Montgomery O 95.5 rushing yards live",
       "path": "football/nfl",
       "event": "401873066",
       "date": "20261119",

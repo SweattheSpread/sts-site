@@ -1,5 +1,5 @@
 {
- "updated": "Nov 19, 2026, 7:08 PM PT",
+ "updated": "Nov 19, 2026, 7:10 PM PT",
  "record": {
   "w": 203,
   "l": 200,
@@ -11,7 +11,7 @@
   "first": "2026-10-12",
   "last": "2026-11-18"
  },
- "pending": 48,
+ "pending": 49,
  "plays": [
   {
    "n": 334,
@@ -6969,6 +6969,22 @@
    "pick": "Seth McGowan Over 27.5 rushing yards (player prop)",
    "odds": -110,
    "units": 4.0,
+   "result": null,
+   "pl": null,
+   "pending": true
+  },
+  {
+   "n": 904,
+   "date": "2026-11-19",
+   "day": "2026-11-19",
+   "league": "NFL",
+   "market": "player_prop",
+   "market_label": "Player Prop",
+   "ticket": "single",
+   "matchup": "Indianapolis Colts @ Houston Texans",
+   "pick": "David Montgomery (HOU) Over 95.5 rushing yards (player prop) LIVE",
+   "odds": -120,
+   "units": 7.0,
    "result": null,
    "pl": null,
    "pending": true
