@@ -1,5 +1,5 @@
 {
- "updated": "Nov 20, 2026, 1:10 PM PT",
+ "updated": "Nov 20, 2026, 1:12 PM PT",
  "record": {
   "w": 214,
   "l": 216,
@@ -2122,18 +2122,24 @@
        "source": "tennis-explorer",
        "path": "tennis/explorer",
        "event": "3377749",
-       "state": "pre",
-       "detail": "Scheduled",
+       "state": "post",
+       "detail": "Final \u00b7 2-0 sets",
        "tennis": [
         {
          "name": "Medvedev D.",
-         "winner": false,
-         "sets": []
+         "winner": true,
+         "sets": [
+          6,
+          6
+         ]
         },
         {
          "name": "Tiafoe F.",
          "winner": false,
-         "sets": []
+         "sets": [
+          3,
+          4
+         ]
         }
        ],
        "tour": "Masters Cup ATP"
@@ -2169,10 +2175,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "16:45 - 2nd",
+       "detail": "15:13 - 2nd",
        "start": "2026-11-20T20:00Z",
        "period": 2,
-       "clock": "16:45",
+       "clock": "15:13",
        "teams": [
         {
          "name": "Northwestern Wildcats",
@@ -2190,7 +2196,7 @@
          "name": "Virginia Tech Hokies",
          "short": "Hokies",
          "abbr": "VT",
-         "score": 52,
+         "score": 55,
          "ha": "home",
          "winner": null,
          "linescores": [
