@@ -1,5 +1,5 @@
 {
- "updated": "Nov 20, 2026, 12:18 PM PT",
+ "updated": "Nov 20, 2026, 12:21 PM PT",
  "record": {
   "w": 214,
   "l": 216,
@@ -11,7 +11,7 @@
   "first": "2026-10-12",
   "last": "2026-11-19"
  },
- "pending": 37,
+ "pending": 38,
  "latest": [
   {
    "n": 904,
@@ -398,6 +398,36 @@
       "line": 1.5,
       "stat": "3-pointers made",
       "label": "John Collins O 1.5 3-pointers made",
+      "date": "20261120",
+      "unverified": true,
+      "reason": "Player not found in this game"
+     }
+    ],
+    "sport": "NBA",
+    "ticket": "single"
+   }
+  },
+  {
+   "n": 921,
+   "league": "NBA",
+   "type": "Player Prop",
+   "matchup": "Toronto Raptors @ Detroit Pistons",
+   "pick": "Immanuel Quickley Over 5.5 assists",
+   "odds": -115,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-20T16:40:00",
+   "timed": true,
+   "ticket": "single",
+   "espn": {
+    "legs": [
+     {
+      "kind": "prop",
+      "player": "Immanuel Quickley",
+      "ou": "O",
+      "line": 5.5,
+      "stat": "assists",
+      "label": "Immanuel Quickley O 5.5 assists",
       "date": "20261120",
       "unverified": true,
       "reason": "Player not found in this game"
@@ -2139,10 +2169,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "13:02 - 1st",
+       "detail": "12:02 - 1st",
        "start": "2026-11-20T20:00Z",
        "period": 1,
-       "clock": "13:02",
+       "clock": "12:02",
        "teams": [
         {
          "name": "Northwestern Wildcats",
@@ -2159,7 +2189,7 @@
          "name": "Virginia Tech Hokies",
          "short": "Hokies",
          "abbr": "VT",
-         "score": 16,
+         "score": 19,
          "ha": "home",
          "winner": null,
          "linescores": [
