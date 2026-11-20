@@ -1,5 +1,5 @@
 {
- "updated": "Nov 19, 2026, 4:22 PM PT",
+ "updated": "Nov 19, 2026, 4:24 PM PT",
  "record": {
   "w": 203,
   "l": 200,
@@ -359,10 +359,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P1 11:34",
+       "detail": "P1 11:17",
        "start": "2026-11-20T00:00:00Z",
        "period": 1,
-       "clock": "11:34",
+       "clock": "11:17",
        "teams": [
         {
          "name": "Blues",
@@ -535,10 +535,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P1 11:34",
+       "detail": "P1 11:17",
        "start": "2026-11-20T00:00:00Z",
        "period": 1,
-       "clock": "11:34",
+       "clock": "11:17",
        "teams": [
         {
          "name": "Blues",
@@ -2478,10 +2478,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P1 12:33",
+       "detail": "P1 10:22",
        "start": "2026-11-20T00:00:00Z",
        "period": 1,
-       "clock": "12:33",
+       "clock": "10:22",
        "teams": [
         {
          "name": "Kings",
@@ -2542,10 +2542,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P1 13:30",
+       "detail": "P1 12:13",
        "start": "2026-11-20T00:00:00Z",
        "period": 1,
-       "clock": "13:30",
+       "clock": "12:13",
        "teams": [
         {
          "name": "Islanders",
@@ -2605,10 +2605,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "16:43 - 2nd",
+       "detail": "15:59 - 2nd",
        "start": "2026-11-19T23:00Z",
        "period": 2,
-       "clock": "16:43",
+       "clock": "15:59",
        "teams": [
         {
          "name": "Murray State Racers",
@@ -2626,7 +2626,7 @@
          "name": "NC State Wolfpack",
          "short": "Wolfpack",
          "abbr": "NCSU",
-         "score": 51,
+         "score": 55,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -2669,10 +2669,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "9:24 - 1st",
+       "detail": "8:20 - 1st",
        "start": "2026-11-20T00:00Z",
        "period": 1,
-       "clock": "9:24",
+       "clock": "8:20",
        "teams": [
         {
          "name": "Maine Black Bears",
@@ -2689,7 +2689,7 @@
          "name": "Quinnipiac Bobcats",
          "short": "Bobcats",
          "abbr": "QUIN",
-         "score": 12,
+         "score": 15,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -2731,10 +2731,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P1 11:34",
+       "detail": "P1 11:17",
        "start": "2026-11-20T00:00:00Z",
        "period": 1,
-       "clock": "11:34",
+       "clock": "11:17",
        "teams": [
         {
          "name": "Blues",
