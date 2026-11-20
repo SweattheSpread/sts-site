@@ -1,5 +1,5 @@
 {
- "updated": "Nov 19, 2026, 4:50 PM PT",
+ "updated": "Nov 19, 2026, 4:53 PM PT",
  "record": {
   "w": 203,
   "l": 200,
@@ -11,7 +11,7 @@
   "first": "2026-10-12",
   "last": "2026-11-18"
  },
- "pending": 47,
+ "pending": 48,
  "plays": [
   {
    "n": 334,
@@ -6953,6 +6953,22 @@
    "pick": "Josh Hart Under 7.5 points",
    "odds": -105,
    "units": 1.0,
+   "result": null,
+   "pl": null,
+   "pending": true
+  },
+  {
+   "n": 903,
+   "date": "2026-11-19",
+   "day": "2026-11-19",
+   "league": "NFL",
+   "market": "player_prop",
+   "market_label": "Player Prop",
+   "ticket": "single",
+   "matchup": "Indianapolis Colts @ Houston Texans",
+   "pick": "Seth McGowan Over 27.5 rushing yards (player prop)",
+   "odds": -110,
+   "units": 4.0,
    "result": null,
    "pl": null,
    "pending": true

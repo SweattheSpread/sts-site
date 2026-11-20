@@ -1,5 +1,5 @@
 {
- "updated": "Nov 19, 2026, 4:50 PM PT",
+ "updated": "Nov 19, 2026, 4:53 PM PT",
  "record": {
   "w": 203,
   "l": 200,
@@ -11,7 +11,7 @@
   "first": "2026-10-12",
   "last": "2026-11-18"
  },
- "pending": 47,
+ "pending": 48,
  "latest": [
   {
    "n": 872,
@@ -241,10 +241,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P1 08:37",
+       "detail": "P1 06:37",
        "start": "2026-11-20T00:00:00Z",
        "period": 1,
-       "clock": "08:37",
+       "clock": "06:37",
        "teams": [
         {
          "name": "Blues",
@@ -417,10 +417,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P1 08:37",
+       "detail": "P1 06:37",
        "start": "2026-11-20T00:00:00Z",
        "period": 1,
-       "clock": "08:37",
+       "clock": "06:37",
        "teams": [
         {
          "name": "Blues",
@@ -795,6 +795,36 @@
        ]
       },
       "source": "espn"
+     }
+    ],
+    "sport": "NFL",
+    "ticket": "single"
+   }
+  },
+  {
+   "n": 903,
+   "league": "NFL",
+   "type": "Player Prop",
+   "matchup": "Indianapolis Colts @ Houston Texans",
+   "pick": "Seth McGowan Over 27.5 rushing yards (player prop)",
+   "odds": -110,
+   "units": 4.0,
+   "gap": null,
+   "start": "2026-11-19T17:15:00",
+   "timed": true,
+   "ticket": "single",
+   "espn": {
+    "legs": [
+     {
+      "kind": "prop",
+      "player": "Seth McGowan",
+      "ou": "O",
+      "line": 27.5,
+      "stat": "rushing yards",
+      "label": "Seth McGowan O 27.5 rushing yards",
+      "date": "20261119",
+      "unverified": true,
+      "reason": "Player not found in this game"
      }
     ],
     "sport": "NFL",
@@ -2390,10 +2420,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P1 12:43",
+       "detail": "P1 11:24",
        "start": "2026-11-20T00:30:00Z",
        "period": 1,
-       "clock": "12:43",
+       "clock": "11:24",
        "teams": [
         {
          "name": "Oilers",
@@ -2454,10 +2484,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P1 13:22",
+       "detail": "P1 11:22",
        "start": "2026-11-20T00:00:00Z",
        "period": 1,
-       "clock": "13:22",
+       "clock": "11:22",
        "teams": [
         {
          "name": "Kings",
@@ -2518,10 +2548,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P1 13:36",
+       "detail": "P1 11:36",
        "start": "2026-11-20T00:00:00Z",
        "period": 1,
-       "clock": "13:36",
+       "clock": "11:36",
        "teams": [
         {
          "name": "Islanders",
@@ -2581,16 +2611,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "12:22 - 1st",
+       "detail": "11:28 - 1st",
        "start": "2026-11-20T00:30Z",
        "period": 1,
-       "clock": "12:22",
+       "clock": "11:28",
        "teams": [
         {
          "name": "Charleston Cougars",
          "short": "Cougars",
          "abbr": "COFC",
-         "score": 12,
+         "score": 14,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -2769,10 +2799,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P1 08:37",
+       "detail": "P1 06:37",
        "start": "2026-11-20T00:00:00Z",
        "period": 1,
-       "clock": "08:37",
+       "clock": "06:37",
        "teams": [
         {
          "name": "Blues",
