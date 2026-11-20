@@ -1,5 +1,5 @@
 {
- "updated": "Nov 19, 2026, 7:52 PM PT",
+ "updated": "Nov 19, 2026, 7:55 PM PT",
  "record": {
   "w": 203,
   "l": 200,
@@ -1825,10 +1825,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P2 18:45",
+       "detail": "P2 16:56",
        "start": "2026-11-20T02:40:00Z",
        "period": 2,
-       "clock": "18:45",
+       "clock": "16:56",
        "teams": [
         {
          "name": "Canucks",
@@ -1888,10 +1888,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P2 07:10",
+       "detail": "P2 04:42",
        "start": "2026-11-20T02:00:00Z",
        "period": 2,
-       "clock": "07:10",
+       "clock": "04:42",
        "teams": [
         {
          "name": "Ducks",
@@ -2076,16 +2076,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "9:54 - 2nd",
+       "detail": "9:22 - 2nd",
        "start": "2026-11-20T02:00Z",
        "period": 2,
-       "clock": "9:54",
+       "clock": "9:22",
        "teams": [
         {
          "name": "UTEP Miners",
          "short": "Miners",
          "abbr": "UTEP",
-         "score": 68,
+         "score": 70,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -2139,7 +2139,7 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "0:00 - 1st",
+       "detail": "Halftime",
        "start": "2026-11-20T03:00Z",
        "period": 1,
        "clock": "0:00",
@@ -2574,10 +2574,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P2 07:10",
+       "detail": "P2 04:42",
        "start": "2026-11-20T02:00:00Z",
        "period": 2,
-       "clock": "07:10",
+       "clock": "04:42",
        "teams": [
         {
          "name": "Ducks",
@@ -2633,10 +2633,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P1 04:12",
+       "detail": "P1 01:42",
        "start": "2026-11-20T03:00:00Z",
        "period": 1,
-       "clock": "04:12",
+       "clock": "01:42",
        "teams": [
         {
          "name": "Stars",
