@@ -1,5 +1,5 @@
 {
- "updated": "Nov 19, 2026, 6:59 PM PT",
+ "updated": "Nov 19, 2026, 7:01 PM PT",
  "record": {
   "w": 203,
   "l": 200,
@@ -127,63 +127,6 @@
   }
  ],
  "picks": [
-  {
-   "n": 889,
-   "league": "NCAAB",
-   "type": "Spread",
-   "matchup": "Sacramento St Hornets @ Stanford Cardinal",
-   "pick": "Sacramento St +17.5",
-   "odds": -110,
-   "units": 1.0,
-   "gap": null,
-   "start": "2026-11-19T19:00:00",
-   "timed": true,
-   "ticket": "single",
-   "espn": {
-    "legs": [
-     {
-      "kind": "spread",
-      "side": "Sacramento St",
-      "line": 17.5,
-      "label": "Sacramento St +17.5",
-      "path": "basketball/mens-college-basketball",
-      "event": "401920349",
-      "date": "20261119",
-      "snapshot": {
-       "source": "espn",
-       "state": "pre",
-       "detail": "11/19 - 10:00 PM EST",
-       "start": "2026-11-20T03:00Z",
-       "period": null,
-       "clock": null,
-       "teams": [
-        {
-         "name": "Sacramento State Hornets",
-         "short": "Hornets",
-         "abbr": "SAC",
-         "score": 0,
-         "ha": "away",
-         "winner": null,
-         "linescores": []
-        },
-        {
-         "name": "Stanford Cardinal",
-         "short": "Cardinal",
-         "abbr": "STAN",
-         "score": 0,
-         "ha": "home",
-         "winner": null,
-         "linescores": []
-        }
-       ]
-      },
-      "source": "espn"
-     }
-    ],
-    "sport": "NCAAB",
-    "ticket": "single"
-   }
-  },
   {
    "n": 897,
    "league": "NHL",
@@ -1607,16 +1550,16 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P3 01:36",
+       "detail": "P3 00:44",
        "start": "2026-11-20T00:30:00Z",
        "period": 3,
-       "clock": "01:36",
+       "clock": "00:44",
        "teams": [
         {
          "name": "Oilers",
          "short": "EDM",
          "abbr": "EDM",
-         "score": 0,
+         "score": 1,
          "ha": "away",
          "winner": null,
          "linescores": []
@@ -1799,10 +1742,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "7:56 - 4th",
+       "detail": "6:28 - 4th",
        "start": "2026-11-20T01:00Z",
        "period": 4,
-       "clock": "7:56",
+       "clock": "6:28",
        "teams": [
         {
          "name": "New York Knicks",
@@ -1822,7 +1765,7 @@
          "name": "Minnesota Timberwolves",
          "short": "Timberwolves",
          "abbr": "MIN",
-         "score": 85,
+         "score": 88,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -1933,10 +1876,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P1 13:53",
+       "detail": "P1 13:52",
        "start": "2026-11-20T02:40:00Z",
        "period": 1,
-       "clock": "13:53",
+       "clock": "13:52",
        "teams": [
         {
          "name": "Canucks",
@@ -1996,10 +1939,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P1 03:01",
+       "detail": "P1 01:02",
        "start": "2026-11-20T02:00:00Z",
        "period": 1,
-       "clock": "03:01",
+       "clock": "01:02",
        "teams": [
         {
          "name": "Ducks",
@@ -2118,10 +2061,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "3:52 - 2nd",
+       "detail": "3:28 - 2nd",
        "start": "2026-11-20T01:00Z",
        "period": 2,
-       "clock": "3:52",
+       "clock": "3:28",
        "teams": [
         {
          "name": "Texas A&M Aggies",
@@ -2182,16 +2125,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "1:08 - 1st",
+       "detail": "0:12 - 1st",
        "start": "2026-11-20T02:00Z",
        "period": 1,
-       "clock": "1:08",
+       "clock": "0:12",
        "teams": [
         {
          "name": "UTEP Miners",
          "short": "Miners",
          "abbr": "UTEP",
-         "score": 37,
+         "score": 40,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -2208,6 +2151,63 @@
          "linescores": [
           0
          ]
+        }
+       ]
+      },
+      "source": "espn"
+     }
+    ],
+    "sport": "NCAAB",
+    "ticket": "single"
+   }
+  },
+  {
+   "n": 889,
+   "league": "NCAAB",
+   "type": "Spread",
+   "matchup": "Sacramento St Hornets @ Stanford Cardinal",
+   "pick": "Sacramento St +17.5",
+   "odds": -110,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-19T19:00:00",
+   "timed": true,
+   "ticket": "single",
+   "espn": {
+    "legs": [
+     {
+      "kind": "spread",
+      "side": "Sacramento St",
+      "line": 17.5,
+      "label": "Sacramento St +17.5",
+      "path": "basketball/mens-college-basketball",
+      "event": "401920349",
+      "date": "20261119",
+      "snapshot": {
+       "source": "espn",
+       "state": "pre",
+       "detail": "11/19 - 10:00 PM EST",
+       "start": "2026-11-20T03:00Z",
+       "period": null,
+       "clock": null,
+       "teams": [
+        {
+         "name": "Sacramento State Hornets",
+         "short": "Hornets",
+         "abbr": "SAC",
+         "score": 0,
+         "ha": "away",
+         "winner": null,
+         "linescores": []
+        },
+        {
+         "name": "Stanford Cardinal",
+         "short": "Cardinal",
+         "abbr": "STAN",
+         "score": 0,
+         "ha": "home",
+         "winner": null,
+         "linescores": []
         }
        ]
       },
@@ -2438,10 +2438,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P2 07:34",
+       "detail": "P2 05:35",
        "start": "2026-11-20T01:00:00Z",
        "period": 2,
-       "clock": "07:34",
+       "clock": "05:35",
        "teams": [
         {
          "name": "Wild",
@@ -2615,10 +2615,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P1 03:01",
+       "detail": "P1 01:02",
        "start": "2026-11-20T02:00:00Z",
        "period": 1,
-       "clock": "03:01",
+       "clock": "01:02",
        "teams": [
         {
          "name": "Ducks",
@@ -2746,10 +2746,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "7:56 - 4th",
+       "detail": "6:28 - 4th",
        "start": "2026-11-20T01:00Z",
        "period": 4,
-       "clock": "7:56",
+       "clock": "6:28",
        "teams": [
         {
          "name": "New York Knicks",
@@ -2769,7 +2769,7 @@
          "name": "Minnesota Timberwolves",
          "short": "Timberwolves",
          "abbr": "MIN",
-         "score": 85,
+         "score": 88,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -2819,10 +2819,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "10:15 - 4th",
+       "detail": "9:26 - 4th",
        "start": "2026-11-20T01:00Z",
        "period": 4,
-       "clock": "10:15",
+       "clock": "9:26",
        "teams": [
         {
          "name": "Golden State Warriors",
@@ -2842,7 +2842,7 @@
          "name": "Memphis Grizzlies",
          "short": "Grizzlies",
          "abbr": "MEM",
-         "score": 97,
+         "score": 99,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -2960,10 +2960,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "7:56 - 4th",
+       "detail": "6:28 - 4th",
        "start": "2026-11-20T01:00Z",
        "period": 4,
-       "clock": "7:56",
+       "clock": "6:28",
        "teams": [
         {
          "name": "New York Knicks",
@@ -2983,7 +2983,7 @@
          "name": "Minnesota Timberwolves",
          "short": "Timberwolves",
          "abbr": "MIN",
-         "score": 85,
+         "score": 88,
          "ha": "home",
          "winner": null,
          "linescores": [
