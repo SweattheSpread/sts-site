@@ -1,5 +1,5 @@
 {
- "updated": "Nov 20, 2026, 2:59 PM PT",
+ "updated": "Nov 20, 2026, 3:02 PM PT",
  "record": {
   "w": 214,
   "l": 216,
@@ -127,54 +127,6 @@
   }
  ],
  "picks": [
-  {
-   "n": 907,
-   "league": "Tennis",
-   "type": "Moneyline",
-   "matchup": "Montevideo Challenger: Justo G. vs Federico Roncadelli",
-   "pick": "Federico Roncadelli ML",
-   "odds": 138,
-   "units": 1.0,
-   "gap": null,
-   "start": "2026-11-20T15:00:00",
-   "timed": true,
-   "ticket": "single",
-   "espn": {
-    "legs": [
-     {
-      "kind": "ml",
-      "side": "Federico Roncadelli",
-      "label": "Federico Roncadelli ML",
-      "snapshot": {
-       "source": "tennis-explorer",
-       "path": "tennis/explorer",
-       "event": "3384545",
-       "state": "pre",
-       "detail": "Scheduled",
-       "tennis": [
-        {
-         "name": "Justo G.",
-         "winner": false,
-         "sets": []
-        },
-        {
-         "name": "Roncadelli F.",
-         "winner": false,
-         "sets": []
-        }
-       ],
-       "tour": "Montevideo challenger"
-      },
-      "path": "tennis/explorer",
-      "event": "3384545",
-      "source": "tennis-explorer",
-      "date": "20261120"
-     }
-    ],
-    "sport": "Tennis",
-    "ticket": "single"
-   }
-  },
   {
    "n": 916,
    "league": "NCAAB",
@@ -2005,6 +1957,54 @@
    }
   },
   {
+   "n": 907,
+   "league": "Tennis",
+   "type": "Moneyline",
+   "matchup": "Montevideo Challenger: Justo G. vs Federico Roncadelli",
+   "pick": "Federico Roncadelli ML",
+   "odds": 138,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-20T15:00:00",
+   "timed": true,
+   "ticket": "single",
+   "espn": {
+    "legs": [
+     {
+      "kind": "ml",
+      "side": "Federico Roncadelli",
+      "label": "Federico Roncadelli ML",
+      "snapshot": {
+       "source": "tennis-explorer",
+       "path": "tennis/explorer",
+       "event": "3384545",
+       "state": "pre",
+       "detail": "Scheduled",
+       "tennis": [
+        {
+         "name": "Justo G.",
+         "winner": false,
+         "sets": []
+        },
+        {
+         "name": "Roncadelli F.",
+         "winner": false,
+         "sets": []
+        }
+       ],
+       "tour": "Montevideo challenger"
+      },
+      "path": "tennis/explorer",
+      "event": "3384545",
+      "source": "tennis-explorer",
+      "date": "20261120"
+     }
+    ],
+    "sport": "Tennis",
+    "ticket": "single"
+   }
+  },
+  {
    "n": 908,
    "league": "Tennis",
    "type": "Parlay",
@@ -2121,10 +2121,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "12:56 - 1st",
+       "detail": "10:39 - 1st",
        "start": "2026-11-20T22:30Z",
        "period": 1,
-       "clock": "12:56",
+       "clock": "10:39",
        "teams": [
         {
          "name": "Mercyhurst Lakers",
@@ -2141,7 +2141,7 @@
          "name": "Canisius Golden Griffins",
          "short": "Golden Griffins",
          "abbr": "CAN",
-         "score": 12,
+         "score": 15,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -2245,16 +2245,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "10:13 - 2nd",
+       "detail": "8:19 - 2nd",
        "start": "2026-11-20T21:30Z",
        "period": 2,
-       "clock": "10:13",
+       "clock": "8:19",
        "teams": [
         {
          "name": "Rhode Island Rams",
          "short": "Rams",
          "abbr": "URI",
-         "score": 38,
+         "score": 44,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -2266,7 +2266,7 @@
          "name": "Liberty Flames",
          "short": "Flames",
          "abbr": "LIB",
-         "score": 52,
+         "score": 57,
          "ha": "home",
          "winner": null,
          "linescores": [
