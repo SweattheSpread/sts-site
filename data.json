@@ -1,5 +1,5 @@
 {
- "updated": "Nov 20, 2026, 1:22 PM PT",
+ "updated": "Nov 20, 2026, 1:25 PM PT",
  "record": {
   "w": 214,
   "l": 216,
@@ -2175,10 +2175,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "12:31 - 2nd",
+       "detail": "11:36 - 2nd",
        "start": "2026-11-20T20:00Z",
        "period": 2,
-       "clock": "12:31",
+       "clock": "11:36",
        "teams": [
         {
          "name": "Northwestern Wildcats",
@@ -2196,7 +2196,7 @@
          "name": "Virginia Tech Hokies",
          "short": "Hokies",
          "abbr": "VT",
-         "score": 58,
+         "score": 60,
          "ha": "home",
          "winner": null,
          "linescores": [
