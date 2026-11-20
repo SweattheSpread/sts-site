@@ -1,5 +1,5 @@
 {
- "updated": "Nov 20, 2026, 10:54 AM PT",
+ "updated": "Nov 20, 2026, 11:15 AM PT",
  "record": {
   "w": 214,
   "l": 216,
@@ -11,7 +11,7 @@
   "first": "2026-10-12",
   "last": "2026-11-19"
  },
- "pending": 35,
+ "pending": 36,
  "latest": [
   {
    "n": 904,
@@ -510,6 +510,36 @@
       "line": 1.5,
       "stat": "3-pointers made",
       "label": "Kelly Oubre Jr. U 1.5 3-pointers made",
+      "date": "20261120",
+      "unverified": true,
+      "reason": "Player not found in this game"
+     }
+    ],
+    "sport": "NBA",
+    "ticket": "single"
+   }
+  },
+  {
+   "n": 919,
+   "league": "NBA",
+   "type": "Player Prop",
+   "matchup": "Toronto Raptors @ Detroit Pistons",
+   "pick": "John Collins Over 1.5 3-pointers made",
+   "odds": 155,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-20T16:40:00",
+   "timed": true,
+   "ticket": "single",
+   "espn": {
+    "legs": [
+     {
+      "kind": "prop",
+      "player": "John Collins",
+      "ou": "O",
+      "line": 1.5,
+      "stat": "3-pointers made",
+      "label": "John Collins O 1.5 3-pointers made",
       "date": "20261120",
       "unverified": true,
       "reason": "Player not found in this game"
