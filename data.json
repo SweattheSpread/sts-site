@@ -1,5 +1,5 @@
 {
- "updated": "Nov 20, 2026, 3:33 AM PT",
+ "updated": "Nov 20, 2026, 6:59 AM PT",
  "record": {
   "w": 214,
   "l": 216,
@@ -11,7 +11,7 @@
   "first": "2026-10-12",
   "last": "2026-11-19"
  },
- "pending": 22,
+ "pending": 25,
  "latest": [
   {
    "n": 904,
@@ -127,6 +127,164 @@
   }
  ],
  "picks": [
+  {
+   "n": 906,
+   "league": "Tennis",
+   "type": "Moneyline",
+   "matchup": "Billie Jean King Cup: Laura Pigossi vs Kayla Cross",
+   "pick": "Kayla Cross ML",
+   "odds": -115,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-20T10:30:00",
+   "timed": true,
+   "ticket": "single",
+   "espn": {
+    "legs": [
+     {
+      "kind": "ml",
+      "side": "Kayla Cross",
+      "label": "Kayla Cross ML",
+      "unverified": true
+     }
+    ],
+    "sport": "Tennis",
+    "ticket": "single"
+   }
+  },
+  {
+   "n": 908,
+   "league": "Tennis",
+   "type": "Parlay",
+   "matchup": "ATP Finals 2-leg parlay",
+   "pick": "Carlos Alcaraz ML vs Flavio Cobolli (won 6-4 6-1, started 5:15 AM PT) + Daniil Medvedev ML vs Frances Tiafoe (11:30 AM PT)",
+   "odds": -132,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-20T11:30:00",
+   "timed": true,
+   "ticket": "parlay",
+   "espn": {
+    "legs": [
+     {
+      "kind": "ml",
+      "side": "Carlos Alcaraz",
+      "opp": "Flavio Cobolli",
+      "label": "Carlos Alcaraz ML",
+      "path": "tennis/atp",
+      "event": "339-2026",
+      "comp": "187510",
+      "date": "20261120",
+      "snapshot": {
+       "source": "tennis-explorer",
+       "path": "tennis/explorer",
+       "event": "3377743",
+       "state": "post",
+       "detail": "Final \u00b7 2-0 sets",
+       "tennis": [
+        {
+         "name": "Alcaraz C.",
+         "winner": true,
+         "sets": [
+          6,
+          6
+         ]
+        },
+        {
+         "name": "Cobolli F.",
+         "winner": false,
+         "sets": [
+          4,
+          1
+         ]
+        }
+       ],
+       "tour": "Masters Cup ATP"
+      }
+     },
+     {
+      "kind": "ml",
+      "side": "Daniil Medvedev",
+      "opp": "Frances Tiafoe",
+      "label": "Daniil Medvedev ML",
+      "path": "tennis/atp",
+      "event": "339-2026",
+      "comp": "187513",
+      "date": "20261120",
+      "snapshot": {
+       "source": "tennis-explorer",
+       "path": "tennis/explorer",
+       "event": "3377749",
+       "state": "pre",
+       "detail": "Scheduled",
+       "tennis": [
+        {
+         "name": "Medvedev D.",
+         "winner": false,
+         "sets": []
+        },
+        {
+         "name": "Tiafoe F.",
+         "winner": false,
+         "sets": []
+        }
+       ],
+       "tour": "Masters Cup ATP"
+      }
+     }
+    ],
+    "sport": "Tennis",
+    "ticket": "parlay"
+   }
+  },
+  {
+   "n": 907,
+   "league": "Tennis",
+   "type": "Moneyline",
+   "matchup": "Montevideo Challenger: Justo G. vs Federico Roncadelli",
+   "pick": "Federico Roncadelli ML",
+   "odds": 138,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-20T15:00:00",
+   "timed": true,
+   "ticket": "single",
+   "espn": {
+    "legs": [
+     {
+      "kind": "ml",
+      "side": "Federico Roncadelli",
+      "label": "Federico Roncadelli ML",
+      "snapshot": {
+       "source": "tennis-explorer",
+       "path": "tennis/explorer",
+       "event": "3384545",
+       "state": "pre",
+       "detail": "Scheduled",
+       "tennis": [
+        {
+         "name": "Justo G.",
+         "winner": false,
+         "sets": []
+        },
+        {
+         "name": "Roncadelli F.",
+         "winner": false,
+         "sets": []
+        }
+       ],
+       "tour": "Montevideo challenger"
+      },
+      "path": "tennis/explorer",
+      "event": "3384545",
+      "source": "tennis-explorer",
+      "date": "20261120"
+     }
+    ],
+    "sport": "Tennis",
+    "ticket": "single"
+   }
+  },
   {
    "n": 855,
    "league": "NFL",
