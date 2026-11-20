@@ -1,5 +1,5 @@
 {
- "updated": "Nov 19, 2026, 4:38 PM PT",
+ "updated": "Nov 19, 2026, 4:41 PM PT",
  "record": {
   "w": 203,
   "l": 200,
@@ -128,70 +128,6 @@
  ],
  "picks": [
   {
-   "n": 875,
-   "league": "NHL",
-   "type": "Prop",
-   "matchup": "Edmonton Oilers @ Tampa Bay Lightning",
-   "pick": "Nikita Kucherov Over 1.5 points",
-   "odds": 150,
-   "units": 1.0,
-   "gap": null,
-   "start": "2026-11-19T16:40:00",
-   "timed": true,
-   "ticket": "single",
-   "espn": {
-    "legs": [
-     {
-      "kind": "prop",
-      "player": "Nikita Kucherov",
-      "ou": "O",
-      "line": 1.5,
-      "stat": "points",
-      "label": "Nikita Kucherov O 1.5 points",
-      "path": "hockey/nhl",
-      "event": "401892744",
-      "date": "20261119",
-      "snapshot": {
-       "source": "nhl",
-       "state": "in",
-       "detail": "P1 20:00",
-       "start": "2026-11-20T00:30:00Z",
-       "period": 1,
-       "clock": "20:00",
-       "teams": [
-        {
-         "name": "Oilers",
-         "short": "EDM",
-         "abbr": "EDM",
-         "score": 0,
-         "ha": "away",
-         "winner": null,
-         "linescores": []
-        },
-        {
-         "name": "Lightning",
-         "short": "TBL",
-         "abbr": "TBL",
-         "score": 0,
-         "ha": "home",
-         "winner": null,
-         "linescores": []
-        }
-       ],
-       "nhl_id": 2026020349,
-       "stat": {
-        "v": 0,
-        "name": "N. Kucherov"
-       }
-      },
-      "source": "nhl"
-     }
-    ],
-    "sport": "NHL",
-    "ticket": "single"
-   }
-  },
-  {
    "n": 887,
    "league": "NCAAB",
    "type": "Spread",
@@ -305,10 +241,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P1 03:12",
+       "detail": "P1 01:25",
        "start": "2026-11-20T00:00:00Z",
        "period": 1,
-       "clock": "03:12",
+       "clock": "01:25",
        "teams": [
         {
          "name": "Blues",
@@ -481,10 +417,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P1 03:12",
+       "detail": "P1 01:25",
        "start": "2026-11-20T00:00:00Z",
        "period": 1,
-       "clock": "03:12",
+       "clock": "01:25",
        "teams": [
         {
          "name": "Blues",
@@ -2398,6 +2334,70 @@
  ],
  "awaiting": [
   {
+   "n": 875,
+   "league": "NHL",
+   "type": "Prop",
+   "matchup": "Edmonton Oilers @ Tampa Bay Lightning",
+   "pick": "Nikita Kucherov Over 1.5 points",
+   "odds": 150,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-19T16:40:00",
+   "timed": true,
+   "ticket": "single",
+   "espn": {
+    "legs": [
+     {
+      "kind": "prop",
+      "player": "Nikita Kucherov",
+      "ou": "O",
+      "line": 1.5,
+      "stat": "points",
+      "label": "Nikita Kucherov O 1.5 points",
+      "path": "hockey/nhl",
+      "event": "401892744",
+      "date": "20261119",
+      "snapshot": {
+       "source": "nhl",
+       "state": "in",
+       "detail": "P1 19:45",
+       "start": "2026-11-20T00:30:00Z",
+       "period": 1,
+       "clock": "19:45",
+       "teams": [
+        {
+         "name": "Oilers",
+         "short": "EDM",
+         "abbr": "EDM",
+         "score": 0,
+         "ha": "away",
+         "winner": null,
+         "linescores": []
+        },
+        {
+         "name": "Lightning",
+         "short": "TBL",
+         "abbr": "TBL",
+         "score": 0,
+         "ha": "home",
+         "winner": null,
+         "linescores": []
+        }
+       ],
+       "nhl_id": 2026020349,
+       "stat": {
+        "v": 0,
+        "name": "N. Kucherov"
+       }
+      },
+      "source": "nhl"
+     }
+    ],
+    "sport": "NHL",
+    "ticket": "single"
+   }
+  },
+  {
    "n": 876,
    "league": "NHL",
    "type": "Prop",
@@ -2424,10 +2424,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P1 04:04",
+       "detail": "P1 01:51",
        "start": "2026-11-20T00:00:00Z",
        "period": 1,
-       "clock": "04:04",
+       "clock": "01:51",
        "teams": [
         {
          "name": "Kings",
@@ -2488,10 +2488,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P1 05:34",
+       "detail": "P1 04:10",
        "start": "2026-11-20T00:00:00Z",
        "period": 1,
-       "clock": "05:34",
+       "clock": "04:10",
        "teams": [
         {
          "name": "Islanders",
@@ -2551,16 +2551,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "18:52 - 1st",
+       "detail": "16:30 - 1st",
        "start": "2026-11-20T00:30Z",
        "period": 1,
-       "clock": "18:52",
+       "clock": "16:30",
        "teams": [
         {
          "name": "Charleston Cougars",
          "short": "Cougars",
          "abbr": "COFC",
-         "score": 3,
+         "score": 7,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -2571,7 +2571,7 @@
          "name": "Drake Bulldogs",
          "short": "Bulldogs",
          "abbr": "DRKE",
-         "score": 0,
+         "score": 3,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -2613,16 +2613,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "12:21 - 2nd",
+       "detail": "11:40 - 2nd",
        "start": "2026-11-19T23:00Z",
        "period": 2,
-       "clock": "12:21",
+       "clock": "11:40",
        "teams": [
         {
          "name": "Murray State Racers",
          "short": "Racers",
          "abbr": "MUR",
-         "score": 43,
+         "score": 46,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -2677,16 +2677,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "1:50 - 1st",
+       "detail": "0:15 - 1st",
        "start": "2026-11-20T00:00Z",
        "period": 1,
-       "clock": "1:50",
+       "clock": "0:15",
        "teams": [
         {
          "name": "Maine Black Bears",
          "short": "Black Bears",
          "abbr": "ME",
-         "score": 32,
+         "score": 33,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -2697,7 +2697,7 @@
          "name": "Quinnipiac Bobcats",
          "short": "Bobcats",
          "abbr": "QUIN",
-         "score": 19,
+         "score": 21,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -2739,10 +2739,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P1 03:12",
+       "detail": "P1 01:25",
        "start": "2026-11-20T00:00:00Z",
        "period": 1,
-       "clock": "03:12",
+       "clock": "01:25",
        "teams": [
         {
          "name": "Blues",
