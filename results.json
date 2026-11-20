@@ -1,17 +1,17 @@
 {
- "updated": "Nov 19, 2026, 11:22 PM PT",
+ "updated": "Nov 19, 2026, 11:42 PM PT",
  "record": {
-  "w": 203,
-  "l": 200,
+  "w": 214,
+  "l": 216,
   "p": 0,
-  "n": 403,
-  "units": 49.95,
-  "risked": 573.25,
-  "roi": 8.71,
+  "n": 430,
+  "units": 47.73,
+  "risked": 610.75,
+  "roi": 7.81,
   "first": "2026-10-12",
-  "last": "2026-11-18"
+  "last": "2026-11-19"
  },
- "pending": 49,
+ "pending": 21,
  "plays": [
   {
    "n": 334,
@@ -6553,9 +6553,9 @@
    "pick": "Over 44.5 -105",
    "odds": -105,
    "units": 1.0,
-   "result": null,
-   "pl": null,
-   "pending": true
+   "result": "L",
+   "pl": -1.0,
+   "pending": false
   },
   {
    "n": 832,
@@ -6569,9 +6569,9 @@
    "pick": "Indianapolis Colts +11 -110",
    "odds": -110,
    "units": 1.0,
-   "result": null,
-   "pl": null,
-   "pending": true
+   "result": "L",
+   "pl": -1.0,
+   "pending": false
   },
   {
    "n": 875,
@@ -6585,9 +6585,9 @@
    "pick": "Nikita Kucherov Over 1.5 points",
    "odds": 150,
    "units": 1.0,
-   "result": null,
-   "pl": null,
-   "pending": true
+   "result": "L",
+   "pl": -1.0,
+   "pending": false
   },
   {
    "n": 876,
@@ -6601,9 +6601,9 @@
    "pick": "Jack Roslovic Over 2.5 shots on goal",
    "odds": 140,
    "units": 1.0,
-   "result": null,
-   "pl": null,
-   "pending": true
+   "result": "L",
+   "pl": -1.0,
+   "pending": false
   },
   {
    "n": 877,
@@ -6617,9 +6617,9 @@
    "pick": "Kyle Connor Over 3.5 shots on goal",
    "odds": -105,
    "units": 1.0,
-   "result": null,
-   "pl": null,
-   "pending": true
+   "result": "L",
+   "pl": -1.0,
+   "pending": false
   },
   {
    "n": 878,
@@ -6633,9 +6633,9 @@
    "pick": "Jalen Brunson Over 2.5 threes",
    "odds": 110,
    "units": 1.0,
-   "result": null,
-   "pl": null,
-   "pending": true
+   "result": "W",
+   "pl": 1.1,
+   "pending": false
   },
   {
    "n": 879,
@@ -6649,9 +6649,9 @@
    "pick": "Roman Kantserov Under 1.5 shots on goal",
    "odds": 115,
    "units": 1.0,
-   "result": null,
-   "pl": null,
-   "pending": true
+   "result": "L",
+   "pl": -1.0,
+   "pending": false
   },
   {
    "n": 880,
@@ -6665,9 +6665,9 @@
    "pick": "Linus Karlsson Over 1.5 shots on goal",
    "odds": -110,
    "units": 1.0,
-   "result": null,
-   "pl": null,
-   "pending": true
+   "result": "L",
+   "pl": -1.0,
+   "pending": false
   },
   {
    "n": 885,
@@ -6681,9 +6681,9 @@
    "pick": "Under 6.5 +105",
    "odds": 105,
    "units": 0.5,
-   "result": null,
-   "pl": null,
-   "pending": true
+   "result": "W",
+   "pl": 0.53,
+   "pending": false
   },
   {
    "n": 886,
@@ -6697,9 +6697,9 @@
    "pick": "Under 158.5",
    "odds": -110,
    "units": 3.0,
-   "result": null,
-   "pl": null,
-   "pending": true
+   "result": "W",
+   "pl": 2.73,
+   "pending": false
   },
   {
    "n": 887,
@@ -6713,9 +6713,9 @@
    "pick": "Texas A&M +1.5",
    "odds": -118,
    "units": 1.0,
-   "result": null,
-   "pl": null,
-   "pending": true
+   "result": "W",
+   "pl": 0.85,
+   "pending": false
   },
   {
    "n": 888,
@@ -6729,9 +6729,9 @@
    "pick": "Over 132.5",
    "odds": -110,
    "units": 1.0,
-   "result": null,
-   "pl": null,
-   "pending": true
+   "result": "W",
+   "pl": 0.91,
+   "pending": false
   },
   {
    "n": 889,
@@ -6745,9 +6745,9 @@
    "pick": "Sacramento St +17.5",
    "odds": -110,
    "units": 1.0,
-   "result": null,
-   "pl": null,
-   "pending": true
+   "result": "W",
+   "pl": 0.91,
+   "pending": false
   },
   {
    "n": 890,
@@ -6761,9 +6761,9 @@
    "pick": "Under 165",
    "odds": -110,
    "units": 1.0,
-   "result": null,
-   "pl": null,
-   "pending": true
+   "result": "L",
+   "pl": -1.0,
+   "pending": false
   },
   {
    "n": 891,
@@ -6777,9 +6777,9 @@
    "pick": "Over 133",
    "odds": -110,
    "units": 1.0,
-   "result": null,
-   "pl": null,
-   "pending": true
+   "result": "W",
+   "pl": 0.91,
+   "pending": false
   },
   {
    "n": 892,
@@ -6793,9 +6793,9 @@
    "pick": "Damian Lillard Under 3.5 threes",
    "odds": -125,
    "units": 1.0,
-   "result": null,
-   "pl": null,
-   "pending": true
+   "result": "L",
+   "pl": -1.0,
+   "pending": false
   },
   {
    "n": 893,
@@ -6809,9 +6809,9 @@
    "pick": "Matt Boldy Under 3.5 shots on goal",
    "odds": -105,
    "units": 1.0,
-   "result": null,
-   "pl": null,
-   "pending": true
+   "result": "W",
+   "pl": 0.95,
+   "pending": false
   },
   {
    "n": 894,
@@ -6825,9 +6825,9 @@
    "pick": "Rickard Rakell Under 2.5 shots on goal",
    "odds": 100,
    "units": 1.0,
-   "result": null,
-   "pl": null,
-   "pending": true
+   "result": "L",
+   "pl": -1.0,
+   "pending": false
   },
   {
    "n": 895,
@@ -6841,9 +6841,9 @@
    "pick": "Adam Fantilli Under 0.5 points",
    "odds": 130,
    "units": 1.0,
-   "result": null,
-   "pl": null,
-   "pending": true
+   "result": "L",
+   "pl": -1.0,
+   "pending": false
   },
   {
    "n": 896,
@@ -6857,9 +6857,9 @@
    "pick": "Gabriel Landeskog Under 0.5 points",
    "odds": -111,
    "units": 1.0,
-   "result": null,
-   "pl": null,
-   "pending": true
+   "result": "L",
+   "pl": -1.0,
+   "pending": false
   },
   {
    "n": 897,
@@ -6873,9 +6873,9 @@
    "pick": "Victor Olofsson Over 0.5 points",
    "odds": 115,
    "units": 1.0,
-   "result": null,
-   "pl": null,
-   "pending": true
+   "result": "W",
+   "pl": 1.15,
+   "pending": false
   },
   {
    "n": 898,
@@ -6889,9 +6889,9 @@
    "pick": "Brayden Burries Under 12.5 points",
    "odds": -105,
    "units": 1.0,
-   "result": null,
-   "pl": null,
-   "pending": true
+   "result": "L",
+   "pl": -1.0,
+   "pending": false
   },
   {
    "n": 899,
@@ -6905,9 +6905,9 @@
    "pick": "LaMelo Ball Under 5.5 assists",
    "odds": 130,
    "units": 1.0,
-   "result": null,
-   "pl": null,
-   "pending": true
+   "result": "L",
+   "pl": -1.0,
+   "pending": false
   },
   {
    "n": 900,
@@ -6921,9 +6921,9 @@
    "pick": "Cameron Boozer Under 19.5 points",
    "odds": -110,
    "units": 1.0,
-   "result": null,
-   "pl": null,
-   "pending": true
+   "result": "W",
+   "pl": 0.91,
+   "pending": false
   },
   {
    "n": 901,
@@ -6937,9 +6937,9 @@
    "pick": "Deni Avdija Under 6.5 rebounds",
    "odds": 110,
    "units": 1.0,
-   "result": null,
-   "pl": null,
-   "pending": true
+   "result": "V",
+   "pl": 0.0,
+   "pending": false
   },
   {
    "n": 902,
@@ -6953,9 +6953,9 @@
    "pick": "Josh Hart Under 7.5 points",
    "odds": -105,
    "units": 1.0,
-   "result": null,
-   "pl": null,
-   "pending": true
+   "result": "L",
+   "pl": -1.0,
+   "pending": false
   },
   {
    "n": 903,
@@ -6969,9 +6969,9 @@
    "pick": "Seth McGowan Over 27.5 rushing yards (player prop)",
    "odds": -110,
    "units": 4.0,
-   "result": null,
-   "pl": null,
-   "pending": true
+   "result": "L",
+   "pl": -4.0,
+   "pending": false
   },
   {
    "n": 904,
@@ -6985,9 +6985,9 @@
    "pick": "David Montgomery (HOU) Over 95.5 rushing yards (player prop) LIVE",
    "odds": -120,
    "units": 7.0,
-   "result": null,
-   "pl": null,
-   "pending": true
+   "result": "W",
+   "pl": 5.83,
+   "pending": false
   },
   {
    "n": 855,
