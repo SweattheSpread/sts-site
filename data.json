@@ -1,5 +1,5 @@
 {
- "updated": "Nov 19, 2026, 4:59 PM PT",
+ "updated": "Nov 19, 2026, 5:02 PM PT",
  "record": {
   "w": 203,
   "l": 200,
@@ -128,63 +128,6 @@
  ],
  "picks": [
   {
-   "n": 887,
-   "league": "NCAAB",
-   "type": "Spread",
-   "matchup": "Texas A&M Aggies @ TCU Horned Frogs",
-   "pick": "Texas A&M +1.5",
-   "odds": -118,
-   "units": 1.0,
-   "gap": null,
-   "start": "2026-11-19T17:00:00",
-   "timed": true,
-   "ticket": "single",
-   "espn": {
-    "legs": [
-     {
-      "kind": "spread",
-      "side": "Texas A&M",
-      "line": 1.5,
-      "label": "Texas A&M +1.5",
-      "path": "basketball/mens-college-basketball",
-      "event": "401919050",
-      "date": "20261119",
-      "snapshot": {
-       "source": "espn",
-       "state": "pre",
-       "detail": "11/19 - 8:00 PM EST",
-       "start": "2026-11-20T01:00Z",
-       "period": null,
-       "clock": null,
-       "teams": [
-        {
-         "name": "Texas A&M Aggies",
-         "short": "Aggies",
-         "abbr": "TA&M",
-         "score": 0,
-         "ha": "away",
-         "winner": null,
-         "linescores": []
-        },
-        {
-         "name": "TCU Horned Frogs",
-         "short": "Horned Frogs",
-         "abbr": "TCU",
-         "score": 0,
-         "ha": "home",
-         "winner": null,
-         "linescores": []
-        }
-       ]
-      },
-      "source": "espn"
-     }
-    ],
-    "sport": "NCAAB",
-    "ticket": "single"
-   }
-  },
-  {
    "n": 878,
    "league": "NBA",
    "type": "Prop",
@@ -241,10 +184,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P2 20:00",
+       "detail": "P2 19:14",
        "start": "2026-11-20T00:00:00Z",
        "period": 2,
-       "clock": "20:00",
+       "clock": "19:14",
        "teams": [
         {
          "name": "Blues",
@@ -417,10 +360,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P2 20:00",
+       "detail": "P2 19:14",
        "start": "2026-11-20T00:00:00Z",
        "period": 2,
-       "clock": "20:00",
+       "clock": "19:14",
        "teams": [
         {
          "name": "Blues",
@@ -2420,10 +2363,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P1 08:15",
+       "detail": "P1 07:15",
        "start": "2026-11-20T00:30:00Z",
        "period": 1,
-       "clock": "08:15",
+       "clock": "07:15",
        "teams": [
         {
          "name": "Oilers",
@@ -2484,10 +2427,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P1 04:24",
+       "detail": "P1 02:16",
        "start": "2026-11-20T00:00:00Z",
        "period": 1,
-       "clock": "04:24",
+       "clock": "02:16",
        "teams": [
         {
          "name": "Kings",
@@ -2548,10 +2491,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P1 04:38",
+       "detail": "P1 02:29",
        "start": "2026-11-20T00:00:00Z",
        "period": 1,
-       "clock": "04:38",
+       "clock": "02:29",
        "teams": [
         {
          "name": "Islanders",
@@ -2611,16 +2554,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "8:03 - 1st",
+       "detail": "6:41 - 1st",
        "start": "2026-11-20T00:30Z",
        "period": 1,
-       "clock": "8:03",
+       "clock": "6:41",
        "teams": [
         {
          "name": "Charleston Cougars",
          "short": "Cougars",
          "abbr": "COFC",
-         "score": 16,
+         "score": 20,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -2631,12 +2574,69 @@
          "name": "Drake Bulldogs",
          "short": "Bulldogs",
          "abbr": "DRKE",
-         "score": 14,
+         "score": 18,
          "ha": "home",
          "winner": null,
          "linescores": [
           0
          ]
+        }
+       ]
+      },
+      "source": "espn"
+     }
+    ],
+    "sport": "NCAAB",
+    "ticket": "single"
+   }
+  },
+  {
+   "n": 887,
+   "league": "NCAAB",
+   "type": "Spread",
+   "matchup": "Texas A&M Aggies @ TCU Horned Frogs",
+   "pick": "Texas A&M +1.5",
+   "odds": -118,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-19T17:00:00",
+   "timed": true,
+   "ticket": "single",
+   "espn": {
+    "legs": [
+     {
+      "kind": "spread",
+      "side": "Texas A&M",
+      "line": 1.5,
+      "label": "Texas A&M +1.5",
+      "path": "basketball/mens-college-basketball",
+      "event": "401919050",
+      "date": "20261119",
+      "snapshot": {
+       "source": "espn",
+       "state": "pre",
+       "detail": "11/19 - 8:00 PM EST",
+       "start": "2026-11-20T01:00Z",
+       "period": null,
+       "clock": null,
+       "teams": [
+        {
+         "name": "Texas A&M Aggies",
+         "short": "Aggies",
+         "abbr": "TA&M",
+         "score": 0,
+         "ha": "away",
+         "winner": null,
+         "linescores": []
+        },
+        {
+         "name": "TCU Horned Frogs",
+         "short": "Horned Frogs",
+         "abbr": "TCU",
+         "score": 0,
+         "ha": "home",
+         "winner": null,
+         "linescores": []
         }
        ]
       },
@@ -2673,16 +2673,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "5:06 - 2nd",
+       "detail": "3:49 - 2nd",
        "start": "2026-11-19T23:00Z",
        "period": 2,
-       "clock": "5:06",
+       "clock": "3:49",
        "teams": [
         {
          "name": "Murray State Racers",
          "short": "Racers",
          "abbr": "MUR",
-         "score": 63,
+         "score": 67,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -2694,7 +2694,7 @@
          "name": "NC State Wolfpack",
          "short": "Wolfpack",
          "abbr": "NCSU",
-         "score": 85,
+         "score": 89,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -2737,16 +2737,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "18:34 - 2nd",
+       "detail": "17:00 - 2nd",
        "start": "2026-11-20T00:00Z",
        "period": 2,
-       "clock": "18:34",
+       "clock": "17:00",
        "teams": [
         {
          "name": "Maine Black Bears",
          "short": "Black Bears",
          "abbr": "ME",
-         "score": 33,
+         "score": 38,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -2758,7 +2758,7 @@
          "name": "Quinnipiac Bobcats",
          "short": "Bobcats",
          "abbr": "QUIN",
-         "score": 21,
+         "score": 24,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -2801,10 +2801,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P2 20:00",
+       "detail": "P2 19:14",
        "start": "2026-11-20T00:00:00Z",
        "period": 2,
-       "clock": "20:00",
+       "clock": "19:14",
        "teams": [
         {
          "name": "Blues",
