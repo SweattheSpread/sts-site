@@ -1,5 +1,5 @@
 {
- "updated": "Nov 19, 2026, 4:06 PM PT",
+ "updated": "Nov 19, 2026, 4:09 PM PT",
  "record": {
   "w": 203,
   "l": 200,
@@ -154,10 +154,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P1 20:00",
+       "detail": "P1 19:41",
        "start": "2026-11-20T00:00:00Z",
        "period": 1,
-       "clock": "20:00",
+       "clock": "19:41",
        "teams": [
         {
          "name": "Kings",
@@ -213,15 +213,15 @@
       "stat": "shots on goal",
       "label": "Kyle Connor O 3.5 shots on goal",
       "path": "hockey/nhl",
-      "event": "401892739",
-      "date": "20261118",
+      "event": "401892749",
+      "date": "20261119",
       "snapshot": {
        "source": "nhl",
-       "state": "pre",
-       "detail": "Scheduled",
+       "state": "in",
+       "detail": "P1 19:43",
        "start": "2026-11-20T00:00:00Z",
-       "period": null,
-       "clock": null,
+       "period": 1,
+       "clock": "19:43",
        "teams": [
         {
          "name": "Islanders",
@@ -242,7 +242,11 @@
          "linescores": []
         }
        ],
-       "nhl_id": 2026020354
+       "nhl_id": 2026020354,
+       "stat": {
+        "v": 0,
+        "name": "K. Connor"
+       }
       },
       "source": "nhl"
      }
@@ -276,11 +280,11 @@
       "date": "20261119",
       "snapshot": {
        "source": "nhl",
-       "state": "pre",
-       "detail": "Scheduled",
+       "state": "in",
+       "detail": "P1 20:00",
        "start": "2026-11-20T00:00:00Z",
-       "period": null,
-       "clock": null,
+       "period": 1,
+       "clock": "20:00",
        "teams": [
         {
          "name": "Blues",
@@ -541,11 +545,11 @@
       "reason": "Player not found in this game",
       "snapshot": {
        "source": "nhl",
-       "state": "pre",
-       "detail": "Scheduled",
+       "state": "in",
+       "detail": "P1 20:00",
        "start": "2026-11-20T00:00:00Z",
-       "period": null,
-       "clock": null,
+       "period": 1,
+       "clock": "20:00",
        "teams": [
         {
          "name": "Blues",
@@ -717,11 +721,11 @@
       "date": "20261119",
       "snapshot": {
        "source": "nhl",
-       "state": "pre",
-       "detail": "Scheduled",
+       "state": "in",
+       "detail": "P1 20:00",
        "start": "2026-11-20T00:00:00Z",
-       "period": null,
-       "clock": null,
+       "period": 1,
+       "clock": "20:00",
        "teams": [
         {
          "name": "Blues",
@@ -2619,16 +2623,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "17:28 - 1st",
+       "detail": "16:09 - 1st",
        "start": "2026-11-20T00:00Z",
        "period": 1,
-       "clock": "17:28",
+       "clock": "16:09",
        "teams": [
         {
          "name": "Maine Black Bears",
          "short": "Black Bears",
          "abbr": "ME",
-         "score": 3,
+         "score": 6,
          "ha": "away",
          "winner": null,
          "linescores": [
