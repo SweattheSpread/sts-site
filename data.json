@@ -1,5 +1,5 @@
 {
- "updated": "Nov 19, 2026, 4:33 PM PT",
+ "updated": "Nov 19, 2026, 4:35 PM PT",
  "record": {
   "w": 203,
   "l": 200,
@@ -301,10 +301,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P1 05:54",
+       "detail": "P1 03:25",
        "start": "2026-11-20T00:00:00Z",
        "period": 1,
-       "clock": "05:54",
+       "clock": "03:25",
        "teams": [
         {
          "name": "Blues",
@@ -477,10 +477,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P1 05:54",
+       "detail": "P1 03:25",
        "start": "2026-11-20T00:00:00Z",
        "period": 1,
-       "clock": "05:54",
+       "clock": "03:25",
        "teams": [
         {
          "name": "Blues",
@@ -2420,10 +2420,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P1 06:06",
+       "detail": "P1 04:31",
        "start": "2026-11-20T00:00:00Z",
        "period": 1,
-       "clock": "06:06",
+       "clock": "04:31",
        "teams": [
         {
          "name": "Kings",
@@ -2438,7 +2438,7 @@
          "name": "Maple Leafs",
          "short": "TOR",
          "abbr": "TOR",
-         "score": 0,
+         "score": 1,
          "ha": "home",
          "winner": null,
          "linescores": []
@@ -2484,10 +2484,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P1 08:32",
+       "detail": "P1 06:25",
        "start": "2026-11-20T00:00:00Z",
        "period": 1,
-       "clock": "08:32",
+       "clock": "06:25",
        "teams": [
         {
          "name": "Islanders",
@@ -2605,16 +2605,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "14:20 - 2nd",
+       "detail": "14:02 - 2nd",
        "start": "2026-11-19T23:00Z",
        "period": 2,
-       "clock": "14:20",
+       "clock": "14:02",
        "teams": [
         {
          "name": "Murray State Racers",
          "short": "Racers",
          "abbr": "MUR",
-         "score": 38,
+         "score": 40,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -2626,7 +2626,7 @@
          "name": "NC State Wolfpack",
          "short": "Wolfpack",
          "abbr": "NCSU",
-         "score": 57,
+         "score": 61,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -2669,10 +2669,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "3:54 - 1st",
+       "detail": "3:15 - 1st",
        "start": "2026-11-20T00:00Z",
        "period": 1,
-       "clock": "3:54",
+       "clock": "3:15",
        "teams": [
         {
          "name": "Maine Black Bears",
@@ -2731,10 +2731,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P1 05:54",
+       "detail": "P1 03:25",
        "start": "2026-11-20T00:00:00Z",
        "period": 1,
-       "clock": "05:54",
+       "clock": "03:25",
        "teams": [
         {
          "name": "Blues",
