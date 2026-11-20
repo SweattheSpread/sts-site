@@ -1,5 +1,5 @@
 {
- "updated": "Nov 20, 2026, 6:59 AM PT",
+ "updated": "Nov 20, 2026, 7:55 AM PT",
  "record": {
   "w": 214,
   "l": 216,
@@ -11,7 +11,7 @@
   "first": "2026-10-12",
   "last": "2026-11-19"
  },
- "pending": 25,
+ "pending": 26,
  "latest": [
   {
    "n": 904,
@@ -848,6 +848,62 @@
          "name": "Dallas Cowboys",
          "short": "Cowboys",
          "abbr": "DAL",
+         "score": 0,
+         "ha": "home",
+         "winner": null,
+         "linescores": []
+        }
+       ]
+      },
+      "source": "espn"
+     }
+    ],
+    "sport": "NFL",
+    "ticket": "single"
+   }
+  },
+  {
+   "n": 909,
+   "league": "NFL",
+   "type": "Moneyline",
+   "matchup": "Pittsburgh Steelers @ Philadelphia Eagles",
+   "pick": "Philadelphia Eagles ML",
+   "odds": 173,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-22T10:00:00",
+   "timed": true,
+   "ticket": "single",
+   "espn": {
+    "legs": [
+     {
+      "kind": "ml",
+      "side": "Philadelphia Eagles",
+      "label": "Philadelphia Eagles ML",
+      "path": "football/nfl",
+      "event": "401873076",
+      "date": "20261122",
+      "snapshot": {
+       "source": "espn",
+       "state": "pre",
+       "detail": "11/22 - 1:00 PM EST",
+       "start": "2026-11-22T18:00Z",
+       "period": null,
+       "clock": null,
+       "teams": [
+        {
+         "name": "Pittsburgh Steelers",
+         "short": "Steelers",
+         "abbr": "PIT",
+         "score": 0,
+         "ha": "away",
+         "winner": null,
+         "linescores": []
+        },
+        {
+         "name": "Philadelphia Eagles",
+         "short": "Eagles",
+         "abbr": "PHI",
          "score": 0,
          "ha": "home",
          "winner": null,
