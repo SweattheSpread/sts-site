@@ -1,5 +1,5 @@
 {
- "updated": "Nov 19, 2026, 5:14 PM PT",
+ "updated": "Nov 19, 2026, 5:16 PM PT",
  "record": {
   "w": 203,
   "l": 200,
@@ -127,151 +127,6 @@
   }
  ],
  "picks": [
-  {
-   "n": 831,
-   "league": "NFL",
-   "type": "Over/Under",
-   "matchup": "Indianapolis Colts @ Houston Texans",
-   "pick": "Over 44.5",
-   "odds": -105,
-   "units": 1.0,
-   "gap": null,
-   "start": "2026-11-19T17:15:00",
-   "timed": true,
-   "ticket": "single",
-   "espn": {
-    "legs": [
-     {
-      "kind": "total",
-      "side": null,
-      "ou": "O",
-      "line": 44.5,
-      "label": "O 44.5",
-      "path": "football/nfl",
-      "event": "401873066",
-      "date": "20261119",
-      "snapshot": {
-       "source": "espn",
-       "state": "pre",
-       "detail": "11/19 - 8:15 PM EST",
-       "start": "2026-11-20T01:15Z",
-       "period": null,
-       "clock": null,
-       "teams": [
-        {
-         "name": "Indianapolis Colts",
-         "short": "Colts",
-         "abbr": "IND",
-         "score": 0,
-         "ha": "away",
-         "winner": null,
-         "linescores": []
-        },
-        {
-         "name": "Houston Texans",
-         "short": "Texans",
-         "abbr": "HOU",
-         "score": 0,
-         "ha": "home",
-         "winner": null,
-         "linescores": []
-        }
-       ]
-      },
-      "source": "espn"
-     }
-    ],
-    "sport": "NFL",
-    "ticket": "single"
-   }
-  },
-  {
-   "n": 832,
-   "league": "NFL",
-   "type": "Spread",
-   "matchup": "Indianapolis Colts @ Houston Texans",
-   "pick": "Indianapolis Colts +11",
-   "odds": -110,
-   "units": 1.0,
-   "gap": null,
-   "start": "2026-11-19T17:15:00",
-   "timed": true,
-   "ticket": "single",
-   "espn": {
-    "legs": [
-     {
-      "kind": "spread",
-      "side": "Indianapolis Colts",
-      "line": 11.0,
-      "label": "Indianapolis Colts +11",
-      "path": "football/nfl",
-      "event": "401873066",
-      "date": "20261119",
-      "snapshot": {
-       "source": "espn",
-       "state": "pre",
-       "detail": "11/19 - 8:15 PM EST",
-       "start": "2026-11-20T01:15Z",
-       "period": null,
-       "clock": null,
-       "teams": [
-        {
-         "name": "Indianapolis Colts",
-         "short": "Colts",
-         "abbr": "IND",
-         "score": 0,
-         "ha": "away",
-         "winner": null,
-         "linescores": []
-        },
-        {
-         "name": "Houston Texans",
-         "short": "Texans",
-         "abbr": "HOU",
-         "score": 0,
-         "ha": "home",
-         "winner": null,
-         "linescores": []
-        }
-       ]
-      },
-      "source": "espn"
-     }
-    ],
-    "sport": "NFL",
-    "ticket": "single"
-   }
-  },
-  {
-   "n": 903,
-   "league": "NFL",
-   "type": "Player Prop",
-   "matchup": "Indianapolis Colts @ Houston Texans",
-   "pick": "Seth McGowan Over 27.5 rushing yards (player prop)",
-   "odds": -110,
-   "units": 4.0,
-   "gap": null,
-   "start": "2026-11-19T17:15:00",
-   "timed": true,
-   "ticket": "single",
-   "espn": {
-    "legs": [
-     {
-      "kind": "prop",
-      "player": "Seth McGowan",
-      "ou": "O",
-      "line": 27.5,
-      "stat": "rushing yards",
-      "label": "Seth McGowan O 27.5 rushing yards",
-      "date": "20261119",
-      "unverified": true,
-      "reason": "Player not found in this game"
-     }
-    ],
-    "sport": "NFL",
-    "ticket": "single"
-   }
-  },
   {
    "n": 888,
    "league": "NCAAB",
@@ -1835,6 +1690,129 @@
  ],
  "awaiting": [
   {
+   "n": 831,
+   "league": "NFL",
+   "type": "Over/Under",
+   "matchup": "Indianapolis Colts @ Houston Texans",
+   "pick": "Over 44.5",
+   "odds": -105,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-19T17:15:00",
+   "timed": true,
+   "ticket": "single",
+   "espn": {
+    "legs": [
+     {
+      "kind": "total",
+      "side": null,
+      "ou": "O",
+      "line": 44.5,
+      "label": "O 44.5",
+      "path": "football/nfl",
+      "event": "401873066",
+      "date": "20261119",
+      "snapshot": {
+       "source": "espn",
+       "state": "in",
+       "detail": "15:00 - 1st",
+       "start": "2026-11-20T01:15Z",
+       "period": 1,
+       "clock": "15:00",
+       "teams": [
+        {
+         "name": "Indianapolis Colts",
+         "short": "Colts",
+         "abbr": "IND",
+         "score": 0,
+         "ha": "away",
+         "winner": null,
+         "linescores": [
+          0
+         ]
+        },
+        {
+         "name": "Houston Texans",
+         "short": "Texans",
+         "abbr": "HOU",
+         "score": 0,
+         "ha": "home",
+         "winner": null,
+         "linescores": [
+          0
+         ]
+        }
+       ]
+      },
+      "source": "espn"
+     }
+    ],
+    "sport": "NFL",
+    "ticket": "single"
+   }
+  },
+  {
+   "n": 832,
+   "league": "NFL",
+   "type": "Spread",
+   "matchup": "Indianapolis Colts @ Houston Texans",
+   "pick": "Indianapolis Colts +11",
+   "odds": -110,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-19T17:15:00",
+   "timed": true,
+   "ticket": "single",
+   "espn": {
+    "legs": [
+     {
+      "kind": "spread",
+      "side": "Indianapolis Colts",
+      "line": 11.0,
+      "label": "Indianapolis Colts +11",
+      "path": "football/nfl",
+      "event": "401873066",
+      "date": "20261119",
+      "snapshot": {
+       "source": "espn",
+       "state": "in",
+       "detail": "15:00 - 1st",
+       "start": "2026-11-20T01:15Z",
+       "period": 1,
+       "clock": "15:00",
+       "teams": [
+        {
+         "name": "Indianapolis Colts",
+         "short": "Colts",
+         "abbr": "IND",
+         "score": 0,
+         "ha": "away",
+         "winner": null,
+         "linescores": [
+          0
+         ]
+        },
+        {
+         "name": "Houston Texans",
+         "short": "Texans",
+         "abbr": "HOU",
+         "score": 0,
+         "ha": "home",
+         "winner": null,
+         "linescores": [
+          0
+         ]
+        }
+       ]
+      },
+      "source": "espn"
+     }
+    ],
+    "sport": "NFL",
+    "ticket": "single"
+   }
+  },
+  {
    "n": 875,
    "league": "NHL",
    "type": "Prop",
@@ -1861,10 +1839,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P1 15:40",
+       "detail": "P1 13:49",
        "start": "2026-11-20T00:30:00Z",
        "period": 1,
-       "clock": "15:40",
+       "clock": "13:49",
        "teams": [
         {
          "name": "Oilers",
@@ -1925,10 +1903,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P2 15:52",
+       "detail": "P2 14:42",
        "start": "2026-11-20T00:00:00Z",
        "period": 2,
-       "clock": "15:52",
+       "clock": "14:42",
        "teams": [
         {
          "name": "Kings",
@@ -1989,10 +1967,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P2 15:01",
+       "detail": "P2 13:11",
        "start": "2026-11-20T00:00:00Z",
        "period": 2,
-       "clock": "15:01",
+       "clock": "13:11",
        "teams": [
         {
          "name": "Islanders",
@@ -2053,16 +2031,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "9:27 - 1st",
+       "detail": "7:53 - 1st",
        "start": "2026-11-20T01:00Z",
        "period": 1,
-       "clock": "9:27",
+       "clock": "7:53",
        "teams": [
         {
          "name": "New York Knicks",
          "short": "Knicks",
          "abbr": "NY",
-         "score": 2,
+         "score": 7,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -2120,16 +2098,16 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P2 15:04",
+       "detail": "P2 14:41",
        "start": "2026-11-20T00:00:00Z",
        "period": 2,
-       "clock": "15:04",
+       "clock": "14:41",
        "teams": [
         {
          "name": "Blues",
          "short": "STL",
          "abbr": "STL",
-         "score": 0,
+         "score": 1,
          "ha": "away",
          "winner": null,
          "linescores": []
@@ -2179,10 +2157,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "2:17 - 1st",
+       "detail": "1:38 - 1st",
        "start": "2026-11-20T00:30Z",
        "period": 1,
-       "clock": "2:17",
+       "clock": "1:38",
        "teams": [
         {
          "name": "Charleston Cougars",
@@ -2240,16 +2218,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "15:08 - 1st",
+       "detail": "14:39 - 1st",
        "start": "2026-11-20T01:00Z",
        "period": 1,
-       "clock": "15:08",
+       "clock": "14:39",
        "teams": [
         {
          "name": "Texas A&M Aggies",
          "short": "Aggies",
          "abbr": "TA&M",
-         "score": 13,
+         "score": 15,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -2302,16 +2280,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "0:30 - 2nd",
+       "detail": "0:12 - 2nd",
        "start": "2026-11-19T23:00Z",
        "period": 2,
-       "clock": "0:30",
+       "clock": "0:12",
        "teams": [
         {
          "name": "Murray State Racers",
          "short": "Racers",
          "abbr": "MUR",
-         "score": 81,
+         "score": 83,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -2366,10 +2344,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "12:14 - 2nd",
+       "detail": "10:58 - 2nd",
        "start": "2026-11-20T00:00Z",
        "period": 2,
-       "clock": "12:14",
+       "clock": "10:58",
        "teams": [
         {
          "name": "Maine Black Bears",
@@ -2387,7 +2365,7 @@
          "name": "Quinnipiac Bobcats",
          "short": "Bobcats",
          "abbr": "QUIN",
-         "score": 29,
+         "score": 31,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -2430,10 +2408,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "9:44 - 1st",
+       "detail": "8:43 - 1st",
        "start": "2026-11-20T01:00Z",
        "period": 1,
-       "clock": "9:44",
+       "clock": "8:43",
        "teams": [
         {
          "name": "Portland Trail Blazers",
@@ -2450,7 +2428,7 @@
          "name": "Milwaukee Bucks",
          "short": "Bucks",
          "abbr": "MIL",
-         "score": 3,
+         "score": 7,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -2492,10 +2470,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P1 19:04",
+       "detail": "P1 18:50",
        "start": "2026-11-20T01:00:00Z",
        "period": 1,
-       "clock": "19:04",
+       "clock": "18:50",
        "teams": [
         {
          "name": "Wild",
@@ -2551,16 +2529,16 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P2 15:04",
+       "detail": "P2 14:41",
        "start": "2026-11-20T00:00:00Z",
        "period": 2,
-       "clock": "15:04",
+       "clock": "14:41",
        "teams": [
         {
          "name": "Blues",
          "short": "STL",
          "abbr": "STL",
-         "score": 0,
+         "score": 1,
          "ha": "away",
          "winner": null,
          "linescores": []
@@ -2610,16 +2588,16 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P2 15:04",
+       "detail": "P2 14:41",
        "start": "2026-11-20T00:00:00Z",
        "period": 2,
-       "clock": "15:04",
+       "clock": "14:41",
        "teams": [
         {
          "name": "Blues",
          "short": "STL",
          "abbr": "STL",
-         "score": 0,
+         "score": 1,
          "ha": "away",
          "winner": null,
          "linescores": []
@@ -2670,10 +2648,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "9:44 - 1st",
+       "detail": "8:43 - 1st",
        "start": "2026-11-20T01:00Z",
        "period": 1,
-       "clock": "9:44",
+       "clock": "8:43",
        "teams": [
         {
          "name": "Portland Trail Blazers",
@@ -2690,7 +2668,7 @@
          "name": "Milwaukee Bucks",
          "short": "Bucks",
          "abbr": "MIL",
-         "score": 3,
+         "score": 7,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -2737,16 +2715,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "9:27 - 1st",
+       "detail": "7:53 - 1st",
        "start": "2026-11-20T01:00Z",
        "period": 1,
-       "clock": "9:27",
+       "clock": "7:53",
        "teams": [
         {
          "name": "New York Knicks",
          "short": "Knicks",
          "abbr": "NY",
-         "score": 2,
+         "score": 7,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -2804,16 +2782,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "9:27 - 1st",
+       "detail": "8:33 - 1st",
        "start": "2026-11-20T01:00Z",
        "period": 1,
-       "clock": "9:27",
+       "clock": "8:33",
        "teams": [
         {
          "name": "Golden State Warriors",
          "short": "Warriors",
          "abbr": "GS",
-         "score": 2,
+         "score": 4,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -2824,7 +2802,7 @@
          "name": "Memphis Grizzlies",
          "short": "Grizzlies",
          "abbr": "MEM",
-         "score": 8,
+         "score": 13,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -2833,7 +2811,7 @@
         }
        ],
        "stat": {
-        "v": 0,
+        "v": 3,
         "name": "Cameron Boozer"
        }
       },
@@ -2871,10 +2849,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "9:44 - 1st",
+       "detail": "8:43 - 1st",
        "start": "2026-11-20T01:00Z",
        "period": 1,
-       "clock": "9:44",
+       "clock": "8:43",
        "teams": [
         {
          "name": "Portland Trail Blazers",
@@ -2891,7 +2869,7 @@
          "name": "Milwaukee Bucks",
          "short": "Bucks",
          "abbr": "MIL",
-         "score": 3,
+         "score": 7,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -2935,16 +2913,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "9:27 - 1st",
+       "detail": "7:53 - 1st",
        "start": "2026-11-20T01:00Z",
        "period": 1,
-       "clock": "9:27",
+       "clock": "7:53",
        "teams": [
         {
          "name": "New York Knicks",
          "short": "Knicks",
          "abbr": "NY",
-         "score": 2,
+         "score": 7,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -2972,6 +2950,70 @@
      }
     ],
     "sport": "NBA",
+    "ticket": "single"
+   }
+  },
+  {
+   "n": 903,
+   "league": "NFL",
+   "type": "Player Prop",
+   "matchup": "Indianapolis Colts @ Houston Texans",
+   "pick": "Seth McGowan Over 27.5 rushing yards (player prop)",
+   "odds": -110,
+   "units": 4.0,
+   "gap": null,
+   "start": "2026-11-19T17:15:00",
+   "timed": true,
+   "ticket": "single",
+   "espn": {
+    "legs": [
+     {
+      "kind": "prop",
+      "player": "Seth McGowan",
+      "ou": "O",
+      "line": 27.5,
+      "stat": "rushing yards",
+      "label": "Seth McGowan O 27.5 rushing yards",
+      "path": "football/nfl",
+      "event": "401873066",
+      "date": "20261119",
+      "snapshot": {
+       "source": "espn",
+       "state": "in",
+       "detail": "15:00 - 1st",
+       "start": "2026-11-20T01:15Z",
+       "period": 1,
+       "clock": "15:00",
+       "teams": [
+        {
+         "name": "Indianapolis Colts",
+         "short": "Colts",
+         "abbr": "IND",
+         "score": 0,
+         "ha": "away",
+         "winner": null,
+         "linescores": [
+          0
+         ]
+        },
+        {
+         "name": "Houston Texans",
+         "short": "Texans",
+         "abbr": "HOU",
+         "score": 0,
+         "ha": "home",
+         "winner": null,
+         "linescores": [
+          0
+         ]
+        }
+       ],
+       "stat": null
+      },
+      "source": "espn"
+     }
+    ],
+    "sport": "NFL",
     "ticket": "single"
    }
   }
