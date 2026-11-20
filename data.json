@@ -1,5 +1,5 @@
 {
- "updated": "Nov 20, 2026, 7:55 AM PT",
+ "updated": "Nov 20, 2026, 8:17 AM PT",
  "record": {
   "w": 214,
   "l": 216,
@@ -11,7 +11,7 @@
   "first": "2026-10-12",
   "last": "2026-11-19"
  },
- "pending": 26,
+ "pending": 27,
  "latest": [
   {
    "n": 904,
@@ -282,6 +282,36 @@
      }
     ],
     "sport": "Tennis",
+    "ticket": "single"
+   }
+  },
+  {
+   "n": 910,
+   "league": "NBA",
+   "type": "Player Prop",
+   "matchup": "Phoenix Suns @ Utah Jazz",
+   "pick": "Miles Bridges Over 1.5 3-pointers made",
+   "odds": 105,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-20T18:40:00",
+   "timed": true,
+   "ticket": "single",
+   "espn": {
+    "legs": [
+     {
+      "kind": "prop",
+      "player": "Miles Bridges",
+      "ou": "O",
+      "line": 1.5,
+      "stat": "3-pointers made",
+      "label": "Miles Bridges O 1.5 3-pointers made",
+      "date": "20261120",
+      "unverified": true,
+      "reason": "Player not found in this game"
+     }
+    ],
+    "sport": "NBA",
     "ticket": "single"
    }
   },

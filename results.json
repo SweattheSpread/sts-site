@@ -1,5 +1,5 @@
 {
- "updated": "Nov 20, 2026, 7:55 AM PT",
+ "updated": "Nov 20, 2026, 8:17 AM PT",
  "record": {
   "w": 214,
   "l": 216,
@@ -11,7 +11,7 @@
   "first": "2026-10-12",
   "last": "2026-11-19"
  },
- "pending": 26,
+ "pending": 27,
  "plays": [
   {
    "n": 334,
@@ -7032,6 +7032,22 @@
    "matchup": "ATP Finals 2-leg parlay",
    "pick": "Carlos Alcaraz ML vs Flavio Cobolli (won 6-4 6-1, started 5:15 AM PT) + Daniil Medvedev ML vs Frances Tiafoe",
    "odds": -132,
+   "units": 1.0,
+   "result": null,
+   "pl": null,
+   "pending": true
+  },
+  {
+   "n": 910,
+   "date": "2026-11-20",
+   "day": "2026-11-20",
+   "league": "NBA",
+   "market": "player_prop",
+   "market_label": "Player Prop",
+   "ticket": "single",
+   "matchup": "Phoenix Suns @ Utah Jazz",
+   "pick": "Miles Bridges Over 1.5 3-pointers made",
+   "odds": 105,
    "units": 1.0,
    "result": null,
    "pl": null,
