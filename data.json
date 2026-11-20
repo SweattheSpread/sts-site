@@ -1,5 +1,5 @@
 {
- "updated": "Nov 20, 2026, 2:46 PM PT",
+ "updated": "Nov 20, 2026, 2:48 PM PT",
  "record": {
   "w": 214,
   "l": 216,
@@ -2211,16 +2211,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "15:46 - 2nd",
+       "detail": "14:58 - 2nd",
        "start": "2026-11-20T21:30Z",
        "period": 2,
-       "clock": "15:46",
+       "clock": "14:58",
        "teams": [
         {
          "name": "Rhode Island Rams",
          "short": "Rams",
          "abbr": "URI",
-         "score": 36,
+         "score": 38,
          "ha": "away",
          "winner": null,
          "linescores": [
