@@ -1,5 +1,5 @@
 {
- "updated": "Nov 20, 2026, 1:27 PM PT",
+ "updated": "Nov 20, 2026, 1:30 PM PT",
  "record": {
   "w": 214,
   "l": 216,
@@ -127,63 +127,6 @@
   }
  ],
  "picks": [
-  {
-   "n": 915,
-   "league": "NCAAB",
-   "type": "Spread",
-   "matchup": "Rhode Island Rams @ Liberty Flames",
-   "pick": "Rhode Island +1.5",
-   "odds": -118,
-   "units": 1.0,
-   "gap": null,
-   "start": "2026-11-20T13:30:00",
-   "timed": true,
-   "ticket": "single",
-   "espn": {
-    "legs": [
-     {
-      "kind": "spread",
-      "side": "Rhode Island",
-      "line": 1.5,
-      "label": "Rhode Island +1.5",
-      "path": "basketball/mens-college-basketball",
-      "event": "401920066",
-      "date": "20261120",
-      "snapshot": {
-       "source": "espn",
-       "state": "pre",
-       "detail": "11/20 - 4:30 PM EST",
-       "start": "2026-11-20T21:30Z",
-       "period": null,
-       "clock": null,
-       "teams": [
-        {
-         "name": "Rhode Island Rams",
-         "short": "Rams",
-         "abbr": "URI",
-         "score": 0,
-         "ha": "away",
-         "winner": null,
-         "linescores": []
-        },
-        {
-         "name": "Liberty Flames",
-         "short": "Flames",
-         "abbr": "LIB",
-         "score": 0,
-         "ha": "home",
-         "winner": null,
-         "linescores": []
-        }
-       ]
-      },
-      "source": "espn"
-     }
-    ],
-    "sport": "NCAAB",
-    "ticket": "single"
-   }
-  },
   {
    "n": 911,
    "league": "NCAAB",
@@ -2175,16 +2118,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "11:36 - 2nd",
+       "detail": "9:16 - 2nd",
        "start": "2026-11-20T20:00Z",
        "period": 2,
-       "clock": "11:36",
+       "clock": "9:16",
        "teams": [
         {
          "name": "Northwestern Wildcats",
          "short": "Wildcats",
          "abbr": "NU",
-         "score": 41,
+         "score": 46,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -2196,13 +2139,70 @@
          "name": "Virginia Tech Hokies",
          "short": "Hokies",
          "abbr": "VT",
-         "score": 62,
+         "score": 68,
          "ha": "home",
          "winner": null,
          "linescores": [
           0,
           0
          ]
+        }
+       ]
+      },
+      "source": "espn"
+     }
+    ],
+    "sport": "NCAAB",
+    "ticket": "single"
+   }
+  },
+  {
+   "n": 915,
+   "league": "NCAAB",
+   "type": "Spread",
+   "matchup": "Rhode Island Rams @ Liberty Flames",
+   "pick": "Rhode Island +1.5",
+   "odds": -118,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-20T13:30:00",
+   "timed": true,
+   "ticket": "single",
+   "espn": {
+    "legs": [
+     {
+      "kind": "spread",
+      "side": "Rhode Island",
+      "line": 1.5,
+      "label": "Rhode Island +1.5",
+      "path": "basketball/mens-college-basketball",
+      "event": "401920066",
+      "date": "20261120",
+      "snapshot": {
+       "source": "espn",
+       "state": "pre",
+       "detail": "11/20 - 4:30 PM EST",
+       "start": "2026-11-20T21:30Z",
+       "period": null,
+       "clock": null,
+       "teams": [
+        {
+         "name": "Rhode Island Rams",
+         "short": "Rams",
+         "abbr": "URI",
+         "score": 0,
+         "ha": "away",
+         "winner": null,
+         "linescores": []
+        },
+        {
+         "name": "Liberty Flames",
+         "short": "Flames",
+         "abbr": "LIB",
+         "score": 0,
+         "ha": "home",
+         "winner": null,
+         "linescores": []
         }
        ]
       },
