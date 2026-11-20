@@ -1,5 +1,5 @@
 {
- "updated": "Nov 20, 2026, 2:48 PM PT",
+ "updated": "Nov 20, 2026, 2:51 PM PT",
  "record": {
   "w": 214,
   "l": 216,
@@ -11,7 +11,7 @@
   "first": "2026-10-12",
   "last": "2026-11-19"
  },
- "pending": 39,
+ "pending": 40,
  "plays": [
   {
    "n": 334,
@@ -7239,6 +7239,22 @@
    "ticket": "single",
    "matchup": "Charlotte Hornets @ Atlanta Hawks",
    "pick": "Onyeka Okongwu Over 7.5 rebounds",
+   "odds": 125,
+   "units": 1.0,
+   "result": null,
+   "pl": null,
+   "pending": true
+  },
+  {
+   "n": 923,
+   "date": "2026-11-20",
+   "day": "2026-11-20",
+   "league": "NBA",
+   "market": "player_prop",
+   "market_label": "Player Prop",
+   "ticket": "single",
+   "matchup": "Charlotte Hornets @ Atlanta Hawks",
+   "pick": "Nickeil Alexander-Walker Over 3.5 rebounds",
    "odds": 125,
    "units": 1.0,
    "result": null,

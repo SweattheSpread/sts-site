@@ -1,5 +1,5 @@
 {
- "updated": "Nov 20, 2026, 2:48 PM PT",
+ "updated": "Nov 20, 2026, 2:51 PM PT",
  "record": {
   "w": 214,
   "l": 216,
@@ -11,7 +11,7 @@
   "first": "2026-10-12",
   "last": "2026-11-19"
  },
- "pending": 39,
+ "pending": 40,
  "latest": [
   {
    "n": 904,
@@ -253,6 +253,36 @@
       "line": 7.5,
       "stat": "rebounds",
       "label": "Onyeka Okongwu O 7.5 rebounds",
+      "date": "20261120",
+      "unverified": true,
+      "reason": "Player not found in this game"
+     }
+    ],
+    "sport": "NBA",
+    "ticket": "single"
+   }
+  },
+  {
+   "n": 923,
+   "league": "NBA",
+   "type": "Player Prop",
+   "matchup": "Charlotte Hornets @ Atlanta Hawks",
+   "pick": "Nickeil Alexander-Walker Over 3.5 rebounds",
+   "odds": 125,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-20T16:10:00",
+   "timed": true,
+   "ticket": "single",
+   "espn": {
+    "legs": [
+     {
+      "kind": "prop",
+      "player": "Nickeil Alexander-Walker",
+      "ou": "O",
+      "line": 3.5,
+      "stat": "rebounds",
+      "label": "Nickeil Alexander-Walker O 3.5 rebounds",
       "date": "20261120",
       "unverified": true,
       "reason": "Player not found in this game"
@@ -2090,29 +2120,33 @@
       "date": "20261120",
       "snapshot": {
        "source": "espn",
-       "state": "pre",
-       "detail": "11/20 - 5:30 PM EST",
+       "state": "in",
+       "detail": "17:14 - 1st",
        "start": "2026-11-20T22:30Z",
-       "period": null,
-       "clock": null,
+       "period": 1,
+       "clock": "17:14",
        "teams": [
         {
          "name": "Mercyhurst Lakers",
          "short": "Lakers",
          "abbr": "MERC",
-         "score": 0,
+         "score": 2,
          "ha": "away",
          "winner": null,
-         "linescores": []
+         "linescores": [
+          0
+         ]
         },
         {
          "name": "Canisius Golden Griffins",
          "short": "Golden Griffins",
          "abbr": "CAN",
-         "score": 0,
+         "score": 7,
          "ha": "home",
          "winner": null,
-         "linescores": []
+         "linescores": [
+          0
+         ]
         }
        ]
       },
@@ -2211,10 +2245,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "14:58 - 2nd",
+       "detail": "13:46 - 2nd",
        "start": "2026-11-20T21:30Z",
        "period": 2,
-       "clock": "14:58",
+       "clock": "13:46",
        "teams": [
         {
          "name": "Rhode Island Rams",
@@ -2232,7 +2266,7 @@
          "name": "Liberty Flames",
          "short": "Flames",
          "abbr": "LIB",
-         "score": 43,
+         "score": 47,
          "ha": "home",
          "winner": null,
          "linescores": [
