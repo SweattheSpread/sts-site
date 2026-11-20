@@ -1,5 +1,5 @@
 {
- "updated": "Nov 20, 2026, 3:26 PM PT",
+ "updated": "Nov 20, 2026, 3:29 PM PT",
  "record": {
   "w": 214,
   "l": 216,
@@ -2151,16 +2151,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "1:15 - 1st",
+       "detail": "Halftime",
        "start": "2026-11-20T22:30Z",
        "period": 1,
-       "clock": "1:15",
+       "clock": "0:00",
        "teams": [
         {
          "name": "Mercyhurst Lakers",
          "short": "Lakers",
          "abbr": "MERC",
-         "score": 19,
+         "score": 22,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -2171,7 +2171,7 @@
          "name": "Canisius Golden Griffins",
          "short": "Golden Griffins",
          "abbr": "CAN",
-         "score": 31,
+         "score": 33,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -2275,16 +2275,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "0:36 - 2nd",
+       "detail": "0:15 - 2nd",
        "start": "2026-11-20T21:30Z",
        "period": 2,
-       "clock": "0:36",
+       "clock": "0:15",
        "teams": [
         {
          "name": "Rhode Island Rams",
          "short": "Rams",
          "abbr": "URI",
-         "score": 67,
+         "score": 68,
          "ha": "away",
          "winner": null,
          "linescores": [
