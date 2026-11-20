@@ -1,5 +1,5 @@
 {
- "updated": "Nov 20, 2026, 1:58 PM PT",
+ "updated": "Nov 20, 2026, 2:01 PM PT",
  "record": {
   "w": 214,
   "l": 216,
@@ -2117,11 +2117,11 @@
       "date": "20261120",
       "snapshot": {
        "source": "espn",
-       "state": "in",
-       "detail": "0:30 - 2nd",
+       "state": "post",
+       "detail": "Final",
        "start": "2026-11-20T20:00Z",
-       "period": 2,
-       "clock": "0:30",
+       "period": null,
+       "clock": null,
        "teams": [
         {
          "name": "Northwestern Wildcats",
@@ -2129,7 +2129,7 @@
          "abbr": "NU",
          "score": 70,
          "ha": "away",
-         "winner": null,
+         "winner": false,
          "linescores": [
           0,
           0
@@ -2141,7 +2141,7 @@
          "abbr": "VT",
          "score": 87,
          "ha": "home",
-         "winner": null,
+         "winner": true,
          "linescores": [
           0,
           0
@@ -2181,16 +2181,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "8:57 - 1st",
+       "detail": "7:18 - 1st",
        "start": "2026-11-20T21:30Z",
        "period": 1,
-       "clock": "8:57",
+       "clock": "7:18",
        "teams": [
         {
          "name": "Rhode Island Rams",
          "short": "Rams",
          "abbr": "URI",
-         "score": 13,
+         "score": 18,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -2201,7 +2201,7 @@
          "name": "Liberty Flames",
          "short": "Flames",
          "abbr": "LIB",
-         "score": 19,
+         "score": 30,
          "ha": "home",
          "winner": null,
          "linescores": [
