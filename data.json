@@ -1,5 +1,5 @@
 {
- "updated": "Nov 20, 2026, 11:45 AM PT",
+ "updated": "Nov 20, 2026, 12:06 PM PT",
  "record": {
   "w": 214,
   "l": 216,
@@ -127,63 +127,6 @@
   }
  ],
  "picks": [
-  {
-   "n": 912,
-   "league": "NCAAB",
-   "type": "Spread",
-   "matchup": "Northwestern Wildcats @ Virginia Tech Hokies",
-   "pick": "Northwestern +11.5",
-   "odds": -110,
-   "units": 1.0,
-   "gap": null,
-   "start": "2026-11-20T12:00:00",
-   "timed": true,
-   "ticket": "single",
-   "espn": {
-    "legs": [
-     {
-      "kind": "spread",
-      "side": "Northwestern",
-      "line": 11.5,
-      "label": "Northwestern +11.5",
-      "path": "basketball/mens-college-basketball",
-      "event": "401920380",
-      "date": "20261120",
-      "snapshot": {
-       "source": "espn",
-       "state": "pre",
-       "detail": "11/20 - 3:00 PM EST",
-       "start": "2026-11-20T20:00Z",
-       "period": null,
-       "clock": null,
-       "teams": [
-        {
-         "name": "Northwestern Wildcats",
-         "short": "Wildcats",
-         "abbr": "NU",
-         "score": 0,
-         "ha": "away",
-         "winner": null,
-         "linescores": []
-        },
-        {
-         "name": "Virginia Tech Hokies",
-         "short": "Hokies",
-         "abbr": "VT",
-         "score": 0,
-         "ha": "home",
-         "winner": null,
-         "linescores": []
-        }
-       ]
-      },
-      "source": "espn"
-     }
-    ],
-    "sport": "NCAAB",
-    "ticket": "single"
-   }
-  },
   {
    "n": 915,
    "league": "NCAAB",
@@ -2169,6 +2112,67 @@
     ],
     "sport": "Tennis",
     "ticket": "parlay"
+   }
+  },
+  {
+   "n": 912,
+   "league": "NCAAB",
+   "type": "Spread",
+   "matchup": "Northwestern Wildcats @ Virginia Tech Hokies",
+   "pick": "Northwestern +11.5",
+   "odds": -110,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-20T12:00:00",
+   "timed": true,
+   "ticket": "single",
+   "espn": {
+    "legs": [
+     {
+      "kind": "spread",
+      "side": "Northwestern",
+      "line": 11.5,
+      "label": "Northwestern +11.5",
+      "path": "basketball/mens-college-basketball",
+      "event": "401920380",
+      "date": "20261120",
+      "snapshot": {
+       "source": "espn",
+       "state": "in",
+       "detail": "19:30 - 1st",
+       "start": "2026-11-20T20:00Z",
+       "period": 1,
+       "clock": "19:30",
+       "teams": [
+        {
+         "name": "Northwestern Wildcats",
+         "short": "Wildcats",
+         "abbr": "NU",
+         "score": 0,
+         "ha": "away",
+         "winner": null,
+         "linescores": [
+          0
+         ]
+        },
+        {
+         "name": "Virginia Tech Hokies",
+         "short": "Hokies",
+         "abbr": "VT",
+         "score": 0,
+         "ha": "home",
+         "winner": null,
+         "linescores": [
+          0
+         ]
+        }
+       ]
+      },
+      "source": "espn"
+     }
+    ],
+    "sport": "NCAAB",
+    "ticket": "single"
    }
   }
  ],
