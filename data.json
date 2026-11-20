@@ -1,5 +1,5 @@
 {
- "updated": "Nov 19, 2026, 7:22 PM PT",
+ "updated": "Nov 19, 2026, 7:24 PM PT",
  "record": {
   "w": 203,
   "l": 200,
@@ -1363,10 +1363,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "5:22 - 3rd",
+       "detail": "4:19 - 3rd",
        "start": "2026-11-20T01:15Z",
        "period": 3,
-       "clock": "5:22",
+       "clock": "4:19",
        "teams": [
         {
          "name": "Indianapolis Colts",
@@ -1385,7 +1385,7 @@
          "name": "Houston Texans",
          "short": "Texans",
          "abbr": "HOU",
-         "score": 19,
+         "score": 25,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -1428,10 +1428,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "5:22 - 3rd",
+       "detail": "4:19 - 3rd",
        "start": "2026-11-20T01:15Z",
        "period": 3,
-       "clock": "5:22",
+       "clock": "4:19",
        "teams": [
         {
          "name": "Indianapolis Colts",
@@ -1450,7 +1450,7 @@
          "name": "Houston Texans",
          "short": "Texans",
          "abbr": "HOU",
-         "score": 19,
+         "score": 25,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -1686,11 +1686,11 @@
       "date": "20261119",
       "snapshot": {
        "source": "espn",
-       "state": "in",
-       "detail": "End of 4th",
+       "state": "post",
+       "detail": "Final",
        "start": "2026-11-20T01:00Z",
-       "period": 4,
-       "clock": "0.1",
+       "period": null,
+       "clock": null,
        "teams": [
         {
          "name": "New York Knicks",
@@ -1698,7 +1698,7 @@
          "abbr": "NY",
          "score": 102,
          "ha": "away",
-         "winner": null,
+         "winner": true,
          "linescores": [
           0,
           0,
@@ -1712,7 +1712,7 @@
          "abbr": "MIN",
          "score": 99,
          "ha": "home",
-         "winner": null,
+         "winner": false,
          "linescores": [
           0,
           0,
@@ -1821,10 +1821,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P1 05:46",
+       "detail": "P1 05:20",
        "start": "2026-11-20T02:40:00Z",
        "period": 1,
-       "clock": "05:46",
+       "clock": "05:20",
        "teams": [
         {
          "name": "Canucks",
@@ -1884,10 +1884,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P2 09:56",
+       "detail": "P2 08:40",
        "start": "2026-11-20T02:00:00Z",
        "period": 2,
-       "clock": "09:56",
+       "clock": "08:40",
        "teams": [
         {
          "name": "Ducks",
@@ -2006,16 +2006,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "3:37 - OT",
+       "detail": "2:24 - OT",
        "start": "2026-11-20T01:00Z",
        "period": 3,
-       "clock": "3:37",
+       "clock": "2:24",
        "teams": [
         {
          "name": "Texas A&M Aggies",
          "short": "Aggies",
          "abbr": "TA&M",
-         "score": 87,
+         "score": 90,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -2028,7 +2028,7 @@
          "name": "TCU Horned Frogs",
          "short": "Horned Frogs",
          "abbr": "TCU",
-         "score": 83,
+         "score": 87,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -2072,10 +2072,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "18:54 - 2nd",
+       "detail": "18:08 - 2nd",
        "start": "2026-11-20T02:00Z",
        "period": 2,
-       "clock": "18:54",
+       "clock": "18:08",
        "teams": [
         {
          "name": "UTEP Miners",
@@ -2093,7 +2093,7 @@
          "name": "New Mexico State Aggies",
          "short": "Aggies",
          "abbr": "NMSU",
-         "score": 36,
+         "score": 41,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -2135,16 +2135,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "11:12 - 1st",
+       "detail": "9:39 - 1st",
        "start": "2026-11-20T03:00Z",
        "period": 1,
-       "clock": "11:12",
+       "clock": "9:39",
        "teams": [
         {
          "name": "Sacramento State Hornets",
          "short": "Hornets",
          "abbr": "SAC",
-         "score": 18,
+         "score": 21,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -2325,16 +2325,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "3:45 - 4th",
+       "detail": "2:00 - 4th",
        "start": "2026-11-20T01:00Z",
        "period": 4,
-       "clock": "3:45",
+       "clock": "2:00",
        "teams": [
         {
          "name": "Portland Trail Blazers",
          "short": "Trail Blazers",
          "abbr": "POR",
-         "score": 115,
+         "score": 119,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -2348,7 +2348,7 @@
          "name": "Milwaukee Bucks",
          "short": "Bucks",
          "abbr": "MIL",
-         "score": 112,
+         "score": 114,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -2393,10 +2393,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P3 11:43",
+       "detail": "P3 10:03",
        "start": "2026-11-20T01:00:00Z",
        "period": 3,
-       "clock": "11:43",
+       "clock": "10:03",
        "teams": [
         {
          "name": "Wild",
@@ -2570,10 +2570,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P2 09:56",
+       "detail": "P2 08:40",
        "start": "2026-11-20T02:00:00Z",
        "period": 2,
-       "clock": "09:56",
+       "clock": "08:40",
        "teams": [
         {
          "name": "Ducks",
@@ -2629,10 +2629,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P1 12:04",
+       "detail": "P1 09:57",
        "start": "2026-11-20T03:00:00Z",
        "period": 1,
-       "clock": "12:04",
+       "clock": "09:57",
        "teams": [
         {
          "name": "Stars",
@@ -2689,16 +2689,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "3:45 - 4th",
+       "detail": "2:00 - 4th",
        "start": "2026-11-20T01:00Z",
        "period": 4,
-       "clock": "3:45",
+       "clock": "2:00",
        "teams": [
         {
          "name": "Portland Trail Blazers",
          "short": "Trail Blazers",
          "abbr": "POR",
-         "score": 115,
+         "score": 119,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -2712,7 +2712,7 @@
          "name": "Milwaukee Bucks",
          "short": "Bucks",
          "abbr": "MIL",
-         "score": 112,
+         "score": 114,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -2761,11 +2761,11 @@
       "date": "20261119",
       "snapshot": {
        "source": "espn",
-       "state": "in",
-       "detail": "End of 4th",
+       "state": "post",
+       "detail": "Final",
        "start": "2026-11-20T01:00Z",
-       "period": 4,
-       "clock": "0.1",
+       "period": null,
+       "clock": null,
        "teams": [
         {
          "name": "New York Knicks",
@@ -2773,7 +2773,7 @@
          "abbr": "NY",
          "score": 102,
          "ha": "away",
-         "winner": null,
+         "winner": true,
          "linescores": [
           0,
           0,
@@ -2787,7 +2787,7 @@
          "abbr": "MIN",
          "score": 99,
          "ha": "home",
-         "winner": null,
+         "winner": false,
          "linescores": [
           0,
           0,
@@ -2835,16 +2835,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "2:46 - 4th",
+       "detail": "1:42 - 4th",
        "start": "2026-11-20T01:00Z",
        "period": 4,
-       "clock": "2:46",
+       "clock": "1:42",
        "teams": [
         {
          "name": "Golden State Warriors",
          "short": "Warriors",
          "abbr": "GS",
-         "score": 89,
+         "score": 92,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -2858,7 +2858,7 @@
          "name": "Memphis Grizzlies",
          "short": "Grizzlies",
          "abbr": "MEM",
-         "score": 121,
+         "score": 123,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -2908,16 +2908,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "3:45 - 4th",
+       "detail": "2:00 - 4th",
        "start": "2026-11-20T01:00Z",
        "period": 4,
-       "clock": "3:45",
+       "clock": "2:00",
        "teams": [
         {
          "name": "Portland Trail Blazers",
          "short": "Trail Blazers",
          "abbr": "POR",
-         "score": 115,
+         "score": 119,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -2931,7 +2931,7 @@
          "name": "Milwaukee Bucks",
          "short": "Bucks",
          "abbr": "MIL",
-         "score": 112,
+         "score": 114,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -2977,11 +2977,11 @@
       "date": "20261119",
       "snapshot": {
        "source": "espn",
-       "state": "in",
-       "detail": "End of 4th",
+       "state": "post",
+       "detail": "Final",
        "start": "2026-11-20T01:00Z",
-       "period": 4,
-       "clock": "0.1",
+       "period": null,
+       "clock": null,
        "teams": [
         {
          "name": "New York Knicks",
@@ -2989,7 +2989,7 @@
          "abbr": "NY",
          "score": 102,
          "ha": "away",
-         "winner": null,
+         "winner": true,
          "linescores": [
           0,
           0,
@@ -3003,7 +3003,7 @@
          "abbr": "MIN",
          "score": 99,
          "ha": "home",
-         "winner": null,
+         "winner": false,
          "linescores": [
           0,
           0,
@@ -3051,10 +3051,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "5:22 - 3rd",
+       "detail": "4:19 - 3rd",
        "start": "2026-11-20T01:15Z",
        "period": 3,
-       "clock": "5:22",
+       "clock": "4:19",
        "teams": [
         {
          "name": "Indianapolis Colts",
@@ -3073,7 +3073,7 @@
          "name": "Houston Texans",
          "short": "Texans",
          "abbr": "HOU",
-         "score": 19,
+         "score": 25,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -3119,10 +3119,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "5:22 - 3rd",
+       "detail": "4:19 - 3rd",
        "start": "2026-11-20T01:15Z",
        "period": 3,
-       "clock": "5:22",
+       "clock": "4:19",
        "teams": [
         {
          "name": "Indianapolis Colts",
@@ -3141,7 +3141,7 @@
          "name": "Houston Texans",
          "short": "Texans",
          "abbr": "HOU",
-         "score": 19,
+         "score": 25,
          "ha": "home",
          "winner": null,
          "linescores": [
