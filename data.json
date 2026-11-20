@@ -1,5 +1,5 @@
 {
- "updated": "Nov 19, 2026, 5:04 PM PT",
+ "updated": "Nov 19, 2026, 5:07 PM PT",
  "record": {
   "w": 203,
   "l": 200,
@@ -651,7 +651,36 @@
       "label": "O 44.5",
       "path": "football/nfl",
       "event": "401873066",
-      "date": "20261119"
+      "date": "20261119",
+      "snapshot": {
+       "source": "espn",
+       "state": "pre",
+       "detail": "11/19 - 8:15 PM EST",
+       "start": "2026-11-20T01:15Z",
+       "period": null,
+       "clock": null,
+       "teams": [
+        {
+         "name": "Indianapolis Colts",
+         "short": "Colts",
+         "abbr": "IND",
+         "score": 0,
+         "ha": "away",
+         "winner": null,
+         "linescores": []
+        },
+        {
+         "name": "Houston Texans",
+         "short": "Texans",
+         "abbr": "HOU",
+         "score": 0,
+         "ha": "home",
+         "winner": null,
+         "linescores": []
+        }
+       ]
+      },
+      "source": "espn"
      }
     ],
     "sport": "NFL",
@@ -679,7 +708,36 @@
       "label": "Indianapolis Colts +11",
       "path": "football/nfl",
       "event": "401873066",
-      "date": "20261119"
+      "date": "20261119",
+      "snapshot": {
+       "source": "espn",
+       "state": "pre",
+       "detail": "11/19 - 8:15 PM EST",
+       "start": "2026-11-20T01:15Z",
+       "period": null,
+       "clock": null,
+       "teams": [
+        {
+         "name": "Indianapolis Colts",
+         "short": "Colts",
+         "abbr": "IND",
+         "score": 0,
+         "ha": "away",
+         "winner": null,
+         "linescores": []
+        },
+        {
+         "name": "Houston Texans",
+         "short": "Texans",
+         "abbr": "HOU",
+         "score": 0,
+         "ha": "home",
+         "winner": null,
+         "linescores": []
+        }
+       ]
+      },
+      "source": "espn"
      }
     ],
     "sport": "NFL",
@@ -707,9 +765,9 @@
       "line": 27.5,
       "stat": "rushing yards",
       "label": "Seth McGowan O 27.5 rushing yards",
-      "path": "football/nfl",
-      "event": "401873066",
-      "date": "20261119"
+      "date": "20261119",
+      "unverified": true,
+      "reason": "Player not found in this game"
      }
     ],
     "sport": "NFL",
@@ -2305,10 +2363,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P1 05:16",
+       "detail": "P1 05:04",
        "start": "2026-11-20T00:30:00Z",
        "period": 1,
-       "clock": "05:16",
+       "clock": "05:04",
        "teams": [
         {
          "name": "Oilers",
@@ -2369,10 +2427,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P2 20:00",
+       "detail": "P2 19:16",
        "start": "2026-11-20T00:00:00Z",
        "period": 2,
-       "clock": "20:00",
+       "clock": "19:16",
        "teams": [
         {
          "name": "Kings",
@@ -2433,10 +2491,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P2 20:00",
+       "detail": "P2 19:48",
        "start": "2026-11-20T00:00:00Z",
        "period": 2,
-       "clock": "20:00",
+       "clock": "19:48",
        "teams": [
         {
          "name": "Islanders",
@@ -2496,16 +2554,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "5:50 - 1st",
+       "detail": "5:15 - 1st",
        "start": "2026-11-20T00:30Z",
        "period": 1,
-       "clock": "5:50",
+       "clock": "5:15",
        "teams": [
         {
          "name": "Charleston Cougars",
          "short": "Cougars",
          "abbr": "COFC",
-         "score": 20,
+         "score": 22,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -2516,7 +2574,7 @@
          "name": "Drake Bulldogs",
          "short": "Bulldogs",
          "abbr": "DRKE",
-         "score": 20,
+         "score": 22,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -2557,16 +2615,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "19:42 - 1st",
+       "detail": "18:25 - 1st",
        "start": "2026-11-20T01:00Z",
        "period": 1,
-       "clock": "19:42",
+       "clock": "18:25",
        "teams": [
         {
          "name": "Texas A&M Aggies",
          "short": "Aggies",
          "abbr": "TA&M",
-         "score": 0,
+         "score": 5,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -2577,7 +2635,7 @@
          "name": "TCU Horned Frogs",
          "short": "Horned Frogs",
          "abbr": "TCU",
-         "score": 0,
+         "score": 3,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -2619,16 +2677,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "3:29 - 2nd",
+       "detail": "2:44 - 2nd",
        "start": "2026-11-19T23:00Z",
        "period": 2,
-       "clock": "3:29",
+       "clock": "2:44",
        "teams": [
         {
          "name": "Murray State Racers",
          "short": "Racers",
          "abbr": "MUR",
-         "score": 69,
+         "score": 73,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -2640,7 +2698,7 @@
          "name": "NC State Wolfpack",
          "short": "Wolfpack",
          "abbr": "NCSU",
-         "score": 89,
+         "score": 92,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -2683,10 +2741,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "14:52 - 2nd",
+       "detail": "14:51 - 2nd",
        "start": "2026-11-20T00:00Z",
        "period": 2,
-       "clock": "14:52",
+       "clock": "14:51",
        "teams": [
         {
          "name": "Maine Black Bears",
