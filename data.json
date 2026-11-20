@@ -1,5 +1,5 @@
 {
- "updated": "Nov 19, 2026, 4:11 PM PT",
+ "updated": "Nov 19, 2026, 4:13 PM PT",
  "record": {
   "w": 203,
   "l": 200,
@@ -359,10 +359,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P1 19:12",
+       "detail": "P1 16:56",
        "start": "2026-11-20T00:00:00Z",
        "period": 1,
-       "clock": "19:12",
+       "clock": "16:56",
        "teams": [
         {
          "name": "Blues",
@@ -535,10 +535,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P1 19:12",
+       "detail": "P1 16:56",
        "start": "2026-11-20T00:00:00Z",
        "period": 1,
-       "clock": "19:12",
+       "clock": "16:56",
        "teams": [
         {
          "name": "Blues",
@@ -983,9 +983,9 @@
       "line": 1.5,
       "stat": "shots on goal",
       "label": "Linus Karlsson O 1.5 shots on goal",
+      "path": "hockey/nhl",
+      "event": "401892745",
       "date": "20261119",
-      "unverified": true,
-      "reason": "Player not found in this game",
       "snapshot": {
        "source": "nhl",
        "state": "pre",
@@ -2375,10 +2375,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P1 18:01",
+       "detail": "P1 16:04",
        "start": "2026-11-20T00:00:00Z",
        "period": 1,
-       "clock": "18:01",
+       "clock": "16:04",
        "teams": [
         {
          "name": "Kings",
@@ -2439,16 +2439,16 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P1 17:57",
+       "detail": "P1 17:17",
        "start": "2026-11-20T00:00:00Z",
        "period": 1,
-       "clock": "17:57",
+       "clock": "17:17",
        "teams": [
         {
          "name": "Islanders",
          "short": "NYI",
          "abbr": "NYI",
-         "score": 0,
+         "score": 1,
          "ha": "away",
          "winner": null,
          "linescores": []
@@ -2564,16 +2564,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "14:15 - 1st",
+       "detail": "13:11 - 1st",
        "start": "2026-11-20T00:00Z",
        "period": 1,
-       "clock": "14:15",
+       "clock": "13:11",
        "teams": [
         {
          "name": "Maine Black Bears",
          "short": "Black Bears",
          "abbr": "ME",
-         "score": 11,
+         "score": 14,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -2626,10 +2626,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P1 19:12",
+       "detail": "P1 16:56",
        "start": "2026-11-20T00:00:00Z",
        "period": 1,
-       "clock": "19:12",
+       "clock": "16:56",
        "teams": [
         {
          "name": "Blues",
