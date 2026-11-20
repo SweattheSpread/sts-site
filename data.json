@@ -1,5 +1,5 @@
 {
- "updated": "Nov 20, 2026, 12:22 AM PT",
+ "updated": "Nov 20, 2026, 3:33 AM PT",
  "record": {
   "w": 214,
   "l": 216,
@@ -11,7 +11,7 @@
   "first": "2026-10-12",
   "last": "2026-11-19"
  },
- "pending": 21,
+ "pending": 22,
  "latest": [
   {
    "n": 904,
@@ -1321,6 +1321,63 @@
          "name": "Dallas Cowboys",
          "short": "Cowboys",
          "abbr": "DAL",
+         "score": 0,
+         "ha": "home",
+         "winner": null,
+         "linescores": []
+        }
+       ]
+      },
+      "source": "espn"
+     }
+    ],
+    "sport": "NFL",
+    "ticket": "single"
+   }
+  },
+  {
+   "n": 905,
+   "league": "NFL",
+   "type": "Spread",
+   "matchup": "New England Patriots @ Los Angeles Chargers",
+   "pick": "New England Patriots +5 (-109)",
+   "odds": -109,
+   "units": 1.5,
+   "gap": 9.0,
+   "start": "2026-11-29T13:05:00",
+   "timed": true,
+   "ticket": "single",
+   "espn": {
+    "legs": [
+     {
+      "kind": "spread",
+      "side": "New England Patriots",
+      "line": 5.0,
+      "label": "New England Patriots +5",
+      "path": "football/nfl",
+      "event": "401873093",
+      "date": "20261129",
+      "snapshot": {
+       "source": "espn",
+       "state": "pre",
+       "detail": "11/29 - 4:05 PM EST",
+       "start": "2026-11-29T21:05Z",
+       "period": null,
+       "clock": null,
+       "teams": [
+        {
+         "name": "New England Patriots",
+         "short": "Patriots",
+         "abbr": "NE",
+         "score": 0,
+         "ha": "away",
+         "winner": null,
+         "linescores": []
+        },
+        {
+         "name": "Los Angeles Chargers",
+         "short": "Chargers",
+         "abbr": "LAC",
          "score": 0,
          "ha": "home",
          "winner": null,
