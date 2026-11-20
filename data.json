@@ -1,5 +1,5 @@
 {
- "updated": "Nov 19, 2026, 4:13 PM PT",
+ "updated": "Nov 19, 2026, 4:15 PM PT",
  "record": {
   "w": 203,
   "l": 200,
@@ -359,10 +359,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P1 16:56",
+       "detail": "P1 14:57",
        "start": "2026-11-20T00:00:00Z",
        "period": 1,
-       "clock": "16:56",
+       "clock": "14:57",
        "teams": [
         {
          "name": "Blues",
@@ -535,10 +535,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P1 16:56",
+       "detail": "P1 14:57",
        "start": "2026-11-20T00:00:00Z",
        "period": 1,
-       "clock": "16:56",
+       "clock": "14:57",
        "teams": [
         {
          "name": "Blues",
@@ -2375,10 +2375,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P1 16:04",
+       "detail": "P1 15:30",
        "start": "2026-11-20T00:00:00Z",
        "period": 1,
-       "clock": "16:04",
+       "clock": "15:30",
        "teams": [
         {
          "name": "Kings",
@@ -2439,10 +2439,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P1 17:17",
+       "detail": "P1 16:05",
        "start": "2026-11-20T00:00:00Z",
        "period": 1,
-       "clock": "17:17",
+       "clock": "16:05",
        "teams": [
         {
          "name": "Islanders",
@@ -2457,7 +2457,7 @@
          "name": "Jets",
          "short": "WPG",
          "abbr": "WPG",
-         "score": 0,
+         "score": 1,
          "ha": "home",
          "winner": null,
          "linescores": []
@@ -2564,10 +2564,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "13:11 - 1st",
+       "detail": "12:30 - 1st",
        "start": "2026-11-20T00:00Z",
        "period": 1,
-       "clock": "13:11",
+       "clock": "12:30",
        "teams": [
         {
          "name": "Maine Black Bears",
@@ -2626,10 +2626,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P1 16:56",
+       "detail": "P1 14:57",
        "start": "2026-11-20T00:00:00Z",
        "period": 1,
-       "clock": "16:56",
+       "clock": "14:57",
        "teams": [
         {
          "name": "Blues",
