@@ -1,5 +1,5 @@
 {
- "updated": "Nov 20, 2026, 2:10 PM PT",
+ "updated": "Nov 20, 2026, 2:13 PM PT",
  "record": {
   "w": 214,
   "l": 216,
@@ -2181,10 +2181,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "4:04 - 1st",
+       "detail": "3:30 - 1st",
        "start": "2026-11-20T21:30Z",
        "period": 1,
-       "clock": "4:04",
+       "clock": "3:30",
        "teams": [
         {
          "name": "Rhode Island Rams",
@@ -2201,7 +2201,7 @@
          "name": "Liberty Flames",
          "short": "Flames",
          "abbr": "LIB",
-         "score": 34,
+         "score": 37,
          "ha": "home",
          "winner": null,
          "linescores": [
