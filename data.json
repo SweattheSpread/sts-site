@@ -1,5 +1,5 @@
 {
- "updated": "Nov 19, 2026, 8:57 PM PT",
+ "updated": "Nov 19, 2026, 8:59 PM PT",
  "record": {
   "w": 203,
   "l": 200,
@@ -1825,10 +1825,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P3 14:07",
+       "detail": "P3 13:31",
        "start": "2026-11-20T02:40:00Z",
        "period": 3,
-       "clock": "14:07",
+       "clock": "13:31",
        "teams": [
         {
          "name": "Canucks",
@@ -1945,40 +1945,32 @@
       "event": "401926814",
       "date": "20261119",
       "snapshot": {
-       "source": "espn",
+       "source": "odds-api",
        "state": "post",
        "detail": "Final",
-       "start": "2026-11-20T00:30Z",
-       "period": null,
-       "clock": null,
+       "start": "2026-11-20T00:30:00Z",
        "teams": [
         {
          "name": "Charleston Cougars",
-         "short": "Cougars",
-         "abbr": "COFC",
+         "short": "Charleston Cougars",
+         "abbr": "",
          "score": 70,
          "ha": "away",
          "winner": false,
-         "linescores": [
-          0,
-          0
-         ]
+         "linescores": []
         },
         {
          "name": "Drake Bulldogs",
-         "short": "Bulldogs",
-         "abbr": "DRKE",
+         "short": "Drake Bulldogs",
+         "abbr": "",
          "score": 86,
          "ha": "home",
          "winner": true,
-         "linescores": [
-          0,
-          0
-         ]
+         "linescores": []
         }
        ]
       },
-      "source": "espn"
+      "source": "odds-api"
      }
     ],
     "sport": "NCAAB",
@@ -2139,10 +2131,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "1:17 - 2nd",
+       "detail": "End of 2nd",
        "start": "2026-11-20T03:00Z",
        "period": 2,
-       "clock": "1:17",
+       "clock": "0:00",
        "teams": [
         {
          "name": "Sacramento State Hornets",
@@ -2160,7 +2152,7 @@
          "name": "Stanford Cardinal",
          "short": "Cardinal",
          "abbr": "STAN",
-         "score": 76,
+         "score": 78,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -2635,10 +2627,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P3 19:38",
+       "detail": "P3 18:27",
        "start": "2026-11-20T03:00:00Z",
        "period": 3,
-       "clock": "19:38",
+       "clock": "18:27",
        "teams": [
         {
          "name": "Stars",
