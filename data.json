@@ -1,5 +1,5 @@
 {
- "updated": "Nov 19, 2026, 6:48 PM PT",
+ "updated": "Nov 19, 2026, 6:51 PM PT",
  "record": {
   "w": 203,
   "l": 200,
@@ -127,70 +127,6 @@
   }
  ],
  "picks": [
-  {
-   "n": 880,
-   "league": "NHL",
-   "type": "Prop",
-   "matchup": "Vancouver Canucks @ Seattle Kraken",
-   "pick": "Linus Karlsson Over 1.5 shots on goal",
-   "odds": -110,
-   "units": 1.0,
-   "gap": null,
-   "start": "2026-11-19T18:50:00",
-   "timed": true,
-   "ticket": "single",
-   "espn": {
-    "legs": [
-     {
-      "kind": "prop",
-      "player": "Linus Karlsson",
-      "ou": "O",
-      "line": 1.5,
-      "stat": "shots on goal",
-      "label": "Linus Karlsson O 1.5 shots on goal",
-      "path": "hockey/nhl",
-      "event": "401892752",
-      "date": "20261119",
-      "snapshot": {
-       "source": "nhl",
-       "state": "in",
-       "detail": "P1 20:00",
-       "start": "2026-11-20T02:40:00Z",
-       "period": 1,
-       "clock": "20:00",
-       "teams": [
-        {
-         "name": "Canucks",
-         "short": "VAN",
-         "abbr": "VAN",
-         "score": 0,
-         "ha": "away",
-         "winner": null,
-         "linescores": []
-        },
-        {
-         "name": "Kraken",
-         "short": "SEA",
-         "abbr": "SEA",
-         "score": 0,
-         "ha": "home",
-         "winner": null,
-         "linescores": []
-        }
-       ],
-       "nhl_id": 2026020357,
-       "stat": {
-        "v": 0,
-        "name": "L. Karlsson"
-       }
-      },
-      "source": "nhl"
-     }
-    ],
-    "sport": "NHL",
-    "ticket": "single"
-   }
-  },
   {
    "n": 889,
    "league": "NCAAB",
@@ -1543,10 +1479,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "0:15 - 2nd",
+       "detail": "Halftime",
        "start": "2026-11-20T01:15Z",
        "period": 2,
-       "clock": "0:15",
+       "clock": "0:00",
        "teams": [
         {
          "name": "Indianapolis Colts",
@@ -1606,10 +1542,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "0:15 - 2nd",
+       "detail": "Halftime",
        "start": "2026-11-20T01:15Z",
        "period": 2,
-       "clock": "0:15",
+       "clock": "0:00",
        "teams": [
         {
          "name": "Indianapolis Colts",
@@ -1671,10 +1607,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P3 06:56",
+       "detail": "P3 05:31",
        "start": "2026-11-20T00:30:00Z",
        "period": 3,
-       "clock": "06:56",
+       "clock": "05:31",
        "teams": [
         {
          "name": "Oilers",
@@ -1735,10 +1671,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P4 02:24",
+       "detail": "P4 00:47",
        "start": "2026-11-20T00:00:00Z",
        "period": 4,
-       "clock": "02:24",
+       "clock": "00:47",
        "teams": [
         {
          "name": "Kings",
@@ -1863,19 +1799,20 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "End of 3rd",
+       "detail": "10:33 - 4th",
        "start": "2026-11-20T01:00Z",
-       "period": 3,
-       "clock": "0.1",
+       "period": 4,
+       "clock": "10:33",
        "teams": [
         {
          "name": "New York Knicks",
          "short": "Knicks",
          "abbr": "NY",
-         "score": 90,
+         "score": 94,
          "ha": "away",
          "winner": null,
          "linescores": [
+          0,
           0,
           0,
           0
@@ -1885,10 +1822,11 @@
          "name": "Minnesota Timberwolves",
          "short": "Timberwolves",
          "abbr": "MIN",
-         "score": 78,
+         "score": 80,
          "ha": "home",
          "winner": null,
          "linescores": [
+          0,
           0,
           0,
           0
@@ -1969,6 +1907,70 @@
    }
   },
   {
+   "n": 880,
+   "league": "NHL",
+   "type": "Prop",
+   "matchup": "Vancouver Canucks @ Seattle Kraken",
+   "pick": "Linus Karlsson Over 1.5 shots on goal",
+   "odds": -110,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-19T18:50:00",
+   "timed": true,
+   "ticket": "single",
+   "espn": {
+    "legs": [
+     {
+      "kind": "prop",
+      "player": "Linus Karlsson",
+      "ou": "O",
+      "line": 1.5,
+      "stat": "shots on goal",
+      "label": "Linus Karlsson O 1.5 shots on goal",
+      "path": "hockey/nhl",
+      "event": "401892752",
+      "date": "20261119",
+      "snapshot": {
+       "source": "nhl",
+       "state": "in",
+       "detail": "P1 18:21",
+       "start": "2026-11-20T02:40:00Z",
+       "period": 1,
+       "clock": "18:21",
+       "teams": [
+        {
+         "name": "Canucks",
+         "short": "VAN",
+         "abbr": "VAN",
+         "score": 0,
+         "ha": "away",
+         "winner": null,
+         "linescores": []
+        },
+        {
+         "name": "Kraken",
+         "short": "SEA",
+         "abbr": "SEA",
+         "score": 0,
+         "ha": "home",
+         "winner": null,
+         "linescores": []
+        }
+       ],
+       "nhl_id": 2026020357,
+       "stat": {
+        "v": 0,
+        "name": "L. Karlsson"
+       }
+      },
+      "source": "nhl"
+     }
+    ],
+    "sport": "NHL",
+    "ticket": "single"
+   }
+  },
+  {
    "n": 885,
    "league": "NHL",
    "type": "Over/Under",
@@ -1994,10 +1996,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P1 14:35",
+       "detail": "P1 11:37",
        "start": "2026-11-20T02:00:00Z",
        "period": 1,
-       "clock": "14:35",
+       "clock": "11:37",
        "teams": [
         {
          "name": "Ducks",
@@ -2116,16 +2118,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "8:37 - 2nd",
+       "detail": "7:10 - 2nd",
        "start": "2026-11-20T01:00Z",
        "period": 2,
-       "clock": "8:37",
+       "clock": "7:10",
        "teams": [
         {
          "name": "Texas A&M Aggies",
          "short": "Aggies",
          "abbr": "TA&M",
-         "score": 66,
+         "score": 71,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -2137,7 +2139,7 @@
          "name": "TCU Horned Frogs",
          "short": "Horned Frogs",
          "abbr": "TCU",
-         "score": 71,
+         "score": 73,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -2180,16 +2182,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "4:12 - 1st",
+       "detail": "3:46 - 1st",
        "start": "2026-11-20T02:00Z",
        "period": 1,
-       "clock": "4:12",
+       "clock": "3:46",
        "teams": [
         {
          "name": "UTEP Miners",
          "short": "Miners",
          "abbr": "UTEP",
-         "score": 29,
+         "score": 31,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -2200,7 +2202,7 @@
          "name": "New Mexico State Aggies",
          "short": "Aggies",
          "abbr": "NMSU",
-         "score": 23,
+         "score": 25,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -2370,16 +2372,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "5:17 - 3rd",
+       "detail": "3:55 - 3rd",
        "start": "2026-11-20T01:00Z",
        "period": 3,
-       "clock": "5:17",
+       "clock": "3:55",
        "teams": [
         {
          "name": "Portland Trail Blazers",
          "short": "Trail Blazers",
          "abbr": "POR",
-         "score": 80,
+         "score": 82,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -2392,7 +2394,7 @@
          "name": "Milwaukee Bucks",
          "short": "Bucks",
          "abbr": "MIL",
-         "score": 70,
+         "score": 75,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -2436,10 +2438,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P2 01:13",
+       "detail": "P2 16:10",
        "start": "2026-11-20T01:00:00Z",
        "period": 2,
-       "clock": "01:13",
+       "clock": "16:10",
        "teams": [
         {
          "name": "Wild",
@@ -2613,10 +2615,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P1 14:35",
+       "detail": "P1 11:37",
        "start": "2026-11-20T02:00:00Z",
        "period": 1,
-       "clock": "14:35",
+       "clock": "11:37",
        "teams": [
         {
          "name": "Ducks",
@@ -2673,16 +2675,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "5:17 - 3rd",
+       "detail": "3:55 - 3rd",
        "start": "2026-11-20T01:00Z",
        "period": 3,
-       "clock": "5:17",
+       "clock": "3:55",
        "teams": [
         {
          "name": "Portland Trail Blazers",
          "short": "Trail Blazers",
          "abbr": "POR",
-         "score": 80,
+         "score": 82,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -2695,7 +2697,7 @@
          "name": "Milwaukee Bucks",
          "short": "Bucks",
          "abbr": "MIL",
-         "score": 70,
+         "score": 75,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -2744,19 +2746,20 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "End of 3rd",
+       "detail": "10:33 - 4th",
        "start": "2026-11-20T01:00Z",
-       "period": 3,
-       "clock": "0.1",
+       "period": 4,
+       "clock": "10:33",
        "teams": [
         {
          "name": "New York Knicks",
          "short": "Knicks",
          "abbr": "NY",
-         "score": 90,
+         "score": 94,
          "ha": "away",
          "winner": null,
          "linescores": [
+          0,
           0,
           0,
           0
@@ -2766,10 +2769,11 @@
          "name": "Minnesota Timberwolves",
          "short": "Timberwolves",
          "abbr": "MIN",
-         "score": 78,
+         "score": 80,
          "ha": "home",
          "winner": null,
          "linescores": [
+          0,
           0,
           0,
           0
@@ -2815,10 +2819,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "2:14 - 3rd",
+       "detail": "1:30 - 3rd",
        "start": "2026-11-20T01:00Z",
        "period": 3,
-       "clock": "2:14",
+       "clock": "1:30",
        "teams": [
         {
          "name": "Golden State Warriors",
@@ -2837,7 +2841,7 @@
          "name": "Memphis Grizzlies",
          "short": "Grizzlies",
          "abbr": "MEM",
-         "score": 88,
+         "score": 90,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -2886,16 +2890,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "5:17 - 3rd",
+       "detail": "3:55 - 3rd",
        "start": "2026-11-20T01:00Z",
        "period": 3,
-       "clock": "5:17",
+       "clock": "3:55",
        "teams": [
         {
          "name": "Portland Trail Blazers",
          "short": "Trail Blazers",
          "abbr": "POR",
-         "score": 80,
+         "score": 82,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -2908,7 +2912,7 @@
          "name": "Milwaukee Bucks",
          "short": "Bucks",
          "abbr": "MIL",
-         "score": 70,
+         "score": 75,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -2954,19 +2958,20 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "End of 3rd",
+       "detail": "10:33 - 4th",
        "start": "2026-11-20T01:00Z",
-       "period": 3,
-       "clock": "0.1",
+       "period": 4,
+       "clock": "10:33",
        "teams": [
         {
          "name": "New York Knicks",
          "short": "Knicks",
          "abbr": "NY",
-         "score": 90,
+         "score": 94,
          "ha": "away",
          "winner": null,
          "linescores": [
+          0,
           0,
           0,
           0
@@ -2976,10 +2981,11 @@
          "name": "Minnesota Timberwolves",
          "short": "Timberwolves",
          "abbr": "MIN",
-         "score": 78,
+         "score": 80,
          "ha": "home",
          "winner": null,
          "linescores": [
+          0,
           0,
           0,
           0
@@ -3025,10 +3031,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "0:15 - 2nd",
+       "detail": "Halftime",
        "start": "2026-11-20T01:15Z",
        "period": 2,
-       "clock": "0:15",
+       "clock": "0:00",
        "teams": [
         {
          "name": "Indianapolis Colts",
