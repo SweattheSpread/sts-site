@@ -1,5 +1,5 @@
 {
- "updated": "Nov 19, 2026, 4:27 PM PT",
+ "updated": "Nov 19, 2026, 4:29 PM PT",
  "record": {
   "w": 203,
   "l": 200,
@@ -359,10 +359,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P1 09:24",
+       "detail": "P1 09:15",
        "start": "2026-11-20T00:00:00Z",
        "period": 1,
-       "clock": "09:24",
+       "clock": "09:15",
        "teams": [
         {
          "name": "Blues",
@@ -535,10 +535,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P1 09:24",
+       "detail": "P1 09:15",
        "start": "2026-11-20T00:00:00Z",
        "period": 1,
-       "clock": "09:24",
+       "clock": "09:15",
        "teams": [
         {
          "name": "Blues",
@@ -2542,10 +2542,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P1 11:16",
+       "detail": "P1 09:36",
        "start": "2026-11-20T00:00:00Z",
        "period": 1,
-       "clock": "11:16",
+       "clock": "09:36",
        "teams": [
         {
          "name": "Islanders",
@@ -2669,16 +2669,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "7:50 - 1st",
+       "detail": "6:45 - 1st",
        "start": "2026-11-20T00:00Z",
        "period": 1,
-       "clock": "7:50",
+       "clock": "6:45",
        "teams": [
         {
          "name": "Maine Black Bears",
          "short": "Black Bears",
          "abbr": "ME",
-         "score": 20,
+         "score": 23,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -2731,10 +2731,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P1 09:24",
+       "detail": "P1 09:15",
        "start": "2026-11-20T00:00:00Z",
        "period": 1,
-       "clock": "09:24",
+       "clock": "09:15",
        "teams": [
         {
          "name": "Blues",
