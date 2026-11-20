@@ -1,5 +1,5 @@
 {
- "updated": "Nov 19, 2026, 5:07 PM PT",
+ "updated": "Nov 19, 2026, 5:09 PM PT",
  "record": {
   "w": 203,
   "l": 200,
@@ -178,16 +178,16 @@
       "line": 1.5,
       "stat": "shots on goal",
       "label": "Roman Kantserov U 1.5 shots on goal",
+      "path": "hockey/nhl",
+      "event": "401892748",
       "date": "20261119",
-      "unverified": true,
-      "reason": "Player not found in this game",
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P2 17:54",
+       "detail": "P2 17:28",
        "start": "2026-11-20T00:00:00Z",
        "period": 2,
-       "clock": "17:54",
+       "clock": "17:28",
        "teams": [
         {
          "name": "Blues",
@@ -360,10 +360,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P2 17:54",
+       "detail": "P2 17:28",
        "start": "2026-11-20T00:00:00Z",
        "period": 2,
-       "clock": "17:54",
+       "clock": "17:28",
        "teams": [
         {
          "name": "Blues",
@@ -2363,10 +2363,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P1 05:04",
+       "detail": "P1 02:31",
        "start": "2026-11-20T00:30:00Z",
        "period": 1,
-       "clock": "05:04",
+       "clock": "02:31",
        "teams": [
         {
          "name": "Oilers",
@@ -2427,10 +2427,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P2 19:16",
+       "detail": "P2 17:40",
        "start": "2026-11-20T00:00:00Z",
        "period": 2,
-       "clock": "19:16",
+       "clock": "17:40",
        "teams": [
         {
          "name": "Kings",
@@ -2491,16 +2491,16 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P2 19:48",
+       "detail": "P2 18:36",
        "start": "2026-11-20T00:00:00Z",
        "period": 2,
-       "clock": "19:48",
+       "clock": "18:36",
        "teams": [
         {
          "name": "Islanders",
          "short": "NYI",
          "abbr": "NYI",
-         "score": 2,
+         "score": 3,
          "ha": "away",
          "winner": null,
          "linescores": []
@@ -2554,16 +2554,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "5:15 - 1st",
+       "detail": "4:04 - 1st",
        "start": "2026-11-20T00:30Z",
        "period": 1,
-       "clock": "5:15",
+       "clock": "4:04",
        "teams": [
         {
          "name": "Charleston Cougars",
          "short": "Cougars",
          "abbr": "COFC",
-         "score": 22,
+         "score": 27,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -2615,16 +2615,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "18:25 - 1st",
+       "detail": "17:04 - 1st",
        "start": "2026-11-20T01:00Z",
        "period": 1,
-       "clock": "18:25",
+       "clock": "17:04",
        "teams": [
         {
          "name": "Texas A&M Aggies",
          "short": "Aggies",
          "abbr": "TA&M",
-         "score": 5,
+         "score": 8,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -2635,7 +2635,7 @@
          "name": "TCU Horned Frogs",
          "short": "Horned Frogs",
          "abbr": "TCU",
-         "score": 3,
+         "score": 7,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -2677,16 +2677,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "2:44 - 2nd",
+       "detail": "1:27 - 2nd",
        "start": "2026-11-19T23:00Z",
        "period": 2,
-       "clock": "2:44",
+       "clock": "1:27",
        "teams": [
         {
          "name": "Murray State Racers",
          "short": "Racers",
          "abbr": "MUR",
-         "score": 73,
+         "score": 78,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -2741,16 +2741,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "14:51 - 2nd",
+       "detail": "13:35 - 2nd",
        "start": "2026-11-20T00:00Z",
        "period": 2,
-       "clock": "14:51",
+       "clock": "13:35",
        "teams": [
         {
          "name": "Maine Black Bears",
          "short": "Black Bears",
          "abbr": "ME",
-         "score": 42,
+         "score": 44,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -2805,10 +2805,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P2 17:54",
+       "detail": "P2 17:28",
        "start": "2026-11-20T00:00:00Z",
        "period": 2,
-       "clock": "17:54",
+       "clock": "17:28",
        "teams": [
         {
          "name": "Blues",
