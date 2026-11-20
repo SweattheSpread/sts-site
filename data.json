@@ -1,5 +1,5 @@
 {
- "updated": "Nov 20, 2026, 10:17 AM PT",
+ "updated": "Nov 20, 2026, 10:28 AM PT",
  "record": {
   "w": 214,
   "l": 216,
@@ -11,7 +11,7 @@
   "first": "2026-10-12",
   "last": "2026-11-19"
  },
- "pending": 31,
+ "pending": 34,
  "latest": [
   {
    "n": 904,
@@ -295,6 +295,63 @@
    }
   },
   {
+   "n": 915,
+   "league": "NCAAB",
+   "type": "Spread",
+   "matchup": "Rhode Island Rams @ Liberty Flames",
+   "pick": "Rhode Island +1.5",
+   "odds": -118,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-20T13:30:00",
+   "timed": true,
+   "ticket": "single",
+   "espn": {
+    "legs": [
+     {
+      "kind": "spread",
+      "side": "Rhode Island",
+      "line": 1.5,
+      "label": "Rhode Island +1.5",
+      "path": "basketball/mens-college-basketball",
+      "event": "401920066",
+      "date": "20261120",
+      "snapshot": {
+       "source": "espn",
+       "state": "pre",
+       "detail": "11/20 - 4:30 PM EST",
+       "start": "2026-11-20T21:30Z",
+       "period": null,
+       "clock": null,
+       "teams": [
+        {
+         "name": "Rhode Island Rams",
+         "short": "Rams",
+         "abbr": "URI",
+         "score": 0,
+         "ha": "away",
+         "winner": null,
+         "linescores": []
+        },
+        {
+         "name": "Liberty Flames",
+         "short": "Flames",
+         "abbr": "LIB",
+         "score": 0,
+         "ha": "home",
+         "winner": null,
+         "linescores": []
+        }
+       ]
+      },
+      "source": "espn"
+     }
+    ],
+    "sport": "NCAAB",
+    "ticket": "single"
+   }
+  },
+  {
    "n": 911,
    "league": "NCAAB",
    "type": "Over/Under",
@@ -401,6 +458,63 @@
    }
   },
   {
+   "n": 916,
+   "league": "NCAAB",
+   "type": "Spread",
+   "matchup": "Georgia State Panthers @ Jacksonville State Gamecocks",
+   "pick": "Jacksonville State +0.5",
+   "odds": -110,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-20T16:00:00",
+   "timed": true,
+   "ticket": "single",
+   "espn": {
+    "legs": [
+     {
+      "kind": "spread",
+      "side": "Jacksonville State",
+      "line": 0.5,
+      "label": "Jacksonville State +0.5",
+      "path": "basketball/mens-college-basketball",
+      "event": "401926782",
+      "date": "20261120",
+      "snapshot": {
+       "source": "espn",
+       "state": "pre",
+       "detail": "11/20 - 7:00 PM EST",
+       "start": "2026-11-21T00:00Z",
+       "period": null,
+       "clock": null,
+       "teams": [
+        {
+         "name": "Georgia State Panthers",
+         "short": "Panthers",
+         "abbr": "GAST",
+         "score": 0,
+         "ha": "away",
+         "winner": null,
+         "linescores": []
+        },
+        {
+         "name": "Jacksonville State Gamecocks",
+         "short": "Gamecocks",
+         "abbr": "JXST",
+         "score": 0,
+         "ha": "home",
+         "winner": null,
+         "linescores": []
+        }
+       ]
+      },
+      "source": "espn"
+     }
+    ],
+    "sport": "NCAAB",
+    "ticket": "single"
+   }
+  },
+  {
    "n": 913,
    "league": "NCAAB",
    "type": "Over/Under",
@@ -502,6 +616,61 @@
          "name": "Illinois Fighting Illini",
          "short": "Fighting Illini",
          "abbr": "ILL",
+         "score": 0,
+         "ha": "home",
+         "winner": null,
+         "linescores": []
+        }
+       ]
+      },
+      "source": "espn"
+     }
+    ],
+    "sport": "NCAAB",
+    "ticket": "single"
+   }
+  },
+  {
+   "n": 917,
+   "league": "NCAAB",
+   "type": "Moneyline",
+   "matchup": "CSU Bakersfield Roadrunners @ Idaho Vandals",
+   "pick": "Idaho moneyline",
+   "odds": -130,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-20T18:00:00",
+   "timed": true,
+   "ticket": "single",
+   "espn": {
+    "legs": [
+     {
+      "kind": "unknown",
+      "label": "Idaho moneyline",
+      "path": "basketball/mens-college-basketball",
+      "event": "401920137",
+      "date": "20261120",
+      "snapshot": {
+       "source": "espn",
+       "state": "pre",
+       "detail": "11/20 - 9:00 PM EST",
+       "start": "2026-11-21T02:00Z",
+       "period": null,
+       "clock": null,
+       "teams": [
+        {
+         "name": "Cal State Bakersfield Roadrunners",
+         "short": "Roadrunners",
+         "abbr": "CSUB",
+         "score": 0,
+         "ha": "away",
+         "winner": null,
+         "linescores": []
+        },
+        {
+         "name": "Idaho Vandals",
+         "short": "Vandals",
+         "abbr": "IDHO",
          "score": 0,
          "ha": "home",
          "winner": null,

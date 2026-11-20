@@ -1,5 +1,5 @@
 {
- "updated": "Nov 20, 2026, 10:17 AM PT",
+ "updated": "Nov 20, 2026, 10:28 AM PT",
  "record": {
   "w": 214,
   "l": 216,
@@ -11,7 +11,7 @@
   "first": "2026-10-12",
   "last": "2026-11-19"
  },
- "pending": 31,
+ "pending": 34,
  "plays": [
   {
    "n": 334,
@@ -7112,6 +7112,54 @@
    "matchup": "Eastern Illinois Panthers @ Illinois Fighting Illini",
    "pick": "Under 165.5",
    "odds": -110,
+   "units": 1.0,
+   "result": null,
+   "pl": null,
+   "pending": true
+  },
+  {
+   "n": 915,
+   "date": "2026-11-20",
+   "day": "2026-11-20",
+   "league": "NCAAB",
+   "market": "spread",
+   "market_label": "Spread",
+   "ticket": "single",
+   "matchup": "Rhode Island Rams @ Liberty Flames",
+   "pick": "Rhode Island +1.5",
+   "odds": -118,
+   "units": 1.0,
+   "result": null,
+   "pl": null,
+   "pending": true
+  },
+  {
+   "n": 916,
+   "date": "2026-11-20",
+   "day": "2026-11-20",
+   "league": "NCAAB",
+   "market": "spread",
+   "market_label": "Spread",
+   "ticket": "single",
+   "matchup": "Georgia State Panthers @ Jacksonville State Gamecocks",
+   "pick": "Jacksonville State +0.5",
+   "odds": -110,
+   "units": 1.0,
+   "result": null,
+   "pl": null,
+   "pending": true
+  },
+  {
+   "n": 917,
+   "date": "2026-11-20",
+   "day": "2026-11-20",
+   "league": "NCAAB",
+   "market": "ml",
+   "market_label": "Moneyline",
+   "ticket": "single",
+   "matchup": "CSU Bakersfield Roadrunners @ Idaho Vandals",
+   "pick": "Idaho moneyline",
+   "odds": -130,
    "units": 1.0,
    "result": null,
    "pl": null,
