@@ -1,5 +1,5 @@
 {
- "updated": "Nov 20, 2026, 8:17 AM PT",
+ "updated": "Nov 20, 2026, 8:59 AM PT",
  "record": {
   "w": 214,
   "l": 216,
@@ -11,7 +11,7 @@
   "first": "2026-10-12",
   "last": "2026-11-19"
  },
- "pending": 27,
+ "pending": 28,
  "latest": [
   {
    "n": 904,
@@ -235,6 +235,64 @@
     ],
     "sport": "Tennis",
     "ticket": "parlay"
+   }
+  },
+  {
+   "n": 911,
+   "league": "NCAAB",
+   "type": "Over/Under",
+   "matchup": "Mercyhurst Lakers @ Canisius Golden Griffins",
+   "pick": "Over 134.5",
+   "odds": -110,
+   "units": 3.0,
+   "gap": null,
+   "start": "2026-11-20T14:30:00",
+   "timed": true,
+   "ticket": "single",
+   "espn": {
+    "legs": [
+     {
+      "kind": "total",
+      "side": null,
+      "ou": "O",
+      "line": 134.5,
+      "label": "O 134.5",
+      "path": "basketball/mens-college-basketball",
+      "event": "401919827",
+      "date": "20261120",
+      "snapshot": {
+       "source": "espn",
+       "state": "pre",
+       "detail": "11/20 - 5:30 PM EST",
+       "start": "2026-11-20T22:30Z",
+       "period": null,
+       "clock": null,
+       "teams": [
+        {
+         "name": "Mercyhurst Lakers",
+         "short": "Lakers",
+         "abbr": "MERC",
+         "score": 0,
+         "ha": "away",
+         "winner": null,
+         "linescores": []
+        },
+        {
+         "name": "Canisius Golden Griffins",
+         "short": "Golden Griffins",
+         "abbr": "CAN",
+         "score": 0,
+         "ha": "home",
+         "winner": null,
+         "linescores": []
+        }
+       ]
+      },
+      "source": "espn"
+     }
+    ],
+    "sport": "NCAAB",
+    "ticket": "single"
    }
   },
   {
