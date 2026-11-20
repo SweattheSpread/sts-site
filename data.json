@@ -1,5 +1,5 @@
 {
- "updated": "Nov 19, 2026, 8:43 PM PT",
+ "updated": "Nov 19, 2026, 8:45 PM PT",
  "record": {
   "w": 203,
   "l": 200,
@@ -1825,10 +1825,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P2 04:49",
+       "detail": "P2 02:42",
        "start": "2026-11-20T02:40:00Z",
        "period": 2,
-       "clock": "04:49",
+       "clock": "02:42",
        "teams": [
         {
          "name": "Canucks",
@@ -2139,10 +2139,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "5:18 - 2nd",
+       "detail": "4:13 - 2nd",
        "start": "2026-11-20T03:00Z",
        "period": 2,
-       "clock": "5:18",
+       "clock": "4:13",
        "teams": [
         {
          "name": "Sacramento State Hornets",
@@ -2160,7 +2160,7 @@
          "name": "Stanford Cardinal",
          "short": "Cardinal",
          "abbr": "STAN",
-         "score": 66,
+         "score": 70,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -2635,10 +2635,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P2 11:39",
+       "detail": "P2 09:32",
        "start": "2026-11-20T03:00:00Z",
        "period": 2,
-       "clock": "11:39",
+       "clock": "09:32",
        "teams": [
         {
          "name": "Stars",
