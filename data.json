@@ -1,5 +1,5 @@
 {
- "updated": "Nov 20, 2026, 2:15 PM PT",
+ "updated": "Nov 20, 2026, 2:18 PM PT",
  "record": {
   "w": 214,
   "l": 216,
@@ -11,7 +11,7 @@
   "first": "2026-10-12",
   "last": "2026-11-19"
  },
- "pending": 38,
+ "pending": 39,
  "latest": [
   {
    "n": 904,
@@ -287,6 +287,36 @@
      }
     ],
     "sport": "NCAAB",
+    "ticket": "single"
+   }
+  },
+  {
+   "n": 922,
+   "league": "NBA",
+   "type": "Player Prop",
+   "matchup": "Charlotte Hornets @ Atlanta Hawks",
+   "pick": "Onyeka Okongwu Over 7.5 rebounds",
+   "odds": 125,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-20T16:10:00",
+   "timed": true,
+   "ticket": "single",
+   "espn": {
+    "legs": [
+     {
+      "kind": "prop",
+      "player": "Onyeka Okongwu",
+      "ou": "O",
+      "line": 7.5,
+      "stat": "rebounds",
+      "label": "Onyeka Okongwu O 7.5 rebounds",
+      "date": "20261120",
+      "unverified": true,
+      "reason": "Player not found in this game"
+     }
+    ],
+    "sport": "NBA",
     "ticket": "single"
    }
   },
@@ -2181,16 +2211,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "2:29 - 1st",
+       "detail": "1:07 - 1st",
        "start": "2026-11-20T21:30Z",
        "period": 1,
-       "clock": "2:29",
+       "clock": "1:07",
        "teams": [
         {
          "name": "Rhode Island Rams",
          "short": "Rams",
          "abbr": "URI",
-         "score": 23,
+         "score": 24,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -2201,7 +2231,7 @@
          "name": "Liberty Flames",
          "short": "Flames",
          "abbr": "LIB",
-         "score": 37,
+         "score": 39,
          "ha": "home",
          "winner": null,
          "linescores": [
