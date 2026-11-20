@@ -1,5 +1,5 @@
 {
- "updated": "Nov 20, 2026, 8:59 AM PT",
+ "updated": "Nov 20, 2026, 9:42 AM PT",
  "record": {
   "w": 214,
   "l": 216,
@@ -11,7 +11,7 @@
   "first": "2026-10-12",
   "last": "2026-11-19"
  },
- "pending": 28,
+ "pending": 31,
  "latest": [
   {
    "n": 904,
@@ -238,6 +238,63 @@
    }
   },
   {
+   "n": 912,
+   "league": "NCAAB",
+   "type": "Spread",
+   "matchup": "Northwestern Wildcats @ Virginia Tech Hokies",
+   "pick": "Northwestern +11.5",
+   "odds": -110,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-20T12:00:00",
+   "timed": true,
+   "ticket": "single",
+   "espn": {
+    "legs": [
+     {
+      "kind": "spread",
+      "side": "Northwestern",
+      "line": 11.5,
+      "label": "Northwestern +11.5",
+      "path": "basketball/mens-college-basketball",
+      "event": "401920380",
+      "date": "20261120",
+      "snapshot": {
+       "source": "espn",
+       "state": "pre",
+       "detail": "11/20 - 3:00 PM EST",
+       "start": "2026-11-20T20:00Z",
+       "period": null,
+       "clock": null,
+       "teams": [
+        {
+         "name": "Northwestern Wildcats",
+         "short": "Wildcats",
+         "abbr": "NU",
+         "score": 0,
+         "ha": "away",
+         "winner": null,
+         "linescores": []
+        },
+        {
+         "name": "Virginia Tech Hokies",
+         "short": "Hokies",
+         "abbr": "VT",
+         "score": 0,
+         "ha": "home",
+         "winner": null,
+         "linescores": []
+        }
+       ]
+      },
+      "source": "espn"
+     }
+    ],
+    "sport": "NCAAB",
+    "ticket": "single"
+   }
+  },
+  {
    "n": 911,
    "league": "NCAAB",
    "type": "Over/Under",
@@ -340,6 +397,122 @@
      }
     ],
     "sport": "Tennis",
+    "ticket": "single"
+   }
+  },
+  {
+   "n": 913,
+   "league": "NCAAB",
+   "type": "Over/Under",
+   "matchup": "Sam Houston State Bearkats @ Boise State Broncos",
+   "pick": "Under 171.5",
+   "odds": -110,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-20T18:00:00",
+   "timed": true,
+   "ticket": "single",
+   "espn": {
+    "legs": [
+     {
+      "kind": "total",
+      "side": null,
+      "ou": "U",
+      "line": 171.5,
+      "label": "U 171.5",
+      "path": "basketball/mens-college-basketball",
+      "event": "401928795",
+      "date": "20261120",
+      "snapshot": {
+       "source": "espn",
+       "state": "pre",
+       "detail": "11/20 - 9:00 PM EST",
+       "start": "2026-11-21T02:00Z",
+       "period": null,
+       "clock": null,
+       "teams": [
+        {
+         "name": "Sam Houston Bearkats",
+         "short": "Bearkats",
+         "abbr": "SHSU",
+         "score": 0,
+         "ha": "away",
+         "winner": null,
+         "linescores": []
+        },
+        {
+         "name": "Boise State Broncos",
+         "short": "Broncos",
+         "abbr": "BOIS",
+         "score": 0,
+         "ha": "home",
+         "winner": null,
+         "linescores": []
+        }
+       ]
+      },
+      "source": "espn"
+     }
+    ],
+    "sport": "NCAAB",
+    "ticket": "single"
+   }
+  },
+  {
+   "n": 914,
+   "league": "NCAAB",
+   "type": "Over/Under",
+   "matchup": "Eastern Illinois Panthers @ Illinois Fighting Illini",
+   "pick": "Under 165.5",
+   "odds": -110,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-20T18:00:00",
+   "timed": true,
+   "ticket": "single",
+   "espn": {
+    "legs": [
+     {
+      "kind": "total",
+      "side": null,
+      "ou": "U",
+      "line": 165.5,
+      "label": "U 165.5",
+      "path": "basketball/mens-college-basketball",
+      "event": "401913529",
+      "date": "20261120",
+      "snapshot": {
+       "source": "espn",
+       "state": "pre",
+       "detail": "11/20 - 9:00 PM EST",
+       "start": "2026-11-21T02:00Z",
+       "period": null,
+       "clock": null,
+       "teams": [
+        {
+         "name": "Eastern Illinois Panthers",
+         "short": "Panthers",
+         "abbr": "EIU",
+         "score": 0,
+         "ha": "away",
+         "winner": null,
+         "linescores": []
+        },
+        {
+         "name": "Illinois Fighting Illini",
+         "short": "Fighting Illini",
+         "abbr": "ILL",
+         "score": 0,
+         "ha": "home",
+         "winner": null,
+         "linescores": []
+        }
+       ]
+      },
+      "source": "espn"
+     }
+    ],
+    "sport": "NCAAB",
     "ticket": "single"
    }
   },

@@ -1,5 +1,5 @@
 {
- "updated": "Nov 20, 2026, 8:59 AM PT",
+ "updated": "Nov 20, 2026, 9:42 AM PT",
  "record": {
   "w": 214,
   "l": 216,
@@ -11,7 +11,7 @@
   "first": "2026-10-12",
   "last": "2026-11-19"
  },
- "pending": 28,
+ "pending": 31,
  "plays": [
   {
    "n": 334,
@@ -7065,6 +7065,54 @@
    "pick": "Over 134.5",
    "odds": -110,
    "units": 3.0,
+   "result": null,
+   "pl": null,
+   "pending": true
+  },
+  {
+   "n": 912,
+   "date": "2026-11-20",
+   "day": "2026-11-20",
+   "league": "NCAAB",
+   "market": "spread",
+   "market_label": "Spread",
+   "ticket": "single",
+   "matchup": "Northwestern Wildcats @ Virginia Tech Hokies",
+   "pick": "Northwestern +11.5",
+   "odds": -110,
+   "units": 1.0,
+   "result": null,
+   "pl": null,
+   "pending": true
+  },
+  {
+   "n": 913,
+   "date": "2026-11-20",
+   "day": "2026-11-20",
+   "league": "NCAAB",
+   "market": "total",
+   "market_label": "Total",
+   "ticket": "single",
+   "matchup": "Sam Houston State Bearkats @ Boise State Broncos",
+   "pick": "Under 171.5",
+   "odds": -110,
+   "units": 1.0,
+   "result": null,
+   "pl": null,
+   "pending": true
+  },
+  {
+   "n": 914,
+   "date": "2026-11-20",
+   "day": "2026-11-20",
+   "league": "NCAAB",
+   "market": "total",
+   "market_label": "Total",
+   "ticket": "single",
+   "matchup": "Eastern Illinois Panthers @ Illinois Fighting Illini",
+   "pick": "Under 165.5",
+   "odds": -110,
+   "units": 1.0,
    "result": null,
    "pl": null,
    "pending": true
