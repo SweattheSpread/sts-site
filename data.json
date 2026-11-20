@@ -1,5 +1,5 @@
 {
- "updated": "Nov 19, 2026, 9:24 PM PT",
+ "updated": "Nov 19, 2026, 9:26 PM PT",
  "record": {
   "w": 203,
   "l": 200,
@@ -1825,10 +1825,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P3 01:34",
+       "detail": "P3 00:42",
        "start": "2026-11-20T02:40:00Z",
        "period": 3,
-       "clock": "01:34",
+       "clock": "00:42",
        "teams": [
         {
          "name": "Canucks",
@@ -1843,7 +1843,7 @@
          "name": "Kraken",
          "short": "SEA",
          "abbr": "SEA",
-         "score": 4,
+         "score": 5,
          "ha": "home",
          "winner": null,
          "linescores": []
