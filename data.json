@@ -1,5 +1,5 @@
 {
- "updated": "Nov 19, 2026, 4:18 PM PT",
+ "updated": "Nov 19, 2026, 4:20 PM PT",
  "record": {
   "w": 203,
   "l": 200,
@@ -11,7 +11,7 @@
   "first": "2026-10-12",
   "last": "2026-11-18"
  },
- "pending": 44,
+ "pending": 46,
  "latest": [
   {
    "n": 872,
@@ -359,10 +359,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P1 13:07",
+       "detail": "P1 11:49",
        "start": "2026-11-20T00:00:00Z",
        "period": 1,
-       "clock": "13:07",
+       "clock": "11:49",
        "teams": [
         {
          "name": "Blues",
@@ -377,7 +377,7 @@
          "name": "Penguins",
          "short": "PIT",
          "abbr": "PIT",
-         "score": 0,
+         "score": 1,
          "ha": "home",
          "winner": null,
          "linescores": []
@@ -535,10 +535,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P1 13:07",
+       "detail": "P1 11:49",
        "start": "2026-11-20T00:00:00Z",
        "period": 1,
-       "clock": "13:07",
+       "clock": "11:49",
        "teams": [
         {
          "name": "Blues",
@@ -553,7 +553,7 @@
          "name": "Penguins",
          "short": "PIT",
          "abbr": "PIT",
-         "score": 0,
+         "score": 1,
          "ha": "home",
          "winner": null,
          "linescores": []
@@ -662,6 +662,109 @@
       "line": 5.5,
       "stat": "assists",
       "label": "LaMelo Ball U 5.5 assists",
+      "date": "20261119",
+      "unverified": true,
+      "reason": "Player not found in this game"
+     }
+    ],
+    "sport": "NBA",
+    "ticket": "single"
+   }
+  },
+  {
+   "n": 900,
+   "league": "NBA",
+   "type": "Player Prop",
+   "matchup": "Golden State Warriors @ Memphis Grizzlies",
+   "pick": "Cameron Boozer Under 19.5 points",
+   "odds": -110,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-19T17:10:00",
+   "timed": true,
+   "ticket": "single",
+   "espn": {
+    "legs": [
+     {
+      "kind": "prop",
+      "player": "Cameron Boozer",
+      "ou": "U",
+      "line": 19.5,
+      "stat": "points",
+      "label": "Cameron Boozer U 19.5 points",
+      "path": "basketball/nba",
+      "event": "401910007",
+      "date": "20261118",
+      "snapshot": {
+       "source": "espn",
+       "state": "post",
+       "detail": "Final",
+       "start": "2026-11-19T00:00Z",
+       "period": null,
+       "clock": null,
+       "teams": [
+        {
+         "name": "Memphis Grizzlies",
+         "short": "Grizzlies",
+         "abbr": "MEM",
+         "score": 124,
+         "ha": "away",
+         "winner": true,
+         "linescores": [
+          0,
+          0,
+          0,
+          0
+         ]
+        },
+        {
+         "name": "Cleveland Cavaliers",
+         "short": "Cavaliers",
+         "abbr": "CLE",
+         "score": 121,
+         "ha": "home",
+         "winner": false,
+         "linescores": [
+          0,
+          0,
+          0,
+          0
+         ]
+        }
+       ],
+       "stat": {
+        "v": 18,
+        "name": "Cameron Boozer"
+       }
+      },
+      "source": "espn"
+     }
+    ],
+    "sport": "NBA",
+    "ticket": "single"
+   }
+  },
+  {
+   "n": 901,
+   "league": "NBA",
+   "type": "Player Prop",
+   "matchup": "Portland Trail Blazers @ Milwaukee Bucks",
+   "pick": "Deni Avdija Under 6.5 rebounds",
+   "odds": 110,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-19T17:10:00",
+   "timed": true,
+   "ticket": "single",
+   "espn": {
+    "legs": [
+     {
+      "kind": "prop",
+      "player": "Deni Avdija",
+      "ou": "U",
+      "line": 6.5,
+      "stat": "rebounds",
+      "label": "Deni Avdija U 6.5 rebounds",
       "date": "20261119",
       "unverified": true,
       "reason": "Player not found in this game"
@@ -2439,10 +2542,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P1 15:11",
+       "detail": "P1 13:59",
        "start": "2026-11-20T00:00:00Z",
        "period": 1,
-       "clock": "15:11",
+       "clock": "13:59",
        "teams": [
         {
          "name": "Islanders",
@@ -2502,16 +2605,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "19:13 - 2nd",
+       "detail": "17:52 - 2nd",
        "start": "2026-11-19T23:00Z",
        "period": 2,
-       "clock": "19:13",
+       "clock": "17:52",
        "teams": [
         {
          "name": "Murray State Racers",
          "short": "Racers",
          "abbr": "MUR",
-         "score": 30,
+         "score": 32,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -2566,16 +2669,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "11:44 - 1st",
+       "detail": "11:06 - 1st",
        "start": "2026-11-20T00:00Z",
        "period": 1,
-       "clock": "11:44",
+       "clock": "11:06",
        "teams": [
         {
          "name": "Maine Black Bears",
          "short": "Black Bears",
          "abbr": "ME",
-         "score": 14,
+         "score": 16,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -2586,7 +2689,7 @@
          "name": "Quinnipiac Bobcats",
          "short": "Bobcats",
          "abbr": "QUIN",
-         "score": 8,
+         "score": 10,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -2628,10 +2731,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P1 13:07",
+       "detail": "P1 11:49",
        "start": "2026-11-20T00:00:00Z",
        "period": 1,
-       "clock": "13:07",
+       "clock": "11:49",
        "teams": [
         {
          "name": "Blues",
@@ -2646,7 +2749,7 @@
          "name": "Penguins",
          "short": "PIT",
          "abbr": "PIT",
-         "score": 0,
+         "score": 1,
          "ha": "home",
          "winner": null,
          "linescores": []
