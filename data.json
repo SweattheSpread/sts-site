@@ -1,5 +1,5 @@
 {
- "updated": "Nov 19, 2026, 4:09 PM PT",
+ "updated": "Nov 19, 2026, 4:11 PM PT",
  "record": {
   "w": 203,
   "l": 200,
@@ -127,193 +127,6 @@
   }
  ],
  "picks": [
-  {
-   "n": 876,
-   "league": "NHL",
-   "type": "Prop",
-   "matchup": "Los Angeles Kings @ Toronto Maple Leafs",
-   "pick": "Jack Roslovic Over 2.5 shots on goal",
-   "odds": 140,
-   "units": 1.0,
-   "gap": null,
-   "start": "2026-11-19T16:10:00",
-   "timed": true,
-   "ticket": "single",
-   "espn": {
-    "legs": [
-     {
-      "kind": "prop",
-      "player": "Jack Roslovic",
-      "ou": "O",
-      "line": 2.5,
-      "stat": "shots on goal",
-      "label": "Jack Roslovic O 2.5 shots on goal",
-      "path": "hockey/nhl",
-      "event": "401892742",
-      "date": "20261119",
-      "snapshot": {
-       "source": "nhl",
-       "state": "in",
-       "detail": "P1 19:41",
-       "start": "2026-11-20T00:00:00Z",
-       "period": 1,
-       "clock": "19:41",
-       "teams": [
-        {
-         "name": "Kings",
-         "short": "LAK",
-         "abbr": "LAK",
-         "score": 0,
-         "ha": "away",
-         "winner": null,
-         "linescores": []
-        },
-        {
-         "name": "Maple Leafs",
-         "short": "TOR",
-         "abbr": "TOR",
-         "score": 0,
-         "ha": "home",
-         "winner": null,
-         "linescores": []
-        }
-       ],
-       "nhl_id": 2026020347,
-       "stat": {
-        "v": 0,
-        "name": "J. Roslovic"
-       }
-      },
-      "source": "nhl"
-     }
-    ],
-    "sport": "NHL",
-    "ticket": "single"
-   }
-  },
-  {
-   "n": 877,
-   "league": "NHL",
-   "type": "Prop",
-   "matchup": "New York Islanders @ Winnipeg Jets",
-   "pick": "Kyle Connor Over 3.5 shots on goal",
-   "odds": -105,
-   "units": 1.0,
-   "gap": null,
-   "start": "2026-11-19T16:10:00",
-   "timed": true,
-   "ticket": "single",
-   "espn": {
-    "legs": [
-     {
-      "kind": "prop",
-      "player": "Kyle Connor",
-      "ou": "O",
-      "line": 3.5,
-      "stat": "shots on goal",
-      "label": "Kyle Connor O 3.5 shots on goal",
-      "path": "hockey/nhl",
-      "event": "401892749",
-      "date": "20261119",
-      "snapshot": {
-       "source": "nhl",
-       "state": "in",
-       "detail": "P1 19:43",
-       "start": "2026-11-20T00:00:00Z",
-       "period": 1,
-       "clock": "19:43",
-       "teams": [
-        {
-         "name": "Islanders",
-         "short": "NYI",
-         "abbr": "NYI",
-         "score": 0,
-         "ha": "away",
-         "winner": null,
-         "linescores": []
-        },
-        {
-         "name": "Jets",
-         "short": "WPG",
-         "abbr": "WPG",
-         "score": 0,
-         "ha": "home",
-         "winner": null,
-         "linescores": []
-        }
-       ],
-       "nhl_id": 2026020354,
-       "stat": {
-        "v": 0,
-        "name": "K. Connor"
-       }
-      },
-      "source": "nhl"
-     }
-    ],
-    "sport": "NHL",
-    "ticket": "single"
-   }
-  },
-  {
-   "n": 894,
-   "league": "NHL",
-   "type": "Over/Under",
-   "matchup": "St Louis Blues @ Pittsburgh Penguins",
-   "pick": "Rickard Rakell Under 2.5 shots on goal",
-   "odds": 100,
-   "units": 1.0,
-   "gap": null,
-   "start": "2026-11-19T16:10:00",
-   "timed": true,
-   "ticket": "single",
-   "espn": {
-    "legs": [
-     {
-      "kind": "team_total",
-      "side": "Rickard Rakell",
-      "ou": "U",
-      "line": 2.5,
-      "label": "Rickard Rakell U 2.5",
-      "path": "hockey/nhl",
-      "event": "401892745",
-      "date": "20261119",
-      "snapshot": {
-       "source": "nhl",
-       "state": "in",
-       "detail": "P1 20:00",
-       "start": "2026-11-20T00:00:00Z",
-       "period": 1,
-       "clock": "20:00",
-       "teams": [
-        {
-         "name": "Blues",
-         "short": "STL",
-         "abbr": "STL",
-         "score": 0,
-         "ha": "away",
-         "winner": null,
-         "linescores": []
-        },
-        {
-         "name": "Penguins",
-         "short": "PIT",
-         "abbr": "PIT",
-         "score": 0,
-         "ha": "home",
-         "winner": null,
-         "linescores": []
-        }
-       ],
-       "nhl_id": 2026020350
-      },
-      "source": "nhl"
-     }
-    ],
-    "sport": "NHL",
-    "ticket": "single"
-   }
-  },
   {
    "n": 886,
    "league": "NCAAB",
@@ -546,10 +359,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P1 20:00",
+       "detail": "P1 19:12",
        "start": "2026-11-20T00:00:00Z",
        "period": 1,
-       "clock": "20:00",
+       "clock": "19:12",
        "teams": [
         {
          "name": "Blues",
@@ -722,10 +535,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P1 20:00",
+       "detail": "P1 19:12",
        "start": "2026-11-20T00:00:00Z",
        "period": 1,
-       "clock": "20:00",
+       "clock": "19:12",
        "teams": [
         {
          "name": "Blues",
@@ -2536,6 +2349,134 @@
  ],
  "awaiting": [
   {
+   "n": 876,
+   "league": "NHL",
+   "type": "Prop",
+   "matchup": "Los Angeles Kings @ Toronto Maple Leafs",
+   "pick": "Jack Roslovic Over 2.5 shots on goal",
+   "odds": 140,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-19T16:10:00",
+   "timed": true,
+   "ticket": "single",
+   "espn": {
+    "legs": [
+     {
+      "kind": "prop",
+      "player": "Jack Roslovic",
+      "ou": "O",
+      "line": 2.5,
+      "stat": "shots on goal",
+      "label": "Jack Roslovic O 2.5 shots on goal",
+      "path": "hockey/nhl",
+      "event": "401892742",
+      "date": "20261119",
+      "snapshot": {
+       "source": "nhl",
+       "state": "in",
+       "detail": "P1 18:01",
+       "start": "2026-11-20T00:00:00Z",
+       "period": 1,
+       "clock": "18:01",
+       "teams": [
+        {
+         "name": "Kings",
+         "short": "LAK",
+         "abbr": "LAK",
+         "score": 0,
+         "ha": "away",
+         "winner": null,
+         "linescores": []
+        },
+        {
+         "name": "Maple Leafs",
+         "short": "TOR",
+         "abbr": "TOR",
+         "score": 0,
+         "ha": "home",
+         "winner": null,
+         "linescores": []
+        }
+       ],
+       "nhl_id": 2026020347,
+       "stat": {
+        "v": 0,
+        "name": "J. Roslovic"
+       }
+      },
+      "source": "nhl"
+     }
+    ],
+    "sport": "NHL",
+    "ticket": "single"
+   }
+  },
+  {
+   "n": 877,
+   "league": "NHL",
+   "type": "Prop",
+   "matchup": "New York Islanders @ Winnipeg Jets",
+   "pick": "Kyle Connor Over 3.5 shots on goal",
+   "odds": -105,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-19T16:10:00",
+   "timed": true,
+   "ticket": "single",
+   "espn": {
+    "legs": [
+     {
+      "kind": "prop",
+      "player": "Kyle Connor",
+      "ou": "O",
+      "line": 3.5,
+      "stat": "shots on goal",
+      "label": "Kyle Connor O 3.5 shots on goal",
+      "path": "hockey/nhl",
+      "event": "401892749",
+      "date": "20261119",
+      "snapshot": {
+       "source": "nhl",
+       "state": "in",
+       "detail": "P1 17:57",
+       "start": "2026-11-20T00:00:00Z",
+       "period": 1,
+       "clock": "17:57",
+       "teams": [
+        {
+         "name": "Islanders",
+         "short": "NYI",
+         "abbr": "NYI",
+         "score": 0,
+         "ha": "away",
+         "winner": null,
+         "linescores": []
+        },
+        {
+         "name": "Jets",
+         "short": "WPG",
+         "abbr": "WPG",
+         "score": 0,
+         "ha": "home",
+         "winner": null,
+         "linescores": []
+        }
+       ],
+       "nhl_id": 2026020354,
+       "stat": {
+        "v": 0,
+        "name": "K. Connor"
+       }
+      },
+      "source": "nhl"
+     }
+    ],
+    "sport": "NHL",
+    "ticket": "single"
+   }
+  },
+  {
    "n": 890,
    "league": "NCAAB",
    "type": "Over/Under",
@@ -2623,16 +2564,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "16:09 - 1st",
+       "detail": "14:15 - 1st",
        "start": "2026-11-20T00:00Z",
        "period": 1,
-       "clock": "16:09",
+       "clock": "14:15",
        "teams": [
         {
          "name": "Maine Black Bears",
          "short": "Black Bears",
          "abbr": "ME",
-         "score": 6,
+         "score": 11,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -2656,6 +2597,65 @@
      }
     ],
     "sport": "NCAAB",
+    "ticket": "single"
+   }
+  },
+  {
+   "n": 894,
+   "league": "NHL",
+   "type": "Over/Under",
+   "matchup": "St Louis Blues @ Pittsburgh Penguins",
+   "pick": "Rickard Rakell Under 2.5 shots on goal",
+   "odds": 100,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-19T16:10:00",
+   "timed": true,
+   "ticket": "single",
+   "espn": {
+    "legs": [
+     {
+      "kind": "team_total",
+      "side": "Rickard Rakell",
+      "ou": "U",
+      "line": 2.5,
+      "label": "Rickard Rakell U 2.5",
+      "path": "hockey/nhl",
+      "event": "401892745",
+      "date": "20261119",
+      "snapshot": {
+       "source": "nhl",
+       "state": "in",
+       "detail": "P1 19:12",
+       "start": "2026-11-20T00:00:00Z",
+       "period": 1,
+       "clock": "19:12",
+       "teams": [
+        {
+         "name": "Blues",
+         "short": "STL",
+         "abbr": "STL",
+         "score": 0,
+         "ha": "away",
+         "winner": null,
+         "linescores": []
+        },
+        {
+         "name": "Penguins",
+         "short": "PIT",
+         "abbr": "PIT",
+         "score": 0,
+         "ha": "home",
+         "winner": null,
+         "linescores": []
+        }
+       ],
+       "nhl_id": 2026020350
+      },
+      "source": "nhl"
+     }
+    ],
+    "sport": "NHL",
     "ticket": "single"
    }
   }
