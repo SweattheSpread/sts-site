@@ -1,5 +1,5 @@
 {
- "updated": "Nov 19, 2026, 8:31 PM PT",
+ "updated": "Nov 19, 2026, 8:33 PM PT",
  "record": {
   "w": 203,
   "l": 200,
@@ -1825,10 +1825,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P2 16:26",
+       "detail": "P2 13:56",
        "start": "2026-11-20T02:40:00Z",
        "period": 2,
-       "clock": "16:26",
+       "clock": "13:56",
        "teams": [
         {
          "name": "Canucks",
@@ -1888,10 +1888,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P3 03:04",
+       "detail": "P3 00:59",
        "start": "2026-11-20T02:00:00Z",
        "period": 3,
-       "clock": "03:04",
+       "clock": "00:59",
        "teams": [
         {
          "name": "Ducks",
@@ -2075,11 +2075,11 @@
       "date": "20261119",
       "snapshot": {
        "source": "espn",
-       "state": "in",
-       "detail": "End of 2nd",
+       "state": "post",
+       "detail": "Final",
        "start": "2026-11-20T02:00Z",
-       "period": 2,
-       "clock": "0:00",
+       "period": null,
+       "clock": null,
        "teams": [
         {
          "name": "UTEP Miners",
@@ -2087,7 +2087,7 @@
          "abbr": "UTEP",
          "score": 84,
          "ha": "away",
-         "winner": null,
+         "winner": true,
          "linescores": [
           0,
           0
@@ -2099,7 +2099,7 @@
          "abbr": "NMSU",
          "score": 69,
          "ha": "home",
-         "winner": null,
+         "winner": false,
          "linescores": [
           0,
           0
@@ -2139,10 +2139,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "10:11 - 2nd",
+       "detail": "9:03 - 2nd",
        "start": "2026-11-20T03:00Z",
        "period": 2,
-       "clock": "10:11",
+       "clock": "9:03",
        "teams": [
         {
          "name": "Sacramento State Hornets",
@@ -2160,7 +2160,7 @@
          "name": "Stanford Cardinal",
          "short": "Cardinal",
          "abbr": "STAN",
-         "score": 56,
+         "score": 59,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -2576,10 +2576,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P3 03:04",
+       "detail": "P3 00:59",
        "start": "2026-11-20T02:00:00Z",
        "period": 3,
-       "clock": "03:04",
+       "clock": "00:59",
        "teams": [
         {
          "name": "Ducks",
@@ -2635,10 +2635,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P2 04:28",
+       "detail": "P2 02:01",
        "start": "2026-11-20T03:00:00Z",
        "period": 2,
-       "clock": "04:28",
+       "clock": "02:01",
        "teams": [
         {
          "name": "Stars",
