@@ -1,5 +1,5 @@
 {
- "updated": "Nov 20, 2026, 1:46 PM PT",
+ "updated": "Nov 20, 2026, 1:49 PM PT",
  "record": {
   "w": 214,
   "l": 216,
@@ -2118,16 +2118,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "4:09 - 2nd",
+       "detail": "3:34 - 2nd",
        "start": "2026-11-20T20:00Z",
        "period": 2,
-       "clock": "4:09",
+       "clock": "3:34",
        "teams": [
         {
          "name": "Northwestern Wildcats",
          "short": "Wildcats",
          "abbr": "NU",
-         "score": 60,
+         "score": 61,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -2139,7 +2139,7 @@
          "name": "Virginia Tech Hokies",
          "short": "Hokies",
          "abbr": "VT",
-         "score": 81,
+         "score": 83,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -2181,10 +2181,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "13:42 - 1st",
+       "detail": "12:00 - 1st",
        "start": "2026-11-20T21:30Z",
        "period": 1,
-       "clock": "13:42",
+       "clock": "12:00",
        "teams": [
         {
          "name": "Rhode Island Rams",
