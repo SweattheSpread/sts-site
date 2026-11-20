@@ -1,5 +1,5 @@
 {
- "updated": "Nov 20, 2026, 3:21 PM PT",
+ "updated": "Nov 20, 2026, 3:24 PM PT",
  "record": {
   "w": 214,
   "l": 216,
@@ -11,7 +11,7 @@
   "first": "2026-10-12",
   "last": "2026-11-19"
  },
- "pending": 40,
+ "pending": 41,
  "latest": [
   {
    "n": 904,
@@ -401,6 +401,36 @@
        }
       },
       "source": "espn"
+     }
+    ],
+    "sport": "NBA",
+    "ticket": "single"
+   }
+  },
+  {
+   "n": 924,
+   "league": "NBA",
+   "type": "Player Prop",
+   "matchup": "New Orleans Pelicans @ Oklahoma City Thunder",
+   "pick": "Shai Gilgeous-Alexander Under 5.5 assists",
+   "odds": -120,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-20T17:10:00",
+   "timed": true,
+   "ticket": "single",
+   "espn": {
+    "legs": [
+     {
+      "kind": "prop",
+      "player": "Shai Gilgeous-Alexander",
+      "ou": "U",
+      "line": 5.5,
+      "stat": "assists",
+      "label": "Shai Gilgeous-Alexander U 5.5 assists",
+      "date": "20261120",
+      "unverified": true,
+      "reason": "Player not found in this game"
      }
     ],
     "sport": "NBA",
@@ -2121,16 +2151,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "3:04 - 1st",
+       "detail": "2:37 - 1st",
        "start": "2026-11-20T22:30Z",
        "period": 1,
-       "clock": "3:04",
+       "clock": "2:37",
        "teams": [
         {
          "name": "Mercyhurst Lakers",
          "short": "Lakers",
          "abbr": "MERC",
-         "score": 18,
+         "score": 19,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -2245,16 +2275,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "1:49 - 2nd",
+       "detail": "0:57 - 2nd",
        "start": "2026-11-20T21:30Z",
        "period": 2,
-       "clock": "1:49",
+       "clock": "0:57",
        "teams": [
         {
          "name": "Rhode Island Rams",
          "short": "Rams",
          "abbr": "URI",
-         "score": 64,
+         "score": 67,
          "ha": "away",
          "winner": null,
          "linescores": [
