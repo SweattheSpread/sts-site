@@ -1,5 +1,5 @@
 {
- "updated": "Nov 20, 2026, 3:45 PM PT",
+ "updated": "Nov 20, 2026, 3:48 PM PT",
  "record": {
   "w": 214,
   "l": 216,
@@ -11,7 +11,7 @@
   "first": "2026-10-12",
   "last": "2026-11-19"
  },
- "pending": 41,
+ "pending": 42,
  "latest": [
   {
    "n": 904,
@@ -428,6 +428,36 @@
       "line": 5.5,
       "stat": "assists",
       "label": "Shai Gilgeous-Alexander U 5.5 assists",
+      "date": "20261120",
+      "unverified": true,
+      "reason": "Player not found in this game"
+     }
+    ],
+    "sport": "NBA",
+    "ticket": "single"
+   }
+  },
+  {
+   "n": 925,
+   "league": "NBA",
+   "type": "Player Prop",
+   "matchup": "Washington Wizards @ Chicago Bulls",
+   "pick": "Matas Buzelis Under 2.5 threes",
+   "odds": -115,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-20T17:10:00",
+   "timed": true,
+   "ticket": "single",
+   "espn": {
+    "legs": [
+     {
+      "kind": "prop",
+      "player": "Matas Buzelis",
+      "ou": "U",
+      "line": 2.5,
+      "stat": "threes",
+      "label": "Matas Buzelis U 2.5 threes",
       "date": "20261120",
       "unverified": true,
       "reason": "Player not found in this game"
@@ -2151,10 +2181,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "Halftime",
+       "detail": "19:13 - 2nd",
        "start": "2026-11-20T22:30Z",
-       "period": 1,
-       "clock": "0:00",
+       "period": 2,
+       "clock": "19:13",
        "teams": [
         {
          "name": "Mercyhurst Lakers",
@@ -2164,6 +2194,7 @@
          "ha": "away",
          "winner": null,
          "linescores": [
+          0,
           0
          ]
         },
@@ -2171,10 +2202,11 @@
          "name": "Canisius Golden Griffins",
          "short": "Golden Griffins",
          "abbr": "CAN",
-         "score": 33,
+         "score": 35,
          "ha": "home",
          "winner": null,
          "linescores": [
+          0,
           0
          ]
         }
