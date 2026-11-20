@@ -1,5 +1,5 @@
 {
- "updated": "Nov 19, 2026, 8:04 PM PT",
+ "updated": "Nov 19, 2026, 8:07 PM PT",
  "record": {
   "w": 203,
   "l": 200,
@@ -1362,11 +1362,11 @@
       "date": "20261119",
       "snapshot": {
        "source": "espn",
-       "state": "in",
-       "detail": "2:00 - 4th",
+       "state": "post",
+       "detail": "Final",
        "start": "2026-11-20T01:15Z",
-       "period": 4,
-       "clock": "2:00",
+       "period": null,
+       "clock": null,
        "teams": [
         {
          "name": "Indianapolis Colts",
@@ -1374,7 +1374,7 @@
          "abbr": "IND",
          "score": 3,
          "ha": "away",
-         "winner": null,
+         "winner": false,
          "linescores": [
           0,
           0,
@@ -1388,7 +1388,7 @@
          "abbr": "HOU",
          "score": 26,
          "ha": "home",
-         "winner": null,
+         "winner": true,
          "linescores": [
           0,
           0,
@@ -1429,11 +1429,11 @@
       "date": "20261119",
       "snapshot": {
        "source": "espn",
-       "state": "in",
-       "detail": "2:00 - 4th",
+       "state": "post",
+       "detail": "Final",
        "start": "2026-11-20T01:15Z",
-       "period": 4,
-       "clock": "2:00",
+       "period": null,
+       "clock": null,
        "teams": [
         {
          "name": "Indianapolis Colts",
@@ -1441,7 +1441,7 @@
          "abbr": "IND",
          "score": 3,
          "ha": "away",
-         "winner": null,
+         "winner": false,
          "linescores": [
           0,
           0,
@@ -1455,7 +1455,7 @@
          "abbr": "HOU",
          "score": 26,
          "ha": "home",
-         "winner": null,
+         "winner": true,
          "linescores": [
           0,
           0,
@@ -1825,10 +1825,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P2 12:07",
+       "detail": "P2 11:06",
        "start": "2026-11-20T02:40:00Z",
        "period": 2,
-       "clock": "12:07",
+       "clock": "11:06",
        "teams": [
         {
          "name": "Canucks",
@@ -1843,7 +1843,7 @@
          "name": "Kraken",
          "short": "SEA",
          "abbr": "SEA",
-         "score": 1,
+         "score": 2,
          "ha": "home",
          "winner": null,
          "linescores": []
@@ -1888,10 +1888,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P3 17:35",
+       "detail": "P3 16:23",
        "start": "2026-11-20T02:00:00Z",
        "period": 3,
-       "clock": "17:35",
+       "clock": "16:23",
        "teams": [
         {
          "name": "Ducks",
@@ -2076,16 +2076,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "7:12 - 2nd",
+       "detail": "5:48 - 2nd",
        "start": "2026-11-20T02:00Z",
        "period": 2,
-       "clock": "7:12",
+       "clock": "5:48",
        "teams": [
         {
          "name": "UTEP Miners",
          "short": "Miners",
          "abbr": "UTEP",
-         "score": 74,
+         "score": 75,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -2097,7 +2097,7 @@
          "name": "New Mexico State Aggies",
          "short": "Aggies",
          "abbr": "NMSU",
-         "score": 59,
+         "score": 62,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -2139,10 +2139,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "Halftime",
+       "detail": "20:00 - 2nd",
        "start": "2026-11-20T03:00Z",
-       "period": 1,
-       "clock": "0:00",
+       "period": 2,
+       "clock": "20:00",
        "teams": [
         {
          "name": "Sacramento State Hornets",
@@ -2574,10 +2574,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P3 17:35",
+       "detail": "P3 16:23",
        "start": "2026-11-20T02:00:00Z",
        "period": 3,
-       "clock": "17:35",
+       "clock": "16:23",
        "teams": [
         {
          "name": "Ducks",
@@ -2633,10 +2633,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P2 16:39",
+       "detail": "P2 15:04",
        "start": "2026-11-20T03:00:00Z",
        "period": 2,
-       "clock": "16:39",
+       "clock": "15:04",
        "teams": [
         {
          "name": "Stars",
@@ -3036,49 +3036,36 @@
       "line": 27.5,
       "stat": "rushing yards",
       "label": "Seth McGowan O 27.5 rushing yards",
-      "path": "football/nfl",
-      "event": "401873066",
       "date": "20261119",
+      "unverified": true,
+      "reason": "Player not found in this game",
       "snapshot": {
-       "source": "espn",
-       "state": "in",
-       "detail": "2:00 - 4th",
-       "start": "2026-11-20T01:15Z",
-       "period": 4,
-       "clock": "2:00",
+       "source": "odds-api",
+       "state": "post",
+       "detail": "Final",
+       "start": "2026-11-20T01:15:44Z",
        "teams": [
         {
          "name": "Indianapolis Colts",
-         "short": "Colts",
-         "abbr": "IND",
+         "short": "Indianapolis Colts",
+         "abbr": "",
          "score": 3,
          "ha": "away",
-         "winner": null,
-         "linescores": [
-          0,
-          0,
-          0,
-          0
-         ]
+         "winner": false,
+         "linescores": []
         },
         {
          "name": "Houston Texans",
-         "short": "Texans",
-         "abbr": "HOU",
+         "short": "Houston Texans",
+         "abbr": "",
          "score": 26,
          "ha": "home",
-         "winner": null,
-         "linescores": [
-          0,
-          0,
-          0,
-          0
-         ]
+         "winner": true,
+         "linescores": []
         }
-       ],
-       "stat": null
+       ]
       },
-      "source": "espn"
+      "source": "odds-api"
      }
     ],
     "sport": "NFL",
@@ -3106,49 +3093,36 @@
       "line": 95.5,
       "stat": "rushing yards live",
       "label": "David Montgomery O 95.5 rushing yards live",
-      "path": "football/nfl",
-      "event": "401873066",
       "date": "20261119",
+      "unverified": true,
+      "reason": "Player not found in this game",
       "snapshot": {
-       "source": "espn",
-       "state": "in",
-       "detail": "2:00 - 4th",
-       "start": "2026-11-20T01:15Z",
-       "period": 4,
-       "clock": "2:00",
+       "source": "odds-api",
+       "state": "post",
+       "detail": "Final",
+       "start": "2026-11-20T01:15:44Z",
        "teams": [
         {
          "name": "Indianapolis Colts",
-         "short": "Colts",
-         "abbr": "IND",
+         "short": "Indianapolis Colts",
+         "abbr": "",
          "score": 3,
          "ha": "away",
-         "winner": null,
-         "linescores": [
-          0,
-          0,
-          0,
-          0
-         ]
+         "winner": false,
+         "linescores": []
         },
         {
          "name": "Houston Texans",
-         "short": "Texans",
-         "abbr": "HOU",
+         "short": "Houston Texans",
+         "abbr": "",
          "score": 26,
          "ha": "home",
-         "winner": null,
-         "linescores": [
-          0,
-          0,
-          0,
-          0
-         ]
+         "winner": true,
+         "linescores": []
         }
-       ],
-       "stat": null
+       ]
       },
-      "source": "espn"
+      "source": "odds-api"
      }
     ],
     "sport": "NFL",
