@@ -1,5 +1,5 @@
 {
- "updated": "Nov 19, 2026, 4:29 PM PT",
+ "updated": "Nov 19, 2026, 4:31 PM PT",
  "record": {
   "w": 203,
   "l": 200,
@@ -127,64 +127,6 @@
   }
  ],
  "picks": [
-  {
-   "n": 886,
-   "league": "NCAAB",
-   "type": "Over/Under",
-   "matchup": "Charleston Cougars @ Drake Bulldogs",
-   "pick": "Under 158.5",
-   "odds": -110,
-   "units": 3.0,
-   "gap": null,
-   "start": "2026-11-19T16:30:00",
-   "timed": true,
-   "ticket": "single",
-   "espn": {
-    "legs": [
-     {
-      "kind": "total",
-      "side": null,
-      "ou": "U",
-      "line": 158.5,
-      "label": "U 158.5",
-      "path": "basketball/mens-college-basketball",
-      "event": "401926814",
-      "date": "20261119",
-      "snapshot": {
-       "source": "espn",
-       "state": "pre",
-       "detail": "11/19 - 7:30 PM EST",
-       "start": "2026-11-20T00:30Z",
-       "period": null,
-       "clock": null,
-       "teams": [
-        {
-         "name": "Charleston Cougars",
-         "short": "Cougars",
-         "abbr": "COFC",
-         "score": 0,
-         "ha": "away",
-         "winner": null,
-         "linescores": []
-        },
-        {
-         "name": "Drake Bulldogs",
-         "short": "Bulldogs",
-         "abbr": "DRKE",
-         "score": 0,
-         "ha": "home",
-         "winner": null,
-         "linescores": []
-        }
-       ]
-      },
-      "source": "espn"
-     }
-    ],
-    "sport": "NCAAB",
-    "ticket": "single"
-   }
-  },
   {
    "n": 875,
    "league": "NHL",
@@ -359,10 +301,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P1 09:15",
+       "detail": "P1 07:43",
        "start": "2026-11-20T00:00:00Z",
        "period": 1,
-       "clock": "09:15",
+       "clock": "07:43",
        "teams": [
         {
          "name": "Blues",
@@ -535,10 +477,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P1 09:15",
+       "detail": "P1 07:43",
        "start": "2026-11-20T00:00:00Z",
        "period": 1,
-       "clock": "09:15",
+       "clock": "07:43",
        "teams": [
         {
          "name": "Blues",
@@ -2478,10 +2420,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P1 08:37",
+       "detail": "P1 07:22",
        "start": "2026-11-20T00:00:00Z",
        "period": 1,
-       "clock": "08:37",
+       "clock": "07:22",
        "teams": [
         {
          "name": "Kings",
@@ -2542,10 +2484,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P1 09:36",
+       "detail": "P1 09:18",
        "start": "2026-11-20T00:00:00Z",
        "period": 1,
-       "clock": "09:36",
+       "clock": "09:18",
        "teams": [
         {
          "name": "Islanders",
@@ -2580,6 +2522,64 @@
    }
   },
   {
+   "n": 886,
+   "league": "NCAAB",
+   "type": "Over/Under",
+   "matchup": "Charleston Cougars @ Drake Bulldogs",
+   "pick": "Under 158.5",
+   "odds": -110,
+   "units": 3.0,
+   "gap": null,
+   "start": "2026-11-19T16:30:00",
+   "timed": true,
+   "ticket": "single",
+   "espn": {
+    "legs": [
+     {
+      "kind": "total",
+      "side": null,
+      "ou": "U",
+      "line": 158.5,
+      "label": "U 158.5",
+      "path": "basketball/mens-college-basketball",
+      "event": "401926814",
+      "date": "20261119",
+      "snapshot": {
+       "source": "espn",
+       "state": "pre",
+       "detail": "11/19 - 7:30 PM EST",
+       "start": "2026-11-20T00:30Z",
+       "period": null,
+       "clock": null,
+       "teams": [
+        {
+         "name": "Charleston Cougars",
+         "short": "Cougars",
+         "abbr": "COFC",
+         "score": 0,
+         "ha": "away",
+         "winner": null,
+         "linescores": []
+        },
+        {
+         "name": "Drake Bulldogs",
+         "short": "Bulldogs",
+         "abbr": "DRKE",
+         "score": 0,
+         "ha": "home",
+         "winner": null,
+         "linescores": []
+        }
+       ]
+      },
+      "source": "espn"
+     }
+    ],
+    "sport": "NCAAB",
+    "ticket": "single"
+   }
+  },
+  {
    "n": 890,
    "league": "NCAAB",
    "type": "Over/Under",
@@ -2605,16 +2605,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "15:59 - 2nd",
+       "detail": "15:10 - 2nd",
        "start": "2026-11-19T23:00Z",
        "period": 2,
-       "clock": "15:59",
+       "clock": "15:10",
        "teams": [
         {
          "name": "Murray State Racers",
          "short": "Racers",
          "abbr": "MUR",
-         "score": 32,
+         "score": 38,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -2626,7 +2626,7 @@
          "name": "NC State Wolfpack",
          "short": "Wolfpack",
          "abbr": "NCSU",
-         "score": 55,
+         "score": 57,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -2669,16 +2669,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "6:45 - 1st",
+       "detail": "4:55 - 1st",
        "start": "2026-11-20T00:00Z",
        "period": 1,
-       "clock": "6:45",
+       "clock": "4:55",
        "teams": [
         {
          "name": "Maine Black Bears",
          "short": "Black Bears",
          "abbr": "ME",
-         "score": 23,
+         "score": 27,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -2689,7 +2689,7 @@
          "name": "Quinnipiac Bobcats",
          "short": "Bobcats",
          "abbr": "QUIN",
-         "score": 15,
+         "score": 17,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -2731,10 +2731,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P1 09:15",
+       "detail": "P1 07:43",
        "start": "2026-11-20T00:00:00Z",
        "period": 1,
-       "clock": "09:15",
+       "clock": "07:43",
        "teams": [
         {
          "name": "Blues",
