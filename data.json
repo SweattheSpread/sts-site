@@ -1,5 +1,5 @@
 {
- "updated": "Nov 20, 2026, 8:48 PM PT",
+ "updated": "Nov 20, 2026, 8:51 PM PT",
  "record": {
   "w": 214,
   "l": 216,
@@ -1745,16 +1745,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "5:39 - 4th",
+       "detail": "3:14 - 4th",
        "start": "2026-11-21T02:30Z",
        "period": 4,
-       "clock": "5:39",
+       "clock": "3:14",
        "teams": [
         {
          "name": "Phoenix Suns",
          "short": "Suns",
          "abbr": "PHX",
-         "score": 99,
+         "score": 103,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -1768,7 +1768,7 @@
          "name": "Utah Jazz",
          "short": "Jazz",
          "abbr": "UTAH",
-         "score": 89,
+         "score": 91,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -2807,10 +2807,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "End of 3rd",
+       "detail": "2:32 - 4th",
        "start": "2026-11-21T02:00Z",
-       "period": 3,
-       "clock": "0:00",
+       "period": 4,
+       "clock": "2:32",
        "teams": [
         {
          "name": "New Mexico Lobos",
@@ -2820,6 +2820,7 @@
          "ha": "away",
          "winner": null,
          "linescores": [
+          0,
           0,
           0,
           0
@@ -2833,6 +2834,7 @@
          "ha": "home",
          "winner": null,
          "linescores": [
+          0,
           0,
           0,
           0
@@ -2901,16 +2903,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "3:17 - 3rd",
+       "detail": "2:35 - 3rd",
        "start": "2026-11-21T03:00Z",
        "period": 3,
-       "clock": "3:17",
+       "clock": "2:35",
        "teams": [
         {
          "name": "Houston Rockets",
          "short": "Rockets",
          "abbr": "HOU",
-         "score": 91,
+         "score": 92,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -2923,7 +2925,7 @@
          "name": "Denver Nuggets",
          "short": "Nuggets",
          "abbr": "DEN",
-         "score": 91,
+         "score": 93,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -3174,16 +3176,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "5:39 - 4th",
+       "detail": "3:14 - 4th",
        "start": "2026-11-21T02:30Z",
        "period": 4,
-       "clock": "5:39",
+       "clock": "3:14",
        "teams": [
         {
          "name": "Phoenix Suns",
          "short": "Suns",
          "abbr": "PHX",
-         "score": 99,
+         "score": 103,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -3197,7 +3199,7 @@
          "name": "Utah Jazz",
          "short": "Jazz",
          "abbr": "UTAH",
-         "score": 89,
+         "score": 91,
          "ha": "home",
          "winner": null,
          "linescores": [
