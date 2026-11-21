@@ -1,5 +1,5 @@
 {
- "updated": "Nov 20, 2026, 4:03 PM PT",
+ "updated": "Nov 20, 2026, 4:06 PM PT",
  "record": {
   "w": 214,
   "l": 216,
@@ -11,7 +11,7 @@
   "first": "2026-10-12",
   "last": "2026-11-19"
  },
- "pending": 42,
+ "pending": 43,
  "latest": [
   {
    "n": 904,
@@ -578,6 +578,63 @@
      }
     ],
     "sport": "NCAAB",
+    "ticket": "single"
+   }
+  },
+  {
+   "n": 926,
+   "league": "NCAAF",
+   "type": "Spread",
+   "matchup": "New Mexico Lobos @ Wyoming Cowboys",
+   "pick": "Wyoming Cowboys +10",
+   "odds": -108,
+   "units": 3.0,
+   "gap": null,
+   "start": "2026-11-20T18:00:00",
+   "timed": true,
+   "ticket": "single",
+   "espn": {
+    "legs": [
+     {
+      "kind": "spread",
+      "side": "Wyoming Cowboys",
+      "line": 10.0,
+      "label": "Wyoming Cowboys +10",
+      "path": "football/college-football",
+      "event": "401864542",
+      "date": "20261120",
+      "snapshot": {
+       "source": "espn",
+       "state": "pre",
+       "detail": "11/20 - 9:00 PM EST",
+       "start": "2026-11-21T02:00Z",
+       "period": null,
+       "clock": null,
+       "teams": [
+        {
+         "name": "New Mexico Lobos",
+         "short": "Lobos",
+         "abbr": "UNM",
+         "score": 0,
+         "ha": "away",
+         "winner": null,
+         "linescores": []
+        },
+        {
+         "name": "Wyoming Cowboys",
+         "short": "Cowboys",
+         "abbr": "WYO",
+         "score": 0,
+         "ha": "home",
+         "winner": null,
+         "linescores": []
+        }
+       ]
+      },
+      "source": "espn"
+     }
+    ],
+    "sport": "NCAAF",
     "ticket": "single"
    }
   },
@@ -2124,10 +2181,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "11:47 - 2nd",
+       "detail": "11:30 - 2nd",
        "start": "2026-11-20T22:30Z",
        "period": 2,
-       "clock": "11:47",
+       "clock": "11:30",
        "teams": [
         {
          "name": "Mercyhurst Lakers",
@@ -2313,16 +2370,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "19:38 - 1st",
+       "detail": "17:16 - 1st",
        "start": "2026-11-21T00:00Z",
        "period": 1,
-       "clock": "19:38",
+       "clock": "17:16",
        "teams": [
         {
          "name": "Georgia State Panthers",
          "short": "Panthers",
          "abbr": "GAST",
-         "score": 0,
+         "score": 5,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -2333,7 +2390,7 @@
          "name": "Jacksonville State Gamecocks",
          "short": "Gamecocks",
          "abbr": "JXST",
-         "score": 2,
+         "score": 5,
          "ha": "home",
          "winner": null,
          "linescores": [
