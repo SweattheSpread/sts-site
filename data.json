@@ -1,5 +1,5 @@
 {
- "updated": "Nov 21, 2026, 1:43 PM PT",
+ "updated": "Nov 21, 2026, 1:46 PM PT",
  "record": {
   "w": 224,
   "l": 230,
@@ -152,10 +152,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "9:58 - 4th",
+       "detail": "9:17 - 4th",
        "start": "2026-11-21T19:00Z",
        "period": 4,
-       "clock": "9:58",
+       "clock": "9:17",
        "teams": [
         {
          "name": "Missouri State Bears",
@@ -200,10 +200,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "0:19 - 3rd",
+       "detail": "15:00 - 4th",
        "start": "2026-11-21T19:30Z",
-       "period": 3,
-       "clock": "0:19",
+       "period": 4,
+       "clock": "15:00",
        "teams": [
         {
          "name": "UL Monroe Warhawks",
@@ -213,6 +213,7 @@
          "ha": "away",
          "winner": null,
          "linescores": [
+          0,
           0,
           0,
           0
@@ -226,6 +227,7 @@
          "ha": "home",
          "winner": null,
          "linescores": [
+          0,
           0,
           0,
           0
@@ -2191,10 +2193,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "Halftime",
+       "detail": "18:03 - 2nd",
        "start": "2026-11-21T20:30Z",
-       "period": 1,
-       "clock": "0:00",
+       "period": 2,
+       "clock": "18:03",
        "teams": [
         {
          "name": "Army Black Knights",
@@ -2204,6 +2206,7 @@
          "ha": "away",
          "winner": null,
          "linescores": [
+          0,
           0
          ]
         },
@@ -2211,10 +2214,11 @@
          "name": "Binghamton Bearcats",
          "short": "Bearcats",
          "abbr": "BING",
-         "score": 35,
+         "score": 38,
          "ha": "home",
          "winner": null,
          "linescores": [
+          0,
           0
          ]
         }
@@ -2385,10 +2389,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "Halftime",
+       "detail": "18:03 - 2nd",
        "start": "2026-11-21T20:30Z",
-       "period": 1,
-       "clock": "0:00",
+       "period": 2,
+       "clock": "18:03",
        "teams": [
         {
          "name": "Army Black Knights",
@@ -2398,6 +2402,7 @@
          "ha": "away",
          "winner": null,
          "linescores": [
+          0,
           0
          ]
         },
@@ -2405,10 +2410,11 @@
          "name": "Binghamton Bearcats",
          "short": "Bearcats",
          "abbr": "BING",
-         "score": 35,
+         "score": 38,
          "ha": "home",
          "winner": null,
          "linescores": [
+          0,
           0
          ]
         }
@@ -2715,10 +2721,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "6:05 - 2nd",
+       "detail": "4:13 - 2nd",
        "start": "2026-11-21T20:30Z",
        "period": 2,
-       "clock": "6:05",
+       "clock": "4:13",
        "teams": [
         {
          "name": "UCLA Bruins",
