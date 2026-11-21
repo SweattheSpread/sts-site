@@ -1,5 +1,5 @@
 {
- "updated": "Nov 20, 2026, 7:44 PM PT",
+ "updated": "Nov 20, 2026, 7:47 PM PT",
  "record": {
   "w": 214,
   "l": 216,
@@ -153,10 +153,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "9:35 - 4th",
+       "detail": "8:14 - 4th",
        "start": "2026-11-21T01:00Z",
        "period": 4,
-       "clock": "9:35",
+       "clock": "8:14",
        "teams": [
         {
          "name": "UTEP Miners",
@@ -1937,16 +1937,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "7:51 - 2nd",
+       "detail": "7:27 - 2nd",
        "start": "2026-11-21T02:00Z",
        "period": 2,
-       "clock": "7:51",
+       "clock": "7:27",
        "teams": [
         {
          "name": "Sam Houston Bearkats",
          "short": "Bearkats",
          "abbr": "SHSU",
-         "score": 63,
+         "score": 65,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -2001,16 +2001,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "5:48 - 2nd",
+       "detail": "3:37 - 2nd",
        "start": "2026-11-21T02:00Z",
        "period": 2,
-       "clock": "5:48",
+       "clock": "3:37",
        "teams": [
         {
          "name": "Eastern Illinois Panthers",
          "short": "Panthers",
          "abbr": "EIU",
-         "score": 40,
+         "score": 47,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -2188,16 +2188,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "4:14 - 2nd",
+       "detail": "3:39 - 2nd",
        "start": "2026-11-21T02:00Z",
        "period": 2,
-       "clock": "4:14",
+       "clock": "3:39",
        "teams": [
         {
          "name": "Cal State Bakersfield Roadrunners",
          "short": "Roadrunners",
          "abbr": "CSUB",
-         "score": 71,
+         "score": 72,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -2803,10 +2803,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "0:37 - 2nd",
+       "detail": "Halftime",
        "start": "2026-11-21T02:00Z",
        "period": 2,
-       "clock": "0:37",
+       "clock": "0:00",
        "teams": [
         {
          "name": "New Mexico Lobos",
@@ -2895,16 +2895,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "10:17 - 2nd",
+       "detail": "8:40 - 2nd",
        "start": "2026-11-21T03:00Z",
        "period": 2,
-       "clock": "10:17",
+       "clock": "8:40",
        "teams": [
         {
          "name": "Houston Rockets",
          "short": "Rockets",
          "abbr": "HOU",
-         "score": 37,
+         "score": 42,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -2916,7 +2916,7 @@
          "name": "Denver Nuggets",
          "short": "Nuggets",
          "abbr": "DEN",
-         "score": 38,
+         "score": 40,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -3098,10 +3098,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "9:35 - 4th",
+       "detail": "8:14 - 4th",
        "start": "2026-11-21T01:00Z",
        "period": 4,
-       "clock": "9:35",
+       "clock": "8:14",
        "teams": [
         {
          "name": "UTEP Miners",
