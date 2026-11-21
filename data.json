@@ -1,5 +1,5 @@
 {
- "updated": "Nov 21, 2026, 1:21 PM PT",
+ "updated": "Nov 21, 2026, 1:23 PM PT",
  "record": {
   "w": 224,
   "l": 230,
@@ -11,7 +11,7 @@
   "first": "2026-10-12",
   "last": "2026-11-20"
  },
- "pending": 44,
+ "pending": 43,
  "latest": [
   {
    "n": 933,
@@ -152,10 +152,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "0:45 - 3rd",
+       "detail": "15:00 - 4th",
        "start": "2026-11-21T19:00Z",
-       "period": 3,
-       "clock": "0:45",
+       "period": 4,
+       "clock": "15:00",
        "teams": [
         {
          "name": "Missouri State Bears",
@@ -165,6 +165,7 @@
          "ha": "away",
          "winner": null,
          "linescores": [
+          0,
           0,
           0,
           0
@@ -178,6 +179,7 @@
          "ha": "home",
          "winner": null,
          "linescores": [
+          0,
           0,
           0,
           0
@@ -198,10 +200,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "9:54 - 3rd",
+       "detail": "8:07 - 3rd",
        "start": "2026-11-21T19:30Z",
        "period": 3,
-       "clock": "9:54",
+       "clock": "8:07",
        "teams": [
         {
          "name": "UL Monroe Warhawks",
@@ -1994,10 +1996,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "5:18 - 1st",
+       "detail": "3:12 - 1st",
        "start": "2026-11-21T20:45Z",
        "period": 1,
-       "clock": "5:18",
+       "clock": "3:12",
        "teams": [
         {
          "name": "Texas A&M Aggies",
@@ -2022,7 +2024,10 @@
          ]
         }
        ],
-       "stat": null
+       "stat": {
+        "v": 1,
+        "name": "Mario Craver"
+       }
       },
       "source": "espn"
      }
@@ -2184,10 +2189,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "2:39 - 1st",
+       "detail": "1:28 - 1st",
        "start": "2026-11-21T20:30Z",
        "period": 1,
-       "clock": "2:39",
+       "clock": "1:28",
        "teams": [
         {
          "name": "Army Black Knights",
@@ -2204,7 +2209,7 @@
          "name": "Binghamton Bearcats",
          "short": "Bearcats",
          "abbr": "BING",
-         "score": 32,
+         "score": 34,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -2378,10 +2383,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "2:39 - 1st",
+       "detail": "1:28 - 1st",
        "start": "2026-11-21T20:30Z",
        "period": 1,
-       "clock": "2:39",
+       "clock": "1:28",
        "teams": [
         {
          "name": "Army Black Knights",
@@ -2398,7 +2403,7 @@
          "name": "Binghamton Bearcats",
          "short": "Bearcats",
          "abbr": "BING",
-         "score": 32,
+         "score": 34,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -2667,73 +2672,6 @@
          "short": "Cornhuskers",
          "abbr": "NEB",
          "score": 31,
-         "ha": "home",
-         "winner": true,
-         "linescores": [
-          0,
-          0,
-          0,
-          0
-         ]
-        }
-       ]
-      },
-      "source": "espn"
-     }
-    ],
-    "sport": "NCAAF",
-    "ticket": "single"
-   }
-  },
-  {
-   "n": 952,
-   "league": "NCAAF",
-   "type": "Spread",
-   "matchup": "Western Kentucky Hilltoppers @ Liberty Flames",
-   "pick": "Liberty Flames -35.5",
-   "odds": -114,
-   "units": 3.0,
-   "gap": null,
-   "start": "2026-11-21T10:00:00",
-   "timed": true,
-   "ticket": "single",
-   "espn": {
-    "legs": [
-     {
-      "kind": "spread",
-      "side": "Liberty Flames",
-      "line": -35.5,
-      "label": "Liberty Flames -35.5",
-      "path": "football/college-football",
-      "event": "401871080",
-      "date": "20261121",
-      "snapshot": {
-       "source": "espn",
-       "state": "post",
-       "detail": "Final",
-       "start": "2026-11-21T18:00Z",
-       "period": null,
-       "clock": null,
-       "teams": [
-        {
-         "name": "Western Kentucky Hilltoppers",
-         "short": "Hilltoppers",
-         "abbr": "WKU",
-         "score": 14,
-         "ha": "away",
-         "winner": false,
-         "linescores": [
-          0,
-          0,
-          0,
-          0
-         ]
-        },
-        {
-         "name": "Liberty Flames",
-         "short": "Flames",
-         "abbr": "LIB",
-         "score": 45,
          "ha": "home",
          "winner": true,
          "linescores": [
