@@ -1,5 +1,5 @@
 {
- "updated": "Nov 21, 2026, 10:38 AM PT",
+ "updated": "Nov 21, 2026, 10:41 AM PT",
  "record": {
   "w": 224,
   "l": 230,
@@ -2116,16 +2116,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "4:55 - 2nd",
+       "detail": "3:44 - 2nd",
        "start": "2026-11-21T17:00Z",
        "period": 2,
-       "clock": "4:55",
+       "clock": "3:44",
        "teams": [
         {
          "name": "Columbia Lions",
          "short": "Lions",
          "abbr": "COLU",
-         "score": 49,
+         "score": 50,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -2137,7 +2137,7 @@
          "name": "Boston University Terriers",
          "short": "Terriers",
          "abbr": "BU",
-         "score": 42,
+         "score": 46,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -2253,7 +2253,7 @@
          "name": "Ohio State Buckeyes",
          "short": "Buckeyes",
          "abbr": "OSU",
-         "score": 13,
+         "score": 14,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -2372,16 +2372,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "9:37 - 2nd",
+       "detail": "8:48 - 2nd",
        "start": "2026-11-21T18:00Z",
        "period": 2,
-       "clock": "9:37",
+       "clock": "8:48",
        "teams": [
         {
          "name": "Milwaukee Bucks",
          "short": "Bucks",
          "abbr": "MIL",
-         "score": 36,
+         "score": 41,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -2393,7 +2393,7 @@
          "name": "Philadelphia 76ers",
          "short": "76ers",
          "abbr": "PHI",
-         "score": 33,
+         "score": 35,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -2448,7 +2448,7 @@
          "name": "Ohio State Buckeyes",
          "short": "Buckeyes",
          "abbr": "OSU",
-         "score": 13,
+         "score": 14,
          "ha": "away",
          "winner": null,
          "linescores": [
