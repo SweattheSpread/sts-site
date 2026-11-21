@@ -1,5 +1,5 @@
 {
- "updated": "Nov 20, 2026, 7:13 PM PT",
+ "updated": "Nov 20, 2026, 7:16 PM PT",
  "record": {
   "w": 214,
   "l": 216,
@@ -153,10 +153,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "8:27 - 3rd",
+       "detail": "6:13 - 3rd",
        "start": "2026-11-21T01:00Z",
        "period": 3,
-       "clock": "8:27",
+       "clock": "6:13",
        "teams": [
         {
          "name": "UTEP Miners",
@@ -1743,16 +1743,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "11:57 - 2nd",
+       "detail": "9:26 - 2nd",
        "start": "2026-11-21T02:30Z",
        "period": 2,
-       "clock": "11:57",
+       "clock": "9:26",
        "teams": [
         {
          "name": "Phoenix Suns",
          "short": "Suns",
          "abbr": "PHX",
-         "score": 26,
+         "score": 39,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -1764,7 +1764,7 @@
          "name": "Utah Jazz",
          "short": "Jazz",
          "abbr": "UTAH",
-         "score": 23,
+         "score": 27,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -1935,16 +1935,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "18:53 - 2nd",
+       "detail": "18:41 - 2nd",
        "start": "2026-11-21T02:00Z",
        "period": 2,
-       "clock": "18:53",
+       "clock": "18:41",
        "teams": [
         {
          "name": "Sam Houston Bearkats",
          "short": "Bearkats",
          "abbr": "SHSU",
-         "score": 40,
+         "score": 42,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -1999,19 +1999,20 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "Halftime",
+       "detail": "18:09 - 2nd",
        "start": "2026-11-21T02:00Z",
-       "period": 1,
-       "clock": "0:00",
+       "period": 2,
+       "clock": "18:09",
        "teams": [
         {
          "name": "Eastern Illinois Panthers",
          "short": "Panthers",
          "abbr": "EIU",
-         "score": 18,
+         "score": 22,
          "ha": "away",
          "winner": null,
          "linescores": [
+          0,
           0
          ]
         },
@@ -2019,10 +2020,11 @@
          "name": "Illinois Fighting Illini",
          "short": "Fighting Illini",
          "abbr": "ILL",
-         "score": 68,
+         "score": 74,
          "ha": "home",
          "winner": null,
          "linescores": [
+          0,
           0
          ]
         }
@@ -2184,16 +2186,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "14:07 - 2nd",
+       "detail": "13:00 - 2nd",
        "start": "2026-11-21T02:00Z",
        "period": 2,
-       "clock": "14:07",
+       "clock": "13:00",
        "teams": [
         {
          "name": "Cal State Bakersfield Roadrunners",
          "short": "Roadrunners",
          "abbr": "CSUB",
-         "score": 49,
+         "score": 52,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -2205,7 +2207,7 @@
          "name": "Idaho Vandals",
          "short": "Vandals",
          "abbr": "IDHO",
-         "score": 56,
+         "score": 59,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -2363,10 +2365,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "3:03 - 4th",
+       "detail": "2:01 - 4th",
        "start": "2026-11-21T01:00Z",
        "period": 4,
-       "clock": "3:03",
+       "clock": "2:01",
        "teams": [
         {
          "name": "Washington Wizards",
@@ -2655,16 +2657,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "3:13 - 4th",
+       "detail": "1:49 - 4th",
        "start": "2026-11-21T01:00Z",
        "period": 4,
-       "clock": "3:13",
+       "clock": "1:49",
        "teams": [
         {
          "name": "New Orleans Pelicans",
          "short": "Pelicans",
          "abbr": "NO",
-         "score": 110,
+         "score": 114,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -2678,7 +2680,7 @@
          "name": "Oklahoma City Thunder",
          "short": "Thunder",
          "abbr": "OKC",
-         "score": 114,
+         "score": 116,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -2728,10 +2730,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "3:03 - 4th",
+       "detail": "2:01 - 4th",
        "start": "2026-11-21T01:00Z",
        "period": 4,
-       "clock": "3:03",
+       "clock": "2:01",
        "teams": [
         {
          "name": "Washington Wizards",
@@ -2799,16 +2801,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "6:19 - 2nd",
+       "detail": "6:09 - 2nd",
        "start": "2026-11-21T02:00Z",
        "period": 2,
-       "clock": "6:19",
+       "clock": "6:09",
        "teams": [
         {
          "name": "New Mexico Lobos",
          "short": "Lobos",
          "abbr": "UNM",
-         "score": 10,
+         "score": 17,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -2891,16 +2893,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "11:55 - 1st",
+       "detail": "10:38 - 1st",
        "start": "2026-11-21T03:00Z",
        "period": 1,
-       "clock": "11:55",
+       "clock": "10:38",
        "teams": [
         {
          "name": "Houston Rockets",
          "short": "Rockets",
          "abbr": "HOU",
-         "score": 0,
+         "score": 7,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -2911,7 +2913,7 @@
          "name": "Denver Nuggets",
          "short": "Nuggets",
          "abbr": "DEN",
-         "score": 0,
+         "score": 4,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -3025,16 +3027,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "3:13 - 4th",
+       "detail": "1:49 - 4th",
        "start": "2026-11-21T01:00Z",
        "period": 4,
-       "clock": "3:13",
+       "clock": "1:49",
        "teams": [
         {
          "name": "New Orleans Pelicans",
          "short": "Pelicans",
          "abbr": "NO",
-         "score": 110,
+         "score": 114,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -3048,7 +3050,7 @@
          "name": "Oklahoma City Thunder",
          "short": "Thunder",
          "abbr": "OKC",
-         "score": 114,
+         "score": 116,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -3092,10 +3094,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "8:27 - 3rd",
+       "detail": "6:13 - 3rd",
        "start": "2026-11-21T01:00Z",
        "period": 3,
-       "clock": "8:27",
+       "clock": "6:13",
        "teams": [
         {
          "name": "UTEP Miners",
