@@ -1,5 +1,5 @@
 {
- "updated": "Nov 20, 2026, 8:15 PM PT",
+ "updated": "Nov 20, 2026, 8:18 PM PT",
  "record": {
   "w": 214,
   "l": 216,
@@ -1745,16 +1745,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "4:25 - 3rd",
+       "detail": "3:19 - 3rd",
        "start": "2026-11-21T02:30Z",
        "period": 3,
-       "clock": "4:25",
+       "clock": "3:19",
        "teams": [
         {
          "name": "Phoenix Suns",
          "short": "Suns",
          "abbr": "PHX",
-         "score": 81,
+         "score": 83,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -1939,16 +1939,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "1:26 - 2nd",
+       "detail": "1:05 - 2nd",
        "start": "2026-11-21T02:00Z",
        "period": 2,
-       "clock": "1:26",
+       "clock": "1:05",
        "teams": [
         {
          "name": "Sam Houston Bearkats",
          "short": "Bearkats",
          "abbr": "SHSU",
-         "score": 76,
+         "score": 78,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -1960,7 +1960,7 @@
          "name": "Boise State Broncos",
          "short": "Broncos",
          "abbr": "BOIS",
-         "score": 64,
+         "score": 68,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -2805,10 +2805,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "10:10 - 3rd",
+       "detail": "9:32 - 3rd",
        "start": "2026-11-21T02:00Z",
        "period": 3,
-       "clock": "10:10",
+       "clock": "9:32",
        "teams": [
         {
          "name": "New Mexico Lobos",
@@ -3170,16 +3170,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "4:25 - 3rd",
+       "detail": "3:19 - 3rd",
        "start": "2026-11-21T02:30Z",
        "period": 3,
-       "clock": "4:25",
+       "clock": "3:19",
        "teams": [
         {
          "name": "Phoenix Suns",
          "short": "Suns",
          "abbr": "PHX",
-         "score": 81,
+         "score": 83,
          "ha": "away",
          "winner": null,
          "linescores": [
