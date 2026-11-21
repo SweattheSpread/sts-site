@@ -1,5 +1,5 @@
 {
- "updated": "Nov 21, 2026, 4:49 AM PT",
+ "updated": "Nov 21, 2026, 7:17 AM PT",
  "record": {
   "w": 224,
   "l": 230,
@@ -11,7 +11,7 @@
   "first": "2026-10-12",
   "last": "2026-11-20"
  },
- "pending": 25,
+ "pending": 26,
  "plays": [
   {
    "n": 334,
@@ -7416,6 +7416,22 @@
    "matchup": "Texas A&M Aggies @ Oklahoma Sooners",
    "pick": "Mario Craver (TA&M) Under 4.5 receptions",
    "odds": -102,
+   "units": 1.0,
+   "result": null,
+   "pl": null,
+   "pending": true
+  },
+  {
+   "n": 935,
+   "date": "2026-11-21",
+   "day": "2026-11-21",
+   "league": "NBA",
+   "market": "player_prop",
+   "market_label": "Player Prop",
+   "ticket": "single",
+   "matchup": "Portland Trail Blazers @ New York Knicks",
+   "pick": "Jalen Brunson Over 2.5 rebounds",
+   "odds": -120,
    "units": 1.0,
    "result": null,
    "pl": null,

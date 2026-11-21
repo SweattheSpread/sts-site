@@ -1,5 +1,5 @@
 {
- "updated": "Nov 21, 2026, 4:49 AM PT",
+ "updated": "Nov 21, 2026, 7:17 AM PT",
  "record": {
   "w": 224,
   "l": 230,
@@ -11,7 +11,7 @@
   "first": "2026-10-12",
   "last": "2026-11-20"
  },
- "pending": 25,
+ "pending": 26,
  "latest": [
   {
    "n": 933,
@@ -154,6 +154,36 @@
      }
     ],
     "sport": "NCAAF",
+    "ticket": "single"
+   }
+  },
+  {
+   "n": 935,
+   "league": "NBA",
+   "type": "Player Prop",
+   "matchup": "Portland Trail Blazers @ New York Knicks",
+   "pick": "Jalen Brunson Over 2.5 rebounds",
+   "odds": -120,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-21T16:40:00",
+   "timed": true,
+   "ticket": "single",
+   "espn": {
+    "legs": [
+     {
+      "kind": "prop",
+      "player": "Jalen Brunson",
+      "ou": "O",
+      "line": 2.5,
+      "stat": "rebounds",
+      "label": "Jalen Brunson O 2.5 rebounds",
+      "date": "20261121",
+      "unverified": true,
+      "reason": "Player not found in this game"
+     }
+    ],
+    "sport": "NBA",
     "ticket": "single"
    }
   },
