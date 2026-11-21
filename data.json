@@ -1,5 +1,5 @@
 {
- "updated": "Nov 20, 2026, 4:32 PM PT",
+ "updated": "Nov 20, 2026, 4:35 PM PT",
  "record": {
   "w": 214,
   "l": 216,
@@ -2148,16 +2148,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "1:34 - 2nd",
+       "detail": "1:04 - 2nd",
        "start": "2026-11-20T22:30Z",
        "period": 2,
-       "clock": "1:34",
+       "clock": "1:04",
        "teams": [
         {
          "name": "Mercyhurst Lakers",
          "short": "Lakers",
          "abbr": "MERC",
-         "score": 51,
+         "score": 54,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -2169,7 +2169,7 @@
          "name": "Canisius Golden Griffins",
          "short": "Golden Griffins",
          "abbr": "CAN",
-         "score": 55,
+         "score": 57,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -2357,7 +2357,7 @@
          "name": "Jacksonville State Gamecocks",
          "short": "Gamecocks",
          "abbr": "JXST",
-         "score": 26,
+         "score": 27,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -2400,16 +2400,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "2:24 - 1st",
+       "detail": "1:04 - 1st",
        "start": "2026-11-21T00:00Z",
        "period": 1,
-       "clock": "2:24",
+       "clock": "1:04",
        "teams": [
         {
          "name": "Charlotte Hornets",
          "short": "Hornets",
          "abbr": "CHA",
-         "score": 26,
+         "score": 28,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -2420,7 +2420,7 @@
          "name": "Atlanta Hawks",
          "short": "Hawks",
          "abbr": "ATL",
-         "score": 17,
+         "score": 21,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -2467,16 +2467,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "2:24 - 1st",
+       "detail": "1:04 - 1st",
        "start": "2026-11-21T00:00Z",
        "period": 1,
-       "clock": "2:24",
+       "clock": "1:04",
        "teams": [
         {
          "name": "Charlotte Hornets",
          "short": "Hornets",
          "abbr": "CHA",
-         "score": 26,
+         "score": 28,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -2487,7 +2487,7 @@
          "name": "Atlanta Hawks",
          "short": "Hawks",
          "abbr": "ATL",
-         "score": 17,
+         "score": 21,
          "ha": "home",
          "winner": null,
          "linescores": [
