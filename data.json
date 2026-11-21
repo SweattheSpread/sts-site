@@ -1,5 +1,5 @@
 {
- "updated": "Nov 20, 2026, 5:27 PM PT",
+ "updated": "Nov 20, 2026, 5:30 PM PT",
  "record": {
   "w": 214,
   "l": 216,
@@ -1755,18 +1755,26 @@
        "source": "tennis-explorer",
        "path": "tennis/explorer",
        "event": "3384545",
-       "state": "pre",
-       "detail": "Scheduled",
+       "state": "post",
+       "detail": "Final \u00b7 2-1 sets",
        "tennis": [
         {
          "name": "Justo G.",
-         "winner": false,
-         "sets": []
+         "winner": true,
+         "sets": [
+          6,
+          2,
+          6
+         ]
         },
         {
          "name": "Roncadelli F.",
          "winner": false,
-         "sets": []
+         "sets": [
+          3,
+          6,
+          1
+         ]
         }
        ],
        "tour": "Montevideo challenger"
@@ -2087,10 +2095,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "11:02 - 2nd",
+       "detail": "10:04 - 2nd",
        "start": "2026-11-21T00:00Z",
        "period": 2,
-       "clock": "11:02",
+       "clock": "10:04",
        "teams": [
         {
          "name": "Georgia State Panthers",
@@ -2108,7 +2116,7 @@
          "name": "Jacksonville State Gamecocks",
          "short": "Gamecocks",
          "abbr": "JXST",
-         "score": 51,
+         "score": 53,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -2152,16 +2160,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "4:07 - 2nd",
+       "detail": "2:58 - 2nd",
        "start": "2026-11-21T00:30Z",
        "period": 2,
-       "clock": "4:07",
+       "clock": "2:58",
        "teams": [
         {
          "name": "Indiana Pacers",
          "short": "Pacers",
          "abbr": "IND",
-         "score": 53,
+         "score": 56,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -2173,7 +2181,7 @@
          "name": "Cleveland Cavaliers",
          "short": "Cavaliers",
          "abbr": "CLE",
-         "score": 49,
+         "score": 55,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -2218,10 +2226,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "3:17 - 2nd",
+       "detail": "2:46 - 2nd",
        "start": "2026-11-21T00:30Z",
        "period": 2,
-       "clock": "3:17",
+       "clock": "2:46",
        "teams": [
         {
          "name": "Toronto Raptors",
@@ -2239,7 +2247,7 @@
          "name": "Detroit Pistons",
          "short": "Pistons",
          "abbr": "DET",
-         "score": 40,
+         "score": 42,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -2351,10 +2359,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "3:17 - 2nd",
+       "detail": "2:46 - 2nd",
        "start": "2026-11-21T00:30Z",
        "period": 2,
-       "clock": "3:17",
+       "clock": "2:46",
        "teams": [
         {
          "name": "Toronto Raptors",
@@ -2372,7 +2380,7 @@
          "name": "Detroit Pistons",
          "short": "Pistons",
          "abbr": "DET",
-         "score": 40,
+         "score": 42,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -2420,10 +2428,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "7:02 - 3rd",
+       "detail": "6:24 - 3rd",
        "start": "2026-11-21T00:00Z",
        "period": 3,
-       "clock": "7:02",
+       "clock": "6:24",
        "teams": [
         {
          "name": "Charlotte Hornets",
@@ -2491,10 +2499,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "7:02 - 3rd",
+       "detail": "6:24 - 3rd",
        "start": "2026-11-21T00:00Z",
        "period": 3,
-       "clock": "7:02",
+       "clock": "6:24",
        "teams": [
         {
          "name": "Charlotte Hornets",
@@ -2562,16 +2570,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "4:41 - 1st",
+       "detail": "3:21 - 1st",
        "start": "2026-11-21T01:00Z",
        "period": 1,
-       "clock": "4:41",
+       "clock": "3:21",
        "teams": [
         {
          "name": "New Orleans Pelicans",
          "short": "Pelicans",
          "abbr": "NO",
-         "score": 25,
+         "score": 29,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -2582,7 +2590,7 @@
          "name": "Oklahoma City Thunder",
          "short": "Thunder",
          "abbr": "OKC",
-         "score": 20,
+         "score": 22,
          "ha": "home",
          "winner": null,
          "linescores": [
