@@ -1,5 +1,5 @@
 {
- "updated": "Nov 20, 2026, 5:44 PM PT",
+ "updated": "Nov 20, 2026, 5:47 PM PT",
  "record": {
   "w": 214,
   "l": 216,
@@ -2095,10 +2095,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "4:39 - 2nd",
+       "detail": "3:32 - 2nd",
        "start": "2026-11-21T00:00Z",
        "period": 2,
-       "clock": "4:39",
+       "clock": "3:32",
        "teams": [
         {
          "name": "Georgia State Panthers",
@@ -2116,7 +2116,7 @@
          "name": "Jacksonville State Gamecocks",
          "short": "Gamecocks",
          "abbr": "JXST",
-         "score": 67,
+         "score": 70,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -2292,16 +2292,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "8:46 - 2nd",
+       "detail": "7:35 - 2nd",
        "start": "2026-11-21T01:00Z",
        "period": 2,
-       "clock": "8:46",
+       "clock": "7:35",
        "teams": [
         {
          "name": "Washington Wizards",
          "short": "Wizards",
          "abbr": "WSH",
-         "score": 27,
+         "score": 31,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -2313,7 +2313,7 @@
          "name": "Chicago Bulls",
          "short": "Bulls",
          "abbr": "CHI",
-         "score": 40,
+         "score": 44,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -2430,10 +2430,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "40.7 - 3rd",
+       "detail": "End of 3rd",
        "start": "2026-11-21T00:00Z",
        "period": 3,
-       "clock": "40.7",
+       "clock": "0.0",
        "teams": [
         {
          "name": "Charlotte Hornets",
@@ -2452,7 +2452,7 @@
          "name": "Atlanta Hawks",
          "short": "Hawks",
          "abbr": "ATL",
-         "score": 86,
+         "score": 87,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -2501,10 +2501,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "40.7 - 3rd",
+       "detail": "End of 3rd",
        "start": "2026-11-21T00:00Z",
        "period": 3,
-       "clock": "40.7",
+       "clock": "0.0",
        "teams": [
         {
          "name": "Charlotte Hornets",
@@ -2523,7 +2523,7 @@
          "name": "Atlanta Hawks",
          "short": "Hawks",
          "abbr": "ATL",
-         "score": 86,
+         "score": 87,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -2572,10 +2572,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "8:35 - 2nd",
+       "detail": "8:24 - 2nd",
        "start": "2026-11-21T01:00Z",
        "period": 2,
-       "clock": "8:35",
+       "clock": "8:24",
        "teams": [
         {
          "name": "New Orleans Pelicans",
@@ -2641,16 +2641,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "8:46 - 2nd",
+       "detail": "7:35 - 2nd",
        "start": "2026-11-21T01:00Z",
        "period": 2,
-       "clock": "8:46",
+       "clock": "7:35",
        "teams": [
         {
          "name": "Washington Wizards",
          "short": "Wizards",
          "abbr": "WSH",
-         "score": 27,
+         "score": 31,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -2662,7 +2662,7 @@
          "name": "Chicago Bulls",
          "short": "Bulls",
          "abbr": "CHI",
-         "score": 40,
+         "score": 44,
          "ha": "home",
          "winner": null,
          "linescores": [
