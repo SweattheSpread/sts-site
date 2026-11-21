@@ -1,5 +1,5 @@
 {
- "updated": "Nov 20, 2026, 4:14 PM PT",
+ "updated": "Nov 20, 2026, 4:16 PM PT",
  "record": {
   "w": 214,
   "l": 216,
@@ -2121,16 +2121,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "7:30 - 2nd",
+       "detail": "7:17 - 2nd",
        "start": "2026-11-20T22:30Z",
        "period": 2,
-       "clock": "7:30",
+       "clock": "7:17",
        "teams": [
         {
          "name": "Mercyhurst Lakers",
          "short": "Lakers",
          "abbr": "MERC",
-         "score": 39,
+         "score": 41,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -2310,10 +2310,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "14:23 - 1st",
+       "detail": "13:17 - 1st",
        "start": "2026-11-21T00:00Z",
        "period": 1,
-       "clock": "14:23",
+       "clock": "13:17",
        "teams": [
         {
          "name": "Georgia State Panthers",
@@ -2330,7 +2330,7 @@
          "name": "Jacksonville State Gamecocks",
          "short": "Gamecocks",
          "abbr": "JXST",
-         "score": 11,
+         "score": 13,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -2373,10 +2373,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "9:32 - 1st",
+       "detail": "9:19 - 1st",
        "start": "2026-11-21T00:00Z",
        "period": 1,
-       "clock": "9:32",
+       "clock": "9:19",
        "teams": [
         {
          "name": "Charlotte Hornets",
@@ -2393,7 +2393,7 @@
          "name": "Atlanta Hawks",
          "short": "Hawks",
          "abbr": "ATL",
-         "score": 9,
+         "score": 11,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -2440,10 +2440,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "9:32 - 1st",
+       "detail": "9:19 - 1st",
        "start": "2026-11-21T00:00Z",
        "period": 1,
-       "clock": "9:32",
+       "clock": "9:19",
        "teams": [
         {
          "name": "Charlotte Hornets",
@@ -2460,7 +2460,7 @@
          "name": "Atlanta Hawks",
          "short": "Hawks",
          "abbr": "ATL",
-         "score": 9,
+         "score": 11,
          "ha": "home",
          "winner": null,
          "linescores": [
