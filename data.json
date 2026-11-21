@@ -1,5 +1,5 @@
 {
- "updated": "Nov 20, 2026, 8:18 PM PT",
+ "updated": "Nov 20, 2026, 8:21 PM PT",
  "record": {
   "w": 214,
   "l": 216,
@@ -1745,10 +1745,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "3:19 - 3rd",
+       "detail": "2:55 - 3rd",
        "start": "2026-11-21T02:30Z",
        "period": 3,
-       "clock": "3:19",
+       "clock": "2:55",
        "teams": [
         {
          "name": "Phoenix Suns",
@@ -1939,16 +1939,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "1:05 - 2nd",
+       "detail": "0:37 - 2nd",
        "start": "2026-11-21T02:00Z",
        "period": 2,
-       "clock": "1:05",
+       "clock": "0:37",
        "teams": [
         {
          "name": "Sam Houston Bearkats",
          "short": "Bearkats",
          "abbr": "SHSU",
-         "score": 78,
+         "score": 81,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -2805,10 +2805,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "9:32 - 3rd",
+       "detail": "8:05 - 3rd",
        "start": "2026-11-21T02:00Z",
        "period": 3,
-       "clock": "9:32",
+       "clock": "8:05",
        "teams": [
         {
          "name": "New Mexico Lobos",
@@ -3170,10 +3170,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "3:19 - 3rd",
+       "detail": "2:55 - 3rd",
        "start": "2026-11-21T02:30Z",
        "period": 3,
-       "clock": "3:19",
+       "clock": "2:55",
        "teams": [
         {
          "name": "Phoenix Suns",
