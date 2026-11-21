@@ -1,5 +1,5 @@
 {
- "updated": "Nov 21, 2026, 9:09 AM PT",
+ "updated": "Nov 21, 2026, 9:11 AM PT",
  "record": {
   "w": 224,
   "l": 230,
@@ -11,7 +11,7 @@
   "first": "2026-10-12",
   "last": "2026-11-20"
  },
- "pending": 34,
+ "pending": 35,
  "plays": [
   {
    "n": 334,
@@ -7560,6 +7560,22 @@
    "matchup": "South Carolina Upstate Spartans @ UNC Greensboro Spartans",
    "pick": "UNC Greensboro -16.5",
    "odds": -115,
+   "units": 3.0,
+   "result": null,
+   "pl": null,
+   "pending": true
+  },
+  {
+   "n": 944,
+   "date": "2026-11-21",
+   "day": "2026-11-21",
+   "league": "NCAAF",
+   "market": "total",
+   "market_label": "Total",
+   "ticket": "single",
+   "matchup": "Ohio State Buckeyes @ Nebraska Cornhuskers",
+   "pick": "1H Under 20.5",
+   "odds": -109,
    "units": 3.0,
    "result": null,
    "pl": null,

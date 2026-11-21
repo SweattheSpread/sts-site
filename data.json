@@ -1,5 +1,5 @@
 {
- "updated": "Nov 21, 2026, 9:09 AM PT",
+ "updated": "Nov 21, 2026, 9:11 AM PT",
  "record": {
   "w": 224,
   "l": 230,
@@ -11,7 +11,7 @@
   "first": "2026-10-12",
   "last": "2026-11-20"
  },
- "pending": 34,
+ "pending": 35,
  "latest": [
   {
    "n": 933,
@@ -1942,16 +1942,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "15:21 - 1st",
+       "detail": "15:15 - 1st",
        "start": "2026-11-21T17:00Z",
        "period": 1,
-       "clock": "15:21",
+       "clock": "15:15",
        "teams": [
         {
          "name": "Columbia Lions",
          "short": "Lions",
          "abbr": "COLU",
-         "score": 4,
+         "score": 6,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -2003,16 +2003,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "15:46 - 2nd",
+       "detail": "15:10 - 2nd",
        "start": "2026-11-21T16:00Z",
        "period": 2,
-       "clock": "15:46",
+       "clock": "15:10",
        "teams": [
         {
          "name": "South Carolina Upstate Spartans",
          "short": "Spartans",
          "abbr": "UPST",
-         "score": 34,
+         "score": 36,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -2024,7 +2024,7 @@
          "name": "UNC Greensboro Spartans",
          "short": "Spartans",
          "abbr": "UNCG",
-         "score": 51,
+         "score": 52,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -2038,6 +2038,65 @@
      }
     ],
     "sport": "NCAAB",
+    "ticket": "single"
+   }
+  },
+  {
+   "n": 944,
+   "league": "NCAAF",
+   "type": "Over/Under",
+   "matchup": "Ohio State Buckeyes @ Nebraska Cornhuskers",
+   "pick": "1H Under 20.5",
+   "odds": -109,
+   "units": 3.0,
+   "gap": null,
+   "start": "2026-11-21T09:00:00",
+   "timed": true,
+   "ticket": "single",
+   "espn": {
+    "legs": [
+     {
+      "kind": "total",
+      "side": null,
+      "ou": "U",
+      "line": 20.5,
+      "scope": "1H",
+      "label": "U 20.5",
+      "path": "football/college-football",
+      "event": "401858531",
+      "date": "20261121",
+      "snapshot": {
+       "source": "espn",
+       "state": "pre",
+       "detail": "11/21 - 12:00 PM EST",
+       "start": "2026-11-21T17:00Z",
+       "period": null,
+       "clock": null,
+       "teams": [
+        {
+         "name": "Ohio State Buckeyes",
+         "short": "Buckeyes",
+         "abbr": "OSU",
+         "score": 0,
+         "ha": "away",
+         "winner": null,
+         "linescores": []
+        },
+        {
+         "name": "Nebraska Cornhuskers",
+         "short": "Cornhuskers",
+         "abbr": "NEB",
+         "score": 0,
+         "ha": "home",
+         "winner": null,
+         "linescores": []
+        }
+       ]
+      },
+      "source": "espn"
+     }
+    ],
+    "sport": "NCAAF",
     "ticket": "single"
    }
   }
