@@ -1,5 +1,5 @@
 {
- "updated": "Nov 21, 2026, 10:23 AM PT",
+ "updated": "Nov 21, 2026, 10:26 AM PT",
  "record": {
   "w": 224,
   "l": 230,
@@ -2116,16 +2116,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "8:35 - 2nd",
+       "detail": "8:25 - 2nd",
        "start": "2026-11-21T17:00Z",
        "period": 2,
-       "clock": "8:35",
+       "clock": "8:25",
        "teams": [
         {
          "name": "Columbia Lions",
          "short": "Lions",
          "abbr": "COLU",
-         "score": 45,
+         "score": 48,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -2244,10 +2244,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "4:37 - 2nd",
+       "detail": "4:12 - 2nd",
        "start": "2026-11-21T17:00Z",
        "period": 2,
-       "clock": "4:37",
+       "clock": "4:12",
        "teams": [
         {
          "name": "Ohio State Buckeyes",
@@ -2265,7 +2265,7 @@
          "name": "Nebraska Cornhuskers",
          "short": "Cornhuskers",
          "abbr": "NEB",
-         "score": 14,
+         "score": 21,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -2307,10 +2307,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "1:07 - 2nd",
+       "detail": "0:28 - 2nd",
        "start": "2026-11-21T17:00Z",
        "period": 2,
-       "clock": "1:07",
+       "clock": "0:28",
        "teams": [
         {
          "name": "Wisconsin Badgers",
@@ -2372,10 +2372,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "3:29 - 1st",
+       "detail": "2:51 - 1st",
        "start": "2026-11-21T18:00Z",
        "period": 1,
-       "clock": "3:29",
+       "clock": "2:51",
        "teams": [
         {
          "name": "Milwaukee Bucks",
@@ -2392,7 +2392,7 @@
          "name": "Philadelphia 76ers",
          "short": "76ers",
          "abbr": "PHI",
-         "score": 18,
+         "score": 20,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -2437,10 +2437,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "4:37 - 2nd",
+       "detail": "4:12 - 2nd",
        "start": "2026-11-21T17:00Z",
        "period": 2,
-       "clock": "4:37",
+       "clock": "4:12",
        "teams": [
         {
          "name": "Ohio State Buckeyes",
@@ -2458,7 +2458,7 @@
          "name": "Nebraska Cornhuskers",
          "short": "Cornhuskers",
          "abbr": "NEB",
-         "score": 14,
+         "score": 21,
          "ha": "home",
          "winner": null,
          "linescores": [
