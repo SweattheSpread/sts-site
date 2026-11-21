@@ -1,5 +1,5 @@
 {
- "updated": "Nov 21, 2026, 9:46 AM PT",
+ "updated": "Nov 21, 2026, 9:49 AM PT",
  "record": {
   "w": 224,
   "l": 230,
@@ -11,7 +11,7 @@
   "first": "2026-10-12",
   "last": "2026-11-20"
  },
- "pending": 39,
+ "pending": 40,
  "latest": [
   {
    "n": 933,
@@ -127,6 +127,36 @@
   }
  ],
  "picks": [
+  {
+   "n": 949,
+   "league": "NBA",
+   "type": "Player Prop",
+   "matchup": "Milwaukee Bucks @ Philadelphia 76ers",
+   "pick": "Tyler Herro Under 2.5 threes",
+   "odds": 100,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-21T10:10:00",
+   "timed": true,
+   "ticket": "single",
+   "espn": {
+    "legs": [
+     {
+      "kind": "prop",
+      "player": "Tyler Herro",
+      "ou": "U",
+      "line": 2.5,
+      "stat": "threes",
+      "label": "Tyler Herro U 2.5 threes",
+      "date": "20261121",
+      "unverified": true,
+      "reason": "Player not found in this game"
+     }
+    ],
+    "sport": "NBA",
+    "ticket": "single"
+   }
+  },
   {
    "n": 941,
    "league": "NCAAB",
@@ -2177,16 +2207,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "2:26 - 2nd",
+       "detail": "1:03 - 2nd",
        "start": "2026-11-21T16:00Z",
        "period": 2,
-       "clock": "2:26",
+       "clock": "1:03",
        "teams": [
         {
          "name": "South Carolina Upstate Spartans",
          "short": "Spartans",
          "abbr": "UPST",
-         "score": 61,
+         "score": 66,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -2198,7 +2228,7 @@
          "name": "UNC Greensboro Spartans",
          "short": "Spartans",
          "abbr": "UNCG",
-         "score": 81,
+         "score": 83,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -2242,10 +2272,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "3:51 - 1st",
+       "detail": "2:48 - 1st",
        "start": "2026-11-21T17:00Z",
        "period": 1,
-       "clock": "3:51",
+       "clock": "2:48",
        "teams": [
         {
          "name": "Ohio State Buckeyes",
@@ -2303,16 +2333,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "14:55 - 2nd",
+       "detail": "14:03 - 2nd",
        "start": "2026-11-21T17:00Z",
        "period": 2,
-       "clock": "14:55",
+       "clock": "14:03",
        "teams": [
         {
          "name": "Wisconsin Badgers",
          "short": "Badgers",
          "abbr": "WIS",
-         "score": 14,
+         "score": 21,
          "ha": "away",
          "winner": null,
          "linescores": [
