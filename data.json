@@ -1,5 +1,5 @@
 {
- "updated": "Nov 21, 2026, 1:28 PM PT",
+ "updated": "Nov 21, 2026, 1:30 PM PT",
  "record": {
   "w": 224,
   "l": 230,
@@ -152,10 +152,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "13:26 - 4th",
+       "detail": "12:41 - 4th",
        "start": "2026-11-21T19:00Z",
        "period": 4,
-       "clock": "13:26",
+       "clock": "12:41",
        "teams": [
         {
          "name": "Missouri State Bears",
@@ -200,10 +200,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "6:00 - 3rd",
+       "detail": "5:20 - 3rd",
        "start": "2026-11-21T19:30Z",
        "period": 3,
-       "clock": "6:00",
+       "clock": "5:20",
        "teams": [
         {
          "name": "UL Monroe Warhawks",
@@ -1996,10 +1996,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "0:23 - 1st",
+       "detail": "End of 1st",
        "start": "2026-11-21T20:45Z",
        "period": 1,
-       "clock": "0:23",
+       "clock": "0:00",
        "teams": [
         {
          "name": "Texas A&M Aggies",
@@ -2189,10 +2189,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "0:13 - 1st",
+       "detail": "0:00 - 1st",
        "start": "2026-11-21T20:30Z",
        "period": 1,
-       "clock": "0:13",
+       "clock": "0:00",
        "teams": [
         {
          "name": "Army Black Knights",
@@ -2383,10 +2383,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "0:13 - 1st",
+       "detail": "0:00 - 1st",
        "start": "2026-11-21T20:30Z",
        "period": 1,
-       "clock": "0:13",
+       "clock": "0:00",
        "teams": [
         {
          "name": "Army Black Knights",
