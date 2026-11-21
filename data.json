@@ -1,5 +1,5 @@
 {
- "updated": "Nov 21, 2026, 2:30 PM PT",
+ "updated": "Nov 21, 2026, 2:33 PM PT",
  "record": {
   "w": 224,
   "l": 230,
@@ -2224,11 +2224,11 @@
       "date": "20261121",
       "snapshot": {
        "source": "espn",
-       "state": "in",
-       "detail": "End of 2nd",
+       "state": "post",
+       "detail": "Final",
        "start": "2026-11-21T20:30Z",
-       "period": 2,
-       "clock": "0:00",
+       "period": null,
+       "clock": null,
        "teams": [
         {
          "name": "Army Black Knights",
@@ -2236,7 +2236,7 @@
          "abbr": "ARMY",
          "score": 46,
          "ha": "away",
-         "winner": null,
+         "winner": false,
          "linescores": [
           0,
           0
@@ -2248,7 +2248,7 @@
          "abbr": "BING",
          "score": 67,
          "ha": "home",
-         "winner": null,
+         "winner": true,
          "linescores": [
           0,
           0
@@ -2420,11 +2420,11 @@
       "date": "20261121",
       "snapshot": {
        "source": "espn",
-       "state": "in",
-       "detail": "End of 2nd",
+       "state": "post",
+       "detail": "Final",
        "start": "2026-11-21T20:30Z",
-       "period": 2,
-       "clock": "0:00",
+       "period": null,
+       "clock": null,
        "teams": [
         {
          "name": "Army Black Knights",
@@ -2432,7 +2432,7 @@
          "abbr": "ARMY",
          "score": 46,
          "ha": "away",
-         "winner": null,
+         "winner": false,
          "linescores": [
           0,
           0
@@ -2444,7 +2444,7 @@
          "abbr": "BING",
          "score": 67,
          "ha": "home",
-         "winner": null,
+         "winner": true,
          "linescores": [
           0,
           0
@@ -2753,10 +2753,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "Halftime",
+       "detail": "14:46 - 3rd",
        "start": "2026-11-21T20:30Z",
-       "period": 2,
-       "clock": "0:00",
+       "period": 3,
+       "clock": "14:46",
        "teams": [
         {
          "name": "UCLA Bruins",
@@ -2766,6 +2766,7 @@
          "ha": "away",
          "winner": null,
          "linescores": [
+          0,
           0,
           0
          ]
@@ -2778,6 +2779,7 @@
          "ha": "home",
          "winner": null,
          "linescores": [
+          0,
           0,
           0
          ]
