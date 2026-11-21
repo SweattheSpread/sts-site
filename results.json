@@ -1,5 +1,5 @@
 {
- "updated": "Nov 21, 2026, 9:51 AM PT",
+ "updated": "Nov 21, 2026, 9:53 AM PT",
  "record": {
   "w": 224,
   "l": 230,
@@ -11,7 +11,7 @@
   "first": "2026-10-12",
   "last": "2026-11-20"
  },
- "pending": 40,
+ "pending": 41,
  "plays": [
   {
    "n": 334,
@@ -7657,6 +7657,22 @@
    "pick": "Tyler Herro Under 2.5 threes",
    "odds": 100,
    "units": 1.0,
+   "result": null,
+   "pl": null,
+   "pending": true
+  },
+  {
+   "n": 950,
+   "date": "2026-11-21",
+   "day": "2026-11-21",
+   "league": "NCAAF",
+   "market": "spread",
+   "market_label": "Spread",
+   "ticket": "single",
+   "matchup": "Ohio State Buckeyes @ Nebraska Cornhuskers",
+   "pick": "Nebraska Cornhuskers +2.5",
+   "odds": 101,
+   "units": 7.0,
    "result": null,
    "pl": null,
    "pending": true
