@@ -1,5 +1,5 @@
 {
- "updated": "Nov 21, 2026, 11:46 AM PT",
+ "updated": "Nov 21, 2026, 11:49 AM PT",
  "record": {
   "w": 224,
   "l": 230,
@@ -152,10 +152,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "13:37 - 2nd",
+       "detail": "12:54 - 2nd",
        "start": "2026-11-21T19:00Z",
        "period": 2,
-       "clock": "13:37",
+       "clock": "12:54",
        "teams": [
         {
          "name": "Missouri State Bears",
@@ -196,10 +196,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "10:12 - 1st",
+       "detail": "10:00 - 1st",
        "start": "2026-11-21T19:30Z",
        "period": 1,
-       "clock": "10:12",
+       "clock": "10:00",
        "teams": [
         {
          "name": "UL Monroe Warhawks",
@@ -2136,10 +2136,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "0:59 - 1st",
+       "detail": "0:37 - 1st",
        "start": "2026-11-21T19:00Z",
        "period": 1,
-       "clock": "0:59",
+       "clock": "0:37",
        "teams": [
         {
          "name": "New Mexico Lobos",
@@ -2156,7 +2156,7 @@
          "name": "Wichita State Shockers",
          "short": "Shockers",
          "abbr": "WICH",
-         "score": 35,
+         "score": 37,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -2262,10 +2262,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "End of 3rd",
+       "detail": "15:00 - 3rd",
        "start": "2026-11-21T17:00Z",
        "period": 3,
-       "clock": "0:00",
+       "clock": "15:00",
        "teams": [
         {
          "name": "Ohio State Buckeyes",
@@ -2328,10 +2328,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "0:59 - 1st",
+       "detail": "0:37 - 1st",
        "start": "2026-11-21T19:00Z",
        "period": 1,
-       "clock": "0:59",
+       "clock": "0:37",
        "teams": [
         {
          "name": "New Mexico Lobos",
@@ -2348,7 +2348,7 @@
          "name": "Wichita State Shockers",
          "short": "Shockers",
          "abbr": "WICH",
-         "score": 35,
+         "score": 37,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -2389,10 +2389,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "10:56 - 4th",
+       "detail": "9:18 - 4th",
        "start": "2026-11-21T17:00Z",
        "period": 4,
-       "clock": "10:56",
+       "clock": "9:18",
        "teams": [
         {
          "name": "Wisconsin Badgers",
@@ -2458,16 +2458,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "35.6 - 3rd",
+       "detail": "End of 3rd",
        "start": "2026-11-21T18:00Z",
        "period": 3,
-       "clock": "35.6",
+       "clock": "0.1",
        "teams": [
         {
          "name": "Milwaukee Bucks",
          "short": "Bucks",
          "abbr": "MIL",
-         "score": 88,
+         "score": 92,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -2491,7 +2491,7 @@
         }
        ],
        "stat": {
-        "v": 5,
+        "v": 6,
         "name": "Tyler Herro"
        }
       },
@@ -2527,10 +2527,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "End of 3rd",
+       "detail": "15:00 - 3rd",
        "start": "2026-11-21T17:00Z",
        "period": 3,
-       "clock": "0:00",
+       "clock": "15:00",
        "teams": [
         {
          "name": "Ohio State Buckeyes",
