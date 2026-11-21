@@ -1,5 +1,5 @@
 {
- "updated": "Nov 20, 2026, 9:24 PM PT",
+ "updated": "Nov 20, 2026, 9:27 PM PT",
  "record": {
   "w": 214,
   "l": 216,
@@ -2356,32 +2356,48 @@
       "event": "401909309",
       "date": "20261120",
       "snapshot": {
-       "source": "odds-api",
+       "source": "espn",
        "state": "post",
        "detail": "Final",
-       "start": "2026-11-21T01:11:00Z",
+       "start": "2026-11-21T01:00Z",
+       "period": null,
+       "clock": null,
        "teams": [
         {
          "name": "Washington Wizards",
-         "short": "Washington Wizards",
-         "abbr": "",
+         "short": "Wizards",
+         "abbr": "WSH",
          "score": 98,
          "ha": "away",
          "winner": true,
-         "linescores": []
+         "linescores": [
+          0,
+          0,
+          0,
+          0
+         ]
         },
         {
          "name": "Chicago Bulls",
-         "short": "Chicago Bulls",
-         "abbr": "",
+         "short": "Bulls",
+         "abbr": "CHI",
          "score": 94,
          "ha": "home",
          "winner": false,
-         "linescores": []
+         "linescores": [
+          0,
+          0,
+          0,
+          0
+         ]
         }
-       ]
+       ],
+       "stat": {
+        "v": 7,
+        "name": "Tre Jones"
+       }
       },
-      "source": "odds-api"
+      "source": "espn"
      }
     ],
     "sport": "NBA",
@@ -2705,32 +2721,48 @@
       "event": "401909309",
       "date": "20261120",
       "snapshot": {
-       "source": "odds-api",
+       "source": "espn",
        "state": "post",
        "detail": "Final",
-       "start": "2026-11-21T01:11:00Z",
+       "start": "2026-11-21T01:00Z",
+       "period": null,
+       "clock": null,
        "teams": [
         {
          "name": "Washington Wizards",
-         "short": "Washington Wizards",
-         "abbr": "",
+         "short": "Wizards",
+         "abbr": "WSH",
          "score": 98,
          "ha": "away",
          "winner": true,
-         "linescores": []
+         "linescores": [
+          0,
+          0,
+          0,
+          0
+         ]
         },
         {
          "name": "Chicago Bulls",
-         "short": "Chicago Bulls",
-         "abbr": "",
+         "short": "Bulls",
+         "abbr": "CHI",
          "score": 94,
          "ha": "home",
          "winner": false,
-         "linescores": []
+         "linescores": [
+          0,
+          0,
+          0,
+          0
+         ]
         }
-       ]
+       ],
+       "stat": {
+        "v": 1,
+        "name": "Matas Buzelis"
+       }
       },
-      "source": "odds-api"
+      "source": "espn"
      }
     ],
     "sport": "NBA",
@@ -2785,7 +2817,7 @@
          "name": "Wyoming Cowboys",
          "short": "Cowboys",
          "abbr": "WYO",
-         "score": 16,
+         "score": 17,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -2858,10 +2890,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "3:20 - 4th",
+       "detail": "2:41 - 4th",
        "start": "2026-11-21T03:00Z",
        "period": 4,
-       "clock": "3:20",
+       "clock": "2:41",
        "teams": [
         {
          "name": "Houston Rockets",
@@ -2881,7 +2913,7 @@
          "name": "Denver Nuggets",
          "short": "Nuggets",
          "abbr": "DEN",
-         "score": 117,
+         "score": 120,
          "ha": "home",
          "winner": null,
          "linescores": [
