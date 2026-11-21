@@ -1,5 +1,5 @@
 {
- "updated": "Nov 20, 2026, 7:39 PM PT",
+ "updated": "Nov 20, 2026, 7:42 PM PT",
  "record": {
   "w": 214,
   "l": 216,
@@ -153,10 +153,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "13:39 - 4th",
+       "detail": "12:27 - 4th",
        "start": "2026-11-21T01:00Z",
        "period": 4,
-       "clock": "13:39",
+       "clock": "12:27",
        "teams": [
         {
          "name": "UTEP Miners",
@@ -1745,10 +1745,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "29.1 - 2nd",
+       "detail": "Halftime",
        "start": "2026-11-21T02:30Z",
        "period": 2,
-       "clock": "29.1",
+       "clock": "0.0",
        "teams": [
         {
          "name": "Phoenix Suns",
@@ -1937,10 +1937,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "9:26 - 2nd",
+       "detail": "8:51 - 2nd",
        "start": "2026-11-21T02:00Z",
        "period": 2,
-       "clock": "9:26",
+       "clock": "8:51",
        "teams": [
         {
          "name": "Sam Houston Bearkats",
@@ -1958,7 +1958,7 @@
          "name": "Boise State Broncos",
          "short": "Broncos",
          "abbr": "BOIS",
-         "score": 42,
+         "score": 45,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -2001,16 +2001,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "8:01 - 2nd",
+       "detail": "5:48 - 2nd",
        "start": "2026-11-21T02:00Z",
        "period": 2,
-       "clock": "8:01",
+       "clock": "5:48",
        "teams": [
         {
          "name": "Eastern Illinois Panthers",
          "short": "Panthers",
          "abbr": "EIU",
-         "score": 35,
+         "score": 40,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -2022,7 +2022,7 @@
          "name": "Illinois Fighting Illini",
          "short": "Fighting Illini",
          "abbr": "ILL",
-         "score": 98,
+         "score": 103,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -2188,16 +2188,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "6:25 - 2nd",
+       "detail": "4:53 - 2nd",
        "start": "2026-11-21T02:00Z",
        "period": 2,
-       "clock": "6:25",
+       "clock": "4:53",
        "teams": [
         {
          "name": "Cal State Bakersfield Roadrunners",
          "short": "Roadrunners",
          "abbr": "CSUB",
-         "score": 64,
+         "score": 69,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -2209,7 +2209,7 @@
          "name": "Idaho Vandals",
          "short": "Vandals",
          "abbr": "IDHO",
-         "score": 76,
+         "score": 79,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -2803,10 +2803,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "1:21 - 2nd",
+       "detail": "0:59 - 2nd",
        "start": "2026-11-21T02:00Z",
        "period": 2,
-       "clock": "1:21",
+       "clock": "0:59",
        "teams": [
         {
          "name": "New Mexico Lobos",
@@ -2895,19 +2895,20 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "End of 1st",
+       "detail": "11:33 - 2nd",
        "start": "2026-11-21T03:00Z",
-       "period": 1,
-       "clock": "0.0",
+       "period": 2,
+       "clock": "11:33",
        "teams": [
         {
          "name": "Houston Rockets",
          "short": "Rockets",
          "abbr": "HOU",
-         "score": 33,
+         "score": 35,
          "ha": "away",
          "winner": null,
          "linescores": [
+          0,
           0
          ]
         },
@@ -2915,10 +2916,11 @@
          "name": "Denver Nuggets",
          "short": "Nuggets",
          "abbr": "DEN",
-         "score": 31,
+         "score": 33,
          "ha": "home",
          "winner": null,
          "linescores": [
+          0,
           0
          ]
         }
@@ -3096,10 +3098,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "13:39 - 4th",
+       "detail": "12:27 - 4th",
        "start": "2026-11-21T01:00Z",
        "period": 4,
-       "clock": "13:39",
+       "clock": "12:27",
        "teams": [
         {
          "name": "UTEP Miners",
@@ -3164,10 +3166,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "29.1 - 2nd",
+       "detail": "Halftime",
        "start": "2026-11-21T02:30Z",
        "period": 2,
-       "clock": "29.1",
+       "clock": "0.0",
        "teams": [
         {
          "name": "Phoenix Suns",
