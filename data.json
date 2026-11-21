@@ -1,5 +1,5 @@
 {
- "updated": "Nov 21, 2026, 10:31 AM PT",
+ "updated": "Nov 21, 2026, 10:34 AM PT",
  "record": {
   "w": 224,
   "l": 230,
@@ -2116,10 +2116,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "6:42 - 2nd",
+       "detail": "6:33 - 2nd",
        "start": "2026-11-21T17:00Z",
        "period": 2,
-       "clock": "6:42",
+       "clock": "6:33",
        "teams": [
         {
          "name": "Columbia Lions",
@@ -2244,10 +2244,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "2:57 - 2nd",
+       "detail": "2:00 - 2nd",
        "start": "2026-11-21T17:00Z",
        "period": 2,
-       "clock": "2:57",
+       "clock": "2:00",
        "teams": [
         {
          "name": "Ohio State Buckeyes",
@@ -2372,16 +2372,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "2.9 - 1st",
+       "detail": "End of 1st",
        "start": "2026-11-21T18:00Z",
        "period": 1,
-       "clock": "2.9",
+       "clock": "0.0",
        "teams": [
         {
          "name": "Milwaukee Bucks",
          "short": "Bucks",
          "abbr": "MIL",
-         "score": 27,
+         "score": 30,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -2437,10 +2437,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "2:57 - 2nd",
+       "detail": "2:00 - 2nd",
        "start": "2026-11-21T17:00Z",
        "period": 2,
-       "clock": "2:57",
+       "clock": "2:00",
        "teams": [
         {
          "name": "Ohio State Buckeyes",
