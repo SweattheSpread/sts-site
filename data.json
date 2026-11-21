@@ -1,5 +1,5 @@
 {
- "updated": "Nov 21, 2026, 9:25 AM PT",
+ "updated": "Nov 21, 2026, 9:28 AM PT",
  "record": {
   "w": 224,
   "l": 230,
@@ -1942,16 +1942,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "7:44 - 1st",
+       "detail": "7:22 - 1st",
        "start": "2026-11-21T17:00Z",
        "period": 1,
-       "clock": "7:44",
+       "clock": "7:22",
        "teams": [
         {
          "name": "Columbia Lions",
          "short": "Lions",
          "abbr": "COLU",
-         "score": 16,
+         "score": 17,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -2003,16 +2003,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "9:25 - 2nd",
+       "detail": "7:58 - 2nd",
        "start": "2026-11-21T16:00Z",
        "period": 2,
-       "clock": "9:25",
+       "clock": "7:58",
        "teams": [
         {
          "name": "South Carolina Upstate Spartans",
          "short": "Spartans",
          "abbr": "UPST",
-         "score": 44,
+         "score": 47,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -2024,7 +2024,7 @@
          "name": "UNC Greensboro Spartans",
          "short": "Spartans",
          "abbr": "UNCG",
-         "score": 64,
+         "score": 70,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -2068,10 +2068,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "11:06 - 1st",
+       "detail": "9:40 - 1st",
        "start": "2026-11-21T17:00Z",
        "period": 1,
-       "clock": "11:06",
+       "clock": "9:40",
        "teams": [
         {
          "name": "Ohio State Buckeyes",
