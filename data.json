@@ -1,5 +1,5 @@
 {
- "updated": "Nov 21, 2026, 11:49 AM PT",
+ "updated": "Nov 21, 2026, 11:51 AM PT",
  "record": {
   "w": 224,
   "l": 230,
@@ -152,10 +152,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "12:54 - 2nd",
+       "detail": "11:27 - 2nd",
        "start": "2026-11-21T19:00Z",
        "period": 2,
-       "clock": "12:54",
+       "clock": "11:27",
        "teams": [
         {
          "name": "Missouri State Bears",
@@ -196,10 +196,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "10:00 - 1st",
+       "detail": "8:46 - 1st",
        "start": "2026-11-21T19:30Z",
        "period": 1,
-       "clock": "10:00",
+       "clock": "8:46",
        "teams": [
         {
          "name": "UL Monroe Warhawks",
@@ -2136,16 +2136,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "0:37 - 1st",
+       "detail": "0:08 - 1st",
        "start": "2026-11-21T19:00Z",
        "period": 1,
-       "clock": "0:37",
+       "clock": "0:08",
        "teams": [
         {
          "name": "New Mexico Lobos",
          "short": "Lobos",
          "abbr": "UNM",
-         "score": 35,
+         "score": 36,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -2262,10 +2262,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "15:00 - 3rd",
+       "detail": "14:15 - 4th",
        "start": "2026-11-21T17:00Z",
-       "period": 3,
-       "clock": "15:00",
+       "period": 4,
+       "clock": "14:15",
        "teams": [
         {
          "name": "Ohio State Buckeyes",
@@ -2275,6 +2275,7 @@
          "ha": "away",
          "winner": null,
          "linescores": [
+          0,
           0,
           0,
           0
@@ -2288,6 +2289,7 @@
          "ha": "home",
          "winner": null,
          "linescores": [
+          0,
           0,
           0,
           0
@@ -2328,16 +2330,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "0:37 - 1st",
+       "detail": "0:08 - 1st",
        "start": "2026-11-21T19:00Z",
        "period": 1,
-       "clock": "0:37",
+       "clock": "0:08",
        "teams": [
         {
          "name": "New Mexico Lobos",
          "short": "Lobos",
          "abbr": "UNM",
-         "score": 35,
+         "score": 36,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -2389,10 +2391,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "9:18 - 4th",
+       "detail": "7:34 - 4th",
        "start": "2026-11-21T17:00Z",
        "period": 4,
-       "clock": "9:18",
+       "clock": "7:34",
        "teams": [
         {
          "name": "Wisconsin Badgers",
@@ -2458,10 +2460,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "End of 3rd",
+       "detail": "11:35 - 4th",
        "start": "2026-11-21T18:00Z",
-       "period": 3,
-       "clock": "0.1",
+       "period": 4,
+       "clock": "11:35",
        "teams": [
         {
          "name": "Milwaukee Bucks",
@@ -2471,6 +2473,7 @@
          "ha": "away",
          "winner": null,
          "linescores": [
+          0,
           0,
           0,
           0
@@ -2484,6 +2487,7 @@
          "ha": "home",
          "winner": null,
          "linescores": [
+          0,
           0,
           0,
           0
@@ -2527,10 +2531,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "15:00 - 3rd",
+       "detail": "14:15 - 4th",
        "start": "2026-11-21T17:00Z",
-       "period": 3,
-       "clock": "15:00",
+       "period": 4,
+       "clock": "14:15",
        "teams": [
         {
          "name": "Ohio State Buckeyes",
@@ -2540,6 +2544,7 @@
          "ha": "away",
          "winner": null,
          "linescores": [
+          0,
           0,
           0,
           0
@@ -2553,6 +2558,7 @@
          "ha": "home",
          "winner": null,
          "linescores": [
+          0,
           0,
           0,
           0
