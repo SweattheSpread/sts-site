@@ -1,5 +1,5 @@
 {
- "updated": "Nov 21, 2026, 10:12 AM PT",
+ "updated": "Nov 21, 2026, 10:14 AM PT",
  "record": {
   "w": 224,
   "l": 230,
@@ -2116,10 +2116,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "13:32 - 2nd",
+       "detail": "13:21 - 2nd",
        "start": "2026-11-21T17:00Z",
        "period": 2,
-       "clock": "13:32",
+       "clock": "13:21",
        "teams": [
         {
          "name": "Columbia Lions",
@@ -2137,7 +2137,7 @@
          "name": "Boston University Terriers",
          "short": "Terriers",
          "abbr": "BU",
-         "score": 28,
+         "score": 30,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -2244,10 +2244,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "8:46 - 2nd",
+       "detail": "8:08 - 2nd",
        "start": "2026-11-21T17:00Z",
        "period": 2,
-       "clock": "8:46",
+       "clock": "8:08",
        "teams": [
         {
          "name": "Ohio State Buckeyes",
@@ -2307,10 +2307,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "5:01 - 2nd",
+       "detail": "3:08 - 2nd",
        "start": "2026-11-21T17:00Z",
        "period": 2,
-       "clock": "5:01",
+       "clock": "3:08",
        "teams": [
         {
          "name": "Wisconsin Badgers",
@@ -2372,16 +2372,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "10:29 - 1st",
+       "detail": "8:06 - 1st",
        "start": "2026-11-21T18:00Z",
        "period": 1,
-       "clock": "10:29",
+       "clock": "8:06",
        "teams": [
         {
          "name": "Milwaukee Bucks",
          "short": "Bucks",
          "abbr": "MIL",
-         "score": 3,
+         "score": 5,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -2392,7 +2392,7 @@
          "name": "Philadelphia 76ers",
          "short": "76ers",
          "abbr": "PHI",
-         "score": 4,
+         "score": 6,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -2401,7 +2401,7 @@
         }
        ],
        "stat": {
-        "v": 0,
+        "v": 1,
         "name": "Tyler Herro"
        }
       },
@@ -2437,10 +2437,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "8:46 - 2nd",
+       "detail": "8:08 - 2nd",
        "start": "2026-11-21T17:00Z",
        "period": 2,
-       "clock": "8:46",
+       "clock": "8:08",
        "teams": [
         {
          "name": "Ohio State Buckeyes",
