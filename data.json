@@ -1,5 +1,5 @@
 {
- "updated": "Nov 20, 2026, 4:49 PM PT",
+ "updated": "Nov 20, 2026, 4:52 PM PT",
  "record": {
   "w": 214,
   "l": 216,
@@ -2220,16 +2220,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "1:12 - 1st",
+       "detail": "Halftime",
        "start": "2026-11-21T00:00Z",
        "period": 1,
-       "clock": "1:12",
+       "clock": "0:00",
        "teams": [
         {
          "name": "Georgia State Panthers",
          "short": "Panthers",
          "abbr": "GAST",
-         "score": 33,
+         "score": 35,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -2240,7 +2240,7 @@
          "name": "Jacksonville State Gamecocks",
          "short": "Gamecocks",
          "abbr": "JXST",
-         "score": 31,
+         "score": 33,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -2283,10 +2283,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "6:51 - 1st",
+       "detail": "5:54 - 1st",
        "start": "2026-11-21T00:30Z",
        "period": 1,
-       "clock": "6:51",
+       "clock": "5:54",
        "teams": [
         {
          "name": "Indiana Pacers",
@@ -2303,7 +2303,7 @@
          "name": "Cleveland Cavaliers",
          "short": "Cavaliers",
          "abbr": "CLE",
-         "score": 10,
+         "score": 12,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -2478,16 +2478,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "7:42 - 2nd",
+       "detail": "6:42 - 2nd",
        "start": "2026-11-21T00:00Z",
        "period": 2,
-       "clock": "7:42",
+       "clock": "6:42",
        "teams": [
         {
          "name": "Charlotte Hornets",
          "short": "Hornets",
          "abbr": "CHA",
-         "score": 46,
+         "score": 48,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -2547,16 +2547,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "7:42 - 2nd",
+       "detail": "6:42 - 2nd",
        "start": "2026-11-21T00:00Z",
        "period": 2,
-       "clock": "7:42",
+       "clock": "6:42",
        "teams": [
         {
          "name": "Charlotte Hornets",
          "short": "Hornets",
          "abbr": "CHA",
-         "score": 46,
+         "score": 48,
          "ha": "away",
          "winner": null,
          "linescores": [
