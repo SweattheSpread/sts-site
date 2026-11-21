@@ -1,5 +1,5 @@
 {
- "updated": "Nov 21, 2026, 11:26 AM PT",
+ "updated": "Nov 21, 2026, 11:29 AM PT",
  "record": {
   "w": 224,
   "l": 230,
@@ -152,10 +152,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "4:36 - 1st",
+       "detail": "3:53 - 1st",
        "start": "2026-11-21T19:00Z",
        "period": 1,
-       "clock": "4:36",
+       "clock": "3:53",
        "teams": [
         {
          "name": "Missouri State Bears",
@@ -2265,7 +2265,7 @@
          "name": "Ohio State Buckeyes",
          "short": "Buckeyes",
          "abbr": "OSU",
-         "score": 20,
+         "score": 21,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -2383,10 +2383,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "0:20 - 3rd",
+       "detail": "End of 3rd",
        "start": "2026-11-21T17:00Z",
        "period": 3,
-       "clock": "0:20",
+       "clock": "0:00",
        "teams": [
         {
          "name": "Wisconsin Badgers",
@@ -2450,10 +2450,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "8:34 - 3rd",
+       "detail": "7:58 - 3rd",
        "start": "2026-11-21T18:00Z",
        "period": 3,
-       "clock": "8:34",
+       "clock": "7:58",
        "teams": [
         {
          "name": "Milwaukee Bucks",
@@ -2472,7 +2472,7 @@
          "name": "Philadelphia 76ers",
          "short": "76ers",
          "abbr": "PHI",
-         "score": 67,
+         "score": 71,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -2528,7 +2528,7 @@
          "name": "Ohio State Buckeyes",
          "short": "Buckeyes",
          "abbr": "OSU",
-         "score": 20,
+         "score": 21,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -2584,10 +2584,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "0:57 - 2nd",
+       "detail": "0:58 - 2nd",
        "start": "2026-11-21T18:00Z",
        "period": 2,
-       "clock": "0:57",
+       "clock": "0:58",
        "teams": [
         {
          "name": "Western Kentucky Hilltoppers",
