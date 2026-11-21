@@ -1,5 +1,5 @@
 {
- "updated": "Nov 21, 2026, 12:51 PM PT",
+ "updated": "Nov 21, 2026, 12:54 PM PT",
  "record": {
   "w": 224,
   "l": 230,
@@ -152,10 +152,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "Halftime",
+       "detail": "12:00 - 3rd",
        "start": "2026-11-21T19:00Z",
        "period": 3,
-       "clock": "14:19",
+       "clock": "12:00",
        "teams": [
         {
          "name": "Missouri State Bears",
@@ -1932,10 +1932,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "15:00 - 1st",
+       "detail": "14:03 - 1st",
        "start": "2026-11-21T20:45Z",
        "period": 1,
-       "clock": "15:00",
+       "clock": "14:03",
        "teams": [
         {
          "name": "Texas A&M Aggies",
@@ -2059,16 +2059,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "3:35 - 2nd",
+       "detail": "1:46 - 2nd",
        "start": "2026-11-21T19:00Z",
        "period": 2,
-       "clock": "3:35",
+       "clock": "1:46",
        "teams": [
         {
          "name": "New Mexico Lobos",
          "short": "Lobos",
          "abbr": "UNM",
-         "score": 55,
+         "score": 58,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -2080,7 +2080,7 @@
          "name": "Wichita State Shockers",
          "short": "Shockers",
          "abbr": "WICH",
-         "score": 78,
+         "score": 85,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -2122,16 +2122,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "11:51 - 1st",
+       "detail": "10:39 - 1st",
        "start": "2026-11-21T20:30Z",
        "period": 1,
-       "clock": "11:51",
+       "clock": "10:39",
        "teams": [
         {
          "name": "Army Black Knights",
          "short": "Black Knights",
          "abbr": "ARMY",
-         "score": 7,
+         "score": 9,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -2316,16 +2316,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "11:51 - 1st",
+       "detail": "10:39 - 1st",
        "start": "2026-11-21T20:30Z",
        "period": 1,
-       "clock": "11:51",
+       "clock": "10:39",
        "teams": [
         {
          "name": "Army Black Knights",
          "short": "Black Knights",
          "abbr": "ARMY",
-         "score": 7,
+         "score": 9,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -2378,16 +2378,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "3:35 - 2nd",
+       "detail": "1:46 - 2nd",
        "start": "2026-11-21T19:00Z",
        "period": 2,
-       "clock": "3:35",
+       "clock": "1:46",
        "teams": [
         {
          "name": "New Mexico Lobos",
          "short": "Lobos",
          "abbr": "UNM",
-         "score": 55,
+         "score": 58,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -2399,7 +2399,7 @@
          "name": "Wichita State Shockers",
          "short": "Shockers",
          "abbr": "WICH",
-         "score": 78,
+         "score": 85,
          "ha": "home",
          "winner": null,
          "linescores": [
