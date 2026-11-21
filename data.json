@@ -1,5 +1,5 @@
 {
- "updated": "Nov 21, 2026, 8:46 AM PT",
+ "updated": "Nov 21, 2026, 8:54 AM PT",
  "record": {
   "w": 224,
   "l": 230,
@@ -11,7 +11,7 @@
   "first": "2026-10-12",
   "last": "2026-11-20"
  },
- "pending": 33,
+ "pending": 34,
  "latest": [
   {
    "n": 933,
@@ -1971,6 +1971,67 @@
      }
     ],
     "sport": "NCAAF",
+    "ticket": "single"
+   }
+  },
+  {
+   "n": 943,
+   "league": "NCAAB",
+   "type": "Spread",
+   "matchup": "South Carolina Upstate Spartans @ UNC Greensboro Spartans",
+   "pick": "UNC Greensboro -16.5",
+   "odds": -115,
+   "units": 3.0,
+   "gap": null,
+   "start": "2026-11-21T08:00:00",
+   "timed": true,
+   "ticket": "single",
+   "espn": {
+    "legs": [
+     {
+      "kind": "spread",
+      "side": "UNC Greensboro",
+      "line": -16.5,
+      "label": "UNC Greensboro -16.5",
+      "path": "basketball/mens-college-basketball",
+      "event": "401922284",
+      "date": "20261121",
+      "snapshot": {
+       "source": "espn",
+       "state": "in",
+       "detail": "Halftime",
+       "start": "2026-11-21T16:00Z",
+       "period": 1,
+       "clock": "0:00",
+       "teams": [
+        {
+         "name": "South Carolina Upstate Spartans",
+         "short": "Spartans",
+         "abbr": "UPST",
+         "score": 25,
+         "ha": "away",
+         "winner": null,
+         "linescores": [
+          0
+         ]
+        },
+        {
+         "name": "UNC Greensboro Spartans",
+         "short": "Spartans",
+         "abbr": "UNCG",
+         "score": 41,
+         "ha": "home",
+         "winner": null,
+         "linescores": [
+          0
+         ]
+        }
+       ]
+      },
+      "source": "espn"
+     }
+    ],
+    "sport": "NCAAB",
     "ticket": "single"
    }
   }
