@@ -1,5 +1,5 @@
 {
- "updated": "Nov 20, 2026, 8:10 PM PT",
+ "updated": "Nov 20, 2026, 8:13 PM PT",
  "record": {
   "w": 214,
   "l": 216,
@@ -1745,16 +1745,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "5:51 - 3rd",
+       "detail": "4:52 - 3rd",
        "start": "2026-11-21T02:30Z",
        "period": 3,
-       "clock": "5:51",
+       "clock": "4:52",
        "teams": [
         {
          "name": "Phoenix Suns",
          "short": "Suns",
          "abbr": "PHX",
-         "score": 77,
+         "score": 79,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -1767,7 +1767,7 @@
          "name": "Utah Jazz",
          "short": "Jazz",
          "abbr": "UTAH",
-         "score": 64,
+         "score": 68,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -1939,10 +1939,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "2:12 - 2nd",
+       "detail": "2:09 - 2nd",
        "start": "2026-11-21T02:00Z",
        "period": 2,
-       "clock": "2:12",
+       "clock": "2:09",
        "teams": [
         {
          "name": "Sam Houston Bearkats",
@@ -2805,10 +2805,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "14:08 - 3rd",
+       "detail": "12:46 - 3rd",
        "start": "2026-11-21T02:00Z",
        "period": 3,
-       "clock": "14:08",
+       "clock": "12:46",
        "teams": [
         {
          "name": "New Mexico Lobos",
@@ -2899,10 +2899,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "28.9 - 2nd",
+       "detail": "21.0 - 2nd",
        "start": "2026-11-21T03:00Z",
        "period": 2,
-       "clock": "28.9",
+       "clock": "21.0",
        "teams": [
         {
          "name": "Houston Rockets",
@@ -3148,7 +3148,7 @@
    "n": 934,
    "league": "NBA",
    "type": "Team Total",
-   "matchup": "#934 Phoenix Suns @ Utah Jazz",
+   "matchup": "Phoenix Suns @ Utah Jazz",
    "pick": "Phoenix Suns team total Over 114.5",
    "odds": -115,
    "units": 6.0,
@@ -3170,16 +3170,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "5:51 - 3rd",
+       "detail": "4:52 - 3rd",
        "start": "2026-11-21T02:30Z",
        "period": 3,
-       "clock": "5:51",
+       "clock": "4:52",
        "teams": [
         {
          "name": "Phoenix Suns",
          "short": "Suns",
          "abbr": "PHX",
-         "score": 77,
+         "score": 79,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -3192,7 +3192,7 @@
          "name": "Utah Jazz",
          "short": "Jazz",
          "abbr": "UTAH",
-         "score": 64,
+         "score": 68,
          "ha": "home",
          "winner": null,
          "linescores": [
