@@ -1,5 +1,5 @@
 {
- "updated": "Nov 21, 2026, 1:41 PM PT",
+ "updated": "Nov 21, 2026, 1:43 PM PT",
  "record": {
   "w": 224,
   "l": 230,
@@ -11,7 +11,7 @@
   "first": "2026-10-12",
   "last": "2026-11-20"
  },
- "pending": 43,
+ "pending": 44,
  "latest": [
   {
    "n": 933,
@@ -200,10 +200,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "1:58 - 3rd",
+       "detail": "0:19 - 3rd",
        "start": "2026-11-21T19:30Z",
        "period": 3,
-       "clock": "1:58",
+       "clock": "0:19",
        "teams": [
         {
          "name": "UL Monroe Warhawks",
@@ -1996,16 +1996,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "12:42 - 2nd",
+       "detail": "12:00 - 2nd",
        "start": "2026-11-21T20:45Z",
        "period": 2,
-       "clock": "12:42",
+       "clock": "12:00",
        "teams": [
         {
          "name": "Texas A&M Aggies",
          "short": "Aggies",
          "abbr": "TA&M",
-         "score": 0,
+         "score": 7,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -2679,6 +2679,67 @@
          "linescores": [
           0,
           0,
+          0,
+          0
+         ]
+        }
+       ]
+      },
+      "source": "espn"
+     }
+    ],
+    "sport": "NCAAF",
+    "ticket": "single"
+   }
+  },
+  {
+   "n": 954,
+   "league": "NCAAF",
+   "type": "Moneyline",
+   "matchup": "UCLA Bruins @ Michigan Wolverines",
+   "pick": "2nd Quarter Tie",
+   "odds": 180,
+   "units": 2.5,
+   "gap": null,
+   "start": "2026-11-21T12:30:00",
+   "timed": true,
+   "ticket": "single",
+   "espn": {
+    "legs": [
+     {
+      "kind": "unknown",
+      "label": "2nd Quarter Tie",
+      "path": "football/college-football",
+      "event": "401858528",
+      "date": "20261121",
+      "snapshot": {
+       "source": "espn",
+       "state": "in",
+       "detail": "6:05 - 2nd",
+       "start": "2026-11-21T20:30Z",
+       "period": 2,
+       "clock": "6:05",
+       "teams": [
+        {
+         "name": "UCLA Bruins",
+         "short": "Bruins",
+         "abbr": "UCLA",
+         "score": 0,
+         "ha": "away",
+         "winner": null,
+         "linescores": [
+          0,
+          0
+         ]
+        },
+        {
+         "name": "Michigan Wolverines",
+         "short": "Wolverines",
+         "abbr": "MICH",
+         "score": 0,
+         "ha": "home",
+         "winner": null,
+         "linescores": [
           0,
           0
          ]
