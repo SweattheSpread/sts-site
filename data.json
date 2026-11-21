@@ -1,5 +1,5 @@
 {
- "updated": "Nov 21, 2026, 1:09 PM PT",
+ "updated": "Nov 21, 2026, 1:11 PM PT",
  "record": {
   "w": 224,
   "l": 230,
@@ -152,10 +152,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "6:17 - 3rd",
+       "detail": "5:33 - 3rd",
        "start": "2026-11-21T19:00Z",
        "period": 3,
-       "clock": "6:17",
+       "clock": "5:33",
        "teams": [
         {
          "name": "Missouri State Bears",
@@ -198,10 +198,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "10:31 - 3rd",
+       "detail": "15:00 - 3rd",
        "start": "2026-11-21T19:30Z",
        "period": 3,
-       "clock": "10:31",
+       "clock": "15:00",
        "teams": [
         {
          "name": "UL Monroe Warhawks",
@@ -1934,10 +1934,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "9:14 - 1st",
+       "detail": "8:11 - 1st",
        "start": "2026-11-21T20:45Z",
        "period": 1,
-       "clock": "9:14",
+       "clock": "8:11",
        "teams": [
         {
          "name": "Texas A&M Aggies",
@@ -2133,7 +2133,7 @@
          "name": "Army Black Knights",
          "short": "Black Knights",
          "abbr": "ARMY",
-         "score": 11,
+         "score": 13,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -2327,7 +2327,7 @@
          "name": "Army Black Knights",
          "short": "Black Knights",
          "abbr": "ARMY",
-         "score": 11,
+         "score": 13,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -2650,10 +2650,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "3:02 - 4th",
+       "detail": "2:53 - 4th",
        "start": "2026-11-21T18:00Z",
        "period": 4,
-       "clock": "3:02",
+       "clock": "2:53",
        "teams": [
         {
          "name": "Western Kentucky Hilltoppers",
@@ -2673,7 +2673,7 @@
          "name": "Liberty Flames",
          "short": "Flames",
          "abbr": "LIB",
-         "score": 38,
+         "score": 45,
          "ha": "home",
          "winner": null,
          "linescores": [
