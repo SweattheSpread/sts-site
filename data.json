@@ -1,5 +1,5 @@
 {
- "updated": "Nov 21, 2026, 12:56 PM PT",
+ "updated": "Nov 21, 2026, 12:59 PM PT",
  "record": {
   "w": 224,
   "l": 230,
@@ -152,10 +152,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "10:28 - 3rd",
+       "detail": "9:26 - 3rd",
        "start": "2026-11-21T19:00Z",
        "period": 3,
-       "clock": "10:28",
+       "clock": "9:26",
        "teams": [
         {
          "name": "Missouri State Bears",
@@ -1932,10 +1932,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "12:14 - 1st",
+       "detail": "10:58 - 1st",
        "start": "2026-11-21T20:45Z",
        "period": 1,
-       "clock": "12:14",
+       "clock": "10:58",
        "teams": [
         {
          "name": "Texas A&M Aggies",
@@ -2058,11 +2058,11 @@
       "date": "20261121",
       "snapshot": {
        "source": "espn",
-       "state": "in",
-       "detail": "End of 2nd",
+       "state": "post",
+       "detail": "Final",
        "start": "2026-11-21T19:00Z",
-       "period": 2,
-       "clock": "0:00",
+       "period": null,
+       "clock": null,
        "teams": [
         {
          "name": "New Mexico Lobos",
@@ -2070,7 +2070,7 @@
          "abbr": "UNM",
          "score": 60,
          "ha": "away",
-         "winner": null,
+         "winner": false,
          "linescores": [
           0,
           0
@@ -2082,7 +2082,7 @@
          "abbr": "WICH",
          "score": 85,
          "ha": "home",
-         "winner": null,
+         "winner": true,
          "linescores": [
           0,
           0
@@ -2122,10 +2122,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "8:54 - 1st",
+       "detail": "7:51 - 1st",
        "start": "2026-11-21T20:30Z",
        "period": 1,
-       "clock": "8:54",
+       "clock": "7:51",
        "teams": [
         {
          "name": "Army Black Knights",
@@ -2142,7 +2142,7 @@
          "name": "Binghamton Bearcats",
          "short": "Bearcats",
          "abbr": "BING",
-         "score": 20,
+         "score": 23,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -2316,10 +2316,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "8:54 - 1st",
+       "detail": "7:51 - 1st",
        "start": "2026-11-21T20:30Z",
        "period": 1,
-       "clock": "8:54",
+       "clock": "7:51",
        "teams": [
         {
          "name": "Army Black Knights",
@@ -2336,7 +2336,7 @@
          "name": "Binghamton Bearcats",
          "short": "Bearcats",
          "abbr": "BING",
-         "score": 20,
+         "score": 23,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -2377,11 +2377,11 @@
       "date": "20261121",
       "snapshot": {
        "source": "espn",
-       "state": "in",
-       "detail": "End of 2nd",
+       "state": "post",
+       "detail": "Final",
        "start": "2026-11-21T19:00Z",
-       "period": 2,
-       "clock": "0:00",
+       "period": null,
+       "clock": null,
        "teams": [
         {
          "name": "New Mexico Lobos",
@@ -2389,7 +2389,7 @@
          "abbr": "UNM",
          "score": 60,
          "ha": "away",
-         "winner": null,
+         "winner": false,
          "linescores": [
           0,
           0
@@ -2401,7 +2401,7 @@
          "abbr": "WICH",
          "score": 85,
          "ha": "home",
-         "winner": null,
+         "winner": true,
          "linescores": [
           0,
           0
@@ -2648,10 +2648,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "8:03 - 4th",
+       "detail": "7:32 - 4th",
        "start": "2026-11-21T18:00Z",
        "period": 4,
-       "clock": "8:03",
+       "clock": "7:32",
        "teams": [
         {
          "name": "Western Kentucky Hilltoppers",
