@@ -1,5 +1,5 @@
 {
- "updated": "Nov 21, 2026, 1:25 PM PT",
+ "updated": "Nov 21, 2026, 1:28 PM PT",
  "record": {
   "w": 224,
   "l": 230,
@@ -152,10 +152,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "15:00 - 4th",
+       "detail": "13:26 - 4th",
        "start": "2026-11-21T19:00Z",
        "period": 4,
-       "clock": "15:00",
+       "clock": "13:26",
        "teams": [
         {
          "name": "Missouri State Bears",
@@ -200,10 +200,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "7:56 - 3rd",
+       "detail": "6:00 - 3rd",
        "start": "2026-11-21T19:30Z",
        "period": 3,
-       "clock": "7:56",
+       "clock": "6:00",
        "teams": [
         {
          "name": "UL Monroe Warhawks",
@@ -1996,10 +1996,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "2:05 - 1st",
+       "detail": "0:23 - 1st",
        "start": "2026-11-21T20:45Z",
        "period": 1,
-       "clock": "2:05",
+       "clock": "0:23",
        "teams": [
         {
          "name": "Texas A&M Aggies",
@@ -2189,16 +2189,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "0:47 - 1st",
+       "detail": "0:13 - 1st",
        "start": "2026-11-21T20:30Z",
        "period": 1,
-       "clock": "0:47",
+       "clock": "0:13",
        "teams": [
         {
          "name": "Army Black Knights",
          "short": "Black Knights",
          "abbr": "ARMY",
-         "score": 17,
+         "score": 18,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -2383,16 +2383,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "0:47 - 1st",
+       "detail": "0:13 - 1st",
        "start": "2026-11-21T20:30Z",
        "period": 1,
-       "clock": "0:47",
+       "clock": "0:13",
        "teams": [
         {
          "name": "Army Black Knights",
          "short": "Black Knights",
          "abbr": "ARMY",
-         "score": 17,
+         "score": 18,
          "ha": "away",
          "winner": null,
          "linescores": [
