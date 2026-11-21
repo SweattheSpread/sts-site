@@ -1,5 +1,5 @@
 {
- "updated": "Nov 21, 2026, 1:50 PM PT",
+ "updated": "Nov 21, 2026, 1:53 PM PT",
  "record": {
   "w": 224,
   "l": 230,
@@ -152,10 +152,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "7:18 - 4th",
+       "detail": "6:14 - 4th",
        "start": "2026-11-21T19:00Z",
        "period": 4,
-       "clock": "7:18",
+       "clock": "6:14",
        "teams": [
         {
          "name": "Missouri State Bears",
@@ -1998,10 +1998,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "8:30 - 2nd",
+       "detail": "7:12 - 2nd",
        "start": "2026-11-21T20:45Z",
        "period": 2,
-       "clock": "8:30",
+       "clock": "7:12",
        "teams": [
         {
          "name": "Texas A&M Aggies",
@@ -2193,16 +2193,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "15:57 - 2nd",
+       "detail": "13:56 - 2nd",
        "start": "2026-11-21T20:30Z",
        "period": 2,
-       "clock": "15:57",
+       "clock": "13:56",
        "teams": [
         {
          "name": "Army Black Knights",
          "short": "Black Knights",
          "abbr": "ARMY",
-         "score": 18,
+         "score": 20,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -2214,7 +2214,7 @@
          "name": "Binghamton Bearcats",
          "short": "Bearcats",
          "abbr": "BING",
-         "score": 42,
+         "score": 45,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -2389,16 +2389,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "15:57 - 2nd",
+       "detail": "13:56 - 2nd",
        "start": "2026-11-21T20:30Z",
        "period": 2,
-       "clock": "15:57",
+       "clock": "13:56",
        "teams": [
         {
          "name": "Army Black Knights",
          "short": "Black Knights",
          "abbr": "ARMY",
-         "score": 18,
+         "score": 20,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -2410,7 +2410,7 @@
          "name": "Binghamton Bearcats",
          "short": "Bearcats",
          "abbr": "BING",
-         "score": 42,
+         "score": 45,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -2721,10 +2721,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "3:08 - 2nd",
+       "detail": "2:26 - 2nd",
        "start": "2026-11-21T20:30Z",
        "period": 2,
-       "clock": "3:08",
+       "clock": "2:26",
        "teams": [
         {
          "name": "UCLA Bruins",
