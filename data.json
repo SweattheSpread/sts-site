@@ -1,5 +1,5 @@
 {
- "updated": "Nov 20, 2026, 9:16 PM PT",
+ "updated": "Nov 20, 2026, 9:19 PM PT",
  "record": {
   "w": 214,
   "l": 216,
@@ -2794,10 +2794,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "5:57 - 4th",
+       "detail": "5:53 - 4th",
        "start": "2026-11-21T02:00Z",
        "period": 4,
-       "clock": "5:57",
+       "clock": "5:53",
        "teams": [
         {
          "name": "New Mexico Lobos",
@@ -2890,16 +2890,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "6:38 - 4th",
+       "detail": "5:00 - 4th",
        "start": "2026-11-21T03:00Z",
        "period": 4,
-       "clock": "6:38",
+       "clock": "5:00",
        "teams": [
         {
          "name": "Houston Rockets",
          "short": "Rockets",
          "abbr": "HOU",
-         "score": 109,
+         "score": 115,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -2913,7 +2913,7 @@
          "name": "Denver Nuggets",
          "short": "Nuggets",
          "abbr": "DEN",
-         "score": 108,
+         "score": 110,
          "ha": "home",
          "winner": null,
          "linescores": [
