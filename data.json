@@ -1,5 +1,5 @@
 {
- "updated": "Nov 21, 2026, 10:09 AM PT",
+ "updated": "Nov 21, 2026, 10:12 AM PT",
  "record": {
   "w": 224,
   "l": 230,
@@ -127,63 +127,6 @@
   }
  ],
  "picks": [
-  {
-   "n": 949,
-   "league": "NBA",
-   "type": "Player Prop",
-   "matchup": "Milwaukee Bucks @ Philadelphia 76ers",
-   "pick": "Tyler Herro Under 2.5 threes",
-   "odds": 100,
-   "units": 1.0,
-   "gap": null,
-   "start": "2026-11-21T10:10:00",
-   "timed": true,
-   "ticket": "single",
-   "espn": {
-    "legs": [
-     {
-      "kind": "prop",
-      "player": "Tyler Herro",
-      "ou": "U",
-      "line": 2.5,
-      "stat": "threes",
-      "label": "Tyler Herro U 2.5 threes",
-      "date": "20261121",
-      "unverified": true,
-      "reason": "Player not found in this game",
-      "snapshot": {
-       "source": "odds-api",
-       "state": "in",
-       "detail": "Live",
-       "start": "2026-11-21T18:10:00Z",
-       "teams": [
-        {
-         "name": "Milwaukee Bucks",
-         "short": "Milwaukee Bucks",
-         "abbr": "",
-         "score": 0,
-         "ha": "away",
-         "winner": null,
-         "linescores": []
-        },
-        {
-         "name": "Philadelphia 76ers",
-         "short": "Philadelphia 76ers",
-         "abbr": "",
-         "score": 0,
-         "ha": "home",
-         "winner": null,
-         "linescores": []
-        }
-       ]
-      },
-      "source": "odds-api"
-     }
-    ],
-    "sport": "NBA",
-    "ticket": "single"
-   }
-  },
   {
    "n": 941,
    "league": "NCAAB",
@@ -2173,16 +2116,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "14:33 - 2nd",
+       "detail": "13:32 - 2nd",
        "start": "2026-11-21T17:00Z",
        "period": 2,
-       "clock": "14:33",
+       "clock": "13:32",
        "teams": [
         {
          "name": "Columbia Lions",
          "short": "Lions",
          "abbr": "COLU",
-         "score": 38,
+         "score": 40,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -2194,7 +2137,7 @@
          "name": "Boston University Terriers",
          "short": "Terriers",
          "abbr": "BU",
-         "score": 25,
+         "score": 28,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -2301,10 +2244,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "8:54 - 2nd",
+       "detail": "8:46 - 2nd",
        "start": "2026-11-21T17:00Z",
        "period": 2,
-       "clock": "8:54",
+       "clock": "8:46",
        "teams": [
         {
          "name": "Ohio State Buckeyes",
@@ -2364,10 +2307,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "5:02 - 2nd",
+       "detail": "5:01 - 2nd",
        "start": "2026-11-21T17:00Z",
        "period": 2,
-       "clock": "5:02",
+       "clock": "5:01",
        "teams": [
         {
          "name": "Wisconsin Badgers",
@@ -2403,6 +2346,73 @@
    }
   },
   {
+   "n": 949,
+   "league": "NBA",
+   "type": "Player Prop",
+   "matchup": "Milwaukee Bucks @ Philadelphia 76ers",
+   "pick": "Tyler Herro Under 2.5 threes",
+   "odds": 100,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-21T10:10:00",
+   "timed": true,
+   "ticket": "single",
+   "espn": {
+    "legs": [
+     {
+      "kind": "prop",
+      "player": "Tyler Herro",
+      "ou": "U",
+      "line": 2.5,
+      "stat": "threes",
+      "label": "Tyler Herro U 2.5 threes",
+      "path": "basketball/nba",
+      "event": "401910023",
+      "date": "20261121",
+      "snapshot": {
+       "source": "espn",
+       "state": "in",
+       "detail": "10:29 - 1st",
+       "start": "2026-11-21T18:00Z",
+       "period": 1,
+       "clock": "10:29",
+       "teams": [
+        {
+         "name": "Milwaukee Bucks",
+         "short": "Bucks",
+         "abbr": "MIL",
+         "score": 3,
+         "ha": "away",
+         "winner": null,
+         "linescores": [
+          0
+         ]
+        },
+        {
+         "name": "Philadelphia 76ers",
+         "short": "76ers",
+         "abbr": "PHI",
+         "score": 4,
+         "ha": "home",
+         "winner": null,
+         "linescores": [
+          0
+         ]
+        }
+       ],
+       "stat": {
+        "v": 0,
+        "name": "Tyler Herro"
+       }
+      },
+      "source": "espn"
+     }
+    ],
+    "sport": "NBA",
+    "ticket": "single"
+   }
+  },
+  {
    "n": 950,
    "league": "NCAAF",
    "type": "Spread",
@@ -2427,10 +2437,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "8:54 - 2nd",
+       "detail": "8:46 - 2nd",
        "start": "2026-11-21T17:00Z",
        "period": 2,
-       "clock": "8:54",
+       "clock": "8:46",
        "teams": [
         {
          "name": "Ohio State Buckeyes",
