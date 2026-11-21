@@ -1,5 +1,5 @@
 {
- "updated": "Nov 21, 2026, 9:35 AM PT",
+ "updated": "Nov 21, 2026, 9:37 AM PT",
  "record": {
   "w": 224,
   "l": 230,
@@ -11,7 +11,7 @@
   "first": "2026-10-12",
   "last": "2026-11-20"
  },
- "pending": 35,
+ "pending": 38,
  "plays": [
   {
    "n": 334,
@@ -7577,6 +7577,54 @@
    "pick": "1H Under 20.5",
    "odds": -109,
    "units": 3.0,
+   "result": null,
+   "pl": null,
+   "pending": true
+  },
+  {
+   "n": 945,
+   "date": "2026-11-21",
+   "day": "2026-11-21",
+   "league": "NCAAB",
+   "market": "total",
+   "market_label": "Total",
+   "ticket": "single",
+   "matchup": "Michigan Wolverines @ Villanova Wildcats",
+   "pick": "Under 160.5",
+   "odds": -110,
+   "units": 1.0,
+   "result": null,
+   "pl": null,
+   "pending": true
+  },
+  {
+   "n": 946,
+   "date": "2026-11-21",
+   "day": "2026-11-21",
+   "league": "NCAAB",
+   "market": "total",
+   "market_label": "Total",
+   "ticket": "single",
+   "matchup": "Army Knights @ Binghamton Bearcats",
+   "pick": "Over 136.5",
+   "odds": -110,
+   "units": 1.0,
+   "result": null,
+   "pl": null,
+   "pending": true
+  },
+  {
+   "n": 947,
+   "date": "2026-11-21",
+   "day": "2026-11-21",
+   "league": "NCAAB",
+   "market": "total",
+   "market_label": "Total",
+   "ticket": "single",
+   "matchup": "New Mexico Lobos @ Wichita State Shockers",
+   "pick": "Under 156.5",
+   "odds": -110,
+   "units": 1.0,
    "result": null,
    "pl": null,
    "pending": true

@@ -1,5 +1,5 @@
 {
- "updated": "Nov 21, 2026, 9:35 AM PT",
+ "updated": "Nov 21, 2026, 9:37 AM PT",
  "record": {
   "w": 224,
   "l": 230,
@@ -11,7 +11,7 @@
   "first": "2026-10-12",
   "last": "2026-11-20"
  },
- "pending": 35,
+ "pending": 38,
  "latest": [
   {
    "n": 933,
@@ -146,6 +146,64 @@
       "side": "Wichita State",
       "line": 2.0,
       "label": "Wichita State +2",
+      "path": "basketball/mens-college-basketball",
+      "event": "401919031",
+      "date": "20261121",
+      "snapshot": {
+       "source": "espn",
+       "state": "pre",
+       "detail": "11/21 - 2:00 PM EST",
+       "start": "2026-11-21T19:00Z",
+       "period": null,
+       "clock": null,
+       "teams": [
+        {
+         "name": "New Mexico Lobos",
+         "short": "Lobos",
+         "abbr": "UNM",
+         "score": 0,
+         "ha": "away",
+         "winner": null,
+         "linescores": []
+        },
+        {
+         "name": "Wichita State Shockers",
+         "short": "Shockers",
+         "abbr": "WICH",
+         "score": 0,
+         "ha": "home",
+         "winner": null,
+         "linescores": []
+        }
+       ]
+      },
+      "source": "espn"
+     }
+    ],
+    "sport": "NCAAB",
+    "ticket": "single"
+   }
+  },
+  {
+   "n": 947,
+   "league": "NCAAB",
+   "type": "Over/Under",
+   "matchup": "New Mexico Lobos @ Wichita State Shockers",
+   "pick": "Under 156.5",
+   "odds": -110,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-21T11:00:00",
+   "timed": true,
+   "ticket": "single",
+   "espn": {
+    "legs": [
+     {
+      "kind": "total",
+      "side": null,
+      "ou": "U",
+      "line": 156.5,
+      "label": "U 156.5",
       "path": "basketball/mens-college-basketball",
       "event": "401919031",
       "date": "20261121",
@@ -337,6 +395,64 @@
    }
   },
   {
+   "n": 946,
+   "league": "NCAAB",
+   "type": "Over/Under",
+   "matchup": "Army Knights @ Binghamton Bearcats",
+   "pick": "Over 136.5",
+   "odds": -110,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-21T12:30:00",
+   "timed": true,
+   "ticket": "single",
+   "espn": {
+    "legs": [
+     {
+      "kind": "total",
+      "side": null,
+      "ou": "O",
+      "line": 136.5,
+      "label": "O 136.5",
+      "path": "basketball/mens-college-basketball",
+      "event": "401911278",
+      "date": "20261121",
+      "snapshot": {
+       "source": "espn",
+       "state": "pre",
+       "detail": "11/21 - 3:30 PM EST",
+       "start": "2026-11-21T20:30Z",
+       "period": null,
+       "clock": null,
+       "teams": [
+        {
+         "name": "Army Black Knights",
+         "short": "Black Knights",
+         "abbr": "ARMY",
+         "score": 0,
+         "ha": "away",
+         "winner": null,
+         "linescores": []
+        },
+        {
+         "name": "Binghamton Bearcats",
+         "short": "Bearcats",
+         "abbr": "BING",
+         "score": 0,
+         "ha": "home",
+         "winner": null,
+         "linescores": []
+        }
+       ]
+      },
+      "source": "espn"
+     }
+    ],
+    "sport": "NCAAB",
+    "ticket": "single"
+   }
+  },
+  {
    "n": 934,
    "league": "NCAAF",
    "type": "Prop",
@@ -477,6 +593,64 @@
      }
     ],
     "sport": "NHL",
+    "ticket": "single"
+   }
+  },
+  {
+   "n": 945,
+   "league": "NCAAB",
+   "type": "Over/Under",
+   "matchup": "Michigan Wolverines @ Villanova Wildcats",
+   "pick": "Under 160.5",
+   "odds": -110,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-21T16:00:00",
+   "timed": true,
+   "ticket": "single",
+   "espn": {
+    "legs": [
+     {
+      "kind": "total",
+      "side": null,
+      "ou": "U",
+      "line": 160.5,
+      "label": "U 160.5",
+      "path": "basketball/mens-college-basketball",
+      "event": "401921776",
+      "date": "20261121",
+      "snapshot": {
+       "source": "espn",
+       "state": "pre",
+       "detail": "11/21 - 7:00 PM EST",
+       "start": "2026-11-22T00:00Z",
+       "period": null,
+       "clock": null,
+       "teams": [
+        {
+         "name": "Michigan Wolverines",
+         "short": "Wolverines",
+         "abbr": "MICH",
+         "score": 0,
+         "ha": "away",
+         "winner": null,
+         "linescores": []
+        },
+        {
+         "name": "Villanova Wildcats",
+         "short": "Wildcats",
+         "abbr": "VILL",
+         "score": 0,
+         "ha": "home",
+         "winner": null,
+         "linescores": []
+        }
+       ]
+      },
+      "source": "espn"
+     }
+    ],
+    "sport": "NCAAB",
     "ticket": "single"
    }
   },
@@ -1942,16 +2116,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "3:16 - 1st",
+       "detail": "2:26 - 1st",
        "start": "2026-11-21T17:00Z",
        "period": 1,
-       "clock": "3:16",
+       "clock": "2:26",
        "teams": [
         {
          "name": "Columbia Lions",
          "short": "Lions",
          "abbr": "COLU",
-         "score": 22,
+         "score": 24,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -2003,16 +2177,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "6:12 - 2nd",
+       "detail": "5:02 - 2nd",
        "start": "2026-11-21T16:00Z",
        "period": 2,
-       "clock": "6:12",
+       "clock": "5:02",
        "teams": [
         {
          "name": "South Carolina Upstate Spartans",
          "short": "Spartans",
          "abbr": "UPST",
-         "score": 49,
+         "score": 51,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -2024,7 +2198,7 @@
          "name": "UNC Greensboro Spartans",
          "short": "Spartans",
          "abbr": "UNCG",
-         "score": 72,
+         "score": 76,
          "ha": "home",
          "winner": null,
          "linescores": [
