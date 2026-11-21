@@ -1,5 +1,5 @@
 {
- "updated": "Nov 21, 2026, 10:36 AM PT",
+ "updated": "Nov 21, 2026, 10:38 AM PT",
  "record": {
   "w": 224,
   "l": 230,
@@ -2116,16 +2116,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "5:36 - 2nd",
+       "detail": "4:55 - 2nd",
        "start": "2026-11-21T17:00Z",
        "period": 2,
-       "clock": "5:36",
+       "clock": "4:55",
        "teams": [
         {
          "name": "Columbia Lions",
          "short": "Lions",
          "abbr": "COLU",
-         "score": 48,
+         "score": 49,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -2137,7 +2137,7 @@
          "name": "Boston University Terriers",
          "short": "Terriers",
          "abbr": "BU",
-         "score": 40,
+         "score": 42,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -2244,16 +2244,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "2:00 - 2nd",
+       "detail": "0:55 - 2nd",
        "start": "2026-11-21T17:00Z",
        "period": 2,
-       "clock": "2:00",
+       "clock": "0:55",
        "teams": [
         {
          "name": "Ohio State Buckeyes",
          "short": "Buckeyes",
          "abbr": "OSU",
-         "score": 7,
+         "score": 13,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -2372,16 +2372,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "11:38 - 2nd",
+       "detail": "9:37 - 2nd",
        "start": "2026-11-21T18:00Z",
        "period": 2,
-       "clock": "11:38",
+       "clock": "9:37",
        "teams": [
         {
          "name": "Milwaukee Bucks",
          "short": "Bucks",
          "abbr": "MIL",
-         "score": 32,
+         "score": 36,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -2393,7 +2393,7 @@
          "name": "Philadelphia 76ers",
          "short": "76ers",
          "abbr": "PHI",
-         "score": 29,
+         "score": 33,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -2439,16 +2439,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "2:00 - 2nd",
+       "detail": "0:55 - 2nd",
        "start": "2026-11-21T17:00Z",
        "period": 2,
-       "clock": "2:00",
+       "clock": "0:55",
        "teams": [
         {
          "name": "Ohio State Buckeyes",
          "short": "Buckeyes",
          "abbr": "OSU",
-         "score": 7,
+         "score": 13,
          "ha": "away",
          "winner": null,
          "linescores": [
