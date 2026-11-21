@@ -1,5 +1,5 @@
 {
- "updated": "Nov 20, 2026, 4:09 PM PT",
+ "updated": "Nov 20, 2026, 4:11 PM PT",
  "record": {
   "w": 214,
   "l": 216,
@@ -127,66 +127,6 @@
   }
  ],
  "picks": [
-  {
-   "n": 922,
-   "league": "NBA",
-   "type": "Player Prop",
-   "matchup": "Charlotte Hornets @ Atlanta Hawks",
-   "pick": "Onyeka Okongwu Over 7.5 rebounds",
-   "odds": 125,
-   "units": 1.0,
-   "gap": null,
-   "start": "2026-11-20T16:10:00",
-   "timed": true,
-   "ticket": "single",
-   "espn": {
-    "legs": [
-     {
-      "kind": "prop",
-      "player": "Onyeka Okongwu",
-      "ou": "O",
-      "line": 7.5,
-      "stat": "rebounds",
-      "label": "Onyeka Okongwu O 7.5 rebounds",
-      "date": "20261120",
-      "unverified": true,
-      "reason": "Player not found in this game"
-     }
-    ],
-    "sport": "NBA",
-    "ticket": "single"
-   }
-  },
-  {
-   "n": 923,
-   "league": "NBA",
-   "type": "Player Prop",
-   "matchup": "Charlotte Hornets @ Atlanta Hawks",
-   "pick": "Nickeil Alexander-Walker Over 3.5 rebounds",
-   "odds": 125,
-   "units": 1.0,
-   "gap": null,
-   "start": "2026-11-20T16:10:00",
-   "timed": true,
-   "ticket": "single",
-   "espn": {
-    "legs": [
-     {
-      "kind": "prop",
-      "player": "Nickeil Alexander-Walker",
-      "ou": "O",
-      "line": 3.5,
-      "stat": "rebounds",
-      "label": "Nickeil Alexander-Walker O 3.5 rebounds",
-      "date": "20261120",
-      "unverified": true,
-      "reason": "Player not found in this game"
-     }
-    ],
-    "sport": "NBA",
-    "ticket": "single"
-   }
-  },
   {
    "n": 918,
    "league": "NBA",
@@ -2181,16 +2121,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "9:52 - 2nd",
+       "detail": "8:41 - 2nd",
        "start": "2026-11-20T22:30Z",
        "period": 2,
-       "clock": "9:52",
+       "clock": "8:41",
        "teams": [
         {
          "name": "Mercyhurst Lakers",
          "short": "Lakers",
          "abbr": "MERC",
-         "score": 38,
+         "score": 39,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -2390,7 +2330,7 @@
          "name": "Jacksonville State Gamecocks",
          "short": "Gamecocks",
          "abbr": "JXST",
-         "score": 5,
+         "score": 6,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -2403,6 +2343,140 @@
      }
     ],
     "sport": "NCAAB",
+    "ticket": "single"
+   }
+  },
+  {
+   "n": 922,
+   "league": "NBA",
+   "type": "Player Prop",
+   "matchup": "Charlotte Hornets @ Atlanta Hawks",
+   "pick": "Onyeka Okongwu Over 7.5 rebounds",
+   "odds": 125,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-20T16:10:00",
+   "timed": true,
+   "ticket": "single",
+   "espn": {
+    "legs": [
+     {
+      "kind": "prop",
+      "player": "Onyeka Okongwu",
+      "ou": "O",
+      "line": 7.5,
+      "stat": "rebounds",
+      "label": "Onyeka Okongwu O 7.5 rebounds",
+      "path": "basketball/nba",
+      "event": "401909305",
+      "date": "20261120",
+      "snapshot": {
+       "source": "espn",
+       "state": "in",
+       "detail": "11:06 - 1st",
+       "start": "2026-11-21T00:00Z",
+       "period": 1,
+       "clock": "11:06",
+       "teams": [
+        {
+         "name": "Charlotte Hornets",
+         "short": "Hornets",
+         "abbr": "CHA",
+         "score": 3,
+         "ha": "away",
+         "winner": null,
+         "linescores": [
+          0
+         ]
+        },
+        {
+         "name": "Atlanta Hawks",
+         "short": "Hawks",
+         "abbr": "ATL",
+         "score": 2,
+         "ha": "home",
+         "winner": null,
+         "linescores": [
+          0
+         ]
+        }
+       ],
+       "stat": {
+        "v": 0,
+        "name": "Onyeka Okongwu"
+       }
+      },
+      "source": "espn"
+     }
+    ],
+    "sport": "NBA",
+    "ticket": "single"
+   }
+  },
+  {
+   "n": 923,
+   "league": "NBA",
+   "type": "Player Prop",
+   "matchup": "Charlotte Hornets @ Atlanta Hawks",
+   "pick": "Nickeil Alexander-Walker Over 3.5 rebounds",
+   "odds": 125,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-20T16:10:00",
+   "timed": true,
+   "ticket": "single",
+   "espn": {
+    "legs": [
+     {
+      "kind": "prop",
+      "player": "Nickeil Alexander-Walker",
+      "ou": "O",
+      "line": 3.5,
+      "stat": "rebounds",
+      "label": "Nickeil Alexander-Walker O 3.5 rebounds",
+      "path": "basketball/nba",
+      "event": "401909305",
+      "date": "20261120",
+      "snapshot": {
+       "source": "espn",
+       "state": "in",
+       "detail": "11:06 - 1st",
+       "start": "2026-11-21T00:00Z",
+       "period": 1,
+       "clock": "11:06",
+       "teams": [
+        {
+         "name": "Charlotte Hornets",
+         "short": "Hornets",
+         "abbr": "CHA",
+         "score": 3,
+         "ha": "away",
+         "winner": null,
+         "linescores": [
+          0
+         ]
+        },
+        {
+         "name": "Atlanta Hawks",
+         "short": "Hawks",
+         "abbr": "ATL",
+         "score": 2,
+         "ha": "home",
+         "winner": null,
+         "linescores": [
+          0
+         ]
+        }
+       ],
+       "stat": {
+        "v": 0,
+        "name": "Nickeil Alexander-Walker"
+       }
+      },
+      "source": "espn"
+     }
+    ],
+    "sport": "NBA",
     "ticket": "single"
    }
   }
