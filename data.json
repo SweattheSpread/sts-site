@@ -1,5 +1,5 @@
 {
- "updated": "Nov 21, 2026, 10:50 AM PT",
+ "updated": "Nov 21, 2026, 10:52 AM PT",
  "record": {
   "w": 224,
   "l": 230,
@@ -2176,10 +2176,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "0:22 - 2nd",
+       "detail": "0:18 - 2nd",
        "start": "2026-11-21T17:00Z",
        "period": 2,
-       "clock": "0:22",
+       "clock": "0:18",
        "teams": [
         {
          "name": "Columbia Lions",
@@ -2197,7 +2197,7 @@
          "name": "Boston University Terriers",
          "short": "Terriers",
          "abbr": "BU",
-         "score": 56,
+         "score": 59,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -2367,10 +2367,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "Halftime",
+       "detail": "14:49 - 3rd",
        "start": "2026-11-21T17:00Z",
-       "period": 2,
-       "clock": "0:00",
+       "period": 3,
+       "clock": "14:49",
        "teams": [
         {
          "name": "Wisconsin Badgers",
@@ -2380,6 +2380,7 @@
          "ha": "away",
          "winner": null,
          "linescores": [
+          0,
           0,
           0
          ]
@@ -2392,6 +2393,7 @@
          "ha": "home",
          "winner": null,
          "linescores": [
+          0,
           0,
           0
          ]
@@ -2432,16 +2434,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "5:41 - 2nd",
+       "detail": "4:12 - 2nd",
        "start": "2026-11-21T18:00Z",
        "period": 2,
-       "clock": "5:41",
+       "clock": "4:12",
        "teams": [
         {
          "name": "Milwaukee Bucks",
          "short": "Bucks",
          "abbr": "MIL",
-         "score": 46,
+         "score": 51,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -2453,7 +2455,7 @@
          "name": "Philadelphia 76ers",
          "short": "76ers",
          "abbr": "PHI",
-         "score": 45,
+         "score": 50,
          "ha": "home",
          "winner": null,
          "linescores": [
