@@ -1,5 +1,5 @@
 {
- "updated": "Nov 21, 2026, 11:31 AM PT",
+ "updated": "Nov 21, 2026, 11:33 AM PT",
  "record": {
   "w": 224,
   "l": 230,
@@ -152,10 +152,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "2:30 - 1st",
+       "detail": "1:06 - 1st",
        "start": "2026-11-21T19:00Z",
        "period": 1,
-       "clock": "2:30",
+       "clock": "1:06",
        "teams": [
         {
          "name": "Missouri State Bears",
@@ -193,11 +193,11 @@
       "date": "20261122",
       "snapshot": {
        "source": "espn",
-       "state": "pre",
-       "detail": "11/21 - 2:30 PM EST",
+       "state": "in",
+       "detail": "14:49 - 1st",
        "start": "2026-11-21T19:30Z",
-       "period": null,
-       "clock": null,
+       "period": 1,
+       "clock": "14:49",
        "teams": [
         {
          "name": "UL Monroe Warhawks",
@@ -206,7 +206,9 @@
          "score": 0,
          "ha": "away",
          "winner": null,
-         "linescores": []
+         "linescores": [
+          0
+         ]
         },
         {
          "name": "App State Mountaineers",
@@ -215,7 +217,9 @@
          "score": 0,
          "ha": "home",
          "winner": null,
-         "linescores": []
+         "linescores": [
+          0
+         ]
         }
        ]
       },
@@ -2130,16 +2134,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "6:35 - 1st",
+       "detail": "5:38 - 1st",
        "start": "2026-11-21T19:00Z",
        "period": 1,
-       "clock": "6:35",
+       "clock": "5:38",
        "teams": [
         {
          "name": "New Mexico Lobos",
          "short": "Lobos",
          "abbr": "UNM",
-         "score": 24,
+         "score": 28,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -2322,16 +2326,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "6:35 - 1st",
+       "detail": "5:38 - 1st",
        "start": "2026-11-21T19:00Z",
        "period": 1,
-       "clock": "6:35",
+       "clock": "5:38",
        "teams": [
         {
          "name": "New Mexico Lobos",
          "short": "Lobos",
          "abbr": "UNM",
-         "score": 24,
+         "score": 28,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -2383,10 +2387,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "End of 3rd",
+       "detail": "13:19 - 4th",
        "start": "2026-11-21T17:00Z",
-       "period": 3,
-       "clock": "0:00",
+       "period": 4,
+       "clock": "13:19",
        "teams": [
         {
          "name": "Wisconsin Badgers",
@@ -2396,6 +2400,7 @@
          "ha": "away",
          "winner": null,
          "linescores": [
+          0,
           0,
           0,
           0
@@ -2409,6 +2414,7 @@
          "ha": "home",
          "winner": null,
          "linescores": [
+          0,
           0,
           0,
           0
@@ -2450,16 +2456,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "7:08 - 3rd",
+       "detail": "6:04 - 3rd",
        "start": "2026-11-21T18:00Z",
        "period": 3,
-       "clock": "7:08",
+       "clock": "6:04",
        "teams": [
         {
          "name": "Milwaukee Bucks",
          "short": "Bucks",
          "abbr": "MIL",
-         "score": 70,
+         "score": 73,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -2472,7 +2478,7 @@
          "name": "Philadelphia 76ers",
          "short": "76ers",
          "abbr": "PHI",
-         "score": 74,
+         "score": 75,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -2483,7 +2489,7 @@
         }
        ],
        "stat": {
-        "v": 3,
+        "v": 4,
         "name": "Tyler Herro"
        }
       },
@@ -2584,10 +2590,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "0:54 - 2nd",
+       "detail": "0:38 - 2nd",
        "start": "2026-11-21T18:00Z",
        "period": 2,
-       "clock": "0:54",
+       "clock": "0:38",
        "teams": [
         {
          "name": "Western Kentucky Hilltoppers",
