@@ -1,5 +1,5 @@
 {
- "updated": "Nov 21, 2026, 1:39 PM PT",
+ "updated": "Nov 21, 2026, 1:41 PM PT",
  "record": {
   "w": 224,
   "l": 230,
@@ -152,10 +152,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "11:02 - 4th",
+       "detail": "9:58 - 4th",
        "start": "2026-11-21T19:00Z",
        "period": 4,
-       "clock": "11:02",
+       "clock": "9:58",
        "teams": [
         {
          "name": "Missouri State Bears",
@@ -175,7 +175,7 @@
          "name": "Jacksonville State Gamecocks",
          "short": "Gamecocks",
          "abbr": "JXST",
-         "score": 11,
+         "score": 18,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -200,10 +200,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "2:55 - 3rd",
+       "detail": "1:58 - 3rd",
        "start": "2026-11-21T19:30Z",
        "period": 3,
-       "clock": "2:55",
+       "clock": "1:58",
        "teams": [
         {
          "name": "UL Monroe Warhawks",
@@ -1996,10 +1996,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "12:53 - 2nd",
+       "detail": "12:42 - 2nd",
        "start": "2026-11-21T20:45Z",
        "period": 2,
-       "clock": "12:53",
+       "clock": "12:42",
        "teams": [
         {
          "name": "Texas A&M Aggies",
@@ -2027,7 +2027,7 @@
         }
        ],
        "stat": {
-        "v": 1,
+        "v": 2,
         "name": "Mario Craver"
        }
       },
