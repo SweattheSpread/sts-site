@@ -1,5 +1,5 @@
 {
- "updated": "Nov 21, 2026, 3:52 PM PT",
+ "updated": "Nov 21, 2026, 3:54 PM PT",
  "record": {
   "w": 224,
   "l": 230,
@@ -2033,10 +2033,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "3:57 - 4th",
+       "detail": "3:50 - 4th",
        "start": "2026-11-21T20:45Z",
        "period": 4,
-       "clock": "3:57",
+       "clock": "3:50",
        "teams": [
         {
          "name": "Texas A&M Aggies",
@@ -2056,7 +2056,7 @@
          "name": "Oklahoma Sooners",
          "short": "Sooners",
          "abbr": "OU",
-         "score": 14,
+         "score": 21,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -2103,10 +2103,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P1 14:24",
+       "detail": "P1 12:09",
        "start": "2026-11-21T23:00:00Z",
        "period": 1,
-       "clock": "14:24",
+       "clock": "12:09",
        "teams": [
         {
          "name": "Penguins",
@@ -2817,10 +2817,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "0:10 - 4th",
+       "detail": "End of 4th",
        "start": "2026-11-21T20:30Z",
        "period": 4,
-       "clock": "0:10",
+       "clock": "0:00",
        "teams": [
         {
          "name": "UCLA Bruins",
