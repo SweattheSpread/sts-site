@@ -1,5 +1,5 @@
 {
- "updated": "Nov 20, 2026, 9:39 PM PT",
+ "updated": "Nov 20, 2026, 9:41 PM PT",
  "record": {
   "w": 223,
   "l": 229,
@@ -1474,11 +1474,11 @@
       "date": "20261120",
       "snapshot": {
        "source": "espn",
-       "state": "in",
-       "detail": "0:21 - 4th",
+       "state": "post",
+       "detail": "Final",
        "start": "2026-11-21T02:00Z",
-       "period": 4,
-       "clock": "0:21",
+       "period": null,
+       "clock": null,
        "teams": [
         {
          "name": "New Mexico Lobos",
@@ -1486,7 +1486,7 @@
          "abbr": "UNM",
          "score": 24,
          "ha": "away",
-         "winner": null,
+         "winner": true,
          "linescores": [
           0,
           0,
@@ -1500,7 +1500,7 @@
          "abbr": "WYO",
          "score": 17,
          "ha": "home",
-         "winner": null,
+         "winner": false,
          "linescores": [
           0,
           0,
