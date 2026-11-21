@@ -1,5 +1,5 @@
 {
- "updated": "Nov 21, 2026, 10:19 AM PT",
+ "updated": "Nov 21, 2026, 10:21 AM PT",
  "record": {
   "w": 224,
   "l": 230,
@@ -2116,10 +2116,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "11:27 - 2nd",
+       "detail": "10:22 - 2nd",
        "start": "2026-11-21T17:00Z",
        "period": 2,
-       "clock": "11:27",
+       "clock": "10:22",
        "teams": [
         {
          "name": "Columbia Lions",
@@ -2244,10 +2244,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "6:49 - 2nd",
+       "detail": "5:52 - 2nd",
        "start": "2026-11-21T17:00Z",
        "period": 2,
-       "clock": "6:49",
+       "clock": "5:52",
        "teams": [
         {
          "name": "Ohio State Buckeyes",
@@ -2307,10 +2307,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "2:31 - 2nd",
+       "detail": "2:00 - 2nd",
        "start": "2026-11-21T17:00Z",
        "period": 2,
-       "clock": "2:31",
+       "clock": "2:00",
        "teams": [
         {
          "name": "Wisconsin Badgers",
@@ -2372,16 +2372,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "6:24 - 1st",
+       "detail": "5:35 - 1st",
        "start": "2026-11-21T18:00Z",
        "period": 1,
-       "clock": "6:24",
+       "clock": "5:35",
        "teams": [
         {
          "name": "Milwaukee Bucks",
          "short": "Bucks",
          "abbr": "MIL",
-         "score": 15,
+         "score": 17,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -2392,7 +2392,7 @@
          "name": "Philadelphia 76ers",
          "short": "76ers",
          "abbr": "PHI",
-         "score": 8,
+         "score": 13,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -2437,10 +2437,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "6:49 - 2nd",
+       "detail": "5:52 - 2nd",
        "start": "2026-11-21T17:00Z",
        "period": 2,
-       "clock": "6:49",
+       "clock": "5:52",
        "teams": [
         {
          "name": "Ohio State Buckeyes",
