@@ -1,5 +1,5 @@
 {
- "updated": "Nov 20, 2026, 4:24 PM PT",
+ "updated": "Nov 20, 2026, 4:27 PM PT",
  "record": {
   "w": 214,
   "l": 216,
@@ -2053,7 +2053,33 @@
       "path": "tennis/atp",
       "event": "339-2026",
       "comp": "187510",
-      "date": "20261120"
+      "date": "20261120",
+      "snapshot": {
+       "source": "tennis-explorer",
+       "path": "tennis/explorer",
+       "event": "3377743",
+       "state": "post",
+       "detail": "Final \u00b7 2-0 sets",
+       "tennis": [
+        {
+         "name": "Alcaraz C.",
+         "winner": true,
+         "sets": [
+          6,
+          6
+         ]
+        },
+        {
+         "name": "Cobolli F.",
+         "winner": false,
+         "sets": [
+          4,
+          1
+         ]
+        }
+       ],
+       "tour": "Masters Cup ATP"
+      }
      },
      {
       "kind": "ml",
@@ -2063,7 +2089,33 @@
       "path": "tennis/atp",
       "event": "339-2026",
       "comp": "187513",
-      "date": "20261120"
+      "date": "20261120",
+      "snapshot": {
+       "source": "tennis-explorer",
+       "path": "tennis/explorer",
+       "event": "3377749",
+       "state": "post",
+       "detail": "Final \u00b7 2-0 sets",
+       "tennis": [
+        {
+         "name": "Medvedev D.",
+         "winner": true,
+         "sets": [
+          6,
+          6
+         ]
+        },
+        {
+         "name": "Tiafoe F.",
+         "winner": false,
+         "sets": [
+          3,
+          4
+         ]
+        }
+       ],
+       "tour": "Masters Cup ATP"
+      }
      }
     ],
     "sport": "Tennis",
@@ -2096,10 +2148,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "3:14 - 2nd",
+       "detail": "2:57 - 2nd",
        "start": "2026-11-20T22:30Z",
        "period": 2,
-       "clock": "3:14",
+       "clock": "2:57",
        "teams": [
         {
          "name": "Mercyhurst Lakers",
@@ -2285,10 +2337,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "10:23 - 1st",
+       "detail": "10:22 - 1st",
        "start": "2026-11-21T00:00Z",
        "period": 1,
-       "clock": "10:23",
+       "clock": "10:22",
        "teams": [
         {
          "name": "Georgia State Panthers",
@@ -2348,16 +2400,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "5:30 - 1st",
+       "detail": "4:37 - 1st",
        "start": "2026-11-21T00:00Z",
        "period": 1,
-       "clock": "5:30",
+       "clock": "4:37",
        "teams": [
         {
          "name": "Charlotte Hornets",
          "short": "Hornets",
          "abbr": "CHA",
-         "score": 19,
+         "score": 21,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -2415,16 +2467,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "5:30 - 1st",
+       "detail": "4:37 - 1st",
        "start": "2026-11-21T00:00Z",
        "period": 1,
-       "clock": "5:30",
+       "clock": "4:37",
        "teams": [
         {
          "name": "Charlotte Hornets",
          "short": "Hornets",
          "abbr": "CHA",
-         "score": 19,
+         "score": 21,
          "ha": "away",
          "winner": null,
          "linescores": [
