@@ -1,5 +1,5 @@
 {
- "updated": "Nov 21, 2026, 1:46 PM PT",
+ "updated": "Nov 21, 2026, 1:48 PM PT",
  "record": {
   "w": 224,
   "l": 230,
@@ -152,10 +152,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "9:17 - 4th",
+       "detail": "7:39 - 4th",
        "start": "2026-11-21T19:00Z",
        "period": 4,
-       "clock": "9:17",
+       "clock": "7:39",
        "teams": [
         {
          "name": "Missouri State Bears",
@@ -1998,10 +1998,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "12:00 - 2nd",
+       "detail": "10:41 - 2nd",
        "start": "2026-11-21T20:45Z",
        "period": 2,
-       "clock": "12:00",
+       "clock": "10:41",
        "teams": [
         {
          "name": "Texas A&M Aggies",
@@ -2193,10 +2193,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "18:03 - 2nd",
+       "detail": "17:07 - 2nd",
        "start": "2026-11-21T20:30Z",
        "period": 2,
-       "clock": "18:03",
+       "clock": "17:07",
        "teams": [
         {
          "name": "Army Black Knights",
@@ -2389,10 +2389,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "18:03 - 2nd",
+       "detail": "17:07 - 2nd",
        "start": "2026-11-21T20:30Z",
        "period": 2,
-       "clock": "18:03",
+       "clock": "17:07",
        "teams": [
         {
          "name": "Army Black Knights",
@@ -2721,10 +2721,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "4:13 - 2nd",
+       "detail": "3:08 - 2nd",
        "start": "2026-11-21T20:30Z",
        "period": 2,
-       "clock": "4:13",
+       "clock": "3:08",
        "teams": [
         {
          "name": "UCLA Bruins",
@@ -2742,7 +2742,7 @@
          "name": "Michigan Wolverines",
          "short": "Wolverines",
          "abbr": "MICH",
-         "score": 0,
+         "score": 3,
          "ha": "home",
          "winner": null,
          "linescores": [
