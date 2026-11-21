@@ -1,5 +1,5 @@
 {
- "updated": "Nov 21, 2026, 7:53 AM PT",
+ "updated": "Nov 21, 2026, 8:14 AM PT",
  "record": {
   "w": 224,
   "l": 230,
@@ -11,7 +11,7 @@
   "first": "2026-10-12",
   "last": "2026-11-20"
  },
- "pending": 29,
+ "pending": 30,
  "plays": [
   {
    "n": 334,
@@ -7481,6 +7481,22 @@
    "pick": "Columbus Blue Jackets ML +102",
    "odds": 102,
    "units": 0.5,
+   "result": null,
+   "pl": null,
+   "pending": true
+  },
+  {
+   "n": 939,
+   "date": "2026-11-21",
+   "day": "2026-11-21",
+   "league": "NCAAF",
+   "market": "parlay",
+   "market_label": "Parlay",
+   "ticket": "parlay",
+   "matchup": "2-leg parlay",
+   "pick": "Jacksonville State Gamecocks -10 (Missouri State @ Jacksonville State, 11:00 AM PT) + Appalachian State Mountaineers -13.5 (UL Monroe @ Appalachian State, 11:30 AM PT)",
+   "odds": 224,
+   "units": 1.5,
    "result": null,
    "pl": null,
    "pending": true
