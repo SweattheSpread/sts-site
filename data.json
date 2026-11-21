@@ -1,5 +1,5 @@
 {
- "updated": "Nov 21, 2026, 3:33 PM PT",
+ "updated": "Nov 21, 2026, 3:35 PM PT",
  "record": {
   "w": 224,
   "l": 230,
@@ -2033,10 +2033,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "13:13 - 4th",
+       "detail": "12:21 - 4th",
        "start": "2026-11-21T20:45Z",
        "period": 4,
-       "clock": "13:13",
+       "clock": "12:21",
        "teams": [
         {
          "name": "Texas A&M Aggies",
@@ -2068,7 +2068,7 @@
         }
        ],
        "stat": {
-        "v": 3,
+        "v": 4,
         "name": "Mario Craver"
        }
       },
@@ -2103,10 +2103,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P1 07:38",
+       "detail": "P1 05:06",
        "start": "2026-11-21T23:00:00Z",
        "period": 1,
-       "clock": "07:38",
+       "clock": "05:06",
        "teams": [
         {
          "name": "Penguins",
@@ -2817,10 +2817,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "5:24 - 4th",
+       "detail": "4:39 - 4th",
        "start": "2026-11-21T20:30Z",
        "period": 4,
-       "clock": "5:24",
+       "clock": "4:39",
        "teams": [
         {
          "name": "UCLA Bruins",
