@@ -1,5 +1,5 @@
 {
- "updated": "Nov 21, 2026, 9:39 AM PT",
+ "updated": "Nov 21, 2026, 9:42 AM PT",
  "record": {
   "w": 224,
   "l": 230,
@@ -11,7 +11,7 @@
   "first": "2026-10-12",
   "last": "2026-11-20"
  },
- "pending": 38,
+ "pending": 39,
  "latest": [
   {
    "n": 933,
@@ -2116,16 +2116,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "2:02 - 1st",
+       "detail": "0:31 - 1st",
        "start": "2026-11-21T17:00Z",
        "period": 1,
-       "clock": "2:02",
+       "clock": "0:31",
        "teams": [
         {
          "name": "Columbia Lions",
          "short": "Lions",
          "abbr": "COLU",
-         "score": 27,
+         "score": 30,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -2136,7 +2136,7 @@
          "name": "Boston University Terriers",
          "short": "Terriers",
          "abbr": "BU",
-         "score": 16,
+         "score": 18,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -2177,16 +2177,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "5:02 - 2nd",
+       "detail": "3:37 - 2nd",
        "start": "2026-11-21T16:00Z",
        "period": 2,
-       "clock": "5:02",
+       "clock": "3:37",
        "teams": [
         {
          "name": "South Carolina Upstate Spartans",
          "short": "Spartans",
          "abbr": "UPST",
-         "score": 51,
+         "score": 59,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -2242,10 +2242,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "5:49 - 1st",
+       "detail": "5:40 - 1st",
        "start": "2026-11-21T17:00Z",
        "period": 1,
-       "clock": "5:49",
+       "clock": "5:40",
        "teams": [
         {
          "name": "Ohio State Buckeyes",
@@ -2263,6 +2263,67 @@
          "short": "Cornhuskers",
          "abbr": "NEB",
          "score": 7,
+         "ha": "home",
+         "winner": null,
+         "linescores": [
+          0
+         ]
+        }
+       ]
+      },
+      "source": "espn"
+     }
+    ],
+    "sport": "NCAAF",
+    "ticket": "single"
+   }
+  },
+  {
+   "n": 948,
+   "league": "NCAAF",
+   "type": "Spread",
+   "matchup": "Wisconsin Badgers @ Purdue Boilermakers",
+   "pick": "Wisconsin Badgers -19.5",
+   "odds": 112,
+   "units": 7.0,
+   "gap": null,
+   "start": "2026-11-21T09:00:00",
+   "timed": true,
+   "ticket": "single",
+   "espn": {
+    "legs": [
+     {
+      "kind": "spread",
+      "side": "Wisconsin Badgers",
+      "line": -19.5,
+      "label": "Wisconsin Badgers -19.5",
+      "path": "football/college-football",
+      "event": "401858533",
+      "date": "20261121",
+      "snapshot": {
+       "source": "espn",
+       "state": "in",
+       "detail": "End of 1st",
+       "start": "2026-11-21T17:00Z",
+       "period": 1,
+       "clock": "0:00",
+       "teams": [
+        {
+         "name": "Wisconsin Badgers",
+         "short": "Badgers",
+         "abbr": "WIS",
+         "score": 14,
+         "ha": "away",
+         "winner": null,
+         "linescores": [
+          0
+         ]
+        },
+        {
+         "name": "Purdue Boilermakers",
+         "short": "Boilermakers",
+         "abbr": "PUR",
+         "score": 0,
          "ha": "home",
          "winner": null,
          "linescores": [

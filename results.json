@@ -1,5 +1,5 @@
 {
- "updated": "Nov 21, 2026, 9:39 AM PT",
+ "updated": "Nov 21, 2026, 9:42 AM PT",
  "record": {
   "w": 224,
   "l": 230,
@@ -11,7 +11,7 @@
   "first": "2026-10-12",
   "last": "2026-11-20"
  },
- "pending": 38,
+ "pending": 39,
  "plays": [
   {
    "n": 334,
@@ -7625,6 +7625,22 @@
    "pick": "Under 156.5",
    "odds": -110,
    "units": 1.0,
+   "result": null,
+   "pl": null,
+   "pending": true
+  },
+  {
+   "n": 948,
+   "date": "2026-11-21",
+   "day": "2026-11-21",
+   "league": "NCAAF",
+   "market": "spread",
+   "market_label": "Spread",
+   "ticket": "single",
+   "matchup": "Wisconsin Badgers @ Purdue Boilermakers",
+   "pick": "Wisconsin Badgers -19.5",
+   "odds": 112,
+   "units": 7.0,
    "result": null,
    "pl": null,
    "pending": true
