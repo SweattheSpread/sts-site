@@ -1,5 +1,5 @@
 {
- "updated": "Nov 20, 2026, 6:17 PM PT",
+ "updated": "Nov 20, 2026, 6:20 PM PT",
  "record": {
   "w": 214,
   "l": 216,
@@ -1835,16 +1835,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "12:49 - 1st",
+       "detail": "11:56 - 1st",
        "start": "2026-11-21T02:00Z",
        "period": 1,
-       "clock": "12:49",
+       "clock": "11:56",
        "teams": [
         {
          "name": "Sam Houston Bearkats",
          "short": "Bearkats",
          "abbr": "SHSU",
-         "score": 3,
+         "score": 6,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -1897,10 +1897,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "15:11 - 1st",
+       "detail": "14:37 - 1st",
        "start": "2026-11-21T02:00Z",
        "period": 1,
-       "clock": "15:11",
+       "clock": "14:37",
        "teams": [
         {
          "name": "Eastern Illinois Panthers",
@@ -1917,7 +1917,7 @@
          "name": "Illinois Fighting Illini",
          "short": "Fighting Illini",
          "abbr": "ILL",
-         "score": 13,
+         "score": 14,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -2082,16 +2082,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "12:13 - 1st",
+       "detail": "10:41 - 1st",
        "start": "2026-11-21T02:00Z",
        "period": 1,
-       "clock": "12:13",
+       "clock": "10:41",
        "teams": [
         {
          "name": "Cal State Bakersfield Roadrunners",
          "short": "Roadrunners",
          "abbr": "CSUB",
-         "score": 13,
+         "score": 16,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -2102,7 +2102,7 @@
          "name": "Idaho Vandals",
          "short": "Vandals",
          "abbr": "IDHO",
-         "score": 15,
+         "score": 21,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -2145,16 +2145,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "1:28 - 3rd",
+       "detail": "20.6 - 3rd",
        "start": "2026-11-21T00:30Z",
        "period": 3,
-       "clock": "1:28",
+       "clock": "20.6",
        "teams": [
         {
          "name": "Indiana Pacers",
          "short": "Pacers",
          "abbr": "IND",
-         "score": 80,
+         "score": 83,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -2167,7 +2167,7 @@
          "name": "Cleveland Cavaliers",
          "short": "Cavaliers",
          "abbr": "CLE",
-         "score": 100,
+         "score": 103,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -2213,10 +2213,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "3:25 - 3rd",
+       "detail": "2:08 - 3rd",
        "start": "2026-11-21T00:30Z",
        "period": 3,
-       "clock": "3:25",
+       "clock": "2:08",
        "teams": [
         {
          "name": "Toronto Raptors",
@@ -2235,7 +2235,7 @@
          "name": "Detroit Pistons",
          "short": "Pistons",
          "abbr": "DET",
-         "score": 62,
+         "score": 69,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -2350,10 +2350,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "3:25 - 3rd",
+       "detail": "2:08 - 3rd",
        "start": "2026-11-21T00:30Z",
        "period": 3,
-       "clock": "3:25",
+       "clock": "2:08",
        "teams": [
         {
          "name": "Toronto Raptors",
@@ -2372,7 +2372,7 @@
          "name": "Detroit Pistons",
          "short": "Pistons",
          "abbr": "DET",
-         "score": 62,
+         "score": 69,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -2420,11 +2420,11 @@
       "date": "20261120",
       "snapshot": {
        "source": "espn",
-       "state": "in",
-       "detail": "End of 4th",
+       "state": "post",
+       "detail": "Final",
        "start": "2026-11-21T00:00Z",
-       "period": 4,
-       "clock": "0.1",
+       "period": null,
+       "clock": null,
        "teams": [
         {
          "name": "Charlotte Hornets",
@@ -2432,7 +2432,7 @@
          "abbr": "CHA",
          "score": 97,
          "ha": "away",
-         "winner": null,
+         "winner": false,
          "linescores": [
           0,
           0,
@@ -2446,7 +2446,7 @@
          "abbr": "ATL",
          "score": 111,
          "ha": "home",
-         "winner": null,
+         "winner": true,
          "linescores": [
           0,
           0,
@@ -2493,11 +2493,11 @@
       "date": "20261120",
       "snapshot": {
        "source": "espn",
-       "state": "in",
-       "detail": "End of 4th",
+       "state": "post",
+       "detail": "Final",
        "start": "2026-11-21T00:00Z",
-       "period": 4,
-       "clock": "0.1",
+       "period": null,
+       "clock": null,
        "teams": [
         {
          "name": "Charlotte Hornets",
@@ -2505,7 +2505,7 @@
          "abbr": "CHA",
          "score": 97,
          "ha": "away",
-         "winner": null,
+         "winner": false,
          "linescores": [
           0,
           0,
@@ -2519,7 +2519,7 @@
          "abbr": "ATL",
          "score": 111,
          "ha": "home",
-         "winner": null,
+         "winner": true,
          "linescores": [
           0,
           0,
@@ -2703,10 +2703,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "14:22 - 1st",
+       "detail": "13:13 - 1st",
        "start": "2026-11-21T02:00Z",
        "period": 1,
-       "clock": "14:22",
+       "clock": "13:13",
        "teams": [
         {
          "name": "New Mexico Lobos",
