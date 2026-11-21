@@ -1,5 +1,5 @@
 {
- "updated": "Nov 21, 2026, 8:18 AM PT",
+ "updated": "Nov 21, 2026, 8:24 AM PT",
  "record": {
   "w": 224,
   "l": 230,
@@ -239,6 +239,101 @@
     ],
     "sport": "NCAAB",
     "ticket": "single"
+   }
+  },
+  {
+   "n": 939,
+   "league": "NCAAF",
+   "type": "Parlay",
+   "matchup": "2-leg parlay",
+   "pick": "Jacksonville State Gamecocks -10 (Missouri State @ Jacksonville State, 11:00 AM PT) + Appalachian State Mountaineers -13.5 (UL Monroe @ Appalachian State, 11:30 AM PT)",
+   "odds": 224,
+   "units": 1.5,
+   "gap": null,
+   "start": "2026-11-21T11:00:00",
+   "timed": true,
+   "ticket": "parlay",
+   "espn": {
+    "legs": [
+     {
+      "kind": "spread",
+      "side": "Jacksonville State Gamecocks",
+      "line": -10.0,
+      "label": "Jacksonville State Gamecocks -10",
+      "path": "football/college-football",
+      "event": "401871079",
+      "date": "20261122",
+      "snapshot": {
+       "source": "espn",
+       "state": "pre",
+       "detail": "11/21 - 2:00 PM EST",
+       "start": "2026-11-21T19:00Z",
+       "period": null,
+       "clock": null,
+       "teams": [
+        {
+         "name": "Missouri State Bears",
+         "short": "Bears",
+         "abbr": "MOST",
+         "score": 0,
+         "ha": "away",
+         "winner": null,
+         "linescores": []
+        },
+        {
+         "name": "Jacksonville State Gamecocks",
+         "short": "Gamecocks",
+         "abbr": "JXST",
+         "score": 0,
+         "ha": "home",
+         "winner": null,
+         "linescores": []
+        }
+       ]
+      },
+      "source": "espn"
+     },
+     {
+      "kind": "spread",
+      "side": "Appalachian State Mountaineers",
+      "line": -13.5,
+      "label": "Appalachian State Mountaineers -13.5",
+      "path": "football/college-football",
+      "event": "401869929",
+      "date": "20261122",
+      "snapshot": {
+       "source": "espn",
+       "state": "pre",
+       "detail": "11/21 - 2:30 PM EST",
+       "start": "2026-11-21T19:30Z",
+       "period": null,
+       "clock": null,
+       "teams": [
+        {
+         "name": "UL Monroe Warhawks",
+         "short": "Warhawks",
+         "abbr": "ULM",
+         "score": 0,
+         "ha": "away",
+         "winner": null,
+         "linescores": []
+        },
+        {
+         "name": "App State Mountaineers",
+         "short": "Mountaineers",
+         "abbr": "APP",
+         "score": 0,
+         "ha": "home",
+         "winner": null,
+         "linescores": []
+        }
+       ]
+      },
+      "source": "espn"
+     }
+    ],
+    "sport": "NCAAF",
+    "ticket": "parlay"
    }
   },
   {
@@ -527,70 +622,6 @@
     ],
     "sport": "NHL",
     "ticket": "single"
-   }
-  },
-  {
-   "n": 939,
-   "league": "NCAAF",
-   "type": "Parlay",
-   "matchup": "2-leg parlay",
-   "pick": "Jacksonville State Gamecocks -10 (Missouri State @ Jacksonville State, 11:00 AM PT) + Appalachian State Mountaineers -13.5 (UL Monroe @ Appalachian State, 11:30 AM PT)",
-   "odds": 224,
-   "units": 1.5,
-   "gap": null,
-   "start": "2026-11-21T23:59:00",
-   "timed": false,
-   "ticket": "parlay",
-   "espn": {
-    "legs": [
-     {
-      "kind": "spread",
-      "side": "Jacksonville State Gamecocks",
-      "line": -10.0,
-      "label": "Jacksonville State Gamecocks -10",
-      "path": "football/college-football",
-      "event": "401871079",
-      "date": "20261122",
-      "snapshot": {
-       "source": "espn",
-       "state": "pre",
-       "detail": "11/21 - 2:00 PM EST",
-       "start": "2026-11-21T19:00Z",
-       "period": null,
-       "clock": null,
-       "teams": [
-        {
-         "name": "Missouri State Bears",
-         "short": "Bears",
-         "abbr": "MOST",
-         "score": 0,
-         "ha": "away",
-         "winner": null,
-         "linescores": []
-        },
-        {
-         "name": "Jacksonville State Gamecocks",
-         "short": "Gamecocks",
-         "abbr": "JXST",
-         "score": 0,
-         "ha": "home",
-         "winner": null,
-         "linescores": []
-        }
-       ]
-      },
-      "source": "espn"
-     },
-     {
-      "kind": "spread",
-      "side": "Appalachian State Mountaineers",
-      "line": -13.5,
-      "label": "Appalachian State Mountaineers -13.5",
-      "unverified": true
-     }
-    ],
-    "sport": "NCAAF",
-    "ticket": "parlay"
    }
   },
   {
