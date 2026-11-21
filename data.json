@@ -1,5 +1,5 @@
 {
- "updated": "Nov 21, 2026, 10:03 AM PT",
+ "updated": "Nov 21, 2026, 10:05 AM PT",
  "record": {
   "w": 224,
   "l": 230,
@@ -2146,16 +2146,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "17:17 - 2nd",
+       "detail": "15:46 - 2nd",
        "start": "2026-11-21T17:00Z",
        "period": 2,
-       "clock": "17:17",
+       "clock": "15:46",
        "teams": [
         {
          "name": "Columbia Lions",
          "short": "Lions",
          "abbr": "COLU",
-         "score": 32,
+         "score": 35,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -2167,7 +2167,7 @@
          "name": "Boston University Terriers",
          "short": "Terriers",
          "abbr": "BU",
-         "score": 22,
+         "score": 25,
          "ha": "home",
          "winner": null,
          "linescores": [
