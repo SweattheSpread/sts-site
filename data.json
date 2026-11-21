@@ -1,5 +1,5 @@
 {
- "updated": "Nov 20, 2026, 9:34 PM PT",
+ "updated": "Nov 20, 2026, 9:36 PM PT",
  "record": {
   "w": 223,
   "l": 229,
@@ -1475,10 +1475,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "1:52 - 4th",
+       "detail": "0:55 - 4th",
        "start": "2026-11-21T02:00Z",
        "period": 4,
-       "clock": "1:52",
+       "clock": "0:55",
        "teams": [
         {
          "name": "New Mexico Lobos",
@@ -1571,10 +1571,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "57.8 - 4th",
+       "detail": "10.8 - 4th",
        "start": "2026-11-21T03:00Z",
        "period": 4,
-       "clock": "57.8",
+       "clock": "10.8",
        "teams": [
         {
          "name": "Houston Rockets",
@@ -1594,7 +1594,7 @@
          "name": "Denver Nuggets",
          "short": "Nuggets",
          "abbr": "DEN",
-         "score": 127,
+         "score": 131,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -1606,7 +1606,7 @@
         }
        ],
        "stat": {
-        "v": 2,
+        "v": 3,
         "name": "Aaron Gordon"
        }
       },
