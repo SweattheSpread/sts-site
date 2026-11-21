@@ -1,5 +1,5 @@
 {
- "updated": "Nov 21, 2026, 10:43 AM PT",
+ "updated": "Nov 21, 2026, 10:45 AM PT",
  "record": {
   "w": 224,
   "l": 230,
@@ -11,7 +11,7 @@
   "first": "2026-10-12",
   "last": "2026-11-20"
  },
- "pending": 41,
+ "pending": 42,
  "latest": [
   {
    "n": 933,
@@ -733,6 +733,66 @@
         }
        ],
        "nhl_id": 2026020370
+      },
+      "source": "nhl"
+     }
+    ],
+    "sport": "NHL",
+    "ticket": "single"
+   }
+  },
+  {
+   "n": 951,
+   "league": "NHL",
+   "type": "Player Prop",
+   "matchup": "Minnesota Wild @ Vancouver Canucks",
+   "pick": "Blake Coleman Under 0.5 points",
+   "odds": -105,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-21T19:00:00",
+   "timed": true,
+   "ticket": "single",
+   "espn": {
+    "legs": [
+     {
+      "kind": "prop",
+      "player": "Blake Coleman",
+      "ou": "U",
+      "line": 0.5,
+      "stat": "points",
+      "label": "Blake Coleman U 0.5 points",
+      "path": "hockey/nhl",
+      "event": "401892754",
+      "date": "20261121",
+      "snapshot": {
+       "source": "nhl",
+       "state": "pre",
+       "detail": "Scheduled",
+       "start": "2026-11-22T03:00:00Z",
+       "period": null,
+       "clock": null,
+       "teams": [
+        {
+         "name": "Wild",
+         "short": "MIN",
+         "abbr": "MIN",
+         "score": 0,
+         "ha": "away",
+         "winner": null,
+         "linescores": []
+        },
+        {
+         "name": "Canucks",
+         "short": "VAN",
+         "abbr": "VAN",
+         "score": 0,
+         "ha": "home",
+         "winner": null,
+         "linescores": []
+        }
+       ],
+       "nhl_id": 2026020371
       },
       "source": "nhl"
      }
@@ -2116,16 +2176,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "3:44 - 2nd",
+       "detail": "2:25 - 2nd",
        "start": "2026-11-21T17:00Z",
        "period": 2,
-       "clock": "3:44",
+       "clock": "2:25",
        "teams": [
         {
          "name": "Columbia Lions",
          "short": "Lions",
          "abbr": "COLU",
-         "score": 50,
+         "score": 53,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -2137,7 +2197,7 @@
          "name": "Boston University Terriers",
          "short": "Terriers",
          "abbr": "BU",
-         "score": 46,
+         "score": 51,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -2244,10 +2304,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "0:26 - 2nd",
+       "detail": "0:14 - 2nd",
        "start": "2026-11-21T17:00Z",
        "period": 2,
-       "clock": "0:26",
+       "clock": "0:14",
        "teams": [
         {
          "name": "Ohio State Buckeyes",
@@ -2372,16 +2432,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "8:08 - 2nd",
+       "detail": "6:41 - 2nd",
        "start": "2026-11-21T18:00Z",
        "period": 2,
-       "clock": "8:08",
+       "clock": "6:41",
        "teams": [
         {
          "name": "Milwaukee Bucks",
          "short": "Bucks",
          "abbr": "MIL",
-         "score": 41,
+         "score": 43,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -2439,10 +2499,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "0:26 - 2nd",
+       "detail": "0:14 - 2nd",
        "start": "2026-11-21T17:00Z",
        "period": 2,
-       "clock": "0:26",
+       "clock": "0:14",
        "teams": [
         {
          "name": "Ohio State Buckeyes",

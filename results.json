@@ -1,5 +1,5 @@
 {
- "updated": "Nov 21, 2026, 10:43 AM PT",
+ "updated": "Nov 21, 2026, 10:45 AM PT",
  "record": {
   "w": 224,
   "l": 230,
@@ -11,7 +11,7 @@
   "first": "2026-10-12",
   "last": "2026-11-20"
  },
- "pending": 41,
+ "pending": 42,
  "plays": [
   {
    "n": 334,
@@ -7673,6 +7673,22 @@
    "pick": "Nebraska Cornhuskers +2.5",
    "odds": 101,
    "units": 7.0,
+   "result": null,
+   "pl": null,
+   "pending": true
+  },
+  {
+   "n": 951,
+   "date": "2026-11-21",
+   "day": "2026-11-21",
+   "league": "NHL",
+   "market": "player_prop",
+   "market_label": "Player Prop",
+   "ticket": "single",
+   "matchup": "Minnesota Wild @ Vancouver Canucks",
+   "pick": "Blake Coleman Under 0.5 points",
+   "odds": -105,
+   "units": 1.0,
    "result": null,
    "pl": null,
    "pending": true
