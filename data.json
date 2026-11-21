@@ -1,5 +1,5 @@
 {
- "updated": "Nov 21, 2026, 11:39 AM PT",
+ "updated": "Nov 21, 2026, 11:41 AM PT",
  "record": {
   "w": 224,
   "l": 230,
@@ -194,10 +194,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "12:20 - 1st",
+       "detail": "10:59 - 1st",
        "start": "2026-11-21T19:30Z",
        "period": 1,
-       "clock": "12:20",
+       "clock": "10:59",
        "teams": [
         {
          "name": "UL Monroe Warhawks",
@@ -2456,16 +2456,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "4:41 - 3rd",
+       "detail": "3:45 - 3rd",
        "start": "2026-11-21T18:00Z",
        "period": 3,
-       "clock": "4:41",
+       "clock": "3:45",
        "teams": [
         {
          "name": "Milwaukee Bucks",
          "short": "Bucks",
          "abbr": "MIL",
-         "score": 73,
+         "score": 75,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -2478,7 +2478,7 @@
          "name": "Philadelphia 76ers",
          "short": "76ers",
          "abbr": "PHI",
-         "score": 83,
+         "score": 86,
          "ha": "home",
          "winner": null,
          "linescores": [
