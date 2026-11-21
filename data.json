@@ -1,5 +1,5 @@
 {
- "updated": "Nov 20, 2026, 6:11 PM PT",
+ "updated": "Nov 20, 2026, 6:14 PM PT",
  "record": {
   "w": 214,
   "l": 216,
@@ -1835,10 +1835,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "15:46 - 1st",
+       "detail": "14:46 - 1st",
        "start": "2026-11-21T02:00Z",
        "period": 1,
-       "clock": "15:46",
+       "clock": "14:46",
        "teams": [
         {
          "name": "Sam Houston Bearkats",
@@ -1897,16 +1897,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "19:20 - 1st",
+       "detail": "17:06 - 1st",
        "start": "2026-11-21T02:00Z",
        "period": 1,
-       "clock": "19:20",
+       "clock": "17:06",
        "teams": [
         {
          "name": "Eastern Illinois Panthers",
          "short": "Panthers",
          "abbr": "EIU",
-         "score": 0,
+         "score": 3,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -1917,7 +1917,7 @@
          "name": "Illinois Fighting Illini",
          "short": "Fighting Illini",
          "abbr": "ILL",
-         "score": 0,
+         "score": 8,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -2082,10 +2082,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "14:43 - 1st",
+       "detail": "14:37 - 1st",
        "start": "2026-11-21T02:00Z",
        "period": 1,
-       "clock": "14:43",
+       "clock": "14:37",
        "teams": [
         {
          "name": "Cal State Bakersfield Roadrunners",
@@ -2145,10 +2145,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "4:55 - 3rd",
+       "detail": "2:54 - 3rd",
        "start": "2026-11-21T00:30Z",
        "period": 3,
-       "clock": "4:55",
+       "clock": "2:54",
        "teams": [
         {
          "name": "Indiana Pacers",
@@ -2167,7 +2167,7 @@
          "name": "Cleveland Cavaliers",
          "short": "Cavaliers",
          "abbr": "CLE",
-         "score": 90,
+         "score": 97,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -2213,16 +2213,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "4:49 - 3rd",
+       "detail": "3:36 - 3rd",
        "start": "2026-11-21T00:30Z",
        "period": 3,
-       "clock": "4:49",
+       "clock": "3:36",
        "teams": [
         {
          "name": "Toronto Raptors",
          "short": "Raptors",
          "abbr": "TOR",
-         "score": 69,
+         "score": 72,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -2235,7 +2235,7 @@
          "name": "Detroit Pistons",
          "short": "Pistons",
          "abbr": "DET",
-         "score": 59,
+         "score": 62,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -2350,16 +2350,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "4:49 - 3rd",
+       "detail": "3:36 - 3rd",
        "start": "2026-11-21T00:30Z",
        "period": 3,
-       "clock": "4:49",
+       "clock": "3:36",
        "teams": [
         {
          "name": "Toronto Raptors",
          "short": "Raptors",
          "abbr": "TOR",
-         "score": 69,
+         "score": 72,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -2372,7 +2372,7 @@
          "name": "Detroit Pistons",
          "short": "Pistons",
          "abbr": "DET",
-         "score": 59,
+         "score": 62,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -2421,10 +2421,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "1:32 - 4th",
+       "detail": "1:12 - 4th",
        "start": "2026-11-21T00:00Z",
        "period": 4,
-       "clock": "1:32",
+       "clock": "1:12",
        "teams": [
         {
          "name": "Charlotte Hornets",
@@ -2444,7 +2444,7 @@
          "name": "Atlanta Hawks",
          "short": "Hawks",
          "abbr": "ATL",
-         "score": 109,
+         "score": 111,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -2494,10 +2494,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "1:32 - 4th",
+       "detail": "1:12 - 4th",
        "start": "2026-11-21T00:00Z",
        "period": 4,
-       "clock": "1:32",
+       "clock": "1:12",
        "teams": [
         {
          "name": "Charlotte Hornets",
@@ -2517,7 +2517,7 @@
          "name": "Atlanta Hawks",
          "short": "Hawks",
          "abbr": "ATL",
-         "score": 109,
+         "score": 111,
          "ha": "home",
          "winner": null,
          "linescores": [
