@@ -1,5 +1,5 @@
 {
- "updated": "Nov 21, 2026, 2:45 PM PT",
+ "updated": "Nov 21, 2026, 2:47 PM PT",
  "record": {
   "w": 224,
   "l": 230,
@@ -2030,10 +2030,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "Halftime",
+       "detail": "11:28 - 3rd",
        "start": "2026-11-21T20:45Z",
-       "period": 2,
-       "clock": "0:00",
+       "period": 3,
+       "clock": "11:28",
        "teams": [
         {
          "name": "Texas A&M Aggies",
@@ -2043,6 +2043,7 @@
          "ha": "away",
          "winner": null,
          "linescores": [
+          0,
           0,
           0
          ]
@@ -2056,12 +2057,13 @@
          "winner": null,
          "linescores": [
           0,
+          0,
           0
          ]
         }
        ],
        "stat": {
-        "v": 2,
+        "v": 3,
         "name": "Mario Craver"
        }
       },
@@ -2753,10 +2755,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "5:42 - 3rd",
+       "detail": "5:36 - 3rd",
        "start": "2026-11-21T20:30Z",
        "period": 3,
-       "clock": "5:42",
+       "clock": "5:36",
        "teams": [
         {
          "name": "UCLA Bruins",
