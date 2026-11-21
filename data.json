@@ -1,5 +1,5 @@
 {
- "updated": "Nov 21, 2026, 2:11 PM PT",
+ "updated": "Nov 21, 2026, 2:14 PM PT",
  "record": {
   "w": 224,
   "l": 230,
@@ -200,10 +200,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "5:25 - 4th",
+       "detail": "4:24 - 4th",
        "start": "2026-11-21T19:30Z",
        "period": 4,
-       "clock": "5:25",
+       "clock": "4:24",
        "teams": [
         {
          "name": "UL Monroe Warhawks",
@@ -1998,10 +1998,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "1:04 - 2nd",
+       "detail": "0:46 - 2nd",
        "start": "2026-11-21T20:45Z",
        "period": 2,
-       "clock": "1:04",
+       "clock": "0:46",
        "teams": [
         {
          "name": "Texas A&M Aggies",
@@ -2193,10 +2193,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "7:53 - 2nd",
+       "detail": "7:50 - 2nd",
        "start": "2026-11-21T20:30Z",
        "period": 2,
-       "clock": "7:53",
+       "clock": "7:50",
        "teams": [
         {
          "name": "Army Black Knights",
@@ -2214,7 +2214,7 @@
          "name": "Binghamton Bearcats",
          "short": "Bearcats",
          "abbr": "BING",
-         "score": 57,
+         "score": 59,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -2389,10 +2389,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "7:53 - 2nd",
+       "detail": "7:50 - 2nd",
        "start": "2026-11-21T20:30Z",
        "period": 2,
-       "clock": "7:53",
+       "clock": "7:50",
        "teams": [
         {
          "name": "Army Black Knights",
@@ -2410,7 +2410,7 @@
          "name": "Binghamton Bearcats",
          "short": "Bearcats",
          "abbr": "BING",
-         "score": 57,
+         "score": 59,
          "ha": "home",
          "winner": null,
          "linescores": [
