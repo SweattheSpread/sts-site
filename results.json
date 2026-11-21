@@ -1,5 +1,5 @@
 {
- "updated": "Nov 21, 2026, 1:18 PM PT",
+ "updated": "Nov 21, 2026, 1:21 PM PT",
  "record": {
   "w": 224,
   "l": 230,
@@ -11,7 +11,7 @@
   "first": "2026-10-12",
   "last": "2026-11-20"
  },
- "pending": 43,
+ "pending": 44,
  "plays": [
   {
    "n": 334,
@@ -7705,6 +7705,22 @@
    "pick": "Liberty Flames -35.5",
    "odds": -114,
    "units": 3.0,
+   "result": null,
+   "pl": null,
+   "pending": true
+  },
+  {
+   "n": 953,
+   "date": "2026-11-21",
+   "day": "2026-11-21",
+   "league": "NHL",
+   "market": "player_prop",
+   "market_label": "Player Prop",
+   "ticket": "single",
+   "matchup": "Columbus Blue Jackets @ Toronto Maple Leafs",
+   "pick": "Jack Roslovic Over 0.5 points",
+   "odds": 105,
+   "units": 1.0,
    "result": null,
    "pl": null,
    "pending": true

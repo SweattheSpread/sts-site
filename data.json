@@ -1,5 +1,5 @@
 {
- "updated": "Nov 21, 2026, 1:18 PM PT",
+ "updated": "Nov 21, 2026, 1:21 PM PT",
  "record": {
   "w": 224,
   "l": 230,
@@ -11,7 +11,7 @@
   "first": "2026-10-12",
   "last": "2026-11-20"
  },
- "pending": 43,
+ "pending": 44,
  "latest": [
   {
    "n": 933,
@@ -152,10 +152,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "2:51 - 3rd",
+       "detail": "0:45 - 3rd",
        "start": "2026-11-21T19:00Z",
        "period": 3,
-       "clock": "2:51",
+       "clock": "0:45",
        "teams": [
         {
          "name": "Missouri State Bears",
@@ -198,10 +198,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "12:17 - 3rd",
+       "detail": "9:54 - 3rd",
        "start": "2026-11-21T19:30Z",
        "period": 3,
-       "clock": "12:17",
+       "clock": "9:54",
        "teams": [
         {
          "name": "UL Monroe Warhawks",
@@ -407,6 +407,66 @@
      }
     ],
     "sport": "NCAAB",
+    "ticket": "single"
+   }
+  },
+  {
+   "n": 953,
+   "league": "NHL",
+   "type": "Player Prop",
+   "matchup": "Columbus Blue Jackets @ Toronto Maple Leafs",
+   "pick": "Jack Roslovic Over 0.5 points",
+   "odds": 105,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-21T16:00:00",
+   "timed": true,
+   "ticket": "single",
+   "espn": {
+    "legs": [
+     {
+      "kind": "prop",
+      "player": "Jack Roslovic",
+      "ou": "O",
+      "line": 0.5,
+      "stat": "points",
+      "label": "Jack Roslovic O 0.5 points",
+      "date": "20261121",
+      "unverified": true,
+      "reason": "Player not found in this game",
+      "snapshot": {
+       "source": "nhl",
+       "state": "pre",
+       "detail": "Scheduled",
+       "start": "2026-11-22T00:00:00Z",
+       "period": null,
+       "clock": null,
+       "teams": [
+        {
+         "name": "Blue Jackets",
+         "short": "CBJ",
+         "abbr": "CBJ",
+         "score": 0,
+         "ha": "away",
+         "winner": null,
+         "linescores": []
+        },
+        {
+         "name": "Maple Leafs",
+         "short": "TOR",
+         "abbr": "TOR",
+         "score": 0,
+         "ha": "home",
+         "winner": null,
+         "linescores": []
+        }
+       ],
+       "nhl_id": 2026020364
+      },
+      "source": "nhl"
+     }
+    ],
+    "sport": "NHL",
     "ticket": "single"
    }
   },
@@ -1934,10 +1994,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "5:41 - 1st",
+       "detail": "5:18 - 1st",
        "start": "2026-11-21T20:45Z",
        "period": 1,
-       "clock": "5:41",
+       "clock": "5:18",
        "teams": [
         {
          "name": "Texas A&M Aggies",
@@ -2124,10 +2184,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "3:14 - 1st",
+       "detail": "2:39 - 1st",
        "start": "2026-11-21T20:30Z",
        "period": 1,
-       "clock": "3:14",
+       "clock": "2:39",
        "teams": [
         {
          "name": "Army Black Knights",
@@ -2318,10 +2378,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "3:14 - 1st",
+       "detail": "2:39 - 1st",
        "start": "2026-11-21T20:30Z",
        "period": 1,
-       "clock": "3:14",
+       "clock": "2:39",
        "teams": [
         {
          "name": "Army Black Knights",
@@ -2649,11 +2709,11 @@
       "date": "20261121",
       "snapshot": {
        "source": "espn",
-       "state": "in",
-       "detail": "0:28 - 4th",
+       "state": "post",
+       "detail": "Final",
        "start": "2026-11-21T18:00Z",
-       "period": 4,
-       "clock": "0:28",
+       "period": null,
+       "clock": null,
        "teams": [
         {
          "name": "Western Kentucky Hilltoppers",
@@ -2661,7 +2721,7 @@
          "abbr": "WKU",
          "score": 14,
          "ha": "away",
-         "winner": null,
+         "winner": false,
          "linescores": [
           0,
           0,
@@ -2675,7 +2735,7 @@
          "abbr": "LIB",
          "score": 45,
          "ha": "home",
-         "winner": null,
+         "winner": true,
          "linescores": [
           0,
           0,
