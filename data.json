@@ -1,5 +1,5 @@
 {
- "updated": "Nov 20, 2026, 7:19 PM PT",
+ "updated": "Nov 20, 2026, 7:21 PM PT",
  "record": {
   "w": 214,
   "l": 216,
@@ -153,10 +153,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "6:13 - 3rd",
+       "detail": "4:43 - 3rd",
        "start": "2026-11-21T01:00Z",
        "period": 3,
-       "clock": "6:13",
+       "clock": "4:43",
        "teams": [
         {
          "name": "UTEP Miners",
@@ -1743,16 +1743,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "8:08 - 2nd",
+       "detail": "7:37 - 2nd",
        "start": "2026-11-21T02:30Z",
        "period": 2,
-       "clock": "8:08",
+       "clock": "7:37",
        "teams": [
         {
          "name": "Phoenix Suns",
          "short": "Suns",
          "abbr": "PHX",
-         "score": 39,
+         "score": 43,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -1935,16 +1935,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "17:23 - 2nd",
+       "detail": "16:52 - 2nd",
        "start": "2026-11-21T02:00Z",
        "period": 2,
-       "clock": "17:23",
+       "clock": "16:52",
        "teams": [
         {
          "name": "Sam Houston Bearkats",
          "short": "Bearkats",
          "abbr": "SHSU",
-         "score": 45,
+         "score": 48,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -1999,10 +1999,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "16:04 - 2nd",
+       "detail": "15:48 - 2nd",
        "start": "2026-11-21T02:00Z",
        "period": 2,
-       "clock": "16:04",
+       "clock": "15:48",
        "teams": [
         {
          "name": "Eastern Illinois Panthers",
@@ -2186,10 +2186,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "14:53 - 2nd",
+       "detail": "11:49 - 2nd",
        "start": "2026-11-21T02:00Z",
        "period": 2,
-       "clock": "14:53",
+       "clock": "11:49",
        "teams": [
         {
          "name": "Cal State Bakersfield Roadrunners",
@@ -2207,7 +2207,7 @@
          "name": "Idaho Vandals",
          "short": "Vandals",
          "abbr": "IDHO",
-         "score": 59,
+         "score": 61,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -2365,10 +2365,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "58.7 - 4th",
+       "detail": "3.8 - 4th",
        "start": "2026-11-21T01:00Z",
        "period": 4,
-       "clock": "58.7",
+       "clock": "3.8",
        "teams": [
         {
          "name": "Washington Wizards",
@@ -2388,7 +2388,7 @@
          "name": "Chicago Bulls",
          "short": "Bulls",
          "abbr": "CHI",
-         "score": 92,
+         "score": 94,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -2657,10 +2657,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "34.8 - 4th",
+       "detail": "33.3 - 4th",
        "start": "2026-11-21T01:00Z",
        "period": 4,
-       "clock": "34.8",
+       "clock": "33.3",
        "teams": [
         {
          "name": "New Orleans Pelicans",
@@ -2680,7 +2680,7 @@
          "name": "Oklahoma City Thunder",
          "short": "Thunder",
          "abbr": "OKC",
-         "score": 121,
+         "score": 124,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -2730,10 +2730,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "58.7 - 4th",
+       "detail": "3.8 - 4th",
        "start": "2026-11-21T01:00Z",
        "period": 4,
-       "clock": "58.7",
+       "clock": "3.8",
        "teams": [
         {
          "name": "Washington Wizards",
@@ -2753,7 +2753,7 @@
          "name": "Chicago Bulls",
          "short": "Bulls",
          "abbr": "CHI",
-         "score": 92,
+         "score": 94,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -2801,10 +2801,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "5:22 - 2nd",
+       "detail": "3:30 - 2nd",
        "start": "2026-11-21T02:00Z",
        "period": 2,
-       "clock": "5:22",
+       "clock": "3:30",
        "teams": [
         {
          "name": "New Mexico Lobos",
@@ -2893,16 +2893,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "8:51 - 1st",
+       "detail": "6:49 - 1st",
        "start": "2026-11-21T03:00Z",
        "period": 1,
-       "clock": "8:51",
+       "clock": "6:49",
        "teams": [
         {
          "name": "Houston Rockets",
          "short": "Rockets",
          "abbr": "HOU",
-         "score": 11,
+         "score": 19,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -2913,7 +2913,7 @@
          "name": "Denver Nuggets",
          "short": "Nuggets",
          "abbr": "DEN",
-         "score": 13,
+         "score": 17,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -3027,10 +3027,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "34.8 - 4th",
+       "detail": "33.3 - 4th",
        "start": "2026-11-21T01:00Z",
        "period": 4,
-       "clock": "34.8",
+       "clock": "33.3",
        "teams": [
         {
          "name": "New Orleans Pelicans",
@@ -3050,7 +3050,7 @@
          "name": "Oklahoma City Thunder",
          "short": "Thunder",
          "abbr": "OKC",
-         "score": 121,
+         "score": 124,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -3094,10 +3094,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "6:13 - 3rd",
+       "detail": "4:43 - 3rd",
        "start": "2026-11-21T01:00Z",
        "period": 3,
-       "clock": "6:13",
+       "clock": "4:43",
        "teams": [
         {
          "name": "UTEP Miners",
