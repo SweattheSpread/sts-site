@@ -1,5 +1,5 @@
 {
- "updated": "Nov 21, 2026, 9:04 AM PT",
+ "updated": "Nov 21, 2026, 9:06 AM PT",
  "record": {
   "w": 224,
   "l": 230,
@@ -586,7 +586,38 @@
       "side": "Chicago Bears",
       "line": -11.5,
       "label": "Chicago Bears -11.5",
-      "unverified": true
+      "path": "football/nfl",
+      "event": "401873071",
+      "date": "20261122",
+      "snapshot": {
+       "source": "espn",
+       "state": "pre",
+       "detail": "11/22 - 1:00 PM EST",
+       "start": "2026-11-22T18:00Z",
+       "period": null,
+       "clock": null,
+       "teams": [
+        {
+         "name": "New Orleans Saints",
+         "short": "Saints",
+         "abbr": "NO",
+         "score": 0,
+         "ha": "away",
+         "winner": null,
+         "linescores": []
+        },
+        {
+         "name": "Chicago Bears",
+         "short": "Bears",
+         "abbr": "CHI",
+         "score": 0,
+         "ha": "home",
+         "winner": null,
+         "linescores": []
+        }
+       ]
+      },
+      "source": "espn"
      }
     ],
     "sport": "NFL",
@@ -612,7 +643,38 @@
       "side": "Dallas Cowboys",
       "line": -8.0,
       "label": "Dallas Cowboys -8",
-      "unverified": true
+      "path": "football/nfl",
+      "event": "401873073",
+      "date": "20261122",
+      "snapshot": {
+       "source": "espn",
+       "state": "pre",
+       "detail": "11/22 - 1:00 PM EST",
+       "start": "2026-11-22T18:00Z",
+       "period": null,
+       "clock": null,
+       "teams": [
+        {
+         "name": "Tennessee Titans",
+         "short": "Titans",
+         "abbr": "TEN",
+         "score": 0,
+         "ha": "away",
+         "winner": null,
+         "linescores": []
+        },
+        {
+         "name": "Dallas Cowboys",
+         "short": "Cowboys",
+         "abbr": "DAL",
+         "score": 0,
+         "ha": "home",
+         "winner": null,
+         "linescores": []
+        }
+       ]
+      },
+      "source": "espn"
      }
     ],
     "sport": "NFL",
@@ -638,7 +700,38 @@
       "side": "Buffalo Bills",
       "line": -16.5,
       "label": "Buffalo Bills -16.5",
-      "unverified": true
+      "path": "football/nfl",
+      "event": "401873070",
+      "date": "20261122",
+      "snapshot": {
+       "source": "espn",
+       "state": "pre",
+       "detail": "11/22 - 1:00 PM EST",
+       "start": "2026-11-22T18:00Z",
+       "period": null,
+       "clock": null,
+       "teams": [
+        {
+         "name": "Miami Dolphins",
+         "short": "Dolphins",
+         "abbr": "MIA",
+         "score": 0,
+         "ha": "away",
+         "winner": null,
+         "linescores": []
+        },
+        {
+         "name": "Buffalo Bills",
+         "short": "Bills",
+         "abbr": "BUF",
+         "score": 0,
+         "ha": "home",
+         "winner": null,
+         "linescores": []
+        }
+       ]
+      },
+      "source": "espn"
      }
     ],
     "sport": "NFL",
@@ -665,7 +758,38 @@
       "ou": "O",
       "line": 45.0,
       "label": "O 45.0",
-      "unverified": true
+      "path": "football/nfl",
+      "event": "401873070",
+      "date": "20261122",
+      "snapshot": {
+       "source": "espn",
+       "state": "pre",
+       "detail": "11/22 - 1:00 PM EST",
+       "start": "2026-11-22T18:00Z",
+       "period": null,
+       "clock": null,
+       "teams": [
+        {
+         "name": "Miami Dolphins",
+         "short": "Dolphins",
+         "abbr": "MIA",
+         "score": 0,
+         "ha": "away",
+         "winner": null,
+         "linescores": []
+        },
+        {
+         "name": "Buffalo Bills",
+         "short": "Bills",
+         "abbr": "BUF",
+         "score": 0,
+         "ha": "home",
+         "winner": null,
+         "linescores": []
+        }
+       ]
+      },
+      "source": "espn"
      }
     ],
     "sport": "NFL",
@@ -692,7 +816,38 @@
       "ou": "O",
       "line": 41.0,
       "label": "O 41.0",
-      "unverified": true
+      "path": "football/nfl",
+      "event": "401873067",
+      "date": "20261122",
+      "snapshot": {
+       "source": "espn",
+       "state": "pre",
+       "detail": "11/22 - 1:00 PM EST",
+       "start": "2026-11-22T18:00Z",
+       "period": null,
+       "clock": null,
+       "teams": [
+        {
+         "name": "Arizona Cardinals",
+         "short": "Cardinals",
+         "abbr": "ARI",
+         "score": 0,
+         "ha": "away",
+         "winner": null,
+         "linescores": []
+        },
+        {
+         "name": "Kansas City Chiefs",
+         "short": "Chiefs",
+         "abbr": "KC",
+         "score": 0,
+         "ha": "home",
+         "winner": null,
+         "linescores": []
+        }
+       ]
+      },
+      "source": "espn"
      }
     ],
     "sport": "NFL",
@@ -719,7 +874,38 @@
       "ou": "O",
       "line": 48.5,
       "label": "O 48.5",
-      "unverified": true
+      "path": "football/nfl",
+      "event": "401873071",
+      "date": "20261122",
+      "snapshot": {
+       "source": "espn",
+       "state": "pre",
+       "detail": "11/22 - 1:00 PM EST",
+       "start": "2026-11-22T18:00Z",
+       "period": null,
+       "clock": null,
+       "teams": [
+        {
+         "name": "New Orleans Saints",
+         "short": "Saints",
+         "abbr": "NO",
+         "score": 0,
+         "ha": "away",
+         "winner": null,
+         "linescores": []
+        },
+        {
+         "name": "Chicago Bears",
+         "short": "Bears",
+         "abbr": "CHI",
+         "score": 0,
+         "ha": "home",
+         "winner": null,
+         "linescores": []
+        }
+       ]
+      },
+      "source": "espn"
      }
     ],
     "sport": "NFL",
@@ -746,7 +932,38 @@
       "ou": "O",
       "line": 44.0,
       "label": "O 44.0",
-      "unverified": true
+      "path": "football/nfl",
+      "event": "401873072",
+      "date": "20261122",
+      "snapshot": {
+       "source": "espn",
+       "state": "pre",
+       "detail": "11/22 - 1:00 PM EST",
+       "start": "2026-11-22T18:00Z",
+       "period": null,
+       "clock": null,
+       "teams": [
+        {
+         "name": "Tampa Bay Buccaneers",
+         "short": "Buccaneers",
+         "abbr": "TB",
+         "score": 0,
+         "ha": "away",
+         "winner": null,
+         "linescores": []
+        },
+        {
+         "name": "Detroit Lions",
+         "short": "Lions",
+         "abbr": "DET",
+         "score": 0,
+         "ha": "home",
+         "winner": null,
+         "linescores": []
+        }
+       ]
+      },
+      "source": "espn"
      }
     ],
     "sport": "NFL",
@@ -773,7 +990,38 @@
       "ou": "O",
       "line": 11.5,
       "label": "Juwan Johnson longest reception O 11.5",
-      "unverified": true
+      "path": "football/nfl",
+      "event": "401873071",
+      "date": "20261122",
+      "snapshot": {
+       "source": "espn",
+       "state": "pre",
+       "detail": "11/22 - 1:00 PM EST",
+       "start": "2026-11-22T18:00Z",
+       "period": null,
+       "clock": null,
+       "teams": [
+        {
+         "name": "New Orleans Saints",
+         "short": "Saints",
+         "abbr": "NO",
+         "score": 0,
+         "ha": "away",
+         "winner": null,
+         "linescores": []
+        },
+        {
+         "name": "Chicago Bears",
+         "short": "Bears",
+         "abbr": "CHI",
+         "score": 0,
+         "ha": "home",
+         "winner": null,
+         "linescores": []
+        }
+       ]
+      },
+      "source": "espn"
      }
     ],
     "sport": "NFL",
@@ -800,7 +1048,38 @@
       "ou": "O",
       "line": 17.5,
       "label": "Ryan Flournoy longest reception O 17.5",
-      "unverified": true
+      "path": "football/nfl",
+      "event": "401873073",
+      "date": "20261122",
+      "snapshot": {
+       "source": "espn",
+       "state": "pre",
+       "detail": "11/22 - 1:00 PM EST",
+       "start": "2026-11-22T18:00Z",
+       "period": null,
+       "clock": null,
+       "teams": [
+        {
+         "name": "Tennessee Titans",
+         "short": "Titans",
+         "abbr": "TEN",
+         "score": 0,
+         "ha": "away",
+         "winner": null,
+         "linescores": []
+        },
+        {
+         "name": "Dallas Cowboys",
+         "short": "Cowboys",
+         "abbr": "DAL",
+         "score": 0,
+         "ha": "home",
+         "winner": null,
+         "linescores": []
+        }
+       ]
+      },
+      "source": "espn"
      }
     ],
     "sport": "NFL",
@@ -827,7 +1106,38 @@
       "ou": "O",
       "line": 55.0,
       "label": "O 55.0",
-      "unverified": true
+      "path": "football/nfl",
+      "event": "401873073",
+      "date": "20261122",
+      "snapshot": {
+       "source": "espn",
+       "state": "pre",
+       "detail": "11/22 - 1:00 PM EST",
+       "start": "2026-11-22T18:00Z",
+       "period": null,
+       "clock": null,
+       "teams": [
+        {
+         "name": "Tennessee Titans",
+         "short": "Titans",
+         "abbr": "TEN",
+         "score": 0,
+         "ha": "away",
+         "winner": null,
+         "linescores": []
+        },
+        {
+         "name": "Dallas Cowboys",
+         "short": "Cowboys",
+         "abbr": "DAL",
+         "score": 0,
+         "ha": "home",
+         "winner": null,
+         "linescores": []
+        }
+       ]
+      },
+      "source": "espn"
      }
     ],
     "sport": "NFL",
@@ -852,7 +1162,38 @@
       "kind": "ml",
       "side": "Philadelphia Eagles",
       "label": "Philadelphia Eagles ML",
-      "unverified": true
+      "path": "football/nfl",
+      "event": "401873076",
+      "date": "20261122",
+      "snapshot": {
+       "source": "espn",
+       "state": "pre",
+       "detail": "11/22 - 1:00 PM EST",
+       "start": "2026-11-22T18:00Z",
+       "period": null,
+       "clock": null,
+       "teams": [
+        {
+         "name": "Pittsburgh Steelers",
+         "short": "Steelers",
+         "abbr": "PIT",
+         "score": 0,
+         "ha": "away",
+         "winner": null,
+         "linescores": []
+        },
+        {
+         "name": "Philadelphia Eagles",
+         "short": "Eagles",
+         "abbr": "PHI",
+         "score": 0,
+         "ha": "home",
+         "winner": null,
+         "linescores": []
+        }
+       ]
+      },
+      "source": "espn"
      }
     ],
     "sport": "NFL",
@@ -879,7 +1220,38 @@
       "ou": "O",
       "line": 41.5,
       "label": "O 41.5",
-      "unverified": true
+      "path": "football/nfl",
+      "event": "401873074",
+      "date": "20261122",
+      "snapshot": {
+       "source": "espn",
+       "state": "pre",
+       "detail": "11/22 - 4:05 PM EST",
+       "start": "2026-11-22T21:05Z",
+       "period": null,
+       "clock": null,
+       "teams": [
+        {
+         "name": "New York Jets",
+         "short": "Jets",
+         "abbr": "NYJ",
+         "score": 0,
+         "ha": "away",
+         "winner": null,
+         "linescores": []
+        },
+        {
+         "name": "Los Angeles Chargers",
+         "short": "Chargers",
+         "abbr": "LAC",
+         "score": 0,
+         "ha": "home",
+         "winner": null,
+         "linescores": []
+        }
+       ]
+      },
+      "source": "espn"
      }
     ],
     "sport": "NFL",
@@ -905,7 +1277,38 @@
       "side": "Denver Broncos",
       "line": -10.0,
       "label": "Denver Broncos -10",
-      "unverified": true
+      "path": "football/nfl",
+      "event": "401873075",
+      "date": "20261122",
+      "snapshot": {
+       "source": "espn",
+       "state": "pre",
+       "detail": "11/22 - 4:25 PM EST",
+       "start": "2026-11-22T21:25Z",
+       "period": null,
+       "clock": null,
+       "teams": [
+        {
+         "name": "Las Vegas Raiders",
+         "short": "Raiders",
+         "abbr": "LV",
+         "score": 0,
+         "ha": "away",
+         "winner": null,
+         "linescores": []
+        },
+        {
+         "name": "Denver Broncos",
+         "short": "Broncos",
+         "abbr": "DEN",
+         "score": 0,
+         "ha": "home",
+         "winner": null,
+         "linescores": []
+        }
+       ]
+      },
+      "source": "espn"
      }
     ],
     "sport": "NFL",
@@ -932,7 +1335,38 @@
       "ou": "O",
       "line": 40.5,
       "label": "O 40.5",
-      "unverified": true
+      "path": "football/nfl",
+      "event": "401873075",
+      "date": "20261122",
+      "snapshot": {
+       "source": "espn",
+       "state": "pre",
+       "detail": "11/22 - 4:25 PM EST",
+       "start": "2026-11-22T21:25Z",
+       "period": null,
+       "clock": null,
+       "teams": [
+        {
+         "name": "Las Vegas Raiders",
+         "short": "Raiders",
+         "abbr": "LV",
+         "score": 0,
+         "ha": "away",
+         "winner": null,
+         "linescores": []
+        },
+        {
+         "name": "Denver Broncos",
+         "short": "Broncos",
+         "abbr": "DEN",
+         "score": 0,
+         "ha": "home",
+         "winner": null,
+         "linescores": []
+        }
+       ]
+      },
+      "source": "espn"
      }
     ],
     "sport": "NFL",
@@ -959,7 +1393,38 @@
       "ou": "O",
       "line": 46.5,
       "label": "O 46.5",
-      "unverified": true
+      "path": "football/nfl",
+      "event": "401873069",
+      "date": "20261122",
+      "snapshot": {
+       "source": "espn",
+       "state": "pre",
+       "detail": "11/22 - 4:25 PM EST",
+       "start": "2026-11-22T21:25Z",
+       "period": null,
+       "clock": null,
+       "teams": [
+        {
+         "name": "Jacksonville Jaguars",
+         "short": "Jaguars",
+         "abbr": "JAX",
+         "score": 0,
+         "ha": "away",
+         "winner": null,
+         "linescores": []
+        },
+        {
+         "name": "New York Giants",
+         "short": "Giants",
+         "abbr": "NYG",
+         "score": 0,
+         "ha": "home",
+         "winner": null,
+         "linescores": []
+        }
+       ]
+      },
+      "source": "espn"
      }
     ],
     "sport": "NFL",
@@ -985,7 +1450,38 @@
       "side": "Minnesota Vikings",
       "line": 3.0,
       "label": "Minnesota Vikings +3",
-      "unverified": true
+      "path": "football/nfl",
+      "event": "401873077",
+      "date": "20261122",
+      "snapshot": {
+       "source": "espn",
+       "state": "pre",
+       "detail": "11/22 - 8:20 PM EST",
+       "start": "2026-11-23T01:20Z",
+       "period": null,
+       "clock": null,
+       "teams": [
+        {
+         "name": "Minnesota Vikings",
+         "short": "Vikings",
+         "abbr": "MIN",
+         "score": 0,
+         "ha": "away",
+         "winner": null,
+         "linescores": []
+        },
+        {
+         "name": "San Francisco 49ers",
+         "short": "49ers",
+         "abbr": "SF",
+         "score": 0,
+         "ha": "home",
+         "winner": null,
+         "linescores": []
+        }
+       ]
+      },
+      "source": "espn"
      }
     ],
     "sport": "NFL",
@@ -1012,7 +1508,38 @@
       "ou": "O",
       "line": 46.5,
       "label": "O 46.5",
-      "unverified": true
+      "path": "football/nfl",
+      "event": "401873077",
+      "date": "20261122",
+      "snapshot": {
+       "source": "espn",
+       "state": "pre",
+       "detail": "11/22 - 8:20 PM EST",
+       "start": "2026-11-23T01:20Z",
+       "period": null,
+       "clock": null,
+       "teams": [
+        {
+         "name": "Minnesota Vikings",
+         "short": "Vikings",
+         "abbr": "MIN",
+         "score": 0,
+         "ha": "away",
+         "winner": null,
+         "linescores": []
+        },
+        {
+         "name": "San Francisco 49ers",
+         "short": "49ers",
+         "abbr": "SF",
+         "score": 0,
+         "ha": "home",
+         "winner": null,
+         "linescores": []
+        }
+       ]
+      },
+      "source": "espn"
      }
     ],
     "sport": "NFL",
@@ -1415,16 +1942,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "19:06 - 1st",
+       "detail": "17:15 - 1st",
        "start": "2026-11-21T17:00Z",
        "period": 1,
-       "clock": "19:06",
+       "clock": "17:15",
        "teams": [
         {
          "name": "Columbia Lions",
          "short": "Lions",
          "abbr": "COLU",
-         "score": 0,
+         "score": 2,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -1435,7 +1962,7 @@
          "name": "Boston University Terriers",
          "short": "Terriers",
          "abbr": "BU",
-         "score": 2,
+         "score": 0,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -1476,10 +2003,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "16:59 - 2nd",
+       "detail": "15:46 - 2nd",
        "start": "2026-11-21T16:00Z",
        "period": 2,
-       "clock": "16:59",
+       "clock": "15:46",
        "teams": [
         {
          "name": "South Carolina Upstate Spartans",
@@ -1497,7 +2024,7 @@
          "name": "UNC Greensboro Spartans",
          "short": "Spartans",
          "abbr": "UNCG",
-         "score": 45,
+         "score": 51,
          "ha": "home",
          "winner": null,
          "linescores": [
