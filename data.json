@@ -1,5 +1,5 @@
 {
- "updated": "Nov 21, 2026, 11:17 AM PT",
+ "updated": "Nov 21, 2026, 11:19 AM PT",
  "record": {
   "w": 224,
   "l": 230,
@@ -152,16 +152,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "7:47 - 1st",
+       "detail": "5:47 - 1st",
        "start": "2026-11-21T19:00Z",
        "period": 1,
-       "clock": "7:47",
+       "clock": "5:47",
        "teams": [
         {
          "name": "Missouri State Bears",
          "short": "Bears",
          "abbr": "MOST",
-         "score": 0,
+         "score": 3,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -2256,10 +2256,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "12:49 - 3rd",
+       "detail": "11:23 - 3rd",
        "start": "2026-11-21T17:00Z",
        "period": 3,
-       "clock": "12:49",
+       "clock": "11:23",
        "teams": [
         {
          "name": "Ohio State Buckeyes",
@@ -2383,10 +2383,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "4:19 - 3rd",
+       "detail": "2:52 - 3rd",
        "start": "2026-11-21T17:00Z",
        "period": 3,
-       "clock": "4:19",
+       "clock": "2:52",
        "teams": [
         {
          "name": "Wisconsin Badgers",
@@ -2450,10 +2450,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "Halftime",
+       "detail": "11:58 - 3rd",
        "start": "2026-11-21T18:00Z",
-       "period": 2,
-       "clock": "0.0",
+       "period": 3,
+       "clock": "11:58",
        "teams": [
         {
          "name": "Milwaukee Bucks",
@@ -2463,6 +2463,7 @@
          "ha": "away",
          "winner": null,
          "linescores": [
+          0,
           0,
           0
          ]
@@ -2475,6 +2476,7 @@
          "ha": "home",
          "winner": null,
          "linescores": [
+          0,
           0,
           0
          ]
@@ -2517,10 +2519,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "12:49 - 3rd",
+       "detail": "11:23 - 3rd",
        "start": "2026-11-21T17:00Z",
        "period": 3,
-       "clock": "12:49",
+       "clock": "11:23",
        "teams": [
         {
          "name": "Ohio State Buckeyes",
@@ -2582,10 +2584,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "3:25 - 2nd",
+       "detail": "2:18 - 2nd",
        "start": "2026-11-21T18:00Z",
        "period": 2,
-       "clock": "3:25",
+       "clock": "2:18",
        "teams": [
         {
          "name": "Western Kentucky Hilltoppers",
