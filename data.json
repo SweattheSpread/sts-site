@@ -1,5 +1,5 @@
 {
- "updated": "Nov 21, 2026, 1:04 PM PT",
+ "updated": "Nov 21, 2026, 1:06 PM PT",
  "record": {
   "w": 224,
   "l": 230,
@@ -152,10 +152,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "8:41 - 3rd",
+       "detail": "6:24 - 3rd",
        "start": "2026-11-21T19:00Z",
        "period": 3,
-       "clock": "8:41",
+       "clock": "6:24",
        "teams": [
         {
          "name": "Missouri State Bears",
@@ -1934,10 +1934,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "10:03 - 1st",
+       "detail": "9:22 - 1st",
        "start": "2026-11-21T20:45Z",
        "period": 1,
-       "clock": "10:03",
+       "clock": "9:22",
        "teams": [
         {
          "name": "Texas A&M Aggies",
@@ -2124,10 +2124,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "6:33 - 1st",
+       "detail": "5:38 - 1st",
        "start": "2026-11-21T20:30Z",
        "period": 1,
-       "clock": "6:33",
+       "clock": "5:38",
        "teams": [
         {
          "name": "Army Black Knights",
@@ -2144,7 +2144,7 @@
          "name": "Binghamton Bearcats",
          "short": "Bearcats",
          "abbr": "BING",
-         "score": 23,
+         "score": 28,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -2318,10 +2318,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "6:33 - 1st",
+       "detail": "5:38 - 1st",
        "start": "2026-11-21T20:30Z",
        "period": 1,
-       "clock": "6:33",
+       "clock": "5:38",
        "teams": [
         {
          "name": "Army Black Knights",
@@ -2338,7 +2338,7 @@
          "name": "Binghamton Bearcats",
          "short": "Bearcats",
          "abbr": "BING",
-         "score": 23,
+         "score": 28,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -2650,10 +2650,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "5:52 - 4th",
+       "detail": "4:21 - 4th",
        "start": "2026-11-21T18:00Z",
        "period": 4,
-       "clock": "5:52",
+       "clock": "4:21",
        "teams": [
         {
          "name": "Western Kentucky Hilltoppers",
