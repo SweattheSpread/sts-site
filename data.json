@@ -1,5 +1,5 @@
 {
- "updated": "Nov 21, 2026, 1:53 PM PT",
+ "updated": "Nov 21, 2026, 1:55 PM PT",
  "record": {
   "w": 224,
   "l": 230,
@@ -152,10 +152,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "6:14 - 4th",
+       "detail": "5:39 - 4th",
        "start": "2026-11-21T19:00Z",
        "period": 4,
-       "clock": "6:14",
+       "clock": "5:39",
        "teams": [
         {
          "name": "Missouri State Bears",
@@ -175,7 +175,7 @@
          "name": "Jacksonville State Gamecocks",
          "short": "Gamecocks",
          "abbr": "JXST",
-         "score": 18,
+         "score": 25,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -200,10 +200,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "13:19 - 4th",
+       "detail": "11:44 - 4th",
        "start": "2026-11-21T19:30Z",
        "period": 4,
-       "clock": "13:19",
+       "clock": "11:44",
        "teams": [
         {
          "name": "UL Monroe Warhawks",
@@ -1998,10 +1998,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "7:12 - 2nd",
+       "detail": "5:41 - 2nd",
        "start": "2026-11-21T20:45Z",
        "period": 2,
-       "clock": "7:12",
+       "clock": "5:41",
        "teams": [
         {
          "name": "Texas A&M Aggies",
@@ -2193,10 +2193,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "13:56 - 2nd",
+       "detail": "13:41 - 2nd",
        "start": "2026-11-21T20:30Z",
        "period": 2,
-       "clock": "13:56",
+       "clock": "13:41",
        "teams": [
         {
          "name": "Army Black Knights",
@@ -2389,10 +2389,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "13:56 - 2nd",
+       "detail": "13:41 - 2nd",
        "start": "2026-11-21T20:30Z",
        "period": 2,
-       "clock": "13:56",
+       "clock": "13:41",
        "teams": [
         {
          "name": "Army Black Knights",
@@ -2721,10 +2721,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "2:26 - 2nd",
+       "detail": "2:00 - 2nd",
        "start": "2026-11-21T20:30Z",
        "period": 2,
-       "clock": "2:26",
+       "clock": "2:00",
        "teams": [
         {
          "name": "UCLA Bruins",
