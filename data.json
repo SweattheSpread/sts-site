@@ -1,5 +1,5 @@
 {
- "updated": "Nov 21, 2026, 3:14 PM PT",
+ "updated": "Nov 21, 2026, 3:17 PM PT",
  "record": {
   "w": 224,
   "l": 230,
@@ -11,7 +11,7 @@
   "first": "2026-10-12",
   "last": "2026-11-20"
  },
- "pending": 45,
+ "pending": 46,
  "latest": [
   {
    "n": 933,
@@ -411,6 +411,66 @@
         }
        ],
        "nhl_id": 2026020364
+      },
+      "source": "nhl"
+     }
+    ],
+    "sport": "NHL",
+    "ticket": "single"
+   }
+  },
+  {
+   "n": 956,
+   "league": "NHL",
+   "type": "Player Prop",
+   "matchup": "New Jersey Devils @ St Louis Blues",
+   "pick": "Timo Meier Under 0.5 points",
+   "odds": -110,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-21T16:00:00",
+   "timed": true,
+   "ticket": "single",
+   "espn": {
+    "legs": [
+     {
+      "kind": "prop",
+      "player": "Timo Meier",
+      "ou": "U",
+      "line": 0.5,
+      "stat": "points",
+      "label": "Timo Meier U 0.5 points",
+      "date": "20261121",
+      "unverified": true,
+      "reason": "Player not found in this game",
+      "snapshot": {
+       "source": "nhl",
+       "state": "pre",
+       "detail": "Scheduled",
+       "start": "2026-11-22T00:00:00Z",
+       "period": null,
+       "clock": null,
+       "teams": [
+        {
+         "name": "Devils",
+         "short": "NJD",
+         "abbr": "NJD",
+         "score": 0,
+         "ha": "away",
+         "winner": null,
+         "linescores": []
+        },
+        {
+         "name": "Blues",
+         "short": "STL",
+         "abbr": "STL",
+         "score": 0,
+         "ha": "home",
+         "winner": null,
+         "linescores": []
+        }
+       ],
+       "nhl_id": 2026020368
       },
       "source": "nhl"
      }
@@ -1973,10 +2033,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "2:26 - 3rd",
+       "detail": "0:22 - 3rd",
        "start": "2026-11-21T20:45Z",
        "period": 3,
-       "clock": "2:26",
+       "clock": "0:22",
        "teams": [
         {
          "name": "Texas A&M Aggies",
@@ -2041,16 +2101,16 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P1 16:02",
+       "detail": "P1 14:24",
        "start": "2026-11-21T23:00:00Z",
        "period": 1,
-       "clock": "16:02",
+       "clock": "14:24",
        "teams": [
         {
          "name": "Penguins",
          "short": "PIT",
          "abbr": "PIT",
-         "score": 0,
+         "score": 1,
          "ha": "away",
          "winner": null,
          "linescores": []

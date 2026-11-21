@@ -1,5 +1,5 @@
 {
- "updated": "Nov 21, 2026, 3:14 PM PT",
+ "updated": "Nov 21, 2026, 3:17 PM PT",
  "record": {
   "w": 224,
   "l": 230,
@@ -11,7 +11,7 @@
   "first": "2026-10-12",
   "last": "2026-11-20"
  },
- "pending": 45,
+ "pending": 46,
  "plays": [
   {
    "n": 334,
@@ -7736,6 +7736,22 @@
    "matchup": "New Orleans Pelicans @ San Antonio Spurs",
    "pick": "Stephon Castle Under 17.5 points",
    "odds": 100,
+   "units": 1.0,
+   "result": null,
+   "pl": null,
+   "pending": true
+  },
+  {
+   "n": 956,
+   "date": "2026-11-21",
+   "day": "2026-11-21",
+   "league": "NHL",
+   "market": "player_prop",
+   "market_label": "Player Prop",
+   "ticket": "single",
+   "matchup": "New Jersey Devils @ St Louis Blues",
+   "pick": "Timo Meier Under 0.5 points",
+   "odds": -110,
    "units": 1.0,
    "result": null,
    "pl": null,
