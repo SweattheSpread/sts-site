@@ -1,5 +1,5 @@
 {
- "updated": "Nov 21, 2026, 12:44 PM PT",
+ "updated": "Nov 21, 2026, 12:47 PM PT",
  "record": {
   "w": 224,
   "l": 230,
@@ -198,10 +198,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "1:28 - 2nd",
+       "detail": "0:52 - 2nd",
        "start": "2026-11-21T19:30Z",
        "period": 2,
-       "clock": "1:28",
+       "clock": "0:52",
        "teams": [
         {
          "name": "UL Monroe Warhawks",
@@ -234,36 +234,6 @@
     ],
     "sport": "NCAAF",
     "ticket": "parlay"
-   }
-  },
-  {
-   "n": 934,
-   "league": "NCAAF",
-   "type": "Prop",
-   "matchup": "Texas A&M Aggies @ Oklahoma Sooners",
-   "pick": "Mario Craver (TA&M) Under 4.5 receptions",
-   "odds": -102,
-   "units": 1.0,
-   "gap": null,
-   "start": "2026-11-21T12:45:00",
-   "timed": true,
-   "ticket": "single",
-   "espn": {
-    "legs": [
-     {
-      "kind": "prop",
-      "player": "Mario Craver",
-      "ou": "U",
-      "line": 4.5,
-      "stat": "receptions",
-      "label": "Mario Craver U 4.5 receptions",
-      "date": "20261121",
-      "unverified": true,
-      "reason": "Player not found in this game"
-     }
-    ],
-    "sport": "NCAAF",
-    "ticket": "single"
    }
   },
   {
@@ -1936,6 +1906,63 @@
    }
   },
   {
+   "n": 934,
+   "league": "NCAAF",
+   "type": "Prop",
+   "matchup": "Texas A&M Aggies @ Oklahoma Sooners",
+   "pick": "Mario Craver (TA&M) Under 4.5 receptions",
+   "odds": -102,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-21T12:45:00",
+   "timed": true,
+   "ticket": "single",
+   "espn": {
+    "legs": [
+     {
+      "kind": "prop",
+      "player": "Mario Craver",
+      "ou": "U",
+      "line": 4.5,
+      "stat": "receptions",
+      "label": "Mario Craver U 4.5 receptions",
+      "date": "20261121",
+      "unverified": true,
+      "reason": "Player not found in this game",
+      "snapshot": {
+       "source": "odds-api",
+       "state": "pre",
+       "detail": "Scheduled",
+       "start": "2026-11-21T20:55:00Z",
+       "teams": [
+        {
+         "name": "Texas A&M Aggies",
+         "short": "Texas A&M Aggies",
+         "abbr": "",
+         "score": 0,
+         "ha": "away",
+         "winner": null,
+         "linescores": []
+        },
+        {
+         "name": "Oklahoma Sooners",
+         "short": "Oklahoma Sooners",
+         "abbr": "",
+         "score": 0,
+         "ha": "home",
+         "winner": null,
+         "linescores": []
+        }
+       ]
+      },
+      "source": "odds-api"
+     }
+    ],
+    "sport": "NCAAF",
+    "ticket": "single"
+   }
+  },
+  {
    "n": 940,
    "league": "NCAAB",
    "type": "Spread",
@@ -2025,10 +2052,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "5:50 - 2nd",
+       "detail": "4:36 - 2nd",
        "start": "2026-11-21T19:00Z",
        "period": 2,
-       "clock": "5:50",
+       "clock": "4:36",
        "teams": [
         {
          "name": "New Mexico Lobos",
@@ -2046,7 +2073,7 @@
          "name": "Wichita State Shockers",
          "short": "Shockers",
          "abbr": "WICH",
-         "score": 72,
+         "score": 74,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -2088,16 +2115,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "14:28 - 1st",
+       "detail": "12:57 - 1st",
        "start": "2026-11-21T20:30Z",
        "period": 1,
-       "clock": "14:28",
+       "clock": "12:57",
        "teams": [
         {
          "name": "Army Black Knights",
          "short": "Black Knights",
          "abbr": "ARMY",
-         "score": 4,
+         "score": 6,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -2108,7 +2135,7 @@
          "name": "Binghamton Bearcats",
          "short": "Bearcats",
          "abbr": "BING",
-         "score": 7,
+         "score": 15,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -2282,16 +2309,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "14:28 - 1st",
+       "detail": "12:57 - 1st",
        "start": "2026-11-21T20:30Z",
        "period": 1,
-       "clock": "14:28",
+       "clock": "12:57",
        "teams": [
         {
          "name": "Army Black Knights",
          "short": "Black Knights",
          "abbr": "ARMY",
-         "score": 4,
+         "score": 6,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -2302,7 +2329,7 @@
          "name": "Binghamton Bearcats",
          "short": "Bearcats",
          "abbr": "BING",
-         "score": 7,
+         "score": 15,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -2344,10 +2371,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "5:50 - 2nd",
+       "detail": "4:36 - 2nd",
        "start": "2026-11-21T19:00Z",
        "period": 2,
-       "clock": "5:50",
+       "clock": "4:36",
        "teams": [
         {
          "name": "New Mexico Lobos",
@@ -2365,7 +2392,7 @@
          "name": "Wichita State Shockers",
          "short": "Shockers",
          "abbr": "WICH",
-         "score": 72,
+         "score": 74,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -2614,10 +2641,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "9:35 - 4th",
+       "detail": "9:27 - 4th",
        "start": "2026-11-21T18:00Z",
        "period": 4,
-       "clock": "9:35",
+       "clock": "9:27",
        "teams": [
         {
          "name": "Western Kentucky Hilltoppers",
