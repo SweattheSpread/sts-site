@@ -1,5 +1,5 @@
 {
- "updated": "Nov 21, 2026, 12:25 AM PT",
+ "updated": "Nov 21, 2026, 4:49 AM PT",
  "record": {
   "w": 224,
   "l": 230,
@@ -11,7 +11,7 @@
   "first": "2026-10-12",
   "last": "2026-11-20"
  },
- "pending": 24,
+ "pending": 25,
  "latest": [
   {
    "n": 933,
@@ -127,6 +127,36 @@
   }
  ],
  "picks": [
+  {
+   "n": 934,
+   "league": "NCAAF",
+   "type": "Prop",
+   "matchup": "Texas A&M Aggies @ Oklahoma Sooners",
+   "pick": "Mario Craver (TA&M) Under 4.5 receptions",
+   "odds": -102,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-21T12:45:00",
+   "timed": true,
+   "ticket": "single",
+   "espn": {
+    "legs": [
+     {
+      "kind": "prop",
+      "player": "Mario Craver",
+      "ou": "U",
+      "line": 4.5,
+      "stat": "receptions",
+      "label": "Mario Craver U 4.5 receptions",
+      "date": "20261121",
+      "unverified": true,
+      "reason": "Player not found in this game"
+     }
+    ],
+    "sport": "NCAAF",
+    "ticket": "single"
+   }
+  },
   {
    "n": 855,
    "league": "NFL",
