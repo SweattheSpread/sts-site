@@ -1,17 +1,17 @@
 {
- "updated": "Nov 20, 2026, 9:30 PM PT",
+ "updated": "Nov 20, 2026, 9:32 PM PT",
  "record": {
-  "w": 214,
-  "l": 216,
+  "w": 223,
+  "l": 229,
   "p": 0,
-  "n": 430,
-  "units": 47.73,
-  "risked": 610.75,
-  "roi": 7.81,
+  "n": 452,
+  "units": 48.78,
+  "risked": 650.75,
+  "roi": 7.5,
   "first": "2026-10-12",
-  "last": "2026-11-19"
+  "last": "2026-11-20"
  },
- "pending": 49,
+ "pending": 26,
  "plays": [
   {
    "n": 334,
@@ -7001,9 +7001,9 @@
    "pick": "Kayla Cross ML",
    "odds": -115,
    "units": 1.0,
-   "result": null,
-   "pl": null,
-   "pending": true
+   "result": "V",
+   "pl": 0.0,
+   "pending": false
   },
   {
    "n": 907,
@@ -7017,9 +7017,9 @@
    "pick": "Federico Roncadelli ML",
    "odds": 138,
    "units": 1.0,
-   "result": null,
-   "pl": null,
-   "pending": true
+   "result": "L",
+   "pl": -1.0,
+   "pending": false
   },
   {
    "n": 908,
@@ -7033,9 +7033,9 @@
    "pick": "Carlos Alcaraz ML vs Flavio Cobolli (won 6-4 6-1, started 5:15 AM PT) + Daniil Medvedev ML vs Frances Tiafoe",
    "odds": -132,
    "units": 1.0,
-   "result": null,
-   "pl": null,
-   "pending": true
+   "result": "W",
+   "pl": 0.76,
+   "pending": false
   },
   {
    "n": 910,
@@ -7049,9 +7049,9 @@
    "pick": "Miles Bridges Over 1.5 3-pointers made",
    "odds": 105,
    "units": 1.0,
-   "result": null,
-   "pl": null,
-   "pending": true
+   "result": "L",
+   "pl": -1.0,
+   "pending": false
   },
   {
    "n": 911,
@@ -7065,9 +7065,9 @@
    "pick": "Over 134.5",
    "odds": -110,
    "units": 3.0,
-   "result": null,
-   "pl": null,
-   "pending": true
+   "result": "L",
+   "pl": -3.0,
+   "pending": false
   },
   {
    "n": 912,
@@ -7081,9 +7081,9 @@
    "pick": "Northwestern +11.5",
    "odds": -110,
    "units": 1.0,
-   "result": null,
-   "pl": null,
-   "pending": true
+   "result": "L",
+   "pl": -1.0,
+   "pending": false
   },
   {
    "n": 913,
@@ -7097,9 +7097,9 @@
    "pick": "Under 171.5",
    "odds": -110,
    "units": 1.0,
-   "result": null,
-   "pl": null,
-   "pending": true
+   "result": "W",
+   "pl": 0.91,
+   "pending": false
   },
   {
    "n": 914,
@@ -7113,9 +7113,9 @@
    "pick": "Under 165.5",
    "odds": -110,
    "units": 1.0,
-   "result": null,
-   "pl": null,
-   "pending": true
+   "result": "L",
+   "pl": -1.0,
+   "pending": false
   },
   {
    "n": 915,
@@ -7129,9 +7129,9 @@
    "pick": "Rhode Island +1.5",
    "odds": -118,
    "units": 1.0,
-   "result": null,
-   "pl": null,
-   "pending": true
+   "result": "L",
+   "pl": -1.0,
+   "pending": false
   },
   {
    "n": 916,
@@ -7145,9 +7145,9 @@
    "pick": "Jacksonville State +0.5",
    "odds": -110,
    "units": 1.0,
-   "result": null,
-   "pl": null,
-   "pending": true
+   "result": "W",
+   "pl": 0.91,
+   "pending": false
   },
   {
    "n": 917,
@@ -7161,9 +7161,9 @@
    "pick": "Idaho moneyline",
    "odds": -130,
    "units": 1.0,
-   "result": null,
-   "pl": null,
-   "pending": true
+   "result": "W",
+   "pl": 0.77,
+   "pending": false
   },
   {
    "n": 918,
@@ -7177,9 +7177,9 @@
    "pick": "Kelly Oubre Jr. Under 1.5 3-pointers made",
    "odds": -135,
    "units": 1.0,
-   "result": null,
-   "pl": null,
-   "pending": true
+   "result": "L",
+   "pl": -1.0,
+   "pending": false
   },
   {
    "n": 919,
@@ -7193,9 +7193,9 @@
    "pick": "John Collins Over 1.5 3-pointers made",
    "odds": 155,
    "units": 1.0,
-   "result": null,
-   "pl": null,
-   "pending": true
+   "result": "L",
+   "pl": -1.0,
+   "pending": false
   },
   {
    "n": 920,
@@ -7209,9 +7209,9 @@
    "pick": "Tre Jones Under 4.5 assists",
    "odds": -125,
    "units": 1.0,
-   "result": null,
-   "pl": null,
-   "pending": true
+   "result": "L",
+   "pl": -1.0,
+   "pending": false
   },
   {
    "n": 921,
@@ -7225,9 +7225,9 @@
    "pick": "Immanuel Quickley Over 5.5 assists",
    "odds": -115,
    "units": 1.0,
-   "result": null,
-   "pl": null,
-   "pending": true
+   "result": "W",
+   "pl": 0.87,
+   "pending": false
   },
   {
    "n": 922,
@@ -7241,9 +7241,9 @@
    "pick": "Onyeka Okongwu Over 7.5 rebounds",
    "odds": 125,
    "units": 1.0,
-   "result": null,
-   "pl": null,
-   "pending": true
+   "result": "L",
+   "pl": -1.0,
+   "pending": false
   },
   {
    "n": 923,
@@ -7257,9 +7257,9 @@
    "pick": "Nickeil Alexander-Walker Over 3.5 rebounds",
    "odds": 125,
    "units": 1.0,
-   "result": null,
-   "pl": null,
-   "pending": true
+   "result": "W",
+   "pl": 1.25,
+   "pending": false
   },
   {
    "n": 924,
@@ -7273,9 +7273,9 @@
    "pick": "Shai Gilgeous-Alexander Under 5.5 assists",
    "odds": -120,
    "units": 1.0,
-   "result": null,
-   "pl": null,
-   "pending": true
+   "result": "L",
+   "pl": -1.0,
+   "pending": false
   },
   {
    "n": 925,
@@ -7289,9 +7289,9 @@
    "pick": "Matas Buzelis Under 2.5 threes",
    "odds": -115,
    "units": 1.0,
-   "result": null,
-   "pl": null,
-   "pending": true
+   "result": "W",
+   "pl": 0.87,
+   "pending": false
   },
   {
    "n": 926,
@@ -7353,9 +7353,9 @@
    "pick": "UTEP Miners team total Under 9.5 (UTEP @ Air Force, live, AFA 21-3 late 2nd Q) + Toledo Rockets team total Over 29.5 (Bowling Green @ Toledo, live, TOL 16-0 at halftime)",
    "odds": 285,
    "units": 3.0,
-   "result": null,
-   "pl": null,
-   "pending": true
+   "result": "L",
+   "pl": -3.0,
+   "pending": false
   },
   {
    "n": 931,
@@ -7369,9 +7369,9 @@
    "pick": "Indiana Pacers team total Under 117.5",
    "odds": -125,
    "units": 3.0,
-   "result": null,
-   "pl": null,
-   "pending": true
+   "result": "L",
+   "pl": -3.0,
+   "pending": false
   },
   {
    "n": 932,
@@ -7385,9 +7385,9 @@
    "pick": "Over 241.5 (full game)",
    "odds": 105,
    "units": 7.0,
-   "result": null,
-   "pl": null,
-   "pending": true
+   "result": "W",
+   "pl": 7.35,
+   "pending": false
   },
   {
    "n": 933,
@@ -7401,9 +7401,9 @@
    "pick": "Air Force Falcons -21",
    "odds": -110,
    "units": 7.0,
-   "result": null,
-   "pl": null,
-   "pending": true
+   "result": "W",
+   "pl": 6.36,
+   "pending": false
   },
   {
    "n": 855,
