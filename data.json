@@ -1,5 +1,5 @@
 {
- "updated": "Nov 21, 2026, 1:30 PM PT",
+ "updated": "Nov 21, 2026, 1:32 PM PT",
  "record": {
   "w": 224,
   "l": 230,
@@ -175,7 +175,7 @@
          "name": "Jacksonville State Gamecocks",
          "short": "Gamecocks",
          "abbr": "JXST",
-         "score": 3,
+         "score": 11,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -2189,7 +2189,7 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "0:00 - 1st",
+       "detail": "Halftime",
        "start": "2026-11-21T20:30Z",
        "period": 1,
        "clock": "0:00",
@@ -2383,7 +2383,7 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "0:00 - 1st",
+       "detail": "Halftime",
        "start": "2026-11-21T20:30Z",
        "period": 1,
        "clock": "0:00",
