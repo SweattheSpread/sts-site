@@ -1,5 +1,5 @@
 {
- "updated": "Nov 20, 2026, 9:13 PM PT",
+ "updated": "Nov 20, 2026, 9:16 PM PT",
  "record": {
   "w": 214,
   "l": 216,
@@ -11,7 +11,7 @@
   "first": "2026-10-12",
   "last": "2026-11-19"
  },
- "pending": 50,
+ "pending": 49,
  "latest": [
   {
    "n": 904,
@@ -2794,10 +2794,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "6:43 - 4th",
+       "detail": "5:57 - 4th",
        "start": "2026-11-21T02:00Z",
        "period": 4,
-       "clock": "6:43",
+       "clock": "5:57",
        "teams": [
         {
          "name": "New Mexico Lobos",
@@ -2890,10 +2890,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "7:01 - 4th",
+       "detail": "6:38 - 4th",
        "start": "2026-11-21T03:00Z",
        "period": 4,
-       "clock": "7:01",
+       "clock": "6:38",
        "teams": [
         {
          "name": "Houston Rockets",
@@ -3136,74 +3136,6 @@
      }
     ],
     "sport": "NCAAF",
-    "ticket": "single"
-   }
-  },
-  {
-   "n": 934,
-   "league": "NBA",
-   "type": "Team Total",
-   "matchup": "Phoenix Suns @ Utah Jazz",
-   "pick": "Phoenix Suns team total Over 114.5",
-   "odds": -115,
-   "units": 6.0,
-   "gap": null,
-   "start": "2026-11-20T18:30:00",
-   "timed": true,
-   "ticket": "single",
-   "espn": {
-    "legs": [
-     {
-      "kind": "team_total",
-      "side": "Phoenix Suns",
-      "ou": "O",
-      "line": 114.5,
-      "label": "Phoenix Suns O 114.5",
-      "path": "basketball/nba",
-      "event": "401909311",
-      "date": "20261120",
-      "snapshot": {
-       "source": "espn",
-       "state": "post",
-       "detail": "Final",
-       "start": "2026-11-21T02:30Z",
-       "period": null,
-       "clock": null,
-       "teams": [
-        {
-         "name": "Phoenix Suns",
-         "short": "Suns",
-         "abbr": "PHX",
-         "score": 111,
-         "ha": "away",
-         "winner": true,
-         "linescores": [
-          0,
-          0,
-          0,
-          0
-         ]
-        },
-        {
-         "name": "Utah Jazz",
-         "short": "Jazz",
-         "abbr": "UTAH",
-         "score": 101,
-         "ha": "home",
-         "winner": false,
-         "linescores": [
-          0,
-          0,
-          0,
-          0
-         ]
-        }
-       ]
-      },
-      "source": "espn"
-     }
-    ],
-    "sport": "NBA",
     "ticket": "single"
    }
   }

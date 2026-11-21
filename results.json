@@ -1,5 +1,5 @@
 {
- "updated": "Nov 20, 2026, 9:13 PM PT",
+ "updated": "Nov 20, 2026, 9:16 PM PT",
  "record": {
   "w": 214,
   "l": 216,
@@ -11,7 +11,7 @@
   "first": "2026-10-12",
   "last": "2026-11-19"
  },
- "pending": 50,
+ "pending": 49,
  "plays": [
   {
    "n": 334,
@@ -7401,22 +7401,6 @@
    "pick": "Air Force Falcons -21",
    "odds": -110,
    "units": 7.0,
-   "result": null,
-   "pl": null,
-   "pending": true
-  },
-  {
-   "n": 934,
-   "date": "2026-11-20",
-   "day": "2026-11-20",
-   "league": "NBA",
-   "market": "team_total",
-   "market_label": "Team Total",
-   "ticket": "single",
-   "matchup": "Phoenix Suns @ Utah Jazz",
-   "pick": "Phoenix Suns team total Over 114.5",
-   "odds": -115,
-   "units": 6.0,
    "result": null,
    "pl": null,
    "pending": true
