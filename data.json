@@ -1,5 +1,5 @@
 {
- "updated": "Nov 21, 2026, 1:01 PM PT",
+ "updated": "Nov 21, 2026, 1:04 PM PT",
  "record": {
   "w": 224,
   "l": 230,
@@ -152,10 +152,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "9:26 - 3rd",
+       "detail": "8:41 - 3rd",
        "start": "2026-11-21T19:00Z",
        "period": 3,
-       "clock": "9:26",
+       "clock": "8:41",
        "teams": [
         {
          "name": "Missouri State Bears",
@@ -1934,10 +1934,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "10:53 - 1st",
+       "detail": "10:03 - 1st",
        "start": "2026-11-21T20:45Z",
        "period": 1,
-       "clock": "10:53",
+       "clock": "10:03",
        "teams": [
         {
          "name": "Texas A&M Aggies",
@@ -2124,10 +2124,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "7:51 - 1st",
+       "detail": "6:33 - 1st",
        "start": "2026-11-21T20:30Z",
        "period": 1,
-       "clock": "7:51",
+       "clock": "6:33",
        "teams": [
         {
          "name": "Army Black Knights",
@@ -2318,10 +2318,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "7:51 - 1st",
+       "detail": "6:33 - 1st",
        "start": "2026-11-21T20:30Z",
        "period": 1,
-       "clock": "7:51",
+       "clock": "6:33",
        "teams": [
         {
          "name": "Army Black Knights",
@@ -2659,7 +2659,7 @@
          "name": "Western Kentucky Hilltoppers",
          "short": "Hilltoppers",
          "abbr": "WKU",
-         "score": 13,
+         "score": 14,
          "ha": "away",
          "winner": null,
          "linescores": [
