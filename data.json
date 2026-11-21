@@ -1,5 +1,5 @@
 {
- "updated": "Nov 20, 2026, 5:19 PM PT",
+ "updated": "Nov 20, 2026, 5:22 PM PT",
  "record": {
   "w": 214,
   "l": 216,
@@ -2087,16 +2087,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "14:56 - 2nd",
+       "detail": "13:31 - 2nd",
        "start": "2026-11-21T00:00Z",
        "period": 2,
-       "clock": "14:56",
+       "clock": "13:31",
        "teams": [
         {
          "name": "Georgia State Panthers",
          "short": "Panthers",
          "abbr": "GAST",
-         "score": 47,
+         "score": 52,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -2108,7 +2108,7 @@
          "name": "Jacksonville State Gamecocks",
          "short": "Gamecocks",
          "abbr": "JXST",
-         "score": 46,
+         "score": 49,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -2218,10 +2218,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "6:48 - 2nd",
+       "detail": "6:45 - 2nd",
        "start": "2026-11-21T00:30Z",
        "period": 2,
-       "clock": "6:48",
+       "clock": "6:45",
        "teams": [
         {
          "name": "Toronto Raptors",
@@ -2284,16 +2284,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "6:49 - 1st",
+       "detail": "6:04 - 1st",
        "start": "2026-11-21T01:00Z",
        "period": 1,
-       "clock": "6:49",
+       "clock": "6:04",
        "teams": [
         {
          "name": "Washington Wizards",
          "short": "Wizards",
          "abbr": "WSH",
-         "score": 14,
+         "score": 16,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -2312,7 +2312,10 @@
          ]
         }
        ],
-       "stat": null
+       "stat": {
+        "v": 0,
+        "name": "Tre Jones"
+       }
       },
       "source": "espn"
      }
@@ -2348,10 +2351,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "6:48 - 2nd",
+       "detail": "6:45 - 2nd",
        "start": "2026-11-21T00:30Z",
        "period": 2,
-       "clock": "6:48",
+       "clock": "6:45",
        "teams": [
         {
          "name": "Toronto Raptors",
@@ -2417,19 +2420,20 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "Halftime",
+       "detail": "10:47 - 3rd",
        "start": "2026-11-21T00:00Z",
-       "period": 2,
-       "clock": "0.0",
+       "period": 3,
+       "clock": "10:47",
        "teams": [
         {
          "name": "Charlotte Hornets",
          "short": "Hornets",
          "abbr": "CHA",
-         "score": 57,
+         "score": 59,
          "ha": "away",
          "winner": null,
          "linescores": [
+          0,
           0,
           0
          ]
@@ -2443,12 +2447,13 @@
          "winner": null,
          "linescores": [
           0,
+          0,
           0
          ]
         }
        ],
        "stat": {
-        "v": 2,
+        "v": 4,
         "name": "Onyeka Okongwu"
        }
       },
@@ -2486,19 +2491,20 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "Halftime",
+       "detail": "10:47 - 3rd",
        "start": "2026-11-21T00:00Z",
-       "period": 2,
-       "clock": "0.0",
+       "period": 3,
+       "clock": "10:47",
        "teams": [
         {
          "name": "Charlotte Hornets",
          "short": "Hornets",
          "abbr": "CHA",
-         "score": 57,
+         "score": 59,
          "ha": "away",
          "winner": null,
          "linescores": [
+          0,
           0,
           0
          ]
@@ -2511,6 +2517,7 @@
          "ha": "home",
          "winner": null,
          "linescores": [
+          0,
           0,
           0
          ]
@@ -2555,16 +2562,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "7:32 - 1st",
+       "detail": "6:36 - 1st",
        "start": "2026-11-21T01:00Z",
        "period": 1,
-       "clock": "7:32",
+       "clock": "6:36",
        "teams": [
         {
          "name": "New Orleans Pelicans",
          "short": "Pelicans",
          "abbr": "NO",
-         "score": 9,
+         "score": 17,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -2622,16 +2629,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "6:49 - 1st",
+       "detail": "6:04 - 1st",
        "start": "2026-11-21T01:00Z",
        "period": 1,
-       "clock": "6:49",
+       "clock": "6:04",
        "teams": [
         {
          "name": "Washington Wizards",
          "short": "Wizards",
          "abbr": "WSH",
-         "score": 14,
+         "score": 16,
          "ha": "away",
          "winner": null,
          "linescores": [
