@@ -1,5 +1,5 @@
 {
- "updated": "Nov 21, 2026, 1:32 PM PT",
+ "updated": "Nov 21, 2026, 1:36 PM PT",
  "record": {
   "w": 224,
   "l": 230,
@@ -152,10 +152,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "12:41 - 4th",
+       "detail": "11:13 - 4th",
        "start": "2026-11-21T19:00Z",
        "period": 4,
-       "clock": "12:41",
+       "clock": "11:13",
        "teams": [
         {
          "name": "Missouri State Bears",
@@ -200,10 +200,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "5:20 - 3rd",
+       "detail": "3:52 - 3rd",
        "start": "2026-11-21T19:30Z",
        "period": 3,
-       "clock": "5:20",
+       "clock": "3:52",
        "teams": [
         {
          "name": "UL Monroe Warhawks",
@@ -1996,10 +1996,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "End of 1st",
+       "detail": "13:31 - 2nd",
        "start": "2026-11-21T20:45Z",
-       "period": 1,
-       "clock": "0:00",
+       "period": 2,
+       "clock": "13:31",
        "teams": [
         {
          "name": "Texas A&M Aggies",
@@ -2009,6 +2009,7 @@
          "ha": "away",
          "winner": null,
          "linescores": [
+          0,
           0
          ]
         },
@@ -2020,6 +2021,7 @@
          "ha": "home",
          "winner": null,
          "linescores": [
+          0,
           0
          ]
         }
