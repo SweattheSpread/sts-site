@@ -1,5 +1,5 @@
 {
- "updated": "Nov 20, 2026, 6:20 PM PT",
+ "updated": "Nov 20, 2026, 6:44 PM PT",
  "record": {
   "w": 214,
   "l": 216,
@@ -11,7 +11,7 @@
   "first": "2026-10-12",
   "last": "2026-11-19"
  },
- "pending": 46,
+ "pending": 48,
  "plays": [
   {
    "n": 334,
@@ -7342,16 +7342,48 @@
    "pending": true
   },
   {
-   "n": 929,
+   "n": 930,
    "date": "2026-11-20",
    "day": "2026-11-20",
    "league": "NCAAF",
+   "market": "parlay",
+   "market_label": "Parlay",
+   "ticket": "parlay",
+   "matchup": "2-leg live parlay",
+   "pick": "UTEP Miners team total Under 9.5 (UTEP @ Air Force, live, AFA 21-3 late 2nd Q) + Toledo Rockets team total Over 29.5 (Bowling Green @ Toledo, live, TOL 16-0 at halftime)",
+   "odds": 285,
+   "units": 3.0,
+   "result": null,
+   "pl": null,
+   "pending": true
+  },
+  {
+   "n": 931,
+   "date": "2026-11-20",
+   "day": "2026-11-20",
+   "league": "NBA",
+   "market": "team_total",
+   "market_label": "Team Total",
+   "ticket": "single",
+   "matchup": "Indiana Pacers @ Cleveland Cavaliers",
+   "pick": "Indiana Pacers team total Under 117.5",
+   "odds": -125,
+   "units": 3.0,
+   "result": null,
+   "pl": null,
+   "pending": true
+  },
+  {
+   "n": 932,
+   "date": "2026-11-20",
+   "day": "2026-11-20",
+   "league": "NBA",
    "market": "total",
    "market_label": "Total",
    "ticket": "single",
-   "matchup": "Bowling Green Falcons @ Toledo Rockets",
-   "pick": "Under 32.5 (full game)",
-   "odds": -104,
+   "matchup": "New Orleans Pelicans @ Oklahoma City Thunder",
+   "pick": "Over 241.5 (full game)",
+   "odds": 105,
    "units": 7.0,
    "result": null,
    "pl": null,

@@ -1,5 +1,5 @@
 {
- "updated": "Nov 20, 2026, 6:20 PM PT",
+ "updated": "Nov 20, 2026, 6:44 PM PT",
  "record": {
   "w": 214,
   "l": 216,
@@ -11,7 +11,7 @@
   "first": "2026-10-12",
   "last": "2026-11-19"
  },
- "pending": 45,
+ "pending": 46,
  "latest": [
   {
    "n": 904,
@@ -128,36 +128,6 @@
  ],
  "picks": [
   {
-   "n": 910,
-   "league": "NBA",
-   "type": "Player Prop",
-   "matchup": "Phoenix Suns @ Utah Jazz",
-   "pick": "Miles Bridges Over 1.5 3-pointers made",
-   "odds": 105,
-   "units": 1.0,
-   "gap": null,
-   "start": "2026-11-20T18:40:00",
-   "timed": true,
-   "ticket": "single",
-   "espn": {
-    "legs": [
-     {
-      "kind": "prop",
-      "player": "Miles Bridges",
-      "ou": "O",
-      "line": 1.5,
-      "stat": "3-pointers made",
-      "label": "Miles Bridges O 1.5 3-pointers made",
-      "date": "20261120",
-      "unverified": true,
-      "reason": "Player not found in this game"
-     }
-    ],
-    "sport": "NBA",
-    "ticket": "single"
-   }
-  },
-  {
    "n": 928,
    "league": "NBA",
    "type": "Player Prop",
@@ -185,6 +155,98 @@
     ],
     "sport": "NBA",
     "ticket": "single"
+   }
+  },
+  {
+   "n": 930,
+   "league": "NCAAF",
+   "type": "Parlay",
+   "matchup": "2-leg live parlay",
+   "pick": "UTEP Miners team total Under 9.5 (UTEP @ Air Force, live, AFA 21-3 late 2nd Q) + Toledo Rockets team total Over 29.5 (Bowling Green @ Toledo, live, TOL 16-0 at halftime)",
+   "odds": 285,
+   "units": 3.0,
+   "gap": null,
+   "start": "2026-11-20T23:59:00",
+   "timed": false,
+   "ticket": "parlay",
+   "espn": {
+    "legs": [
+     {
+      "kind": "team_total",
+      "side": "UTEP Miners",
+      "ou": "U",
+      "line": 9.5,
+      "label": "UTEP Miners U 9.5",
+      "path": "football/college-football",
+      "event": "401864545",
+      "date": "20261121",
+      "snapshot": {
+       "source": "espn",
+       "state": "in",
+       "detail": "Halftime",
+       "start": "2026-11-21T01:00Z",
+       "period": 2,
+       "clock": "0:00",
+       "teams": [
+        {
+         "name": "UTEP Miners",
+         "short": "Miners",
+         "abbr": "UTEP",
+         "score": 3,
+         "ha": "away",
+         "winner": null,
+         "linescores": [
+          0,
+          0
+         ]
+        },
+        {
+         "name": "Air Force Falcons",
+         "short": "Falcons",
+         "abbr": "AFA",
+         "score": 28,
+         "ha": "home",
+         "winner": null,
+         "linescores": [
+          0,
+          0
+         ]
+        }
+       ]
+      },
+      "source": "espn"
+     },
+     {
+      "kind": "unknown",
+      "label": "live",
+      "unverified": true
+     },
+     {
+      "kind": "unknown",
+      "label": "AFA 21-3 late 2nd Q)",
+      "unverified": true
+     },
+     {
+      "kind": "team_total",
+      "side": "Toledo Rockets",
+      "ou": "O",
+      "line": 29.5,
+      "label": "Toledo Rockets O 29.5",
+      "unverified": true
+     },
+     {
+      "kind": "unknown",
+      "label": "live",
+      "unverified": true
+     },
+     {
+      "kind": "unknown",
+      "label": "TOL 16-0 at halftime)",
+      "unverified": true
+     }
+    ],
+    "sport": "NCAAF",
+    "ticket": "parlay"
    }
   },
   {
@@ -1683,6 +1745,70 @@
    }
   },
   {
+   "n": 910,
+   "league": "NBA",
+   "type": "Player Prop",
+   "matchup": "Phoenix Suns @ Utah Jazz",
+   "pick": "Miles Bridges Over 1.5 3-pointers made",
+   "odds": 105,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-20T18:40:00",
+   "timed": true,
+   "ticket": "single",
+   "espn": {
+    "legs": [
+     {
+      "kind": "prop",
+      "player": "Miles Bridges",
+      "ou": "O",
+      "line": 1.5,
+      "stat": "3-pointers made",
+      "label": "Miles Bridges O 1.5 3-pointers made",
+      "path": "basketball/nba",
+      "event": "401909311",
+      "date": "20261120",
+      "snapshot": {
+       "source": "espn",
+       "state": "in",
+       "detail": "11:02 - 1st",
+       "start": "2026-11-21T02:30Z",
+       "period": 1,
+       "clock": "11:02",
+       "teams": [
+        {
+         "name": "Phoenix Suns",
+         "short": "Suns",
+         "abbr": "PHX",
+         "score": 0,
+         "ha": "away",
+         "winner": null,
+         "linescores": [
+          0
+         ]
+        },
+        {
+         "name": "Utah Jazz",
+         "short": "Jazz",
+         "abbr": "UTAH",
+         "score": 0,
+         "ha": "home",
+         "winner": null,
+         "linescores": [
+          0
+         ]
+        }
+       ],
+       "stat": null
+      },
+      "source": "espn"
+     }
+    ],
+    "sport": "NBA",
+    "ticket": "single"
+   }
+  },
+  {
    "n": 911,
    "league": "NCAAB",
    "type": "Over/Under",
@@ -1835,16 +1961,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "11:56 - 1st",
+       "detail": "3:45 - 1st",
        "start": "2026-11-21T02:00Z",
        "period": 1,
-       "clock": "11:56",
+       "clock": "3:45",
        "teams": [
         {
          "name": "Sam Houston Bearkats",
          "short": "Bearkats",
          "abbr": "SHSU",
-         "score": 6,
+         "score": 20,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -1855,7 +1981,7 @@
          "name": "Boise State Broncos",
          "short": "Broncos",
          "abbr": "BOIS",
-         "score": 5,
+         "score": 19,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -1897,16 +2023,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "14:37 - 1st",
+       "detail": "4:16 - 1st",
        "start": "2026-11-21T02:00Z",
        "period": 1,
-       "clock": "14:37",
+       "clock": "4:16",
        "teams": [
         {
          "name": "Eastern Illinois Panthers",
          "short": "Panthers",
          "abbr": "EIU",
-         "score": 9,
+         "score": 14,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -1917,7 +2043,7 @@
          "name": "Illinois Fighting Illini",
          "short": "Fighting Illini",
          "abbr": "ILL",
-         "score": 14,
+         "score": 49,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -2082,16 +2208,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "10:41 - 1st",
+       "detail": "0:10 - 1st",
        "start": "2026-11-21T02:00Z",
        "period": 1,
-       "clock": "10:41",
+       "clock": "0:10",
        "teams": [
         {
          "name": "Cal State Bakersfield Roadrunners",
          "short": "Roadrunners",
          "abbr": "CSUB",
-         "score": 16,
+         "score": 39,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -2102,7 +2228,7 @@
          "name": "Idaho Vandals",
          "short": "Vandals",
          "abbr": "IDHO",
-         "score": 21,
+         "score": 43,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -2145,19 +2271,20 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "20.6 - 3rd",
+       "detail": "4:03 - 4th",
        "start": "2026-11-21T00:30Z",
-       "period": 3,
-       "clock": "20.6",
+       "period": 4,
+       "clock": "4:03",
        "teams": [
         {
          "name": "Indiana Pacers",
          "short": "Pacers",
          "abbr": "IND",
-         "score": 83,
+         "score": 103,
          "ha": "away",
          "winner": null,
          "linescores": [
+          0,
           0,
           0,
           0
@@ -2167,10 +2294,11 @@
          "name": "Cleveland Cavaliers",
          "short": "Cavaliers",
          "abbr": "CLE",
-         "score": 103,
+         "score": 115,
          "ha": "home",
          "winner": null,
          "linescores": [
+          0,
           0,
           0,
           0
@@ -2213,19 +2341,20 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "2:08 - 3rd",
+       "detail": "5:31 - 4th",
        "start": "2026-11-21T00:30Z",
-       "period": 3,
-       "clock": "2:08",
+       "period": 4,
+       "clock": "5:31",
        "teams": [
         {
          "name": "Toronto Raptors",
          "short": "Raptors",
          "abbr": "TOR",
-         "score": 72,
+         "score": 89,
          "ha": "away",
          "winner": null,
          "linescores": [
+          0,
           0,
           0,
           0
@@ -2235,10 +2364,11 @@
          "name": "Detroit Pistons",
          "short": "Pistons",
          "abbr": "DET",
-         "score": 69,
+         "score": 85,
          "ha": "home",
          "winner": null,
          "linescores": [
+          0,
           0,
           0,
           0
@@ -2281,19 +2411,20 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "Halftime",
+       "detail": "End of 3rd",
        "start": "2026-11-21T01:00Z",
-       "period": 2,
+       "period": 3,
        "clock": "0.0",
        "teams": [
         {
          "name": "Washington Wizards",
          "short": "Wizards",
          "abbr": "WSH",
-         "score": 52,
+         "score": 75,
          "ha": "away",
          "winner": null,
          "linescores": [
+          0,
           0,
           0
          ]
@@ -2302,17 +2433,18 @@
          "name": "Chicago Bulls",
          "short": "Bulls",
          "abbr": "CHI",
-         "score": 60,
+         "score": 69,
          "ha": "home",
          "winner": null,
          "linescores": [
+          0,
           0,
           0
          ]
         }
        ],
        "stat": {
-        "v": 5,
+        "v": 6,
         "name": "Tre Jones"
        }
       },
@@ -2350,19 +2482,20 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "2:08 - 3rd",
+       "detail": "5:31 - 4th",
        "start": "2026-11-21T00:30Z",
-       "period": 3,
-       "clock": "2:08",
+       "period": 4,
+       "clock": "5:31",
        "teams": [
         {
          "name": "Toronto Raptors",
          "short": "Raptors",
          "abbr": "TOR",
-         "score": 72,
+         "score": 89,
          "ha": "away",
          "winner": null,
          "linescores": [
+          0,
           0,
           0,
           0
@@ -2372,10 +2505,11 @@
          "name": "Detroit Pistons",
          "short": "Pistons",
          "abbr": "DET",
-         "score": 69,
+         "score": 85,
          "ha": "home",
          "winner": null,
          "linescores": [
+          0,
           0,
           0,
           0
@@ -2383,7 +2517,7 @@
         }
        ],
        "stat": {
-        "v": 7,
+        "v": 9,
         "name": "Immanuel Quickley"
        }
       },
@@ -2567,19 +2701,20 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "Halftime",
+       "detail": "1:00 - 3rd",
        "start": "2026-11-21T01:00Z",
-       "period": 2,
-       "clock": "0.0",
+       "period": 3,
+       "clock": "1:00",
        "teams": [
         {
          "name": "New Orleans Pelicans",
          "short": "Pelicans",
          "abbr": "NO",
-         "score": 64,
+         "score": 97,
          "ha": "away",
          "winner": null,
          "linescores": [
+          0,
           0,
           0
          ]
@@ -2588,17 +2723,18 @@
          "name": "Oklahoma City Thunder",
          "short": "Thunder",
          "abbr": "OKC",
-         "score": 56,
+         "score": 90,
          "ha": "home",
          "winner": null,
          "linescores": [
+          0,
           0,
           0
          ]
         }
        ],
        "stat": {
-        "v": 2,
+        "v": 6,
         "name": "Shai Gilgeous-Alexander"
        }
       },
@@ -2636,19 +2772,20 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "Halftime",
+       "detail": "End of 3rd",
        "start": "2026-11-21T01:00Z",
-       "period": 2,
+       "period": 3,
        "clock": "0.0",
        "teams": [
         {
          "name": "Washington Wizards",
          "short": "Wizards",
          "abbr": "WSH",
-         "score": 52,
+         "score": 75,
          "ha": "away",
          "winner": null,
          "linescores": [
+          0,
           0,
           0
          ]
@@ -2657,10 +2794,11 @@
          "name": "Chicago Bulls",
          "short": "Bulls",
          "abbr": "CHI",
-         "score": 60,
+         "score": 69,
          "ha": "home",
          "winner": null,
          "linescores": [
+          0,
           0,
           0
          ]
@@ -2703,16 +2841,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "13:13 - 1st",
+       "detail": "2:27 - 1st",
        "start": "2026-11-21T02:00Z",
        "period": 1,
-       "clock": "13:13",
+       "clock": "2:27",
        "teams": [
         {
          "name": "New Mexico Lobos",
          "short": "Lobos",
          "abbr": "UNM",
-         "score": 0,
+         "score": 7,
          "ha": "away",
          "winner": null,
          "linescores": [
