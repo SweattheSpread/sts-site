@@ -1,5 +1,5 @@
 {
- "updated": "Nov 20, 2026, 5:03 PM PT",
+ "updated": "Nov 20, 2026, 5:11 PM PT",
  "record": {
   "w": 214,
   "l": 216,
@@ -127,139 +127,6 @@
   }
  ],
  "picks": [
-  {
-   "n": 920,
-   "league": "NBA",
-   "type": "Player Prop",
-   "matchup": "Washington Wizards @ Chicago Bulls",
-   "pick": "Tre Jones Under 4.5 assists",
-   "odds": -125,
-   "units": 1.0,
-   "gap": null,
-   "start": "2026-11-20T17:10:00",
-   "timed": true,
-   "ticket": "single",
-   "espn": {
-    "legs": [
-     {
-      "kind": "prop",
-      "player": "Tre Jones",
-      "ou": "U",
-      "line": 4.5,
-      "stat": "assists",
-      "label": "Tre Jones U 4.5 assists",
-      "path": "basketball/nba",
-      "event": "401910022",
-      "date": "20261119",
-      "snapshot": {
-       "source": "espn",
-       "state": "post",
-       "detail": "Final",
-       "start": "2026-11-20T01:00Z",
-       "period": null,
-       "clock": null,
-       "teams": [
-        {
-         "name": "LA Clippers",
-         "short": "Clippers",
-         "abbr": "LAC",
-         "score": 112,
-         "ha": "away",
-         "winner": false,
-         "linescores": [
-          0,
-          0,
-          0,
-          0
-         ]
-        },
-        {
-         "name": "San Antonio Spurs",
-         "short": "Spurs",
-         "abbr": "SA",
-         "score": 124,
-         "ha": "home",
-         "winner": true,
-         "linescores": [
-          0,
-          0,
-          0,
-          0
-         ]
-        }
-       ],
-       "stat": {
-        "v": 1,
-        "name": "Derrick Jones Jr."
-       }
-      },
-      "source": "espn"
-     }
-    ],
-    "sport": "NBA",
-    "ticket": "single"
-   }
-  },
-  {
-   "n": 924,
-   "league": "NBA",
-   "type": "Player Prop",
-   "matchup": "New Orleans Pelicans @ Oklahoma City Thunder",
-   "pick": "Shai Gilgeous-Alexander Under 5.5 assists",
-   "odds": -120,
-   "units": 1.0,
-   "gap": null,
-   "start": "2026-11-20T17:10:00",
-   "timed": true,
-   "ticket": "single",
-   "espn": {
-    "legs": [
-     {
-      "kind": "prop",
-      "player": "Shai Gilgeous-Alexander",
-      "ou": "U",
-      "line": 5.5,
-      "stat": "assists",
-      "label": "Shai Gilgeous-Alexander U 5.5 assists",
-      "date": "20261120",
-      "unverified": true,
-      "reason": "Player not found in this game"
-     }
-    ],
-    "sport": "NBA",
-    "ticket": "single"
-   }
-  },
-  {
-   "n": 925,
-   "league": "NBA",
-   "type": "Player Prop",
-   "matchup": "Washington Wizards @ Chicago Bulls",
-   "pick": "Matas Buzelis Under 2.5 threes",
-   "odds": -115,
-   "units": 1.0,
-   "gap": null,
-   "start": "2026-11-20T17:10:00",
-   "timed": true,
-   "ticket": "single",
-   "espn": {
-    "legs": [
-     {
-      "kind": "prop",
-      "player": "Matas Buzelis",
-      "ou": "U",
-      "line": 2.5,
-      "stat": "threes",
-      "label": "Matas Buzelis U 2.5 threes",
-      "date": "20261120",
-      "unverified": true,
-      "reason": "Player not found in this game"
-     }
-    ],
-    "sport": "NBA",
-    "ticket": "single"
-   }
-  },
   {
    "n": 913,
    "league": "NCAAB",
@@ -2220,19 +2087,20 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "Halftime",
+       "detail": "17:29 - 2nd",
        "start": "2026-11-21T00:00Z",
-       "period": 1,
-       "clock": "0:00",
+       "period": 2,
+       "clock": "17:29",
        "teams": [
         {
          "name": "Georgia State Panthers",
          "short": "Panthers",
          "abbr": "GAST",
-         "score": 35,
+         "score": 41,
          "ha": "away",
          "winner": null,
          "linescores": [
+          0,
           0
          ]
         },
@@ -2240,10 +2108,11 @@
          "name": "Jacksonville State Gamecocks",
          "short": "Gamecocks",
          "abbr": "JXST",
-         "score": 33,
+         "score": 41,
          "ha": "home",
          "winner": null,
          "linescores": [
+          0,
           0
          ]
         }
@@ -2283,19 +2152,20 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "1:54 - 1st",
+       "detail": "9:52 - 2nd",
        "start": "2026-11-21T00:30Z",
-       "period": 1,
-       "clock": "1:54",
+       "period": 2,
+       "clock": "9:52",
        "teams": [
         {
          "name": "Indiana Pacers",
          "short": "Pacers",
          "abbr": "IND",
-         "score": 24,
+         "score": 37,
          "ha": "away",
          "winner": null,
          "linescores": [
+          0,
           0
          ]
         },
@@ -2303,10 +2173,11 @@
          "name": "Cleveland Cavaliers",
          "short": "Cavaliers",
          "abbr": "CLE",
-         "score": 24,
+         "score": 33,
          "ha": "home",
          "winner": null,
          "linescores": [
+          0,
           0
          ]
         }
@@ -2347,16 +2218,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "2:59 - 1st",
+       "detail": "End of 1st",
        "start": "2026-11-21T00:30Z",
        "period": 1,
-       "clock": "2:59",
+       "clock": "0.1",
        "teams": [
         {
          "name": "Toronto Raptors",
          "short": "Raptors",
          "abbr": "TOR",
-         "score": 20,
+         "score": 26,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -2367,7 +2238,71 @@
          "name": "Detroit Pistons",
          "short": "Pistons",
          "abbr": "DET",
-         "score": 17,
+         "score": 23,
+         "ha": "home",
+         "winner": null,
+         "linescores": [
+          0
+         ]
+        }
+       ],
+       "stat": null
+      },
+      "source": "espn"
+     }
+    ],
+    "sport": "NBA",
+    "ticket": "single"
+   }
+  },
+  {
+   "n": 920,
+   "league": "NBA",
+   "type": "Player Prop",
+   "matchup": "Washington Wizards @ Chicago Bulls",
+   "pick": "Tre Jones Under 4.5 assists",
+   "odds": -125,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-20T17:10:00",
+   "timed": true,
+   "ticket": "single",
+   "espn": {
+    "legs": [
+     {
+      "kind": "prop",
+      "player": "Tre Jones",
+      "ou": "U",
+      "line": 4.5,
+      "stat": "assists",
+      "label": "Tre Jones U 4.5 assists",
+      "path": "basketball/nba",
+      "event": "401909309",
+      "date": "20261120",
+      "snapshot": {
+       "source": "espn",
+       "state": "in",
+       "detail": "11:11 - 1st",
+       "start": "2026-11-21T01:00Z",
+       "period": 1,
+       "clock": "11:11",
+       "teams": [
+        {
+         "name": "Washington Wizards",
+         "short": "Wizards",
+         "abbr": "WSH",
+         "score": 0,
+         "ha": "away",
+         "winner": null,
+         "linescores": [
+          0
+         ]
+        },
+        {
+         "name": "Chicago Bulls",
+         "short": "Bulls",
+         "abbr": "CHI",
+         "score": 2,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -2411,16 +2346,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "2:59 - 1st",
+       "detail": "End of 1st",
        "start": "2026-11-21T00:30Z",
        "period": 1,
-       "clock": "2:59",
+       "clock": "0.1",
        "teams": [
         {
          "name": "Toronto Raptors",
          "short": "Raptors",
          "abbr": "TOR",
-         "score": 20,
+         "score": 26,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -2431,7 +2366,7 @@
          "name": "Detroit Pistons",
          "short": "Pistons",
          "abbr": "DET",
-         "score": 17,
+         "score": 23,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -2440,7 +2375,7 @@
         }
        ],
        "stat": {
-        "v": 0,
+        "v": 1,
         "name": "Immanuel Quickley"
        }
       },
@@ -2478,16 +2413,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "54.1 - 2nd",
+       "detail": "Halftime",
        "start": "2026-11-21T00:00Z",
        "period": 2,
-       "clock": "54.1",
+       "clock": "0.0",
        "teams": [
         {
          "name": "Charlotte Hornets",
          "short": "Hornets",
          "abbr": "CHA",
-         "score": 55,
+         "score": 57,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -2499,7 +2434,7 @@
          "name": "Atlanta Hawks",
          "short": "Hawks",
          "abbr": "ATL",
-         "score": 51,
+         "score": 56,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -2547,16 +2482,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "54.1 - 2nd",
+       "detail": "Halftime",
        "start": "2026-11-21T00:00Z",
        "period": 2,
-       "clock": "54.1",
+       "clock": "0.0",
        "teams": [
         {
          "name": "Charlotte Hornets",
          "short": "Hornets",
          "abbr": "CHA",
-         "score": 55,
+         "score": 57,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -2568,7 +2503,7 @@
          "name": "Atlanta Hawks",
          "short": "Hawks",
          "abbr": "ATL",
-         "score": 51,
+         "score": 56,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -2580,6 +2515,140 @@
        "stat": {
         "v": 3,
         "name": "Nickeil Alexander-Walker"
+       }
+      },
+      "source": "espn"
+     }
+    ],
+    "sport": "NBA",
+    "ticket": "single"
+   }
+  },
+  {
+   "n": 924,
+   "league": "NBA",
+   "type": "Player Prop",
+   "matchup": "New Orleans Pelicans @ Oklahoma City Thunder",
+   "pick": "Shai Gilgeous-Alexander Under 5.5 assists",
+   "odds": -120,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-20T17:10:00",
+   "timed": true,
+   "ticket": "single",
+   "espn": {
+    "legs": [
+     {
+      "kind": "prop",
+      "player": "Shai Gilgeous-Alexander",
+      "ou": "U",
+      "line": 5.5,
+      "stat": "assists",
+      "label": "Shai Gilgeous-Alexander U 5.5 assists",
+      "path": "basketball/nba",
+      "event": "401909310",
+      "date": "20261120",
+      "snapshot": {
+       "source": "espn",
+       "state": "in",
+       "detail": "11:11 - 1st",
+       "start": "2026-11-21T01:00Z",
+       "period": 1,
+       "clock": "11:11",
+       "teams": [
+        {
+         "name": "New Orleans Pelicans",
+         "short": "Pelicans",
+         "abbr": "NO",
+         "score": 0,
+         "ha": "away",
+         "winner": null,
+         "linescores": [
+          0
+         ]
+        },
+        {
+         "name": "Oklahoma City Thunder",
+         "short": "Thunder",
+         "abbr": "OKC",
+         "score": 5,
+         "ha": "home",
+         "winner": null,
+         "linescores": [
+          0
+         ]
+        }
+       ],
+       "stat": {
+        "v": 0,
+        "name": "Shai Gilgeous-Alexander"
+       }
+      },
+      "source": "espn"
+     }
+    ],
+    "sport": "NBA",
+    "ticket": "single"
+   }
+  },
+  {
+   "n": 925,
+   "league": "NBA",
+   "type": "Player Prop",
+   "matchup": "Washington Wizards @ Chicago Bulls",
+   "pick": "Matas Buzelis Under 2.5 threes",
+   "odds": -115,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-20T17:10:00",
+   "timed": true,
+   "ticket": "single",
+   "espn": {
+    "legs": [
+     {
+      "kind": "prop",
+      "player": "Matas Buzelis",
+      "ou": "U",
+      "line": 2.5,
+      "stat": "threes",
+      "label": "Matas Buzelis U 2.5 threes",
+      "path": "basketball/nba",
+      "event": "401909309",
+      "date": "20261120",
+      "snapshot": {
+       "source": "espn",
+       "state": "in",
+       "detail": "11:11 - 1st",
+       "start": "2026-11-21T01:00Z",
+       "period": 1,
+       "clock": "11:11",
+       "teams": [
+        {
+         "name": "Washington Wizards",
+         "short": "Wizards",
+         "abbr": "WSH",
+         "score": 0,
+         "ha": "away",
+         "winner": null,
+         "linescores": [
+          0
+         ]
+        },
+        {
+         "name": "Chicago Bulls",
+         "short": "Bulls",
+         "abbr": "CHI",
+         "score": 2,
+         "ha": "home",
+         "winner": null,
+         "linescores": [
+          0
+         ]
+        }
+       ],
+       "stat": {
+        "v": 0,
+        "name": "Matas Buzelis"
        }
       },
       "source": "espn"
