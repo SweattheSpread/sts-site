@@ -1,5 +1,5 @@
 {
- "updated": "Nov 21, 2026, 11:53 AM PT",
+ "updated": "Nov 21, 2026, 11:56 AM PT",
  "record": {
   "w": 224,
   "l": 230,
@@ -152,10 +152,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "9:50 - 2nd",
+       "detail": "9:19 - 2nd",
        "start": "2026-11-21T19:00Z",
        "period": 2,
-       "clock": "9:50",
+       "clock": "9:19",
        "teams": [
         {
          "name": "Missouri State Bears",
@@ -196,10 +196,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "8:04 - 1st",
+       "detail": "6:25 - 1st",
        "start": "2026-11-21T19:30Z",
        "period": 1,
-       "clock": "8:04",
+       "clock": "6:25",
        "teams": [
         {
          "name": "UL Monroe Warhawks",
@@ -2136,16 +2136,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "0:08 - 1st",
+       "detail": "Halftime",
        "start": "2026-11-21T19:00Z",
        "period": 1,
-       "clock": "0:08",
+       "clock": "0:00",
        "teams": [
         {
          "name": "New Mexico Lobos",
          "short": "Lobos",
          "abbr": "UNM",
-         "score": 36,
+         "score": 37,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -2330,16 +2330,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "0:08 - 1st",
+       "detail": "Halftime",
        "start": "2026-11-21T19:00Z",
        "period": 1,
-       "clock": "0:08",
+       "clock": "0:00",
        "teams": [
         {
          "name": "New Mexico Lobos",
          "short": "Lobos",
          "abbr": "UNM",
-         "score": 36,
+         "score": 37,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -2391,10 +2391,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "6:27 - 4th",
+       "detail": "6:24 - 4th",
        "start": "2026-11-21T17:00Z",
        "period": 4,
-       "clock": "6:27",
+       "clock": "6:24",
        "teams": [
         {
          "name": "Wisconsin Badgers",
