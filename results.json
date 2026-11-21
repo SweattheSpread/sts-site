@@ -1,5 +1,5 @@
 {
- "updated": "Nov 21, 2026, 8:14 AM PT",
+ "updated": "Nov 21, 2026, 8:18 AM PT",
  "record": {
   "w": 224,
   "l": 230,
@@ -11,7 +11,7 @@
   "first": "2026-10-12",
   "last": "2026-11-20"
  },
- "pending": 30,
+ "pending": 33,
  "plays": [
   {
    "n": 334,
@@ -7497,6 +7497,54 @@
    "pick": "Jacksonville State Gamecocks -10 (Missouri State @ Jacksonville State, 11:00 AM PT) + Appalachian State Mountaineers -13.5 (UL Monroe @ Appalachian State, 11:30 AM PT)",
    "odds": 224,
    "units": 1.5,
+   "result": null,
+   "pl": null,
+   "pending": true
+  },
+  {
+   "n": 940,
+   "date": "2026-11-21",
+   "day": "2026-11-21",
+   "league": "NCAAB",
+   "market": "spread",
+   "market_label": "Spread",
+   "ticket": "single",
+   "matchup": "Columbia Lions @ Boston University Terriers",
+   "pick": "Columbia +1.5",
+   "odds": -120,
+   "units": 1.0,
+   "result": null,
+   "pl": null,
+   "pending": true
+  },
+  {
+   "n": 941,
+   "date": "2026-11-21",
+   "day": "2026-11-21",
+   "league": "NCAAB",
+   "market": "spread",
+   "market_label": "Spread",
+   "ticket": "single",
+   "matchup": "New Mexico Lobos @ Wichita State Shockers",
+   "pick": "Wichita State +2",
+   "odds": -110,
+   "units": 1.0,
+   "result": null,
+   "pl": null,
+   "pending": true
+  },
+  {
+   "n": 942,
+   "date": "2026-11-21",
+   "day": "2026-11-21",
+   "league": "NCAAB",
+   "market": "spread",
+   "market_label": "Spread",
+   "ticket": "single",
+   "matchup": "Army Knights @ Binghamton Bearcats",
+   "pick": "Binghamton +1.5",
+   "odds": -120,
+   "units": 1.0,
    "result": null,
    "pl": null,
    "pending": true

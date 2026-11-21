@@ -1,5 +1,5 @@
 {
- "updated": "Nov 21, 2026, 8:14 AM PT",
+ "updated": "Nov 21, 2026, 8:18 AM PT",
  "record": {
   "w": 224,
   "l": 230,
@@ -11,7 +11,7 @@
   "first": "2026-10-12",
   "last": "2026-11-20"
  },
- "pending": 30,
+ "pending": 33,
  "latest": [
   {
    "n": 933,
@@ -127,6 +127,177 @@
   }
  ],
  "picks": [
+  {
+   "n": 940,
+   "league": "NCAAB",
+   "type": "Spread",
+   "matchup": "Columbia Lions @ Boston University Terriers",
+   "pick": "Columbia +1.5",
+   "odds": -120,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-21T09:00:00",
+   "timed": true,
+   "ticket": "single",
+   "espn": {
+    "legs": [
+     {
+      "kind": "spread",
+      "side": "Columbia",
+      "line": 1.5,
+      "label": "Columbia +1.5",
+      "path": "basketball/mens-college-basketball",
+      "event": "401923402",
+      "date": "20261121",
+      "snapshot": {
+       "source": "espn",
+       "state": "pre",
+       "detail": "11/21 - 12:00 PM EST",
+       "start": "2026-11-21T17:00Z",
+       "period": null,
+       "clock": null,
+       "teams": [
+        {
+         "name": "Columbia Lions",
+         "short": "Lions",
+         "abbr": "COLU",
+         "score": 0,
+         "ha": "away",
+         "winner": null,
+         "linescores": []
+        },
+        {
+         "name": "Boston University Terriers",
+         "short": "Terriers",
+         "abbr": "BU",
+         "score": 0,
+         "ha": "home",
+         "winner": null,
+         "linescores": []
+        }
+       ]
+      },
+      "source": "espn"
+     }
+    ],
+    "sport": "NCAAB",
+    "ticket": "single"
+   }
+  },
+  {
+   "n": 941,
+   "league": "NCAAB",
+   "type": "Spread",
+   "matchup": "New Mexico Lobos @ Wichita State Shockers",
+   "pick": "Wichita State +2",
+   "odds": -110,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-21T11:00:00",
+   "timed": true,
+   "ticket": "single",
+   "espn": {
+    "legs": [
+     {
+      "kind": "spread",
+      "side": "Wichita State",
+      "line": 2.0,
+      "label": "Wichita State +2",
+      "path": "basketball/mens-college-basketball",
+      "event": "401919031",
+      "date": "20261121",
+      "snapshot": {
+       "source": "espn",
+       "state": "pre",
+       "detail": "11/21 - 2:00 PM EST",
+       "start": "2026-11-21T19:00Z",
+       "period": null,
+       "clock": null,
+       "teams": [
+        {
+         "name": "New Mexico Lobos",
+         "short": "Lobos",
+         "abbr": "UNM",
+         "score": 0,
+         "ha": "away",
+         "winner": null,
+         "linescores": []
+        },
+        {
+         "name": "Wichita State Shockers",
+         "short": "Shockers",
+         "abbr": "WICH",
+         "score": 0,
+         "ha": "home",
+         "winner": null,
+         "linescores": []
+        }
+       ]
+      },
+      "source": "espn"
+     }
+    ],
+    "sport": "NCAAB",
+    "ticket": "single"
+   }
+  },
+  {
+   "n": 942,
+   "league": "NCAAB",
+   "type": "Spread",
+   "matchup": "Army Knights @ Binghamton Bearcats",
+   "pick": "Binghamton +1.5",
+   "odds": -120,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-21T12:30:00",
+   "timed": true,
+   "ticket": "single",
+   "espn": {
+    "legs": [
+     {
+      "kind": "spread",
+      "side": "Binghamton",
+      "line": 1.5,
+      "label": "Binghamton +1.5",
+      "path": "basketball/mens-college-basketball",
+      "event": "401911278",
+      "date": "20261121",
+      "snapshot": {
+       "source": "espn",
+       "state": "pre",
+       "detail": "11/21 - 3:30 PM EST",
+       "start": "2026-11-21T20:30Z",
+       "period": null,
+       "clock": null,
+       "teams": [
+        {
+         "name": "Army Black Knights",
+         "short": "Black Knights",
+         "abbr": "ARMY",
+         "score": 0,
+         "ha": "away",
+         "winner": null,
+         "linescores": []
+        },
+        {
+         "name": "Binghamton Bearcats",
+         "short": "Bearcats",
+         "abbr": "BING",
+         "score": 0,
+         "ha": "home",
+         "winner": null,
+         "linescores": []
+        }
+       ]
+      },
+      "source": "espn"
+     }
+    ],
+    "sport": "NCAAB",
+    "ticket": "single"
+   }
+  },
   {
    "n": 934,
    "league": "NCAAF",
