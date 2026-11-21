@@ -1,5 +1,5 @@
 {
- "updated": "Nov 20, 2026, 3:58 PM PT",
+ "updated": "Nov 20, 2026, 4:01 PM PT",
  "record": {
   "w": 214,
   "l": 216,
@@ -127,63 +127,6 @@
   }
  ],
  "picks": [
-  {
-   "n": 916,
-   "league": "NCAAB",
-   "type": "Spread",
-   "matchup": "Georgia State Panthers @ Jacksonville State Gamecocks",
-   "pick": "Jacksonville State +0.5",
-   "odds": -110,
-   "units": 1.0,
-   "gap": null,
-   "start": "2026-11-20T16:00:00",
-   "timed": true,
-   "ticket": "single",
-   "espn": {
-    "legs": [
-     {
-      "kind": "spread",
-      "side": "Jacksonville State",
-      "line": 0.5,
-      "label": "Jacksonville State +0.5",
-      "path": "basketball/mens-college-basketball",
-      "event": "401926782",
-      "date": "20261120",
-      "snapshot": {
-       "source": "espn",
-       "state": "pre",
-       "detail": "11/20 - 7:00 PM EST",
-       "start": "2026-11-21T00:00Z",
-       "period": null,
-       "clock": null,
-       "teams": [
-        {
-         "name": "Georgia State Panthers",
-         "short": "Panthers",
-         "abbr": "GAST",
-         "score": 0,
-         "ha": "away",
-         "winner": null,
-         "linescores": []
-        },
-        {
-         "name": "Jacksonville State Gamecocks",
-         "short": "Gamecocks",
-         "abbr": "JXST",
-         "score": 0,
-         "ha": "home",
-         "winner": null,
-         "linescores": []
-        }
-       ]
-      },
-      "source": "espn"
-     }
-    ],
-    "sport": "NCAAB",
-    "ticket": "single"
-   }
-  },
   {
    "n": 922,
    "league": "NBA",
@@ -2181,16 +2124,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "15:13 - 2nd",
+       "detail": "12:58 - 2nd",
        "start": "2026-11-20T22:30Z",
        "period": 2,
-       "clock": "15:13",
+       "clock": "12:58",
        "teams": [
         {
          "name": "Mercyhurst Lakers",
          "short": "Lakers",
          "abbr": "MERC",
-         "score": 28,
+         "score": 30,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -2202,7 +2145,7 @@
          "name": "Canisius Golden Griffins",
          "short": "Golden Griffins",
          "abbr": "CAN",
-         "score": 40,
+         "score": 43,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -2335,6 +2278,63 @@
           0,
           0
          ]
+        }
+       ]
+      },
+      "source": "espn"
+     }
+    ],
+    "sport": "NCAAB",
+    "ticket": "single"
+   }
+  },
+  {
+   "n": 916,
+   "league": "NCAAB",
+   "type": "Spread",
+   "matchup": "Georgia State Panthers @ Jacksonville State Gamecocks",
+   "pick": "Jacksonville State +0.5",
+   "odds": -110,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-20T16:00:00",
+   "timed": true,
+   "ticket": "single",
+   "espn": {
+    "legs": [
+     {
+      "kind": "spread",
+      "side": "Jacksonville State",
+      "line": 0.5,
+      "label": "Jacksonville State +0.5",
+      "path": "basketball/mens-college-basketball",
+      "event": "401926782",
+      "date": "20261120",
+      "snapshot": {
+       "source": "espn",
+       "state": "pre",
+       "detail": "11/20 - 7:00 PM EST",
+       "start": "2026-11-21T00:00Z",
+       "period": null,
+       "clock": null,
+       "teams": [
+        {
+         "name": "Georgia State Panthers",
+         "short": "Panthers",
+         "abbr": "GAST",
+         "score": 0,
+         "ha": "away",
+         "winner": null,
+         "linescores": []
+        },
+        {
+         "name": "Jacksonville State Gamecocks",
+         "short": "Gamecocks",
+         "abbr": "JXST",
+         "score": 0,
+         "ha": "home",
+         "winner": null,
+         "linescores": []
         }
        ]
       },
