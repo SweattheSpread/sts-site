@@ -1,5 +1,5 @@
 {
- "updated": "Nov 21, 2026, 3:35 PM PT",
+ "updated": "Nov 21, 2026, 3:37 PM PT",
  "record": {
   "w": 224,
   "l": 230,
@@ -2033,10 +2033,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "12:21 - 4th",
+       "detail": "10:32 - 4th",
        "start": "2026-11-21T20:45Z",
        "period": 4,
-       "clock": "12:21",
+       "clock": "10:32",
        "teams": [
         {
          "name": "Texas A&M Aggies",
@@ -2103,10 +2103,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P1 05:06",
+       "detail": "P1 04:43",
        "start": "2026-11-21T23:00:00Z",
        "period": 1,
-       "clock": "05:06",
+       "clock": "04:43",
        "teams": [
         {
          "name": "Penguins",
@@ -2817,10 +2817,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "4:39 - 4th",
+       "detail": "3:06 - 4th",
        "start": "2026-11-21T20:30Z",
        "period": 4,
-       "clock": "4:39",
+       "clock": "3:06",
        "teams": [
         {
          "name": "UCLA Bruins",
