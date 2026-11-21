@@ -1,5 +1,5 @@
 {
- "updated": "Nov 21, 2026, 12:29 PM PT",
+ "updated": "Nov 21, 2026, 12:31 PM PT",
  "record": {
   "w": 224,
   "l": 230,
@@ -152,7 +152,7 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "End of 2nd",
+       "detail": "Halftime",
        "start": "2026-11-21T19:00Z",
        "period": 2,
        "clock": "0:00",
@@ -166,6 +166,7 @@
          "winner": null,
          "linescores": [
           0,
+          0,
           0
          ]
         },
@@ -177,6 +178,7 @@
          "ha": "home",
          "winner": null,
          "linescores": [
+          0,
           0,
           0
          ]
@@ -232,121 +234,6 @@
     ],
     "sport": "NCAAF",
     "ticket": "parlay"
-   }
-  },
-  {
-   "n": 942,
-   "league": "NCAAB",
-   "type": "Spread",
-   "matchup": "Army Knights @ Binghamton Bearcats",
-   "pick": "Binghamton +1.5",
-   "odds": -120,
-   "units": 1.0,
-   "gap": null,
-   "start": "2026-11-21T12:30:00",
-   "timed": true,
-   "ticket": "single",
-   "espn": {
-    "legs": [
-     {
-      "kind": "spread",
-      "side": "Binghamton",
-      "line": 1.5,
-      "label": "Binghamton +1.5",
-      "path": "basketball/mens-college-basketball",
-      "event": "401911278",
-      "date": "20261121",
-      "snapshot": {
-       "source": "espn",
-       "state": "pre",
-       "detail": "11/21 - 3:30 PM EST",
-       "start": "2026-11-21T20:30Z",
-       "period": null,
-       "clock": null,
-       "teams": [
-        {
-         "name": "Army Black Knights",
-         "short": "Black Knights",
-         "abbr": "ARMY",
-         "score": 0,
-         "ha": "away",
-         "winner": null,
-         "linescores": []
-        },
-        {
-         "name": "Binghamton Bearcats",
-         "short": "Bearcats",
-         "abbr": "BING",
-         "score": 0,
-         "ha": "home",
-         "winner": null,
-         "linescores": []
-        }
-       ]
-      },
-      "source": "espn"
-     }
-    ],
-    "sport": "NCAAB",
-    "ticket": "single"
-   }
-  },
-  {
-   "n": 946,
-   "league": "NCAAB",
-   "type": "Over/Under",
-   "matchup": "Army Knights @ Binghamton Bearcats",
-   "pick": "Over 136.5",
-   "odds": -110,
-   "units": 1.0,
-   "gap": null,
-   "start": "2026-11-21T12:30:00",
-   "timed": true,
-   "ticket": "single",
-   "espn": {
-    "legs": [
-     {
-      "kind": "total",
-      "side": null,
-      "ou": "O",
-      "line": 136.5,
-      "label": "O 136.5",
-      "path": "basketball/mens-college-basketball",
-      "event": "401911278",
-      "date": "20261121",
-      "snapshot": {
-       "source": "espn",
-       "state": "pre",
-       "detail": "11/21 - 3:30 PM EST",
-       "start": "2026-11-21T20:30Z",
-       "period": null,
-       "clock": null,
-       "teams": [
-        {
-         "name": "Army Black Knights",
-         "short": "Black Knights",
-         "abbr": "ARMY",
-         "score": 0,
-         "ha": "away",
-         "winner": null,
-         "linescores": []
-        },
-        {
-         "name": "Binghamton Bearcats",
-         "short": "Bearcats",
-         "abbr": "BING",
-         "score": 0,
-         "ha": "home",
-         "winner": null,
-         "linescores": []
-        }
-       ]
-      },
-      "source": "espn"
-     }
-    ],
-    "sport": "NCAAB",
-    "ticket": "single"
    }
   },
   {
@@ -2138,16 +2025,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "12:50 - 2nd",
+       "detail": "10:32 - 2nd",
        "start": "2026-11-21T19:00Z",
        "period": 2,
-       "clock": "12:50",
+       "clock": "10:32",
        "teams": [
         {
          "name": "New Mexico Lobos",
          "short": "Lobos",
          "abbr": "UNM",
-         "score": 46,
+         "score": 50,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -2159,13 +2046,70 @@
          "name": "Wichita State Shockers",
          "short": "Shockers",
          "abbr": "WICH",
-         "score": 48,
+         "score": 57,
          "ha": "home",
          "winner": null,
          "linescores": [
           0,
           0
          ]
+        }
+       ]
+      },
+      "source": "espn"
+     }
+    ],
+    "sport": "NCAAB",
+    "ticket": "single"
+   }
+  },
+  {
+   "n": 942,
+   "league": "NCAAB",
+   "type": "Spread",
+   "matchup": "Army Knights @ Binghamton Bearcats",
+   "pick": "Binghamton +1.5",
+   "odds": -120,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-21T12:30:00",
+   "timed": true,
+   "ticket": "single",
+   "espn": {
+    "legs": [
+     {
+      "kind": "spread",
+      "side": "Binghamton",
+      "line": 1.5,
+      "label": "Binghamton +1.5",
+      "path": "basketball/mens-college-basketball",
+      "event": "401911278",
+      "date": "20261121",
+      "snapshot": {
+       "source": "espn",
+       "state": "pre",
+       "detail": "11/21 - 3:30 PM EST",
+       "start": "2026-11-21T20:30Z",
+       "period": null,
+       "clock": null,
+       "teams": [
+        {
+         "name": "Army Black Knights",
+         "short": "Black Knights",
+         "abbr": "ARMY",
+         "score": 0,
+         "ha": "away",
+         "winner": null,
+         "linescores": []
+        },
+        {
+         "name": "Binghamton Bearcats",
+         "short": "Bearcats",
+         "abbr": "BING",
+         "score": 0,
+         "ha": "home",
+         "winner": null,
+         "linescores": []
         }
        ]
       },
@@ -2266,10 +2210,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "3:50 - 4th",
+       "detail": "2:15 - 4th",
        "start": "2026-11-21T17:00Z",
        "period": 4,
-       "clock": "3:50",
+       "clock": "2:15",
        "teams": [
         {
          "name": "Ohio State Buckeyes",
@@ -2309,6 +2253,64 @@
    }
   },
   {
+   "n": 946,
+   "league": "NCAAB",
+   "type": "Over/Under",
+   "matchup": "Army Knights @ Binghamton Bearcats",
+   "pick": "Over 136.5",
+   "odds": -110,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-21T12:30:00",
+   "timed": true,
+   "ticket": "single",
+   "espn": {
+    "legs": [
+     {
+      "kind": "total",
+      "side": null,
+      "ou": "O",
+      "line": 136.5,
+      "label": "O 136.5",
+      "path": "basketball/mens-college-basketball",
+      "event": "401911278",
+      "date": "20261121",
+      "snapshot": {
+       "source": "espn",
+       "state": "pre",
+       "detail": "11/21 - 3:30 PM EST",
+       "start": "2026-11-21T20:30Z",
+       "period": null,
+       "clock": null,
+       "teams": [
+        {
+         "name": "Army Black Knights",
+         "short": "Black Knights",
+         "abbr": "ARMY",
+         "score": 0,
+         "ha": "away",
+         "winner": null,
+         "linescores": []
+        },
+        {
+         "name": "Binghamton Bearcats",
+         "short": "Bearcats",
+         "abbr": "BING",
+         "score": 0,
+         "ha": "home",
+         "winner": null,
+         "linescores": []
+        }
+       ]
+      },
+      "source": "espn"
+     }
+    ],
+    "sport": "NCAAB",
+    "ticket": "single"
+   }
+  },
+  {
    "n": 947,
    "league": "NCAAB",
    "type": "Over/Under",
@@ -2334,16 +2336,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "12:50 - 2nd",
+       "detail": "10:32 - 2nd",
        "start": "2026-11-21T19:00Z",
        "period": 2,
-       "clock": "12:50",
+       "clock": "10:32",
        "teams": [
         {
          "name": "New Mexico Lobos",
          "short": "Lobos",
          "abbr": "UNM",
-         "score": 46,
+         "score": 50,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -2355,7 +2357,7 @@
          "name": "Wichita State Shockers",
          "short": "Shockers",
          "abbr": "WICH",
-         "score": 48,
+         "score": 57,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -2466,10 +2468,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "4.8 - 4th",
+       "detail": "1.5 - 4th",
        "start": "2026-11-21T18:00Z",
        "period": 4,
-       "clock": "4.8",
+       "clock": "1.5",
        "teams": [
         {
          "name": "Milwaukee Bucks",
@@ -2489,7 +2491,7 @@
          "name": "Philadelphia 76ers",
          "short": "76ers",
          "abbr": "PHI",
-         "score": 130,
+         "score": 131,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -2537,10 +2539,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "3:50 - 4th",
+       "detail": "2:15 - 4th",
        "start": "2026-11-21T17:00Z",
        "period": 4,
-       "clock": "3:50",
+       "clock": "2:15",
        "teams": [
         {
          "name": "Ohio State Buckeyes",
@@ -2604,16 +2606,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "0:05 - 3rd",
+       "detail": "End of 3rd",
        "start": "2026-11-21T18:00Z",
        "period": 3,
-       "clock": "0:05",
+       "clock": "0:00",
        "teams": [
         {
          "name": "Western Kentucky Hilltoppers",
          "short": "Hilltoppers",
          "abbr": "WKU",
-         "score": 0,
+         "score": 7,
          "ha": "away",
          "winner": null,
          "linescores": [
