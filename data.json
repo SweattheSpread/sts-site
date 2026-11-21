@@ -1,5 +1,5 @@
 {
- "updated": "Nov 21, 2026, 9:55 AM PT",
+ "updated": "Nov 21, 2026, 9:58 AM PT",
  "record": {
   "w": 224,
   "l": 230,
@@ -2272,10 +2272,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "End of 1st",
+       "detail": "14:54 - 2nd",
        "start": "2026-11-21T17:00Z",
-       "period": 1,
-       "clock": "0:00",
+       "period": 2,
+       "clock": "14:54",
        "teams": [
         {
          "name": "Ohio State Buckeyes",
@@ -2285,6 +2285,7 @@
          "ha": "away",
          "winner": null,
          "linescores": [
+          0,
           0
          ]
         },
@@ -2296,6 +2297,7 @@
          "ha": "home",
          "winner": null,
          "linescores": [
+          0,
           0
          ]
         }
@@ -2333,10 +2335,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "11:56 - 2nd",
+       "detail": "9:34 - 2nd",
        "start": "2026-11-21T17:00Z",
        "period": 2,
-       "clock": "11:56",
+       "clock": "9:34",
        "teams": [
         {
          "name": "Wisconsin Badgers",
@@ -2396,10 +2398,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "End of 1st",
+       "detail": "14:54 - 2nd",
        "start": "2026-11-21T17:00Z",
-       "period": 1,
-       "clock": "0:00",
+       "period": 2,
+       "clock": "14:54",
        "teams": [
         {
          "name": "Ohio State Buckeyes",
@@ -2409,6 +2411,7 @@
          "ha": "away",
          "winner": null,
          "linescores": [
+          0,
           0
          ]
         },
@@ -2420,6 +2423,7 @@
          "ha": "home",
          "winner": null,
          "linescores": [
+          0,
           0
          ]
         }
