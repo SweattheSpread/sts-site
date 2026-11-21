@@ -1,5 +1,5 @@
 {
- "updated": "Nov 20, 2026, 4:21 PM PT",
+ "updated": "Nov 20, 2026, 4:24 PM PT",
  "record": {
   "w": 214,
   "l": 216,
@@ -2053,33 +2053,7 @@
       "path": "tennis/atp",
       "event": "339-2026",
       "comp": "187510",
-      "date": "20261120",
-      "snapshot": {
-       "source": "tennis-explorer",
-       "path": "tennis/explorer",
-       "event": "3377743",
-       "state": "post",
-       "detail": "Final \u00b7 2-0 sets",
-       "tennis": [
-        {
-         "name": "Alcaraz C.",
-         "winner": true,
-         "sets": [
-          6,
-          6
-         ]
-        },
-        {
-         "name": "Cobolli F.",
-         "winner": false,
-         "sets": [
-          4,
-          1
-         ]
-        }
-       ],
-       "tour": "Masters Cup ATP"
-      }
+      "date": "20261120"
      },
      {
       "kind": "ml",
@@ -2089,33 +2063,7 @@
       "path": "tennis/atp",
       "event": "339-2026",
       "comp": "187513",
-      "date": "20261120",
-      "snapshot": {
-       "source": "tennis-explorer",
-       "path": "tennis/explorer",
-       "event": "3377749",
-       "state": "post",
-       "detail": "Final \u00b7 2-0 sets",
-       "tennis": [
-        {
-         "name": "Medvedev D.",
-         "winner": true,
-         "sets": [
-          6,
-          6
-         ]
-        },
-        {
-         "name": "Tiafoe F.",
-         "winner": false,
-         "sets": [
-          3,
-          4
-         ]
-        }
-       ],
-       "tour": "Masters Cup ATP"
-      }
+      "date": "20261120"
      }
     ],
     "sport": "Tennis",
@@ -2148,16 +2096,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "4:41 - 2nd",
+       "detail": "3:14 - 2nd",
        "start": "2026-11-20T22:30Z",
        "period": 2,
-       "clock": "4:41",
+       "clock": "3:14",
        "teams": [
         {
          "name": "Mercyhurst Lakers",
          "short": "Lakers",
          "abbr": "MERC",
-         "score": 43,
+         "score": 45,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -2169,7 +2117,7 @@
          "name": "Canisius Golden Griffins",
          "short": "Golden Griffins",
          "abbr": "CAN",
-         "score": 50,
+         "score": 53,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -2337,16 +2285,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "11:30 - 1st",
+       "detail": "10:23 - 1st",
        "start": "2026-11-21T00:00Z",
        "period": 1,
-       "clock": "11:30",
+       "clock": "10:23",
        "teams": [
         {
          "name": "Georgia State Panthers",
          "short": "Panthers",
          "abbr": "GAST",
-         "score": 11,
+         "score": 13,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -2357,7 +2305,7 @@
          "name": "Jacksonville State Gamecocks",
          "short": "Gamecocks",
          "abbr": "JXST",
-         "score": 17,
+         "score": 19,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -2400,10 +2348,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "5:45 - 1st",
+       "detail": "5:30 - 1st",
        "start": "2026-11-21T00:00Z",
        "period": 1,
-       "clock": "5:45",
+       "clock": "5:30",
        "teams": [
         {
          "name": "Charlotte Hornets",
@@ -2420,7 +2368,7 @@
          "name": "Atlanta Hawks",
          "short": "Hawks",
          "abbr": "ATL",
-         "score": 11,
+         "score": 14,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -2467,10 +2415,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "5:45 - 1st",
+       "detail": "5:30 - 1st",
        "start": "2026-11-21T00:00Z",
        "period": 1,
-       "clock": "5:45",
+       "clock": "5:30",
        "teams": [
         {
          "name": "Charlotte Hornets",
@@ -2487,7 +2435,7 @@
          "name": "Atlanta Hawks",
          "short": "Hawks",
          "abbr": "ATL",
-         "score": 11,
+         "score": 14,
          "ha": "home",
          "winner": null,
          "linescores": [
