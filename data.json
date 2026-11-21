@@ -1,5 +1,5 @@
 {
- "updated": "Nov 20, 2026, 4:01 PM PT",
+ "updated": "Nov 20, 2026, 4:03 PM PT",
  "record": {
   "w": 214,
   "l": 216,
@@ -2124,16 +2124,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "12:58 - 2nd",
+       "detail": "11:47 - 2nd",
        "start": "2026-11-20T22:30Z",
        "period": 2,
-       "clock": "12:58",
+       "clock": "11:47",
        "teams": [
         {
          "name": "Mercyhurst Lakers",
          "short": "Lakers",
          "abbr": "MERC",
-         "score": 30,
+         "score": 35,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -2312,11 +2312,11 @@
       "date": "20261120",
       "snapshot": {
        "source": "espn",
-       "state": "pre",
-       "detail": "11/20 - 7:00 PM EST",
+       "state": "in",
+       "detail": "19:38 - 1st",
        "start": "2026-11-21T00:00Z",
-       "period": null,
-       "clock": null,
+       "period": 1,
+       "clock": "19:38",
        "teams": [
         {
          "name": "Georgia State Panthers",
@@ -2325,16 +2325,20 @@
          "score": 0,
          "ha": "away",
          "winner": null,
-         "linescores": []
+         "linescores": [
+          0
+         ]
         },
         {
          "name": "Jacksonville State Gamecocks",
          "short": "Gamecocks",
          "abbr": "JXST",
-         "score": 0,
+         "score": 2,
          "ha": "home",
          "winner": null,
-         "linescores": []
+         "linescores": [
+          0
+         ]
         }
        ]
       },
