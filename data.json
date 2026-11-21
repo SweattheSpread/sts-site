@@ -1,5 +1,5 @@
 {
- "updated": "Nov 20, 2026, 4:16 PM PT",
+ "updated": "Nov 20, 2026, 4:19 PM PT",
  "record": {
   "w": 214,
   "l": 216,
@@ -11,7 +11,7 @@
   "first": "2026-10-12",
   "last": "2026-11-19"
  },
- "pending": 43,
+ "pending": 44,
  "latest": [
   {
    "n": 904,
@@ -214,6 +214,33 @@
      }
     ],
     "sport": "NBA",
+    "ticket": "single"
+   }
+  },
+  {
+   "n": 927,
+   "league": "NCAAF",
+   "type": "Spread",
+   "matchup": "Toronto Raptors @ Detroit Pistons",
+   "pick": "Immanuel Quickley Over 5.5 assists",
+   "odds": -105,
+   "units": 3.0,
+   "gap": null,
+   "start": "2026-11-20T16:40:00",
+   "timed": true,
+   "ticket": "single",
+   "espn": {
+    "legs": [
+     {
+      "kind": "team_total",
+      "side": "Immanuel Quickley",
+      "ou": "O",
+      "line": 5.5,
+      "label": "Immanuel Quickley O 5.5",
+      "unverified": true
+     }
+    ],
+    "sport": "NCAAF",
     "ticket": "single"
    }
   },
@@ -2121,16 +2148,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "7:17 - 2nd",
+       "detail": "5:25 - 2nd",
        "start": "2026-11-20T22:30Z",
        "period": 2,
-       "clock": "7:17",
+       "clock": "5:25",
        "teams": [
         {
          "name": "Mercyhurst Lakers",
          "short": "Lakers",
          "abbr": "MERC",
-         "score": 41,
+         "score": 43,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -2142,7 +2169,7 @@
          "name": "Canisius Golden Griffins",
          "short": "Golden Griffins",
          "abbr": "CAN",
-         "score": 45,
+         "score": 48,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -2310,16 +2337,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "13:17 - 1st",
+       "detail": "12:14 - 1st",
        "start": "2026-11-21T00:00Z",
        "period": 1,
-       "clock": "13:17",
+       "clock": "12:14",
        "teams": [
         {
          "name": "Georgia State Panthers",
          "short": "Panthers",
          "abbr": "GAST",
-         "score": 6,
+         "score": 11,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -2330,7 +2357,7 @@
          "name": "Jacksonville State Gamecocks",
          "short": "Gamecocks",
          "abbr": "JXST",
-         "score": 13,
+         "score": 15,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -2373,16 +2400,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "9:19 - 1st",
+       "detail": "7:42 - 1st",
        "start": "2026-11-21T00:00Z",
        "period": 1,
-       "clock": "9:19",
+       "clock": "7:42",
        "teams": [
         {
          "name": "Charlotte Hornets",
          "short": "Hornets",
          "abbr": "CHA",
-         "score": 5,
+         "score": 9,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -2440,16 +2467,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "9:19 - 1st",
+       "detail": "7:42 - 1st",
        "start": "2026-11-21T00:00Z",
        "period": 1,
-       "clock": "9:19",
+       "clock": "7:42",
        "teams": [
         {
          "name": "Charlotte Hornets",
          "short": "Hornets",
          "abbr": "CHA",
-         "score": 5,
+         "score": 9,
          "ha": "away",
          "winner": null,
          "linescores": [
