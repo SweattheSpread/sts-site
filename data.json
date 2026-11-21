@@ -1,5 +1,5 @@
 {
- "updated": "Nov 20, 2026, 4:11 PM PT",
+ "updated": "Nov 20, 2026, 4:14 PM PT",
  "record": {
   "w": 214,
   "l": 216,
@@ -2121,10 +2121,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "8:41 - 2nd",
+       "detail": "7:30 - 2nd",
        "start": "2026-11-20T22:30Z",
        "period": 2,
-       "clock": "8:41",
+       "clock": "7:30",
        "teams": [
         {
          "name": "Mercyhurst Lakers",
@@ -2310,10 +2310,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "15:54 - 1st",
+       "detail": "14:23 - 1st",
        "start": "2026-11-21T00:00Z",
        "period": 1,
-       "clock": "15:54",
+       "clock": "14:23",
        "teams": [
         {
          "name": "Georgia State Panthers",
@@ -2330,7 +2330,7 @@
          "name": "Jacksonville State Gamecocks",
          "short": "Gamecocks",
          "abbr": "JXST",
-         "score": 6,
+         "score": 11,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -2373,16 +2373,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "11:06 - 1st",
+       "detail": "9:32 - 1st",
        "start": "2026-11-21T00:00Z",
        "period": 1,
-       "clock": "11:06",
+       "clock": "9:32",
        "teams": [
         {
          "name": "Charlotte Hornets",
          "short": "Hornets",
          "abbr": "CHA",
-         "score": 3,
+         "score": 5,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -2393,7 +2393,7 @@
          "name": "Atlanta Hawks",
          "short": "Hawks",
          "abbr": "ATL",
-         "score": 2,
+         "score": 9,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -2402,7 +2402,7 @@
         }
        ],
        "stat": {
-        "v": 0,
+        "v": 1,
         "name": "Onyeka Okongwu"
        }
       },
@@ -2440,16 +2440,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "11:06 - 1st",
+       "detail": "9:32 - 1st",
        "start": "2026-11-21T00:00Z",
        "period": 1,
-       "clock": "11:06",
+       "clock": "9:32",
        "teams": [
         {
          "name": "Charlotte Hornets",
          "short": "Hornets",
          "abbr": "CHA",
-         "score": 3,
+         "score": 5,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -2460,7 +2460,7 @@
          "name": "Atlanta Hawks",
          "short": "Hawks",
          "abbr": "ATL",
-         "score": 2,
+         "score": 9,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -2469,7 +2469,7 @@
         }
        ],
        "stat": {
-        "v": 0,
+        "v": 1,
         "name": "Nickeil Alexander-Walker"
        }
       },
