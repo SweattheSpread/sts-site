@@ -1,5 +1,5 @@
 {
- "updated": "Nov 21, 2026, 9:11 AM PT",
+ "updated": "Nov 21, 2026, 9:13 AM PT",
  "record": {
   "w": 224,
   "l": 230,
@@ -1942,10 +1942,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "15:15 - 1st",
+       "detail": "13:41 - 1st",
        "start": "2026-11-21T17:00Z",
        "period": 1,
-       "clock": "15:15",
+       "clock": "13:41",
        "teams": [
         {
          "name": "Columbia Lions",
@@ -1962,7 +1962,7 @@
          "name": "Boston University Terriers",
          "short": "Terriers",
          "abbr": "BU",
-         "score": 6,
+         "score": 8,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -2003,16 +2003,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "15:10 - 2nd",
+       "detail": "15:01 - 2nd",
        "start": "2026-11-21T16:00Z",
        "period": 2,
-       "clock": "15:10",
+       "clock": "15:01",
        "teams": [
         {
          "name": "South Carolina Upstate Spartans",
          "short": "Spartans",
          "abbr": "UPST",
-         "score": 36,
+         "score": 38,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -2024,7 +2024,7 @@
          "name": "UNC Greensboro Spartans",
          "short": "Spartans",
          "abbr": "UNCG",
-         "score": 52,
+         "score": 53,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -2067,11 +2067,11 @@
       "date": "20261121",
       "snapshot": {
        "source": "espn",
-       "state": "pre",
-       "detail": "11/21 - 12:00 PM EST",
+       "state": "in",
+       "detail": "14:25 - 1st",
        "start": "2026-11-21T17:00Z",
-       "period": null,
-       "clock": null,
+       "period": 1,
+       "clock": "14:25",
        "teams": [
         {
          "name": "Ohio State Buckeyes",
@@ -2080,7 +2080,9 @@
          "score": 0,
          "ha": "away",
          "winner": null,
-         "linescores": []
+         "linescores": [
+          0
+         ]
         },
         {
          "name": "Nebraska Cornhuskers",
@@ -2089,7 +2091,9 @@
          "score": 0,
          "ha": "home",
          "winner": null,
-         "linescores": []
+         "linescores": [
+          0
+         ]
         }
        ]
       },
