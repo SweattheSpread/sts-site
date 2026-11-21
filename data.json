@@ -1,5 +1,5 @@
 {
- "updated": "Nov 21, 2026, 12:59 PM PT",
+ "updated": "Nov 21, 2026, 1:01 PM PT",
  "record": {
   "w": 224,
   "l": 230,
@@ -161,7 +161,7 @@
          "name": "Missouri State Bears",
          "short": "Bears",
          "abbr": "MOST",
-         "score": 13,
+         "score": 20,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -198,10 +198,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "End of 2nd",
+       "detail": "10:31 - 3rd",
        "start": "2026-11-21T19:30Z",
-       "period": 2,
-       "clock": "0:00",
+       "period": 3,
+       "clock": "10:31",
        "teams": [
         {
          "name": "UL Monroe Warhawks",
@@ -211,6 +211,7 @@
          "ha": "away",
          "winner": null,
          "linescores": [
+          0,
           0,
           0
          ]
@@ -223,6 +224,7 @@
          "ha": "home",
          "winner": null,
          "linescores": [
+          0,
           0,
           0
          ]
@@ -1932,10 +1934,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "10:58 - 1st",
+       "detail": "10:53 - 1st",
        "start": "2026-11-21T20:45Z",
        "period": 1,
-       "clock": "10:58",
+       "clock": "10:53",
        "teams": [
         {
          "name": "Texas A&M Aggies",
@@ -2648,16 +2650,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "7:32 - 4th",
+       "detail": "5:52 - 4th",
        "start": "2026-11-21T18:00Z",
        "period": 4,
-       "clock": "7:32",
+       "clock": "5:52",
        "teams": [
         {
          "name": "Western Kentucky Hilltoppers",
          "short": "Hilltoppers",
          "abbr": "WKU",
-         "score": 7,
+         "score": 13,
          "ha": "away",
          "winner": null,
          "linescores": [
