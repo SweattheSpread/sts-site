@@ -1,5 +1,5 @@
 {
- "updated": "Nov 20, 2026, 7:47 PM PT",
+ "updated": "Nov 20, 2026, 7:50 PM PT",
  "record": {
   "w": 214,
   "l": 216,
@@ -153,10 +153,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "8:14 - 4th",
+       "detail": "7:42 - 4th",
        "start": "2026-11-21T01:00Z",
        "period": 4,
-       "clock": "8:14",
+       "clock": "7:42",
        "teams": [
         {
          "name": "UTEP Miners",
@@ -176,7 +176,7 @@
          "name": "Air Force Falcons",
          "short": "Falcons",
          "abbr": "AFA",
-         "score": 45,
+         "score": 52,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -1937,16 +1937,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "7:27 - 2nd",
+       "detail": "6:44 - 2nd",
        "start": "2026-11-21T02:00Z",
        "period": 2,
-       "clock": "7:27",
+       "clock": "6:44",
        "teams": [
         {
          "name": "Sam Houston Bearkats",
          "short": "Bearkats",
          "abbr": "SHSU",
-         "score": 65,
+         "score": 67,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -1958,7 +1958,7 @@
          "name": "Boise State Broncos",
          "short": "Broncos",
          "abbr": "BOIS",
-         "score": 48,
+         "score": 51,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -2188,16 +2188,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "3:39 - 2nd",
+       "detail": "2:54 - 2nd",
        "start": "2026-11-21T02:00Z",
        "period": 2,
-       "clock": "3:39",
+       "clock": "2:54",
        "teams": [
         {
          "name": "Cal State Bakersfield Roadrunners",
          "short": "Roadrunners",
          "abbr": "CSUB",
-         "score": 72,
+         "score": 76,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -2209,7 +2209,7 @@
          "name": "Idaho Vandals",
          "short": "Vandals",
          "abbr": "IDHO",
-         "score": 83,
+         "score": 84,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -2895,10 +2895,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "8:40 - 2nd",
+       "detail": "7:24 - 2nd",
        "start": "2026-11-21T03:00Z",
        "period": 2,
-       "clock": "8:40",
+       "clock": "7:24",
        "teams": [
         {
          "name": "Houston Rockets",
@@ -2916,7 +2916,7 @@
          "name": "Denver Nuggets",
          "short": "Nuggets",
          "abbr": "DEN",
-         "score": 40,
+         "score": 44,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -3098,10 +3098,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "8:14 - 4th",
+       "detail": "7:42 - 4th",
        "start": "2026-11-21T01:00Z",
        "period": 4,
-       "clock": "8:14",
+       "clock": "7:42",
        "teams": [
         {
          "name": "UTEP Miners",
@@ -3121,7 +3121,7 @@
          "name": "Air Force Falcons",
          "short": "Falcons",
          "abbr": "AFA",
-         "score": 45,
+         "score": 52,
          "ha": "home",
          "winner": null,
          "linescores": [
