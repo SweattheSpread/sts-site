@@ -1,5 +1,5 @@
 {
- "updated": "Nov 21, 2026, 2:26 PM PT",
+ "updated": "Nov 21, 2026, 2:28 PM PT",
  "record": {
   "w": 224,
   "l": 230,
@@ -200,10 +200,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "0:28 - 4th",
+       "detail": "0:02 - 4th",
        "start": "2026-11-21T19:30Z",
        "period": 4,
-       "clock": "0:28",
+       "clock": "0:02",
        "teams": [
         {
          "name": "UL Monroe Warhawks",
@@ -2223,16 +2223,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "3:02 - 2nd",
+       "detail": "1:49 - 2nd",
        "start": "2026-11-21T20:30Z",
        "period": 2,
-       "clock": "3:02",
+       "clock": "1:49",
        "teams": [
         {
          "name": "Army Black Knights",
          "short": "Black Knights",
          "abbr": "ARMY",
-         "score": 43,
+         "score": 44,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -2419,16 +2419,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "3:02 - 2nd",
+       "detail": "1:49 - 2nd",
        "start": "2026-11-21T20:30Z",
        "period": 2,
-       "clock": "3:02",
+       "clock": "1:49",
        "teams": [
         {
          "name": "Army Black Knights",
          "short": "Black Knights",
          "abbr": "ARMY",
-         "score": 43,
+         "score": 44,
          "ha": "away",
          "winner": null,
          "linescores": [
