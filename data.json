@@ -1,17 +1,17 @@
 {
- "updated": "Nov 20, 2026, 9:41 PM PT",
+ "updated": "Nov 20, 2026, 11:36 PM PT",
  "record": {
-  "w": 223,
-  "l": 229,
+  "w": 224,
+  "l": 230,
   "p": 0,
-  "n": 452,
-  "units": 48.78,
-  "risked": 650.75,
-  "roi": 7.5,
+  "n": 454,
+  "units": 50.56,
+  "risked": 654.75,
+  "roi": 7.72,
   "first": "2026-10-12",
   "last": "2026-11-20"
  },
- "pending": 26,
+ "pending": 24,
  "latest": [
   {
    "n": 933,
@@ -70,6 +70,34 @@
    "ticket": "parlay"
   },
   {
+   "n": 928,
+   "date": "2026-11-20",
+   "day": "2026-11-20",
+   "league": "NBA",
+   "type": "Player Prop",
+   "matchup": "Houston Rockets @ Denver Nuggets",
+   "pick": "Aaron Gordon Over 4.5 rebounds",
+   "odds": 100,
+   "units": 1.0,
+   "result": "L",
+   "pl": -1.0,
+   "ticket": "single"
+  },
+  {
+   "n": 926,
+   "date": "2026-11-20",
+   "day": "2026-11-20",
+   "league": "NCAAF",
+   "type": "Spread",
+   "matchup": "New Mexico Lobos @ Wyoming Cowboys",
+   "pick": "Wyoming Cowboys +10",
+   "odds": -108,
+   "units": 3.0,
+   "result": "W",
+   "pl": 2.78,
+   "ticket": "single"
+  },
+  {
    "n": 925,
    "date": "2026-11-20",
    "day": "2026-11-20",
@@ -92,34 +120,6 @@
    "matchup": "New Orleans Pelicans @ Oklahoma City Thunder",
    "pick": "Shai Gilgeous-Alexander Under 5.5 assists",
    "odds": -120,
-   "units": 1.0,
-   "result": "L",
-   "pl": -1.0,
-   "ticket": "single"
-  },
-  {
-   "n": 923,
-   "date": "2026-11-20",
-   "day": "2026-11-20",
-   "league": "NBA",
-   "type": "Player Prop",
-   "matchup": "Charlotte Hornets @ Atlanta Hawks",
-   "pick": "Nickeil Alexander-Walker Over 3.5 rebounds",
-   "odds": 125,
-   "units": 1.0,
-   "result": "W",
-   "pl": 1.25,
-   "ticket": "single"
-  },
-  {
-   "n": 922,
-   "date": "2026-11-20",
-   "day": "2026-11-20",
-   "league": "NBA",
-   "type": "Player Prop",
-   "matchup": "Charlotte Hornets @ Atlanta Hawks",
-   "pick": "Onyeka Okongwu Over 7.5 rebounds",
-   "odds": 125,
    "units": 1.0,
    "result": "L",
    "pl": -1.0,
@@ -1451,73 +1451,6 @@
  ],
  "awaiting": [
   {
-   "n": 926,
-   "league": "NCAAF",
-   "type": "Spread",
-   "matchup": "New Mexico Lobos @ Wyoming Cowboys",
-   "pick": "Wyoming Cowboys +10",
-   "odds": -108,
-   "units": 3.0,
-   "gap": null,
-   "start": "2026-11-20T18:00:00",
-   "timed": true,
-   "ticket": "single",
-   "espn": {
-    "legs": [
-     {
-      "kind": "spread",
-      "side": "Wyoming Cowboys",
-      "line": 10.0,
-      "label": "Wyoming Cowboys +10",
-      "path": "football/college-football",
-      "event": "401864542",
-      "date": "20261120",
-      "snapshot": {
-       "source": "espn",
-       "state": "post",
-       "detail": "Final",
-       "start": "2026-11-21T02:00Z",
-       "period": null,
-       "clock": null,
-       "teams": [
-        {
-         "name": "New Mexico Lobos",
-         "short": "Lobos",
-         "abbr": "UNM",
-         "score": 24,
-         "ha": "away",
-         "winner": true,
-         "linescores": [
-          0,
-          0,
-          0,
-          0
-         ]
-        },
-        {
-         "name": "Wyoming Cowboys",
-         "short": "Cowboys",
-         "abbr": "WYO",
-         "score": 17,
-         "ha": "home",
-         "winner": false,
-         "linescores": [
-          0,
-          0,
-          0,
-          0
-         ]
-        }
-       ]
-      },
-      "source": "espn"
-     }
-    ],
-    "sport": "NCAAF",
-    "ticket": "single"
-   }
-  },
-  {
    "n": 927,
    "league": "NCAAF",
    "type": "Spread",
@@ -1541,79 +1474,6 @@
      }
     ],
     "sport": "NCAAF",
-    "ticket": "single"
-   }
-  },
-  {
-   "n": 928,
-   "league": "NBA",
-   "type": "Player Prop",
-   "matchup": "Houston Rockets @ Denver Nuggets",
-   "pick": "Aaron Gordon Over 4.5 rebounds",
-   "odds": 100,
-   "units": 1.0,
-   "gap": null,
-   "start": "2026-11-20T19:10:00",
-   "timed": true,
-   "ticket": "single",
-   "espn": {
-    "legs": [
-     {
-      "kind": "prop",
-      "player": "Aaron Gordon",
-      "ou": "O",
-      "line": 4.5,
-      "stat": "rebounds",
-      "label": "Aaron Gordon O 4.5 rebounds",
-      "path": "basketball/nba",
-      "event": "401909312",
-      "date": "20261120",
-      "snapshot": {
-       "source": "espn",
-       "state": "post",
-       "detail": "Final",
-       "start": "2026-11-21T03:00Z",
-       "period": null,
-       "clock": null,
-       "teams": [
-        {
-         "name": "Houston Rockets",
-         "short": "Rockets",
-         "abbr": "HOU",
-         "score": 124,
-         "ha": "away",
-         "winner": false,
-         "linescores": [
-          0,
-          0,
-          0,
-          0
-         ]
-        },
-        {
-         "name": "Denver Nuggets",
-         "short": "Nuggets",
-         "abbr": "DEN",
-         "score": 133,
-         "ha": "home",
-         "winner": true,
-         "linescores": [
-          0,
-          0,
-          0,
-          0
-         ]
-        }
-       ],
-       "stat": {
-        "v": 3,
-        "name": "Aaron Gordon"
-       }
-      },
-      "source": "espn"
-     }
-    ],
-    "sport": "NBA",
     "ticket": "single"
    }
   }
@@ -1772,8 +1632,8 @@
    "n": 27
   },
   "2026-11-20": {
-   "u": 1.05,
-   "n": 22
+   "u": 2.83,
+   "n": 24
   }
  }
 }

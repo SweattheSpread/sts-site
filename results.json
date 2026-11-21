@@ -1,17 +1,17 @@
 {
- "updated": "Nov 20, 2026, 9:41 PM PT",
+ "updated": "Nov 20, 2026, 11:36 PM PT",
  "record": {
-  "w": 223,
-  "l": 229,
+  "w": 224,
+  "l": 230,
   "p": 0,
-  "n": 452,
-  "units": 48.78,
-  "risked": 650.75,
-  "roi": 7.5,
+  "n": 454,
+  "units": 50.56,
+  "risked": 654.75,
+  "roi": 7.72,
   "first": "2026-10-12",
   "last": "2026-11-20"
  },
- "pending": 26,
+ "pending": 24,
  "plays": [
   {
    "n": 334,
@@ -7305,9 +7305,9 @@
    "pick": "Wyoming Cowboys +10",
    "odds": -108,
    "units": 3.0,
-   "result": null,
-   "pl": null,
-   "pending": true
+   "result": "W",
+   "pl": 2.78,
+   "pending": false
   },
   {
    "n": 927,
@@ -7337,9 +7337,9 @@
    "pick": "Aaron Gordon Over 4.5 rebounds",
    "odds": 100,
    "units": 1.0,
-   "result": null,
-   "pl": null,
-   "pending": true
+   "result": "L",
+   "pl": -1.0,
+   "pending": false
   },
   {
    "n": 930,
