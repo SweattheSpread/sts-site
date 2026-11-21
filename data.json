@@ -1,5 +1,5 @@
 {
- "updated": "Nov 20, 2026, 5:47 PM PT",
+ "updated": "Nov 20, 2026, 5:50 PM PT",
  "record": {
   "w": 214,
   "l": 216,
@@ -2095,16 +2095,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "3:32 - 2nd",
+       "detail": "3:06 - 2nd",
        "start": "2026-11-21T00:00Z",
        "period": 2,
-       "clock": "3:32",
+       "clock": "3:06",
        "teams": [
         {
          "name": "Georgia State Panthers",
          "short": "Panthers",
          "abbr": "GAST",
-         "score": 69,
+         "score": 71,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -2116,7 +2116,7 @@
          "name": "Jacksonville State Gamecocks",
          "short": "Gamecocks",
          "abbr": "JXST",
-         "score": 70,
+         "score": 71,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -2292,10 +2292,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "7:35 - 2nd",
+       "detail": "7:22 - 2nd",
        "start": "2026-11-21T01:00Z",
        "period": 2,
-       "clock": "7:35",
+       "clock": "7:22",
        "teams": [
         {
          "name": "Washington Wizards",
@@ -2430,19 +2430,20 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "End of 3rd",
+       "detail": "11:02 - 4th",
        "start": "2026-11-21T00:00Z",
-       "period": 3,
-       "clock": "0.0",
+       "period": 4,
+       "clock": "11:02",
        "teams": [
         {
          "name": "Charlotte Hornets",
          "short": "Hornets",
          "abbr": "CHA",
-         "score": 76,
+         "score": 78,
          "ha": "away",
          "winner": null,
          "linescores": [
+          0,
           0,
           0,
           0
@@ -2456,6 +2457,7 @@
          "ha": "home",
          "winner": null,
          "linescores": [
+          0,
           0,
           0,
           0
@@ -2501,19 +2503,20 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "End of 3rd",
+       "detail": "11:02 - 4th",
        "start": "2026-11-21T00:00Z",
-       "period": 3,
-       "clock": "0.0",
+       "period": 4,
+       "clock": "11:02",
        "teams": [
         {
          "name": "Charlotte Hornets",
          "short": "Hornets",
          "abbr": "CHA",
-         "score": 76,
+         "score": 78,
          "ha": "away",
          "winner": null,
          "linescores": [
+          0,
           0,
           0,
           0
@@ -2527,6 +2530,7 @@
          "ha": "home",
          "winner": null,
          "linescores": [
+          0,
           0,
           0,
           0
@@ -2572,16 +2576,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "8:24 - 2nd",
+       "detail": "6:39 - 2nd",
        "start": "2026-11-21T01:00Z",
        "period": 2,
-       "clock": "8:24",
+       "clock": "6:39",
        "teams": [
         {
          "name": "New Orleans Pelicans",
          "short": "Pelicans",
          "abbr": "NO",
-         "score": 41,
+         "score": 48,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -2641,10 +2645,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "7:35 - 2nd",
+       "detail": "7:22 - 2nd",
        "start": "2026-11-21T01:00Z",
        "period": 2,
-       "clock": "7:35",
+       "clock": "7:22",
        "teams": [
         {
          "name": "Washington Wizards",
