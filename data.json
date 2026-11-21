@@ -1,5 +1,5 @@
 {
- "updated": "Nov 21, 2026, 10:07 AM PT",
+ "updated": "Nov 21, 2026, 10:09 AM PT",
  "record": {
   "w": 224,
   "l": 230,
@@ -150,7 +150,34 @@
       "label": "Tyler Herro U 2.5 threes",
       "date": "20261121",
       "unverified": true,
-      "reason": "Player not found in this game"
+      "reason": "Player not found in this game",
+      "snapshot": {
+       "source": "odds-api",
+       "state": "in",
+       "detail": "Live",
+       "start": "2026-11-21T18:10:00Z",
+       "teams": [
+        {
+         "name": "Milwaukee Bucks",
+         "short": "Milwaukee Bucks",
+         "abbr": "",
+         "score": 0,
+         "ha": "away",
+         "winner": null,
+         "linescores": []
+        },
+        {
+         "name": "Philadelphia 76ers",
+         "short": "Philadelphia 76ers",
+         "abbr": "",
+         "score": 0,
+         "ha": "home",
+         "winner": null,
+         "linescores": []
+        }
+       ]
+      },
+      "source": "odds-api"
      }
     ],
     "sport": "NBA",
@@ -2146,16 +2173,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "15:32 - 2nd",
+       "detail": "14:33 - 2nd",
        "start": "2026-11-21T17:00Z",
        "period": 2,
-       "clock": "15:32",
+       "clock": "14:33",
        "teams": [
         {
          "name": "Columbia Lions",
          "short": "Lions",
          "abbr": "COLU",
-         "score": 35,
+         "score": 38,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -2274,10 +2301,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "11:37 - 2nd",
+       "detail": "8:54 - 2nd",
        "start": "2026-11-21T17:00Z",
        "period": 2,
-       "clock": "11:37",
+       "clock": "8:54",
        "teams": [
         {
          "name": "Ohio State Buckeyes",
@@ -2337,10 +2364,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "5:45 - 2nd",
+       "detail": "5:02 - 2nd",
        "start": "2026-11-21T17:00Z",
        "period": 2,
-       "clock": "5:45",
+       "clock": "5:02",
        "teams": [
         {
          "name": "Wisconsin Badgers",
@@ -2400,10 +2427,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "11:37 - 2nd",
+       "detail": "8:54 - 2nd",
        "start": "2026-11-21T17:00Z",
        "period": 2,
-       "clock": "11:37",
+       "clock": "8:54",
        "teams": [
         {
          "name": "Ohio State Buckeyes",
