@@ -1,5 +1,5 @@
 {
- "updated": "Nov 20, 2026, 4:35 PM PT",
+ "updated": "Nov 20, 2026, 4:43 PM PT",
  "record": {
   "w": 214,
   "l": 216,
@@ -127,123 +127,6 @@
   }
  ],
  "picks": [
-  {
-   "n": 918,
-   "league": "NBA",
-   "type": "Player Prop",
-   "matchup": "Indiana Pacers @ Cleveland Cavaliers",
-   "pick": "Kelly Oubre Jr. Under 1.5 3-pointers made",
-   "odds": -135,
-   "units": 1.0,
-   "gap": null,
-   "start": "2026-11-20T16:40:00",
-   "timed": true,
-   "ticket": "single",
-   "espn": {
-    "legs": [
-     {
-      "kind": "prop",
-      "player": "Kelly Oubre Jr.",
-      "ou": "U",
-      "line": 1.5,
-      "stat": "3-pointers made",
-      "label": "Kelly Oubre Jr. U 1.5 3-pointers made",
-      "date": "20261120",
-      "unverified": true,
-      "reason": "Player not found in this game"
-     }
-    ],
-    "sport": "NBA",
-    "ticket": "single"
-   }
-  },
-  {
-   "n": 919,
-   "league": "NBA",
-   "type": "Player Prop",
-   "matchup": "Toronto Raptors @ Detroit Pistons",
-   "pick": "John Collins Over 1.5 3-pointers made",
-   "odds": 155,
-   "units": 1.0,
-   "gap": null,
-   "start": "2026-11-20T16:40:00",
-   "timed": true,
-   "ticket": "single",
-   "espn": {
-    "legs": [
-     {
-      "kind": "prop",
-      "player": "John Collins",
-      "ou": "O",
-      "line": 1.5,
-      "stat": "3-pointers made",
-      "label": "John Collins O 1.5 3-pointers made",
-      "date": "20261120",
-      "unverified": true,
-      "reason": "Player not found in this game"
-     }
-    ],
-    "sport": "NBA",
-    "ticket": "single"
-   }
-  },
-  {
-   "n": 921,
-   "league": "NBA",
-   "type": "Player Prop",
-   "matchup": "Toronto Raptors @ Detroit Pistons",
-   "pick": "Immanuel Quickley Over 5.5 assists",
-   "odds": -115,
-   "units": 1.0,
-   "gap": null,
-   "start": "2026-11-20T16:40:00",
-   "timed": true,
-   "ticket": "single",
-   "espn": {
-    "legs": [
-     {
-      "kind": "prop",
-      "player": "Immanuel Quickley",
-      "ou": "O",
-      "line": 5.5,
-      "stat": "assists",
-      "label": "Immanuel Quickley O 5.5 assists",
-      "date": "20261120",
-      "unverified": true,
-      "reason": "Player not found in this game"
-     }
-    ],
-    "sport": "NBA",
-    "ticket": "single"
-   }
-  },
-  {
-   "n": 927,
-   "league": "NCAAF",
-   "type": "Spread",
-   "matchup": "Toronto Raptors @ Detroit Pistons",
-   "pick": "Immanuel Quickley Over 5.5 assists",
-   "odds": -105,
-   "units": 3.0,
-   "gap": null,
-   "start": "2026-11-20T16:40:00",
-   "timed": true,
-   "ticket": "single",
-   "espn": {
-    "legs": [
-     {
-      "kind": "team_total",
-      "side": "Immanuel Quickley",
-      "ou": "O",
-      "line": 5.5,
-      "label": "Immanuel Quickley O 5.5",
-      "unverified": true
-     }
-    ],
-    "sport": "NCAAF",
-    "ticket": "single"
-   }
-  },
   {
    "n": 920,
    "league": "NBA",
@@ -2147,19 +2030,19 @@
       "date": "20261120",
       "snapshot": {
        "source": "espn",
-       "state": "in",
-       "detail": "1:04 - 2nd",
+       "state": "post",
+       "detail": "Final",
        "start": "2026-11-20T22:30Z",
-       "period": 2,
-       "clock": "1:04",
+       "period": null,
+       "clock": null,
        "teams": [
         {
          "name": "Mercyhurst Lakers",
          "short": "Lakers",
          "abbr": "MERC",
-         "score": 54,
+         "score": 56,
          "ha": "away",
-         "winner": null,
+         "winner": false,
          "linescores": [
           0,
           0
@@ -2169,9 +2052,9 @@
          "name": "Canisius Golden Griffins",
          "short": "Golden Griffins",
          "abbr": "CAN",
-         "score": 57,
+         "score": 63,
          "ha": "home",
-         "winner": null,
+         "winner": true,
          "linescores": [
           0,
           0
@@ -2337,16 +2220,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "7:26 - 1st",
+       "detail": "3:34 - 1st",
        "start": "2026-11-21T00:00Z",
        "period": 1,
-       "clock": "7:26",
+       "clock": "3:34",
        "teams": [
         {
          "name": "Georgia State Panthers",
          "short": "Panthers",
          "abbr": "GAST",
-         "score": 15,
+         "score": 23,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -2357,7 +2240,7 @@
          "name": "Jacksonville State Gamecocks",
          "short": "Gamecocks",
          "abbr": "JXST",
-         "score": 27,
+         "score": 31,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -2370,6 +2253,201 @@
      }
     ],
     "sport": "NCAAB",
+    "ticket": "single"
+   }
+  },
+  {
+   "n": 918,
+   "league": "NBA",
+   "type": "Player Prop",
+   "matchup": "Indiana Pacers @ Cleveland Cavaliers",
+   "pick": "Kelly Oubre Jr. Under 1.5 3-pointers made",
+   "odds": -135,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-20T16:40:00",
+   "timed": true,
+   "ticket": "single",
+   "espn": {
+    "legs": [
+     {
+      "kind": "prop",
+      "player": "Kelly Oubre Jr.",
+      "ou": "U",
+      "line": 1.5,
+      "stat": "3-pointers made",
+      "label": "Kelly Oubre Jr. U 1.5 3-pointers made",
+      "path": "basketball/nba",
+      "event": "401909307",
+      "date": "20261120",
+      "snapshot": {
+       "source": "espn",
+       "state": "in",
+       "detail": "10:13 - 1st",
+       "start": "2026-11-21T00:30Z",
+       "period": 1,
+       "clock": "10:13",
+       "teams": [
+        {
+         "name": "Indiana Pacers",
+         "short": "Pacers",
+         "abbr": "IND",
+         "score": 2,
+         "ha": "away",
+         "winner": null,
+         "linescores": [
+          0
+         ]
+        },
+        {
+         "name": "Cleveland Cavaliers",
+         "short": "Cavaliers",
+         "abbr": "CLE",
+         "score": 5,
+         "ha": "home",
+         "winner": null,
+         "linescores": [
+          0
+         ]
+        }
+       ],
+       "stat": null
+      },
+      "source": "espn"
+     }
+    ],
+    "sport": "NBA",
+    "ticket": "single"
+   }
+  },
+  {
+   "n": 919,
+   "league": "NBA",
+   "type": "Player Prop",
+   "matchup": "Toronto Raptors @ Detroit Pistons",
+   "pick": "John Collins Over 1.5 3-pointers made",
+   "odds": 155,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-20T16:40:00",
+   "timed": true,
+   "ticket": "single",
+   "espn": {
+    "legs": [
+     {
+      "kind": "prop",
+      "player": "John Collins",
+      "ou": "O",
+      "line": 1.5,
+      "stat": "3-pointers made",
+      "label": "John Collins O 1.5 3-pointers made",
+      "path": "basketball/nba",
+      "event": "401909308",
+      "date": "20261120",
+      "snapshot": {
+       "source": "espn",
+       "state": "in",
+       "detail": "11:55 - 1st",
+       "start": "2026-11-21T00:30Z",
+       "period": 1,
+       "clock": "11:55",
+       "teams": [
+        {
+         "name": "Toronto Raptors",
+         "short": "Raptors",
+         "abbr": "TOR",
+         "score": 0,
+         "ha": "away",
+         "winner": null,
+         "linescores": [
+          0
+         ]
+        },
+        {
+         "name": "Detroit Pistons",
+         "short": "Pistons",
+         "abbr": "DET",
+         "score": 0,
+         "ha": "home",
+         "winner": null,
+         "linescores": [
+          0
+         ]
+        }
+       ],
+       "stat": null
+      },
+      "source": "espn"
+     }
+    ],
+    "sport": "NBA",
+    "ticket": "single"
+   }
+  },
+  {
+   "n": 921,
+   "league": "NBA",
+   "type": "Player Prop",
+   "matchup": "Toronto Raptors @ Detroit Pistons",
+   "pick": "Immanuel Quickley Over 5.5 assists",
+   "odds": -115,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-20T16:40:00",
+   "timed": true,
+   "ticket": "single",
+   "espn": {
+    "legs": [
+     {
+      "kind": "prop",
+      "player": "Immanuel Quickley",
+      "ou": "O",
+      "line": 5.5,
+      "stat": "assists",
+      "label": "Immanuel Quickley O 5.5 assists",
+      "path": "basketball/nba",
+      "event": "401909308",
+      "date": "20261120",
+      "snapshot": {
+       "source": "espn",
+       "state": "in",
+       "detail": "11:55 - 1st",
+       "start": "2026-11-21T00:30Z",
+       "period": 1,
+       "clock": "11:55",
+       "teams": [
+        {
+         "name": "Toronto Raptors",
+         "short": "Raptors",
+         "abbr": "TOR",
+         "score": 0,
+         "ha": "away",
+         "winner": null,
+         "linescores": [
+          0
+         ]
+        },
+        {
+         "name": "Detroit Pistons",
+         "short": "Pistons",
+         "abbr": "DET",
+         "score": 0,
+         "ha": "home",
+         "winner": null,
+         "linescores": [
+          0
+         ]
+        }
+       ],
+       "stat": {
+        "v": 0,
+        "name": "Immanuel Quickley"
+       }
+      },
+      "source": "espn"
+     }
+    ],
+    "sport": "NBA",
     "ticket": "single"
    }
   },
@@ -2400,19 +2478,20 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "1:04 - 1st",
+       "detail": "10:06 - 2nd",
        "start": "2026-11-21T00:00Z",
-       "period": 1,
-       "clock": "1:04",
+       "period": 2,
+       "clock": "10:06",
        "teams": [
         {
          "name": "Charlotte Hornets",
          "short": "Hornets",
          "abbr": "CHA",
-         "score": 28,
+         "score": 33,
          "ha": "away",
          "winner": null,
          "linescores": [
+          0,
           0
          ]
         },
@@ -2420,10 +2499,11 @@
          "name": "Atlanta Hawks",
          "short": "Hawks",
          "abbr": "ATL",
-         "score": 21,
+         "score": 32,
          "ha": "home",
          "winner": null,
          "linescores": [
+          0,
           0
          ]
         }
@@ -2467,19 +2547,20 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "1:04 - 1st",
+       "detail": "10:06 - 2nd",
        "start": "2026-11-21T00:00Z",
-       "period": 1,
-       "clock": "1:04",
+       "period": 2,
+       "clock": "10:06",
        "teams": [
         {
          "name": "Charlotte Hornets",
          "short": "Hornets",
          "abbr": "CHA",
-         "score": 28,
+         "score": 33,
          "ha": "away",
          "winner": null,
          "linescores": [
+          0,
           0
          ]
         },
@@ -2487,10 +2568,11 @@
          "name": "Atlanta Hawks",
          "short": "Hawks",
          "abbr": "ATL",
-         "score": 21,
+         "score": 32,
          "ha": "home",
          "winner": null,
          "linescores": [
+          0,
           0
          ]
         }
@@ -2504,6 +2586,33 @@
      }
     ],
     "sport": "NBA",
+    "ticket": "single"
+   }
+  },
+  {
+   "n": 927,
+   "league": "NCAAF",
+   "type": "Spread",
+   "matchup": "Toronto Raptors @ Detroit Pistons",
+   "pick": "Immanuel Quickley Over 5.5 assists",
+   "odds": -105,
+   "units": 3.0,
+   "gap": null,
+   "start": "2026-11-20T16:40:00",
+   "timed": true,
+   "ticket": "single",
+   "espn": {
+    "legs": [
+     {
+      "kind": "team_total",
+      "side": "Immanuel Quickley",
+      "ou": "O",
+      "line": 5.5,
+      "label": "Immanuel Quickley O 5.5",
+      "unverified": true
+     }
+    ],
+    "sport": "NCAAF",
     "ticket": "single"
    }
   }
