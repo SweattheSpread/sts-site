@@ -1,5 +1,5 @@
 {
- "updated": "Nov 20, 2026, 5:58 PM PT",
+ "updated": "Nov 20, 2026, 6:00 PM PT",
  "record": {
   "w": 214,
   "l": 216,
@@ -127,234 +127,6 @@
   }
  ],
  "picks": [
-  {
-   "n": 913,
-   "league": "NCAAB",
-   "type": "Over/Under",
-   "matchup": "Sam Houston State Bearkats @ Boise State Broncos",
-   "pick": "Under 171.5",
-   "odds": -110,
-   "units": 1.0,
-   "gap": null,
-   "start": "2026-11-20T18:00:00",
-   "timed": true,
-   "ticket": "single",
-   "espn": {
-    "legs": [
-     {
-      "kind": "total",
-      "side": null,
-      "ou": "U",
-      "line": 171.5,
-      "label": "U 171.5",
-      "path": "basketball/mens-college-basketball",
-      "event": "401928795",
-      "date": "20261120",
-      "snapshot": {
-       "source": "espn",
-       "state": "pre",
-       "detail": "11/20 - 9:00 PM EST",
-       "start": "2026-11-21T02:00Z",
-       "period": null,
-       "clock": null,
-       "teams": [
-        {
-         "name": "Sam Houston Bearkats",
-         "short": "Bearkats",
-         "abbr": "SHSU",
-         "score": 0,
-         "ha": "away",
-         "winner": null,
-         "linescores": []
-        },
-        {
-         "name": "Boise State Broncos",
-         "short": "Broncos",
-         "abbr": "BOIS",
-         "score": 0,
-         "ha": "home",
-         "winner": null,
-         "linescores": []
-        }
-       ]
-      },
-      "source": "espn"
-     }
-    ],
-    "sport": "NCAAB",
-    "ticket": "single"
-   }
-  },
-  {
-   "n": 914,
-   "league": "NCAAB",
-   "type": "Over/Under",
-   "matchup": "Eastern Illinois Panthers @ Illinois Fighting Illini",
-   "pick": "Under 165.5",
-   "odds": -110,
-   "units": 1.0,
-   "gap": null,
-   "start": "2026-11-20T18:00:00",
-   "timed": true,
-   "ticket": "single",
-   "espn": {
-    "legs": [
-     {
-      "kind": "total",
-      "side": null,
-      "ou": "U",
-      "line": 165.5,
-      "label": "U 165.5",
-      "path": "basketball/mens-college-basketball",
-      "event": "401913529",
-      "date": "20261120",
-      "snapshot": {
-       "source": "espn",
-       "state": "pre",
-       "detail": "11/20 - 9:00 PM EST",
-       "start": "2026-11-21T02:00Z",
-       "period": null,
-       "clock": null,
-       "teams": [
-        {
-         "name": "Eastern Illinois Panthers",
-         "short": "Panthers",
-         "abbr": "EIU",
-         "score": 0,
-         "ha": "away",
-         "winner": null,
-         "linescores": []
-        },
-        {
-         "name": "Illinois Fighting Illini",
-         "short": "Fighting Illini",
-         "abbr": "ILL",
-         "score": 0,
-         "ha": "home",
-         "winner": null,
-         "linescores": []
-        }
-       ]
-      },
-      "source": "espn"
-     }
-    ],
-    "sport": "NCAAB",
-    "ticket": "single"
-   }
-  },
-  {
-   "n": 917,
-   "league": "NCAAB",
-   "type": "Moneyline",
-   "matchup": "CSU Bakersfield Roadrunners @ Idaho Vandals",
-   "pick": "Idaho moneyline",
-   "odds": -130,
-   "units": 1.0,
-   "gap": null,
-   "start": "2026-11-20T18:00:00",
-   "timed": true,
-   "ticket": "single",
-   "espn": {
-    "legs": [
-     {
-      "kind": "unknown",
-      "label": "Idaho moneyline",
-      "path": "basketball/mens-college-basketball",
-      "event": "401920137",
-      "date": "20261120",
-      "snapshot": {
-       "source": "espn",
-       "state": "pre",
-       "detail": "11/20 - 9:00 PM EST",
-       "start": "2026-11-21T02:00Z",
-       "period": null,
-       "clock": null,
-       "teams": [
-        {
-         "name": "Cal State Bakersfield Roadrunners",
-         "short": "Roadrunners",
-         "abbr": "CSUB",
-         "score": 0,
-         "ha": "away",
-         "winner": null,
-         "linescores": []
-        },
-        {
-         "name": "Idaho Vandals",
-         "short": "Vandals",
-         "abbr": "IDHO",
-         "score": 0,
-         "ha": "home",
-         "winner": null,
-         "linescores": []
-        }
-       ]
-      },
-      "source": "espn"
-     }
-    ],
-    "sport": "NCAAB",
-    "ticket": "single"
-   }
-  },
-  {
-   "n": 926,
-   "league": "NCAAF",
-   "type": "Spread",
-   "matchup": "New Mexico Lobos @ Wyoming Cowboys",
-   "pick": "Wyoming Cowboys +10",
-   "odds": -108,
-   "units": 3.0,
-   "gap": null,
-   "start": "2026-11-20T18:00:00",
-   "timed": true,
-   "ticket": "single",
-   "espn": {
-    "legs": [
-     {
-      "kind": "spread",
-      "side": "Wyoming Cowboys",
-      "line": 10.0,
-      "label": "Wyoming Cowboys +10",
-      "path": "football/college-football",
-      "event": "401864542",
-      "date": "20261120",
-      "snapshot": {
-       "source": "espn",
-       "state": "pre",
-       "detail": "11/20 - 9:00 PM EST",
-       "start": "2026-11-21T02:00Z",
-       "period": null,
-       "clock": null,
-       "teams": [
-        {
-         "name": "New Mexico Lobos",
-         "short": "Lobos",
-         "abbr": "UNM",
-         "score": 0,
-         "ha": "away",
-         "winner": null,
-         "linescores": []
-        },
-        {
-         "name": "Wyoming Cowboys",
-         "short": "Cowboys",
-         "abbr": "WYO",
-         "score": 0,
-         "ha": "home",
-         "winner": null,
-         "linescores": []
-        }
-       ]
-      },
-      "source": "espn"
-     }
-    ],
-    "sport": "NCAAF",
-    "ticket": "single"
-   }
-  },
   {
    "n": 910,
    "league": "NBA",
@@ -2038,6 +1810,122 @@
    }
   },
   {
+   "n": 913,
+   "league": "NCAAB",
+   "type": "Over/Under",
+   "matchup": "Sam Houston State Bearkats @ Boise State Broncos",
+   "pick": "Under 171.5",
+   "odds": -110,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-20T18:00:00",
+   "timed": true,
+   "ticket": "single",
+   "espn": {
+    "legs": [
+     {
+      "kind": "total",
+      "side": null,
+      "ou": "U",
+      "line": 171.5,
+      "label": "U 171.5",
+      "path": "basketball/mens-college-basketball",
+      "event": "401928795",
+      "date": "20261120",
+      "snapshot": {
+       "source": "espn",
+       "state": "pre",
+       "detail": "11/20 - 9:00 PM EST",
+       "start": "2026-11-21T02:00Z",
+       "period": null,
+       "clock": null,
+       "teams": [
+        {
+         "name": "Sam Houston Bearkats",
+         "short": "Bearkats",
+         "abbr": "SHSU",
+         "score": 0,
+         "ha": "away",
+         "winner": null,
+         "linescores": []
+        },
+        {
+         "name": "Boise State Broncos",
+         "short": "Broncos",
+         "abbr": "BOIS",
+         "score": 0,
+         "ha": "home",
+         "winner": null,
+         "linescores": []
+        }
+       ]
+      },
+      "source": "espn"
+     }
+    ],
+    "sport": "NCAAB",
+    "ticket": "single"
+   }
+  },
+  {
+   "n": 914,
+   "league": "NCAAB",
+   "type": "Over/Under",
+   "matchup": "Eastern Illinois Panthers @ Illinois Fighting Illini",
+   "pick": "Under 165.5",
+   "odds": -110,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-20T18:00:00",
+   "timed": true,
+   "ticket": "single",
+   "espn": {
+    "legs": [
+     {
+      "kind": "total",
+      "side": null,
+      "ou": "U",
+      "line": 165.5,
+      "label": "U 165.5",
+      "path": "basketball/mens-college-basketball",
+      "event": "401913529",
+      "date": "20261120",
+      "snapshot": {
+       "source": "espn",
+       "state": "pre",
+       "detail": "11/20 - 9:00 PM EST",
+       "start": "2026-11-21T02:00Z",
+       "period": null,
+       "clock": null,
+       "teams": [
+        {
+         "name": "Eastern Illinois Panthers",
+         "short": "Panthers",
+         "abbr": "EIU",
+         "score": 0,
+         "ha": "away",
+         "winner": null,
+         "linescores": []
+        },
+        {
+         "name": "Illinois Fighting Illini",
+         "short": "Fighting Illini",
+         "abbr": "ILL",
+         "score": 0,
+         "ha": "home",
+         "winner": null,
+         "linescores": []
+        }
+       ]
+      },
+      "source": "espn"
+     }
+    ],
+    "sport": "NCAAB",
+    "ticket": "single"
+   }
+  },
+  {
    "n": 915,
    "league": "NCAAB",
    "type": "Spread",
@@ -2125,10 +2013,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "0:31 - 2nd",
+       "detail": "0:17 - 2nd",
        "start": "2026-11-21T00:00Z",
        "period": 2,
-       "clock": "0:31",
+       "clock": "0:17",
        "teams": [
         {
          "name": "Georgia State Panthers",
@@ -2146,13 +2034,68 @@
          "name": "Jacksonville State Gamecocks",
          "short": "Gamecocks",
          "abbr": "JXST",
-         "score": 76,
+         "score": 77,
          "ha": "home",
          "winner": null,
          "linescores": [
           0,
           0
          ]
+        }
+       ]
+      },
+      "source": "espn"
+     }
+    ],
+    "sport": "NCAAB",
+    "ticket": "single"
+   }
+  },
+  {
+   "n": 917,
+   "league": "NCAAB",
+   "type": "Moneyline",
+   "matchup": "CSU Bakersfield Roadrunners @ Idaho Vandals",
+   "pick": "Idaho moneyline",
+   "odds": -130,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-20T18:00:00",
+   "timed": true,
+   "ticket": "single",
+   "espn": {
+    "legs": [
+     {
+      "kind": "unknown",
+      "label": "Idaho moneyline",
+      "path": "basketball/mens-college-basketball",
+      "event": "401920137",
+      "date": "20261120",
+      "snapshot": {
+       "source": "espn",
+       "state": "pre",
+       "detail": "11/20 - 9:00 PM EST",
+       "start": "2026-11-21T02:00Z",
+       "period": null,
+       "clock": null,
+       "teams": [
+        {
+         "name": "Cal State Bakersfield Roadrunners",
+         "short": "Roadrunners",
+         "abbr": "CSUB",
+         "score": 0,
+         "ha": "away",
+         "winner": null,
+         "linescores": []
+        },
+        {
+         "name": "Idaho Vandals",
+         "short": "Vandals",
+         "abbr": "IDHO",
+         "score": 0,
+         "ha": "home",
+         "winner": null,
+         "linescores": []
         }
        ]
       },
@@ -2190,16 +2133,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "10:23 - 3rd",
+       "detail": "9:29 - 3rd",
        "start": "2026-11-21T00:30Z",
        "period": 3,
-       "clock": "10:23",
+       "clock": "9:29",
        "teams": [
         {
          "name": "Indiana Pacers",
          "short": "Pacers",
          "abbr": "IND",
-         "score": 63,
+         "score": 65,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -2212,7 +2155,7 @@
          "name": "Cleveland Cavaliers",
          "short": "Cavaliers",
          "abbr": "CLE",
-         "score": 70,
+         "score": 72,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -2258,16 +2201,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "9:41 - 3rd",
+       "detail": "8:10 - 3rd",
        "start": "2026-11-21T00:30Z",
        "period": 3,
-       "clock": "9:41",
+       "clock": "8:10",
        "teams": [
         {
          "name": "Toronto Raptors",
          "short": "Raptors",
          "abbr": "TOR",
-         "score": 59,
+         "score": 63,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -2280,7 +2223,7 @@
          "name": "Detroit Pistons",
          "short": "Pistons",
          "abbr": "DET",
-         "score": 48,
+         "score": 53,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -2326,10 +2269,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "3:02 - 2nd",
+       "detail": "1:57 - 2nd",
        "start": "2026-11-21T01:00Z",
        "period": 2,
-       "clock": "3:02",
+       "clock": "1:57",
        "teams": [
         {
          "name": "Washington Wizards",
@@ -2347,7 +2290,7 @@
          "name": "Chicago Bulls",
          "short": "Bulls",
          "abbr": "CHI",
-         "score": 53,
+         "score": 58,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -2395,16 +2338,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "9:41 - 3rd",
+       "detail": "8:10 - 3rd",
        "start": "2026-11-21T00:30Z",
        "period": 3,
-       "clock": "9:41",
+       "clock": "8:10",
        "teams": [
         {
          "name": "Toronto Raptors",
          "short": "Raptors",
          "abbr": "TOR",
-         "score": 59,
+         "score": 63,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -2417,7 +2360,7 @@
          "name": "Detroit Pistons",
          "short": "Pistons",
          "abbr": "DET",
-         "score": 48,
+         "score": 53,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -2466,16 +2409,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "8:24 - 4th",
+       "detail": "6:26 - 4th",
        "start": "2026-11-21T00:00Z",
        "period": 4,
-       "clock": "8:24",
+       "clock": "6:26",
        "teams": [
         {
          "name": "Charlotte Hornets",
          "short": "Hornets",
          "abbr": "CHA",
-         "score": 80,
+         "score": 82,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -2489,7 +2432,7 @@
          "name": "Atlanta Hawks",
          "short": "Hawks",
          "abbr": "ATL",
-         "score": 95,
+         "score": 99,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -2539,16 +2482,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "8:24 - 4th",
+       "detail": "6:26 - 4th",
        "start": "2026-11-21T00:00Z",
        "period": 4,
-       "clock": "8:24",
+       "clock": "6:26",
        "teams": [
         {
          "name": "Charlotte Hornets",
          "short": "Hornets",
          "abbr": "CHA",
-         "score": 80,
+         "score": 82,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -2562,7 +2505,7 @@
          "name": "Atlanta Hawks",
          "short": "Hawks",
          "abbr": "ATL",
-         "score": 95,
+         "score": 99,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -2612,10 +2555,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "3:36 - 2nd",
+       "detail": "2:38 - 2nd",
        "start": "2026-11-21T01:00Z",
        "period": 2,
-       "clock": "3:36",
+       "clock": "2:38",
        "teams": [
         {
          "name": "New Orleans Pelicans",
@@ -2681,10 +2624,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "3:02 - 2nd",
+       "detail": "1:57 - 2nd",
        "start": "2026-11-21T01:00Z",
        "period": 2,
-       "clock": "3:02",
+       "clock": "1:57",
        "teams": [
         {
          "name": "Washington Wizards",
@@ -2702,7 +2645,7 @@
          "name": "Chicago Bulls",
          "short": "Bulls",
          "abbr": "CHI",
-         "score": 53,
+         "score": 58,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -2720,6 +2663,63 @@
      }
     ],
     "sport": "NBA",
+    "ticket": "single"
+   }
+  },
+  {
+   "n": 926,
+   "league": "NCAAF",
+   "type": "Spread",
+   "matchup": "New Mexico Lobos @ Wyoming Cowboys",
+   "pick": "Wyoming Cowboys +10",
+   "odds": -108,
+   "units": 3.0,
+   "gap": null,
+   "start": "2026-11-20T18:00:00",
+   "timed": true,
+   "ticket": "single",
+   "espn": {
+    "legs": [
+     {
+      "kind": "spread",
+      "side": "Wyoming Cowboys",
+      "line": 10.0,
+      "label": "Wyoming Cowboys +10",
+      "path": "football/college-football",
+      "event": "401864542",
+      "date": "20261120",
+      "snapshot": {
+       "source": "espn",
+       "state": "pre",
+       "detail": "11/20 - 9:00 PM EST",
+       "start": "2026-11-21T02:00Z",
+       "period": null,
+       "clock": null,
+       "teams": [
+        {
+         "name": "New Mexico Lobos",
+         "short": "Lobos",
+         "abbr": "UNM",
+         "score": 0,
+         "ha": "away",
+         "winner": null,
+         "linescores": []
+        },
+        {
+         "name": "Wyoming Cowboys",
+         "short": "Cowboys",
+         "abbr": "WYO",
+         "score": 0,
+         "ha": "home",
+         "winner": null,
+         "linescores": []
+        }
+       ]
+      },
+      "source": "espn"
+     }
+    ],
+    "sport": "NCAAF",
     "ticket": "single"
    }
   },
