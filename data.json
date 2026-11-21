@@ -1,5 +1,5 @@
 {
- "updated": "Nov 21, 2026, 9:58 AM PT",
+ "updated": "Nov 21, 2026, 10:00 AM PT",
  "record": {
   "w": 224,
   "l": 230,
@@ -2146,10 +2146,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "Halftime",
+       "detail": "18:47 - 2nd",
        "start": "2026-11-21T17:00Z",
-       "period": 1,
-       "clock": "0:00",
+       "period": 2,
+       "clock": "18:47",
        "teams": [
         {
          "name": "Columbia Lions",
@@ -2159,6 +2159,7 @@
          "ha": "away",
          "winner": null,
          "linescores": [
+          0,
           0
          ]
         },
@@ -2170,6 +2171,7 @@
          "ha": "home",
          "winner": null,
          "linescores": [
+          0,
           0
          ]
         }
@@ -2272,10 +2274,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "14:54 - 2nd",
+       "detail": "13:08 - 2nd",
        "start": "2026-11-21T17:00Z",
        "period": 2,
-       "clock": "14:54",
+       "clock": "13:08",
        "teams": [
         {
          "name": "Ohio State Buckeyes",
@@ -2335,10 +2337,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "9:34 - 2nd",
+       "detail": "8:14 - 2nd",
        "start": "2026-11-21T17:00Z",
        "period": 2,
-       "clock": "9:34",
+       "clock": "8:14",
        "teams": [
         {
          "name": "Wisconsin Badgers",
@@ -2398,10 +2400,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "14:54 - 2nd",
+       "detail": "13:08 - 2nd",
        "start": "2026-11-21T17:00Z",
        "period": 2,
-       "clock": "14:54",
+       "clock": "13:08",
        "teams": [
         {
          "name": "Ohio State Buckeyes",
