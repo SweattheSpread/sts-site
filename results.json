@@ -1,5 +1,5 @@
 {
- "updated": "Nov 21, 2026, 2:21 PM PT",
+ "updated": "Nov 21, 2026, 2:23 PM PT",
  "record": {
   "w": 224,
   "l": 230,
@@ -11,7 +11,7 @@
   "first": "2026-10-12",
   "last": "2026-11-20"
  },
- "pending": 44,
+ "pending": 45,
  "plays": [
   {
    "n": 334,
@@ -7721,6 +7721,22 @@
    "pick": "2nd Quarter Tie",
    "odds": 180,
    "units": 2.5,
+   "result": null,
+   "pl": null,
+   "pending": true
+  },
+  {
+   "n": 955,
+   "date": "2026-11-21",
+   "day": "2026-11-21",
+   "league": "NBA",
+   "market": "player_prop",
+   "market_label": "Player Prop",
+   "ticket": "single",
+   "matchup": "New Orleans Pelicans @ San Antonio Spurs",
+   "pick": "Stephon Castle Under 17.5 points",
+   "odds": 100,
+   "units": 1.0,
    "result": null,
    "pl": null,
    "pending": true
