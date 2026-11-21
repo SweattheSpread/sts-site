@@ -1,5 +1,5 @@
 {
- "updated": "Nov 21, 2026, 9:42 AM PT",
+ "updated": "Nov 21, 2026, 9:44 AM PT",
  "record": {
   "w": 224,
   "l": 230,
@@ -2116,10 +2116,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "0:31 - 1st",
+       "detail": "Halftime",
        "start": "2026-11-21T17:00Z",
        "period": 1,
-       "clock": "0:31",
+       "clock": "0:00",
        "teams": [
         {
          "name": "Columbia Lions",
@@ -2136,7 +2136,7 @@
          "name": "Boston University Terriers",
          "short": "Terriers",
          "abbr": "BU",
-         "score": 18,
+         "score": 20,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -2242,10 +2242,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "5:40 - 1st",
+       "detail": "3:59 - 1st",
        "start": "2026-11-21T17:00Z",
        "period": 1,
-       "clock": "5:40",
+       "clock": "3:59",
        "teams": [
         {
          "name": "Ohio State Buckeyes",
