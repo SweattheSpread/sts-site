@@ -1,5 +1,5 @@
 {
- "updated": "Nov 21, 2026, 10:52 AM PT",
+ "updated": "Nov 21, 2026, 10:55 AM PT",
  "record": {
   "w": 224,
   "l": 230,
@@ -11,7 +11,7 @@
   "first": "2026-10-12",
   "last": "2026-11-20"
  },
- "pending": 42,
+ "pending": 43,
  "latest": [
   {
    "n": 933,
@@ -2176,16 +2176,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "0:18 - 2nd",
+       "detail": "0:04 - 2nd",
        "start": "2026-11-21T17:00Z",
        "period": 2,
-       "clock": "0:18",
+       "clock": "0:04",
        "teams": [
         {
          "name": "Columbia Lions",
          "short": "Lions",
          "abbr": "COLU",
-         "score": 61,
+         "score": 63,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -2197,7 +2197,7 @@
          "name": "Boston University Terriers",
          "short": "Terriers",
          "abbr": "BU",
-         "score": 59,
+         "score": 62,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -2367,10 +2367,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "14:49 - 3rd",
+       "detail": "12:55 - 3rd",
        "start": "2026-11-21T17:00Z",
        "period": 3,
-       "clock": "14:49",
+       "clock": "12:55",
        "teams": [
         {
          "name": "Wisconsin Badgers",
@@ -2434,16 +2434,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "4:12 - 2nd",
+       "detail": "2:59 - 2nd",
        "start": "2026-11-21T18:00Z",
        "period": 2,
-       "clock": "4:12",
+       "clock": "2:59",
        "teams": [
         {
          "name": "Milwaukee Bucks",
          "short": "Bucks",
          "abbr": "MIL",
-         "score": 51,
+         "score": 54,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -2455,7 +2455,7 @@
          "name": "Philadelphia 76ers",
          "short": "76ers",
          "abbr": "PHI",
-         "score": 50,
+         "score": 52,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -2465,7 +2465,7 @@
         }
        ],
        "stat": {
-        "v": 2,
+        "v": 3,
         "name": "Tyler Herro"
        }
       },
@@ -2523,6 +2523,69 @@
          "short": "Cornhuskers",
          "abbr": "NEB",
          "score": 21,
+         "ha": "home",
+         "winner": null,
+         "linescores": [
+          0,
+          0
+         ]
+        }
+       ]
+      },
+      "source": "espn"
+     }
+    ],
+    "sport": "NCAAF",
+    "ticket": "single"
+   }
+  },
+  {
+   "n": 952,
+   "league": "NCAAF",
+   "type": "Spread",
+   "matchup": "Western Kentucky Hilltoppers @ Liberty Flames",
+   "pick": "Liberty Flames -35.5",
+   "odds": -114,
+   "units": 3.0,
+   "gap": null,
+   "start": "2026-11-21T10:00:00",
+   "timed": true,
+   "ticket": "single",
+   "espn": {
+    "legs": [
+     {
+      "kind": "spread",
+      "side": "Liberty Flames",
+      "line": -35.5,
+      "label": "Liberty Flames -35.5",
+      "path": "football/college-football",
+      "event": "401871080",
+      "date": "20261121",
+      "snapshot": {
+       "source": "espn",
+       "state": "in",
+       "detail": "11:40 - 2nd",
+       "start": "2026-11-21T18:00Z",
+       "period": 2,
+       "clock": "11:40",
+       "teams": [
+        {
+         "name": "Western Kentucky Hilltoppers",
+         "short": "Hilltoppers",
+         "abbr": "WKU",
+         "score": 0,
+         "ha": "away",
+         "winner": null,
+         "linescores": [
+          0,
+          0
+         ]
+        },
+        {
+         "name": "Liberty Flames",
+         "short": "Flames",
+         "abbr": "LIB",
+         "score": 28,
          "ha": "home",
          "winner": null,
          "linescores": [

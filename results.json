@@ -1,5 +1,5 @@
 {
- "updated": "Nov 21, 2026, 10:52 AM PT",
+ "updated": "Nov 21, 2026, 10:55 AM PT",
  "record": {
   "w": 224,
   "l": 230,
@@ -11,7 +11,7 @@
   "first": "2026-10-12",
   "last": "2026-11-20"
  },
- "pending": 42,
+ "pending": 43,
  "plays": [
   {
    "n": 334,
@@ -7689,6 +7689,22 @@
    "pick": "Blake Coleman Under 0.5 points",
    "odds": -105,
    "units": 1.0,
+   "result": null,
+   "pl": null,
+   "pending": true
+  },
+  {
+   "n": 952,
+   "date": "2026-11-21",
+   "day": "2026-11-21",
+   "league": "NCAAF",
+   "market": "spread",
+   "market_label": "Spread",
+   "ticket": "single",
+   "matchup": "Western Kentucky Hilltoppers @ Liberty Flames",
+   "pick": "Liberty Flames -35.5",
+   "odds": -114,
+   "units": 3.0,
    "result": null,
    "pl": null,
    "pending": true
