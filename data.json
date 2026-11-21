@@ -1,5 +1,5 @@
 {
- "updated": "Nov 21, 2026, 2:57 PM PT",
+ "updated": "Nov 21, 2026, 3:09 PM PT",
  "record": {
   "w": 224,
   "l": 230,
@@ -242,63 +242,6 @@
     ],
     "sport": "NCAAF",
     "ticket": "parlay"
-   }
-  },
-  {
-   "n": 936,
-   "league": "NHL",
-   "type": "Moneyline",
-   "matchup": "Pittsburgh Penguins @ Nashville Predators",
-   "pick": "Pittsburgh Penguins ML",
-   "odds": 118,
-   "units": 0.5,
-   "gap": null,
-   "start": "2026-11-21T15:00:00",
-   "timed": true,
-   "ticket": "single",
-   "espn": {
-    "legs": [
-     {
-      "kind": "ml",
-      "side": "Pittsburgh Penguins",
-      "label": "Pittsburgh Penguins ML",
-      "path": "hockey/nhl",
-      "event": "401892757",
-      "date": "20261121",
-      "snapshot": {
-       "source": "nhl",
-       "state": "pre",
-       "detail": "Scheduled",
-       "start": "2026-11-21T23:00:00Z",
-       "period": null,
-       "clock": null,
-       "teams": [
-        {
-         "name": "Penguins",
-         "short": "PIT",
-         "abbr": "PIT",
-         "score": 0,
-         "ha": "away",
-         "winner": null,
-         "linescores": []
-        },
-        {
-         "name": "Predators",
-         "short": "NSH",
-         "abbr": "NSH",
-         "score": 0,
-         "ha": "home",
-         "winner": null,
-         "linescores": []
-        }
-       ],
-       "nhl_id": 2026020362
-      },
-      "source": "nhl"
-     }
-    ],
-    "sport": "NHL",
-    "ticket": "single"
    }
   },
   {
@@ -2030,10 +1973,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "8:05 - 3rd",
+       "detail": "6:37 - 3rd",
        "start": "2026-11-21T20:45Z",
        "period": 3,
-       "clock": "8:05",
+       "clock": "6:37",
        "teams": [
         {
          "name": "Texas A&M Aggies",
@@ -2071,6 +2014,63 @@
      }
     ],
     "sport": "NCAAF",
+    "ticket": "single"
+   }
+  },
+  {
+   "n": 936,
+   "league": "NHL",
+   "type": "Moneyline",
+   "matchup": "Pittsburgh Penguins @ Nashville Predators",
+   "pick": "Pittsburgh Penguins ML",
+   "odds": 118,
+   "units": 0.5,
+   "gap": null,
+   "start": "2026-11-21T15:00:00",
+   "timed": true,
+   "ticket": "single",
+   "espn": {
+    "legs": [
+     {
+      "kind": "ml",
+      "side": "Pittsburgh Penguins",
+      "label": "Pittsburgh Penguins ML",
+      "path": "hockey/nhl",
+      "event": "401892757",
+      "date": "20261121",
+      "snapshot": {
+       "source": "nhl",
+       "state": "in",
+       "detail": "P1 20:00",
+       "start": "2026-11-21T23:00:00Z",
+       "period": 1,
+       "clock": "20:00",
+       "teams": [
+        {
+         "name": "Penguins",
+         "short": "PIT",
+         "abbr": "PIT",
+         "score": 0,
+         "ha": "away",
+         "winner": null,
+         "linescores": []
+        },
+        {
+         "name": "Predators",
+         "short": "NSH",
+         "abbr": "NSH",
+         "score": 0,
+         "ha": "home",
+         "winner": null,
+         "linescores": []
+        }
+       ],
+       "nhl_id": 2026020362
+      },
+      "source": "nhl"
+     }
+    ],
+    "sport": "NHL",
     "ticket": "single"
    }
   },
@@ -2755,10 +2755,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "1:13 - 3rd",
+       "detail": "End of 3rd",
        "start": "2026-11-21T20:30Z",
        "period": 3,
-       "clock": "1:13",
+       "clock": "0:00",
        "teams": [
         {
          "name": "UCLA Bruins",
