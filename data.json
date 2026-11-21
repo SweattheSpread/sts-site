@@ -1,5 +1,5 @@
 {
- "updated": "Nov 21, 2026, 10:57 AM PT",
+ "updated": "Nov 21, 2026, 10:59 AM PT",
  "record": {
   "w": 224,
   "l": 230,
@@ -2197,7 +2197,7 @@
          "name": "Boston University Terriers",
          "short": "Terriers",
          "abbr": "BU",
-         "score": 62,
+         "score": 63,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -2367,10 +2367,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "12:55 - 3rd",
+       "detail": "12:45 - 3rd",
        "start": "2026-11-21T17:00Z",
        "period": 3,
-       "clock": "12:55",
+       "clock": "12:45",
        "teams": [
         {
          "name": "Wisconsin Badgers",
@@ -2434,10 +2434,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "2:34 - 2nd",
+       "detail": "2:13 - 2nd",
        "start": "2026-11-21T18:00Z",
        "period": 2,
-       "clock": "2:34",
+       "clock": "2:13",
        "teams": [
         {
          "name": "Milwaukee Bucks",
@@ -2455,7 +2455,7 @@
          "name": "Philadelphia 76ers",
          "short": "76ers",
          "abbr": "PHI",
-         "score": 52,
+         "score": 53,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -2564,10 +2564,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "11:40 - 2nd",
+       "detail": "11:09 - 2nd",
        "start": "2026-11-21T18:00Z",
        "period": 2,
-       "clock": "11:40",
+       "clock": "11:09",
        "teams": [
         {
          "name": "Western Kentucky Hilltoppers",
