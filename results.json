@@ -1,5 +1,5 @@
 {
- "updated": "Nov 20, 2026, 6:00 PM PT",
+ "updated": "Nov 20, 2026, 6:03 PM PT",
  "record": {
   "w": 214,
   "l": 216,
@@ -11,7 +11,7 @@
   "first": "2026-10-12",
   "last": "2026-11-19"
  },
- "pending": 45,
+ "pending": 46,
  "plays": [
   {
    "n": 334,
@@ -7337,6 +7337,22 @@
    "pick": "Aaron Gordon Over 4.5 rebounds",
    "odds": 100,
    "units": 1.0,
+   "result": null,
+   "pl": null,
+   "pending": true
+  },
+  {
+   "n": 929,
+   "date": "2026-11-20",
+   "day": "2026-11-20",
+   "league": "NCAAF",
+   "market": "total",
+   "market_label": "Total",
+   "ticket": "single",
+   "matchup": "Bowling Green Falcons @ Toledo Rockets",
+   "pick": "Under 32.5 (full game)",
+   "odds": -104,
+   "units": 7.0,
    "result": null,
    "pl": null,
    "pending": true
