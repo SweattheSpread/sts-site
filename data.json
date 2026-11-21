@@ -1,5 +1,5 @@
 {
- "updated": "Nov 21, 2026, 9:37 AM PT",
+ "updated": "Nov 21, 2026, 9:39 AM PT",
  "record": {
   "w": 224,
   "l": 230,
@@ -2116,16 +2116,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "2:26 - 1st",
+       "detail": "2:02 - 1st",
        "start": "2026-11-21T17:00Z",
        "period": 1,
-       "clock": "2:26",
+       "clock": "2:02",
        "teams": [
         {
          "name": "Columbia Lions",
          "short": "Lions",
          "abbr": "COLU",
-         "score": 24,
+         "score": 27,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -2198,7 +2198,7 @@
          "name": "UNC Greensboro Spartans",
          "short": "Spartans",
          "abbr": "UNCG",
-         "score": 76,
+         "score": 77,
          "ha": "home",
          "winner": null,
          "linescores": [
