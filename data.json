@@ -1,5 +1,5 @@
 {
- "updated": "Nov 21, 2026, 10:59 AM PT",
+ "updated": "Nov 21, 2026, 11:01 AM PT",
  "record": {
   "w": 224,
   "l": 230,
@@ -127,121 +127,6 @@
   }
  ],
  "picks": [
-  {
-   "n": 941,
-   "league": "NCAAB",
-   "type": "Spread",
-   "matchup": "New Mexico Lobos @ Wichita State Shockers",
-   "pick": "Wichita State +2",
-   "odds": -110,
-   "units": 1.0,
-   "gap": null,
-   "start": "2026-11-21T11:00:00",
-   "timed": true,
-   "ticket": "single",
-   "espn": {
-    "legs": [
-     {
-      "kind": "spread",
-      "side": "Wichita State",
-      "line": 2.0,
-      "label": "Wichita State +2",
-      "path": "basketball/mens-college-basketball",
-      "event": "401919031",
-      "date": "20261121",
-      "snapshot": {
-       "source": "espn",
-       "state": "pre",
-       "detail": "11/21 - 2:00 PM EST",
-       "start": "2026-11-21T19:00Z",
-       "period": null,
-       "clock": null,
-       "teams": [
-        {
-         "name": "New Mexico Lobos",
-         "short": "Lobos",
-         "abbr": "UNM",
-         "score": 0,
-         "ha": "away",
-         "winner": null,
-         "linescores": []
-        },
-        {
-         "name": "Wichita State Shockers",
-         "short": "Shockers",
-         "abbr": "WICH",
-         "score": 0,
-         "ha": "home",
-         "winner": null,
-         "linescores": []
-        }
-       ]
-      },
-      "source": "espn"
-     }
-    ],
-    "sport": "NCAAB",
-    "ticket": "single"
-   }
-  },
-  {
-   "n": 947,
-   "league": "NCAAB",
-   "type": "Over/Under",
-   "matchup": "New Mexico Lobos @ Wichita State Shockers",
-   "pick": "Under 156.5",
-   "odds": -110,
-   "units": 1.0,
-   "gap": null,
-   "start": "2026-11-21T11:00:00",
-   "timed": true,
-   "ticket": "single",
-   "espn": {
-    "legs": [
-     {
-      "kind": "total",
-      "side": null,
-      "ou": "U",
-      "line": 156.5,
-      "label": "U 156.5",
-      "path": "basketball/mens-college-basketball",
-      "event": "401919031",
-      "date": "20261121",
-      "snapshot": {
-       "source": "espn",
-       "state": "pre",
-       "detail": "11/21 - 2:00 PM EST",
-       "start": "2026-11-21T19:00Z",
-       "period": null,
-       "clock": null,
-       "teams": [
-        {
-         "name": "New Mexico Lobos",
-         "short": "Lobos",
-         "abbr": "UNM",
-         "score": 0,
-         "ha": "away",
-         "winner": null,
-         "linescores": []
-        },
-        {
-         "name": "Wichita State Shockers",
-         "short": "Shockers",
-         "abbr": "WICH",
-         "score": 0,
-         "ha": "home",
-         "winner": null,
-         "linescores": []
-        }
-       ]
-      },
-      "source": "espn"
-     }
-    ],
-    "sport": "NCAAB",
-    "ticket": "single"
-   }
-  },
   {
    "n": 939,
    "league": "NCAAF",
@@ -2176,10 +2061,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "0:01 - 2nd",
+       "detail": "End of 2nd",
        "start": "2026-11-21T17:00Z",
        "period": 2,
-       "clock": "0:01",
+       "clock": "0:00",
        "teams": [
         {
          "name": "Columbia Lions",
@@ -2204,6 +2089,63 @@
           0,
           0
          ]
+        }
+       ]
+      },
+      "source": "espn"
+     }
+    ],
+    "sport": "NCAAB",
+    "ticket": "single"
+   }
+  },
+  {
+   "n": 941,
+   "league": "NCAAB",
+   "type": "Spread",
+   "matchup": "New Mexico Lobos @ Wichita State Shockers",
+   "pick": "Wichita State +2",
+   "odds": -110,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-21T11:00:00",
+   "timed": true,
+   "ticket": "single",
+   "espn": {
+    "legs": [
+     {
+      "kind": "spread",
+      "side": "Wichita State",
+      "line": 2.0,
+      "label": "Wichita State +2",
+      "path": "basketball/mens-college-basketball",
+      "event": "401919031",
+      "date": "20261121",
+      "snapshot": {
+       "source": "espn",
+       "state": "pre",
+       "detail": "11/21 - 2:00 PM EST",
+       "start": "2026-11-21T19:00Z",
+       "period": null,
+       "clock": null,
+       "teams": [
+        {
+         "name": "New Mexico Lobos",
+         "short": "Lobos",
+         "abbr": "UNM",
+         "score": 0,
+         "ha": "away",
+         "winner": null,
+         "linescores": []
+        },
+        {
+         "name": "Wichita State Shockers",
+         "short": "Shockers",
+         "abbr": "WICH",
+         "score": 0,
+         "ha": "home",
+         "winner": null,
+         "linescores": []
         }
        ]
       },
@@ -2343,6 +2285,64 @@
    }
   },
   {
+   "n": 947,
+   "league": "NCAAB",
+   "type": "Over/Under",
+   "matchup": "New Mexico Lobos @ Wichita State Shockers",
+   "pick": "Under 156.5",
+   "odds": -110,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-21T11:00:00",
+   "timed": true,
+   "ticket": "single",
+   "espn": {
+    "legs": [
+     {
+      "kind": "total",
+      "side": null,
+      "ou": "U",
+      "line": 156.5,
+      "label": "U 156.5",
+      "path": "basketball/mens-college-basketball",
+      "event": "401919031",
+      "date": "20261121",
+      "snapshot": {
+       "source": "espn",
+       "state": "pre",
+       "detail": "11/21 - 2:00 PM EST",
+       "start": "2026-11-21T19:00Z",
+       "period": null,
+       "clock": null,
+       "teams": [
+        {
+         "name": "New Mexico Lobos",
+         "short": "Lobos",
+         "abbr": "UNM",
+         "score": 0,
+         "ha": "away",
+         "winner": null,
+         "linescores": []
+        },
+        {
+         "name": "Wichita State Shockers",
+         "short": "Shockers",
+         "abbr": "WICH",
+         "score": 0,
+         "ha": "home",
+         "winner": null,
+         "linescores": []
+        }
+       ]
+      },
+      "source": "espn"
+     }
+    ],
+    "sport": "NCAAB",
+    "ticket": "single"
+   }
+  },
+  {
    "n": 948,
    "league": "NCAAF",
    "type": "Spread",
@@ -2367,10 +2367,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "12:45 - 3rd",
+       "detail": "10:37 - 3rd",
        "start": "2026-11-21T17:00Z",
        "period": 3,
-       "clock": "12:45",
+       "clock": "10:37",
        "teams": [
         {
          "name": "Wisconsin Badgers",
@@ -2434,10 +2434,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "2:13 - 2nd",
+       "detail": "55.3 - 2nd",
        "start": "2026-11-21T18:00Z",
        "period": 2,
-       "clock": "2:13",
+       "clock": "55.3",
        "teams": [
         {
          "name": "Milwaukee Bucks",
@@ -2455,7 +2455,7 @@
          "name": "Philadelphia 76ers",
          "short": "76ers",
          "abbr": "PHI",
-         "score": 53,
+         "score": 59,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -2564,10 +2564,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "11:09 - 2nd",
+       "detail": "8:34 - 2nd",
        "start": "2026-11-21T18:00Z",
        "period": 2,
-       "clock": "11:09",
+       "clock": "8:34",
        "teams": [
         {
          "name": "Western Kentucky Hilltoppers",
