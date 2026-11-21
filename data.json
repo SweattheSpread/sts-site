@@ -1,5 +1,5 @@
 {
- "updated": "Nov 21, 2026, 9:23 AM PT",
+ "updated": "Nov 21, 2026, 9:25 AM PT",
  "record": {
   "w": 224,
   "l": 230,
@@ -1942,16 +1942,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "8:37 - 1st",
+       "detail": "7:44 - 1st",
        "start": "2026-11-21T17:00Z",
        "period": 1,
-       "clock": "8:37",
+       "clock": "7:44",
        "teams": [
         {
          "name": "Columbia Lions",
          "short": "Lions",
          "abbr": "COLU",
-         "score": 14,
+         "score": 16,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -1962,7 +1962,7 @@
          "name": "Boston University Terriers",
          "short": "Terriers",
          "abbr": "BU",
-         "score": 11,
+         "score": 14,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -2003,16 +2003,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "11:05 - 2nd",
+       "detail": "9:25 - 2nd",
        "start": "2026-11-21T16:00Z",
        "period": 2,
-       "clock": "11:05",
+       "clock": "9:25",
        "teams": [
         {
          "name": "South Carolina Upstate Spartans",
          "short": "Spartans",
          "abbr": "UPST",
-         "score": 42,
+         "score": 44,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -2024,7 +2024,7 @@
          "name": "UNC Greensboro Spartans",
          "short": "Spartans",
          "abbr": "UNCG",
-         "score": 61,
+         "score": 64,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -2068,16 +2068,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "11:43 - 1st",
+       "detail": "11:06 - 1st",
        "start": "2026-11-21T17:00Z",
        "period": 1,
-       "clock": "11:43",
+       "clock": "11:06",
        "teams": [
         {
          "name": "Ohio State Buckeyes",
          "short": "Buckeyes",
          "abbr": "OSU",
-         "score": 6,
+         "score": 7,
          "ha": "away",
          "winner": null,
          "linescores": [
