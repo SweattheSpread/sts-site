@@ -1,5 +1,5 @@
 {
- "updated": "Nov 21, 2026, 9:32 AM PT",
+ "updated": "Nov 21, 2026, 9:35 AM PT",
  "record": {
   "w": 224,
   "l": 230,
@@ -1942,10 +1942,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "4:27 - 1st",
+       "detail": "3:16 - 1st",
        "start": "2026-11-21T17:00Z",
        "period": 1,
-       "clock": "4:27",
+       "clock": "3:16",
        "teams": [
         {
          "name": "Columbia Lions",
@@ -2003,16 +2003,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "7:35 - 2nd",
+       "detail": "6:12 - 2nd",
        "start": "2026-11-21T16:00Z",
        "period": 2,
-       "clock": "7:35",
+       "clock": "6:12",
        "teams": [
         {
          "name": "South Carolina Upstate Spartans",
          "short": "Spartans",
          "abbr": "UPST",
-         "score": 48,
+         "score": 49,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -2068,10 +2068,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "7:01 - 1st",
+       "detail": "5:49 - 1st",
        "start": "2026-11-21T17:00Z",
        "period": 1,
-       "clock": "7:01",
+       "clock": "5:49",
        "teams": [
         {
          "name": "Ohio State Buckeyes",
@@ -2088,7 +2088,7 @@
          "name": "Nebraska Cornhuskers",
          "short": "Cornhuskers",
          "abbr": "NEB",
-         "score": 0,
+         "score": 7,
          "ha": "home",
          "winner": null,
          "linescores": [
