@@ -1,5 +1,5 @@
 {
- "updated": "Nov 20, 2026, 6:06 PM PT",
+ "updated": "Nov 20, 2026, 6:09 PM PT",
  "record": {
   "w": 214,
   "l": 216,
@@ -1835,10 +1835,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "17:10 - 1st",
+       "detail": "15:49 - 1st",
        "start": "2026-11-21T02:00Z",
        "period": 1,
-       "clock": "17:10",
+       "clock": "15:49",
        "teams": [
         {
          "name": "Sam Houston Bearkats",
@@ -1855,7 +1855,7 @@
          "name": "Boise State Broncos",
          "short": "Broncos",
          "abbr": "BOIS",
-         "score": 0,
+         "score": 3,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -2016,11 +2016,11 @@
       "date": "20261120",
       "snapshot": {
        "source": "espn",
-       "state": "in",
-       "detail": "0:00 - 2nd",
+       "state": "post",
+       "detail": "Final",
        "start": "2026-11-21T00:00Z",
-       "period": 2,
-       "clock": "0:00",
+       "period": null,
+       "clock": null,
        "teams": [
         {
          "name": "Georgia State Panthers",
@@ -2028,7 +2028,7 @@
          "abbr": "GAST",
          "score": 77,
          "ha": "away",
-         "winner": null,
+         "winner": false,
          "linescores": [
           0,
           0
@@ -2038,9 +2038,9 @@
          "name": "Jacksonville State Gamecocks",
          "short": "Gamecocks",
          "abbr": "JXST",
-         "score": 80,
+         "score": 82,
          "ha": "home",
-         "winner": null,
+         "winner": true,
          "linescores": [
           0,
           0
@@ -2078,16 +2078,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "17:52 - 1st",
+       "detail": "16:16 - 1st",
        "start": "2026-11-21T02:00Z",
        "period": 1,
-       "clock": "17:52",
+       "clock": "16:16",
        "teams": [
         {
          "name": "Cal State Bakersfield Roadrunners",
          "short": "Roadrunners",
          "abbr": "CSUB",
-         "score": 7,
+         "score": 9,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -2098,7 +2098,7 @@
          "name": "Idaho Vandals",
          "short": "Vandals",
          "abbr": "IDHO",
-         "score": 4,
+         "score": 8,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -2141,16 +2141,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "6:28 - 3rd",
+       "detail": "5:13 - 3rd",
        "start": "2026-11-21T00:30Z",
        "period": 3,
-       "clock": "6:28",
+       "clock": "5:13",
        "teams": [
         {
          "name": "Indiana Pacers",
          "short": "Pacers",
          "abbr": "IND",
-         "score": 73,
+         "score": 77,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -2163,7 +2163,7 @@
          "name": "Cleveland Cavaliers",
          "short": "Cavaliers",
          "abbr": "CLE",
-         "score": 83,
+         "score": 85,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -2209,16 +2209,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "6:21 - 3rd",
+       "detail": "5:45 - 3rd",
        "start": "2026-11-21T00:30Z",
        "period": 3,
-       "clock": "6:21",
+       "clock": "5:45",
        "teams": [
         {
          "name": "Toronto Raptors",
          "short": "Raptors",
          "abbr": "TOR",
-         "score": 67,
+         "score": 69,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -2231,7 +2231,7 @@
          "name": "Detroit Pistons",
          "short": "Pistons",
          "abbr": "DET",
-         "score": 55,
+         "score": 57,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -2346,16 +2346,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "6:21 - 3rd",
+       "detail": "5:45 - 3rd",
        "start": "2026-11-21T00:30Z",
        "period": 3,
-       "clock": "6:21",
+       "clock": "5:45",
        "teams": [
         {
          "name": "Toronto Raptors",
          "short": "Raptors",
          "abbr": "TOR",
-         "score": 67,
+         "score": 69,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -2368,7 +2368,7 @@
          "name": "Detroit Pistons",
          "short": "Pistons",
          "abbr": "DET",
-         "score": 55,
+         "score": 57,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -2417,16 +2417,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "4:02 - 4th",
+       "detail": "2:47 - 4th",
        "start": "2026-11-21T00:00Z",
        "period": 4,
-       "clock": "4:02",
+       "clock": "2:47",
        "teams": [
         {
          "name": "Charlotte Hornets",
          "short": "Hornets",
          "abbr": "CHA",
-         "score": 91,
+         "score": 94,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -2440,7 +2440,7 @@
          "name": "Atlanta Hawks",
          "short": "Hawks",
          "abbr": "ATL",
-         "score": 104,
+         "score": 107,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -2490,16 +2490,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "4:02 - 4th",
+       "detail": "2:47 - 4th",
        "start": "2026-11-21T00:00Z",
        "period": 4,
-       "clock": "4:02",
+       "clock": "2:47",
        "teams": [
         {
          "name": "Charlotte Hornets",
          "short": "Hornets",
          "abbr": "CHA",
-         "score": 91,
+         "score": 94,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -2513,7 +2513,7 @@
          "name": "Atlanta Hawks",
          "short": "Hawks",
          "abbr": "ATL",
-         "score": 104,
+         "score": 107,
          "ha": "home",
          "winner": null,
          "linescores": [
