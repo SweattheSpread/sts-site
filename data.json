@@ -1,5 +1,5 @@
 {
- "updated": "Nov 20, 2026, 6:47 PM PT",
+ "updated": "Nov 20, 2026, 6:49 PM PT",
  "record": {
   "w": 214,
   "l": 216,
@@ -1771,16 +1771,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "10:09 - 1st",
+       "detail": "8:36 - 1st",
        "start": "2026-11-21T02:30Z",
        "period": 1,
-       "clock": "10:09",
+       "clock": "8:36",
        "teams": [
         {
          "name": "Phoenix Suns",
          "short": "Suns",
          "abbr": "PHX",
-         "score": 2,
+         "score": 8,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -1791,7 +1791,7 @@
          "name": "Utah Jazz",
          "short": "Jazz",
          "abbr": "UTAH",
-         "score": 0,
+         "score": 4,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -1961,16 +1961,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "2:54 - 1st",
+       "detail": "1:21 - 1st",
        "start": "2026-11-21T02:00Z",
        "period": 1,
-       "clock": "2:54",
+       "clock": "1:21",
        "teams": [
         {
          "name": "Sam Houston Bearkats",
          "short": "Bearkats",
          "abbr": "SHSU",
-         "score": 26,
+         "score": 29,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -1981,7 +1981,7 @@
          "name": "Boise State Broncos",
          "short": "Broncos",
          "abbr": "BOIS",
-         "score": 21,
+         "score": 26,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -2023,10 +2023,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "3:45 - 1st",
+       "detail": "2:25 - 1st",
        "start": "2026-11-21T02:00Z",
        "period": 1,
-       "clock": "3:45",
+       "clock": "2:25",
        "teams": [
         {
          "name": "Eastern Illinois Panthers",
@@ -2043,7 +2043,7 @@
          "name": "Illinois Fighting Illini",
          "short": "Fighting Illini",
          "abbr": "ILL",
-         "score": 50,
+         "score": 58,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -2280,7 +2280,7 @@
          "name": "Indiana Pacers",
          "short": "Pacers",
          "abbr": "IND",
-         "score": 107,
+         "score": 109,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -2411,16 +2411,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "11:56 - 4th",
+       "detail": "9:52 - 4th",
        "start": "2026-11-21T01:00Z",
        "period": 4,
-       "clock": "11:56",
+       "clock": "9:52",
        "teams": [
         {
          "name": "Washington Wizards",
          "short": "Wizards",
          "abbr": "WSH",
-         "score": 75,
+         "score": 77,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -2434,7 +2434,7 @@
          "name": "Chicago Bulls",
          "short": "Bulls",
          "abbr": "CHI",
-         "score": 69,
+         "score": 77,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -2703,16 +2703,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "4.3 - 3rd",
+       "detail": "End of 3rd",
        "start": "2026-11-21T01:00Z",
        "period": 3,
-       "clock": "4.3",
+       "clock": "0.0",
        "teams": [
         {
          "name": "New Orleans Pelicans",
          "short": "Pelicans",
          "abbr": "NO",
-         "score": 96,
+         "score": 98,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -2774,16 +2774,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "11:56 - 4th",
+       "detail": "9:52 - 4th",
        "start": "2026-11-21T01:00Z",
        "period": 4,
-       "clock": "11:56",
+       "clock": "9:52",
        "teams": [
         {
          "name": "Washington Wizards",
          "short": "Wizards",
          "abbr": "WSH",
-         "score": 75,
+         "score": 77,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -2797,7 +2797,7 @@
          "name": "Chicago Bulls",
          "short": "Bulls",
          "abbr": "CHI",
-         "score": 69,
+         "score": 77,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -2845,16 +2845,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "1:02 - 1st",
+       "detail": "0:59 - 1st",
        "start": "2026-11-21T02:00Z",
        "period": 1,
-       "clock": "1:02",
+       "clock": "0:59",
        "teams": [
         {
          "name": "New Mexico Lobos",
          "short": "Lobos",
          "abbr": "UNM",
-         "score": 7,
+         "score": 10,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -2943,7 +2943,7 @@
          "name": "Indiana Pacers",
          "short": "Pacers",
          "abbr": "IND",
-         "score": 107,
+         "score": 109,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -3002,16 +3002,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "4.3 - 3rd",
+       "detail": "End of 3rd",
        "start": "2026-11-21T01:00Z",
        "period": 3,
-       "clock": "4.3",
+       "clock": "0.0",
        "teams": [
         {
          "name": "New Orleans Pelicans",
          "short": "Pelicans",
          "abbr": "NO",
-         "score": 96,
+         "score": 98,
          "ha": "away",
          "winner": null,
          "linescores": [
