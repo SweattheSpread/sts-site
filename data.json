@@ -1,5 +1,5 @@
 {
- "updated": "Nov 21, 2026, 2:14 PM PT",
+ "updated": "Nov 21, 2026, 2:16 PM PT",
  "record": {
   "w": 224,
   "l": 230,
@@ -151,11 +151,11 @@
       "date": "20261122",
       "snapshot": {
        "source": "espn",
-       "state": "in",
-       "detail": "1:01 - 4th",
+       "state": "post",
+       "detail": "Final",
        "start": "2026-11-21T19:00Z",
-       "period": 4,
-       "clock": "1:01",
+       "period": null,
+       "clock": null,
        "teams": [
         {
          "name": "Missouri State Bears",
@@ -163,7 +163,7 @@
          "abbr": "MOST",
          "score": 20,
          "ha": "away",
-         "winner": null,
+         "winner": false,
          "linescores": [
           0,
           0,
@@ -177,7 +177,7 @@
          "abbr": "JXST",
          "score": 25,
          "ha": "home",
-         "winner": null,
+         "winner": true,
          "linescores": [
           0,
           0,
@@ -200,10 +200,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "4:24 - 4th",
+       "detail": "2:40 - 4th",
        "start": "2026-11-21T19:30Z",
        "period": 4,
-       "clock": "4:24",
+       "clock": "2:40",
        "teams": [
         {
          "name": "UL Monroe Warhawks",
@@ -1998,10 +1998,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "0:46 - 2nd",
+       "detail": "0:27 - 2nd",
        "start": "2026-11-21T20:45Z",
        "period": 2,
-       "clock": "0:46",
+       "clock": "0:27",
        "teams": [
         {
          "name": "Texas A&M Aggies",
@@ -2193,16 +2193,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "7:50 - 2nd",
+       "detail": "5:57 - 2nd",
        "start": "2026-11-21T20:30Z",
        "period": 2,
-       "clock": "7:50",
+       "clock": "5:57",
        "teams": [
         {
          "name": "Army Black Knights",
          "short": "Black Knights",
          "abbr": "ARMY",
-         "score": 33,
+         "score": 37,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -2389,16 +2389,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "7:50 - 2nd",
+       "detail": "5:57 - 2nd",
        "start": "2026-11-21T20:30Z",
        "period": 2,
-       "clock": "7:50",
+       "clock": "5:57",
        "teams": [
         {
          "name": "Army Black Knights",
          "short": "Black Knights",
          "abbr": "ARMY",
-         "score": 33,
+         "score": 37,
          "ha": "away",
          "winner": null,
          "linescores": [
