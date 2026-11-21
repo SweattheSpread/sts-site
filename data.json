@@ -1,5 +1,5 @@
 {
- "updated": "Nov 21, 2026, 2:23 PM PT",
+ "updated": "Nov 21, 2026, 2:26 PM PT",
  "record": {
   "w": 224,
   "l": 230,
@@ -200,10 +200,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "0:56 - 4th",
+       "detail": "0:28 - 4th",
        "start": "2026-11-21T19:30Z",
        "period": 4,
-       "clock": "0:56",
+       "clock": "0:28",
        "teams": [
         {
          "name": "UL Monroe Warhawks",
@@ -2223,10 +2223,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "3:17 - 2nd",
+       "detail": "3:02 - 2nd",
        "start": "2026-11-21T20:30Z",
        "period": 2,
-       "clock": "3:17",
+       "clock": "3:02",
        "teams": [
         {
          "name": "Army Black Knights",
@@ -2419,10 +2419,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "3:17 - 2nd",
+       "detail": "3:02 - 2nd",
        "start": "2026-11-21T20:30Z",
        "period": 2,
-       "clock": "3:17",
+       "clock": "3:02",
        "teams": [
         {
          "name": "Army Black Knights",
