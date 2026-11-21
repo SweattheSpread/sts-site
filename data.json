@@ -1,5 +1,5 @@
 {
- "updated": "Nov 21, 2026, 12:03 PM PT",
+ "updated": "Nov 21, 2026, 12:06 PM PT",
  "record": {
   "w": 224,
   "l": 230,
@@ -152,10 +152,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "7:31 - 2nd",
+       "detail": "5:37 - 2nd",
        "start": "2026-11-21T19:00Z",
        "period": 2,
-       "clock": "7:31",
+       "clock": "5:37",
        "teams": [
         {
          "name": "Missouri State Bears",
@@ -196,10 +196,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "0:57 - 1st",
+       "detail": "15:00 - 1st",
        "start": "2026-11-21T19:30Z",
        "period": 1,
-       "clock": "0:57",
+       "clock": "15:00",
        "teams": [
         {
          "name": "UL Monroe Warhawks",
@@ -2262,10 +2262,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "11:55 - 4th",
+       "detail": "10:24 - 4th",
        "start": "2026-11-21T17:00Z",
        "period": 4,
-       "clock": "11:55",
+       "clock": "10:24",
        "teams": [
         {
          "name": "Ohio State Buckeyes",
@@ -2391,10 +2391,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "6:07 - 4th",
+       "detail": "5:32 - 4th",
        "start": "2026-11-21T17:00Z",
        "period": 4,
-       "clock": "6:07",
+       "clock": "5:32",
        "teams": [
         {
          "name": "Wisconsin Badgers",
@@ -2460,16 +2460,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "7:29 - 4th",
+       "detail": "5:59 - 4th",
        "start": "2026-11-21T18:00Z",
        "period": 4,
-       "clock": "7:29",
+       "clock": "5:59",
        "teams": [
         {
          "name": "Milwaukee Bucks",
          "short": "Bucks",
          "abbr": "MIL",
-         "score": 103,
+         "score": 108,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -2483,7 +2483,7 @@
          "name": "Philadelphia 76ers",
          "short": "76ers",
          "abbr": "PHI",
-         "score": 108,
+         "score": 113,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -2531,10 +2531,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "11:55 - 4th",
+       "detail": "10:24 - 4th",
        "start": "2026-11-21T17:00Z",
        "period": 4,
-       "clock": "11:55",
+       "clock": "10:24",
        "teams": [
         {
          "name": "Ohio State Buckeyes",
@@ -2598,10 +2598,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "12:09 - 3rd",
+       "detail": "9:47 - 3rd",
        "start": "2026-11-21T18:00Z",
        "period": 3,
-       "clock": "12:09",
+       "clock": "9:47",
        "teams": [
         {
          "name": "Western Kentucky Hilltoppers",
