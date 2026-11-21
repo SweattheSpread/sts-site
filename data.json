@@ -1,5 +1,5 @@
 {
- "updated": "Nov 21, 2026, 8:57 AM PT",
+ "updated": "Nov 21, 2026, 9:01 AM PT",
  "record": {
   "w": 224,
   "l": 230,
@@ -127,63 +127,6 @@
   }
  ],
  "picks": [
-  {
-   "n": 940,
-   "league": "NCAAB",
-   "type": "Spread",
-   "matchup": "Columbia Lions @ Boston University Terriers",
-   "pick": "Columbia +1.5",
-   "odds": -120,
-   "units": 1.0,
-   "gap": null,
-   "start": "2026-11-21T09:00:00",
-   "timed": true,
-   "ticket": "single",
-   "espn": {
-    "legs": [
-     {
-      "kind": "spread",
-      "side": "Columbia",
-      "line": 1.5,
-      "label": "Columbia +1.5",
-      "path": "basketball/mens-college-basketball",
-      "event": "401923402",
-      "date": "20261121",
-      "snapshot": {
-       "source": "espn",
-       "state": "pre",
-       "detail": "11/21 - 12:00 PM EST",
-       "start": "2026-11-21T17:00Z",
-       "period": null,
-       "clock": null,
-       "teams": [
-        {
-         "name": "Columbia Lions",
-         "short": "Lions",
-         "abbr": "COLU",
-         "score": 0,
-         "ha": "away",
-         "winner": null,
-         "linescores": []
-        },
-        {
-         "name": "Boston University Terriers",
-         "short": "Terriers",
-         "abbr": "BU",
-         "score": 0,
-         "ha": "home",
-         "winner": null,
-         "linescores": []
-        }
-       ]
-      },
-      "source": "espn"
-     }
-    ],
-    "sport": "NCAAB",
-    "ticket": "single"
-   }
-  },
   {
    "n": 941,
    "league": "NCAAB",
@@ -1975,6 +1918,63 @@
    }
   },
   {
+   "n": 940,
+   "league": "NCAAB",
+   "type": "Spread",
+   "matchup": "Columbia Lions @ Boston University Terriers",
+   "pick": "Columbia +1.5",
+   "odds": -120,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-21T09:00:00",
+   "timed": true,
+   "ticket": "single",
+   "espn": {
+    "legs": [
+     {
+      "kind": "spread",
+      "side": "Columbia",
+      "line": 1.5,
+      "label": "Columbia +1.5",
+      "path": "basketball/mens-college-basketball",
+      "event": "401923402",
+      "date": "20261121",
+      "snapshot": {
+       "source": "espn",
+       "state": "pre",
+       "detail": "11/21 - 12:00 PM EST",
+       "start": "2026-11-21T17:00Z",
+       "period": null,
+       "clock": null,
+       "teams": [
+        {
+         "name": "Columbia Lions",
+         "short": "Lions",
+         "abbr": "COLU",
+         "score": 0,
+         "ha": "away",
+         "winner": null,
+         "linescores": []
+        },
+        {
+         "name": "Boston University Terriers",
+         "short": "Terriers",
+         "abbr": "BU",
+         "score": 0,
+         "ha": "home",
+         "winner": null,
+         "linescores": []
+        }
+       ]
+      },
+      "source": "espn"
+     }
+    ],
+    "sport": "NCAAB",
+    "ticket": "single"
+   }
+  },
+  {
    "n": 943,
    "league": "NCAAB",
    "type": "Spread",
@@ -1999,19 +1999,20 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "Halftime",
+       "detail": "18:26 - 2nd",
        "start": "2026-11-21T16:00Z",
-       "period": 1,
-       "clock": "0:00",
+       "period": 2,
+       "clock": "18:26",
        "teams": [
         {
          "name": "South Carolina Upstate Spartans",
          "short": "Spartans",
          "abbr": "UPST",
-         "score": 25,
+         "score": 29,
          "ha": "away",
          "winner": null,
          "linescores": [
+          0,
           0
          ]
         },
@@ -2019,10 +2020,11 @@
          "name": "UNC Greensboro Spartans",
          "short": "Spartans",
          "abbr": "UNCG",
-         "score": 41,
+         "score": 43,
          "ha": "home",
          "winner": null,
          "linescores": [
+          0,
           0
          ]
         }
