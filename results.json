@@ -1,5 +1,5 @@
 {
- "updated": "Nov 21, 2026, 7:17 AM PT",
+ "updated": "Nov 21, 2026, 7:53 AM PT",
  "record": {
   "w": 224,
   "l": 230,
@@ -11,7 +11,7 @@
   "first": "2026-10-12",
   "last": "2026-11-20"
  },
- "pending": 26,
+ "pending": 29,
  "plays": [
   {
    "n": 334,
@@ -7433,6 +7433,54 @@
    "pick": "Jalen Brunson Over 2.5 rebounds",
    "odds": -120,
    "units": 1.0,
+   "result": null,
+   "pl": null,
+   "pending": true
+  },
+  {
+   "n": 936,
+   "date": "2026-11-21",
+   "day": "2026-11-21",
+   "league": "NHL",
+   "market": "ml",
+   "market_label": "Moneyline",
+   "ticket": "single",
+   "matchup": "Pittsburgh Penguins @ Nashville Predators",
+   "pick": "Pittsburgh Penguins ML +118",
+   "odds": 118,
+   "units": 0.5,
+   "result": null,
+   "pl": null,
+   "pending": true
+  },
+  {
+   "n": 937,
+   "date": "2026-11-21",
+   "day": "2026-11-21",
+   "league": "NHL",
+   "market": "ml",
+   "market_label": "Moneyline",
+   "ticket": "single",
+   "matchup": "Anaheim Ducks @ Utah Mammoth",
+   "pick": "Utah Mammoth ML -159",
+   "odds": -159,
+   "units": 0.5,
+   "result": null,
+   "pl": null,
+   "pending": true
+  },
+  {
+   "n": 938,
+   "date": "2026-11-21",
+   "day": "2026-11-21",
+   "league": "NHL",
+   "market": "ml",
+   "market_label": "Moneyline",
+   "ticket": "single",
+   "matchup": "Columbus Blue Jackets @ Toronto Maple Leafs",
+   "pick": "Columbus Blue Jackets ML +102",
+   "odds": 102,
+   "units": 0.5,
    "result": null,
    "pl": null,
    "pending": true
