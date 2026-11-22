@@ -1,5 +1,5 @@
 {
- "updated": "Nov 22, 2026, 1:24 PM PT",
+ "updated": "Nov 22, 2026, 1:27 PM PT",
  "record": {
   "w": 239,
   "l": 237,
@@ -128,540 +128,6 @@
  ],
  "picks": [
   {
-   "n": 856,
-   "league": "NFL",
-   "type": "Spread",
-   "matchup": "Las Vegas Raiders @ Denver Broncos",
-   "pick": "Denver Broncos -10 (-109)",
-   "odds": -109,
-   "units": 1.0,
-   "gap": null,
-   "start": "2026-11-22T13:25:00",
-   "timed": true,
-   "ticket": "single",
-   "espn": {
-    "legs": [
-     {
-      "kind": "spread",
-      "side": "Denver Broncos",
-      "line": -10.0,
-      "label": "Denver Broncos -10",
-      "path": "football/nfl",
-      "event": "401873075",
-      "date": "20261122",
-      "snapshot": {
-       "source": "espn",
-       "state": "pre",
-       "detail": "11/22 - 4:25 PM EST",
-       "start": "2026-11-22T21:25Z",
-       "period": null,
-       "clock": null,
-       "teams": [
-        {
-         "name": "Las Vegas Raiders",
-         "short": "Raiders",
-         "abbr": "LV",
-         "score": 0,
-         "ha": "away",
-         "winner": null,
-         "linescores": []
-        },
-        {
-         "name": "Denver Broncos",
-         "short": "Broncos",
-         "abbr": "DEN",
-         "score": 0,
-         "ha": "home",
-         "winner": null,
-         "linescores": []
-        }
-       ]
-      },
-      "source": "espn"
-     }
-    ],
-    "sport": "NFL",
-    "ticket": "single"
-   }
-  },
-  {
-   "n": 863,
-   "league": "NFL",
-   "type": "Over/Under",
-   "matchup": "Las Vegas Raiders @ Denver Broncos",
-   "pick": "Over 40.5",
-   "odds": -106,
-   "units": 1.0,
-   "gap": null,
-   "start": "2026-11-22T13:25:00",
-   "timed": true,
-   "ticket": "single",
-   "espn": {
-    "legs": [
-     {
-      "kind": "total",
-      "side": null,
-      "ou": "O",
-      "line": 40.5,
-      "label": "O 40.5",
-      "path": "football/nfl",
-      "event": "401873075",
-      "date": "20261122",
-      "snapshot": {
-       "source": "espn",
-       "state": "pre",
-       "detail": "11/22 - 4:25 PM EST",
-       "start": "2026-11-22T21:25Z",
-       "period": null,
-       "clock": null,
-       "teams": [
-        {
-         "name": "Las Vegas Raiders",
-         "short": "Raiders",
-         "abbr": "LV",
-         "score": 0,
-         "ha": "away",
-         "winner": null,
-         "linescores": []
-        },
-        {
-         "name": "Denver Broncos",
-         "short": "Broncos",
-         "abbr": "DEN",
-         "score": 0,
-         "ha": "home",
-         "winner": null,
-         "linescores": []
-        }
-       ]
-      },
-      "source": "espn"
-     }
-    ],
-    "sport": "NFL",
-    "ticket": "single"
-   }
-  },
-  {
-   "n": 864,
-   "league": "NFL",
-   "type": "Over/Under",
-   "matchup": "Jacksonville Jaguars @ New York Giants",
-   "pick": "Over 46.5",
-   "odds": -110,
-   "units": 1.0,
-   "gap": null,
-   "start": "2026-11-22T13:25:00",
-   "timed": true,
-   "ticket": "single",
-   "espn": {
-    "legs": [
-     {
-      "kind": "total",
-      "side": null,
-      "ou": "O",
-      "line": 46.5,
-      "label": "O 46.5",
-      "path": "football/nfl",
-      "event": "401873069",
-      "date": "20261122",
-      "snapshot": {
-       "source": "espn",
-       "state": "pre",
-       "detail": "11/22 - 4:25 PM EST",
-       "start": "2026-11-22T21:25Z",
-       "period": null,
-       "clock": null,
-       "teams": [
-        {
-         "name": "Jacksonville Jaguars",
-         "short": "Jaguars",
-         "abbr": "JAX",
-         "score": 0,
-         "ha": "away",
-         "winner": null,
-         "linescores": []
-        },
-        {
-         "name": "New York Giants",
-         "short": "Giants",
-         "abbr": "NYG",
-         "score": 0,
-         "ha": "home",
-         "winner": null,
-         "linescores": []
-        }
-       ]
-      },
-      "source": "espn"
-     }
-    ],
-    "sport": "NFL",
-    "ticket": "single"
-   }
-  },
-  {
-   "n": 974,
-   "league": "NFL",
-   "type": "Parlay",
-   "matchup": "2-leg parlay of SGPs: Las Vegas Raiders @ Denver Broncos + Jacksonville Jaguars @ New York Giants",
-   "pick": "Patrick Bryant 25+ receiving yds (Las Vegas Raiders @ Denver Broncos) + Jonah Coleman 50+ rushing yds (Las Vegas Raiders @ Denver Broncos) + Fernando Mendoza 1+ pass interceptions (Las Vegas Raiders @ Denver Broncos) + Jonah Coleman anytime TD (Las Vegas Raiders @ Denver Broncos) + Parker Washington anytime TD (Jacksonville Jaguars @ New York Giants) + Bhayshul Tuten anytime TD (Jacksonville Jaguars @ New York Giants) + Isaiah Likely 3+ receptions (Jacksonville Jaguars @ New York Giants) + Bhayshul Tuten 60+ rushing yds (Jacksonville Jaguars @ New York Giants) + T. Lawrence 225+ passing yds (Jacksonville Jaguars @ New York Giants)",
-   "odds": 3313,
-   "units": 0.2,
-   "gap": null,
-   "start": "2026-11-22T13:25:00",
-   "timed": true,
-   "ticket": "parlay",
-   "espn": {
-    "legs": [
-     {
-      "kind": "prop",
-      "player": "Patrick Bryant",
-      "ou": "O",
-      "line": 24.5,
-      "stat": "receiving yds",
-      "label": "Patrick Bryant O 24.5 receiving yds",
-      "date": "20261122",
-      "unverified": true,
-      "reason": "Player not found in this game",
-      "snapshot": {
-       "source": "odds-api",
-       "state": "pre",
-       "detail": "Scheduled",
-       "start": "2026-11-22T21:28:00Z",
-       "teams": [
-        {
-         "name": "Las Vegas Raiders",
-         "short": "Las Vegas Raiders",
-         "abbr": "",
-         "score": 0,
-         "ha": "away",
-         "winner": null,
-         "linescores": []
-        },
-        {
-         "name": "Denver Broncos",
-         "short": "Denver Broncos",
-         "abbr": "",
-         "score": 0,
-         "ha": "home",
-         "winner": null,
-         "linescores": []
-        }
-       ]
-      },
-      "source": "odds-api"
-     },
-     {
-      "kind": "prop",
-      "player": "Jonah Coleman",
-      "ou": "O",
-      "line": 49.5,
-      "stat": "rushing yds",
-      "label": "Jonah Coleman O 49.5 rushing yds",
-      "date": "20261122",
-      "unverified": true,
-      "reason": "Player not found in this game",
-      "snapshot": {
-       "source": "odds-api",
-       "state": "pre",
-       "detail": "Scheduled",
-       "start": "2026-11-22T21:28:00Z",
-       "teams": [
-        {
-         "name": "Las Vegas Raiders",
-         "short": "Las Vegas Raiders",
-         "abbr": "",
-         "score": 0,
-         "ha": "away",
-         "winner": null,
-         "linescores": []
-        },
-        {
-         "name": "Denver Broncos",
-         "short": "Denver Broncos",
-         "abbr": "",
-         "score": 0,
-         "ha": "home",
-         "winner": null,
-         "linescores": []
-        }
-       ]
-      },
-      "source": "odds-api"
-     },
-     {
-      "kind": "prop",
-      "player": "Fernando Mendoza",
-      "ou": "O",
-      "line": 0.5,
-      "stat": "pass interceptions",
-      "label": "Fernando Mendoza O 0.5 pass interceptions",
-      "date": "20261122",
-      "unverified": true,
-      "reason": "Player not found in this game",
-      "snapshot": {
-       "source": "odds-api",
-       "state": "pre",
-       "detail": "Scheduled",
-       "start": "2026-11-22T21:28:00Z",
-       "teams": [
-        {
-         "name": "Las Vegas Raiders",
-         "short": "Las Vegas Raiders",
-         "abbr": "",
-         "score": 0,
-         "ha": "away",
-         "winner": null,
-         "linescores": []
-        },
-        {
-         "name": "Denver Broncos",
-         "short": "Denver Broncos",
-         "abbr": "",
-         "score": 0,
-         "ha": "home",
-         "winner": null,
-         "linescores": []
-        }
-       ]
-      },
-      "source": "odds-api"
-     },
-     {
-      "kind": "prop",
-      "player": "Jonah Coleman",
-      "ou": "O",
-      "line": 0.5,
-      "stat": "anytime td",
-      "label": "Jonah Coleman O 0.5 anytime td",
-      "date": "20261122",
-      "unverified": true,
-      "reason": "Player not found in this game",
-      "snapshot": {
-       "source": "odds-api",
-       "state": "pre",
-       "detail": "Scheduled",
-       "start": "2026-11-22T21:28:00Z",
-       "teams": [
-        {
-         "name": "Las Vegas Raiders",
-         "short": "Las Vegas Raiders",
-         "abbr": "",
-         "score": 0,
-         "ha": "away",
-         "winner": null,
-         "linescores": []
-        },
-        {
-         "name": "Denver Broncos",
-         "short": "Denver Broncos",
-         "abbr": "",
-         "score": 0,
-         "ha": "home",
-         "winner": null,
-         "linescores": []
-        }
-       ]
-      },
-      "source": "odds-api"
-     },
-     {
-      "kind": "prop",
-      "player": "Parker Washington",
-      "ou": "O",
-      "line": 0.5,
-      "stat": "anytime td",
-      "label": "Parker Washington O 0.5 anytime td",
-      "date": "20261122",
-      "unverified": true,
-      "reason": "Player not found in this game",
-      "snapshot": {
-       "source": "odds-api",
-       "state": "pre",
-       "detail": "Scheduled",
-       "start": "2026-11-22T21:28:00Z",
-       "teams": [
-        {
-         "name": "Las Vegas Raiders",
-         "short": "Las Vegas Raiders",
-         "abbr": "",
-         "score": 0,
-         "ha": "away",
-         "winner": null,
-         "linescores": []
-        },
-        {
-         "name": "Denver Broncos",
-         "short": "Denver Broncos",
-         "abbr": "",
-         "score": 0,
-         "ha": "home",
-         "winner": null,
-         "linescores": []
-        }
-       ]
-      },
-      "source": "odds-api"
-     },
-     {
-      "kind": "prop",
-      "player": "Bhayshul Tuten",
-      "ou": "O",
-      "line": 0.5,
-      "stat": "anytime td",
-      "label": "Bhayshul Tuten O 0.5 anytime td",
-      "date": "20261122",
-      "unverified": true,
-      "reason": "Player not found in this game",
-      "snapshot": {
-       "source": "odds-api",
-       "state": "pre",
-       "detail": "Scheduled",
-       "start": "2026-11-22T21:28:00Z",
-       "teams": [
-        {
-         "name": "Las Vegas Raiders",
-         "short": "Las Vegas Raiders",
-         "abbr": "",
-         "score": 0,
-         "ha": "away",
-         "winner": null,
-         "linescores": []
-        },
-        {
-         "name": "Denver Broncos",
-         "short": "Denver Broncos",
-         "abbr": "",
-         "score": 0,
-         "ha": "home",
-         "winner": null,
-         "linescores": []
-        }
-       ]
-      },
-      "source": "odds-api"
-     },
-     {
-      "kind": "prop",
-      "player": "Isaiah Likely",
-      "ou": "O",
-      "line": 2.5,
-      "stat": "receptions",
-      "label": "Isaiah Likely O 2.5 receptions",
-      "date": "20261122",
-      "unverified": true,
-      "reason": "Player not found in this game",
-      "snapshot": {
-       "source": "odds-api",
-       "state": "pre",
-       "detail": "Scheduled",
-       "start": "2026-11-22T21:28:00Z",
-       "teams": [
-        {
-         "name": "Las Vegas Raiders",
-         "short": "Las Vegas Raiders",
-         "abbr": "",
-         "score": 0,
-         "ha": "away",
-         "winner": null,
-         "linescores": []
-        },
-        {
-         "name": "Denver Broncos",
-         "short": "Denver Broncos",
-         "abbr": "",
-         "score": 0,
-         "ha": "home",
-         "winner": null,
-         "linescores": []
-        }
-       ]
-      },
-      "source": "odds-api"
-     },
-     {
-      "kind": "prop",
-      "player": "Bhayshul Tuten",
-      "ou": "O",
-      "line": 59.5,
-      "stat": "rushing yds",
-      "label": "Bhayshul Tuten O 59.5 rushing yds",
-      "date": "20261122",
-      "unverified": true,
-      "reason": "Player not found in this game",
-      "snapshot": {
-       "source": "odds-api",
-       "state": "pre",
-       "detail": "Scheduled",
-       "start": "2026-11-22T21:28:00Z",
-       "teams": [
-        {
-         "name": "Las Vegas Raiders",
-         "short": "Las Vegas Raiders",
-         "abbr": "",
-         "score": 0,
-         "ha": "away",
-         "winner": null,
-         "linescores": []
-        },
-        {
-         "name": "Denver Broncos",
-         "short": "Denver Broncos",
-         "abbr": "",
-         "score": 0,
-         "ha": "home",
-         "winner": null,
-         "linescores": []
-        }
-       ]
-      },
-      "source": "odds-api"
-     },
-     {
-      "kind": "prop",
-      "player": "T. Lawrence",
-      "ou": "O",
-      "line": 224.5,
-      "stat": "passing yds",
-      "label": "T. Lawrence O 224.5 passing yds",
-      "date": "20261122",
-      "unverified": true,
-      "reason": "Player not found in this game",
-      "snapshot": {
-       "source": "odds-api",
-       "state": "pre",
-       "detail": "Scheduled",
-       "start": "2026-11-22T21:28:00Z",
-       "teams": [
-        {
-         "name": "Las Vegas Raiders",
-         "short": "Las Vegas Raiders",
-         "abbr": "",
-         "score": 0,
-         "ha": "away",
-         "winner": null,
-         "linescores": []
-        },
-        {
-         "name": "Denver Broncos",
-         "short": "Denver Broncos",
-         "abbr": "",
-         "score": 0,
-         "ha": "home",
-         "winner": null,
-         "linescores": []
-        }
-       ]
-      },
-      "source": "odds-api"
-     }
-    ],
-    "sport": "NFL",
-    "ticket": "parlay"
-   }
-  },
-  {
    "n": 970,
    "league": "NCAAB",
    "type": "Spread",
@@ -739,9 +205,9 @@
       "line": 0.5,
       "stat": "assists",
       "label": "Brayden Point O 0.5 assists",
+      "path": "hockey/nhl",
+      "event": "401892769",
       "date": "20261122",
-      "unverified": true,
-      "reason": "Player not found in this game",
       "snapshot": {
        "source": "nhl",
        "state": "pre",
@@ -856,9 +322,9 @@
       "line": 0.5,
       "stat": "points",
       "label": "Jamie Benn U 0.5 points",
+      "path": "hockey/nhl",
+      "event": "401892771",
       "date": "20261122",
-      "unverified": true,
-      "reason": "Player not found in this game",
       "snapshot": {
        "source": "nhl",
        "state": "pre",
@@ -917,8 +383,8 @@
       "stat": "points",
       "label": "Vasily Podkolzin O 0.5 points",
       "path": "hockey/nhl",
-      "event": "401892754",
-      "date": "20261121",
+      "event": "401892770",
+      "date": "20261122",
       "snapshot": {
        "source": "nhl",
        "state": "pre",
@@ -1035,9 +501,38 @@
       "line": 1.5,
       "stat": "made threes",
       "label": "Andrew Nembhard O 1.5 made threes",
+      "path": "basketball/nba",
+      "event": "401910034",
       "date": "20261122",
-      "unverified": true,
-      "reason": "Player not found in this game"
+      "snapshot": {
+       "source": "espn",
+       "state": "pre",
+       "detail": "11/22 - 8:00 PM EST",
+       "start": "2026-11-23T01:00Z",
+       "period": null,
+       "clock": null,
+       "teams": [
+        {
+         "name": "Indiana Pacers",
+         "short": "Pacers",
+         "abbr": "IND",
+         "score": 0,
+         "ha": "away",
+         "winner": null,
+         "linescores": []
+        },
+        {
+         "name": "New York Knicks",
+         "short": "Knicks",
+         "abbr": "NY",
+         "score": 0,
+         "ha": "home",
+         "winner": null,
+         "linescores": []
+        }
+       ]
+      },
+      "source": "espn"
      }
     ],
     "sport": "NBA",
@@ -1685,6 +1180,67 @@
    }
   },
   {
+   "n": 856,
+   "league": "NFL",
+   "type": "Spread",
+   "matchup": "Las Vegas Raiders @ Denver Broncos",
+   "pick": "Denver Broncos -10 (-109)",
+   "odds": -109,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-22T13:25:00",
+   "timed": true,
+   "ticket": "single",
+   "espn": {
+    "legs": [
+     {
+      "kind": "spread",
+      "side": "Denver Broncos",
+      "line": -10.0,
+      "label": "Denver Broncos -10",
+      "path": "football/nfl",
+      "event": "401873075",
+      "date": "20261122",
+      "snapshot": {
+       "source": "espn",
+       "state": "in",
+       "detail": "14:32 - 1st",
+       "start": "2026-11-22T21:25Z",
+       "period": 1,
+       "clock": "14:32",
+       "teams": [
+        {
+         "name": "Las Vegas Raiders",
+         "short": "Raiders",
+         "abbr": "LV",
+         "score": 0,
+         "ha": "away",
+         "winner": null,
+         "linescores": [
+          0
+         ]
+        },
+        {
+         "name": "Denver Broncos",
+         "short": "Broncos",
+         "abbr": "DEN",
+         "score": 0,
+         "ha": "home",
+         "winner": null,
+         "linescores": [
+          0
+         ]
+        }
+       ]
+      },
+      "source": "espn"
+     }
+    ],
+    "sport": "NFL",
+    "ticket": "single"
+   }
+  },
+  {
    "n": 857,
    "league": "NFL",
    "type": "Spread",
@@ -2004,6 +1560,130 @@
           0,
           0,
           0,
+          0
+         ]
+        }
+       ]
+      },
+      "source": "espn"
+     }
+    ],
+    "sport": "NFL",
+    "ticket": "single"
+   }
+  },
+  {
+   "n": 863,
+   "league": "NFL",
+   "type": "Over/Under",
+   "matchup": "Las Vegas Raiders @ Denver Broncos",
+   "pick": "Over 40.5",
+   "odds": -106,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-22T13:25:00",
+   "timed": true,
+   "ticket": "single",
+   "espn": {
+    "legs": [
+     {
+      "kind": "total",
+      "side": null,
+      "ou": "O",
+      "line": 40.5,
+      "label": "O 40.5",
+      "path": "football/nfl",
+      "event": "401873075",
+      "date": "20261122",
+      "snapshot": {
+       "source": "espn",
+       "state": "in",
+       "detail": "14:32 - 1st",
+       "start": "2026-11-22T21:25Z",
+       "period": 1,
+       "clock": "14:32",
+       "teams": [
+        {
+         "name": "Las Vegas Raiders",
+         "short": "Raiders",
+         "abbr": "LV",
+         "score": 0,
+         "ha": "away",
+         "winner": null,
+         "linescores": [
+          0
+         ]
+        },
+        {
+         "name": "Denver Broncos",
+         "short": "Broncos",
+         "abbr": "DEN",
+         "score": 0,
+         "ha": "home",
+         "winner": null,
+         "linescores": [
+          0
+         ]
+        }
+       ]
+      },
+      "source": "espn"
+     }
+    ],
+    "sport": "NFL",
+    "ticket": "single"
+   }
+  },
+  {
+   "n": 864,
+   "league": "NFL",
+   "type": "Over/Under",
+   "matchup": "Jacksonville Jaguars @ New York Giants",
+   "pick": "Over 46.5",
+   "odds": -110,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-22T13:25:00",
+   "timed": true,
+   "ticket": "single",
+   "espn": {
+    "legs": [
+     {
+      "kind": "total",
+      "side": null,
+      "ou": "O",
+      "line": 46.5,
+      "label": "O 46.5",
+      "path": "football/nfl",
+      "event": "401873069",
+      "date": "20261122",
+      "snapshot": {
+       "source": "espn",
+       "state": "in",
+       "detail": "14:12 - 1st",
+       "start": "2026-11-22T21:25Z",
+       "period": 1,
+       "clock": "14:12",
+       "teams": [
+        {
+         "name": "Jacksonville Jaguars",
+         "short": "Jaguars",
+         "abbr": "JAX",
+         "score": 0,
+         "ha": "away",
+         "winner": null,
+         "linescores": [
+          0
+         ]
+        },
+        {
+         "name": "New York Giants",
+         "short": "Giants",
+         "abbr": "NYG",
+         "score": 0,
+         "ha": "home",
+         "winner": null,
+         "linescores": [
           0
          ]
         }
@@ -2771,10 +2451,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "1:55 - 2nd",
+       "detail": "1:32 - 2nd",
        "start": "2026-11-22T19:30Z",
        "period": 2,
-       "clock": "1:55",
+       "clock": "1:32",
        "teams": [
         {
          "name": "Robert Morris Colonials",
@@ -2792,7 +2472,7 @@
          "name": "New Mexico State Aggies",
          "short": "Aggies",
          "abbr": "NMSU",
-         "score": 54,
+         "score": 57,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -2980,6 +2660,430 @@
     ],
     "sport": "NFL",
     "ticket": "single"
+   }
+  },
+  {
+   "n": 974,
+   "league": "NFL",
+   "type": "Parlay",
+   "matchup": "2-leg parlay of SGPs: Las Vegas Raiders @ Denver Broncos + Jacksonville Jaguars @ New York Giants",
+   "pick": "Patrick Bryant 25+ receiving yds (Las Vegas Raiders @ Denver Broncos) + Jonah Coleman 50+ rushing yds (Las Vegas Raiders @ Denver Broncos) + Fernando Mendoza 1+ pass interceptions (Las Vegas Raiders @ Denver Broncos) + Jonah Coleman anytime TD (Las Vegas Raiders @ Denver Broncos) + Parker Washington anytime TD (Jacksonville Jaguars @ New York Giants) + Bhayshul Tuten anytime TD (Jacksonville Jaguars @ New York Giants) + Isaiah Likely 3+ receptions (Jacksonville Jaguars @ New York Giants) + Bhayshul Tuten 60+ rushing yds (Jacksonville Jaguars @ New York Giants) + T. Lawrence 225+ passing yds (Jacksonville Jaguars @ New York Giants)",
+   "odds": 3313,
+   "units": 0.2,
+   "gap": null,
+   "start": "2026-11-22T13:25:00",
+   "timed": true,
+   "ticket": "parlay",
+   "espn": {
+    "legs": [
+     {
+      "kind": "prop",
+      "player": "Patrick Bryant",
+      "ou": "O",
+      "line": 24.5,
+      "stat": "receiving yds",
+      "label": "Patrick Bryant O 24.5 receiving yds",
+      "path": "football/nfl",
+      "event": "401873075",
+      "date": "20261122",
+      "snapshot": {
+       "source": "espn",
+       "state": "in",
+       "detail": "14:32 - 1st",
+       "start": "2026-11-22T21:25Z",
+       "period": 1,
+       "clock": "14:32",
+       "teams": [
+        {
+         "name": "Las Vegas Raiders",
+         "short": "Raiders",
+         "abbr": "LV",
+         "score": 0,
+         "ha": "away",
+         "winner": null,
+         "linescores": [
+          0
+         ]
+        },
+        {
+         "name": "Denver Broncos",
+         "short": "Broncos",
+         "abbr": "DEN",
+         "score": 0,
+         "ha": "home",
+         "winner": null,
+         "linescores": [
+          0
+         ]
+        }
+       ],
+       "stat": null
+      },
+      "source": "espn"
+     },
+     {
+      "kind": "prop",
+      "player": "Jonah Coleman",
+      "ou": "O",
+      "line": 49.5,
+      "stat": "rushing yds",
+      "label": "Jonah Coleman O 49.5 rushing yds",
+      "path": "football/nfl",
+      "event": "401873075",
+      "date": "20261122",
+      "snapshot": {
+       "source": "espn",
+       "state": "in",
+       "detail": "14:32 - 1st",
+       "start": "2026-11-22T21:25Z",
+       "period": 1,
+       "clock": "14:32",
+       "teams": [
+        {
+         "name": "Las Vegas Raiders",
+         "short": "Raiders",
+         "abbr": "LV",
+         "score": 0,
+         "ha": "away",
+         "winner": null,
+         "linescores": [
+          0
+         ]
+        },
+        {
+         "name": "Denver Broncos",
+         "short": "Broncos",
+         "abbr": "DEN",
+         "score": 0,
+         "ha": "home",
+         "winner": null,
+         "linescores": [
+          0
+         ]
+        }
+       ],
+       "stat": null
+      },
+      "source": "espn"
+     },
+     {
+      "kind": "prop",
+      "player": "Fernando Mendoza",
+      "ou": "O",
+      "line": 0.5,
+      "stat": "pass interceptions",
+      "label": "Fernando Mendoza O 0.5 pass interceptions",
+      "path": "football/nfl",
+      "event": "401873075",
+      "date": "20261122",
+      "snapshot": {
+       "source": "espn",
+       "state": "in",
+       "detail": "14:32 - 1st",
+       "start": "2026-11-22T21:25Z",
+       "period": 1,
+       "clock": "14:32",
+       "teams": [
+        {
+         "name": "Las Vegas Raiders",
+         "short": "Raiders",
+         "abbr": "LV",
+         "score": 0,
+         "ha": "away",
+         "winner": null,
+         "linescores": [
+          0
+         ]
+        },
+        {
+         "name": "Denver Broncos",
+         "short": "Broncos",
+         "abbr": "DEN",
+         "score": 0,
+         "ha": "home",
+         "winner": null,
+         "linescores": [
+          0
+         ]
+        }
+       ],
+       "stat": null
+      },
+      "source": "espn"
+     },
+     {
+      "kind": "prop",
+      "player": "Jonah Coleman",
+      "ou": "O",
+      "line": 0.5,
+      "stat": "anytime td",
+      "label": "Jonah Coleman O 0.5 anytime td",
+      "path": "football/nfl",
+      "event": "401873075",
+      "date": "20261122",
+      "snapshot": {
+       "source": "espn",
+       "state": "in",
+       "detail": "14:32 - 1st",
+       "start": "2026-11-22T21:25Z",
+       "period": 1,
+       "clock": "14:32",
+       "teams": [
+        {
+         "name": "Las Vegas Raiders",
+         "short": "Raiders",
+         "abbr": "LV",
+         "score": 0,
+         "ha": "away",
+         "winner": null,
+         "linescores": [
+          0
+         ]
+        },
+        {
+         "name": "Denver Broncos",
+         "short": "Broncos",
+         "abbr": "DEN",
+         "score": 0,
+         "ha": "home",
+         "winner": null,
+         "linescores": [
+          0
+         ]
+        }
+       ],
+       "stat": null
+      },
+      "source": "espn"
+     },
+     {
+      "kind": "prop",
+      "player": "Parker Washington",
+      "ou": "O",
+      "line": 0.5,
+      "stat": "anytime td",
+      "label": "Parker Washington O 0.5 anytime td",
+      "path": "football/nfl",
+      "event": "401873069",
+      "date": "20261122",
+      "snapshot": {
+       "source": "espn",
+       "state": "in",
+       "detail": "14:12 - 1st",
+       "start": "2026-11-22T21:25Z",
+       "period": 1,
+       "clock": "14:12",
+       "teams": [
+        {
+         "name": "Jacksonville Jaguars",
+         "short": "Jaguars",
+         "abbr": "JAX",
+         "score": 0,
+         "ha": "away",
+         "winner": null,
+         "linescores": [
+          0
+         ]
+        },
+        {
+         "name": "New York Giants",
+         "short": "Giants",
+         "abbr": "NYG",
+         "score": 0,
+         "ha": "home",
+         "winner": null,
+         "linescores": [
+          0
+         ]
+        }
+       ],
+       "stat": null
+      },
+      "source": "espn"
+     },
+     {
+      "kind": "prop",
+      "player": "Bhayshul Tuten",
+      "ou": "O",
+      "line": 0.5,
+      "stat": "anytime td",
+      "label": "Bhayshul Tuten O 0.5 anytime td",
+      "path": "football/nfl",
+      "event": "401873069",
+      "date": "20261122",
+      "snapshot": {
+       "source": "espn",
+       "state": "in",
+       "detail": "14:12 - 1st",
+       "start": "2026-11-22T21:25Z",
+       "period": 1,
+       "clock": "14:12",
+       "teams": [
+        {
+         "name": "Jacksonville Jaguars",
+         "short": "Jaguars",
+         "abbr": "JAX",
+         "score": 0,
+         "ha": "away",
+         "winner": null,
+         "linescores": [
+          0
+         ]
+        },
+        {
+         "name": "New York Giants",
+         "short": "Giants",
+         "abbr": "NYG",
+         "score": 0,
+         "ha": "home",
+         "winner": null,
+         "linescores": [
+          0
+         ]
+        }
+       ],
+       "stat": null
+      },
+      "source": "espn"
+     },
+     {
+      "kind": "prop",
+      "player": "Isaiah Likely",
+      "ou": "O",
+      "line": 2.5,
+      "stat": "receptions",
+      "label": "Isaiah Likely O 2.5 receptions",
+      "path": "football/nfl",
+      "event": "401873069",
+      "date": "20261122",
+      "snapshot": {
+       "source": "espn",
+       "state": "in",
+       "detail": "14:12 - 1st",
+       "start": "2026-11-22T21:25Z",
+       "period": 1,
+       "clock": "14:12",
+       "teams": [
+        {
+         "name": "Jacksonville Jaguars",
+         "short": "Jaguars",
+         "abbr": "JAX",
+         "score": 0,
+         "ha": "away",
+         "winner": null,
+         "linescores": [
+          0
+         ]
+        },
+        {
+         "name": "New York Giants",
+         "short": "Giants",
+         "abbr": "NYG",
+         "score": 0,
+         "ha": "home",
+         "winner": null,
+         "linescores": [
+          0
+         ]
+        }
+       ],
+       "stat": null
+      },
+      "source": "espn"
+     },
+     {
+      "kind": "prop",
+      "player": "Bhayshul Tuten",
+      "ou": "O",
+      "line": 59.5,
+      "stat": "rushing yds",
+      "label": "Bhayshul Tuten O 59.5 rushing yds",
+      "path": "football/nfl",
+      "event": "401873069",
+      "date": "20261122",
+      "snapshot": {
+       "source": "espn",
+       "state": "in",
+       "detail": "14:12 - 1st",
+       "start": "2026-11-22T21:25Z",
+       "period": 1,
+       "clock": "14:12",
+       "teams": [
+        {
+         "name": "Jacksonville Jaguars",
+         "short": "Jaguars",
+         "abbr": "JAX",
+         "score": 0,
+         "ha": "away",
+         "winner": null,
+         "linescores": [
+          0
+         ]
+        },
+        {
+         "name": "New York Giants",
+         "short": "Giants",
+         "abbr": "NYG",
+         "score": 0,
+         "ha": "home",
+         "winner": null,
+         "linescores": [
+          0
+         ]
+        }
+       ],
+       "stat": null
+      },
+      "source": "espn"
+     },
+     {
+      "kind": "prop",
+      "player": "T. Lawrence",
+      "ou": "O",
+      "line": 224.5,
+      "stat": "passing yds",
+      "label": "T. Lawrence O 224.5 passing yds",
+      "path": "football/nfl",
+      "event": "401873069",
+      "date": "20261122",
+      "snapshot": {
+       "source": "espn",
+       "state": "in",
+       "detail": "14:12 - 1st",
+       "start": "2026-11-22T21:25Z",
+       "period": 1,
+       "clock": "14:12",
+       "teams": [
+        {
+         "name": "Jacksonville Jaguars",
+         "short": "Jaguars",
+         "abbr": "JAX",
+         "score": 0,
+         "ha": "away",
+         "winner": null,
+         "linescores": [
+          0
+         ]
+        },
+        {
+         "name": "New York Giants",
+         "short": "Giants",
+         "abbr": "NYG",
+         "score": 0,
+         "ha": "home",
+         "winner": null,
+         "linescores": [
+          0
+         ]
+        }
+       ],
+       "stat": null
+      },
+      "source": "espn"
+     }
+    ],
+    "sport": "NFL",
+    "ticket": "parlay"
    }
   }
  ],
