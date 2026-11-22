@@ -1,5 +1,5 @@
 {
- "updated": "Nov 21, 2026, 5:42 PM PT",
+ "updated": "Nov 21, 2026, 5:44 PM PT",
  "record": {
   "w": 224,
   "l": 230,
@@ -1934,16 +1934,16 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P2 05:40",
+       "detail": "P2 04:32",
        "start": "2026-11-22T00:00:00Z",
        "period": 2,
-       "clock": "05:40",
+       "clock": "04:32",
        "teams": [
         {
          "name": "Blue Jackets",
          "short": "CBJ",
          "abbr": "CBJ",
-         "score": 1,
+         "score": 2,
          "ha": "away",
          "winner": null,
          "linescores": []
@@ -2316,16 +2316,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "9:38 - 2nd",
+       "detail": "8:22 - 2nd",
        "start": "2026-11-22T00:00Z",
        "period": 2,
-       "clock": "9:38",
+       "clock": "8:22",
        "teams": [
         {
          "name": "Michigan Wolverines",
          "short": "Wolverines",
          "abbr": "MICH",
-         "score": 49,
+         "score": 52,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -2716,16 +2716,16 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P2 05:40",
+       "detail": "P2 04:32",
        "start": "2026-11-22T00:00:00Z",
        "period": 2,
-       "clock": "05:40",
+       "clock": "04:32",
        "teams": [
         {
          "name": "Blue Jackets",
          "short": "CBJ",
          "abbr": "CBJ",
-         "score": 1,
+         "score": 2,
          "ha": "away",
          "winner": null,
          "linescores": []
@@ -2851,10 +2851,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "9:53 - 2nd",
+       "detail": "9:27 - 2nd",
        "start": "2026-11-22T01:00Z",
        "period": 2,
-       "clock": "9:53",
+       "clock": "9:27",
        "teams": [
         {
          "name": "New Orleans Pelicans",
@@ -2872,7 +2872,7 @@
          "name": "San Antonio Spurs",
          "short": "Spurs",
          "abbr": "SA",
-         "score": 37,
+         "score": 38,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -2920,10 +2920,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P2 01:49",
+       "detail": "P2 00:00",
        "start": "2026-11-22T00:00:00Z",
        "period": 2,
-       "clock": "01:49",
+       "clock": "00:00",
        "teams": [
         {
          "name": "Devils",
