@@ -1,5 +1,5 @@
 {
- "updated": "Nov 22, 2026, 1:52 PM PT",
+ "updated": "Nov 22, 2026, 1:54 PM PT",
  "record": {
   "w": 239,
   "l": 237,
@@ -1147,10 +1147,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "4:23 - 1st",
+       "detail": "3:08 - 1st",
        "start": "2026-11-22T21:25Z",
        "period": 1,
-       "clock": "4:23",
+       "clock": "3:08",
        "teams": [
         {
          "name": "Las Vegas Raiders",
@@ -1411,10 +1411,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "9:31 - 2nd",
+       "detail": "8:53 - 2nd",
        "start": "2026-11-22T21:05Z",
        "period": 2,
-       "clock": "9:31",
+       "clock": "8:53",
        "teams": [
         {
          "name": "New York Jets",
@@ -1543,10 +1543,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "4:23 - 1st",
+       "detail": "3:08 - 1st",
        "start": "2026-11-22T21:25Z",
        "period": 1,
-       "clock": "4:23",
+       "clock": "3:08",
        "teams": [
         {
          "name": "Las Vegas Raiders",
@@ -1605,10 +1605,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "6:06 - 1st",
+       "detail": "5:52 - 1st",
        "start": "2026-11-22T21:25Z",
        "period": 1,
-       "clock": "6:06",
+       "clock": "5:52",
        "teams": [
         {
          "name": "Jacksonville Jaguars",
@@ -2141,10 +2141,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "9:31 - 2nd",
+       "detail": "8:53 - 2nd",
        "start": "2026-11-22T21:05Z",
        "period": 2,
-       "clock": "9:31",
+       "clock": "8:53",
        "teams": [
         {
          "name": "New York Jets",
@@ -2398,10 +2398,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "1:50 - OT",
+       "detail": "0:51 - OT",
        "start": "2026-11-22T19:30Z",
        "period": 3,
-       "clock": "1:50",
+       "clock": "0:51",
        "teams": [
         {
          "name": "Robert Morris Colonials",
@@ -2531,7 +2531,7 @@
          "name": "Albany Great Danes",
          "short": "Albany Great Danes",
          "abbr": "",
-         "score": 46,
+         "score": 48,
          "ha": "away",
          "winner": null,
          "linescores": []
@@ -2579,16 +2579,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "17:32 - 1st",
+       "detail": "15:48 - 1st",
        "start": "2026-11-22T21:30Z",
        "period": 1,
-       "clock": "17:32",
+       "clock": "15:48",
        "teams": [
         {
          "name": "Richmond Spiders",
          "short": "Spiders",
          "abbr": "RICH",
-         "score": 5,
+         "score": 7,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -2599,7 +2599,7 @@
          "name": "Liberty Flames",
          "short": "Flames",
          "abbr": "LIB",
-         "score": 0,
+         "score": 5,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -2699,10 +2699,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "4:23 - 1st",
+       "detail": "3:08 - 1st",
        "start": "2026-11-22T21:25Z",
        "period": 1,
-       "clock": "4:23",
+       "clock": "3:08",
        "teams": [
         {
          "name": "Las Vegas Raiders",
@@ -2744,10 +2744,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "4:23 - 1st",
+       "detail": "3:08 - 1st",
        "start": "2026-11-22T21:25Z",
        "period": 1,
-       "clock": "4:23",
+       "clock": "3:08",
        "teams": [
         {
          "name": "Las Vegas Raiders",
@@ -2789,10 +2789,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "4:23 - 1st",
+       "detail": "3:08 - 1st",
        "start": "2026-11-22T21:25Z",
        "period": 1,
-       "clock": "4:23",
+       "clock": "3:08",
        "teams": [
         {
          "name": "Las Vegas Raiders",
@@ -2834,10 +2834,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "4:23 - 1st",
+       "detail": "3:08 - 1st",
        "start": "2026-11-22T21:25Z",
        "period": 1,
-       "clock": "4:23",
+       "clock": "3:08",
        "teams": [
         {
          "name": "Las Vegas Raiders",
@@ -2879,10 +2879,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "6:06 - 1st",
+       "detail": "5:52 - 1st",
        "start": "2026-11-22T21:25Z",
        "period": 1,
-       "clock": "6:06",
+       "clock": "5:52",
        "teams": [
         {
          "name": "Jacksonville Jaguars",
@@ -2924,10 +2924,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "6:06 - 1st",
+       "detail": "5:52 - 1st",
        "start": "2026-11-22T21:25Z",
        "period": 1,
-       "clock": "6:06",
+       "clock": "5:52",
        "teams": [
         {
          "name": "Jacksonville Jaguars",
@@ -2969,10 +2969,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "6:06 - 1st",
+       "detail": "5:52 - 1st",
        "start": "2026-11-22T21:25Z",
        "period": 1,
-       "clock": "6:06",
+       "clock": "5:52",
        "teams": [
         {
          "name": "Jacksonville Jaguars",
@@ -3014,10 +3014,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "6:06 - 1st",
+       "detail": "5:52 - 1st",
        "start": "2026-11-22T21:25Z",
        "period": 1,
-       "clock": "6:06",
+       "clock": "5:52",
        "teams": [
         {
          "name": "Jacksonville Jaguars",
@@ -3059,10 +3059,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "6:06 - 1st",
+       "detail": "5:52 - 1st",
        "start": "2026-11-22T21:25Z",
        "period": 1,
-       "clock": "6:06",
+       "clock": "5:52",
        "teams": [
         {
          "name": "Jacksonville Jaguars",
