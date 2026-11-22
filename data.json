@@ -1,5 +1,5 @@
 {
- "updated": "Nov 22, 2026, 3:37 PM PT",
+ "updated": "Nov 22, 2026, 3:39 PM PT",
  "record": {
   "w": 239,
   "l": 237,
@@ -1500,10 +1500,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "4:02 - 3rd",
+       "detail": "3:14 - 3rd",
        "start": "2026-11-22T21:25Z",
        "period": 3,
-       "clock": "4:02",
+       "clock": "3:14",
        "teams": [
         {
          "name": "Jacksonville Jaguars",
@@ -2109,10 +2109,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P2 05:27",
+       "detail": "P2 04:27",
        "start": "2026-11-22T22:00:00Z",
        "period": 2,
-       "clock": "05:27",
+       "clock": "04:27",
        "teams": [
         {
          "name": "Sabres",
@@ -2546,16 +2546,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "0:30 - 2nd",
+       "detail": "0:17 - 2nd",
        "start": "2026-11-22T21:30Z",
        "period": 2,
-       "clock": "0:30",
+       "clock": "0:17",
        "teams": [
         {
          "name": "Richmond Spiders",
          "short": "Spiders",
          "abbr": "RICH",
-         "score": 70,
+         "score": 72,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -2864,10 +2864,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "4:02 - 3rd",
+       "detail": "3:14 - 3rd",
        "start": "2026-11-22T21:25Z",
        "period": 3,
-       "clock": "4:02",
+       "clock": "3:14",
        "teams": [
         {
          "name": "Jacksonville Jaguars",
@@ -2913,10 +2913,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "4:02 - 3rd",
+       "detail": "3:14 - 3rd",
        "start": "2026-11-22T21:25Z",
        "period": 3,
-       "clock": "4:02",
+       "clock": "3:14",
        "teams": [
         {
          "name": "Jacksonville Jaguars",
@@ -2962,10 +2962,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "4:02 - 3rd",
+       "detail": "3:14 - 3rd",
        "start": "2026-11-22T21:25Z",
        "period": 3,
-       "clock": "4:02",
+       "clock": "3:14",
        "teams": [
         {
          "name": "Jacksonville Jaguars",
@@ -3014,10 +3014,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "4:02 - 3rd",
+       "detail": "3:14 - 3rd",
        "start": "2026-11-22T21:25Z",
        "period": 3,
-       "clock": "4:02",
+       "clock": "3:14",
        "teams": [
         {
          "name": "Jacksonville Jaguars",
@@ -3063,10 +3063,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "4:02 - 3rd",
+       "detail": "3:14 - 3rd",
        "start": "2026-11-22T21:25Z",
        "period": 3,
-       "clock": "4:02",
+       "clock": "3:14",
        "teams": [
         {
          "name": "Jacksonville Jaguars",
@@ -3128,10 +3128,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P2 05:27",
+       "detail": "P2 04:27",
        "start": "2026-11-22T22:00:00Z",
        "period": 2,
-       "clock": "05:27",
+       "clock": "04:27",
        "teams": [
         {
          "name": "Sabres",
@@ -3188,10 +3188,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "End of 1st",
+       "detail": "10:55 - 2nd",
        "start": "2026-11-22T23:00Z",
-       "period": 1,
-       "clock": "0.1",
+       "period": 2,
+       "clock": "10:55",
        "teams": [
         {
          "name": "Oklahoma City Thunder",
@@ -3201,6 +3201,7 @@
          "ha": "away",
          "winner": null,
          "linescores": [
+          0,
           0
          ]
         },
@@ -3212,6 +3213,7 @@
          "ha": "home",
          "winner": null,
          "linescores": [
+          0,
           0
          ]
         }
@@ -3391,10 +3393,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "End of 1st",
+       "detail": "10:55 - 2nd",
        "start": "2026-11-22T23:00Z",
-       "period": 1,
-       "clock": "0.1",
+       "period": 2,
+       "clock": "10:55",
        "teams": [
         {
          "name": "Oklahoma City Thunder",
@@ -3404,6 +3406,7 @@
          "ha": "away",
          "winner": null,
          "linescores": [
+          0,
           0
          ]
         },
@@ -3415,6 +3418,7 @@
          "ha": "home",
          "winner": null,
          "linescores": [
+          0,
           0
          ]
         }
@@ -3458,10 +3462,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "End of 1st",
+       "detail": "10:55 - 2nd",
        "start": "2026-11-22T23:00Z",
-       "period": 1,
-       "clock": "0.1",
+       "period": 2,
+       "clock": "10:55",
        "teams": [
         {
          "name": "Oklahoma City Thunder",
@@ -3471,6 +3475,7 @@
          "ha": "away",
          "winner": null,
          "linescores": [
+          0,
           0
          ]
         },
@@ -3482,6 +3487,7 @@
          "ha": "home",
          "winner": null,
          "linescores": [
+          0,
           0
          ]
         }
