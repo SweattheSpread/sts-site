@@ -1,5 +1,5 @@
 {
- "updated": "Nov 22, 2026, 8:13 AM PT",
+ "updated": "Nov 22, 2026, 8:59 AM PT",
  "record": {
   "w": 239,
   "l": 237,
@@ -11,7 +11,7 @@
   "first": "2026-10-12",
   "last": "2026-11-21"
  },
- "pending": 31,
+ "pending": 32,
  "plays": [
   {
    "n": 334,
@@ -8121,6 +8121,22 @@
    "pick": "Chicago Bears 1st half -7",
    "odds": -120,
    "units": 7.0,
+   "result": null,
+   "pl": null,
+   "pending": true
+  },
+  {
+   "n": 965,
+   "date": "2026-11-22",
+   "day": "2026-11-22",
+   "league": "NBA",
+   "market": "player_prop",
+   "market_label": "Player Prop",
+   "ticket": "single",
+   "matchup": "Indiana Pacers @ New York Knicks",
+   "pick": "Andrew Nembhard Over 1.5 made threes",
+   "odds": -115,
+   "units": 3.0,
    "result": null,
    "pl": null,
    "pending": true

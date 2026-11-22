@@ -1,5 +1,5 @@
 {
- "updated": "Nov 22, 2026, 8:13 AM PT",
+ "updated": "Nov 22, 2026, 8:59 AM PT",
  "record": {
   "w": 239,
   "l": 237,
@@ -11,7 +11,7 @@
   "first": "2026-10-12",
   "last": "2026-11-21"
  },
- "pending": 31,
+ "pending": 32,
  "latest": [
   {
    "n": 956,
@@ -1369,6 +1369,36 @@
      }
     ],
     "sport": "NHL",
+    "ticket": "single"
+   }
+  },
+  {
+   "n": 965,
+   "league": "NBA",
+   "type": "Player Prop",
+   "matchup": "Indiana Pacers @ New York Knicks",
+   "pick": "Andrew Nembhard Over 1.5 made threes",
+   "odds": -115,
+   "units": 3.0,
+   "gap": null,
+   "start": "2026-11-22T17:10:00",
+   "timed": true,
+   "ticket": "single",
+   "espn": {
+    "legs": [
+     {
+      "kind": "prop",
+      "player": "Andrew Nembhard",
+      "ou": "O",
+      "line": 1.5,
+      "stat": "made threes",
+      "label": "Andrew Nembhard O 1.5 made threes",
+      "date": "20261122",
+      "unverified": true,
+      "reason": "Player not found in this game"
+     }
+    ],
+    "sport": "NBA",
     "ticket": "single"
    }
   },
