@@ -1,5 +1,5 @@
 {
- "updated": "Nov 21, 2026, 5:14 PM PT",
+ "updated": "Nov 21, 2026, 5:17 PM PT",
  "record": {
   "w": 224,
   "l": 230,
@@ -1811,16 +1811,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "9:18 - 2nd",
+       "detail": "8:22 - 2nd",
        "start": "2026-11-22T00:30Z",
        "period": 2,
-       "clock": "9:18",
+       "clock": "8:22",
        "teams": [
         {
          "name": "Portland Trail Blazers",
          "short": "Trail Blazers",
          "abbr": "POR",
-         "score": 30,
+         "score": 32,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -1832,7 +1832,7 @@
          "name": "New York Knicks",
          "short": "Knicks",
          "abbr": "NY",
-         "score": 44,
+         "score": 46,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -1877,10 +1877,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P3 13:15",
+       "detail": "P3 11:54",
        "start": "2026-11-21T23:00:00Z",
        "period": 3,
-       "clock": "13:15",
+       "clock": "11:54",
        "teams": [
         {
          "name": "Penguins",
@@ -1934,10 +1934,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P2 19:44",
+       "detail": "P2 18:42",
        "start": "2026-11-22T00:00:00Z",
        "period": 2,
-       "clock": "19:44",
+       "clock": "18:42",
        "teams": [
         {
          "name": "Blue Jackets",
@@ -2316,10 +2316,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "15:57 - 2nd",
+       "detail": "15:30 - 2nd",
        "start": "2026-11-22T00:00Z",
        "period": 2,
-       "clock": "15:57",
+       "clock": "15:30",
        "teams": [
         {
          "name": "Michigan Wolverines",
@@ -2337,7 +2337,7 @@
          "name": "Villanova Wildcats",
          "short": "Wildcats",
          "abbr": "VILL",
-         "score": 43,
+         "score": 45,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -2716,10 +2716,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P2 19:44",
+       "detail": "P2 18:42",
        "start": "2026-11-22T00:00:00Z",
        "period": 2,
-       "clock": "19:44",
+       "clock": "18:42",
        "teams": [
         {
          "name": "Blue Jackets",
@@ -2918,10 +2918,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P2 16:06",
+       "detail": "P2 15:23",
        "start": "2026-11-22T00:00:00Z",
        "period": 2,
-       "clock": "16:06",
+       "clock": "15:23",
        "teams": [
         {
          "name": "Devils",
@@ -2936,7 +2936,7 @@
          "name": "Blues",
          "short": "STL",
          "abbr": "STL",
-         "score": 4,
+         "score": 5,
          "ha": "home",
          "winner": null,
          "linescores": []
