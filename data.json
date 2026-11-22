@@ -1,5 +1,5 @@
 {
- "updated": "Nov 22, 2026, 1:02 PM PT",
+ "updated": "Nov 22, 2026, 1:06 PM PT",
  "record": {
   "w": 239,
   "l": 237,
@@ -127,122 +127,6 @@
   }
  ],
  "picks": [
-  {
-   "n": 861,
-   "league": "NFL",
-   "type": "Over/Under",
-   "matchup": "New York Jets @ Los Angeles Chargers",
-   "pick": "Over 41.5",
-   "odds": -108,
-   "units": 1.0,
-   "gap": null,
-   "start": "2026-11-22T13:05:00",
-   "timed": true,
-   "ticket": "single",
-   "espn": {
-    "legs": [
-     {
-      "kind": "total",
-      "side": null,
-      "ou": "O",
-      "line": 41.5,
-      "label": "O 41.5",
-      "path": "football/nfl",
-      "event": "401873074",
-      "date": "20261122",
-      "snapshot": {
-       "source": "espn",
-       "state": "pre",
-       "detail": "11/22 - 4:05 PM EST",
-       "start": "2026-11-22T21:05Z",
-       "period": null,
-       "clock": null,
-       "teams": [
-        {
-         "name": "New York Jets",
-         "short": "Jets",
-         "abbr": "NYJ",
-         "score": 0,
-         "ha": "away",
-         "winner": null,
-         "linescores": []
-        },
-        {
-         "name": "Los Angeles Chargers",
-         "short": "Chargers",
-         "abbr": "LAC",
-         "score": 0,
-         "ha": "home",
-         "winner": null,
-         "linescores": []
-        }
-       ]
-      },
-      "source": "espn"
-     }
-    ],
-    "sport": "NFL",
-    "ticket": "single"
-   }
-  },
-  {
-   "n": 958,
-   "league": "NFL",
-   "type": "Player Prop",
-   "matchup": "New York Jets @ Los Angeles Chargers",
-   "pick": "Quentin Johnston longest reception Over 15.5",
-   "odds": -110,
-   "units": 1.0,
-   "gap": null,
-   "start": "2026-11-22T13:05:00",
-   "timed": true,
-   "ticket": "single",
-   "espn": {
-    "legs": [
-     {
-      "kind": "team_total",
-      "side": "Quentin Johnston longest reception",
-      "ou": "O",
-      "line": 15.5,
-      "label": "Quentin Johnston longest reception O 15.5",
-      "path": "football/nfl",
-      "event": "401873074",
-      "date": "20261122",
-      "snapshot": {
-       "source": "espn",
-       "state": "pre",
-       "detail": "11/22 - 4:05 PM EST",
-       "start": "2026-11-22T21:05Z",
-       "period": null,
-       "clock": null,
-       "teams": [
-        {
-         "name": "New York Jets",
-         "short": "Jets",
-         "abbr": "NYJ",
-         "score": 0,
-         "ha": "away",
-         "winner": null,
-         "linescores": []
-        },
-        {
-         "name": "Los Angeles Chargers",
-         "short": "Chargers",
-         "abbr": "LAC",
-         "score": 0,
-         "ha": "home",
-         "winner": null,
-         "linescores": []
-        }
-       ]
-      },
-      "source": "espn"
-     }
-    ],
-    "sport": "NFL",
-    "ticket": "single"
-   }
-  },
   {
    "n": 856,
    "league": "NFL",
@@ -1279,11 +1163,11 @@
       "date": "20261122",
       "snapshot": {
        "source": "espn",
-       "state": "in",
-       "detail": "1:10 - 4th",
+       "state": "post",
+       "detail": "Final",
        "start": "2026-11-22T18:00Z",
-       "period": 4,
-       "clock": "1:10",
+       "period": null,
+       "clock": null,
        "teams": [
         {
          "name": "New Orleans Saints",
@@ -1291,7 +1175,7 @@
          "abbr": "NO",
          "score": 13,
          "ha": "away",
-         "winner": null,
+         "winner": false,
          "linescores": [
           0,
           0,
@@ -1305,7 +1189,7 @@
          "abbr": "CHI",
          "score": 21,
          "ha": "home",
-         "winner": null,
+         "winner": true,
          "linescores": [
           0,
           0,
@@ -1346,11 +1230,11 @@
       "date": "20261122",
       "snapshot": {
        "source": "espn",
-       "state": "in",
-       "detail": "0:31 - 4th",
+       "state": "post",
+       "detail": "Final",
        "start": "2026-11-22T18:00Z",
-       "period": 4,
-       "clock": "0:31",
+       "period": null,
+       "clock": null,
        "teams": [
         {
          "name": "Tennessee Titans",
@@ -1358,7 +1242,7 @@
          "abbr": "TEN",
          "score": 30,
          "ha": "away",
-         "winner": null,
+         "winner": false,
          "linescores": [
           0,
           0,
@@ -1372,7 +1256,7 @@
          "abbr": "DAL",
          "score": 51,
          "ha": "home",
-         "winner": null,
+         "winner": true,
          "linescores": [
           0,
           0,
@@ -1413,11 +1297,11 @@
       "date": "20261122",
       "snapshot": {
        "source": "espn",
-       "state": "in",
-       "detail": "0:35 - 4th",
+       "state": "post",
+       "detail": "Final",
        "start": "2026-11-22T18:00Z",
-       "period": 4,
-       "clock": "0:35",
+       "period": null,
+       "clock": null,
        "teams": [
         {
          "name": "Miami Dolphins",
@@ -1425,7 +1309,7 @@
          "abbr": "MIA",
          "score": 9,
          "ha": "away",
-         "winner": null,
+         "winner": false,
          "linescores": [
           0,
           0,
@@ -1439,7 +1323,7 @@
          "abbr": "BUF",
          "score": 26,
          "ha": "home",
-         "winner": null,
+         "winner": true,
          "linescores": [
           0,
           0,
@@ -1481,11 +1365,11 @@
       "date": "20261122",
       "snapshot": {
        "source": "espn",
-       "state": "in",
-       "detail": "0:35 - 4th",
+       "state": "post",
+       "detail": "Final",
        "start": "2026-11-22T18:00Z",
-       "period": 4,
-       "clock": "0:35",
+       "period": null,
+       "clock": null,
        "teams": [
         {
          "name": "Miami Dolphins",
@@ -1493,7 +1377,7 @@
          "abbr": "MIA",
          "score": 9,
          "ha": "away",
-         "winner": null,
+         "winner": false,
          "linescores": [
           0,
           0,
@@ -1507,11 +1391,73 @@
          "abbr": "BUF",
          "score": 26,
          "ha": "home",
-         "winner": null,
+         "winner": true,
          "linescores": [
           0,
           0,
           0,
+          0
+         ]
+        }
+       ]
+      },
+      "source": "espn"
+     }
+    ],
+    "sport": "NFL",
+    "ticket": "single"
+   }
+  },
+  {
+   "n": 861,
+   "league": "NFL",
+   "type": "Over/Under",
+   "matchup": "New York Jets @ Los Angeles Chargers",
+   "pick": "Over 41.5",
+   "odds": -108,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-22T13:05:00",
+   "timed": true,
+   "ticket": "single",
+   "espn": {
+    "legs": [
+     {
+      "kind": "total",
+      "side": null,
+      "ou": "O",
+      "line": 41.5,
+      "label": "O 41.5",
+      "path": "football/nfl",
+      "event": "401873074",
+      "date": "20261122",
+      "snapshot": {
+       "source": "espn",
+       "state": "in",
+       "detail": "15:00 - 1st",
+       "start": "2026-11-22T21:05Z",
+       "period": 1,
+       "clock": "15:00",
+       "teams": [
+        {
+         "name": "New York Jets",
+         "short": "Jets",
+         "abbr": "NYJ",
+         "score": 0,
+         "ha": "away",
+         "winner": null,
+         "linescores": [
+          0
+         ]
+        },
+        {
+         "name": "Los Angeles Chargers",
+         "short": "Chargers",
+         "abbr": "LAC",
+         "score": 0,
+         "ha": "home",
+         "winner": null,
+         "linescores": [
           0
          ]
         }
@@ -1617,11 +1563,11 @@
       "date": "20261122",
       "snapshot": {
        "source": "espn",
-       "state": "in",
-       "detail": "1:10 - 4th",
+       "state": "post",
+       "detail": "Final",
        "start": "2026-11-22T18:00Z",
-       "period": 4,
-       "clock": "1:10",
+       "period": null,
+       "clock": null,
        "teams": [
         {
          "name": "New Orleans Saints",
@@ -1629,7 +1575,7 @@
          "abbr": "NO",
          "score": 13,
          "ha": "away",
-         "winner": null,
+         "winner": false,
          "linescores": [
           0,
           0,
@@ -1643,7 +1589,7 @@
          "abbr": "CHI",
          "score": 21,
          "ha": "home",
-         "winner": null,
+         "winner": true,
          "linescores": [
           0,
           0,
@@ -1686,16 +1632,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "1:06 - 4th",
+       "detail": "0:08 - 4th",
        "start": "2026-11-22T18:00Z",
        "period": 4,
-       "clock": "1:06",
+       "clock": "0:08",
        "teams": [
         {
          "name": "Tampa Bay Buccaneers",
          "short": "Buccaneers",
          "abbr": "TB",
-         "score": 14,
+         "score": 21,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -1753,11 +1699,11 @@
       "date": "20261122",
       "snapshot": {
        "source": "espn",
-       "state": "in",
-       "detail": "1:10 - 4th",
+       "state": "post",
+       "detail": "Final",
        "start": "2026-11-22T18:00Z",
-       "period": 4,
-       "clock": "1:10",
+       "period": null,
+       "clock": null,
        "teams": [
         {
          "name": "New Orleans Saints",
@@ -1765,7 +1711,7 @@
          "abbr": "NO",
          "score": 13,
          "ha": "away",
-         "winner": null,
+         "winner": false,
          "linescores": [
           0,
           0,
@@ -1779,7 +1725,7 @@
          "abbr": "CHI",
          "score": 21,
          "ha": "home",
-         "winner": null,
+         "winner": true,
          "linescores": [
           0,
           0,
@@ -1821,11 +1767,11 @@
       "date": "20261122",
       "snapshot": {
        "source": "espn",
-       "state": "in",
-       "detail": "0:31 - 4th",
+       "state": "post",
+       "detail": "Final",
        "start": "2026-11-22T18:00Z",
-       "period": 4,
-       "clock": "0:31",
+       "period": null,
+       "clock": null,
        "teams": [
         {
          "name": "Tennessee Titans",
@@ -1833,7 +1779,7 @@
          "abbr": "TEN",
          "score": 30,
          "ha": "away",
-         "winner": null,
+         "winner": false,
          "linescores": [
           0,
           0,
@@ -1847,7 +1793,7 @@
          "abbr": "DAL",
          "score": 51,
          "ha": "home",
-         "winner": null,
+         "winner": true,
          "linescores": [
           0,
           0,
@@ -1889,11 +1835,11 @@
       "date": "20261122",
       "snapshot": {
        "source": "espn",
-       "state": "in",
-       "detail": "0:31 - 4th",
+       "state": "post",
+       "detail": "Final",
        "start": "2026-11-22T18:00Z",
-       "period": 4,
-       "clock": "0:31",
+       "period": null,
+       "clock": null,
        "teams": [
         {
          "name": "Tennessee Titans",
@@ -1901,7 +1847,7 @@
          "abbr": "TEN",
          "score": 30,
          "ha": "away",
-         "winner": null,
+         "winner": false,
          "linescores": [
           0,
           0,
@@ -1915,7 +1861,7 @@
          "abbr": "DAL",
          "score": 51,
          "ha": "home",
-         "winner": null,
+         "winner": true,
          "linescores": [
           0,
           0,
@@ -1956,10 +1902,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "1:21 - 4th",
+       "detail": "1:16 - 4th",
        "start": "2026-11-22T18:00Z",
        "period": 4,
-       "clock": "1:21",
+       "clock": "1:16",
        "teams": [
         {
          "name": "Pittsburgh Steelers",
@@ -2024,16 +1970,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "1:06 - 4th",
+       "detail": "0:08 - 4th",
        "start": "2026-11-22T18:00Z",
        "period": 4,
-       "clock": "1:06",
+       "clock": "0:08",
        "teams": [
         {
          "name": "Tampa Bay Buccaneers",
          "short": "Buccaneers",
          "abbr": "TB",
-         "score": 14,
+         "score": 21,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -2067,6 +2013,68 @@
    }
   },
   {
+   "n": 958,
+   "league": "NFL",
+   "type": "Player Prop",
+   "matchup": "New York Jets @ Los Angeles Chargers",
+   "pick": "Quentin Johnston longest reception Over 15.5",
+   "odds": -110,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-22T13:05:00",
+   "timed": true,
+   "ticket": "single",
+   "espn": {
+    "legs": [
+     {
+      "kind": "team_total",
+      "side": "Quentin Johnston longest reception",
+      "ou": "O",
+      "line": 15.5,
+      "label": "Quentin Johnston longest reception O 15.5",
+      "path": "football/nfl",
+      "event": "401873074",
+      "date": "20261122",
+      "snapshot": {
+       "source": "espn",
+       "state": "in",
+       "detail": "15:00 - 1st",
+       "start": "2026-11-22T21:05Z",
+       "period": 1,
+       "clock": "15:00",
+       "teams": [
+        {
+         "name": "New York Jets",
+         "short": "Jets",
+         "abbr": "NYJ",
+         "score": 0,
+         "ha": "away",
+         "winner": null,
+         "linescores": [
+          0
+         ]
+        },
+        {
+         "name": "Los Angeles Chargers",
+         "short": "Chargers",
+         "abbr": "LAC",
+         "score": 0,
+         "ha": "home",
+         "winner": null,
+         "linescores": [
+          0
+         ]
+        }
+       ]
+      },
+      "source": "espn"
+     }
+    ],
+    "sport": "NFL",
+    "ticket": "single"
+   }
+  },
+  {
    "n": 960,
    "league": "NFL",
    "type": "Player Prop",
@@ -2087,49 +2095,36 @@
       "line": 0.5,
       "stat": "anytime td",
       "label": "Khalil Shakir O 0.5 anytime td",
-      "path": "football/nfl",
-      "event": "401873070",
       "date": "20261122",
+      "unverified": true,
+      "reason": "Player not found in this game",
       "snapshot": {
-       "source": "espn",
-       "state": "in",
-       "detail": "0:35 - 4th",
-       "start": "2026-11-22T18:00Z",
-       "period": 4,
-       "clock": "0:35",
+       "source": "odds-api",
+       "state": "post",
+       "detail": "Final",
+       "start": "2026-11-22T18:02:44Z",
        "teams": [
         {
          "name": "Miami Dolphins",
-         "short": "Dolphins",
-         "abbr": "MIA",
+         "short": "Miami Dolphins",
+         "abbr": "",
          "score": 9,
          "ha": "away",
-         "winner": null,
-         "linescores": [
-          0,
-          0,
-          0,
-          0
-         ]
+         "winner": false,
+         "linescores": []
         },
         {
          "name": "Buffalo Bills",
-         "short": "Bills",
-         "abbr": "BUF",
+         "short": "Buffalo Bills",
+         "abbr": "",
          "score": 26,
          "ha": "home",
-         "winner": null,
-         "linescores": [
-          0,
-          0,
-          0,
-          0
-         ]
+         "winner": true,
+         "linescores": []
         }
-       ],
-       "stat": null
+       ]
       },
-      "source": "espn"
+      "source": "odds-api"
      }
     ],
     "sport": "NFL",
@@ -2162,10 +2157,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "4:01 - 4th",
+       "detail": "1:58 - 4th",
        "start": "2026-11-22T18:00Z",
        "period": 4,
-       "clock": "4:01",
+       "clock": "1:58",
        "teams": [
         {
          "name": "Baltimore Ravens",
@@ -2229,11 +2224,11 @@
       "date": "20261122",
       "snapshot": {
        "source": "espn",
-       "state": "in",
-       "detail": "1:10 - 4th",
+       "state": "post",
+       "detail": "Final",
        "start": "2026-11-22T18:00Z",
-       "period": 4,
-       "clock": "1:10",
+       "period": null,
+       "clock": null,
        "teams": [
         {
          "name": "New Orleans Saints",
@@ -2241,7 +2236,7 @@
          "abbr": "NO",
          "score": 13,
          "ha": "away",
-         "winner": null,
+         "winner": false,
          "linescores": [
           0,
           0,
@@ -2255,7 +2250,7 @@
          "abbr": "CHI",
          "score": 21,
          "ha": "home",
-         "winner": null,
+         "winner": true,
          "linescores": [
           0,
           0,
@@ -2298,16 +2293,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "7:12 - 2nd",
+       "detail": "6:16 - 2nd",
        "start": "2026-11-22T19:30Z",
        "period": 2,
-       "clock": "7:12",
+       "clock": "6:16",
        "teams": [
         {
          "name": "Robert Morris Colonials",
          "short": "Colonials",
          "abbr": "RMU",
-         "score": 60,
+         "score": 62,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -2319,7 +2314,7 @@
          "name": "New Mexico State Aggies",
          "short": "Aggies",
          "abbr": "NMSU",
-         "score": 40,
+         "score": 41,
          "ha": "home",
          "winner": null,
          "linescores": [
