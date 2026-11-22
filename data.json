@@ -1,5 +1,5 @@
 {
- "updated": "Nov 22, 2026, 12:54 PM PT",
+ "updated": "Nov 22, 2026, 12:57 PM PT",
  "record": {
   "w": 239,
   "l": 237,
@@ -1280,10 +1280,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "3:16 - 4th",
+       "detail": "2:35 - 4th",
        "start": "2026-11-22T18:00Z",
        "period": 4,
-       "clock": "3:16",
+       "clock": "2:35",
        "teams": [
         {
          "name": "New Orleans Saints",
@@ -1347,10 +1347,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "2:12 - 4th",
+       "detail": "2:00 - 4th",
        "start": "2026-11-22T18:00Z",
        "period": 4,
-       "clock": "2:12",
+       "clock": "2:00",
        "teams": [
         {
          "name": "Tennessee Titans",
@@ -1414,10 +1414,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "2:00 - 4th",
+       "detail": "1:57 - 4th",
        "start": "2026-11-22T18:00Z",
        "period": 4,
-       "clock": "2:00",
+       "clock": "1:57",
        "teams": [
         {
          "name": "Miami Dolphins",
@@ -1437,7 +1437,7 @@
          "name": "Buffalo Bills",
          "short": "Bills",
          "abbr": "BUF",
-         "score": 23,
+         "score": 26,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -1482,10 +1482,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "2:00 - 4th",
+       "detail": "1:57 - 4th",
        "start": "2026-11-22T18:00Z",
        "period": 4,
-       "clock": "2:00",
+       "clock": "1:57",
        "teams": [
         {
          "name": "Miami Dolphins",
@@ -1505,7 +1505,7 @@
          "name": "Buffalo Bills",
          "short": "Bills",
          "abbr": "BUF",
-         "score": 23,
+         "score": 26,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -1618,10 +1618,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "3:16 - 4th",
+       "detail": "2:35 - 4th",
        "start": "2026-11-22T18:00Z",
        "period": 4,
-       "clock": "3:16",
+       "clock": "2:35",
        "teams": [
         {
          "name": "New Orleans Saints",
@@ -1686,10 +1686,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "2:00 - 4th",
+       "detail": "1:55 - 4th",
        "start": "2026-11-22T18:00Z",
        "period": 4,
-       "clock": "2:00",
+       "clock": "1:55",
        "teams": [
         {
          "name": "Tampa Bay Buccaneers",
@@ -1754,10 +1754,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "3:16 - 4th",
+       "detail": "2:35 - 4th",
        "start": "2026-11-22T18:00Z",
        "period": 4,
-       "clock": "3:16",
+       "clock": "2:35",
        "teams": [
         {
          "name": "New Orleans Saints",
@@ -1822,10 +1822,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "2:12 - 4th",
+       "detail": "2:00 - 4th",
        "start": "2026-11-22T18:00Z",
        "period": 4,
-       "clock": "2:12",
+       "clock": "2:00",
        "teams": [
         {
          "name": "Tennessee Titans",
@@ -1890,10 +1890,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "2:12 - 4th",
+       "detail": "2:00 - 4th",
        "start": "2026-11-22T18:00Z",
        "period": 4,
-       "clock": "2:12",
+       "clock": "2:00",
        "teams": [
         {
          "name": "Tennessee Titans",
@@ -1956,10 +1956,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "2:10 - 4th",
+       "detail": "1:56 - 4th",
        "start": "2026-11-22T18:00Z",
        "period": 4,
-       "clock": "2:10",
+       "clock": "1:56",
        "teams": [
         {
          "name": "Pittsburgh Steelers",
@@ -2024,10 +2024,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "2:00 - 4th",
+       "detail": "1:55 - 4th",
        "start": "2026-11-22T18:00Z",
        "period": 4,
-       "clock": "2:00",
+       "clock": "1:55",
        "teams": [
         {
          "name": "Tampa Bay Buccaneers",
@@ -2093,10 +2093,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "2:00 - 4th",
+       "detail": "1:57 - 4th",
        "start": "2026-11-22T18:00Z",
        "period": 4,
-       "clock": "2:00",
+       "clock": "1:57",
        "teams": [
         {
          "name": "Miami Dolphins",
@@ -2116,7 +2116,7 @@
          "name": "Buffalo Bills",
          "short": "Bills",
          "abbr": "BUF",
-         "score": 23,
+         "score": 26,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -2171,7 +2171,7 @@
          "name": "Baltimore Ravens",
          "short": "Ravens",
          "abbr": "BAL",
-         "score": 32,
+         "score": 33,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -2230,10 +2230,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "3:16 - 4th",
+       "detail": "2:35 - 4th",
        "start": "2026-11-22T18:00Z",
        "period": 4,
-       "clock": "3:16",
+       "clock": "2:35",
        "teams": [
         {
          "name": "New Orleans Saints",
@@ -2298,10 +2298,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "10:06 - 2nd",
+       "detail": "9:34 - 2nd",
        "start": "2026-11-22T19:30Z",
        "period": 2,
-       "clock": "10:06",
+       "clock": "9:34",
        "teams": [
         {
          "name": "Robert Morris Colonials",
@@ -2319,7 +2319,7 @@
          "name": "New Mexico State Aggies",
          "short": "Aggies",
          "abbr": "NMSU",
-         "score": 31,
+         "score": 35,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -2361,10 +2361,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "0:07 - 2nd",
+       "detail": "End of 2nd",
        "start": "2026-11-22T19:00Z",
        "period": 2,
-       "clock": "0:07",
+       "clock": "0:00",
        "teams": [
         {
          "name": "South Dakota Coyotes",
@@ -2429,7 +2429,7 @@
          "name": "Albany Great Danes",
          "short": "Albany Great Danes",
          "abbr": "",
-         "score": 15,
+         "score": 17,
          "ha": "away",
          "winner": null,
          "linescores": []
@@ -2438,7 +2438,7 @@
          "name": "Mercyhurst Lakers",
          "short": "Mercyhurst Lakers",
          "abbr": "",
-         "score": 18,
+         "score": 23,
          "ha": "home",
          "winner": null,
          "linescores": []
