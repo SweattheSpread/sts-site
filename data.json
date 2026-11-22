@@ -1,5 +1,5 @@
 {
- "updated": "Nov 22, 2026, 1:47 PM PT",
+ "updated": "Nov 22, 2026, 1:50 PM PT",
  "record": {
   "w": 239,
   "l": 237,
@@ -1411,10 +1411,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "12:01 - 2nd",
+       "detail": "10:02 - 2nd",
        "start": "2026-11-22T21:05Z",
        "period": 2,
-       "clock": "12:01",
+       "clock": "10:02",
        "teams": [
         {
          "name": "New York Jets",
@@ -1605,10 +1605,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "6:52 - 1st",
+       "detail": "6:06 - 1st",
        "start": "2026-11-22T21:25Z",
        "period": 1,
-       "clock": "6:52",
+       "clock": "6:06",
        "teams": [
         {
          "name": "Jacksonville Jaguars",
@@ -1625,7 +1625,7 @@
          "name": "New York Giants",
          "short": "Giants",
          "abbr": "NYG",
-         "score": 0,
+         "score": 3,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -2141,10 +2141,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "12:01 - 2nd",
+       "detail": "10:02 - 2nd",
        "start": "2026-11-22T21:05Z",
        "period": 2,
-       "clock": "12:01",
+       "clock": "10:02",
        "teams": [
         {
          "name": "New York Jets",
@@ -2398,16 +2398,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "3:26 - OT",
+       "detail": "2:21 - OT",
        "start": "2026-11-22T19:30Z",
        "period": 3,
-       "clock": "3:26",
+       "clock": "2:21",
        "teams": [
         {
          "name": "Robert Morris Colonials",
          "short": "Colonials",
          "abbr": "RMU",
-         "score": 73,
+         "score": 76,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -2420,7 +2420,7 @@
          "name": "New Mexico State Aggies",
          "short": "Aggies",
          "abbr": "NMSU",
-         "score": 73,
+         "score": 74,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -2531,7 +2531,7 @@
          "name": "Albany Great Danes",
          "short": "Albany Great Danes",
          "abbr": "",
-         "score": 42,
+         "score": 46,
          "ha": "away",
          "winner": null,
          "linescores": []
@@ -2540,7 +2540,7 @@
          "name": "Mercyhurst Lakers",
          "short": "Mercyhurst Lakers",
          "abbr": "",
-         "score": 47,
+         "score": 49,
          "ha": "home",
          "winner": null,
          "linescores": []
@@ -2578,20 +2578,22 @@
       "date": "20261122",
       "snapshot": {
        "source": "espn",
-       "state": "pre",
-       "detail": "11/22 - 4:30 PM EST",
+       "state": "in",
+       "detail": "18:59 - 1st",
        "start": "2026-11-22T21:30Z",
-       "period": null,
-       "clock": null,
+       "period": 1,
+       "clock": "18:59",
        "teams": [
         {
          "name": "Richmond Spiders",
          "short": "Spiders",
          "abbr": "RICH",
-         "score": 0,
+         "score": 3,
          "ha": "away",
          "winner": null,
-         "linescores": []
+         "linescores": [
+          0
+         ]
         },
         {
          "name": "Liberty Flames",
@@ -2600,7 +2602,9 @@
          "score": 0,
          "ha": "home",
          "winner": null,
-         "linescores": []
+         "linescores": [
+          0
+         ]
         }
        ]
       },
@@ -2875,10 +2879,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "6:52 - 1st",
+       "detail": "6:06 - 1st",
        "start": "2026-11-22T21:25Z",
        "period": 1,
-       "clock": "6:52",
+       "clock": "6:06",
        "teams": [
         {
          "name": "Jacksonville Jaguars",
@@ -2895,7 +2899,7 @@
          "name": "New York Giants",
          "short": "Giants",
          "abbr": "NYG",
-         "score": 0,
+         "score": 3,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -2920,10 +2924,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "6:52 - 1st",
+       "detail": "6:06 - 1st",
        "start": "2026-11-22T21:25Z",
        "period": 1,
-       "clock": "6:52",
+       "clock": "6:06",
        "teams": [
         {
          "name": "Jacksonville Jaguars",
@@ -2940,7 +2944,7 @@
          "name": "New York Giants",
          "short": "Giants",
          "abbr": "NYG",
-         "score": 0,
+         "score": 3,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -2965,10 +2969,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "6:52 - 1st",
+       "detail": "6:06 - 1st",
        "start": "2026-11-22T21:25Z",
        "period": 1,
-       "clock": "6:52",
+       "clock": "6:06",
        "teams": [
         {
          "name": "Jacksonville Jaguars",
@@ -2985,7 +2989,7 @@
          "name": "New York Giants",
          "short": "Giants",
          "abbr": "NYG",
-         "score": 0,
+         "score": 3,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -3010,10 +3014,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "6:52 - 1st",
+       "detail": "6:06 - 1st",
        "start": "2026-11-22T21:25Z",
        "period": 1,
-       "clock": "6:52",
+       "clock": "6:06",
        "teams": [
         {
          "name": "Jacksonville Jaguars",
@@ -3030,7 +3034,7 @@
          "name": "New York Giants",
          "short": "Giants",
          "abbr": "NYG",
-         "score": 0,
+         "score": 3,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -3055,10 +3059,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "6:52 - 1st",
+       "detail": "6:06 - 1st",
        "start": "2026-11-22T21:25Z",
        "period": 1,
-       "clock": "6:52",
+       "clock": "6:06",
        "teams": [
         {
          "name": "Jacksonville Jaguars",
@@ -3075,7 +3079,7 @@
          "name": "New York Giants",
          "short": "Giants",
          "abbr": "NYG",
-         "score": 0,
+         "score": 3,
          "ha": "home",
          "winner": null,
          "linescores": [
