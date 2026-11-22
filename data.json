@@ -1,5 +1,5 @@
 {
- "updated": "Nov 22, 2026, 1:50 PM PT",
+ "updated": "Nov 22, 2026, 1:52 PM PT",
  "record": {
   "w": 239,
   "l": 237,
@@ -1147,10 +1147,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "5:41 - 1st",
+       "detail": "4:23 - 1st",
        "start": "2026-11-22T21:25Z",
        "period": 1,
-       "clock": "5:41",
+       "clock": "4:23",
        "teams": [
         {
          "name": "Las Vegas Raiders",
@@ -1411,10 +1411,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "10:02 - 2nd",
+       "detail": "9:31 - 2nd",
        "start": "2026-11-22T21:05Z",
        "period": 2,
-       "clock": "10:02",
+       "clock": "9:31",
        "teams": [
         {
          "name": "New York Jets",
@@ -1543,10 +1543,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "5:41 - 1st",
+       "detail": "4:23 - 1st",
        "start": "2026-11-22T21:25Z",
        "period": 1,
-       "clock": "5:41",
+       "clock": "4:23",
        "teams": [
         {
          "name": "Las Vegas Raiders",
@@ -2141,10 +2141,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "10:02 - 2nd",
+       "detail": "9:31 - 2nd",
        "start": "2026-11-22T21:05Z",
        "period": 2,
-       "clock": "10:02",
+       "clock": "9:31",
        "teams": [
         {
          "name": "New York Jets",
@@ -2398,16 +2398,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "2:21 - OT",
+       "detail": "1:50 - OT",
        "start": "2026-11-22T19:30Z",
        "period": 3,
-       "clock": "2:21",
+       "clock": "1:50",
        "teams": [
         {
          "name": "Robert Morris Colonials",
          "short": "Colonials",
          "abbr": "RMU",
-         "score": 76,
+         "score": 79,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -2420,7 +2420,7 @@
          "name": "New Mexico State Aggies",
          "short": "Aggies",
          "abbr": "NMSU",
-         "score": 74,
+         "score": 76,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -2579,16 +2579,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "18:59 - 1st",
+       "detail": "17:32 - 1st",
        "start": "2026-11-22T21:30Z",
        "period": 1,
-       "clock": "18:59",
+       "clock": "17:32",
        "teams": [
         {
          "name": "Richmond Spiders",
          "short": "Spiders",
          "abbr": "RICH",
-         "score": 3,
+         "score": 5,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -2699,10 +2699,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "5:41 - 1st",
+       "detail": "4:23 - 1st",
        "start": "2026-11-22T21:25Z",
        "period": 1,
-       "clock": "5:41",
+       "clock": "4:23",
        "teams": [
         {
          "name": "Las Vegas Raiders",
@@ -2744,10 +2744,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "5:41 - 1st",
+       "detail": "4:23 - 1st",
        "start": "2026-11-22T21:25Z",
        "period": 1,
-       "clock": "5:41",
+       "clock": "4:23",
        "teams": [
         {
          "name": "Las Vegas Raiders",
@@ -2789,10 +2789,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "5:41 - 1st",
+       "detail": "4:23 - 1st",
        "start": "2026-11-22T21:25Z",
        "period": 1,
-       "clock": "5:41",
+       "clock": "4:23",
        "teams": [
         {
          "name": "Las Vegas Raiders",
@@ -2834,10 +2834,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "5:41 - 1st",
+       "detail": "4:23 - 1st",
        "start": "2026-11-22T21:25Z",
        "period": 1,
-       "clock": "5:41",
+       "clock": "4:23",
        "teams": [
         {
          "name": "Las Vegas Raiders",
