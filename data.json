@@ -1,5 +1,5 @@
 {
- "updated": "Nov 21, 2026, 4:12 PM PT",
+ "updated": "Nov 21, 2026, 4:15 PM PT",
  "record": {
   "w": 224,
   "l": 230,
@@ -1868,10 +1868,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P2 17:35",
+       "detail": "P2 16:47",
        "start": "2026-11-21T23:00:00Z",
        "period": 2,
-       "clock": "17:35",
+       "clock": "16:47",
        "teams": [
         {
          "name": "Penguins",
@@ -1924,11 +1924,11 @@
       "date": "20261121",
       "snapshot": {
        "source": "nhl",
-       "state": "pre",
-       "detail": "Scheduled",
+       "state": "in",
+       "detail": "P1 20:00",
        "start": "2026-11-22T00:00:00Z",
-       "period": null,
-       "clock": null,
+       "period": 1,
+       "clock": "20:00",
        "teams": [
         {
          "name": "Blue Jackets",
@@ -2307,10 +2307,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "14:04 - 1st",
+       "detail": "13:09 - 1st",
        "start": "2026-11-22T00:00Z",
        "period": 1,
-       "clock": "14:04",
+       "clock": "13:09",
        "teams": [
         {
          "name": "Michigan Wolverines",
@@ -2327,7 +2327,7 @@
          "name": "Villanova Wildcats",
          "short": "Wildcats",
          "abbr": "VILL",
-         "score": 10,
+         "score": 12,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -2699,16 +2699,16 @@
       "line": 0.5,
       "stat": "points",
       "label": "Jack Roslovic O 0.5 points",
+      "path": "hockey/nhl",
+      "event": "401892759",
       "date": "20261121",
-      "unverified": true,
-      "reason": "Player not found in this game",
       "snapshot": {
        "source": "nhl",
-       "state": "pre",
-       "detail": "Scheduled",
+       "state": "in",
+       "detail": "P1 20:00",
        "start": "2026-11-22T00:00:00Z",
-       "period": null,
-       "clock": null,
+       "period": 1,
+       "clock": "20:00",
        "teams": [
         {
          "name": "Blue Jackets",
@@ -2729,7 +2729,11 @@
          "linescores": []
         }
        ],
-       "nhl_id": 2026020364
+       "nhl_id": 2026020364,
+       "stat": {
+        "v": 0,
+        "name": "J. Roslovic"
+       }
       },
       "source": "nhl"
      }
@@ -2834,10 +2838,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P1 18:09",
+       "detail": "P1 17:47",
        "start": "2026-11-22T00:00:00Z",
        "period": 1,
-       "clock": "18:09",
+       "clock": "17:47",
        "teams": [
         {
          "name": "Devils",
@@ -2852,7 +2856,7 @@
          "name": "Blues",
          "short": "STL",
          "abbr": "STL",
-         "score": 1,
+         "score": 2,
          "ha": "home",
          "winner": null,
          "linescores": []
