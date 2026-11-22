@@ -1,5 +1,5 @@
 {
- "updated": "Nov 22, 2026, 1:06 PM PT",
+ "updated": "Nov 22, 2026, 1:08 PM PT",
  "record": {
   "w": 239,
   "l": 237,
@@ -1434,10 +1434,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "15:00 - 1st",
+       "detail": "13:12 - 1st",
        "start": "2026-11-22T21:05Z",
        "period": 1,
-       "clock": "15:00",
+       "clock": "13:12",
        "teams": [
         {
          "name": "New York Jets",
@@ -1632,10 +1632,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "0:08 - 4th",
+       "detail": "0:07 - 4th",
        "start": "2026-11-22T18:00Z",
        "period": 4,
-       "clock": "0:08",
+       "clock": "0:07",
        "teams": [
         {
          "name": "Tampa Bay Buccaneers",
@@ -1902,10 +1902,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "1:16 - 4th",
+       "detail": "1:09 - 4th",
        "start": "2026-11-22T18:00Z",
        "period": 4,
-       "clock": "1:16",
+       "clock": "1:09",
        "teams": [
         {
          "name": "Pittsburgh Steelers",
@@ -1970,10 +1970,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "0:08 - 4th",
+       "detail": "0:07 - 4th",
        "start": "2026-11-22T18:00Z",
        "period": 4,
-       "clock": "0:08",
+       "clock": "0:07",
        "teams": [
         {
          "name": "Tampa Bay Buccaneers",
@@ -2038,10 +2038,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "15:00 - 1st",
+       "detail": "13:12 - 1st",
        "start": "2026-11-22T21:05Z",
        "period": 1,
-       "clock": "15:00",
+       "clock": "13:12",
        "teams": [
         {
          "name": "New York Jets",
@@ -2157,10 +2157,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "1:58 - 4th",
+       "detail": "1:51 - 4th",
        "start": "2026-11-22T18:00Z",
        "period": 4,
-       "clock": "1:58",
+       "clock": "1:51",
        "teams": [
         {
          "name": "Baltimore Ravens",
@@ -2293,10 +2293,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "6:16 - 2nd",
+       "detail": "5:42 - 2nd",
        "start": "2026-11-22T19:30Z",
        "period": 2,
-       "clock": "6:16",
+       "clock": "5:42",
        "teams": [
         {
          "name": "Robert Morris Colonials",
@@ -2314,7 +2314,7 @@
          "name": "New Mexico State Aggies",
          "short": "Aggies",
          "abbr": "NMSU",
-         "score": 41,
+         "score": 44,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -2424,7 +2424,7 @@
          "name": "Albany Great Danes",
          "short": "Albany Great Danes",
          "abbr": "",
-         "score": 20,
+         "score": 25,
          "ha": "away",
          "winner": null,
          "linescores": []
@@ -2433,7 +2433,7 @@
          "name": "Mercyhurst Lakers",
          "short": "Mercyhurst Lakers",
          "abbr": "",
-         "score": 23,
+         "score": 25,
          "ha": "home",
          "winner": null,
          "linescores": []
