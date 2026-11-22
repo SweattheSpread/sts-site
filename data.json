@@ -1,5 +1,5 @@
 {
- "updated": "Nov 21, 2026, 4:38 PM PT",
+ "updated": "Nov 21, 2026, 4:40 PM PT",
  "record": {
   "w": 224,
   "l": 230,
@@ -242,36 +242,6 @@
     ],
     "sport": "NCAAF",
     "ticket": "parlay"
-   }
-  },
-  {
-   "n": 935,
-   "league": "NBA",
-   "type": "Player Prop",
-   "matchup": "Portland Trail Blazers @ New York Knicks",
-   "pick": "Jalen Brunson Over 2.5 rebounds",
-   "odds": -120,
-   "units": 1.0,
-   "gap": null,
-   "start": "2026-11-21T16:40:00",
-   "timed": true,
-   "ticket": "single",
-   "espn": {
-    "legs": [
-     {
-      "kind": "prop",
-      "player": "Jalen Brunson",
-      "ou": "O",
-      "line": 2.5,
-      "stat": "rebounds",
-      "label": "Jalen Brunson O 2.5 rebounds",
-      "date": "20261121",
-      "unverified": true,
-      "reason": "Player not found in this game"
-     }
-    ],
-    "sport": "NBA",
-    "ticket": "single"
    }
   },
   {
@@ -1845,6 +1815,63 @@
    }
   },
   {
+   "n": 935,
+   "league": "NBA",
+   "type": "Player Prop",
+   "matchup": "Portland Trail Blazers @ New York Knicks",
+   "pick": "Jalen Brunson Over 2.5 rebounds",
+   "odds": -120,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-21T16:40:00",
+   "timed": true,
+   "ticket": "single",
+   "espn": {
+    "legs": [
+     {
+      "kind": "prop",
+      "player": "Jalen Brunson",
+      "ou": "O",
+      "line": 2.5,
+      "stat": "rebounds",
+      "label": "Jalen Brunson O 2.5 rebounds",
+      "date": "20261121",
+      "unverified": true,
+      "reason": "Player not found in this game",
+      "snapshot": {
+       "source": "odds-api",
+       "state": "pre",
+       "detail": "Scheduled",
+       "start": "2026-11-22T00:42:00Z",
+       "teams": [
+        {
+         "name": "Portland Trail Blazers",
+         "short": "Portland Trail Blazers",
+         "abbr": "",
+         "score": 0,
+         "ha": "away",
+         "winner": null,
+         "linescores": []
+        },
+        {
+         "name": "New York Knicks",
+         "short": "New York Knicks",
+         "abbr": "",
+         "score": 0,
+         "ha": "home",
+         "winner": null,
+         "linescores": []
+        }
+       ]
+      },
+      "source": "odds-api"
+     }
+    ],
+    "sport": "NBA",
+    "ticket": "single"
+   }
+  },
+  {
    "n": 936,
    "league": "NHL",
    "type": "Moneyline",
@@ -1868,10 +1895,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P2 04:48",
+       "detail": "P2 03:35",
        "start": "2026-11-21T23:00:00Z",
        "period": 2,
-       "clock": "04:48",
+       "clock": "03:35",
        "teams": [
         {
          "name": "Penguins",
@@ -1925,10 +1952,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P1 08:11",
+       "detail": "P1 07:38",
        "start": "2026-11-22T00:00:00Z",
        "period": 1,
-       "clock": "08:11",
+       "clock": "07:38",
        "teams": [
         {
          "name": "Blue Jackets",
@@ -2307,10 +2334,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "4:15 - 1st",
+       "detail": "3:32 - 1st",
        "start": "2026-11-22T00:00Z",
        "period": 1,
-       "clock": "4:15",
+       "clock": "3:32",
        "teams": [
         {
          "name": "Michigan Wolverines",
@@ -2327,7 +2354,7 @@
          "name": "Villanova Wildcats",
          "short": "Wildcats",
          "abbr": "VILL",
-         "score": 23,
+         "score": 28,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -2705,10 +2732,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P1 08:11",
+       "detail": "P1 07:38",
        "start": "2026-11-22T00:00:00Z",
        "period": 1,
-       "clock": "08:11",
+       "clock": "07:38",
        "teams": [
         {
          "name": "Blue Jackets",
@@ -2840,10 +2867,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P1 06:10",
+       "detail": "P1 04:33",
        "start": "2026-11-22T00:00:00Z",
        "period": 1,
-       "clock": "06:10",
+       "clock": "04:33",
        "teams": [
         {
          "name": "Devils",
