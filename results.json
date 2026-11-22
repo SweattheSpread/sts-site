@@ -1,5 +1,5 @@
 {
- "updated": "Nov 22, 2026, 2:36 PM PT",
+ "updated": "Nov 22, 2026, 2:38 PM PT",
  "record": {
   "w": 239,
   "l": 237,
@@ -11,7 +11,7 @@
   "first": "2026-10-12",
   "last": "2026-11-21"
  },
- "pending": 44,
+ "pending": 45,
  "plays": [
   {
    "n": 334,
@@ -8329,6 +8329,22 @@
    "pick": "Ashton Jeanty Over 29.5 Rushing Yards, live",
    "odds": -110,
    "units": 10.0,
+   "result": null,
+   "pl": null,
+   "pending": true
+  },
+  {
+   "n": 978,
+   "date": "2026-11-22",
+   "day": "2026-11-22",
+   "league": "NFL",
+   "market": "player_prop",
+   "market_label": "Player Prop",
+   "ticket": "single",
+   "matchup": "Las Vegas Raiders @ Denver Broncos",
+   "pick": "Ashton Jeanty Over 99.5 Rushing Yards, live",
+   "odds": 550,
+   "units": 0.5,
    "result": null,
    "pl": null,
    "pending": true
