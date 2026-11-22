@@ -1,5 +1,5 @@
 {
- "updated": "Nov 21, 2026, 8:33 PM PT",
+ "updated": "Nov 21, 2026, 8:36 PM PT",
  "record": {
   "w": 224,
   "l": 230,
@@ -1821,10 +1821,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P3 01:39",
+       "detail": "P3 00:13",
        "start": "2026-11-22T02:00:00Z",
        "period": 3,
-       "clock": "01:39",
+       "clock": "00:13",
        "teams": [
         {
          "name": "Ducks",
@@ -1839,7 +1839,7 @@
          "name": "Mammoth",
          "short": "UTA",
          "abbr": "UTA",
-         "score": 2,
+         "score": 3,
          "ha": "home",
          "winner": null,
          "linescores": []
@@ -2660,10 +2660,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P2 05:35",
+       "detail": "P2 04:49",
        "start": "2026-11-22T03:00:00Z",
        "period": 2,
-       "clock": "05:35",
+       "clock": "04:49",
        "teams": [
         {
          "name": "Wild",
