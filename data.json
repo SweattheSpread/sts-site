@@ -1,5 +1,5 @@
 {
- "updated": "Nov 22, 2026, 2:07 PM PT",
+ "updated": "Nov 22, 2026, 2:11 PM PT",
  "record": {
   "w": 239,
   "l": 237,
@@ -127,123 +127,6 @@
   }
  ],
  "picks": [
-  {
-   "n": 959,
-   "league": "NHL",
-   "type": "Player Prop",
-   "matchup": "Buffalo Sabres @ Tampa Bay Lightning",
-   "pick": "Brayden Point Over 0.5 assists",
-   "odds": 120,
-   "units": 1.0,
-   "gap": null,
-   "start": "2026-11-22T14:10:00",
-   "timed": true,
-   "ticket": "single",
-   "espn": {
-    "legs": [
-     {
-      "kind": "prop",
-      "player": "Brayden Point",
-      "ou": "O",
-      "line": 0.5,
-      "stat": "assists",
-      "label": "Brayden Point O 0.5 assists",
-      "path": "hockey/nhl",
-      "event": "401892769",
-      "date": "20261122",
-      "snapshot": {
-       "source": "nhl",
-       "state": "pre",
-       "detail": "Scheduled",
-       "start": "2026-11-22T22:00:00Z",
-       "period": null,
-       "clock": null,
-       "teams": [
-        {
-         "name": "Sabres",
-         "short": "BUF",
-         "abbr": "BUF",
-         "score": 0,
-         "ha": "away",
-         "winner": null,
-         "linescores": []
-        },
-        {
-         "name": "Lightning",
-         "short": "TBL",
-         "abbr": "TBL",
-         "score": 0,
-         "ha": "home",
-         "winner": null,
-         "linescores": []
-        }
-       ],
-       "nhl_id": 2026020374
-      },
-      "source": "nhl"
-     }
-    ],
-    "sport": "NHL",
-    "ticket": "single"
-   }
-  },
-  {
-   "n": 975,
-   "league": "NHL",
-   "type": "Moneyline",
-   "matchup": "Buffalo Sabres @ Tampa Bay Lightning",
-   "pick": "Tampa Bay Lightning to win in regulation (60-min 3-way ML)",
-   "odds": -127,
-   "units": 1.75,
-   "gap": null,
-   "start": "2026-11-22T14:10:00",
-   "timed": true,
-   "ticket": "single",
-   "espn": {
-    "legs": [
-     {
-      "kind": "ml",
-      "side": "Tampa Bay Lightning",
-      "label": "Tampa Bay Lightning ML",
-      "path": "hockey/nhl",
-      "event": "401892769",
-      "date": "20261122",
-      "snapshot": {
-       "source": "nhl",
-       "state": "pre",
-       "detail": "Scheduled",
-       "start": "2026-11-22T22:00:00Z",
-       "period": null,
-       "clock": null,
-       "teams": [
-        {
-         "name": "Sabres",
-         "short": "BUF",
-         "abbr": "BUF",
-         "score": 0,
-         "ha": "away",
-         "winner": null,
-         "linescores": []
-        },
-        {
-         "name": "Lightning",
-         "short": "TBL",
-         "abbr": "TBL",
-         "score": 0,
-         "ha": "home",
-         "winner": null,
-         "linescores": []
-        }
-       ],
-       "nhl_id": 2026020374
-      },
-      "source": "nhl"
-     }
-    ],
-    "sport": "NHL",
-    "ticket": "single"
-   }
-  },
   {
    "n": 967,
    "league": "NHL",
@@ -1147,10 +1030,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "14:39 - 2nd",
+       "detail": "13:43 - 2nd",
        "start": "2026-11-22T21:25Z",
        "period": 2,
-       "clock": "14:39",
+       "clock": "13:43",
        "teams": [
         {
          "name": "Las Vegas Raiders",
@@ -1413,10 +1296,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "3:07 - 2nd",
+       "detail": "2:00 - 2nd",
        "start": "2026-11-22T21:05Z",
        "period": 2,
-       "clock": "3:07",
+       "clock": "2:00",
        "teams": [
         {
          "name": "New York Jets",
@@ -1545,10 +1428,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "14:39 - 2nd",
+       "detail": "13:43 - 2nd",
        "start": "2026-11-22T21:25Z",
        "period": 2,
-       "clock": "14:39",
+       "clock": "13:43",
        "teams": [
         {
          "name": "Las Vegas Raiders",
@@ -1609,10 +1492,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "3:21 - 1st",
+       "detail": "2:39 - 1st",
        "start": "2026-11-22T21:25Z",
        "period": 1,
-       "clock": "3:21",
+       "clock": "2:39",
        "teams": [
         {
          "name": "Jacksonville Jaguars",
@@ -2145,10 +2028,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "3:07 - 2nd",
+       "detail": "2:00 - 2nd",
        "start": "2026-11-22T21:05Z",
        "period": 2,
-       "clock": "3:07",
+       "clock": "2:00",
        "teams": [
         {
          "name": "New York Jets",
@@ -2180,6 +2063,70 @@
      }
     ],
     "sport": "NFL",
+    "ticket": "single"
+   }
+  },
+  {
+   "n": 959,
+   "league": "NHL",
+   "type": "Player Prop",
+   "matchup": "Buffalo Sabres @ Tampa Bay Lightning",
+   "pick": "Brayden Point Over 0.5 assists",
+   "odds": 120,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-22T14:10:00",
+   "timed": true,
+   "ticket": "single",
+   "espn": {
+    "legs": [
+     {
+      "kind": "prop",
+      "player": "Brayden Point",
+      "ou": "O",
+      "line": 0.5,
+      "stat": "assists",
+      "label": "Brayden Point O 0.5 assists",
+      "path": "hockey/nhl",
+      "event": "401892769",
+      "date": "20261122",
+      "snapshot": {
+       "source": "nhl",
+       "state": "in",
+       "detail": "P1 20:00",
+       "start": "2026-11-22T22:00:00Z",
+       "period": 1,
+       "clock": "20:00",
+       "teams": [
+        {
+         "name": "Sabres",
+         "short": "BUF",
+         "abbr": "BUF",
+         "score": 0,
+         "ha": "away",
+         "winner": null,
+         "linescores": []
+        },
+        {
+         "name": "Lightning",
+         "short": "TBL",
+         "abbr": "TBL",
+         "score": 0,
+         "ha": "home",
+         "winner": null,
+         "linescores": []
+        }
+       ],
+       "nhl_id": 2026020374,
+       "stat": {
+        "v": 0,
+        "name": "B. Point"
+       }
+      },
+      "source": "nhl"
+     }
+    ],
+    "sport": "NHL",
     "ticket": "single"
    }
   },
@@ -2535,7 +2482,7 @@
          "name": "Albany Great Danes",
          "short": "Albany Great Danes",
          "abbr": "",
-         "score": 55,
+         "score": 61,
          "ha": "away",
          "winner": null,
          "linescores": []
@@ -2544,7 +2491,7 @@
          "name": "Mercyhurst Lakers",
          "short": "Mercyhurst Lakers",
          "abbr": "",
-         "score": 60,
+         "score": 63,
          "ha": "home",
          "winner": null,
          "linescores": []
@@ -2583,16 +2530,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "10:26 - 1st",
+       "detail": "8:49 - 1st",
        "start": "2026-11-22T21:30Z",
        "period": 1,
-       "clock": "10:26",
+       "clock": "8:49",
        "teams": [
         {
          "name": "Richmond Spiders",
          "short": "Spiders",
          "abbr": "RICH",
-         "score": 16,
+         "score": 19,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -2603,7 +2550,7 @@
          "name": "Liberty Flames",
          "short": "Flames",
          "abbr": "LIB",
-         "score": 13,
+         "score": 15,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -2703,10 +2650,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "14:39 - 2nd",
+       "detail": "13:43 - 2nd",
        "start": "2026-11-22T21:25Z",
        "period": 2,
-       "clock": "14:39",
+       "clock": "13:43",
        "teams": [
         {
          "name": "Las Vegas Raiders",
@@ -2750,10 +2697,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "14:39 - 2nd",
+       "detail": "13:43 - 2nd",
        "start": "2026-11-22T21:25Z",
        "period": 2,
-       "clock": "14:39",
+       "clock": "13:43",
        "teams": [
         {
          "name": "Las Vegas Raiders",
@@ -2797,10 +2744,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "14:39 - 2nd",
+       "detail": "13:43 - 2nd",
        "start": "2026-11-22T21:25Z",
        "period": 2,
-       "clock": "14:39",
+       "clock": "13:43",
        "teams": [
         {
          "name": "Las Vegas Raiders",
@@ -2844,10 +2791,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "14:39 - 2nd",
+       "detail": "13:43 - 2nd",
        "start": "2026-11-22T21:25Z",
        "period": 2,
-       "clock": "14:39",
+       "clock": "13:43",
        "teams": [
         {
          "name": "Las Vegas Raiders",
@@ -2891,10 +2838,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "3:21 - 1st",
+       "detail": "2:39 - 1st",
        "start": "2026-11-22T21:25Z",
        "period": 1,
-       "clock": "3:21",
+       "clock": "2:39",
        "teams": [
         {
          "name": "Jacksonville Jaguars",
@@ -2936,10 +2883,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "3:21 - 1st",
+       "detail": "2:39 - 1st",
        "start": "2026-11-22T21:25Z",
        "period": 1,
-       "clock": "3:21",
+       "clock": "2:39",
        "teams": [
         {
          "name": "Jacksonville Jaguars",
@@ -2981,10 +2928,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "3:21 - 1st",
+       "detail": "2:39 - 1st",
        "start": "2026-11-22T21:25Z",
        "period": 1,
-       "clock": "3:21",
+       "clock": "2:39",
        "teams": [
         {
          "name": "Jacksonville Jaguars",
@@ -3009,7 +2956,10 @@
          ]
         }
        ],
-       "stat": null
+       "stat": {
+        "v": 0,
+        "name": "Isaiah Likely"
+       }
       },
       "source": "espn"
      },
@@ -3026,10 +2976,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "3:21 - 1st",
+       "detail": "2:39 - 1st",
        "start": "2026-11-22T21:25Z",
        "period": 1,
-       "clock": "3:21",
+       "clock": "2:39",
        "teams": [
         {
          "name": "Jacksonville Jaguars",
@@ -3071,10 +3021,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "3:21 - 1st",
+       "detail": "2:39 - 1st",
        "start": "2026-11-22T21:25Z",
        "period": 1,
-       "clock": "3:21",
+       "clock": "2:39",
        "teams": [
         {
          "name": "Jacksonville Jaguars",
@@ -3106,6 +3056,63 @@
     ],
     "sport": "NFL",
     "ticket": "parlay"
+   }
+  },
+  {
+   "n": 975,
+   "league": "NHL",
+   "type": "Moneyline",
+   "matchup": "Buffalo Sabres @ Tampa Bay Lightning",
+   "pick": "Tampa Bay Lightning to win in regulation (60-min 3-way ML)",
+   "odds": -127,
+   "units": 1.75,
+   "gap": null,
+   "start": "2026-11-22T14:10:00",
+   "timed": true,
+   "ticket": "single",
+   "espn": {
+    "legs": [
+     {
+      "kind": "ml",
+      "side": "Tampa Bay Lightning",
+      "label": "Tampa Bay Lightning ML",
+      "path": "hockey/nhl",
+      "event": "401892769",
+      "date": "20261122",
+      "snapshot": {
+       "source": "nhl",
+       "state": "in",
+       "detail": "P1 20:00",
+       "start": "2026-11-22T22:00:00Z",
+       "period": 1,
+       "clock": "20:00",
+       "teams": [
+        {
+         "name": "Sabres",
+         "short": "BUF",
+         "abbr": "BUF",
+         "score": 0,
+         "ha": "away",
+         "winner": null,
+         "linescores": []
+        },
+        {
+         "name": "Lightning",
+         "short": "TBL",
+         "abbr": "TBL",
+         "score": 0,
+         "ha": "home",
+         "winner": null,
+         "linescores": []
+        }
+       ],
+       "nhl_id": 2026020374
+      },
+      "source": "nhl"
+     }
+    ],
+    "sport": "NHL",
+    "ticket": "single"
    }
   }
  ],
