@@ -1,5 +1,5 @@
 {
- "updated": "Nov 22, 2026, 12:25 AM PT",
+ "updated": "Nov 22, 2026, 3:31 AM PT",
  "record": {
   "w": 239,
   "l": 237,
@@ -11,7 +11,7 @@
   "first": "2026-10-12",
   "last": "2026-11-21"
  },
- "pending": 24,
+ "pending": 26,
  "latest": [
   {
    "n": 956,
@@ -761,6 +761,64 @@
    }
   },
   {
+   "n": 957,
+   "league": "NFL",
+   "type": "Player Prop",
+   "matchup": "Tampa Bay Buccaneers @ Detroit Lions",
+   "pick": "Sam LaPorta longest reception Over 15.5",
+   "odds": -125,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-22T10:00:00",
+   "timed": true,
+   "ticket": "single",
+   "espn": {
+    "legs": [
+     {
+      "kind": "team_total",
+      "side": "Sam LaPorta longest reception",
+      "ou": "O",
+      "line": 15.5,
+      "label": "Sam LaPorta longest reception O 15.5",
+      "path": "football/nfl",
+      "event": "401873072",
+      "date": "20261122",
+      "snapshot": {
+       "source": "espn",
+       "state": "pre",
+       "detail": "11/22 - 1:00 PM EST",
+       "start": "2026-11-22T18:00Z",
+       "period": null,
+       "clock": null,
+       "teams": [
+        {
+         "name": "Tampa Bay Buccaneers",
+         "short": "Buccaneers",
+         "abbr": "TB",
+         "score": 0,
+         "ha": "away",
+         "winner": null,
+         "linescores": []
+        },
+        {
+         "name": "Detroit Lions",
+         "short": "Lions",
+         "abbr": "DET",
+         "score": 0,
+         "ha": "home",
+         "winner": null,
+         "linescores": []
+        }
+       ]
+      },
+      "source": "espn"
+     }
+    ],
+    "sport": "NFL",
+    "ticket": "single"
+   }
+  },
+  {
    "n": 861,
    "league": "NFL",
    "type": "Over/Under",
@@ -780,6 +838,64 @@
       "ou": "O",
       "line": 41.5,
       "label": "O 41.5",
+      "path": "football/nfl",
+      "event": "401873074",
+      "date": "20261122",
+      "snapshot": {
+       "source": "espn",
+       "state": "pre",
+       "detail": "11/22 - 4:05 PM EST",
+       "start": "2026-11-22T21:05Z",
+       "period": null,
+       "clock": null,
+       "teams": [
+        {
+         "name": "New York Jets",
+         "short": "Jets",
+         "abbr": "NYJ",
+         "score": 0,
+         "ha": "away",
+         "winner": null,
+         "linescores": []
+        },
+        {
+         "name": "Los Angeles Chargers",
+         "short": "Chargers",
+         "abbr": "LAC",
+         "score": 0,
+         "ha": "home",
+         "winner": null,
+         "linescores": []
+        }
+       ]
+      },
+      "source": "espn"
+     }
+    ],
+    "sport": "NFL",
+    "ticket": "single"
+   }
+  },
+  {
+   "n": 958,
+   "league": "NFL",
+   "type": "Player Prop",
+   "matchup": "New York Jets @ Los Angeles Chargers",
+   "pick": "Quentin Johnston longest reception Over 15.5",
+   "odds": -110,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-22T13:05:00",
+   "timed": true,
+   "ticket": "single",
+   "espn": {
+    "legs": [
+     {
+      "kind": "team_total",
+      "side": "Quentin Johnston longest reception",
+      "ou": "O",
+      "line": 15.5,
+      "label": "Quentin Johnston longest reception O 15.5",
       "path": "football/nfl",
       "event": "401873074",
       "date": "20261122",

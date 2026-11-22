@@ -1,5 +1,5 @@
 {
- "updated": "Nov 22, 2026, 12:25 AM PT",
+ "updated": "Nov 22, 2026, 3:31 AM PT",
  "record": {
   "w": 239,
   "l": 237,
@@ -11,7 +11,7 @@
   "first": "2026-10-12",
   "last": "2026-11-21"
  },
- "pending": 24,
+ "pending": 26,
  "plays": [
   {
    "n": 334,
@@ -8024,6 +8024,38 @@
    "matchup": "Pittsburgh Steelers @ Philadelphia Eagles",
    "pick": "Philadelphia Eagles ML +173",
    "odds": 173,
+   "units": 1.0,
+   "result": null,
+   "pl": null,
+   "pending": true
+  },
+  {
+   "n": 957,
+   "date": "2026-11-22",
+   "day": "2026-11-22",
+   "league": "NFL",
+   "market": "player_prop",
+   "market_label": "Player Prop",
+   "ticket": "single",
+   "matchup": "Tampa Bay Buccaneers @ Detroit Lions",
+   "pick": "Sam LaPorta longest reception Over 15.5",
+   "odds": -125,
+   "units": 1.0,
+   "result": null,
+   "pl": null,
+   "pending": true
+  },
+  {
+   "n": 958,
+   "date": "2026-11-22",
+   "day": "2026-11-22",
+   "league": "NFL",
+   "market": "player_prop",
+   "market_label": "Player Prop",
+   "ticket": "single",
+   "matchup": "New York Jets @ Los Angeles Chargers",
+   "pick": "Quentin Johnston longest reception Over 15.5",
+   "odds": -110,
    "units": 1.0,
    "result": null,
    "pl": null,
