@@ -1,5 +1,5 @@
 {
- "updated": "Nov 21, 2026, 5:57 PM PT",
+ "updated": "Nov 21, 2026, 6:00 PM PT",
  "record": {
   "w": 224,
   "l": 230,
@@ -242,63 +242,6 @@
     ],
     "sport": "NCAAF",
     "ticket": "parlay"
-   }
-  },
-  {
-   "n": 937,
-   "league": "NHL",
-   "type": "Moneyline",
-   "matchup": "Anaheim Ducks @ Utah Mammoth",
-   "pick": "Utah Mammoth ML",
-   "odds": -159,
-   "units": 0.5,
-   "gap": null,
-   "start": "2026-11-21T18:00:00",
-   "timed": true,
-   "ticket": "single",
-   "espn": {
-    "legs": [
-     {
-      "kind": "ml",
-      "side": "Utah Mammoth",
-      "label": "Utah Mammoth ML",
-      "path": "hockey/nhl",
-      "event": "401892765",
-      "date": "20261121",
-      "snapshot": {
-       "source": "nhl",
-       "state": "pre",
-       "detail": "Scheduled",
-       "start": "2026-11-22T02:00:00Z",
-       "period": null,
-       "clock": null,
-       "teams": [
-        {
-         "name": "Ducks",
-         "short": "ANA",
-         "abbr": "ANA",
-         "score": 0,
-         "ha": "away",
-         "winner": null,
-         "linescores": []
-        },
-        {
-         "name": "Mammoth",
-         "short": "UTA",
-         "abbr": "UTA",
-         "score": 0,
-         "ha": "home",
-         "winner": null,
-         "linescores": []
-        }
-       ],
-       "nhl_id": 2026020370
-      },
-      "source": "nhl"
-     }
-    ],
-    "sport": "NHL",
-    "ticket": "single"
    }
   },
   {
@@ -1811,16 +1754,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "9:28 - 3rd",
+       "detail": "8:08 - 3rd",
        "start": "2026-11-22T00:30Z",
        "period": 3,
-       "clock": "9:28",
+       "clock": "8:08",
        "teams": [
         {
          "name": "Portland Trail Blazers",
          "short": "Trail Blazers",
          "abbr": "POR",
-         "score": 51,
+         "score": 54,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -1833,7 +1776,7 @@
          "name": "New York Knicks",
          "short": "Knicks",
          "abbr": "NY",
-         "score": 66,
+         "score": 68,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -1913,6 +1856,63 @@
    }
   },
   {
+   "n": 937,
+   "league": "NHL",
+   "type": "Moneyline",
+   "matchup": "Anaheim Ducks @ Utah Mammoth",
+   "pick": "Utah Mammoth ML",
+   "odds": -159,
+   "units": 0.5,
+   "gap": null,
+   "start": "2026-11-21T18:00:00",
+   "timed": true,
+   "ticket": "single",
+   "espn": {
+    "legs": [
+     {
+      "kind": "ml",
+      "side": "Utah Mammoth",
+      "label": "Utah Mammoth ML",
+      "path": "hockey/nhl",
+      "event": "401892765",
+      "date": "20261121",
+      "snapshot": {
+       "source": "nhl",
+       "state": "pre",
+       "detail": "Scheduled",
+       "start": "2026-11-22T02:00:00Z",
+       "period": null,
+       "clock": null,
+       "teams": [
+        {
+         "name": "Ducks",
+         "short": "ANA",
+         "abbr": "ANA",
+         "score": 0,
+         "ha": "away",
+         "winner": null,
+         "linescores": []
+        },
+        {
+         "name": "Mammoth",
+         "short": "UTA",
+         "abbr": "UTA",
+         "score": 0,
+         "ha": "home",
+         "winner": null,
+         "linescores": []
+        }
+       ],
+       "nhl_id": 2026020370
+      },
+      "source": "nhl"
+     }
+    ],
+    "sport": "NHL",
+    "ticket": "single"
+   }
+  },
+  {
    "n": 938,
    "league": "NHL",
    "type": "Moneyline",
@@ -1936,10 +1936,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P2 10:02",
+       "detail": "P2 07:17",
        "start": "2026-11-22T00:00:00Z",
        "period": 2,
-       "clock": "10:02",
+       "clock": "07:17",
        "teams": [
         {
          "name": "Blue Jackets",
@@ -2318,16 +2318,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "4:52 - 2nd",
+       "detail": "3:44 - 2nd",
        "start": "2026-11-22T00:00Z",
        "period": 2,
-       "clock": "4:52",
+       "clock": "3:44",
        "teams": [
         {
          "name": "Michigan Wolverines",
          "short": "Wolverines",
          "abbr": "MICH",
-         "score": 58,
+         "score": 60,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -2339,7 +2339,7 @@
          "name": "Villanova Wildcats",
          "short": "Wildcats",
          "abbr": "VILL",
-         "score": 66,
+         "score": 68,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -2718,10 +2718,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P2 10:02",
+       "detail": "P2 07:17",
        "start": "2026-11-22T00:00:00Z",
        "period": 2,
-       "clock": "10:02",
+       "clock": "07:17",
        "teams": [
         {
          "name": "Blue Jackets",
@@ -2853,16 +2853,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "4:41 - 2nd",
+       "detail": "3:49 - 2nd",
        "start": "2026-11-22T01:00Z",
        "period": 2,
-       "clock": "4:41",
+       "clock": "3:49",
        "teams": [
         {
          "name": "New Orleans Pelicans",
          "short": "Pelicans",
          "abbr": "NO",
-         "score": 42,
+         "score": 44,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -2874,7 +2874,7 @@
          "name": "San Antonio Spurs",
          "short": "Spurs",
          "abbr": "SA",
-         "score": 49,
+         "score": 50,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -2922,10 +2922,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P2 04:24",
+       "detail": "P2 01:39",
        "start": "2026-11-22T00:00:00Z",
        "period": 2,
-       "clock": "04:24",
+       "clock": "01:39",
        "teams": [
         {
          "name": "Devils",
