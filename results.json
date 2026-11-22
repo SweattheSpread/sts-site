@@ -1,5 +1,5 @@
 {
- "updated": "Nov 22, 2026, 1:20 PM PT",
+ "updated": "Nov 22, 2026, 1:22 PM PT",
  "record": {
   "w": 239,
   "l": 237,
@@ -11,7 +11,7 @@
   "first": "2026-10-12",
   "last": "2026-11-21"
  },
- "pending": 40,
+ "pending": 42,
  "plays": [
   {
    "n": 334,
@@ -8264,7 +8264,39 @@
    "matchup": "Edmonton Oilers @ St Louis Blues",
    "pick": "Vasily Podkolzin Over 0.5 Points",
    "odds": 100,
-   "units": 1.0,
+   "units": 2.0,
+   "result": null,
+   "pl": null,
+   "pending": true
+  },
+  {
+   "n": 974,
+   "date": "2026-11-22",
+   "day": "2026-11-22",
+   "league": "NFL",
+   "market": "parlay",
+   "market_label": "Parlay",
+   "ticket": "parlay",
+   "matchup": "2-leg parlay of SGPs: Las Vegas Raiders @ Denver Broncos + Jacksonville Jaguars @ New York Giants",
+   "pick": "Patrick Bryant 25+ receiving yds (Las Vegas Raiders @ Denver Broncos) + Jonah Coleman 50+ rushing yds (Las Vegas Raiders @ Denver Broncos) + Fernando Mendoza 1+ pass interceptions (Las Vegas Raiders @ Denver Broncos) + Jonah Coleman anytime TD (Las Vegas Raiders @ Denver Broncos) + Parker Washington anytime TD (Jacksonville Jaguars @ New York Giants) + Bhayshul Tuten anytime TD (Jacksonville Jaguars @ New York Giants) + Isaiah Likely 3+ receptions (Jacksonville Jaguars @ New York Giants) + Bhayshul Tuten 60+ rushing yds (Jacksonville Jaguars @ New York Giants) + T. Lawrence 225+ passing yds (Jacksonville Jaguars @ New York Giants)",
+   "odds": 3313,
+   "units": 0.2,
+   "result": null,
+   "pl": null,
+   "pending": true
+  },
+  {
+   "n": 975,
+   "date": "2026-11-22",
+   "day": "2026-11-22",
+   "league": "NHL",
+   "market": "ml",
+   "market_label": "Moneyline",
+   "ticket": "single",
+   "matchup": "Buffalo Sabres @ Tampa Bay Lightning",
+   "pick": "Tampa Bay Lightning to win in regulation (60-min 3-way ML)",
+   "odds": -127,
+   "units": 1.75,
    "result": null,
    "pl": null,
    "pending": true

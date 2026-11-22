@@ -1,5 +1,5 @@
 {
- "updated": "Nov 22, 2026, 1:20 PM PT",
+ "updated": "Nov 22, 2026, 1:22 PM PT",
  "record": {
   "w": 239,
   "l": 237,
@@ -11,7 +11,7 @@
   "first": "2026-10-12",
   "last": "2026-11-21"
  },
- "pending": 40,
+ "pending": 42,
  "latest": [
   {
    "n": 956,
@@ -301,6 +301,124 @@
    }
   },
   {
+   "n": 974,
+   "league": "NFL",
+   "type": "Parlay",
+   "matchup": "2-leg parlay of SGPs: Las Vegas Raiders @ Denver Broncos + Jacksonville Jaguars @ New York Giants",
+   "pick": "Patrick Bryant 25+ receiving yds (Las Vegas Raiders @ Denver Broncos) + Jonah Coleman 50+ rushing yds (Las Vegas Raiders @ Denver Broncos) + Fernando Mendoza 1+ pass interceptions (Las Vegas Raiders @ Denver Broncos) + Jonah Coleman anytime TD (Las Vegas Raiders @ Denver Broncos) + Parker Washington anytime TD (Jacksonville Jaguars @ New York Giants) + Bhayshul Tuten anytime TD (Jacksonville Jaguars @ New York Giants) + Isaiah Likely 3+ receptions (Jacksonville Jaguars @ New York Giants) + Bhayshul Tuten 60+ rushing yds (Jacksonville Jaguars @ New York Giants) + T. Lawrence 225+ passing yds (Jacksonville Jaguars @ New York Giants)",
+   "odds": 3313,
+   "units": 0.2,
+   "gap": null,
+   "start": "2026-11-22T13:25:00",
+   "timed": true,
+   "ticket": "parlay",
+   "espn": {
+    "legs": [
+     {
+      "kind": "prop",
+      "player": "Patrick Bryant",
+      "ou": "O",
+      "line": 24.5,
+      "stat": "receiving yds",
+      "label": "Patrick Bryant O 24.5 receiving yds",
+      "date": "20261122",
+      "unverified": true,
+      "reason": "Player not found in this game"
+     },
+     {
+      "kind": "prop",
+      "player": "Jonah Coleman",
+      "ou": "O",
+      "line": 49.5,
+      "stat": "rushing yds",
+      "label": "Jonah Coleman O 49.5 rushing yds",
+      "date": "20261122",
+      "unverified": true,
+      "reason": "Player not found in this game"
+     },
+     {
+      "kind": "prop",
+      "player": "Fernando Mendoza",
+      "ou": "O",
+      "line": 0.5,
+      "stat": "pass interceptions",
+      "label": "Fernando Mendoza O 0.5 pass interceptions",
+      "date": "20261122",
+      "unverified": true,
+      "reason": "Player not found in this game"
+     },
+     {
+      "kind": "prop",
+      "player": "Jonah Coleman",
+      "ou": "O",
+      "line": 0.5,
+      "stat": "anytime td",
+      "label": "Jonah Coleman O 0.5 anytime td",
+      "date": "20261122",
+      "unverified": true,
+      "reason": "Player not found in this game"
+     },
+     {
+      "kind": "prop",
+      "player": "Parker Washington",
+      "ou": "O",
+      "line": 0.5,
+      "stat": "anytime td",
+      "label": "Parker Washington O 0.5 anytime td",
+      "date": "20261122",
+      "unverified": true,
+      "reason": "Player not found in this game"
+     },
+     {
+      "kind": "prop",
+      "player": "Bhayshul Tuten",
+      "ou": "O",
+      "line": 0.5,
+      "stat": "anytime td",
+      "label": "Bhayshul Tuten O 0.5 anytime td",
+      "date": "20261122",
+      "unverified": true,
+      "reason": "Player not found in this game"
+     },
+     {
+      "kind": "prop",
+      "player": "Isaiah Likely",
+      "ou": "O",
+      "line": 2.5,
+      "stat": "receptions",
+      "label": "Isaiah Likely O 2.5 receptions",
+      "date": "20261122",
+      "unverified": true,
+      "reason": "Player not found in this game"
+     },
+     {
+      "kind": "prop",
+      "player": "Bhayshul Tuten",
+      "ou": "O",
+      "line": 59.5,
+      "stat": "rushing yds",
+      "label": "Bhayshul Tuten O 59.5 rushing yds",
+      "date": "20261122",
+      "unverified": true,
+      "reason": "Player not found in this game"
+     },
+     {
+      "kind": "prop",
+      "player": "T. Lawrence",
+      "ou": "O",
+      "line": 224.5,
+      "stat": "passing yds",
+      "label": "T. Lawrence O 224.5 passing yds",
+      "date": "20261122",
+      "unverified": true,
+      "reason": "Player not found in this game"
+     }
+    ],
+    "sport": "NFL",
+    "ticket": "parlay"
+   }
+  },
+  {
    "n": 970,
    "league": "NCAAB",
    "type": "Spread",
@@ -418,6 +536,63 @@
    }
   },
   {
+   "n": 975,
+   "league": "NHL",
+   "type": "Moneyline",
+   "matchup": "Buffalo Sabres @ Tampa Bay Lightning",
+   "pick": "Tampa Bay Lightning to win in regulation (60-min 3-way ML)",
+   "odds": -127,
+   "units": 1.75,
+   "gap": null,
+   "start": "2026-11-22T14:10:00",
+   "timed": true,
+   "ticket": "single",
+   "espn": {
+    "legs": [
+     {
+      "kind": "ml",
+      "side": "Tampa Bay Lightning",
+      "label": "Tampa Bay Lightning ML",
+      "path": "hockey/nhl",
+      "event": "401892769",
+      "date": "20261122",
+      "snapshot": {
+       "source": "nhl",
+       "state": "pre",
+       "detail": "Scheduled",
+       "start": "2026-11-22T22:00:00Z",
+       "period": null,
+       "clock": null,
+       "teams": [
+        {
+         "name": "Sabres",
+         "short": "BUF",
+         "abbr": "BUF",
+         "score": 0,
+         "ha": "away",
+         "winner": null,
+         "linescores": []
+        },
+        {
+         "name": "Lightning",
+         "short": "TBL",
+         "abbr": "TBL",
+         "score": 0,
+         "ha": "home",
+         "winner": null,
+         "linescores": []
+        }
+       ],
+       "nhl_id": 2026020374
+      },
+      "source": "nhl"
+     }
+    ],
+    "sport": "NHL",
+    "ticket": "single"
+   }
+  },
+  {
    "n": 967,
    "league": "NHL",
    "type": "Player Prop",
@@ -484,7 +659,7 @@
    "matchup": "Edmonton Oilers @ St Louis Blues",
    "pick": "Vasily Podkolzin Over 0.5 Points",
    "odds": 100,
-   "units": 1.0,
+   "units": 2.0,
    "gap": null,
    "start": "2026-11-22T16:10:00",
    "timed": true,
@@ -1494,10 +1669,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "7:05 - 1st",
+       "detail": "6:17 - 1st",
        "start": "2026-11-22T21:05Z",
        "period": 1,
-       "clock": "7:05",
+       "clock": "6:17",
        "teams": [
         {
          "name": "New York Jets",
@@ -2098,10 +2273,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "7:05 - 1st",
+       "detail": "6:17 - 1st",
        "start": "2026-11-22T21:05Z",
        "period": 1,
-       "clock": "7:05",
+       "clock": "6:17",
        "teams": [
         {
          "name": "New York Jets",
@@ -2353,10 +2528,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "3:11 - 2nd",
+       "detail": "2:23 - 2nd",
        "start": "2026-11-22T19:30Z",
        "period": 2,
-       "clock": "3:11",
+       "clock": "2:23",
        "teams": [
         {
          "name": "Robert Morris Colonials",
@@ -2374,7 +2549,7 @@
          "name": "New Mexico State Aggies",
          "short": "Aggies",
          "abbr": "NMSU",
-         "score": 51,
+         "score": 54,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -2484,7 +2659,7 @@
          "name": "Albany Great Danes",
          "short": "Albany Great Danes",
          "abbr": "",
-         "score": 32,
+         "score": 36,
          "ha": "away",
          "winner": null,
          "linescores": []
@@ -2493,7 +2668,7 @@
          "name": "Mercyhurst Lakers",
          "short": "Mercyhurst Lakers",
          "abbr": "",
-         "score": 33,
+         "score": 36,
          "ha": "home",
          "winner": null,
          "linescores": []
