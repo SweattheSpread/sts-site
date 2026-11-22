@@ -1,5 +1,5 @@
 {
- "updated": "Nov 21, 2026, 5:08 PM PT",
+ "updated": "Nov 21, 2026, 5:14 PM PT",
  "record": {
   "w": 224,
   "l": 230,
@@ -242,36 +242,6 @@
     ],
     "sport": "NCAAF",
     "ticket": "parlay"
-   }
-  },
-  {
-   "n": 955,
-   "league": "NBA",
-   "type": "Player Prop",
-   "matchup": "New Orleans Pelicans @ San Antonio Spurs",
-   "pick": "Stephon Castle Under 17.5 points",
-   "odds": 100,
-   "units": 1.0,
-   "gap": null,
-   "start": "2026-11-21T17:10:00",
-   "timed": true,
-   "ticket": "single",
-   "espn": {
-    "legs": [
-     {
-      "kind": "prop",
-      "player": "Stephon Castle",
-      "ou": "U",
-      "line": 17.5,
-      "stat": "points",
-      "label": "Stephon Castle U 17.5 points",
-      "date": "20261121",
-      "unverified": true,
-      "reason": "Player not found in this game"
-     }
-    ],
-    "sport": "NBA",
-    "ticket": "single"
    }
   },
   {
@@ -1841,16 +1811,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "11:08 - 2nd",
+       "detail": "9:18 - 2nd",
        "start": "2026-11-22T00:30Z",
        "period": 2,
-       "clock": "11:08",
+       "clock": "9:18",
        "teams": [
         {
          "name": "Portland Trail Blazers",
          "short": "Trail Blazers",
          "abbr": "POR",
-         "score": 23,
+         "score": 30,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -1862,7 +1832,7 @@
          "name": "New York Knicks",
          "short": "Knicks",
          "abbr": "NY",
-         "score": 42,
+         "score": 44,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -1907,10 +1877,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P3 16:18",
+       "detail": "P3 13:15",
        "start": "2026-11-21T23:00:00Z",
        "period": 3,
-       "clock": "16:18",
+       "clock": "13:15",
        "teams": [
         {
          "name": "Penguins",
@@ -1964,10 +1934,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P1 03:23",
+       "detail": "P2 19:44",
        "start": "2026-11-22T00:00:00Z",
-       "period": 1,
-       "clock": "03:23",
+       "period": 2,
+       "clock": "19:44",
        "teams": [
         {
          "name": "Blue Jackets",
@@ -2346,19 +2316,20 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "Halftime",
+       "detail": "15:57 - 2nd",
        "start": "2026-11-22T00:00Z",
-       "period": 1,
-       "clock": "0:00",
+       "period": 2,
+       "clock": "15:57",
        "teams": [
         {
          "name": "Michigan Wolverines",
          "short": "Wolverines",
          "abbr": "MICH",
-         "score": 29,
+         "score": 35,
          "ha": "away",
          "winner": null,
          "linescores": [
+          0,
           0
          ]
         },
@@ -2366,10 +2337,11 @@
          "name": "Villanova Wildcats",
          "short": "Wildcats",
          "abbr": "VILL",
-         "score": 34,
+         "score": 43,
          "ha": "home",
          "winner": null,
          "linescores": [
+          0,
           0
          ]
         }
@@ -2744,10 +2716,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P1 03:23",
+       "detail": "P2 19:44",
        "start": "2026-11-22T00:00:00Z",
-       "period": 1,
-       "clock": "03:23",
+       "period": 2,
+       "clock": "19:44",
        "teams": [
         {
          "name": "Blue Jackets",
@@ -2853,6 +2825,73 @@
    }
   },
   {
+   "n": 955,
+   "league": "NBA",
+   "type": "Player Prop",
+   "matchup": "New Orleans Pelicans @ San Antonio Spurs",
+   "pick": "Stephon Castle Under 17.5 points",
+   "odds": 100,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-21T17:10:00",
+   "timed": true,
+   "ticket": "single",
+   "espn": {
+    "legs": [
+     {
+      "kind": "prop",
+      "player": "Stephon Castle",
+      "ou": "U",
+      "line": 17.5,
+      "stat": "points",
+      "label": "Stephon Castle U 17.5 points",
+      "path": "basketball/nba",
+      "event": "401910027",
+      "date": "20261121",
+      "snapshot": {
+       "source": "espn",
+       "state": "in",
+       "detail": "9:56 - 1st",
+       "start": "2026-11-22T01:00Z",
+       "period": 1,
+       "clock": "9:56",
+       "teams": [
+        {
+         "name": "New Orleans Pelicans",
+         "short": "Pelicans",
+         "abbr": "NO",
+         "score": 4,
+         "ha": "away",
+         "winner": null,
+         "linescores": [
+          0
+         ]
+        },
+        {
+         "name": "San Antonio Spurs",
+         "short": "Spurs",
+         "abbr": "SA",
+         "score": 5,
+         "ha": "home",
+         "winner": null,
+         "linescores": [
+          0
+         ]
+        }
+       ],
+       "stat": {
+        "v": 0,
+        "name": "Stephon Castle"
+       }
+      },
+      "source": "espn"
+     }
+    ],
+    "sport": "NBA",
+    "ticket": "single"
+   }
+  },
+  {
    "n": 956,
    "league": "NHL",
    "type": "Player Prop",
@@ -2879,10 +2918,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P2 20:00",
+       "detail": "P2 16:06",
        "start": "2026-11-22T00:00:00Z",
        "period": 2,
-       "clock": "20:00",
+       "clock": "16:06",
        "teams": [
         {
          "name": "Devils",
