@@ -1,5 +1,5 @@
 {
- "updated": "Nov 22, 2026, 2:03 PM PT",
+ "updated": "Nov 22, 2026, 2:05 PM PT",
  "record": {
   "w": 239,
   "l": 237,
@@ -1413,16 +1413,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "3:15 - 2nd",
+       "detail": "3:07 - 2nd",
        "start": "2026-11-22T21:05Z",
        "period": 2,
-       "clock": "3:15",
+       "clock": "3:07",
        "teams": [
         {
          "name": "New York Jets",
          "short": "Jets",
          "abbr": "NYJ",
-         "score": 10,
+         "score": 17,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -1609,10 +1609,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "4:59 - 1st",
+       "detail": "3:27 - 1st",
        "start": "2026-11-22T21:25Z",
        "period": 1,
-       "clock": "4:59",
+       "clock": "3:27",
        "teams": [
         {
          "name": "Jacksonville Jaguars",
@@ -2145,16 +2145,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "3:15 - 2nd",
+       "detail": "3:07 - 2nd",
        "start": "2026-11-22T21:05Z",
        "period": 2,
-       "clock": "3:15",
+       "clock": "3:07",
        "teams": [
         {
          "name": "New York Jets",
          "short": "Jets",
          "abbr": "NYJ",
-         "score": 10,
+         "score": 17,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -2535,7 +2535,7 @@
          "name": "Albany Great Danes",
          "short": "Albany Great Danes",
          "abbr": "",
-         "score": 52,
+         "score": 55,
          "ha": "away",
          "winner": null,
          "linescores": []
@@ -2544,7 +2544,7 @@
          "name": "Mercyhurst Lakers",
          "short": "Mercyhurst Lakers",
          "abbr": "",
-         "score": 55,
+         "score": 60,
          "ha": "home",
          "winner": null,
          "linescores": []
@@ -2583,16 +2583,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "12:37 - 1st",
+       "detail": "11:27 - 1st",
        "start": "2026-11-22T21:30Z",
        "period": 1,
-       "clock": "12:37",
+       "clock": "11:27",
        "teams": [
         {
          "name": "Richmond Spiders",
          "short": "Spiders",
          "abbr": "RICH",
-         "score": 14,
+         "score": 16,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -2603,7 +2603,7 @@
          "name": "Liberty Flames",
          "short": "Flames",
          "abbr": "LIB",
-         "score": 7,
+         "score": 10,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -2891,10 +2891,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "4:59 - 1st",
+       "detail": "3:27 - 1st",
        "start": "2026-11-22T21:25Z",
        "period": 1,
-       "clock": "4:59",
+       "clock": "3:27",
        "teams": [
         {
          "name": "Jacksonville Jaguars",
@@ -2936,10 +2936,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "4:59 - 1st",
+       "detail": "3:27 - 1st",
        "start": "2026-11-22T21:25Z",
        "period": 1,
-       "clock": "4:59",
+       "clock": "3:27",
        "teams": [
         {
          "name": "Jacksonville Jaguars",
@@ -2981,10 +2981,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "4:59 - 1st",
+       "detail": "3:27 - 1st",
        "start": "2026-11-22T21:25Z",
        "period": 1,
-       "clock": "4:59",
+       "clock": "3:27",
        "teams": [
         {
          "name": "Jacksonville Jaguars",
@@ -3026,10 +3026,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "4:59 - 1st",
+       "detail": "3:27 - 1st",
        "start": "2026-11-22T21:25Z",
        "period": 1,
-       "clock": "4:59",
+       "clock": "3:27",
        "teams": [
         {
          "name": "Jacksonville Jaguars",
@@ -3071,10 +3071,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "4:59 - 1st",
+       "detail": "3:27 - 1st",
        "start": "2026-11-22T21:25Z",
        "period": 1,
-       "clock": "4:59",
+       "clock": "3:27",
        "teams": [
         {
          "name": "Jacksonville Jaguars",
