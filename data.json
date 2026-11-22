@@ -1,5 +1,5 @@
 {
- "updated": "Nov 21, 2026, 6:47 PM PT",
+ "updated": "Nov 21, 2026, 6:49 PM PT",
  "record": {
   "w": 224,
   "l": 230,
@@ -1754,16 +1754,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "1:17 - 4th",
+       "detail": "4.9 - 4th",
        "start": "2026-11-22T00:30Z",
        "period": 4,
-       "clock": "1:17",
+       "clock": "4.9",
        "teams": [
         {
          "name": "Portland Trail Blazers",
          "short": "Trail Blazers",
          "abbr": "POR",
-         "score": 91,
+         "score": 94,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -1881,10 +1881,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P1 12:09",
+       "detail": "P1 09:40",
        "start": "2026-11-22T02:00:00Z",
        "period": 1,
-       "clock": "12:09",
+       "clock": "09:40",
        "teams": [
         {
          "name": "Ducks",
@@ -1937,11 +1937,11 @@
       "date": "20261121",
       "snapshot": {
        "source": "nhl",
-       "state": "in",
-       "detail": "P3 00:48",
+       "state": "post",
+       "detail": "Final",
        "start": "2026-11-22T00:00:00Z",
        "period": 3,
-       "clock": "00:48",
+       "clock": "00:00",
        "teams": [
         {
          "name": "Blue Jackets",
@@ -1949,7 +1949,7 @@
          "abbr": "CBJ",
          "score": 4,
          "ha": "away",
-         "winner": null,
+         "winner": true,
          "linescores": []
         },
         {
@@ -1958,7 +1958,7 @@
          "abbr": "TOR",
          "score": 3,
          "ha": "home",
-         "winner": null,
+         "winner": false,
          "linescores": []
         }
        ],
@@ -2719,11 +2719,11 @@
       "date": "20261121",
       "snapshot": {
        "source": "nhl",
-       "state": "in",
-       "detail": "P3 00:48",
+       "state": "post",
+       "detail": "Final",
        "start": "2026-11-22T00:00:00Z",
        "period": 3,
-       "clock": "00:48",
+       "clock": "00:00",
        "teams": [
         {
          "name": "Blue Jackets",
@@ -2731,7 +2731,7 @@
          "abbr": "CBJ",
          "score": 4,
          "ha": "away",
-         "winner": null,
+         "winner": true,
          "linescores": []
         },
         {
@@ -2740,7 +2740,7 @@
          "abbr": "TOR",
          "score": 3,
          "ha": "home",
-         "winner": null,
+         "winner": false,
          "linescores": []
         }
        ],
@@ -2855,16 +2855,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "4:25 - 3rd",
+       "detail": "3:17 - 3rd",
        "start": "2026-11-22T01:00Z",
        "period": 3,
-       "clock": "4:25",
+       "clock": "3:17",
        "teams": [
         {
          "name": "New Orleans Pelicans",
          "short": "Pelicans",
          "abbr": "NO",
-         "score": 62,
+         "score": 60,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -2877,7 +2877,7 @@
          "name": "San Antonio Spurs",
          "short": "Spurs",
          "abbr": "SA",
-         "score": 78,
+         "score": 80,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -2888,7 +2888,7 @@
         }
        ],
        "stat": {
-        "v": 17,
+        "v": 19,
         "name": "Stephon Castle"
        }
       },
