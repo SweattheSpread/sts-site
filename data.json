@@ -1,5 +1,5 @@
 {
- "updated": "Nov 22, 2026, 1:08 PM PT",
+ "updated": "Nov 22, 2026, 1:10 PM PT",
  "record": {
   "w": 239,
   "l": 237,
@@ -1434,10 +1434,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "13:12 - 1st",
+       "detail": "11:17 - 1st",
        "start": "2026-11-22T21:05Z",
        "period": 1,
-       "clock": "13:12",
+       "clock": "11:17",
        "teams": [
         {
          "name": "New York Jets",
@@ -1631,11 +1631,11 @@
       "date": "20261122",
       "snapshot": {
        "source": "espn",
-       "state": "in",
-       "detail": "0:07 - 4th",
+       "state": "post",
+       "detail": "Final",
        "start": "2026-11-22T18:00Z",
-       "period": 4,
-       "clock": "0:07",
+       "period": null,
+       "clock": null,
        "teams": [
         {
          "name": "Tampa Bay Buccaneers",
@@ -1643,7 +1643,7 @@
          "abbr": "TB",
          "score": 21,
          "ha": "away",
-         "winner": null,
+         "winner": false,
          "linescores": [
           0,
           0,
@@ -1657,7 +1657,7 @@
          "abbr": "DET",
          "score": 31,
          "ha": "home",
-         "winner": null,
+         "winner": true,
          "linescores": [
           0,
           0,
@@ -1901,11 +1901,11 @@
       "date": "20261122",
       "snapshot": {
        "source": "espn",
-       "state": "in",
-       "detail": "1:09 - 4th",
+       "state": "post",
+       "detail": "Final",
        "start": "2026-11-22T18:00Z",
-       "period": 4,
-       "clock": "1:09",
+       "period": null,
+       "clock": null,
        "teams": [
         {
          "name": "Pittsburgh Steelers",
@@ -1913,7 +1913,7 @@
          "abbr": "PIT",
          "score": 16,
          "ha": "away",
-         "winner": null,
+         "winner": false,
          "linescores": [
           0,
           0,
@@ -1927,7 +1927,7 @@
          "abbr": "PHI",
          "score": 19,
          "ha": "home",
-         "winner": null,
+         "winner": true,
          "linescores": [
           0,
           0,
@@ -1969,11 +1969,11 @@
       "date": "20261122",
       "snapshot": {
        "source": "espn",
-       "state": "in",
-       "detail": "0:07 - 4th",
+       "state": "post",
+       "detail": "Final",
        "start": "2026-11-22T18:00Z",
-       "period": 4,
-       "clock": "0:07",
+       "period": null,
+       "clock": null,
        "teams": [
         {
          "name": "Tampa Bay Buccaneers",
@@ -1981,7 +1981,7 @@
          "abbr": "TB",
          "score": 21,
          "ha": "away",
-         "winner": null,
+         "winner": false,
          "linescores": [
           0,
           0,
@@ -1995,7 +1995,7 @@
          "abbr": "DET",
          "score": 31,
          "ha": "home",
-         "winner": null,
+         "winner": true,
          "linescores": [
           0,
           0,
@@ -2038,10 +2038,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "13:12 - 1st",
+       "detail": "11:17 - 1st",
        "start": "2026-11-22T21:05Z",
        "period": 1,
-       "clock": "13:12",
+       "clock": "11:17",
        "teams": [
         {
          "name": "New York Jets",
@@ -2157,10 +2157,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "1:51 - 4th",
+       "detail": "1:44 - 4th",
        "start": "2026-11-22T18:00Z",
        "period": 4,
-       "clock": "1:51",
+       "clock": "1:44",
        "teams": [
         {
          "name": "Baltimore Ravens",
@@ -2180,7 +2180,7 @@
          "name": "Carolina Panthers",
          "short": "Panthers",
          "abbr": "CAR",
-         "score": 32,
+         "score": 35,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -2433,7 +2433,7 @@
          "name": "Mercyhurst Lakers",
          "short": "Mercyhurst Lakers",
          "abbr": "",
-         "score": 25,
+         "score": 29,
          "ha": "home",
          "winner": null,
          "linescores": []
