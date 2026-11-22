@@ -1,5 +1,5 @@
 {
- "updated": "Nov 21, 2026, 8:36 PM PT",
+ "updated": "Nov 21, 2026, 8:38 PM PT",
  "record": {
   "w": 224,
   "l": 230,
@@ -1820,19 +1820,19 @@
       "date": "20261121",
       "snapshot": {
        "source": "nhl",
-       "state": "in",
-       "detail": "P3 00:13",
+       "state": "post",
+       "detail": "Final",
        "start": "2026-11-22T02:00:00Z",
        "period": 3,
-       "clock": "00:13",
+       "clock": "00:00",
        "teams": [
         {
          "name": "Ducks",
          "short": "ANA",
          "abbr": "ANA",
-         "score": 1,
+         "score": 2,
          "ha": "away",
-         "winner": null,
+         "winner": false,
          "linescores": []
         },
         {
@@ -1841,7 +1841,7 @@
          "abbr": "UTA",
          "score": 3,
          "ha": "home",
-         "winner": null,
+         "winner": true,
          "linescores": []
         }
        ],
@@ -2660,10 +2660,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P2 04:49",
+       "detail": "P2 03:16",
        "start": "2026-11-22T03:00:00Z",
        "period": 2,
-       "clock": "04:49",
+       "clock": "03:16",
        "teams": [
         {
          "name": "Wild",
