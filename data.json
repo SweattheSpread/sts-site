@@ -1,5 +1,5 @@
 {
- "updated": "Nov 21, 2026, 4:24 PM PT",
+ "updated": "Nov 21, 2026, 4:26 PM PT",
  "record": {
   "w": 224,
   "l": 230,
@@ -1868,10 +1868,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P2 11:23",
+       "detail": "P2 10:48",
        "start": "2026-11-21T23:00:00Z",
        "period": 2,
-       "clock": "11:23",
+       "clock": "10:48",
        "teams": [
         {
          "name": "Penguins",
@@ -1925,10 +1925,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P1 15:20",
+       "detail": "P1 14:25",
        "start": "2026-11-22T00:00:00Z",
        "period": 1,
-       "clock": "15:20",
+       "clock": "14:25",
        "teams": [
         {
          "name": "Blue Jackets",
@@ -2307,16 +2307,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "9:23 - 1st",
+       "detail": "8:08 - 1st",
        "start": "2026-11-22T00:00Z",
        "period": 1,
-       "clock": "9:23",
+       "clock": "8:08",
        "teams": [
         {
          "name": "Michigan Wolverines",
          "short": "Wolverines",
          "abbr": "MICH",
-         "score": 18,
+         "score": 21,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -2327,7 +2327,7 @@
          "name": "Villanova Wildcats",
          "short": "Wildcats",
          "abbr": "VILL",
-         "score": 18,
+         "score": 21,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -2705,10 +2705,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P1 15:20",
+       "detail": "P1 14:25",
        "start": "2026-11-22T00:00:00Z",
        "period": 1,
-       "clock": "15:20",
+       "clock": "14:25",
        "teams": [
         {
          "name": "Blue Jackets",
@@ -2840,10 +2840,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P1 13:27",
+       "detail": "P1 12:08",
        "start": "2026-11-22T00:00:00Z",
        "period": 1,
-       "clock": "13:27",
+       "clock": "12:08",
        "teams": [
         {
          "name": "Devils",
