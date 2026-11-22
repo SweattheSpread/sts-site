@@ -1,5 +1,5 @@
 {
- "updated": "Nov 22, 2026, 1:15 PM PT",
+ "updated": "Nov 22, 2026, 1:17 PM PT",
  "record": {
   "w": 239,
   "l": 237,
@@ -1434,10 +1434,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "10:25 - 1st",
+       "detail": "8:00 - 1st",
        "start": "2026-11-22T21:05Z",
        "period": 1,
-       "clock": "10:25",
+       "clock": "8:00",
        "teams": [
         {
          "name": "New York Jets",
@@ -2038,10 +2038,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "10:25 - 1st",
+       "detail": "8:00 - 1st",
        "start": "2026-11-22T21:05Z",
        "period": 1,
-       "clock": "10:25",
+       "clock": "8:00",
        "teams": [
         {
          "name": "New York Jets",
@@ -2156,11 +2156,11 @@
       "date": "20261122",
       "snapshot": {
        "source": "espn",
-       "state": "in",
-       "detail": "0:36 - 4th",
+       "state": "post",
+       "detail": "Final",
        "start": "2026-11-22T18:00Z",
-       "period": 4,
-       "clock": "0:36",
+       "period": null,
+       "clock": null,
        "teams": [
         {
          "name": "Baltimore Ravens",
@@ -2168,7 +2168,7 @@
          "abbr": "BAL",
          "score": 33,
          "ha": "away",
-         "winner": null,
+         "winner": false,
          "linescores": [
           0,
           0,
@@ -2182,7 +2182,7 @@
          "abbr": "CAR",
          "score": 35,
          "ha": "home",
-         "winner": null,
+         "winner": true,
          "linescores": [
           0,
           0,
@@ -2293,10 +2293,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "3:57 - 2nd",
+       "detail": "3:52 - 2nd",
        "start": "2026-11-22T19:30Z",
        "period": 2,
-       "clock": "3:57",
+       "clock": "3:52",
        "teams": [
         {
          "name": "Robert Morris Colonials",
@@ -2314,7 +2314,7 @@
          "name": "New Mexico State Aggies",
          "short": "Aggies",
          "abbr": "NMSU",
-         "score": 46,
+         "score": 48,
          "ha": "home",
          "winner": null,
          "linescores": [
