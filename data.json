@@ -1,5 +1,5 @@
 {
- "updated": "Nov 22, 2026, 3:05 PM PT",
+ "updated": "Nov 22, 2026, 3:09 PM PT",
  "record": {
   "w": 239,
   "l": 237,
@@ -1473,10 +1473,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "15:00 - 4th",
+       "detail": "13:01 - 4th",
        "start": "2026-11-22T21:05Z",
        "period": 4,
-       "clock": "15:00",
+       "clock": "13:01",
        "teams": [
         {
          "name": "New York Jets",
@@ -1496,7 +1496,7 @@
          "name": "Los Angeles Chargers",
          "short": "Chargers",
          "abbr": "LAC",
-         "score": 10,
+         "score": 17,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -2211,10 +2211,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "15:00 - 4th",
+       "detail": "13:01 - 4th",
        "start": "2026-11-22T21:05Z",
        "period": 4,
-       "clock": "15:00",
+       "clock": "13:01",
        "teams": [
         {
          "name": "New York Jets",
@@ -2234,7 +2234,7 @@
          "name": "Los Angeles Chargers",
          "short": "Chargers",
          "abbr": "LAC",
-         "score": 10,
+         "score": 17,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -2280,10 +2280,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P2 20:00",
+       "detail": "P2 18:38",
        "start": "2026-11-22T22:00:00Z",
        "period": 2,
-       "clock": "20:00",
+       "clock": "18:38",
        "teams": [
         {
          "name": "Sabres",
@@ -2717,16 +2717,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "11:53 - 2nd",
+       "detail": "10:33 - 2nd",
        "start": "2026-11-22T21:30Z",
        "period": 2,
-       "clock": "11:53",
+       "clock": "10:33",
        "teams": [
         {
          "name": "Richmond Spiders",
          "short": "Spiders",
          "abbr": "RICH",
-         "score": 46,
+         "score": 48,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -2738,7 +2738,7 @@
          "name": "Liberty Flames",
          "short": "Flames",
          "abbr": "LIB",
-         "score": 44,
+         "score": 46,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -3281,10 +3281,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P2 20:00",
+       "detail": "P2 18:38",
        "start": "2026-11-22T22:00:00Z",
        "period": 2,
-       "clock": "20:00",
+       "clock": "18:38",
        "teams": [
         {
          "name": "Sabres",
