@@ -1,5 +1,5 @@
 {
- "updated": "Nov 21, 2026, 8:59 PM PT",
+ "updated": "Nov 21, 2026, 9:07 PM PT",
  "record": {
   "w": 224,
   "l": 230,
@@ -2660,10 +2660,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P2 00:55",
+       "detail": "P3 16:29",
        "start": "2026-11-22T03:00:00Z",
-       "period": 2,
-       "clock": "00:55",
+       "period": 3,
+       "clock": "16:29",
        "teams": [
         {
          "name": "Wild",
@@ -2678,7 +2678,7 @@
          "name": "Canucks",
          "short": "VAN",
          "abbr": "VAN",
-         "score": 1,
+         "score": 2,
          "ha": "home",
          "winner": null,
          "linescores": []
