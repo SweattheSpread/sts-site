@@ -1,5 +1,5 @@
 {
- "updated": "Nov 21, 2026, 4:10 PM PT",
+ "updated": "Nov 21, 2026, 4:12 PM PT",
  "record": {
   "w": 224,
   "l": 230,
@@ -1798,10 +1798,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "1:07 - 4th",
+       "detail": "0:22 - 4th",
        "start": "2026-11-21T20:45Z",
        "period": 4,
-       "clock": "1:07",
+       "clock": "0:22",
        "teams": [
         {
          "name": "Texas A&M Aggies",
@@ -1821,7 +1821,7 @@
          "name": "Oklahoma Sooners",
          "short": "Sooners",
          "abbr": "OU",
-         "score": 21,
+         "score": 28,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -1868,10 +1868,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P2 18:48",
+       "detail": "P2 17:35",
        "start": "2026-11-21T23:00:00Z",
        "period": 2,
-       "clock": "18:48",
+       "clock": "17:35",
        "teams": [
         {
          "name": "Penguins",
@@ -1886,7 +1886,7 @@
          "name": "Predators",
          "short": "NSH",
          "abbr": "NSH",
-         "score": 1,
+         "score": 2,
          "ha": "home",
          "winner": null,
          "linescores": []
@@ -2761,9 +2761,9 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "OT",
+       "detail": "2OT",
        "start": "2026-11-21T20:30Z",
-       "period": 5,
+       "period": 6,
        "clock": "0:00",
        "teams": [
         {
@@ -2778,6 +2778,7 @@
           0,
           0,
           0,
+          0,
           0
          ]
         },
@@ -2785,10 +2786,11 @@
          "name": "Michigan Wolverines",
          "short": "Wolverines",
          "abbr": "MICH",
-         "score": 10,
+         "score": 13,
          "ha": "home",
          "winner": null,
          "linescores": [
+          0,
           0,
           0,
           0,
@@ -2832,10 +2834,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P1 18:32",
+       "detail": "P1 18:09",
        "start": "2026-11-22T00:00:00Z",
        "period": 1,
-       "clock": "18:32",
+       "clock": "18:09",
        "teams": [
         {
          "name": "Devils",
@@ -2850,7 +2852,7 @@
          "name": "Blues",
          "short": "STL",
          "abbr": "STL",
-         "score": 0,
+         "score": 1,
          "ha": "home",
          "winner": null,
          "linescores": []
