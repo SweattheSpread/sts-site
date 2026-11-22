@@ -1,5 +1,5 @@
 {
- "updated": "Nov 22, 2026, 11:24 AM PT",
+ "updated": "Nov 22, 2026, 11:26 AM PT",
  "record": {
   "w": 239,
   "l": 237,
@@ -1364,10 +1364,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "0:54 - 2nd",
+       "detail": "0:39 - 2nd",
        "start": "2026-11-22T18:00Z",
        "period": 2,
-       "clock": "0:54",
+       "clock": "0:39",
        "teams": [
         {
          "name": "New Orleans Saints",
@@ -1427,10 +1427,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "1:47 - 2nd",
+       "detail": "0:02 - 2nd",
        "start": "2026-11-22T18:00Z",
        "period": 2,
-       "clock": "1:47",
+       "clock": "0:02",
        "teams": [
         {
          "name": "Tennessee Titans",
@@ -1490,16 +1490,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "1:24 - 2nd",
+       "detail": "1:14 - 2nd",
        "start": "2026-11-22T18:00Z",
        "period": 2,
-       "clock": "1:24",
+       "clock": "1:14",
        "teams": [
         {
          "name": "Miami Dolphins",
          "short": "Dolphins",
          "abbr": "MIA",
-         "score": 3,
+         "score": 6,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -1554,16 +1554,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "1:24 - 2nd",
+       "detail": "1:14 - 2nd",
        "start": "2026-11-22T18:00Z",
        "period": 2,
-       "clock": "1:24",
+       "clock": "1:14",
        "teams": [
         {
          "name": "Miami Dolphins",
          "short": "Dolphins",
          "abbr": "MIA",
-         "score": 3,
+         "score": 6,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -1682,10 +1682,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "0:54 - 2nd",
+       "detail": "0:39 - 2nd",
        "start": "2026-11-22T18:00Z",
        "period": 2,
-       "clock": "0:54",
+       "clock": "0:39",
        "teams": [
         {
          "name": "New Orleans Saints",
@@ -1810,10 +1810,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "0:54 - 2nd",
+       "detail": "0:39 - 2nd",
        "start": "2026-11-22T18:00Z",
        "period": 2,
-       "clock": "0:54",
+       "clock": "0:39",
        "teams": [
         {
          "name": "New Orleans Saints",
@@ -1874,10 +1874,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "1:47 - 2nd",
+       "detail": "0:02 - 2nd",
        "start": "2026-11-22T18:00Z",
        "period": 2,
-       "clock": "1:47",
+       "clock": "0:02",
        "teams": [
         {
          "name": "Tennessee Titans",
@@ -1938,10 +1938,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "1:47 - 2nd",
+       "detail": "0:02 - 2nd",
        "start": "2026-11-22T18:00Z",
        "period": 2,
-       "clock": "1:47",
+       "clock": "0:02",
        "teams": [
         {
          "name": "Tennessee Titans",
@@ -2129,16 +2129,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "1:24 - 2nd",
+       "detail": "1:14 - 2nd",
        "start": "2026-11-22T18:00Z",
        "period": 2,
-       "clock": "1:24",
+       "clock": "1:14",
        "teams": [
         {
          "name": "Miami Dolphins",
          "short": "Dolphins",
          "abbr": "MIA",
-         "score": 3,
+         "score": 6,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -2194,10 +2194,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "2:22 - 2nd",
+       "detail": "2:00 - 2nd",
        "start": "2026-11-22T18:00Z",
        "period": 2,
-       "clock": "2:22",
+       "clock": "2:00",
        "teams": [
         {
          "name": "Baltimore Ravens",
@@ -2258,10 +2258,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "0:54 - 2nd",
+       "detail": "0:39 - 2nd",
        "start": "2026-11-22T18:00Z",
        "period": 2,
-       "clock": "0:54",
+       "clock": "0:39",
        "teams": [
         {
          "name": "New Orleans Saints",
@@ -2321,16 +2321,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "10:06 - 1st",
+       "detail": "7:59 - 1st",
        "start": "2026-11-22T19:00Z",
        "period": 1,
-       "clock": "10:06",
+       "clock": "7:59",
        "teams": [
         {
          "name": "South Dakota Coyotes",
          "short": "Coyotes",
          "abbr": "SDAK",
-         "score": 13,
+         "score": 17,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -2341,7 +2341,7 @@
          "name": "Utah Tech Trailblazers",
          "short": "Trailblazers",
          "abbr": "UTU",
-         "score": 18,
+         "score": 23,
          "ha": "home",
          "winner": null,
          "linescores": [
