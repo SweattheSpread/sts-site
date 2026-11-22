@@ -1,5 +1,5 @@
 {
- "updated": "Nov 21, 2026, 7:12 PM PT",
+ "updated": "Nov 21, 2026, 7:14 PM PT",
  "record": {
   "w": 224,
   "l": 230,
@@ -1821,10 +1821,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P2 13:22",
+       "detail": "P2 11:37",
        "start": "2026-11-22T02:00:00Z",
        "period": 2,
-       "clock": "13:22",
+       "clock": "11:37",
        "teams": [
         {
          "name": "Ducks",
@@ -1839,7 +1839,7 @@
          "name": "Mammoth",
          "short": "UTA",
          "abbr": "UTA",
-         "score": 1,
+         "score": 2,
          "ha": "home",
          "winner": null,
          "linescores": []
@@ -2660,10 +2660,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P1 18:21",
+       "detail": "P1 17:53",
        "start": "2026-11-22T03:00:00Z",
        "period": 1,
-       "clock": "18:21",
+       "clock": "17:53",
        "teams": [
         {
          "name": "Wild",
@@ -2859,16 +2859,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "6:07 - 4th",
+       "detail": "5:05 - 4th",
        "start": "2026-11-22T01:00Z",
        "period": 4,
-       "clock": "6:07",
+       "clock": "5:05",
        "teams": [
         {
          "name": "New Orleans Pelicans",
          "short": "Pelicans",
          "abbr": "NO",
-         "score": 84,
+         "score": 86,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -2882,7 +2882,7 @@
          "name": "San Antonio Spurs",
          "short": "Spurs",
          "abbr": "SA",
-         "score": 108,
+         "score": 110,
          "ha": "home",
          "winner": null,
          "linescores": [
