@@ -1,5 +1,5 @@
 {
- "updated": "Nov 21, 2026, 8:17 PM PT",
+ "updated": "Nov 21, 2026, 8:19 PM PT",
  "record": {
   "w": 224,
   "l": 230,
@@ -1821,10 +1821,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P3 09:58",
+       "detail": "P3 07:58",
        "start": "2026-11-22T02:00:00Z",
        "period": 3,
-       "clock": "09:58",
+       "clock": "07:58",
        "teams": [
         {
          "name": "Ducks",
@@ -2660,10 +2660,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P2 13:57",
+       "detail": "P2 12:58",
        "start": "2026-11-22T03:00:00Z",
        "period": 2,
-       "clock": "13:57",
+       "clock": "12:58",
        "teams": [
         {
          "name": "Wild",
