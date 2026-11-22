@@ -1,5 +1,5 @@
 {
- "updated": "Nov 21, 2026, 6:07 PM PT",
+ "updated": "Nov 21, 2026, 6:09 PM PT",
  "record": {
   "w": 224,
   "l": 230,
@@ -1754,16 +1754,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "5:25 - 3rd",
+       "detail": "4:11 - 3rd",
        "start": "2026-11-22T00:30Z",
        "period": 3,
-       "clock": "5:25",
+       "clock": "4:11",
        "teams": [
         {
          "name": "Portland Trail Blazers",
          "short": "Trail Blazers",
          "abbr": "POR",
-         "score": 59,
+         "score": 64,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -1776,7 +1776,7 @@
          "name": "New York Knicks",
          "short": "Knicks",
          "abbr": "NY",
-         "score": 72,
+         "score": 75,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -2339,7 +2339,7 @@
          "name": "Villanova Wildcats",
          "short": "Wildcats",
          "abbr": "VILL",
-         "score": 70,
+         "score": 71,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -2853,10 +2853,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "2:31 - 2nd",
+       "detail": "1:45 - 2nd",
        "start": "2026-11-22T01:00Z",
        "period": 2,
-       "clock": "2:31",
+       "clock": "1:45",
        "teams": [
         {
          "name": "New Orleans Pelicans",
@@ -2874,7 +2874,7 @@
          "name": "San Antonio Spurs",
          "short": "Spurs",
          "abbr": "SA",
-         "score": 57,
+         "score": 58,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -2922,10 +2922,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P3 17:26",
+       "detail": "P3 16:10",
        "start": "2026-11-22T00:00:00Z",
        "period": 3,
-       "clock": "17:26",
+       "clock": "16:10",
        "teams": [
         {
          "name": "Devils",
