@@ -1,5 +1,5 @@
 {
- "updated": "Nov 22, 2026, 12:20 PM PT",
+ "updated": "Nov 22, 2026, 12:23 PM PT",
  "record": {
   "w": 239,
   "l": 237,
@@ -1306,10 +1306,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "15:00 - 4th",
+       "detail": "13:51 - 4th",
        "start": "2026-11-22T18:00Z",
        "period": 4,
-       "clock": "15:00",
+       "clock": "13:51",
        "teams": [
         {
          "name": "New Orleans Saints",
@@ -1373,10 +1373,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "2:03 - 3rd",
+       "detail": "15:00 - 4th",
        "start": "2026-11-22T18:00Z",
-       "period": 3,
-       "clock": "2:03",
+       "period": 4,
+       "clock": "15:00",
        "teams": [
         {
          "name": "Tennessee Titans",
@@ -1386,6 +1386,7 @@
          "ha": "away",
          "winner": null,
          "linescores": [
+          0,
           0,
           0,
           0
@@ -1399,6 +1400,7 @@
          "ha": "home",
          "winner": null,
          "linescores": [
+          0,
           0,
           0,
           0
@@ -1574,10 +1576,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "12:35 - 4th",
+       "detail": "10:27 - 4th",
        "start": "2026-11-22T18:00Z",
        "period": 4,
-       "clock": "12:35",
+       "clock": "10:27",
        "teams": [
         {
          "name": "Arizona Cardinals",
@@ -1642,10 +1644,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "15:00 - 4th",
+       "detail": "13:51 - 4th",
        "start": "2026-11-22T18:00Z",
        "period": 4,
-       "clock": "15:00",
+       "clock": "13:51",
        "teams": [
         {
          "name": "New Orleans Saints",
@@ -1710,10 +1712,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "13:34 - 4th",
+       "detail": "13:23 - 4th",
        "start": "2026-11-22T18:00Z",
        "period": 4,
-       "clock": "13:34",
+       "clock": "13:23",
        "teams": [
         {
          "name": "Tampa Bay Buccaneers",
@@ -1778,10 +1780,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "15:00 - 4th",
+       "detail": "13:51 - 4th",
        "start": "2026-11-22T18:00Z",
        "period": 4,
-       "clock": "15:00",
+       "clock": "13:51",
        "teams": [
         {
          "name": "New Orleans Saints",
@@ -1846,10 +1848,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "2:03 - 3rd",
+       "detail": "15:00 - 4th",
        "start": "2026-11-22T18:00Z",
-       "period": 3,
-       "clock": "2:03",
+       "period": 4,
+       "clock": "15:00",
        "teams": [
         {
          "name": "Tennessee Titans",
@@ -1859,6 +1861,7 @@
          "ha": "away",
          "winner": null,
          "linescores": [
+          0,
           0,
           0,
           0
@@ -1872,6 +1875,7 @@
          "ha": "home",
          "winner": null,
          "linescores": [
+          0,
           0,
           0,
           0
@@ -1912,10 +1916,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "2:03 - 3rd",
+       "detail": "15:00 - 4th",
        "start": "2026-11-22T18:00Z",
-       "period": 3,
-       "clock": "2:03",
+       "period": 4,
+       "clock": "15:00",
        "teams": [
         {
          "name": "Tennessee Titans",
@@ -1925,6 +1929,7 @@
          "ha": "away",
          "winner": null,
          "linescores": [
+          0,
           0,
           0,
           0
@@ -1938,6 +1943,7 @@
          "ha": "home",
          "winner": null,
          "linescores": [
+          0,
           0,
           0,
           0
@@ -2044,10 +2050,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "13:34 - 4th",
+       "detail": "13:23 - 4th",
        "start": "2026-11-22T18:00Z",
        "period": 4,
-       "clock": "13:34",
+       "clock": "13:23",
        "teams": [
         {
          "name": "Tampa Bay Buccaneers",
@@ -2182,10 +2188,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "4:52 - 3rd",
+       "detail": "4:19 - 3rd",
        "start": "2026-11-22T18:00Z",
        "period": 3,
-       "clock": "4:52",
+       "clock": "4:19",
        "teams": [
         {
          "name": "Baltimore Ravens",
@@ -2248,10 +2254,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "15:00 - 4th",
+       "detail": "13:51 - 4th",
        "start": "2026-11-22T18:00Z",
        "period": 4,
-       "clock": "15:00",
+       "clock": "13:51",
        "teams": [
         {
          "name": "New Orleans Saints",
@@ -2377,16 +2383,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "11:57 - 2nd",
+       "detail": "11:29 - 2nd",
        "start": "2026-11-22T19:00Z",
        "period": 2,
-       "clock": "11:57",
+       "clock": "11:29",
        "teams": [
         {
          "name": "South Dakota Coyotes",
          "short": "Coyotes",
          "abbr": "SDAK",
-         "score": 49,
+         "score": 53,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -2442,10 +2448,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "12:35 - 4th",
+       "detail": "10:27 - 4th",
        "start": "2026-11-22T18:00Z",
        "period": 4,
-       "clock": "12:35",
+       "clock": "10:27",
        "teams": [
         {
          "name": "Arizona Cardinals",
