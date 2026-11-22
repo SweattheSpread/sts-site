@@ -1,5 +1,5 @@
 {
- "updated": "Nov 22, 2026, 3:09 PM PT",
+ "updated": "Nov 22, 2026, 3:11 PM PT",
  "record": {
   "w": 239,
   "l": 237,
@@ -127,183 +127,6 @@
   }
  ],
  "picks": [
-  {
-   "n": 976,
-   "league": "NBA",
-   "type": "Player Prop",
-   "matchup": "Oklahoma City Thunder @ Miami Heat",
-   "pick": "Ajay Mitchell Under 4.5 Rebounds",
-   "odds": -115,
-   "units": 1.0,
-   "gap": null,
-   "start": "2026-11-22T15:10:00",
-   "timed": true,
-   "ticket": "single",
-   "espn": {
-    "legs": [
-     {
-      "kind": "prop",
-      "player": "Ajay Mitchell",
-      "ou": "U",
-      "line": 4.5,
-      "stat": "rebounds",
-      "label": "Ajay Mitchell U 4.5 rebounds",
-      "path": "basketball/nba",
-      "event": "401910030",
-      "date": "20261122",
-      "snapshot": {
-       "source": "espn",
-       "state": "pre",
-       "detail": "11/22 - 6:00 PM EST",
-       "start": "2026-11-22T23:00Z",
-       "period": null,
-       "clock": null,
-       "teams": [
-        {
-         "name": "Oklahoma City Thunder",
-         "short": "Thunder",
-         "abbr": "OKC",
-         "score": 0,
-         "ha": "away",
-         "winner": null,
-         "linescores": []
-        },
-        {
-         "name": "Miami Heat",
-         "short": "Heat",
-         "abbr": "MIA",
-         "score": 0,
-         "ha": "home",
-         "winner": null,
-         "linescores": []
-        }
-       ]
-      },
-      "source": "espn"
-     }
-    ],
-    "sport": "NBA",
-    "ticket": "single"
-   }
-  },
-  {
-   "n": 979,
-   "league": "NBA",
-   "type": "Player Prop",
-   "matchup": "Oklahoma City Thunder @ Miami Heat",
-   "pick": "Jared McCain Under 20.5 Points",
-   "odds": -120,
-   "units": 1.0,
-   "gap": null,
-   "start": "2026-11-22T15:10:00",
-   "timed": true,
-   "ticket": "single",
-   "espn": {
-    "legs": [
-     {
-      "kind": "prop",
-      "player": "Jared McCain",
-      "ou": "U",
-      "line": 20.5,
-      "stat": "points",
-      "label": "Jared McCain U 20.5 points",
-      "path": "basketball/nba",
-      "event": "401910030",
-      "date": "20261122",
-      "snapshot": {
-       "source": "espn",
-       "state": "pre",
-       "detail": "11/22 - 6:00 PM EST",
-       "start": "2026-11-22T23:00Z",
-       "period": null,
-       "clock": null,
-       "teams": [
-        {
-         "name": "Oklahoma City Thunder",
-         "short": "Thunder",
-         "abbr": "OKC",
-         "score": 0,
-         "ha": "away",
-         "winner": null,
-         "linescores": []
-        },
-        {
-         "name": "Miami Heat",
-         "short": "Heat",
-         "abbr": "MIA",
-         "score": 0,
-         "ha": "home",
-         "winner": null,
-         "linescores": []
-        }
-       ]
-      },
-      "source": "espn"
-     }
-    ],
-    "sport": "NBA",
-    "ticket": "single"
-   }
-  },
-  {
-   "n": 980,
-   "league": "NBA",
-   "type": "Player Prop",
-   "matchup": "Oklahoma City Thunder @ Miami Heat",
-   "pick": "Andrew Wiggins Under 3.5 Rebounds",
-   "odds": 125,
-   "units": 1.0,
-   "gap": null,
-   "start": "2026-11-22T15:10:00",
-   "timed": true,
-   "ticket": "single",
-   "espn": {
-    "legs": [
-     {
-      "kind": "prop",
-      "player": "Andrew Wiggins",
-      "ou": "U",
-      "line": 3.5,
-      "stat": "rebounds",
-      "label": "Andrew Wiggins U 3.5 rebounds",
-      "path": "basketball/nba",
-      "event": "401910030",
-      "date": "20261122",
-      "snapshot": {
-       "source": "espn",
-       "state": "pre",
-       "detail": "11/22 - 6:00 PM EST",
-       "start": "2026-11-22T23:00Z",
-       "period": null,
-       "clock": null,
-       "teams": [
-        {
-         "name": "Oklahoma City Thunder",
-         "short": "Thunder",
-         "abbr": "OKC",
-         "score": 0,
-         "ha": "away",
-         "winner": null,
-         "linescores": []
-        },
-        {
-         "name": "Miami Heat",
-         "short": "Heat",
-         "abbr": "MIA",
-         "score": 0,
-         "ha": "home",
-         "winner": null,
-         "linescores": []
-        }
-       ]
-      },
-      "source": "espn"
-     }
-    ],
-    "sport": "NBA",
-    "ticket": "single"
-   }
-  },
   {
    "n": 967,
    "league": "NHL",
@@ -2280,16 +2103,16 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P2 18:38",
+       "detail": "P2 17:20",
        "start": "2026-11-22T22:00:00Z",
        "period": 2,
-       "clock": "18:38",
+       "clock": "17:20",
        "teams": [
         {
          "name": "Sabres",
          "short": "BUF",
          "abbr": "BUF",
-         "score": 1,
+         "score": 2,
          "ha": "away",
          "winner": null,
          "linescores": []
@@ -2717,10 +2540,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "10:33 - 2nd",
+       "detail": "9:36 - 2nd",
        "start": "2026-11-22T21:30Z",
        "period": 2,
-       "clock": "10:33",
+       "clock": "9:36",
        "teams": [
         {
          "name": "Richmond Spiders",
@@ -3281,16 +3104,16 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P2 18:38",
+       "detail": "P2 17:20",
        "start": "2026-11-22T22:00:00Z",
        "period": 2,
-       "clock": "18:38",
+       "clock": "17:20",
        "teams": [
         {
          "name": "Sabres",
          "short": "BUF",
          "abbr": "BUF",
-         "score": 1,
+         "score": 2,
          "ha": "away",
          "winner": null,
          "linescores": []
@@ -3311,6 +3134,65 @@
      }
     ],
     "sport": "NHL",
+    "ticket": "single"
+   }
+  },
+  {
+   "n": 976,
+   "league": "NBA",
+   "type": "Player Prop",
+   "matchup": "Oklahoma City Thunder @ Miami Heat",
+   "pick": "Ajay Mitchell Under 4.5 Rebounds",
+   "odds": -115,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-22T15:10:00",
+   "timed": true,
+   "ticket": "single",
+   "espn": {
+    "legs": [
+     {
+      "kind": "prop",
+      "player": "Ajay Mitchell",
+      "ou": "U",
+      "line": 4.5,
+      "stat": "rebounds",
+      "label": "Ajay Mitchell U 4.5 rebounds",
+      "path": "basketball/nba",
+      "event": "401910030",
+      "date": "20261122",
+      "snapshot": {
+       "source": "espn",
+       "state": "pre",
+       "detail": "11/22 - 6:00 PM EST",
+       "start": "2026-11-22T23:00Z",
+       "period": null,
+       "clock": null,
+       "teams": [
+        {
+         "name": "Oklahoma City Thunder",
+         "short": "Thunder",
+         "abbr": "OKC",
+         "score": 0,
+         "ha": "away",
+         "winner": null,
+         "linescores": []
+        },
+        {
+         "name": "Miami Heat",
+         "short": "Heat",
+         "abbr": "MIA",
+         "score": 0,
+         "ha": "home",
+         "winner": null,
+         "linescores": []
+        }
+       ]
+      },
+      "source": "espn"
+     }
+    ],
+    "sport": "NBA",
     "ticket": "single"
    }
   },
@@ -3443,6 +3325,124 @@
      }
     ],
     "sport": "NFL",
+    "ticket": "single"
+   }
+  },
+  {
+   "n": 979,
+   "league": "NBA",
+   "type": "Player Prop",
+   "matchup": "Oklahoma City Thunder @ Miami Heat",
+   "pick": "Jared McCain Under 20.5 Points",
+   "odds": -120,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-22T15:10:00",
+   "timed": true,
+   "ticket": "single",
+   "espn": {
+    "legs": [
+     {
+      "kind": "prop",
+      "player": "Jared McCain",
+      "ou": "U",
+      "line": 20.5,
+      "stat": "points",
+      "label": "Jared McCain U 20.5 points",
+      "path": "basketball/nba",
+      "event": "401910030",
+      "date": "20261122",
+      "snapshot": {
+       "source": "espn",
+       "state": "pre",
+       "detail": "11/22 - 6:00 PM EST",
+       "start": "2026-11-22T23:00Z",
+       "period": null,
+       "clock": null,
+       "teams": [
+        {
+         "name": "Oklahoma City Thunder",
+         "short": "Thunder",
+         "abbr": "OKC",
+         "score": 0,
+         "ha": "away",
+         "winner": null,
+         "linescores": []
+        },
+        {
+         "name": "Miami Heat",
+         "short": "Heat",
+         "abbr": "MIA",
+         "score": 0,
+         "ha": "home",
+         "winner": null,
+         "linescores": []
+        }
+       ]
+      },
+      "source": "espn"
+     }
+    ],
+    "sport": "NBA",
+    "ticket": "single"
+   }
+  },
+  {
+   "n": 980,
+   "league": "NBA",
+   "type": "Player Prop",
+   "matchup": "Oklahoma City Thunder @ Miami Heat",
+   "pick": "Andrew Wiggins Under 3.5 Rebounds",
+   "odds": 125,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-22T15:10:00",
+   "timed": true,
+   "ticket": "single",
+   "espn": {
+    "legs": [
+     {
+      "kind": "prop",
+      "player": "Andrew Wiggins",
+      "ou": "U",
+      "line": 3.5,
+      "stat": "rebounds",
+      "label": "Andrew Wiggins U 3.5 rebounds",
+      "path": "basketball/nba",
+      "event": "401910030",
+      "date": "20261122",
+      "snapshot": {
+       "source": "espn",
+       "state": "pre",
+       "detail": "11/22 - 6:00 PM EST",
+       "start": "2026-11-22T23:00Z",
+       "period": null,
+       "clock": null,
+       "teams": [
+        {
+         "name": "Oklahoma City Thunder",
+         "short": "Thunder",
+         "abbr": "OKC",
+         "score": 0,
+         "ha": "away",
+         "winner": null,
+         "linescores": []
+        },
+        {
+         "name": "Miami Heat",
+         "short": "Heat",
+         "abbr": "MIA",
+         "score": 0,
+         "ha": "home",
+         "winner": null,
+         "linescores": []
+        }
+       ]
+      },
+      "source": "espn"
+     }
+    ],
+    "sport": "NBA",
     "ticket": "single"
    }
   }
