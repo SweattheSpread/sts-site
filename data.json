@@ -1,5 +1,5 @@
 {
- "updated": "Nov 22, 2026, 11:26 AM PT",
+ "updated": "Nov 22, 2026, 11:29 AM PT",
  "record": {
   "w": 239,
   "l": 237,
@@ -1364,10 +1364,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "0:39 - 2nd",
+       "detail": "0:30 - 2nd",
        "start": "2026-11-22T18:00Z",
        "period": 2,
-       "clock": "0:39",
+       "clock": "0:30",
        "teams": [
         {
          "name": "New Orleans Saints",
@@ -1427,16 +1427,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "0:02 - 2nd",
+       "detail": "Halftime",
        "start": "2026-11-22T18:00Z",
        "period": 2,
-       "clock": "0:02",
+       "clock": "0:00",
        "teams": [
         {
          "name": "Tennessee Titans",
          "short": "Titans",
          "abbr": "TEN",
-         "score": 6,
+         "score": 9,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -1490,10 +1490,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "1:14 - 2nd",
+       "detail": "0:38 - 2nd",
        "start": "2026-11-22T18:00Z",
        "period": 2,
-       "clock": "1:14",
+       "clock": "0:38",
        "teams": [
         {
          "name": "Miami Dolphins",
@@ -1554,10 +1554,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "1:14 - 2nd",
+       "detail": "0:38 - 2nd",
        "start": "2026-11-22T18:00Z",
        "period": 2,
-       "clock": "1:14",
+       "clock": "0:38",
        "teams": [
         {
          "name": "Miami Dolphins",
@@ -1682,10 +1682,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "0:39 - 2nd",
+       "detail": "0:30 - 2nd",
        "start": "2026-11-22T18:00Z",
        "period": 2,
-       "clock": "0:39",
+       "clock": "0:30",
        "teams": [
         {
          "name": "New Orleans Saints",
@@ -1810,10 +1810,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "0:39 - 2nd",
+       "detail": "0:30 - 2nd",
        "start": "2026-11-22T18:00Z",
        "period": 2,
-       "clock": "0:39",
+       "clock": "0:30",
        "teams": [
         {
          "name": "New Orleans Saints",
@@ -1874,16 +1874,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "0:02 - 2nd",
+       "detail": "Halftime",
        "start": "2026-11-22T18:00Z",
        "period": 2,
-       "clock": "0:02",
+       "clock": "0:00",
        "teams": [
         {
          "name": "Tennessee Titans",
          "short": "Titans",
          "abbr": "TEN",
-         "score": 6,
+         "score": 9,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -1938,16 +1938,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "0:02 - 2nd",
+       "detail": "Halftime",
        "start": "2026-11-22T18:00Z",
        "period": 2,
-       "clock": "0:02",
+       "clock": "0:00",
        "teams": [
         {
          "name": "Tennessee Titans",
          "short": "Titans",
          "abbr": "TEN",
-         "score": 6,
+         "score": 9,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -2129,10 +2129,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "1:14 - 2nd",
+       "detail": "0:38 - 2nd",
        "start": "2026-11-22T18:00Z",
        "period": 2,
-       "clock": "1:14",
+       "clock": "0:38",
        "teams": [
         {
          "name": "Miami Dolphins",
@@ -2258,10 +2258,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "0:39 - 2nd",
+       "detail": "0:30 - 2nd",
        "start": "2026-11-22T18:00Z",
        "period": 2,
-       "clock": "0:39",
+       "clock": "0:30",
        "teams": [
         {
          "name": "New Orleans Saints",
