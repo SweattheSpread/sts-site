@@ -1,5 +1,5 @@
 {
- "updated": "Nov 21, 2026, 5:47 PM PT",
+ "updated": "Nov 21, 2026, 5:49 PM PT",
  "record": {
   "w": 224,
   "l": 230,
@@ -1934,10 +1934,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P2 03:07",
+       "detail": "P2 00:53",
        "start": "2026-11-22T00:00:00Z",
        "period": 2,
-       "clock": "03:07",
+       "clock": "00:53",
        "teams": [
         {
          "name": "Blue Jackets",
@@ -2716,10 +2716,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P2 03:07",
+       "detail": "P2 00:53",
        "start": "2026-11-22T00:00:00Z",
        "period": 2,
-       "clock": "03:07",
+       "clock": "00:53",
        "teams": [
         {
          "name": "Blue Jackets",
@@ -2851,16 +2851,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "9:27 - 2nd",
+       "detail": "7:40 - 2nd",
        "start": "2026-11-22T01:00Z",
        "period": 2,
-       "clock": "9:27",
+       "clock": "7:40",
        "teams": [
         {
          "name": "New Orleans Pelicans",
          "short": "Pelicans",
          "abbr": "NO",
-         "score": 31,
+         "score": 33,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -2872,7 +2872,7 @@
          "name": "San Antonio Spurs",
          "short": "Spurs",
          "abbr": "SA",
-         "score": 40,
+         "score": 48,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -2920,10 +2920,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P2 14:56",
+       "detail": "P2 12:42",
        "start": "2026-11-22T00:00:00Z",
        "period": 2,
-       "clock": "14:56",
+       "clock": "12:42",
        "teams": [
         {
          "name": "Devils",
