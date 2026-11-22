@@ -1,5 +1,5 @@
 {
- "updated": "Nov 21, 2026, 7:55 PM PT",
+ "updated": "Nov 21, 2026, 7:58 PM PT",
  "record": {
   "w": 224,
   "l": 230,
@@ -1619,32 +1619,48 @@
       "event": "401856752",
       "date": "20261121",
       "snapshot": {
-       "source": "odds-api",
+       "source": "espn",
        "state": "post",
        "detail": "Final",
-       "start": "2026-11-21T20:50:51Z",
+       "start": "2026-11-21T20:45Z",
+       "period": null,
+       "clock": null,
        "teams": [
         {
          "name": "Texas A&M Aggies",
-         "short": "Texas A&M Aggies",
-         "abbr": "",
+         "short": "Aggies",
+         "abbr": "TA&M",
          "score": 7,
          "ha": "away",
          "winner": false,
-         "linescores": []
+         "linescores": [
+          0,
+          0,
+          0,
+          0
+         ]
         },
         {
          "name": "Oklahoma Sooners",
-         "short": "Oklahoma Sooners",
-         "abbr": "",
+         "short": "Sooners",
+         "abbr": "OU",
          "score": 28,
          "ha": "home",
          "winner": true,
-         "linescores": []
+         "linescores": [
+          0,
+          0,
+          0,
+          0
+         ]
         }
-       ]
+       ],
+       "stat": {
+        "v": 4,
+        "name": "Mario Craver"
+       }
       },
-      "source": "odds-api"
+      "source": "espn"
      }
     ],
     "sport": "NCAAF",
@@ -1805,10 +1821,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P3 20:00",
+       "detail": "P3 18:31",
        "start": "2026-11-22T02:00:00Z",
        "period": 3,
-       "clock": "20:00",
+       "clock": "18:31",
        "teams": [
         {
          "name": "Ducks",
@@ -1914,46 +1930,34 @@
       "side": "Columbia",
       "line": 1.5,
       "label": "Columbia +1.5",
-      "path": "basketball/mens-college-basketball",
-      "event": "401923402",
-      "date": "20261121",
+      "unverified": true,
       "snapshot": {
-       "source": "espn",
+       "source": "odds-api",
        "state": "post",
-       "detail": "Final/OT",
-       "start": "2026-11-21T17:00Z",
-       "period": null,
-       "clock": null,
+       "detail": "Final",
+       "start": "2026-11-21T17:03:48Z",
        "teams": [
         {
          "name": "Columbia Lions",
-         "short": "Lions",
-         "abbr": "COLU",
+         "short": "Columbia Lions",
+         "abbr": "",
          "score": 80,
          "ha": "away",
          "winner": true,
-         "linescores": [
-          0,
-          0,
-          0
-         ]
+         "linescores": []
         },
         {
-         "name": "Boston University Terriers",
-         "short": "Terriers",
-         "abbr": "BU",
+         "name": "Boston Univ. Terriers",
+         "short": "Boston Univ. Terriers",
+         "abbr": "",
          "score": 71,
          "ha": "home",
          "winner": false,
-         "linescores": [
-          0,
-          0,
-          0
-         ]
+         "linescores": []
         }
        ]
       },
-      "source": "espn"
+      "source": "odds-api"
      }
     ],
     "sport": "NCAAB",
@@ -1979,44 +1983,34 @@
       "side": "Wichita State",
       "line": 2.0,
       "label": "Wichita State +2",
-      "path": "basketball/mens-college-basketball",
-      "event": "401919031",
-      "date": "20261121",
+      "unverified": true,
       "snapshot": {
-       "source": "espn",
+       "source": "odds-api",
        "state": "post",
        "detail": "Final",
-       "start": "2026-11-21T19:00Z",
-       "period": null,
-       "clock": null,
+       "start": "2026-11-21T19:00:00Z",
        "teams": [
         {
          "name": "New Mexico Lobos",
-         "short": "Lobos",
-         "abbr": "UNM",
+         "short": "New Mexico Lobos",
+         "abbr": "",
          "score": 60,
          "ha": "away",
          "winner": false,
-         "linescores": [
-          0,
-          0
-         ]
+         "linescores": []
         },
         {
-         "name": "Wichita State Shockers",
-         "short": "Shockers",
-         "abbr": "WICH",
+         "name": "Wichita St Shockers",
+         "short": "Wichita St Shockers",
+         "abbr": "",
          "score": 85,
          "ha": "home",
          "winner": true,
-         "linescores": [
-          0,
-          0
-         ]
+         "linescores": []
         }
        ]
       },
-      "source": "espn"
+      "source": "odds-api"
      }
     ],
     "sport": "NCAAB",
@@ -2042,44 +2036,34 @@
       "side": "Binghamton",
       "line": 1.5,
       "label": "Binghamton +1.5",
-      "path": "basketball/mens-college-basketball",
-      "event": "401911278",
-      "date": "20261121",
+      "unverified": true,
       "snapshot": {
-       "source": "espn",
+       "source": "odds-api",
        "state": "post",
        "detail": "Final",
-       "start": "2026-11-21T20:30Z",
-       "period": null,
-       "clock": null,
+       "start": "2026-11-21T20:30:00Z",
        "teams": [
         {
-         "name": "Army Black Knights",
-         "short": "Black Knights",
-         "abbr": "ARMY",
-         "score": 46,
+         "name": "Binghamton Bearcats",
+         "short": "Binghamton Bearcats",
+         "abbr": "",
+         "score": 67,
          "ha": "away",
-         "winner": false,
-         "linescores": [
-          0,
-          0
-         ]
+         "winner": true,
+         "linescores": []
         },
         {
-         "name": "Binghamton Bearcats",
-         "short": "Bearcats",
-         "abbr": "BING",
-         "score": 67,
+         "name": "Army Knights",
+         "short": "Army Knights",
+         "abbr": "",
+         "score": 46,
          "ha": "home",
-         "winner": true,
-         "linescores": [
-          0,
-          0
-         ]
+         "winner": false,
+         "linescores": []
         }
        ]
       },
-      "source": "espn"
+      "source": "odds-api"
      }
     ],
     "sport": "NCAAB",
@@ -2105,44 +2089,34 @@
       "side": "UNC Greensboro",
       "line": -16.5,
       "label": "UNC Greensboro -16.5",
-      "path": "basketball/mens-college-basketball",
-      "event": "401922284",
-      "date": "20261121",
+      "unverified": true,
       "snapshot": {
-       "source": "espn",
+       "source": "odds-api",
        "state": "post",
        "detail": "Final",
-       "start": "2026-11-21T16:00Z",
-       "period": null,
-       "clock": null,
+       "start": "2026-11-21T16:00:00Z",
        "teams": [
         {
          "name": "South Carolina Upstate Spartans",
-         "short": "Spartans",
-         "abbr": "UPST",
+         "short": "South Carolina Upstate Spartans",
+         "abbr": "",
          "score": 66,
          "ha": "away",
          "winner": false,
-         "linescores": [
-          0,
-          0
-         ]
+         "linescores": []
         },
         {
          "name": "UNC Greensboro Spartans",
-         "short": "Spartans",
-         "abbr": "UNCG",
+         "short": "UNC Greensboro Spartans",
+         "abbr": "",
          "score": 85,
          "ha": "home",
          "winner": true,
-         "linescores": [
-          0,
-          0
-         ]
+         "linescores": []
         }
        ]
       },
-      "source": "espn"
+      "source": "odds-api"
      }
     ],
     "sport": "NCAAB",
@@ -2238,44 +2212,34 @@
       "ou": "U",
       "line": 160.5,
       "label": "U 160.5",
-      "path": "basketball/mens-college-basketball",
-      "event": "401921776",
-      "date": "20261121",
+      "unverified": true,
       "snapshot": {
-       "source": "espn",
+       "source": "odds-api",
        "state": "post",
        "detail": "Final",
-       "start": "2026-11-22T00:00Z",
-       "period": null,
-       "clock": null,
+       "start": "2026-11-22T00:02:33Z",
        "teams": [
         {
          "name": "Michigan Wolverines",
-         "short": "Wolverines",
-         "abbr": "MICH",
+         "short": "Michigan Wolverines",
+         "abbr": "",
          "score": 73,
          "ha": "away",
          "winner": false,
-         "linescores": [
-          0,
-          0
-         ]
+         "linescores": []
         },
         {
          "name": "Villanova Wildcats",
-         "short": "Wildcats",
-         "abbr": "VILL",
+         "short": "Villanova Wildcats",
+         "abbr": "",
          "score": 79,
          "ha": "home",
          "winner": true,
-         "linescores": [
-          0,
-          0
-         ]
+         "linescores": []
         }
        ]
       },
-      "source": "espn"
+      "source": "odds-api"
      }
     ],
     "sport": "NCAAB",
@@ -2302,44 +2266,34 @@
       "ou": "O",
       "line": 136.5,
       "label": "O 136.5",
-      "path": "basketball/mens-college-basketball",
-      "event": "401911278",
-      "date": "20261121",
+      "unverified": true,
       "snapshot": {
-       "source": "espn",
+       "source": "odds-api",
        "state": "post",
        "detail": "Final",
-       "start": "2026-11-21T20:30Z",
-       "period": null,
-       "clock": null,
+       "start": "2026-11-21T20:30:00Z",
        "teams": [
         {
-         "name": "Army Black Knights",
-         "short": "Black Knights",
-         "abbr": "ARMY",
-         "score": 46,
+         "name": "Binghamton Bearcats",
+         "short": "Binghamton Bearcats",
+         "abbr": "",
+         "score": 67,
          "ha": "away",
-         "winner": false,
-         "linescores": [
-          0,
-          0
-         ]
+         "winner": true,
+         "linescores": []
         },
         {
-         "name": "Binghamton Bearcats",
-         "short": "Bearcats",
-         "abbr": "BING",
-         "score": 67,
+         "name": "Army Knights",
+         "short": "Army Knights",
+         "abbr": "",
+         "score": 46,
          "ha": "home",
-         "winner": true,
-         "linescores": [
-          0,
-          0
-         ]
+         "winner": false,
+         "linescores": []
         }
        ]
       },
-      "source": "espn"
+      "source": "odds-api"
      }
     ],
     "sport": "NCAAB",
@@ -2366,44 +2320,34 @@
       "ou": "U",
       "line": 156.5,
       "label": "U 156.5",
-      "path": "basketball/mens-college-basketball",
-      "event": "401919031",
-      "date": "20261121",
+      "unverified": true,
       "snapshot": {
-       "source": "espn",
+       "source": "odds-api",
        "state": "post",
        "detail": "Final",
-       "start": "2026-11-21T19:00Z",
-       "period": null,
-       "clock": null,
+       "start": "2026-11-21T19:00:00Z",
        "teams": [
         {
          "name": "New Mexico Lobos",
-         "short": "Lobos",
-         "abbr": "UNM",
+         "short": "New Mexico Lobos",
+         "abbr": "",
          "score": 60,
          "ha": "away",
          "winner": false,
-         "linescores": [
-          0,
-          0
-         ]
+         "linescores": []
         },
         {
-         "name": "Wichita State Shockers",
-         "short": "Shockers",
-         "abbr": "WICH",
+         "name": "Wichita St Shockers",
+         "short": "Wichita St Shockers",
+         "abbr": "",
          "score": 85,
          "ha": "home",
          "winner": true,
-         "linescores": [
-          0,
-          0
-         ]
+         "linescores": []
         }
        ]
       },
-      "source": "espn"
+      "source": "odds-api"
      }
     ],
     "sport": "NCAAB",
@@ -2644,10 +2588,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P1 09:53",
+       "detail": "P1 06:21",
        "start": "2026-11-22T03:00:00Z",
        "period": 1,
-       "clock": "09:53",
+       "clock": "06:21",
        "teams": [
         {
          "name": "Wild",
