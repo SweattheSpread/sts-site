@@ -1,5 +1,5 @@
 {
- "updated": "Nov 22, 2026, 2:31 PM PT",
+ "updated": "Nov 22, 2026, 2:33 PM PT",
  "record": {
   "w": 239,
   "l": 237,
@@ -1551,10 +1551,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "11:23 - 2nd",
+       "detail": "11:17 - 2nd",
        "start": "2026-11-22T21:25Z",
        "period": 2,
-       "clock": "11:23",
+       "clock": "11:17",
        "teams": [
         {
          "name": "Jacksonville Jaguars",
@@ -2154,10 +2154,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P1 09:29",
+       "detail": "P1 08:18",
        "start": "2026-11-22T22:00:00Z",
        "period": 1,
-       "clock": "09:29",
+       "clock": "08:18",
        "teams": [
         {
          "name": "Sabres",
@@ -2591,16 +2591,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "0:33 - 1st",
+       "detail": "Halftime",
        "start": "2026-11-22T21:30Z",
        "period": 1,
-       "clock": "0:33",
+       "clock": "0:00",
        "teams": [
         {
          "name": "Richmond Spiders",
          "short": "Spiders",
          "abbr": "RICH",
-         "score": 30,
+         "score": 32,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -2899,10 +2899,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "11:23 - 2nd",
+       "detail": "11:17 - 2nd",
        "start": "2026-11-22T21:25Z",
        "period": 2,
-       "clock": "11:23",
+       "clock": "11:17",
        "teams": [
         {
          "name": "Jacksonville Jaguars",
@@ -2946,10 +2946,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "11:23 - 2nd",
+       "detail": "11:17 - 2nd",
        "start": "2026-11-22T21:25Z",
        "period": 2,
-       "clock": "11:23",
+       "clock": "11:17",
        "teams": [
         {
          "name": "Jacksonville Jaguars",
@@ -2993,10 +2993,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "11:23 - 2nd",
+       "detail": "11:17 - 2nd",
        "start": "2026-11-22T21:25Z",
        "period": 2,
-       "clock": "11:23",
+       "clock": "11:17",
        "teams": [
         {
          "name": "Jacksonville Jaguars",
@@ -3043,10 +3043,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "11:23 - 2nd",
+       "detail": "11:17 - 2nd",
        "start": "2026-11-22T21:25Z",
        "period": 2,
-       "clock": "11:23",
+       "clock": "11:17",
        "teams": [
         {
          "name": "Jacksonville Jaguars",
@@ -3090,10 +3090,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "11:23 - 2nd",
+       "detail": "11:17 - 2nd",
        "start": "2026-11-22T21:25Z",
        "period": 2,
-       "clock": "11:23",
+       "clock": "11:17",
        "teams": [
         {
          "name": "Jacksonville Jaguars",
@@ -3153,10 +3153,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P1 09:29",
+       "detail": "P1 08:18",
        "start": "2026-11-22T22:00:00Z",
        "period": 1,
-       "clock": "09:29",
+       "clock": "08:18",
        "teams": [
         {
          "name": "Sabres",
