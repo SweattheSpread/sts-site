@@ -1,5 +1,5 @@
 {
- "updated": "Nov 21, 2026, 9:40 PM PT",
+ "updated": "Nov 21, 2026, 9:43 PM PT",
  "record": {
   "w": 224,
   "l": 230,
@@ -2660,10 +2660,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P3 00:00",
+       "detail": "P4 04:23",
        "start": "2026-11-22T03:00:00Z",
-       "period": 3,
-       "clock": "00:00",
+       "period": 4,
+       "clock": "04:23",
        "teams": [
         {
          "name": "Wild",
