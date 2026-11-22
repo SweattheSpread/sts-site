@@ -1,5 +1,5 @@
 {
- "updated": "Nov 22, 2026, 9:43 AM PT",
+ "updated": "Nov 22, 2026, 9:46 AM PT",
  "record": {
   "w": 239,
   "l": 237,
@@ -11,7 +11,7 @@
   "first": "2026-10-12",
   "last": "2026-11-21"
  },
- "pending": 33,
+ "pending": 34,
  "plays": [
   {
    "n": 334,
@@ -8152,6 +8152,22 @@
    "matchup": "Robert Morris Colonials @ New Mexico State Aggies (neutral, Sun 11/22 11:30 AM PT)",
    "pick": "Over 135 -110",
    "odds": -110,
+   "units": 1.0,
+   "result": null,
+   "pl": null,
+   "pending": true
+  },
+  {
+   "n": 967,
+   "date": "2026-11-22",
+   "day": "2026-11-22",
+   "league": "NHL",
+   "market": "player_prop",
+   "market_label": "Player Prop",
+   "ticket": "single",
+   "matchup": "Pittsburgh Penguins @ Dallas Stars",
+   "pick": "Jamie Benn Under 0.5 points",
+   "odds": -135,
    "units": 1.0,
    "result": null,
    "pl": null,

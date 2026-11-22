@@ -1,5 +1,5 @@
 {
- "updated": "Nov 22, 2026, 9:43 AM PT",
+ "updated": "Nov 22, 2026, 9:46 AM PT",
  "record": {
   "w": 239,
   "l": 237,
@@ -11,7 +11,7 @@
   "first": "2026-10-12",
   "last": "2026-11-21"
  },
- "pending": 33,
+ "pending": 34,
  "latest": [
   {
    "n": 956,
@@ -1363,6 +1363,66 @@
         }
        ],
        "nhl_id": 2026020374
+      },
+      "source": "nhl"
+     }
+    ],
+    "sport": "NHL",
+    "ticket": "single"
+   }
+  },
+  {
+   "n": 967,
+   "league": "NHL",
+   "type": "Player Prop",
+   "matchup": "Pittsburgh Penguins @ Dallas Stars",
+   "pick": "Jamie Benn Under 0.5 points",
+   "odds": -135,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-22T16:10:00",
+   "timed": true,
+   "ticket": "single",
+   "espn": {
+    "legs": [
+     {
+      "kind": "prop",
+      "player": "Jamie Benn",
+      "ou": "U",
+      "line": 0.5,
+      "stat": "points",
+      "label": "Jamie Benn U 0.5 points",
+      "date": "20261122",
+      "unverified": true,
+      "reason": "Player not found in this game",
+      "snapshot": {
+       "source": "nhl",
+       "state": "pre",
+       "detail": "Scheduled",
+       "start": "2026-11-23T00:00:00Z",
+       "period": null,
+       "clock": null,
+       "teams": [
+        {
+         "name": "Penguins",
+         "short": "PIT",
+         "abbr": "PIT",
+         "score": 0,
+         "ha": "away",
+         "winner": null,
+         "linescores": []
+        },
+        {
+         "name": "Stars",
+         "short": "DAL",
+         "abbr": "DAL",
+         "score": 0,
+         "ha": "home",
+         "winner": null,
+         "linescores": []
+        }
+       ],
+       "nhl_id": 2026020376
       },
       "source": "nhl"
      }
