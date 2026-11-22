@@ -1,5 +1,5 @@
 {
- "updated": "Nov 21, 2026, 7:52 PM PT",
+ "updated": "Nov 21, 2026, 7:55 PM PT",
  "record": {
   "w": 224,
   "l": 230,
@@ -1619,48 +1619,32 @@
       "event": "401856752",
       "date": "20261121",
       "snapshot": {
-       "source": "espn",
+       "source": "odds-api",
        "state": "post",
        "detail": "Final",
-       "start": "2026-11-21T20:45Z",
-       "period": null,
-       "clock": null,
+       "start": "2026-11-21T20:50:51Z",
        "teams": [
         {
          "name": "Texas A&M Aggies",
-         "short": "Aggies",
-         "abbr": "TA&M",
+         "short": "Texas A&M Aggies",
+         "abbr": "",
          "score": 7,
          "ha": "away",
          "winner": false,
-         "linescores": [
-          0,
-          0,
-          0,
-          0
-         ]
+         "linescores": []
         },
         {
          "name": "Oklahoma Sooners",
-         "short": "Sooners",
-         "abbr": "OU",
+         "short": "Oklahoma Sooners",
+         "abbr": "",
          "score": 28,
          "ha": "home",
          "winner": true,
-         "linescores": [
-          0,
-          0,
-          0,
-          0
-         ]
+         "linescores": []
         }
-       ],
-       "stat": {
-        "v": 4,
-        "name": "Mario Craver"
-       }
+       ]
       },
-      "source": "espn"
+      "source": "odds-api"
      }
     ],
     "sport": "NCAAF",
@@ -1821,10 +1805,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P2 01:46",
+       "detail": "P3 20:00",
        "start": "2026-11-22T02:00:00Z",
-       "period": 2,
-       "clock": "01:46",
+       "period": 3,
+       "clock": "20:00",
        "teams": [
         {
          "name": "Ducks",
@@ -2660,10 +2644,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P1 12:20",
+       "detail": "P1 09:53",
        "start": "2026-11-22T03:00:00Z",
        "period": 1,
-       "clock": "12:20",
+       "clock": "09:53",
        "teams": [
         {
          "name": "Wild",
