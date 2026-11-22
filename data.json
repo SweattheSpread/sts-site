@@ -1,5 +1,5 @@
 {
- "updated": "Nov 22, 2026, 4:47 AM PT",
+ "updated": "Nov 22, 2026, 5:07 AM PT",
  "record": {
   "w": 239,
   "l": 237,
@@ -11,7 +11,7 @@
   "first": "2026-10-12",
   "last": "2026-11-21"
  },
- "pending": 28,
+ "pending": 27,
  "latest": [
   {
    "n": 956,
@@ -1655,35 +1655,7 @@
    }
   }
  ],
- "awaiting": [
-  {
-   "n": 927,
-   "league": "NCAAF",
-   "type": "Spread",
-   "matchup": "Toronto Raptors @ Detroit Pistons",
-   "pick": "Immanuel Quickley Over 5.5 assists",
-   "odds": -105,
-   "units": 3.0,
-   "gap": null,
-   "start": "2026-11-20T16:40:00",
-   "timed": true,
-   "ticket": "single",
-   "espn": {
-    "legs": [
-     {
-      "kind": "team_total",
-      "side": "Immanuel Quickley",
-      "ou": "O",
-      "line": 5.5,
-      "label": "Immanuel Quickley O 5.5",
-      "unverified": true
-     }
-    ],
-    "sport": "NCAAF",
-    "ticket": "single"
-   }
-  }
- ],
+ "awaiting": [],
  "daily": {
   "2026-10-12": {
    "u": 5.67,
