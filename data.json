@@ -1,5 +1,5 @@
 {
- "updated": "Nov 22, 2026, 11:59 AM PT",
+ "updated": "Nov 22, 2026, 12:01 PM PT",
  "record": {
   "w": 239,
   "l": 237,
@@ -1371,10 +1371,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "8:53 - 3rd",
+       "detail": "7:30 - 3rd",
        "start": "2026-11-22T18:00Z",
        "period": 3,
-       "clock": "8:53",
+       "clock": "7:30",
        "teams": [
         {
          "name": "Tennessee Titans",
@@ -1436,10 +1436,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "11:35 - 3rd",
+       "detail": "9:33 - 3rd",
        "start": "2026-11-22T18:00Z",
        "period": 3,
-       "clock": "11:35",
+       "clock": "9:33",
        "teams": [
         {
          "name": "Miami Dolphins",
@@ -1502,10 +1502,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "11:35 - 3rd",
+       "detail": "9:33 - 3rd",
        "start": "2026-11-22T18:00Z",
        "period": 3,
-       "clock": "11:35",
+       "clock": "9:33",
        "teams": [
         {
          "name": "Miami Dolphins",
@@ -1568,10 +1568,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "3:17 - 3rd",
+       "detail": "3:05 - 3rd",
        "start": "2026-11-22T18:00Z",
        "period": 3,
-       "clock": "3:17",
+       "clock": "3:05",
        "teams": [
         {
          "name": "Arizona Cardinals",
@@ -1700,10 +1700,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "7:18 - 3rd",
+       "detail": "5:57 - 3rd",
        "start": "2026-11-22T18:00Z",
        "period": 3,
-       "clock": "7:18",
+       "clock": "5:57",
        "teams": [
         {
          "name": "Tampa Bay Buccaneers",
@@ -1832,10 +1832,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "8:53 - 3rd",
+       "detail": "7:30 - 3rd",
        "start": "2026-11-22T18:00Z",
        "period": 3,
-       "clock": "8:53",
+       "clock": "7:30",
        "teams": [
         {
          "name": "Tennessee Titans",
@@ -1898,10 +1898,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "8:53 - 3rd",
+       "detail": "7:30 - 3rd",
        "start": "2026-11-22T18:00Z",
        "period": 3,
-       "clock": "8:53",
+       "clock": "7:30",
        "teams": [
         {
          "name": "Tennessee Titans",
@@ -2028,10 +2028,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "7:18 - 3rd",
+       "detail": "5:57 - 3rd",
        "start": "2026-11-22T18:00Z",
        "period": 3,
-       "clock": "7:18",
+       "clock": "5:57",
        "teams": [
         {
          "name": "Tampa Bay Buccaneers",
@@ -2095,10 +2095,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "11:35 - 3rd",
+       "detail": "9:33 - 3rd",
        "start": "2026-11-22T18:00Z",
        "period": 3,
-       "clock": "11:35",
+       "clock": "9:33",
        "teams": [
         {
          "name": "Miami Dolphins",
@@ -2162,10 +2162,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "12:45 - 3rd",
+       "detail": "11:43 - 3rd",
        "start": "2026-11-22T18:00Z",
        "period": 3,
-       "clock": "12:45",
+       "clock": "11:43",
        "teams": [
         {
          "name": "Baltimore Ravens",
@@ -2294,16 +2294,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "7:11 - 1st",
+       "detail": "5:15 - 1st",
        "start": "2026-11-22T19:30Z",
        "period": 1,
-       "clock": "7:11",
+       "clock": "5:15",
        "teams": [
         {
          "name": "Robert Morris Colonials",
          "short": "Colonials",
          "abbr": "RMU",
-         "score": 24,
+         "score": 27,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -2314,7 +2314,7 @@
          "name": "New Mexico State Aggies",
          "short": "Aggies",
          "abbr": "NMSU",
-         "score": 17,
+         "score": 19,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -2418,10 +2418,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "3:17 - 3rd",
+       "detail": "3:05 - 3rd",
        "start": "2026-11-22T18:00Z",
        "period": 3,
-       "clock": "3:17",
+       "clock": "3:05",
        "teams": [
         {
          "name": "Arizona Cardinals",
