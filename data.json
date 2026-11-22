@@ -1,5 +1,5 @@
 {
- "updated": "Nov 21, 2026, 6:59 PM PT",
+ "updated": "Nov 21, 2026, 7:02 PM PT",
  "record": {
   "w": 224,
   "l": 230,
@@ -242,66 +242,6 @@
     ],
     "sport": "NCAAF",
     "ticket": "parlay"
-   }
-  },
-  {
-   "n": 951,
-   "league": "NHL",
-   "type": "Player Prop",
-   "matchup": "Minnesota Wild @ Vancouver Canucks",
-   "pick": "Blake Coleman Under 0.5 points",
-   "odds": -105,
-   "units": 1.0,
-   "gap": null,
-   "start": "2026-11-21T19:00:00",
-   "timed": true,
-   "ticket": "single",
-   "espn": {
-    "legs": [
-     {
-      "kind": "prop",
-      "player": "Blake Coleman",
-      "ou": "U",
-      "line": 0.5,
-      "stat": "points",
-      "label": "Blake Coleman U 0.5 points",
-      "path": "hockey/nhl",
-      "event": "401892754",
-      "date": "20261121",
-      "snapshot": {
-       "source": "nhl",
-       "state": "pre",
-       "detail": "Scheduled",
-       "start": "2026-11-22T03:00:00Z",
-       "period": null,
-       "clock": null,
-       "teams": [
-        {
-         "name": "Wild",
-         "short": "MIN",
-         "abbr": "MIN",
-         "score": 0,
-         "ha": "away",
-         "winner": null,
-         "linescores": []
-        },
-        {
-         "name": "Canucks",
-         "short": "VAN",
-         "abbr": "VAN",
-         "score": 0,
-         "ha": "home",
-         "winner": null,
-         "linescores": []
-        }
-       ],
-       "nhl_id": 2026020371
-      },
-      "source": "nhl"
-     }
-    ],
-    "sport": "NHL",
-    "ticket": "single"
    }
   },
   {
@@ -1881,10 +1821,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P2 20:00",
+       "detail": "P2 14:51",
        "start": "2026-11-22T02:00:00Z",
        "period": 2,
-       "clock": "20:00",
+       "clock": "14:51",
        "teams": [
         {
          "name": "Ducks",
@@ -2694,6 +2634,70 @@
    }
   },
   {
+   "n": 951,
+   "league": "NHL",
+   "type": "Player Prop",
+   "matchup": "Minnesota Wild @ Vancouver Canucks",
+   "pick": "Blake Coleman Under 0.5 points",
+   "odds": -105,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-21T19:00:00",
+   "timed": true,
+   "ticket": "single",
+   "espn": {
+    "legs": [
+     {
+      "kind": "prop",
+      "player": "Blake Coleman",
+      "ou": "U",
+      "line": 0.5,
+      "stat": "points",
+      "label": "Blake Coleman U 0.5 points",
+      "path": "hockey/nhl",
+      "event": "401892766",
+      "date": "20261121",
+      "snapshot": {
+       "source": "nhl",
+       "state": "in",
+       "detail": "P1 20:00",
+       "start": "2026-11-22T03:00:00Z",
+       "period": 1,
+       "clock": "20:00",
+       "teams": [
+        {
+         "name": "Wild",
+         "short": "MIN",
+         "abbr": "MIN",
+         "score": 0,
+         "ha": "away",
+         "winner": null,
+         "linescores": []
+        },
+        {
+         "name": "Canucks",
+         "short": "VAN",
+         "abbr": "VAN",
+         "score": 0,
+         "ha": "home",
+         "winner": null,
+         "linescores": []
+        }
+       ],
+       "nhl_id": 2026020371,
+       "stat": {
+        "v": 0,
+        "name": "B. Coleman"
+       }
+      },
+      "source": "nhl"
+     }
+    ],
+    "sport": "NHL",
+    "ticket": "single"
+   }
+  },
+  {
    "n": 953,
    "league": "NHL",
    "type": "Player Prop",
@@ -2855,16 +2859,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "10:40 - 4th",
+       "detail": "6:41 - 4th",
        "start": "2026-11-22T01:00Z",
        "period": 4,
-       "clock": "10:40",
+       "clock": "6:41",
        "teams": [
         {
          "name": "New Orleans Pelicans",
          "short": "Pelicans",
          "abbr": "NO",
-         "score": 68,
+         "score": 82,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -2878,7 +2882,7 @@
          "name": "San Antonio Spurs",
          "short": "Spurs",
          "abbr": "SA",
-         "score": 92,
+         "score": 105,
          "ha": "home",
          "winner": null,
          "linescores": [
