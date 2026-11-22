@@ -1,5 +1,5 @@
 {
- "updated": "Nov 22, 2026, 2:16 PM PT",
+ "updated": "Nov 22, 2026, 2:18 PM PT",
  "record": {
   "w": 239,
   "l": 237,
@@ -1110,7 +1110,7 @@
          "name": "Denver Broncos",
          "short": "Broncos",
          "abbr": "DEN",
-         "score": 16,
+         "score": 17,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -1355,10 +1355,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "1:08 - 2nd",
+       "detail": "1:02 - 2nd",
        "start": "2026-11-22T21:05Z",
        "period": 2,
-       "clock": "1:08",
+       "clock": "1:02",
        "teams": [
         {
          "name": "New York Jets",
@@ -1508,7 +1508,7 @@
          "name": "Denver Broncos",
          "short": "Broncos",
          "abbr": "DEN",
-         "score": 16,
+         "score": 17,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -1551,10 +1551,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "0:47 - 1st",
+       "detail": "15:00 - 2nd",
        "start": "2026-11-22T21:25Z",
-       "period": 1,
-       "clock": "0:47",
+       "period": 2,
+       "clock": "15:00",
        "teams": [
         {
          "name": "Jacksonville Jaguars",
@@ -1564,6 +1564,7 @@
          "ha": "away",
          "winner": null,
          "linescores": [
+          0,
           0
          ]
         },
@@ -1575,6 +1576,7 @@
          "ha": "home",
          "winner": null,
          "linescores": [
+          0,
           0
          ]
         }
@@ -2087,10 +2089,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "1:08 - 2nd",
+       "detail": "1:02 - 2nd",
        "start": "2026-11-22T21:05Z",
        "period": 2,
-       "clock": "1:08",
+       "clock": "1:02",
        "teams": [
         {
          "name": "New York Jets",
@@ -2152,16 +2154,16 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P1 17:07",
+       "detail": "P1 15:52",
        "start": "2026-11-22T22:00:00Z",
        "period": 1,
-       "clock": "17:07",
+       "clock": "15:52",
        "teams": [
         {
          "name": "Sabres",
          "short": "BUF",
          "abbr": "BUF",
-         "score": 0,
+         "score": 1,
          "ha": "away",
          "winner": null,
          "linescores": []
@@ -2541,7 +2543,7 @@
          "name": "Albany Great Danes",
          "short": "Albany Great Danes",
          "abbr": "",
-         "score": 62,
+         "score": 63,
          "ha": "away",
          "winner": null,
          "linescores": []
@@ -2550,7 +2552,7 @@
          "name": "Mercyhurst Lakers",
          "short": "Mercyhurst Lakers",
          "abbr": "",
-         "score": 65,
+         "score": 67,
          "ha": "home",
          "winner": null,
          "linescores": []
@@ -2589,10 +2591,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "6:53 - 1st",
+       "detail": "5:28 - 1st",
        "start": "2026-11-22T21:30Z",
        "period": 1,
-       "clock": "6:53",
+       "clock": "5:28",
        "teams": [
         {
          "name": "Richmond Spiders",
@@ -2609,7 +2611,7 @@
          "name": "Liberty Flames",
          "short": "Flames",
          "abbr": "LIB",
-         "score": 17,
+         "score": 21,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -2730,7 +2732,7 @@
          "name": "Denver Broncos",
          "short": "Broncos",
          "abbr": "DEN",
-         "score": 16,
+         "score": 17,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -2777,7 +2779,7 @@
          "name": "Denver Broncos",
          "short": "Broncos",
          "abbr": "DEN",
-         "score": 16,
+         "score": 17,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -2824,7 +2826,7 @@
          "name": "Denver Broncos",
          "short": "Broncos",
          "abbr": "DEN",
-         "score": 16,
+         "score": 17,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -2871,7 +2873,7 @@
          "name": "Denver Broncos",
          "short": "Broncos",
          "abbr": "DEN",
-         "score": 16,
+         "score": 17,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -2897,10 +2899,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "0:47 - 1st",
+       "detail": "15:00 - 2nd",
        "start": "2026-11-22T21:25Z",
-       "period": 1,
-       "clock": "0:47",
+       "period": 2,
+       "clock": "15:00",
        "teams": [
         {
          "name": "Jacksonville Jaguars",
@@ -2910,6 +2912,7 @@
          "ha": "away",
          "winner": null,
          "linescores": [
+          0,
           0
          ]
         },
@@ -2921,6 +2924,7 @@
          "ha": "home",
          "winner": null,
          "linescores": [
+          0,
           0
          ]
         }
@@ -2942,10 +2946,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "0:47 - 1st",
+       "detail": "15:00 - 2nd",
        "start": "2026-11-22T21:25Z",
-       "period": 1,
-       "clock": "0:47",
+       "period": 2,
+       "clock": "15:00",
        "teams": [
         {
          "name": "Jacksonville Jaguars",
@@ -2955,6 +2959,7 @@
          "ha": "away",
          "winner": null,
          "linescores": [
+          0,
           0
          ]
         },
@@ -2966,6 +2971,7 @@
          "ha": "home",
          "winner": null,
          "linescores": [
+          0,
           0
          ]
         }
@@ -2987,10 +2993,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "0:47 - 1st",
+       "detail": "15:00 - 2nd",
        "start": "2026-11-22T21:25Z",
-       "period": 1,
-       "clock": "0:47",
+       "period": 2,
+       "clock": "15:00",
        "teams": [
         {
          "name": "Jacksonville Jaguars",
@@ -3000,6 +3006,7 @@
          "ha": "away",
          "winner": null,
          "linescores": [
+          0,
           0
          ]
         },
@@ -3011,6 +3018,7 @@
          "ha": "home",
          "winner": null,
          "linescores": [
+          0,
           0
          ]
         }
@@ -3035,10 +3043,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "0:47 - 1st",
+       "detail": "15:00 - 2nd",
        "start": "2026-11-22T21:25Z",
-       "period": 1,
-       "clock": "0:47",
+       "period": 2,
+       "clock": "15:00",
        "teams": [
         {
          "name": "Jacksonville Jaguars",
@@ -3048,6 +3056,7 @@
          "ha": "away",
          "winner": null,
          "linescores": [
+          0,
           0
          ]
         },
@@ -3059,6 +3068,7 @@
          "ha": "home",
          "winner": null,
          "linescores": [
+          0,
           0
          ]
         }
@@ -3080,10 +3090,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "0:47 - 1st",
+       "detail": "15:00 - 2nd",
        "start": "2026-11-22T21:25Z",
-       "period": 1,
-       "clock": "0:47",
+       "period": 2,
+       "clock": "15:00",
        "teams": [
         {
          "name": "Jacksonville Jaguars",
@@ -3093,6 +3103,7 @@
          "ha": "away",
          "winner": null,
          "linescores": [
+          0,
           0
          ]
         },
@@ -3104,6 +3115,7 @@
          "ha": "home",
          "winner": null,
          "linescores": [
+          0,
           0
          ]
         }
@@ -3141,16 +3153,16 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P1 17:07",
+       "detail": "P1 15:52",
        "start": "2026-11-22T22:00:00Z",
        "period": 1,
-       "clock": "17:07",
+       "clock": "15:52",
        "teams": [
         {
          "name": "Sabres",
          "short": "BUF",
          "abbr": "BUF",
-         "score": 0,
+         "score": 1,
          "ha": "away",
          "winner": null,
          "linescores": []
