@@ -1,5 +1,5 @@
 {
- "updated": "Nov 22, 2026, 1:12 PM PT",
+ "updated": "Nov 22, 2026, 1:15 PM PT",
  "record": {
   "w": 239,
   "l": 237,
@@ -1434,10 +1434,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "11:08 - 1st",
+       "detail": "10:25 - 1st",
        "start": "2026-11-22T21:05Z",
        "period": 1,
-       "clock": "11:08",
+       "clock": "10:25",
        "teams": [
         {
          "name": "New York Jets",
@@ -2038,10 +2038,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "11:08 - 1st",
+       "detail": "10:25 - 1st",
        "start": "2026-11-22T21:05Z",
        "period": 1,
-       "clock": "11:08",
+       "clock": "10:25",
        "teams": [
         {
          "name": "New York Jets",
@@ -2157,10 +2157,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "1:38 - 4th",
+       "detail": "0:36 - 4th",
        "start": "2026-11-22T18:00Z",
        "period": 4,
-       "clock": "1:38",
+       "clock": "0:36",
        "teams": [
         {
          "name": "Baltimore Ravens",
@@ -2293,16 +2293,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "4:46 - 2nd",
+       "detail": "3:57 - 2nd",
        "start": "2026-11-22T19:30Z",
        "period": 2,
-       "clock": "4:46",
+       "clock": "3:57",
        "teams": [
         {
          "name": "Robert Morris Colonials",
          "short": "Colonials",
          "abbr": "RMU",
-         "score": 63,
+         "score": 65,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -2424,7 +2424,7 @@
          "name": "Albany Great Danes",
          "short": "Albany Great Danes",
          "abbr": "",
-         "score": 27,
+         "score": 29,
          "ha": "away",
          "winner": null,
          "linescores": []
