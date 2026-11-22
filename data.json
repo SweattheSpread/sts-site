@@ -1,5 +1,5 @@
 {
- "updated": "Nov 21, 2026, 6:57 PM PT",
+ "updated": "Nov 21, 2026, 6:59 PM PT",
  "record": {
   "w": 224,
   "l": 230,
@@ -1881,10 +1881,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P1 02:11",
+       "detail": "P2 20:00",
        "start": "2026-11-22T02:00:00Z",
-       "period": 1,
-       "clock": "02:11",
+       "period": 2,
+       "clock": "20:00",
        "teams": [
         {
          "name": "Ducks",
@@ -2855,19 +2855,20 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "End of 3rd",
+       "detail": "10:40 - 4th",
        "start": "2026-11-22T01:00Z",
-       "period": 3,
-       "clock": "0.0",
+       "period": 4,
+       "clock": "10:40",
        "teams": [
         {
          "name": "New Orleans Pelicans",
          "short": "Pelicans",
          "abbr": "NO",
-         "score": 66,
+         "score": 68,
          "ha": "away",
          "winner": null,
          "linescores": [
+          0,
           0,
           0,
           0
@@ -2877,10 +2878,11 @@
          "name": "San Antonio Spurs",
          "short": "Spurs",
          "abbr": "SA",
-         "score": 89,
+         "score": 92,
          "ha": "home",
          "winner": null,
          "linescores": [
+          0,
           0,
           0,
           0
