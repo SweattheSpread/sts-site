@@ -1,5 +1,5 @@
 {
- "updated": "Nov 21, 2026, 4:08 PM PT",
+ "updated": "Nov 21, 2026, 4:10 PM PT",
  "record": {
   "w": 224,
   "l": 230,
@@ -1798,10 +1798,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "2:00 - 4th",
+       "detail": "1:07 - 4th",
        "start": "2026-11-21T20:45Z",
        "period": 4,
-       "clock": "2:00",
+       "clock": "1:07",
        "teams": [
         {
          "name": "Texas A&M Aggies",
@@ -1868,10 +1868,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P2 20:00",
+       "detail": "P2 18:48",
        "start": "2026-11-21T23:00:00Z",
        "period": 2,
-       "clock": "20:00",
+       "clock": "18:48",
        "teams": [
         {
          "name": "Penguins",
@@ -2307,16 +2307,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "16:16 - 1st",
+       "detail": "14:04 - 1st",
        "start": "2026-11-22T00:00Z",
        "period": 1,
-       "clock": "16:16",
+       "clock": "14:04",
        "teams": [
         {
          "name": "Michigan Wolverines",
          "short": "Wolverines",
          "abbr": "MICH",
-         "score": 11,
+         "score": 14,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -2327,7 +2327,7 @@
          "name": "Villanova Wildcats",
          "short": "Wildcats",
          "abbr": "VILL",
-         "score": 6,
+         "score": 10,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -2832,10 +2832,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P1 20:00",
+       "detail": "P1 18:32",
        "start": "2026-11-22T00:00:00Z",
        "period": 1,
-       "clock": "20:00",
+       "clock": "18:32",
        "teams": [
         {
          "name": "Devils",
