@@ -1,5 +1,5 @@
 {
- "updated": "Nov 22, 2026, 1:10 PM PT",
+ "updated": "Nov 22, 2026, 1:12 PM PT",
  "record": {
   "w": 239,
   "l": 237,
@@ -1434,16 +1434,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "11:17 - 1st",
+       "detail": "11:08 - 1st",
        "start": "2026-11-22T21:05Z",
        "period": 1,
-       "clock": "11:17",
+       "clock": "11:08",
        "teams": [
         {
          "name": "New York Jets",
          "short": "Jets",
          "abbr": "NYJ",
-         "score": 0,
+         "score": 3,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -2038,16 +2038,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "11:17 - 1st",
+       "detail": "11:08 - 1st",
        "start": "2026-11-22T21:05Z",
        "period": 1,
-       "clock": "11:17",
+       "clock": "11:08",
        "teams": [
         {
          "name": "New York Jets",
          "short": "Jets",
          "abbr": "NYJ",
-         "score": 0,
+         "score": 3,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -2157,10 +2157,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "1:44 - 4th",
+       "detail": "1:38 - 4th",
        "start": "2026-11-22T18:00Z",
        "period": 4,
-       "clock": "1:44",
+       "clock": "1:38",
        "teams": [
         {
          "name": "Baltimore Ravens",
@@ -2293,16 +2293,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "5:42 - 2nd",
+       "detail": "4:46 - 2nd",
        "start": "2026-11-22T19:30Z",
        "period": 2,
-       "clock": "5:42",
+       "clock": "4:46",
        "teams": [
         {
          "name": "Robert Morris Colonials",
          "short": "Colonials",
          "abbr": "RMU",
-         "score": 62,
+         "score": 63,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -2314,7 +2314,7 @@
          "name": "New Mexico State Aggies",
          "short": "Aggies",
          "abbr": "NMSU",
-         "score": 44,
+         "score": 46,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -2424,7 +2424,7 @@
          "name": "Albany Great Danes",
          "short": "Albany Great Danes",
          "abbr": "",
-         "score": 25,
+         "score": 27,
          "ha": "away",
          "winner": null,
          "linescores": []
@@ -2433,7 +2433,7 @@
          "name": "Mercyhurst Lakers",
          "short": "Mercyhurst Lakers",
          "abbr": "",
-         "score": 29,
+         "score": 31,
          "ha": "home",
          "winner": null,
          "linescores": []
