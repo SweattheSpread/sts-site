@@ -1,5 +1,5 @@
 {
- "updated": "Nov 22, 2026, 2:18 PM PT",
+ "updated": "Nov 22, 2026, 2:20 PM PT",
  "record": {
   "w": 239,
   "l": 237,
@@ -1355,10 +1355,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "1:02 - 2nd",
+       "detail": "0:06 - 2nd",
        "start": "2026-11-22T21:05Z",
        "period": 2,
-       "clock": "1:02",
+       "clock": "0:06",
        "teams": [
         {
          "name": "New York Jets",
@@ -2089,10 +2089,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "1:02 - 2nd",
+       "detail": "0:06 - 2nd",
        "start": "2026-11-22T21:05Z",
        "period": 2,
-       "clock": "1:02",
+       "clock": "0:06",
        "teams": [
         {
          "name": "New York Jets",
@@ -2154,10 +2154,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P1 15:52",
+       "detail": "P1 14:21",
        "start": "2026-11-22T22:00:00Z",
        "period": 1,
-       "clock": "15:52",
+       "clock": "14:21",
        "teams": [
         {
          "name": "Sabres",
@@ -2591,10 +2591,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "5:28 - 1st",
+       "detail": "4:27 - 1st",
        "start": "2026-11-22T21:30Z",
        "period": 1,
-       "clock": "5:28",
+       "clock": "4:27",
        "teams": [
         {
          "name": "Richmond Spiders",
@@ -2611,7 +2611,7 @@
          "name": "Liberty Flames",
          "short": "Flames",
          "abbr": "LIB",
-         "score": 21,
+         "score": 23,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -3153,10 +3153,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P1 15:52",
+       "detail": "P1 14:21",
        "start": "2026-11-22T22:00:00Z",
        "period": 1,
-       "clock": "15:52",
+       "clock": "14:21",
        "teams": [
         {
          "name": "Sabres",
