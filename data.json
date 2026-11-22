@@ -1,5 +1,5 @@
 {
- "updated": "Nov 21, 2026, 4:51 PM PT",
+ "updated": "Nov 21, 2026, 4:54 PM PT",
  "record": {
   "w": 224,
   "l": 230,
@@ -1841,16 +1841,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "7:35 - 1st",
+       "detail": "5:43 - 1st",
        "start": "2026-11-22T00:30Z",
        "period": 1,
-       "clock": "7:35",
+       "clock": "5:43",
        "teams": [
         {
          "name": "Portland Trail Blazers",
          "short": "Trail Blazers",
          "abbr": "POR",
-         "score": 8,
+         "score": 13,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -1861,7 +1861,7 @@
          "name": "New York Knicks",
          "short": "Knicks",
          "abbr": "NY",
-         "score": 15,
+         "score": 24,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -1870,7 +1870,7 @@
         }
        ],
        "stat": {
-        "v": 3,
+        "v": 4,
         "name": "Jalen Brunson"
        }
       },
@@ -1905,10 +1905,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P2 10:17",
+       "detail": "P2 07:44",
        "start": "2026-11-21T23:00:00Z",
        "period": 2,
-       "clock": "10:17",
+       "clock": "07:44",
        "teams": [
         {
          "name": "Penguins",
@@ -1962,16 +1962,16 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P1 01:22",
+       "detail": "P1 00:15",
        "start": "2026-11-22T00:00:00Z",
        "period": 1,
-       "clock": "01:22",
+       "clock": "00:15",
        "teams": [
         {
          "name": "Blue Jackets",
          "short": "CBJ",
          "abbr": "CBJ",
-         "score": 0,
+         "score": 1,
          "ha": "away",
          "winner": null,
          "linescores": []
@@ -2344,10 +2344,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "0:26 - 1st",
+       "detail": "Halftime",
        "start": "2026-11-22T00:00Z",
        "period": 1,
-       "clock": "0:26",
+       "clock": "0:00",
        "teams": [
         {
          "name": "Michigan Wolverines",
@@ -2742,16 +2742,16 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P1 01:22",
+       "detail": "P1 00:15",
        "start": "2026-11-22T00:00:00Z",
        "period": 1,
-       "clock": "01:22",
+       "clock": "00:15",
        "teams": [
         {
          "name": "Blue Jackets",
          "short": "CBJ",
          "abbr": "CBJ",
-         "score": 0,
+         "score": 1,
          "ha": "away",
          "winner": null,
          "linescores": []
@@ -2877,10 +2877,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P1 15:43",
+       "detail": "P1 13:10",
        "start": "2026-11-22T00:00:00Z",
        "period": 1,
-       "clock": "15:43",
+       "clock": "13:10",
        "teams": [
         {
          "name": "Devils",
