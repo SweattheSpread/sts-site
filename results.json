@@ -1,5 +1,5 @@
 {
- "updated": "Nov 22, 2026, 2:27 PM PT",
+ "updated": "Nov 22, 2026, 2:29 PM PT",
  "record": {
   "w": 239,
   "l": 237,
@@ -11,7 +11,7 @@
   "first": "2026-10-12",
   "last": "2026-11-21"
  },
- "pending": 43,
+ "pending": 44,
  "plays": [
   {
    "n": 334,
@@ -8313,6 +8313,22 @@
    "pick": "Ajay Mitchell Under 4.5 Rebounds",
    "odds": -115,
    "units": 1.0,
+   "result": null,
+   "pl": null,
+   "pending": true
+  },
+  {
+   "n": 977,
+   "date": "2026-11-22",
+   "day": "2026-11-22",
+   "league": "NFL",
+   "market": "player_prop",
+   "market_label": "Player Prop",
+   "ticket": "single",
+   "matchup": "Las Vegas Raiders @ Denver Broncos",
+   "pick": "Ashton Jeanty Over 29.5 Rushing Yards, live",
+   "odds": -110,
+   "units": 10.0,
    "result": null,
    "pl": null,
    "pending": true
