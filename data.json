@@ -1,5 +1,5 @@
 {
- "updated": "Nov 22, 2026, 11:39 AM PT",
+ "updated": "Nov 22, 2026, 11:41 AM PT",
  "record": {
   "w": 239,
   "l": 237,
@@ -2144,10 +2144,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "0:10 - 2nd",
+       "detail": "0:03 - 2nd",
        "start": "2026-11-22T18:00Z",
        "period": 2,
-       "clock": "0:10",
+       "clock": "0:03",
        "teams": [
         {
          "name": "Baltimore Ravens",
@@ -2272,16 +2272,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "15:49 - 1st",
+       "detail": "14:14 - 1st",
        "start": "2026-11-22T19:30Z",
        "period": 1,
-       "clock": "15:49",
+       "clock": "14:14",
        "teams": [
         {
          "name": "Robert Morris Colonials",
          "short": "Colonials",
          "abbr": "RMU",
-         "score": 4,
+         "score": 9,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -2292,7 +2292,7 @@
          "name": "New Mexico State Aggies",
          "short": "Aggies",
          "abbr": "NMSU",
-         "score": 3,
+         "score": 7,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -2333,16 +2333,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "2:22 - 1st",
+       "detail": "1:22 - 1st",
        "start": "2026-11-22T19:00Z",
        "period": 1,
-       "clock": "2:22",
+       "clock": "1:22",
        "teams": [
         {
          "name": "South Dakota Coyotes",
          "short": "Coyotes",
          "abbr": "SDAK",
-         "score": 27,
+         "score": 29,
          "ha": "away",
          "winner": null,
          "linescores": [
