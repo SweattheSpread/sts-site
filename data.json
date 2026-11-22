@@ -1,5 +1,5 @@
 {
- "updated": "Nov 21, 2026, 4:40 PM PT",
+ "updated": "Nov 21, 2026, 4:42 PM PT",
  "record": {
   "w": 224,
   "l": 230,
@@ -1835,36 +1835,46 @@
       "line": 2.5,
       "stat": "rebounds",
       "label": "Jalen Brunson O 2.5 rebounds",
+      "path": "basketball/nba",
+      "event": "401910024",
       "date": "20261121",
-      "unverified": true,
-      "reason": "Player not found in this game",
       "snapshot": {
-       "source": "odds-api",
-       "state": "pre",
-       "detail": "Scheduled",
-       "start": "2026-11-22T00:42:00Z",
+       "source": "espn",
+       "state": "in",
+       "detail": "11:23 - 1st",
+       "start": "2026-11-22T00:30Z",
+       "period": 1,
+       "clock": "11:23",
        "teams": [
         {
          "name": "Portland Trail Blazers",
-         "short": "Portland Trail Blazers",
-         "abbr": "",
-         "score": 0,
+         "short": "Trail Blazers",
+         "abbr": "POR",
+         "score": 2,
          "ha": "away",
          "winner": null,
-         "linescores": []
+         "linescores": [
+          0
+         ]
         },
         {
          "name": "New York Knicks",
-         "short": "New York Knicks",
-         "abbr": "",
-         "score": 0,
+         "short": "Knicks",
+         "abbr": "NY",
+         "score": 3,
          "ha": "home",
          "winner": null,
-         "linescores": []
+         "linescores": [
+          0
+         ]
         }
-       ]
+       ],
+       "stat": {
+        "v": 0,
+        "name": "Jalen Brunson"
+       }
       },
-      "source": "odds-api"
+      "source": "espn"
      }
     ],
     "sport": "NBA",
@@ -1895,10 +1905,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P2 03:35",
+       "detail": "P2 02:17",
        "start": "2026-11-21T23:00:00Z",
        "period": 2,
-       "clock": "03:35",
+       "clock": "02:17",
        "teams": [
         {
          "name": "Penguins",
@@ -1952,10 +1962,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P1 07:38",
+       "detail": "P1 05:40",
        "start": "2026-11-22T00:00:00Z",
        "period": 1,
-       "clock": "07:38",
+       "clock": "05:40",
        "teams": [
         {
          "name": "Blue Jackets",
@@ -2732,10 +2742,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P1 07:38",
+       "detail": "P1 05:40",
        "start": "2026-11-22T00:00:00Z",
        "period": 1,
-       "clock": "07:38",
+       "clock": "05:40",
        "teams": [
         {
          "name": "Blue Jackets",
@@ -2867,10 +2877,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P1 04:33",
+       "detail": "P1 02:54",
        "start": "2026-11-22T00:00:00Z",
        "period": 1,
-       "clock": "04:33",
+       "clock": "02:54",
        "teams": [
         {
          "name": "Devils",
