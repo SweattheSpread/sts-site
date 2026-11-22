@@ -1,5 +1,5 @@
 {
- "updated": "Nov 22, 2026, 9:33 AM PT",
+ "updated": "Nov 22, 2026, 9:43 AM PT",
  "record": {
   "w": 239,
   "l": 237,
@@ -11,7 +11,7 @@
   "first": "2026-10-12",
   "last": "2026-11-21"
  },
- "pending": 32,
+ "pending": 33,
  "latest": [
   {
    "n": 956,
@@ -961,6 +961,64 @@
      }
     ],
     "sport": "NFL",
+    "ticket": "single"
+   }
+  },
+  {
+   "n": 966,
+   "league": "NCAAB",
+   "type": "Over/Under",
+   "matchup": "Robert Morris Colonials @ New Mexico State Aggies",
+   "pick": "Over 135",
+   "odds": -110,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-22T11:30:00",
+   "timed": true,
+   "ticket": "single",
+   "espn": {
+    "legs": [
+     {
+      "kind": "total",
+      "side": null,
+      "ou": "O",
+      "line": 135.0,
+      "label": "O 135.0",
+      "path": "basketball/mens-college-basketball",
+      "event": "401928790",
+      "date": "20261122",
+      "snapshot": {
+       "source": "espn",
+       "state": "pre",
+       "detail": "11/22 - 2:30 PM EST",
+       "start": "2026-11-22T19:30Z",
+       "period": null,
+       "clock": null,
+       "teams": [
+        {
+         "name": "Robert Morris Colonials",
+         "short": "Colonials",
+         "abbr": "RMU",
+         "score": 0,
+         "ha": "away",
+         "winner": null,
+         "linescores": []
+        },
+        {
+         "name": "New Mexico State Aggies",
+         "short": "Aggies",
+         "abbr": "NMSU",
+         "score": 0,
+         "ha": "home",
+         "winner": null,
+         "linescores": []
+        }
+       ]
+      },
+      "source": "espn"
+     }
+    ],
+    "sport": "NCAAB",
     "ticket": "single"
    }
   },
