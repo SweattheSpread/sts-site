@@ -1,5 +1,5 @@
 {
- "updated": "Nov 21, 2026, 4:19 PM PT",
+ "updated": "Nov 21, 2026, 4:21 PM PT",
  "record": {
   "w": 224,
   "l": 230,
@@ -1868,10 +1868,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P2 14:25",
+       "detail": "P2 13:15",
        "start": "2026-11-21T23:00:00Z",
        "period": 2,
-       "clock": "14:25",
+       "clock": "13:15",
        "teams": [
         {
          "name": "Penguins",
@@ -1886,7 +1886,7 @@
          "name": "Predators",
          "short": "NSH",
          "abbr": "NSH",
-         "score": 2,
+         "score": 3,
          "ha": "home",
          "winner": null,
          "linescores": []
@@ -1925,10 +1925,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P1 18:14",
+       "detail": "P1 16:39",
        "start": "2026-11-22T00:00:00Z",
        "period": 1,
-       "clock": "18:14",
+       "clock": "16:39",
        "teams": [
         {
          "name": "Blue Jackets",
@@ -2307,10 +2307,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "11:34 - 1st",
+       "detail": "11:20 - 1st",
        "start": "2026-11-22T00:00Z",
        "period": 1,
-       "clock": "11:34",
+       "clock": "11:20",
        "teams": [
         {
          "name": "Michigan Wolverines",
@@ -2705,10 +2705,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P1 18:14",
+       "detail": "P1 16:39",
        "start": "2026-11-22T00:00:00Z",
        "period": 1,
-       "clock": "18:14",
+       "clock": "16:39",
        "teams": [
         {
          "name": "Blue Jackets",
@@ -2765,9 +2765,9 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "2OT",
+       "detail": "3OT",
        "start": "2026-11-21T20:30Z",
-       "period": 6,
+       "period": 7,
        "clock": "0:00",
        "teams": [
         {
@@ -2778,6 +2778,7 @@
          "ha": "away",
          "winner": null,
          "linescores": [
+          0,
           0,
           0,
           0,
@@ -2794,6 +2795,7 @@
          "ha": "home",
          "winner": null,
          "linescores": [
+          0,
           0,
           0,
           0,
@@ -2838,10 +2840,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P1 14:58",
+       "detail": "P1 13:38",
        "start": "2026-11-22T00:00:00Z",
        "period": 1,
-       "clock": "14:58",
+       "clock": "13:38",
        "teams": [
         {
          "name": "Devils",
@@ -2856,7 +2858,7 @@
          "name": "Blues",
          "short": "STL",
          "abbr": "STL",
-         "score": 2,
+         "score": 3,
          "ha": "home",
          "winner": null,
          "linescores": []
