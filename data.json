@@ -1,5 +1,5 @@
 {
- "updated": "Nov 21, 2026, 4:33 PM PT",
+ "updated": "Nov 21, 2026, 4:35 PM PT",
  "record": {
   "w": 224,
   "l": 230,
@@ -1868,16 +1868,16 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P2 07:08",
+       "detail": "P2 04:48",
        "start": "2026-11-21T23:00:00Z",
        "period": 2,
-       "clock": "07:08",
+       "clock": "04:48",
        "teams": [
         {
          "name": "Penguins",
          "short": "PIT",
          "abbr": "PIT",
-         "score": 2,
+         "score": 3,
          "ha": "away",
          "winner": null,
          "linescores": []
@@ -1925,10 +1925,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P1 11:36",
+       "detail": "P1 08:27",
        "start": "2026-11-22T00:00:00Z",
        "period": 1,
-       "clock": "11:36",
+       "clock": "08:27",
        "teams": [
         {
          "name": "Blue Jackets",
@@ -2307,16 +2307,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "6:09 - 1st",
+       "detail": "5:09 - 1st",
        "start": "2026-11-22T00:00Z",
        "period": 1,
-       "clock": "6:09",
+       "clock": "5:09",
        "teams": [
         {
          "name": "Michigan Wolverines",
          "short": "Wolverines",
          "abbr": "MICH",
-         "score": 24,
+         "score": 25,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -2705,10 +2705,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P1 11:36",
+       "detail": "P1 08:27",
        "start": "2026-11-22T00:00:00Z",
        "period": 1,
-       "clock": "11:36",
+       "clock": "08:27",
        "teams": [
         {
          "name": "Blue Jackets",
@@ -2840,10 +2840,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P1 08:19",
+       "detail": "P1 07:50",
        "start": "2026-11-22T00:00:00Z",
        "period": 1,
-       "clock": "08:19",
+       "clock": "07:50",
        "teams": [
         {
          "name": "Devils",
