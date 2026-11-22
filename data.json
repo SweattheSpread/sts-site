@@ -1,5 +1,5 @@
 {
- "updated": "Nov 21, 2026, 5:44 PM PT",
+ "updated": "Nov 21, 2026, 5:47 PM PT",
  "record": {
   "w": 224,
   "l": 230,
@@ -1934,10 +1934,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P2 04:32",
+       "detail": "P2 03:07",
        "start": "2026-11-22T00:00:00Z",
        "period": 2,
-       "clock": "04:32",
+       "clock": "03:07",
        "teams": [
         {
          "name": "Blue Jackets",
@@ -2316,10 +2316,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "8:22 - 2nd",
+       "detail": "7:43 - 2nd",
        "start": "2026-11-22T00:00Z",
        "period": 2,
-       "clock": "8:22",
+       "clock": "7:43",
        "teams": [
         {
          "name": "Michigan Wolverines",
@@ -2337,7 +2337,7 @@
          "name": "Villanova Wildcats",
          "short": "Wildcats",
          "abbr": "VILL",
-         "score": 63,
+         "score": 64,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -2716,10 +2716,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P2 04:32",
+       "detail": "P2 03:07",
        "start": "2026-11-22T00:00:00Z",
        "period": 2,
-       "clock": "04:32",
+       "clock": "03:07",
        "teams": [
         {
          "name": "Blue Jackets",
@@ -2872,7 +2872,7 @@
          "name": "San Antonio Spurs",
          "short": "Spurs",
          "abbr": "SA",
-         "score": 38,
+         "score": 40,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -2920,10 +2920,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P2 00:00",
+       "detail": "P2 14:56",
        "start": "2026-11-22T00:00:00Z",
        "period": 2,
-       "clock": "00:00",
+       "clock": "14:56",
        "teams": [
         {
          "name": "Devils",
