@@ -1,5 +1,5 @@
 {
- "updated": "Nov 21, 2026, 5:54 PM PT",
+ "updated": "Nov 21, 2026, 5:57 PM PT",
  "record": {
   "w": 224,
   "l": 230,
@@ -1811,16 +1811,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "10:08 - 3rd",
+       "detail": "9:28 - 3rd",
        "start": "2026-11-22T00:30Z",
        "period": 3,
-       "clock": "10:08",
+       "clock": "9:28",
        "teams": [
         {
          "name": "Portland Trail Blazers",
          "short": "Trail Blazers",
          "abbr": "POR",
-         "score": 49,
+         "score": 51,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -1936,10 +1936,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P2 13:02",
+       "detail": "P2 10:02",
        "start": "2026-11-22T00:00:00Z",
        "period": 2,
-       "clock": "13:02",
+       "clock": "10:02",
        "teams": [
         {
          "name": "Blue Jackets",
@@ -2318,16 +2318,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "6:25 - 2nd",
+       "detail": "4:52 - 2nd",
        "start": "2026-11-22T00:00Z",
        "period": 2,
-       "clock": "6:25",
+       "clock": "4:52",
        "teams": [
         {
          "name": "Michigan Wolverines",
          "short": "Wolverines",
          "abbr": "MICH",
-         "score": 54,
+         "score": 58,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -2718,10 +2718,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P2 13:02",
+       "detail": "P2 10:02",
        "start": "2026-11-22T00:00:00Z",
        "period": 2,
-       "clock": "13:02",
+       "clock": "10:02",
        "teams": [
         {
          "name": "Blue Jackets",
@@ -2853,16 +2853,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "5:37 - 2nd",
+       "detail": "4:41 - 2nd",
        "start": "2026-11-22T01:00Z",
        "period": 2,
-       "clock": "5:37",
+       "clock": "4:41",
        "teams": [
         {
          "name": "New Orleans Pelicans",
          "short": "Pelicans",
          "abbr": "NO",
-         "score": 40,
+         "score": 42,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -2922,10 +2922,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P2 07:25",
+       "detail": "P2 04:24",
        "start": "2026-11-22T00:00:00Z",
        "period": 2,
-       "clock": "07:25",
+       "clock": "04:24",
        "teams": [
         {
          "name": "Devils",
