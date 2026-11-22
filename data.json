@@ -1,5 +1,5 @@
 {
- "updated": "Nov 21, 2026, 6:22 PM PT",
+ "updated": "Nov 21, 2026, 6:24 PM PT",
  "record": {
   "w": 224,
   "l": 230,
@@ -1881,10 +1881,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P1 13:18",
+       "detail": "P1 12:27",
        "start": "2026-11-22T02:00:00Z",
        "period": 1,
-       "clock": "13:18",
+       "clock": "12:27",
        "teams": [
         {
          "name": "Ducks",
@@ -1938,10 +1938,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P3 11:49",
+       "detail": "P3 10:21",
        "start": "2026-11-22T00:00:00Z",
        "period": 3,
-       "clock": "11:49",
+       "clock": "10:21",
        "teams": [
         {
          "name": "Blue Jackets",
@@ -2320,10 +2320,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "0:12 - 2nd",
+       "detail": "End of 2nd",
        "start": "2026-11-22T00:00Z",
        "period": 2,
-       "clock": "0:12",
+       "clock": "0:00",
        "teams": [
         {
          "name": "Michigan Wolverines",
@@ -2341,7 +2341,7 @@
          "name": "Villanova Wildcats",
          "short": "Wildcats",
          "abbr": "VILL",
-         "score": 78,
+         "score": 79,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -2720,10 +2720,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P3 11:49",
+       "detail": "P3 10:21",
        "start": "2026-11-22T00:00:00Z",
        "period": 3,
-       "clock": "11:49",
+       "clock": "10:21",
        "teams": [
         {
          "name": "Blue Jackets",
@@ -2924,10 +2924,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P3 09:51",
+       "detail": "P3 09:46",
        "start": "2026-11-22T00:00:00Z",
        "period": 3,
-       "clock": "09:51",
+       "clock": "09:46",
        "teams": [
         {
          "name": "Devils",
