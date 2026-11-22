@@ -1,5 +1,5 @@
 {
- "updated": "Nov 22, 2026, 7:42 AM PT",
+ "updated": "Nov 22, 2026, 7:54 AM PT",
  "record": {
   "w": 239,
   "l": 237,
@@ -11,7 +11,7 @@
   "first": "2026-10-12",
   "last": "2026-11-21"
  },
- "pending": 28,
+ "pending": 30,
  "plays": [
   {
    "n": 334,
@@ -8072,6 +8072,38 @@
    "matchup": "Miami Dolphins @ Buffalo Bills",
    "pick": "Khalil Shakir anytime TD Yes",
    "odds": 250,
+   "units": 0.5,
+   "result": null,
+   "pl": null,
+   "pending": true
+  },
+  {
+   "n": 962,
+   "date": "2026-11-22",
+   "day": "2026-11-22",
+   "league": "NFL",
+   "market": "total",
+   "market_label": "Total",
+   "ticket": "single",
+   "matchup": "Baltimore Ravens @ Carolina Panthers",
+   "pick": "Over 44.5 -105",
+   "odds": -105,
+   "units": 1.0,
+   "result": null,
+   "pl": null,
+   "pending": true
+  },
+  {
+   "n": 963,
+   "date": "2026-11-22",
+   "day": "2026-11-22",
+   "league": "NHL",
+   "market": "total",
+   "market_label": "Total",
+   "ticket": "single",
+   "matchup": "Chicago Blackhawks @ Vancouver Canucks",
+   "pick": "Under 6.5 -110",
+   "odds": -110,
    "units": 0.5,
    "result": null,
    "pl": null,

@@ -1,5 +1,5 @@
 {
- "updated": "Nov 22, 2026, 7:42 AM PT",
+ "updated": "Nov 22, 2026, 7:54 AM PT",
  "record": {
   "w": 239,
   "l": 237,
@@ -11,7 +11,7 @@
   "first": "2026-10-12",
   "last": "2026-11-21"
  },
- "pending": 28,
+ "pending": 30,
  "latest": [
   {
    "n": 956,
@@ -849,6 +849,64 @@
    }
   },
   {
+   "n": 962,
+   "league": "NFL",
+   "type": "Over/Under",
+   "matchup": "Baltimore Ravens @ Carolina Panthers",
+   "pick": "Over 44.5",
+   "odds": -105,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-22T10:00:00",
+   "timed": true,
+   "ticket": "single",
+   "espn": {
+    "legs": [
+     {
+      "kind": "total",
+      "side": null,
+      "ou": "O",
+      "line": 44.5,
+      "label": "O 44.5",
+      "path": "football/nfl",
+      "event": "401873068",
+      "date": "20261122",
+      "snapshot": {
+       "source": "espn",
+       "state": "pre",
+       "detail": "11/22 - 1:00 PM EST",
+       "start": "2026-11-22T18:00Z",
+       "period": null,
+       "clock": null,
+       "teams": [
+        {
+         "name": "Baltimore Ravens",
+         "short": "Ravens",
+         "abbr": "BAL",
+         "score": 0,
+         "ha": "away",
+         "winner": null,
+         "linescores": []
+        },
+        {
+         "name": "Carolina Panthers",
+         "short": "Panthers",
+         "abbr": "CAR",
+         "score": 0,
+         "ha": "home",
+         "winner": null,
+         "linescores": []
+        }
+       ]
+      },
+      "source": "espn"
+     }
+    ],
+    "sport": "NFL",
+    "ticket": "single"
+   }
+  },
+  {
    "n": 861,
    "league": "NFL",
    "type": "Over/Under",
@@ -1189,6 +1247,65 @@
         }
        ],
        "nhl_id": 2026020374
+      },
+      "source": "nhl"
+     }
+    ],
+    "sport": "NHL",
+    "ticket": "single"
+   }
+  },
+  {
+   "n": 963,
+   "league": "NHL",
+   "type": "Over/Under",
+   "matchup": "Chicago Blackhawks @ Vancouver Canucks",
+   "pick": "Under 6.5",
+   "odds": -110,
+   "units": 0.5,
+   "gap": null,
+   "start": "2026-11-22T17:10:00",
+   "timed": true,
+   "ticket": "single",
+   "espn": {
+    "legs": [
+     {
+      "kind": "total",
+      "side": null,
+      "ou": "U",
+      "line": 6.5,
+      "label": "U 6.5",
+      "path": "hockey/nhl",
+      "event": "401892772",
+      "date": "20261122",
+      "snapshot": {
+       "source": "nhl",
+       "state": "pre",
+       "detail": "Scheduled",
+       "start": "2026-11-23T01:00:00Z",
+       "period": null,
+       "clock": null,
+       "teams": [
+        {
+         "name": "Blackhawks",
+         "short": "CHI",
+         "abbr": "CHI",
+         "score": 0,
+         "ha": "away",
+         "winner": null,
+         "linescores": []
+        },
+        {
+         "name": "Canucks",
+         "short": "VAN",
+         "abbr": "VAN",
+         "score": 0,
+         "ha": "home",
+         "winner": null,
+         "linescores": []
+        }
+       ],
+       "nhl_id": 2026020377
       },
       "source": "nhl"
      }
