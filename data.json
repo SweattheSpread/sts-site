@@ -1,5 +1,5 @@
 {
- "updated": "Nov 22, 2026, 1:58 PM PT",
+ "updated": "Nov 22, 2026, 2:00 PM PT",
  "record": {
   "w": 239,
   "l": 237,
@@ -1413,10 +1413,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "6:36 - 2nd",
+       "detail": "6:30 - 2nd",
        "start": "2026-11-22T21:05Z",
        "period": 2,
-       "clock": "6:36",
+       "clock": "6:30",
        "teams": [
         {
          "name": "New York Jets",
@@ -2145,10 +2145,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "6:36 - 2nd",
+       "detail": "6:30 - 2nd",
        "start": "2026-11-22T21:05Z",
        "period": 2,
-       "clock": "6:36",
+       "clock": "6:30",
        "teams": [
         {
          "name": "New York Jets",
@@ -2402,16 +2402,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "0:19 - OT",
+       "detail": "0:12 - OT",
        "start": "2026-11-22T19:30Z",
        "period": 3,
-       "clock": "0:19",
+       "clock": "0:12",
        "teams": [
         {
          "name": "Robert Morris Colonials",
          "short": "Colonials",
          "abbr": "RMU",
-         "score": 81,
+         "score": 82,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -2424,7 +2424,7 @@
          "name": "New Mexico State Aggies",
          "short": "Aggies",
          "abbr": "NMSU",
-         "score": 77,
+         "score": 79,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -2535,7 +2535,7 @@
          "name": "Albany Great Danes",
          "short": "Albany Great Danes",
          "abbr": "",
-         "score": 48,
+         "score": 51,
          "ha": "away",
          "winner": null,
          "linescores": []
@@ -2544,7 +2544,7 @@
          "name": "Mercyhurst Lakers",
          "short": "Mercyhurst Lakers",
          "abbr": "",
-         "score": 49,
+         "score": 54,
          "ha": "home",
          "winner": null,
          "linescores": []
@@ -2583,16 +2583,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "15:25 - 1st",
+       "detail": "13:46 - 1st",
        "start": "2026-11-22T21:30Z",
        "period": 1,
-       "clock": "15:25",
+       "clock": "13:46",
        "teams": [
         {
          "name": "Richmond Spiders",
          "short": "Spiders",
          "abbr": "RICH",
-         "score": 7,
+         "score": 11,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -2603,7 +2603,7 @@
          "name": "Liberty Flames",
          "short": "Flames",
          "abbr": "LIB",
-         "score": 5,
+         "score": 7,
          "ha": "home",
          "winner": null,
          "linescores": [
