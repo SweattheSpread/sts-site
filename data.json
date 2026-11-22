@@ -1,5 +1,5 @@
 {
- "updated": "Nov 22, 2026, 3:31 AM PT",
+ "updated": "Nov 22, 2026, 4:47 AM PT",
  "record": {
   "w": 239,
   "l": 237,
@@ -11,7 +11,7 @@
   "first": "2026-10-12",
   "last": "2026-11-21"
  },
- "pending": 26,
+ "pending": 28,
  "latest": [
   {
    "n": 956,
@@ -819,6 +819,36 @@
    }
   },
   {
+   "n": 960,
+   "league": "NFL",
+   "type": "Player Prop",
+   "matchup": "Miami Dolphins @ Buffalo Bills",
+   "pick": "Khalil Shakir anytime TD Yes",
+   "odds": 250,
+   "units": 0.5,
+   "gap": null,
+   "start": "2026-11-22T10:00:00",
+   "timed": true,
+   "ticket": "single",
+   "espn": {
+    "legs": [
+     {
+      "kind": "prop",
+      "player": "Khalil Shakir",
+      "ou": "O",
+      "line": 0.5,
+      "stat": "anytime td",
+      "label": "Khalil Shakir O 0.5 anytime td",
+      "date": "20261122",
+      "unverified": true,
+      "reason": "Player not found in this game"
+     }
+    ],
+    "sport": "NFL",
+    "ticket": "single"
+   }
+  },
+  {
    "n": 861,
    "league": "NFL",
    "type": "Over/Under",
@@ -1104,6 +1134,66 @@
      }
     ],
     "sport": "NFL",
+    "ticket": "single"
+   }
+  },
+  {
+   "n": 959,
+   "league": "NHL",
+   "type": "Player Prop",
+   "matchup": "Buffalo Sabres @ Tampa Bay Lightning",
+   "pick": "Brayden Point Over 0.5 assists",
+   "odds": 120,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-22T14:10:00",
+   "timed": true,
+   "ticket": "single",
+   "espn": {
+    "legs": [
+     {
+      "kind": "prop",
+      "player": "Brayden Point",
+      "ou": "O",
+      "line": 0.5,
+      "stat": "assists",
+      "label": "Brayden Point O 0.5 assists",
+      "date": "20261122",
+      "unverified": true,
+      "reason": "Player not found in this game",
+      "snapshot": {
+       "source": "nhl",
+       "state": "pre",
+       "detail": "Scheduled",
+       "start": "2026-11-22T22:00:00Z",
+       "period": null,
+       "clock": null,
+       "teams": [
+        {
+         "name": "Sabres",
+         "short": "BUF",
+         "abbr": "BUF",
+         "score": 0,
+         "ha": "away",
+         "winner": null,
+         "linescores": []
+        },
+        {
+         "name": "Lightning",
+         "short": "TBL",
+         "abbr": "TBL",
+         "score": 0,
+         "ha": "home",
+         "winner": null,
+         "linescores": []
+        }
+       ],
+       "nhl_id": 2026020374
+      },
+      "source": "nhl"
+     }
+    ],
+    "sport": "NHL",
     "ticket": "single"
    }
   },

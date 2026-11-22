@@ -1,5 +1,5 @@
 {
- "updated": "Nov 22, 2026, 3:31 AM PT",
+ "updated": "Nov 22, 2026, 4:47 AM PT",
  "record": {
   "w": 239,
   "l": 237,
@@ -11,7 +11,7 @@
   "first": "2026-10-12",
   "last": "2026-11-21"
  },
- "pending": 26,
+ "pending": 28,
  "plays": [
   {
    "n": 334,
@@ -8057,6 +8057,38 @@
    "pick": "Quentin Johnston longest reception Over 15.5",
    "odds": -110,
    "units": 1.0,
+   "result": null,
+   "pl": null,
+   "pending": true
+  },
+  {
+   "n": 959,
+   "date": "2026-11-22",
+   "day": "2026-11-22",
+   "league": "NHL",
+   "market": "player_prop",
+   "market_label": "Player Prop",
+   "ticket": "single",
+   "matchup": "Buffalo Sabres @ Tampa Bay Lightning",
+   "pick": "Brayden Point Over 0.5 assists",
+   "odds": 120,
+   "units": 1.0,
+   "result": null,
+   "pl": null,
+   "pending": true
+  },
+  {
+   "n": 960,
+   "date": "2026-11-22",
+   "day": "2026-11-22",
+   "league": "NFL",
+   "market": "player_prop",
+   "market_label": "Player Prop",
+   "ticket": "single",
+   "matchup": "Miami Dolphins @ Buffalo Bills",
+   "pick": "Khalil Shakir anytime TD Yes",
+   "odds": 250,
+   "units": 0.5,
    "result": null,
    "pl": null,
    "pending": true
