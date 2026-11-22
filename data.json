@@ -1,5 +1,5 @@
 {
- "updated": "Nov 22, 2026, 11:29 AM PT",
+ "updated": "Nov 22, 2026, 11:39 AM PT",
  "record": {
   "w": 239,
   "l": 237,
@@ -127,64 +127,6 @@
   }
  ],
  "picks": [
-  {
-   "n": 966,
-   "league": "NCAAB",
-   "type": "Over/Under",
-   "matchup": "Robert Morris Colonials @ New Mexico State Aggies",
-   "pick": "Over 135",
-   "odds": -110,
-   "units": 1.0,
-   "gap": null,
-   "start": "2026-11-22T11:30:00",
-   "timed": true,
-   "ticket": "single",
-   "espn": {
-    "legs": [
-     {
-      "kind": "total",
-      "side": null,
-      "ou": "O",
-      "line": 135.0,
-      "label": "O 135.0",
-      "path": "basketball/mens-college-basketball",
-      "event": "401928790",
-      "date": "20261122",
-      "snapshot": {
-       "source": "espn",
-       "state": "pre",
-       "detail": "11/22 - 2:30 PM EST",
-       "start": "2026-11-22T19:30Z",
-       "period": null,
-       "clock": null,
-       "teams": [
-        {
-         "name": "Robert Morris Colonials",
-         "short": "Colonials",
-         "abbr": "RMU",
-         "score": 0,
-         "ha": "away",
-         "winner": null,
-         "linescores": []
-        },
-        {
-         "name": "New Mexico State Aggies",
-         "short": "Aggies",
-         "abbr": "NMSU",
-         "score": 0,
-         "ha": "home",
-         "winner": null,
-         "linescores": []
-        }
-       ]
-      },
-      "source": "espn"
-     }
-    ],
-    "sport": "NCAAB",
-    "ticket": "single"
-   }
-  },
   {
    "n": 969,
    "league": "NCAAB",
@@ -1364,16 +1306,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "0:30 - 2nd",
+       "detail": "Halftime",
        "start": "2026-11-22T18:00Z",
        "period": 2,
-       "clock": "0:30",
+       "clock": "0:00",
        "teams": [
         {
          "name": "New Orleans Saints",
          "short": "Saints",
          "abbr": "NO",
-         "score": 7,
+         "score": 10,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -1490,10 +1432,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "0:38 - 2nd",
+       "detail": "Halftime",
        "start": "2026-11-22T18:00Z",
        "period": 2,
-       "clock": "0:38",
+       "clock": "0:00",
        "teams": [
         {
          "name": "Miami Dolphins",
@@ -1554,10 +1496,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "0:38 - 2nd",
+       "detail": "Halftime",
        "start": "2026-11-22T18:00Z",
        "period": 2,
-       "clock": "0:38",
+       "clock": "0:00",
        "teams": [
         {
          "name": "Miami Dolphins",
@@ -1618,10 +1560,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "Halftime",
+       "detail": "13:41 - 3rd",
        "start": "2026-11-22T18:00Z",
-       "period": 2,
-       "clock": "0:00",
+       "period": 3,
+       "clock": "13:41",
        "teams": [
         {
          "name": "Arizona Cardinals",
@@ -1631,6 +1573,7 @@
          "ha": "away",
          "winner": null,
          "linescores": [
+          0,
           0,
           0
          ]
@@ -1643,6 +1586,7 @@
          "ha": "home",
          "winner": null,
          "linescores": [
+          0,
           0,
           0
          ]
@@ -1682,16 +1626,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "0:30 - 2nd",
+       "detail": "Halftime",
        "start": "2026-11-22T18:00Z",
        "period": 2,
-       "clock": "0:30",
+       "clock": "0:00",
        "teams": [
         {
          "name": "New Orleans Saints",
          "short": "Saints",
          "abbr": "NO",
-         "score": 7,
+         "score": 10,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -1746,10 +1690,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "Halftime",
+       "detail": "13:21 - 3rd",
        "start": "2026-11-22T18:00Z",
-       "period": 2,
-       "clock": "0:00",
+       "period": 3,
+       "clock": "13:21",
        "teams": [
         {
          "name": "Tampa Bay Buccaneers",
@@ -1759,6 +1703,7 @@
          "ha": "away",
          "winner": null,
          "linescores": [
+          0,
           0,
           0
          ]
@@ -1771,6 +1716,7 @@
          "ha": "home",
          "winner": null,
          "linescores": [
+          0,
           0,
           0
          ]
@@ -1810,16 +1756,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "0:30 - 2nd",
+       "detail": "Halftime",
        "start": "2026-11-22T18:00Z",
        "period": 2,
-       "clock": "0:30",
+       "clock": "0:00",
        "teams": [
         {
          "name": "New Orleans Saints",
          "short": "Saints",
          "abbr": "NO",
-         "score": 7,
+         "score": 10,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -2000,19 +1946,20 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "Halftime",
+       "detail": "13:55 - 3rd",
        "start": "2026-11-22T18:00Z",
-       "period": 2,
-       "clock": "0:00",
+       "period": 3,
+       "clock": "13:55",
        "teams": [
         {
          "name": "Pittsburgh Steelers",
          "short": "Steelers",
          "abbr": "PIT",
-         "score": 3,
+         "score": 6,
          "ha": "away",
          "winner": null,
          "linescores": [
+          0,
           0,
           0
          ]
@@ -2025,6 +1972,7 @@
          "ha": "home",
          "winner": null,
          "linescores": [
+          0,
           0,
           0
          ]
@@ -2064,10 +2012,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "Halftime",
+       "detail": "13:21 - 3rd",
        "start": "2026-11-22T18:00Z",
-       "period": 2,
-       "clock": "0:00",
+       "period": 3,
+       "clock": "13:21",
        "teams": [
         {
          "name": "Tampa Bay Buccaneers",
@@ -2077,6 +2025,7 @@
          "ha": "away",
          "winner": null,
          "linescores": [
+          0,
           0,
           0
          ]
@@ -2089,6 +2038,7 @@
          "ha": "home",
          "winner": null,
          "linescores": [
+          0,
           0,
           0
          ]
@@ -2129,10 +2079,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "0:38 - 2nd",
+       "detail": "Halftime",
        "start": "2026-11-22T18:00Z",
        "period": 2,
-       "clock": "0:38",
+       "clock": "0:00",
        "teams": [
         {
          "name": "Miami Dolphins",
@@ -2194,10 +2144,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "2:00 - 2nd",
+       "detail": "0:10 - 2nd",
        "start": "2026-11-22T18:00Z",
        "period": 2,
-       "clock": "2:00",
+       "clock": "0:10",
        "teams": [
         {
          "name": "Baltimore Ravens",
@@ -2258,16 +2208,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "0:30 - 2nd",
+       "detail": "Halftime",
        "start": "2026-11-22T18:00Z",
        "period": 2,
-       "clock": "0:30",
+       "clock": "0:00",
        "teams": [
         {
          "name": "New Orleans Saints",
          "short": "Saints",
          "abbr": "NO",
-         "score": 7,
+         "score": 10,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -2297,6 +2247,68 @@
    }
   },
   {
+   "n": 966,
+   "league": "NCAAB",
+   "type": "Over/Under",
+   "matchup": "Robert Morris Colonials @ New Mexico State Aggies",
+   "pick": "Over 135",
+   "odds": -110,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-22T11:30:00",
+   "timed": true,
+   "ticket": "single",
+   "espn": {
+    "legs": [
+     {
+      "kind": "total",
+      "side": null,
+      "ou": "O",
+      "line": 135.0,
+      "label": "O 135.0",
+      "path": "basketball/mens-college-basketball",
+      "event": "401928790",
+      "date": "20261122",
+      "snapshot": {
+       "source": "espn",
+       "state": "in",
+       "detail": "15:49 - 1st",
+       "start": "2026-11-22T19:30Z",
+       "period": 1,
+       "clock": "15:49",
+       "teams": [
+        {
+         "name": "Robert Morris Colonials",
+         "short": "Colonials",
+         "abbr": "RMU",
+         "score": 4,
+         "ha": "away",
+         "winner": null,
+         "linescores": [
+          0
+         ]
+        },
+        {
+         "name": "New Mexico State Aggies",
+         "short": "Aggies",
+         "abbr": "NMSU",
+         "score": 3,
+         "ha": "home",
+         "winner": null,
+         "linescores": [
+          0
+         ]
+        }
+       ]
+      },
+      "source": "espn"
+     }
+    ],
+    "sport": "NCAAB",
+    "ticket": "single"
+   }
+  },
+  {
    "n": 968,
    "league": "NCAAB",
    "type": "Spread",
@@ -2321,16 +2333,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "7:59 - 1st",
+       "detail": "2:22 - 1st",
        "start": "2026-11-22T19:00Z",
        "period": 1,
-       "clock": "7:59",
+       "clock": "2:22",
        "teams": [
         {
          "name": "South Dakota Coyotes",
          "short": "Coyotes",
          "abbr": "SDAK",
-         "score": 17,
+         "score": 27,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -2341,7 +2353,7 @@
          "name": "Utah Tech Trailblazers",
          "short": "Trailblazers",
          "abbr": "UTU",
-         "score": 23,
+         "score": 29,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -2384,10 +2396,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "Halftime",
+       "detail": "13:41 - 3rd",
        "start": "2026-11-22T18:00Z",
-       "period": 2,
-       "clock": "0:00",
+       "period": 3,
+       "clock": "13:41",
        "teams": [
         {
          "name": "Arizona Cardinals",
@@ -2397,6 +2409,7 @@
          "ha": "away",
          "winner": null,
          "linescores": [
+          0,
           0,
           0
          ]
@@ -2409,6 +2422,7 @@
          "ha": "home",
          "winner": null,
          "linescores": [
+          0,
           0,
           0
          ]
