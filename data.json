@@ -1,5 +1,5 @@
 {
- "updated": "Nov 22, 2026, 12:28 PM PT",
+ "updated": "Nov 22, 2026, 12:30 PM PT",
  "record": {
   "w": 239,
   "l": 237,
@@ -127,32 +127,6 @@
   }
  ],
  "picks": [
-  {
-   "n": 969,
-   "league": "NCAAB",
-   "type": "Spread",
-   "matchup": "Mercyhurst Lakers @ Albany Great Danes",
-   "pick": "Mercyhurst +0.5",
-   "odds": -110,
-   "units": 1.0,
-   "gap": null,
-   "start": "2026-11-22T12:30:00",
-   "timed": true,
-   "ticket": "single",
-   "espn": {
-    "legs": [
-     {
-      "kind": "spread",
-      "side": "Mercyhurst",
-      "line": 0.5,
-      "label": "Mercyhurst +0.5",
-      "unverified": true
-     }
-    ],
-    "sport": "NCAAB",
-    "ticket": "single"
-   }
-  },
   {
    "n": 861,
    "league": "NFL",
@@ -1306,10 +1280,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "13:01 - 4th",
+       "detail": "12:55 - 4th",
        "start": "2026-11-22T18:00Z",
        "period": 4,
-       "clock": "13:01",
+       "clock": "12:55",
        "teams": [
         {
          "name": "New Orleans Saints",
@@ -1329,7 +1303,7 @@
          "name": "Chicago Bears",
          "short": "Bears",
          "abbr": "CHI",
-         "score": 19,
+         "score": 21,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -1373,10 +1347,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "12:41 - 4th",
+       "detail": "11:40 - 4th",
        "start": "2026-11-22T18:00Z",
        "period": 4,
-       "clock": "12:41",
+       "clock": "11:40",
        "teams": [
         {
          "name": "Tennessee Titans",
@@ -1440,10 +1414,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "14:49 - 4th",
+       "detail": "12:51 - 4th",
        "start": "2026-11-22T18:00Z",
        "period": 4,
-       "clock": "14:49",
+       "clock": "12:51",
        "teams": [
         {
          "name": "Miami Dolphins",
@@ -1508,10 +1482,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "14:49 - 4th",
+       "detail": "12:51 - 4th",
        "start": "2026-11-22T18:00Z",
        "period": 4,
-       "clock": "14:49",
+       "clock": "12:51",
        "teams": [
         {
          "name": "Miami Dolphins",
@@ -1576,10 +1550,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "9:37 - 4th",
+       "detail": "7:07 - 4th",
        "start": "2026-11-22T18:00Z",
        "period": 4,
-       "clock": "9:37",
+       "clock": "7:07",
        "teams": [
         {
          "name": "Arizona Cardinals",
@@ -1644,10 +1618,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "13:01 - 4th",
+       "detail": "12:55 - 4th",
        "start": "2026-11-22T18:00Z",
        "period": 4,
-       "clock": "13:01",
+       "clock": "12:55",
        "teams": [
         {
          "name": "New Orleans Saints",
@@ -1667,7 +1641,7 @@
          "name": "Chicago Bears",
          "short": "Bears",
          "abbr": "CHI",
-         "score": 19,
+         "score": 21,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -1712,10 +1686,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "10:28 - 4th",
+       "detail": "10:16 - 4th",
        "start": "2026-11-22T18:00Z",
        "period": 4,
-       "clock": "10:28",
+       "clock": "10:16",
        "teams": [
         {
          "name": "Tampa Bay Buccaneers",
@@ -1780,10 +1754,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "13:01 - 4th",
+       "detail": "12:55 - 4th",
        "start": "2026-11-22T18:00Z",
        "period": 4,
-       "clock": "13:01",
+       "clock": "12:55",
        "teams": [
         {
          "name": "New Orleans Saints",
@@ -1803,7 +1777,7 @@
          "name": "Chicago Bears",
          "short": "Bears",
          "abbr": "CHI",
-         "score": 19,
+         "score": 21,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -1848,10 +1822,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "12:41 - 4th",
+       "detail": "11:40 - 4th",
        "start": "2026-11-22T18:00Z",
        "period": 4,
-       "clock": "12:41",
+       "clock": "11:40",
        "teams": [
         {
          "name": "Tennessee Titans",
@@ -1916,10 +1890,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "12:41 - 4th",
+       "detail": "11:40 - 4th",
        "start": "2026-11-22T18:00Z",
        "period": 4,
-       "clock": "12:41",
+       "clock": "11:40",
        "teams": [
         {
          "name": "Tennessee Titans",
@@ -1982,10 +1956,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "13:12 - 4th",
+       "detail": "11:14 - 4th",
        "start": "2026-11-22T18:00Z",
        "period": 4,
-       "clock": "13:12",
+       "clock": "11:14",
        "teams": [
         {
          "name": "Pittsburgh Steelers",
@@ -2050,10 +2024,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "10:28 - 4th",
+       "detail": "10:16 - 4th",
        "start": "2026-11-22T18:00Z",
        "period": 4,
-       "clock": "10:28",
+       "clock": "10:16",
        "teams": [
         {
          "name": "Tampa Bay Buccaneers",
@@ -2119,10 +2093,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "14:49 - 4th",
+       "detail": "12:51 - 4th",
        "start": "2026-11-22T18:00Z",
        "period": 4,
-       "clock": "14:49",
+       "clock": "12:51",
        "teams": [
         {
          "name": "Miami Dolphins",
@@ -2188,10 +2162,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "2:34 - 3rd",
+       "detail": "0:31 - 3rd",
        "start": "2026-11-22T18:00Z",
        "period": 3,
-       "clock": "2:34",
+       "clock": "0:31",
        "teams": [
         {
          "name": "Baltimore Ravens",
@@ -2210,7 +2184,7 @@
          "name": "Carolina Panthers",
          "short": "Panthers",
          "abbr": "CAR",
-         "score": 29,
+         "score": 32,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -2254,10 +2228,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "13:01 - 4th",
+       "detail": "12:55 - 4th",
        "start": "2026-11-22T18:00Z",
        "period": 4,
-       "clock": "13:01",
+       "clock": "12:55",
        "teams": [
         {
          "name": "New Orleans Saints",
@@ -2277,7 +2251,7 @@
          "name": "Chicago Bears",
          "short": "Bears",
          "abbr": "CHI",
-         "score": 19,
+         "score": 21,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -2383,10 +2357,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "8:53 - 2nd",
+       "detail": "7:49 - 2nd",
        "start": "2026-11-22T19:00Z",
        "period": 2,
-       "clock": "8:53",
+       "clock": "7:49",
        "teams": [
         {
          "name": "South Dakota Coyotes",
@@ -2422,6 +2396,59 @@
    }
   },
   {
+   "n": 969,
+   "league": "NCAAB",
+   "type": "Spread",
+   "matchup": "Mercyhurst Lakers @ Albany Great Danes",
+   "pick": "Mercyhurst +0.5",
+   "odds": -110,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-22T12:30:00",
+   "timed": true,
+   "ticket": "single",
+   "espn": {
+    "legs": [
+     {
+      "kind": "spread",
+      "side": "Mercyhurst",
+      "line": 0.5,
+      "label": "Mercyhurst +0.5",
+      "unverified": true,
+      "snapshot": {
+       "source": "odds-api",
+       "state": "in",
+       "detail": "Live",
+       "start": "2026-11-22T20:30:00Z",
+       "teams": [
+        {
+         "name": "Mercyhurst Lakers",
+         "short": "Mercyhurst Lakers",
+         "abbr": "",
+         "score": 0,
+         "ha": "away",
+         "winner": null,
+         "linescores": []
+        },
+        {
+         "name": "Albany Great Danes",
+         "short": "Albany Great Danes",
+         "abbr": "",
+         "score": 0,
+         "ha": "home",
+         "winner": null,
+         "linescores": []
+        }
+       ]
+      },
+      "source": "odds-api"
+     }
+    ],
+    "sport": "NCAAB",
+    "ticket": "single"
+   }
+  },
+  {
    "n": 972,
    "league": "NFL",
    "type": "Player Prop",
@@ -2448,10 +2475,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "9:37 - 4th",
+       "detail": "7:07 - 4th",
        "start": "2026-11-22T18:00Z",
        "period": 4,
-       "clock": "9:37",
+       "clock": "7:07",
        "teams": [
         {
          "name": "Arizona Cardinals",
