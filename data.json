@@ -1,5 +1,5 @@
 {
- "updated": "Nov 21, 2026, 4:26 PM PT",
+ "updated": "Nov 21, 2026, 4:28 PM PT",
  "record": {
   "w": 224,
   "l": 230,
@@ -1868,10 +1868,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P2 10:48",
+       "detail": "P2 09:08",
        "start": "2026-11-21T23:00:00Z",
        "period": 2,
-       "clock": "10:48",
+       "clock": "09:08",
        "teams": [
         {
          "name": "Penguins",
@@ -1925,10 +1925,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P1 14:25",
+       "detail": "P1 13:58",
        "start": "2026-11-22T00:00:00Z",
        "period": 1,
-       "clock": "14:25",
+       "clock": "13:58",
        "teams": [
         {
          "name": "Blue Jackets",
@@ -2307,10 +2307,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "8:08 - 1st",
+       "detail": "7:37 - 1st",
        "start": "2026-11-22T00:00Z",
        "period": 1,
-       "clock": "8:08",
+       "clock": "7:37",
        "teams": [
         {
          "name": "Michigan Wolverines",
@@ -2705,10 +2705,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P1 14:25",
+       "detail": "P1 13:58",
        "start": "2026-11-22T00:00:00Z",
        "period": 1,
-       "clock": "14:25",
+       "clock": "13:58",
        "teams": [
         {
          "name": "Blue Jackets",
@@ -2840,16 +2840,16 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P1 12:08",
+       "detail": "P1 10:57",
        "start": "2026-11-22T00:00:00Z",
        "period": 1,
-       "clock": "12:08",
+       "clock": "10:57",
        "teams": [
         {
          "name": "Devils",
          "short": "NJD",
          "abbr": "NJD",
-         "score": 0,
+         "score": 1,
          "ha": "away",
          "winner": null,
          "linescores": []
