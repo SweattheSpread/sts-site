@@ -1,5 +1,5 @@
 {
- "updated": "Nov 22, 2026, 3:46 PM PT",
+ "updated": "Nov 22, 2026, 3:48 PM PT",
  "record": {
   "w": 239,
   "l": 237,
@@ -1052,7 +1052,7 @@
          "name": "Denver Broncos",
          "short": "Broncos",
          "abbr": "DEN",
-         "score": 23,
+         "score": 24,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -1456,7 +1456,7 @@
          "name": "Denver Broncos",
          "short": "Broncos",
          "abbr": "DEN",
-         "score": 23,
+         "score": 24,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -2109,10 +2109,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P2 00:42",
+       "detail": "P2 15:43",
        "start": "2026-11-22T22:00:00Z",
        "period": 2,
-       "clock": "00:42",
+       "clock": "15:43",
        "teams": [
         {
          "name": "Sabres",
@@ -2546,16 +2546,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "3:23 - OT",
+       "detail": "2:14 - OT",
        "start": "2026-11-22T21:30Z",
        "period": 3,
-       "clock": "3:23",
+       "clock": "2:14",
        "teams": [
         {
          "name": "Richmond Spiders",
          "short": "Spiders",
          "abbr": "RICH",
-         "score": 74,
+         "score": 76,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -2692,7 +2692,7 @@
          "name": "Denver Broncos",
          "short": "Broncos",
          "abbr": "DEN",
-         "score": 23,
+         "score": 24,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -2741,7 +2741,7 @@
          "name": "Denver Broncos",
          "short": "Broncos",
          "abbr": "DEN",
-         "score": 23,
+         "score": 24,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -2790,7 +2790,7 @@
          "name": "Denver Broncos",
          "short": "Broncos",
          "abbr": "DEN",
-         "score": 23,
+         "score": 24,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -2839,7 +2839,7 @@
          "name": "Denver Broncos",
          "short": "Broncos",
          "abbr": "DEN",
-         "score": 23,
+         "score": 24,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -3130,10 +3130,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P2 00:42",
+       "detail": "P2 15:43",
        "start": "2026-11-22T22:00:00Z",
        "period": 2,
-       "clock": "00:42",
+       "clock": "15:43",
        "teams": [
         {
          "name": "Sabres",
@@ -3281,7 +3281,7 @@
          "name": "Denver Broncos",
          "short": "Broncos",
          "abbr": "DEN",
-         "score": 23,
+         "score": 24,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -3349,7 +3349,7 @@
          "name": "Denver Broncos",
          "short": "Broncos",
          "abbr": "DEN",
-         "score": 23,
+         "score": 24,
          "ha": "home",
          "winner": null,
          "linescores": [
