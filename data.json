@@ -1,5 +1,5 @@
 {
- "updated": "Nov 22, 2026, 10:30 AM PT",
+ "updated": "Nov 22, 2026, 10:32 AM PT",
  "record": {
   "w": 239,
   "l": 237,
@@ -11,7 +11,7 @@
   "first": "2026-10-12",
   "last": "2026-11-21"
  },
- "pending": 34,
+ "pending": 39,
  "latest": [
   {
    "n": 956,
@@ -128,6 +128,63 @@
  ],
  "picks": [
   {
+   "n": 968,
+   "league": "NCAAB",
+   "type": "Spread",
+   "matchup": "Utah Tech Trailblazers @ South Dakota Coyotes",
+   "pick": "Utah Tech +1.5",
+   "odds": -110,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-22T11:00:00",
+   "timed": true,
+   "ticket": "single",
+   "espn": {
+    "legs": [
+     {
+      "kind": "spread",
+      "side": "Utah Tech",
+      "line": 1.5,
+      "label": "Utah Tech +1.5",
+      "path": "basketball/mens-college-basketball",
+      "event": "401925942",
+      "date": "20261122",
+      "snapshot": {
+       "source": "espn",
+       "state": "pre",
+       "detail": "11/22 - 2:00 PM EST",
+       "start": "2026-11-22T19:00Z",
+       "period": null,
+       "clock": null,
+       "teams": [
+        {
+         "name": "South Dakota Coyotes",
+         "short": "Coyotes",
+         "abbr": "SDAK",
+         "score": 0,
+         "ha": "away",
+         "winner": null,
+         "linescores": []
+        },
+        {
+         "name": "Utah Tech Trailblazers",
+         "short": "Trailblazers",
+         "abbr": "UTU",
+         "score": 0,
+         "ha": "home",
+         "winner": null,
+         "linescores": []
+        }
+       ]
+      },
+      "source": "espn"
+     }
+    ],
+    "sport": "NCAAB",
+    "ticket": "single"
+   }
+  },
+  {
    "n": 966,
    "league": "NCAAB",
    "type": "Over/Under",
@@ -179,6 +236,32 @@
        ]
       },
       "source": "espn"
+     }
+    ],
+    "sport": "NCAAB",
+    "ticket": "single"
+   }
+  },
+  {
+   "n": 969,
+   "league": "NCAAB",
+   "type": "Spread",
+   "matchup": "Mercyhurst Lakers @ Albany Great Danes",
+   "pick": "Mercyhurst +0.5",
+   "odds": -110,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-22T12:30:00",
+   "timed": true,
+   "ticket": "single",
+   "espn": {
+    "legs": [
+     {
+      "kind": "spread",
+      "side": "Mercyhurst",
+      "line": 0.5,
+      "label": "Mercyhurst +0.5",
+      "unverified": true
      }
     ],
     "sport": "NCAAB",
@@ -471,6 +554,63 @@
      }
     ],
     "sport": "NFL",
+    "ticket": "single"
+   }
+  },
+  {
+   "n": 970,
+   "league": "NCAAB",
+   "type": "Spread",
+   "matchup": "Liberty Flames @ Richmond Spiders",
+   "pick": "Richmond +1.5",
+   "odds": -125,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-22T13:30:00",
+   "timed": true,
+   "ticket": "single",
+   "espn": {
+    "legs": [
+     {
+      "kind": "spread",
+      "side": "Richmond",
+      "line": 1.5,
+      "label": "Richmond +1.5",
+      "path": "basketball/mens-college-basketball",
+      "event": "401926795",
+      "date": "20261122",
+      "snapshot": {
+       "source": "espn",
+       "state": "pre",
+       "detail": "11/22 - 4:30 PM EST",
+       "start": "2026-11-22T21:30Z",
+       "period": null,
+       "clock": null,
+       "teams": [
+        {
+         "name": "Richmond Spiders",
+         "short": "Spiders",
+         "abbr": "RICH",
+         "score": 0,
+         "ha": "away",
+         "winner": null,
+         "linescores": []
+        },
+        {
+         "name": "Liberty Flames",
+         "short": "Flames",
+         "abbr": "LIB",
+         "score": 0,
+         "ha": "home",
+         "winner": null,
+         "linescores": []
+        }
+       ]
+      },
+      "source": "espn"
+     }
+    ],
+    "sport": "NCAAB",
     "ticket": "single"
    }
   },
@@ -795,6 +935,63 @@
      }
     ],
     "sport": "NFL",
+    "ticket": "single"
+   }
+  },
+  {
+   "n": 971,
+   "league": "NCAAB",
+   "type": "Spread",
+   "matchup": "Seattle Redhawks @ UC San Diego Tritons",
+   "pick": "UC San Diego +1.5",
+   "odds": -118,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-22T18:30:00",
+   "timed": true,
+   "ticket": "single",
+   "espn": {
+    "legs": [
+     {
+      "kind": "spread",
+      "side": "UC San Diego",
+      "line": 1.5,
+      "label": "UC San Diego +1.5",
+      "path": "basketball/mens-college-basketball",
+      "event": "401917542",
+      "date": "20261122",
+      "snapshot": {
+       "source": "espn",
+       "state": "pre",
+       "detail": "11/22 - 9:30 PM EST",
+       "start": "2026-11-23T02:30Z",
+       "period": null,
+       "clock": null,
+       "teams": [
+        {
+         "name": "Seattle U Redhawks",
+         "short": "Redhawks",
+         "abbr": "SEA",
+         "score": 0,
+         "ha": "away",
+         "winner": null,
+         "linescores": []
+        },
+        {
+         "name": "UC San Diego Tritons",
+         "short": "Tritons",
+         "abbr": "UCSD",
+         "score": 0,
+         "ha": "home",
+         "winner": null,
+         "linescores": []
+        }
+       ]
+      },
+      "source": "espn"
+     }
+    ],
+    "sport": "NCAAB",
     "ticket": "single"
    }
   },
@@ -1224,10 +1421,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "2:52 - 1st",
+       "detail": "2:26 - 1st",
        "start": "2026-11-22T18:00Z",
        "period": 1,
-       "clock": "2:52",
+       "clock": "2:26",
        "teams": [
         {
          "name": "New Orleans Saints",
@@ -1285,10 +1482,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "4:24 - 1st",
+       "detail": "3:42 - 1st",
        "start": "2026-11-22T18:00Z",
        "period": 1,
-       "clock": "4:24",
+       "clock": "3:42",
        "teams": [
         {
          "name": "Tennessee Titans",
@@ -1346,10 +1543,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "4:35 - 1st",
+       "detail": "4:21 - 1st",
        "start": "2026-11-22T18:00Z",
        "period": 1,
-       "clock": "4:35",
+       "clock": "4:21",
        "teams": [
         {
          "name": "Miami Dolphins",
@@ -1408,10 +1605,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "4:35 - 1st",
+       "detail": "4:21 - 1st",
        "start": "2026-11-22T18:00Z",
        "period": 1,
-       "clock": "4:35",
+       "clock": "4:21",
        "teams": [
         {
          "name": "Miami Dolphins",
@@ -1470,10 +1667,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "2:08 - 1st",
+       "detail": "0:48 - 1st",
        "start": "2026-11-22T18:00Z",
        "period": 1,
-       "clock": "2:08",
+       "clock": "0:48",
        "teams": [
         {
          "name": "Arizona Cardinals",
@@ -1490,7 +1687,7 @@
          "name": "Kansas City Chiefs",
          "short": "Chiefs",
          "abbr": "KC",
-         "score": 7,
+         "score": 13,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -1532,10 +1729,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "2:52 - 1st",
+       "detail": "2:26 - 1st",
        "start": "2026-11-22T18:00Z",
        "period": 1,
-       "clock": "2:52",
+       "clock": "2:26",
        "teams": [
         {
          "name": "New Orleans Saints",
@@ -1594,10 +1791,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "2:18 - 1st",
+       "detail": "0:52 - 1st",
        "start": "2026-11-22T18:00Z",
        "period": 1,
-       "clock": "2:18",
+       "clock": "0:52",
        "teams": [
         {
          "name": "Tampa Bay Buccaneers",
@@ -1656,10 +1853,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "2:52 - 1st",
+       "detail": "2:26 - 1st",
        "start": "2026-11-22T18:00Z",
        "period": 1,
-       "clock": "2:52",
+       "clock": "2:26",
        "teams": [
         {
          "name": "New Orleans Saints",
@@ -1718,10 +1915,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "4:24 - 1st",
+       "detail": "3:42 - 1st",
        "start": "2026-11-22T18:00Z",
        "period": 1,
-       "clock": "4:24",
+       "clock": "3:42",
        "teams": [
         {
          "name": "Tennessee Titans",
@@ -1780,10 +1977,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "4:24 - 1st",
+       "detail": "3:42 - 1st",
        "start": "2026-11-22T18:00Z",
        "period": 1,
-       "clock": "4:24",
+       "clock": "3:42",
        "teams": [
         {
          "name": "Tennessee Titans",
@@ -1840,10 +2037,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "2:49 - 1st",
+       "detail": "2:05 - 1st",
        "start": "2026-11-22T18:00Z",
        "period": 1,
-       "clock": "2:49",
+       "clock": "2:05",
        "teams": [
         {
          "name": "Pittsburgh Steelers",
@@ -1902,10 +2099,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "2:18 - 1st",
+       "detail": "0:52 - 1st",
        "start": "2026-11-22T18:00Z",
        "period": 1,
-       "clock": "2:18",
+       "clock": "0:52",
        "teams": [
         {
          "name": "Tampa Bay Buccaneers",
@@ -1965,10 +2162,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "4:35 - 1st",
+       "detail": "4:21 - 1st",
        "start": "2026-11-22T18:00Z",
        "period": 1,
-       "clock": "4:35",
+       "clock": "4:21",
        "teams": [
         {
          "name": "Miami Dolphins",
@@ -2028,10 +2225,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "6:46 - 1st",
+       "detail": "4:12 - 1st",
        "start": "2026-11-22T18:00Z",
        "period": 1,
-       "clock": "6:46",
+       "clock": "4:12",
        "teams": [
         {
          "name": "Baltimore Ravens",
@@ -2090,10 +2287,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "2:52 - 1st",
+       "detail": "2:26 - 1st",
        "start": "2026-11-22T18:00Z",
        "period": 1,
-       "clock": "2:52",
+       "clock": "2:26",
        "teams": [
         {
          "name": "New Orleans Saints",
@@ -2118,6 +2315,70 @@
          ]
         }
        ]
+      },
+      "source": "espn"
+     }
+    ],
+    "sport": "NFL",
+    "ticket": "single"
+   }
+  },
+  {
+   "n": 972,
+   "league": "NFL",
+   "type": "Player Prop",
+   "matchup": "Arizona Cardinals @ Kansas City Chiefs",
+   "pick": "Emmett Johnson Over 115.5 Rushing Yards, live",
+   "odds": -120,
+   "units": 10.0,
+   "gap": null,
+   "start": "2026-11-22T10:00:00",
+   "timed": true,
+   "ticket": "single",
+   "espn": {
+    "legs": [
+     {
+      "kind": "prop",
+      "player": "Emmett Johnson",
+      "ou": "O",
+      "line": 115.5,
+      "stat": "rushing yards, live",
+      "label": "Emmett Johnson O 115.5 rushing yards, live",
+      "path": "football/nfl",
+      "event": "401873067",
+      "date": "20261122",
+      "snapshot": {
+       "source": "espn",
+       "state": "in",
+       "detail": "0:48 - 1st",
+       "start": "2026-11-22T18:00Z",
+       "period": 1,
+       "clock": "0:48",
+       "teams": [
+        {
+         "name": "Arizona Cardinals",
+         "short": "Cardinals",
+         "abbr": "ARI",
+         "score": 0,
+         "ha": "away",
+         "winner": null,
+         "linescores": [
+          0
+         ]
+        },
+        {
+         "name": "Kansas City Chiefs",
+         "short": "Chiefs",
+         "abbr": "KC",
+         "score": 13,
+         "ha": "home",
+         "winner": null,
+         "linescores": [
+          0
+         ]
+        }
+       ],
+       "stat": null
       },
       "source": "espn"
      }
