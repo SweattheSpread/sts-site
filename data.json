@@ -1,5 +1,5 @@
 {
- "updated": "Nov 21, 2026, 4:54 PM PT",
+ "updated": "Nov 21, 2026, 5:00 PM PT",
  "record": {
   "w": 224,
   "l": 230,
@@ -1841,16 +1841,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "5:43 - 1st",
+       "detail": "48.6 - 1st",
        "start": "2026-11-22T00:30Z",
        "period": 1,
-       "clock": "5:43",
+       "clock": "48.6",
        "teams": [
         {
          "name": "Portland Trail Blazers",
          "short": "Trail Blazers",
          "abbr": "POR",
-         "score": 13,
+         "score": 21,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -1861,7 +1861,7 @@
          "name": "New York Knicks",
          "short": "Knicks",
          "abbr": "NY",
-         "score": 24,
+         "score": 37,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -1905,10 +1905,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P2 07:44",
+       "detail": "P2 00:45",
        "start": "2026-11-21T23:00:00Z",
        "period": 2,
-       "clock": "07:44",
+       "clock": "00:45",
        "teams": [
         {
          "name": "Penguins",
@@ -1962,10 +1962,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P1 00:15",
+       "detail": "P1 11:19",
        "start": "2026-11-22T00:00:00Z",
        "period": 1,
-       "clock": "00:15",
+       "clock": "11:19",
        "teams": [
         {
          "name": "Blue Jackets",
@@ -1980,7 +1980,7 @@
          "name": "Maple Leafs",
          "short": "TOR",
          "abbr": "TOR",
-         "score": 1,
+         "score": 2,
          "ha": "home",
          "winner": null,
          "linescores": []
@@ -2742,10 +2742,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P1 00:15",
+       "detail": "P1 11:19",
        "start": "2026-11-22T00:00:00Z",
        "period": 1,
-       "clock": "00:15",
+       "clock": "11:19",
        "teams": [
         {
          "name": "Blue Jackets",
@@ -2760,7 +2760,7 @@
          "name": "Maple Leafs",
          "short": "TOR",
          "abbr": "TOR",
-         "score": 1,
+         "score": 2,
          "ha": "home",
          "winner": null,
          "linescores": []
@@ -2768,7 +2768,7 @@
        ],
        "nhl_id": 2026020364,
        "stat": {
-        "v": 0,
+        "v": 1,
         "name": "J. Roslovic"
        }
       },
@@ -2877,10 +2877,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P1 13:10",
+       "detail": "P1 06:11",
        "start": "2026-11-22T00:00:00Z",
        "period": 1,
-       "clock": "13:10",
+       "clock": "06:11",
        "teams": [
         {
          "name": "Devils",
