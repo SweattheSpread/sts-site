@@ -1,5 +1,5 @@
 {
- "updated": "Nov 21, 2026, 4:42 PM PT",
+ "updated": "Nov 21, 2026, 4:45 PM PT",
  "record": {
   "w": 224,
   "l": 230,
@@ -1841,10 +1841,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "11:23 - 1st",
+       "detail": "10:24 - 1st",
        "start": "2026-11-22T00:30Z",
        "period": 1,
-       "clock": "11:23",
+       "clock": "10:24",
        "teams": [
         {
          "name": "Portland Trail Blazers",
@@ -1861,7 +1861,7 @@
          "name": "New York Knicks",
          "short": "Knicks",
          "abbr": "NY",
-         "score": 3,
+         "score": 7,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -1870,7 +1870,7 @@
         }
        ],
        "stat": {
-        "v": 0,
+        "v": 2,
         "name": "Jalen Brunson"
        }
       },
@@ -1905,10 +1905,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P2 02:17",
+       "detail": "P2 16:46",
        "start": "2026-11-21T23:00:00Z",
        "period": 2,
-       "clock": "02:17",
+       "clock": "16:46",
        "teams": [
         {
          "name": "Penguins",
@@ -1962,10 +1962,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P1 05:40",
+       "detail": "P1 05:34",
        "start": "2026-11-22T00:00:00Z",
        "period": 1,
-       "clock": "05:40",
+       "clock": "05:34",
        "teams": [
         {
          "name": "Blue Jackets",
@@ -2344,10 +2344,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "3:32 - 1st",
+       "detail": "2:57 - 1st",
        "start": "2026-11-22T00:00Z",
        "period": 1,
-       "clock": "3:32",
+       "clock": "2:57",
        "teams": [
         {
          "name": "Michigan Wolverines",
@@ -2742,10 +2742,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P1 05:40",
+       "detail": "P1 05:34",
        "start": "2026-11-22T00:00:00Z",
        "period": 1,
-       "clock": "05:40",
+       "clock": "05:34",
        "teams": [
         {
          "name": "Blue Jackets",
@@ -2877,16 +2877,16 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P1 02:54",
+       "detail": "P1 02:50",
        "start": "2026-11-22T00:00:00Z",
        "period": 1,
-       "clock": "02:54",
+       "clock": "02:50",
        "teams": [
         {
          "name": "Devils",
          "short": "NJD",
          "abbr": "NJD",
-         "score": 1,
+         "score": 2,
          "ha": "away",
          "winner": null,
          "linescores": []
@@ -2903,7 +2903,7 @@
        ],
        "nhl_id": 2026020368,
        "stat": {
-        "v": 0,
+        "v": 1,
         "name": "T. Meier"
        }
       },
