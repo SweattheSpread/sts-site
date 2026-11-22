@@ -1,5 +1,5 @@
 {
- "updated": "Nov 22, 2026, 1:22 PM PT",
+ "updated": "Nov 22, 2026, 1:24 PM PT",
  "record": {
   "w": 239,
   "l": 237,
@@ -323,7 +323,34 @@
       "label": "Patrick Bryant O 24.5 receiving yds",
       "date": "20261122",
       "unverified": true,
-      "reason": "Player not found in this game"
+      "reason": "Player not found in this game",
+      "snapshot": {
+       "source": "odds-api",
+       "state": "pre",
+       "detail": "Scheduled",
+       "start": "2026-11-22T21:28:00Z",
+       "teams": [
+        {
+         "name": "Las Vegas Raiders",
+         "short": "Las Vegas Raiders",
+         "abbr": "",
+         "score": 0,
+         "ha": "away",
+         "winner": null,
+         "linescores": []
+        },
+        {
+         "name": "Denver Broncos",
+         "short": "Denver Broncos",
+         "abbr": "",
+         "score": 0,
+         "ha": "home",
+         "winner": null,
+         "linescores": []
+        }
+       ]
+      },
+      "source": "odds-api"
      },
      {
       "kind": "prop",
@@ -334,7 +361,34 @@
       "label": "Jonah Coleman O 49.5 rushing yds",
       "date": "20261122",
       "unverified": true,
-      "reason": "Player not found in this game"
+      "reason": "Player not found in this game",
+      "snapshot": {
+       "source": "odds-api",
+       "state": "pre",
+       "detail": "Scheduled",
+       "start": "2026-11-22T21:28:00Z",
+       "teams": [
+        {
+         "name": "Las Vegas Raiders",
+         "short": "Las Vegas Raiders",
+         "abbr": "",
+         "score": 0,
+         "ha": "away",
+         "winner": null,
+         "linescores": []
+        },
+        {
+         "name": "Denver Broncos",
+         "short": "Denver Broncos",
+         "abbr": "",
+         "score": 0,
+         "ha": "home",
+         "winner": null,
+         "linescores": []
+        }
+       ]
+      },
+      "source": "odds-api"
      },
      {
       "kind": "prop",
@@ -345,7 +399,34 @@
       "label": "Fernando Mendoza O 0.5 pass interceptions",
       "date": "20261122",
       "unverified": true,
-      "reason": "Player not found in this game"
+      "reason": "Player not found in this game",
+      "snapshot": {
+       "source": "odds-api",
+       "state": "pre",
+       "detail": "Scheduled",
+       "start": "2026-11-22T21:28:00Z",
+       "teams": [
+        {
+         "name": "Las Vegas Raiders",
+         "short": "Las Vegas Raiders",
+         "abbr": "",
+         "score": 0,
+         "ha": "away",
+         "winner": null,
+         "linescores": []
+        },
+        {
+         "name": "Denver Broncos",
+         "short": "Denver Broncos",
+         "abbr": "",
+         "score": 0,
+         "ha": "home",
+         "winner": null,
+         "linescores": []
+        }
+       ]
+      },
+      "source": "odds-api"
      },
      {
       "kind": "prop",
@@ -356,7 +437,34 @@
       "label": "Jonah Coleman O 0.5 anytime td",
       "date": "20261122",
       "unverified": true,
-      "reason": "Player not found in this game"
+      "reason": "Player not found in this game",
+      "snapshot": {
+       "source": "odds-api",
+       "state": "pre",
+       "detail": "Scheduled",
+       "start": "2026-11-22T21:28:00Z",
+       "teams": [
+        {
+         "name": "Las Vegas Raiders",
+         "short": "Las Vegas Raiders",
+         "abbr": "",
+         "score": 0,
+         "ha": "away",
+         "winner": null,
+         "linescores": []
+        },
+        {
+         "name": "Denver Broncos",
+         "short": "Denver Broncos",
+         "abbr": "",
+         "score": 0,
+         "ha": "home",
+         "winner": null,
+         "linescores": []
+        }
+       ]
+      },
+      "source": "odds-api"
      },
      {
       "kind": "prop",
@@ -367,7 +475,34 @@
       "label": "Parker Washington O 0.5 anytime td",
       "date": "20261122",
       "unverified": true,
-      "reason": "Player not found in this game"
+      "reason": "Player not found in this game",
+      "snapshot": {
+       "source": "odds-api",
+       "state": "pre",
+       "detail": "Scheduled",
+       "start": "2026-11-22T21:28:00Z",
+       "teams": [
+        {
+         "name": "Las Vegas Raiders",
+         "short": "Las Vegas Raiders",
+         "abbr": "",
+         "score": 0,
+         "ha": "away",
+         "winner": null,
+         "linescores": []
+        },
+        {
+         "name": "Denver Broncos",
+         "short": "Denver Broncos",
+         "abbr": "",
+         "score": 0,
+         "ha": "home",
+         "winner": null,
+         "linescores": []
+        }
+       ]
+      },
+      "source": "odds-api"
      },
      {
       "kind": "prop",
@@ -378,7 +513,34 @@
       "label": "Bhayshul Tuten O 0.5 anytime td",
       "date": "20261122",
       "unverified": true,
-      "reason": "Player not found in this game"
+      "reason": "Player not found in this game",
+      "snapshot": {
+       "source": "odds-api",
+       "state": "pre",
+       "detail": "Scheduled",
+       "start": "2026-11-22T21:28:00Z",
+       "teams": [
+        {
+         "name": "Las Vegas Raiders",
+         "short": "Las Vegas Raiders",
+         "abbr": "",
+         "score": 0,
+         "ha": "away",
+         "winner": null,
+         "linescores": []
+        },
+        {
+         "name": "Denver Broncos",
+         "short": "Denver Broncos",
+         "abbr": "",
+         "score": 0,
+         "ha": "home",
+         "winner": null,
+         "linescores": []
+        }
+       ]
+      },
+      "source": "odds-api"
      },
      {
       "kind": "prop",
@@ -389,7 +551,34 @@
       "label": "Isaiah Likely O 2.5 receptions",
       "date": "20261122",
       "unverified": true,
-      "reason": "Player not found in this game"
+      "reason": "Player not found in this game",
+      "snapshot": {
+       "source": "odds-api",
+       "state": "pre",
+       "detail": "Scheduled",
+       "start": "2026-11-22T21:28:00Z",
+       "teams": [
+        {
+         "name": "Las Vegas Raiders",
+         "short": "Las Vegas Raiders",
+         "abbr": "",
+         "score": 0,
+         "ha": "away",
+         "winner": null,
+         "linescores": []
+        },
+        {
+         "name": "Denver Broncos",
+         "short": "Denver Broncos",
+         "abbr": "",
+         "score": 0,
+         "ha": "home",
+         "winner": null,
+         "linescores": []
+        }
+       ]
+      },
+      "source": "odds-api"
      },
      {
       "kind": "prop",
@@ -400,7 +589,34 @@
       "label": "Bhayshul Tuten O 59.5 rushing yds",
       "date": "20261122",
       "unverified": true,
-      "reason": "Player not found in this game"
+      "reason": "Player not found in this game",
+      "snapshot": {
+       "source": "odds-api",
+       "state": "pre",
+       "detail": "Scheduled",
+       "start": "2026-11-22T21:28:00Z",
+       "teams": [
+        {
+         "name": "Las Vegas Raiders",
+         "short": "Las Vegas Raiders",
+         "abbr": "",
+         "score": 0,
+         "ha": "away",
+         "winner": null,
+         "linescores": []
+        },
+        {
+         "name": "Denver Broncos",
+         "short": "Denver Broncos",
+         "abbr": "",
+         "score": 0,
+         "ha": "home",
+         "winner": null,
+         "linescores": []
+        }
+       ]
+      },
+      "source": "odds-api"
      },
      {
       "kind": "prop",
@@ -411,7 +627,34 @@
       "label": "T. Lawrence O 224.5 passing yds",
       "date": "20261122",
       "unverified": true,
-      "reason": "Player not found in this game"
+      "reason": "Player not found in this game",
+      "snapshot": {
+       "source": "odds-api",
+       "state": "pre",
+       "detail": "Scheduled",
+       "start": "2026-11-22T21:28:00Z",
+       "teams": [
+        {
+         "name": "Las Vegas Raiders",
+         "short": "Las Vegas Raiders",
+         "abbr": "",
+         "score": 0,
+         "ha": "away",
+         "winner": null,
+         "linescores": []
+        },
+        {
+         "name": "Denver Broncos",
+         "short": "Denver Broncos",
+         "abbr": "",
+         "score": 0,
+         "ha": "home",
+         "winner": null,
+         "linescores": []
+        }
+       ]
+      },
+      "source": "odds-api"
      }
     ],
     "sport": "NFL",
@@ -1669,10 +1912,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "6:17 - 1st",
+       "detail": "5:17 - 1st",
        "start": "2026-11-22T21:05Z",
        "period": 1,
-       "clock": "6:17",
+       "clock": "5:17",
        "teams": [
         {
          "name": "New York Jets",
@@ -1689,7 +1932,7 @@
          "name": "Los Angeles Chargers",
          "short": "Chargers",
          "abbr": "LAC",
-         "score": 0,
+         "score": 3,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -2273,10 +2516,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "6:17 - 1st",
+       "detail": "5:17 - 1st",
        "start": "2026-11-22T21:05Z",
        "period": 1,
-       "clock": "6:17",
+       "clock": "5:17",
        "teams": [
         {
          "name": "New York Jets",
@@ -2293,7 +2536,7 @@
          "name": "Los Angeles Chargers",
          "short": "Chargers",
          "abbr": "LAC",
-         "score": 0,
+         "score": 3,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -2528,10 +2771,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "2:23 - 2nd",
+       "detail": "1:55 - 2nd",
        "start": "2026-11-22T19:30Z",
        "period": 2,
-       "clock": "2:23",
+       "clock": "1:55",
        "teams": [
         {
          "name": "Robert Morris Colonials",
@@ -2668,7 +2911,7 @@
          "name": "Mercyhurst Lakers",
          "short": "Mercyhurst Lakers",
          "abbr": "",
-         "score": 36,
+         "score": 39,
          "ha": "home",
          "winner": null,
          "linescores": []
