@@ -1,5 +1,5 @@
 {
- "updated": "Nov 21, 2026, 6:52 PM PT",
+ "updated": "Nov 21, 2026, 6:54 PM PT",
  "record": {
   "w": 224,
   "l": 230,
@@ -1753,11 +1753,11 @@
       "date": "20261121",
       "snapshot": {
        "source": "espn",
-       "state": "in",
-       "detail": "3.2 - 4th",
+       "state": "post",
+       "detail": "Final",
        "start": "2026-11-22T00:30Z",
-       "period": 4,
-       "clock": "3.2",
+       "period": null,
+       "clock": null,
        "teams": [
         {
          "name": "Portland Trail Blazers",
@@ -1765,7 +1765,7 @@
          "abbr": "POR",
          "score": 96,
          "ha": "away",
-         "winner": null,
+         "winner": false,
          "linescores": [
           0,
           0,
@@ -1777,9 +1777,9 @@
          "name": "New York Knicks",
          "short": "Knicks",
          "abbr": "NY",
-         "score": 94,
+         "score": 97,
          "ha": "home",
-         "winner": null,
+         "winner": true,
          "linescores": [
           0,
           0,
@@ -1881,10 +1881,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P1 06:57",
+       "detail": "P1 04:14",
        "start": "2026-11-22T02:00:00Z",
        "period": 1,
-       "clock": "06:57",
+       "clock": "04:14",
        "teams": [
         {
          "name": "Ducks",
@@ -2855,16 +2855,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "2:10 - 3rd",
+       "detail": "25.6 - 3rd",
        "start": "2026-11-22T01:00Z",
        "period": 3,
-       "clock": "2:10",
+       "clock": "25.6",
        "teams": [
         {
          "name": "New Orleans Pelicans",
          "short": "Pelicans",
          "abbr": "NO",
-         "score": 60,
+         "score": 66,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -2877,7 +2877,7 @@
          "name": "San Antonio Spurs",
          "short": "Spurs",
          "abbr": "SA",
-         "score": 82,
+         "score": 86,
          "ha": "home",
          "winner": null,
          "linescores": [
