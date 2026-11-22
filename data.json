@@ -1,5 +1,5 @@
 {
- "updated": "Nov 21, 2026, 5:00 PM PT",
+ "updated": "Nov 21, 2026, 5:05 PM PT",
  "record": {
   "w": 224,
   "l": 230,
@@ -1103,36 +1103,7 @@
       "label": "Denver Broncos -10",
       "path": "football/nfl",
       "event": "401873075",
-      "date": "20261122",
-      "snapshot": {
-       "source": "espn",
-       "state": "pre",
-       "detail": "11/22 - 4:25 PM EST",
-       "start": "2026-11-22T21:25Z",
-       "period": null,
-       "clock": null,
-       "teams": [
-        {
-         "name": "Las Vegas Raiders",
-         "short": "Raiders",
-         "abbr": "LV",
-         "score": 0,
-         "ha": "away",
-         "winner": null,
-         "linescores": []
-        },
-        {
-         "name": "Denver Broncos",
-         "short": "Broncos",
-         "abbr": "DEN",
-         "score": 0,
-         "ha": "home",
-         "winner": null,
-         "linescores": []
-        }
-       ]
-      },
-      "source": "espn"
+      "date": "20261122"
      }
     ],
     "sport": "NFL",
@@ -1161,36 +1132,7 @@
       "label": "O 40.5",
       "path": "football/nfl",
       "event": "401873075",
-      "date": "20261122",
-      "snapshot": {
-       "source": "espn",
-       "state": "pre",
-       "detail": "11/22 - 4:25 PM EST",
-       "start": "2026-11-22T21:25Z",
-       "period": null,
-       "clock": null,
-       "teams": [
-        {
-         "name": "Las Vegas Raiders",
-         "short": "Raiders",
-         "abbr": "LV",
-         "score": 0,
-         "ha": "away",
-         "winner": null,
-         "linescores": []
-        },
-        {
-         "name": "Denver Broncos",
-         "short": "Broncos",
-         "abbr": "DEN",
-         "score": 0,
-         "ha": "home",
-         "winner": null,
-         "linescores": []
-        }
-       ]
-      },
-      "source": "espn"
+      "date": "20261122"
      }
     ],
     "sport": "NFL",
@@ -1841,16 +1783,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "48.6 - 1st",
+       "detail": "End of 1st",
        "start": "2026-11-22T00:30Z",
        "period": 1,
-       "clock": "48.6",
+       "clock": "0.0",
        "teams": [
         {
          "name": "Portland Trail Blazers",
          "short": "Trail Blazers",
          "abbr": "POR",
-         "score": 21,
+         "score": 23,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -1861,7 +1803,7 @@
          "name": "New York Knicks",
          "short": "Knicks",
          "abbr": "NY",
-         "score": 37,
+         "score": 40,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -1905,10 +1847,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P2 00:45",
+       "detail": "P3 19:19",
        "start": "2026-11-21T23:00:00Z",
-       "period": 2,
-       "clock": "00:45",
+       "period": 3,
+       "clock": "19:19",
        "teams": [
         {
          "name": "Penguins",
@@ -1962,10 +1904,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P1 11:19",
+       "detail": "P1 07:11",
        "start": "2026-11-22T00:00:00Z",
        "period": 1,
-       "clock": "11:19",
+       "clock": "07:11",
        "teams": [
         {
          "name": "Blue Jackets",
@@ -2742,10 +2684,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P1 11:19",
+       "detail": "P1 07:11",
        "start": "2026-11-22T00:00:00Z",
        "period": 1,
-       "clock": "11:19",
+       "clock": "07:11",
        "teams": [
         {
          "name": "Blue Jackets",
@@ -2877,10 +2819,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P1 06:11",
+       "detail": "P1 02:00",
        "start": "2026-11-22T00:00:00Z",
        "period": 1,
-       "clock": "06:11",
+       "clock": "02:00",
        "teams": [
         {
          "name": "Devils",
