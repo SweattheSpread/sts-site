@@ -1,5 +1,5 @@
 {
- "updated": "Nov 21, 2026, 5:25 PM PT",
+ "updated": "Nov 21, 2026, 5:28 PM PT",
  "record": {
   "w": 224,
   "l": 230,
@@ -1811,10 +1811,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "5:16 - 2nd",
+       "detail": "3:38 - 2nd",
        "start": "2026-11-22T00:30Z",
        "period": 2,
-       "clock": "5:16",
+       "clock": "3:38",
        "teams": [
         {
          "name": "Portland Trail Blazers",
@@ -1832,7 +1832,7 @@
          "name": "New York Knicks",
          "short": "Knicks",
          "abbr": "NY",
-         "score": 53,
+         "score": 55,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -1877,10 +1877,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P3 06:29",
+       "detail": "P3 05:37",
        "start": "2026-11-21T23:00:00Z",
        "period": 3,
-       "clock": "06:29",
+       "clock": "05:37",
        "teams": [
         {
          "name": "Penguins",
@@ -1934,10 +1934,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P2 13:41",
+       "detail": "P2 11:19",
        "start": "2026-11-22T00:00:00Z",
        "period": 2,
-       "clock": "13:41",
+       "clock": "11:19",
        "teams": [
         {
          "name": "Blue Jackets",
@@ -2716,10 +2716,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P2 13:41",
+       "detail": "P2 11:19",
        "start": "2026-11-22T00:00:00Z",
        "period": 2,
-       "clock": "13:41",
+       "clock": "11:19",
        "teams": [
         {
          "name": "Blue Jackets",
@@ -2851,16 +2851,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "5:51 - 1st",
+       "detail": "5:11 - 1st",
        "start": "2026-11-22T01:00Z",
        "period": 1,
-       "clock": "5:51",
+       "clock": "5:11",
        "teams": [
         {
          "name": "New Orleans Pelicans",
          "short": "Pelicans",
          "abbr": "NO",
-         "score": 11,
+         "score": 13,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -2918,10 +2918,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P2 11:44",
+       "detail": "P2 09:57",
        "start": "2026-11-22T00:00:00Z",
        "period": 2,
-       "clock": "11:44",
+       "clock": "09:57",
        "teams": [
         {
          "name": "Devils",
@@ -2936,7 +2936,7 @@
          "name": "Blues",
          "short": "STL",
          "abbr": "STL",
-         "score": 6,
+         "score": 7,
          "ha": "home",
          "winner": null,
          "linescores": []
