@@ -1,5 +1,5 @@
 {
- "updated": "Nov 22, 2026, 1:17 PM PT",
+ "updated": "Nov 22, 2026, 1:20 PM PT",
  "record": {
   "w": 239,
   "l": 237,
@@ -11,7 +11,7 @@
   "first": "2026-10-12",
   "last": "2026-11-21"
  },
- "pending": 39,
+ "pending": 40,
  "latest": [
   {
    "n": 956,
@@ -469,6 +469,66 @@
         }
        ],
        "nhl_id": 2026020376
+      },
+      "source": "nhl"
+     }
+    ],
+    "sport": "NHL",
+    "ticket": "single"
+   }
+  },
+  {
+   "n": 973,
+   "league": "NHL",
+   "type": "Player Prop",
+   "matchup": "Edmonton Oilers @ St Louis Blues",
+   "pick": "Vasily Podkolzin Over 0.5 Points",
+   "odds": 100,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-22T16:10:00",
+   "timed": true,
+   "ticket": "single",
+   "espn": {
+    "legs": [
+     {
+      "kind": "prop",
+      "player": "Vasily Podkolzin",
+      "ou": "O",
+      "line": 0.5,
+      "stat": "points",
+      "label": "Vasily Podkolzin O 0.5 points",
+      "path": "hockey/nhl",
+      "event": "401892754",
+      "date": "20261121",
+      "snapshot": {
+       "source": "nhl",
+       "state": "pre",
+       "detail": "Scheduled",
+       "start": "2026-11-23T00:00:00Z",
+       "period": null,
+       "clock": null,
+       "teams": [
+        {
+         "name": "Oilers",
+         "short": "EDM",
+         "abbr": "EDM",
+         "score": 0,
+         "ha": "away",
+         "winner": null,
+         "linescores": []
+        },
+        {
+         "name": "Blues",
+         "short": "STL",
+         "abbr": "STL",
+         "score": 0,
+         "ha": "home",
+         "winner": null,
+         "linescores": []
+        }
+       ],
+       "nhl_id": 2026020375
       },
       "source": "nhl"
      }
@@ -1434,10 +1494,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "8:00 - 1st",
+       "detail": "7:05 - 1st",
        "start": "2026-11-22T21:05Z",
        "period": 1,
-       "clock": "8:00",
+       "clock": "7:05",
        "teams": [
         {
          "name": "New York Jets",
@@ -2038,10 +2098,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "8:00 - 1st",
+       "detail": "7:05 - 1st",
        "start": "2026-11-22T21:05Z",
        "period": 1,
-       "clock": "8:00",
+       "clock": "7:05",
        "teams": [
         {
          "name": "New York Jets",
@@ -2293,16 +2353,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "3:52 - 2nd",
+       "detail": "3:11 - 2nd",
        "start": "2026-11-22T19:30Z",
        "period": 2,
-       "clock": "3:52",
+       "clock": "3:11",
        "teams": [
         {
          "name": "Robert Morris Colonials",
          "short": "Colonials",
          "abbr": "RMU",
-         "score": 65,
+         "score": 66,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -2314,7 +2374,7 @@
          "name": "New Mexico State Aggies",
          "short": "Aggies",
          "abbr": "NMSU",
-         "score": 48,
+         "score": 51,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -2424,7 +2484,7 @@
          "name": "Albany Great Danes",
          "short": "Albany Great Danes",
          "abbr": "",
-         "score": 29,
+         "score": 32,
          "ha": "away",
          "winner": null,
          "linescores": []
@@ -2433,7 +2493,7 @@
          "name": "Mercyhurst Lakers",
          "short": "Mercyhurst Lakers",
          "abbr": "",
-         "score": 31,
+         "score": 33,
          "ha": "home",
          "winner": null,
          "linescores": []

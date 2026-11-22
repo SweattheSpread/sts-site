@@ -1,5 +1,5 @@
 {
- "updated": "Nov 22, 2026, 1:17 PM PT",
+ "updated": "Nov 22, 2026, 1:20 PM PT",
  "record": {
   "w": 239,
   "l": 237,
@@ -11,7 +11,7 @@
   "first": "2026-10-12",
   "last": "2026-11-21"
  },
- "pending": 39,
+ "pending": 40,
  "plays": [
   {
    "n": 334,
@@ -8249,6 +8249,22 @@
    "pick": "Emmett Johnson Over 115.5 Rushing Yards, live",
    "odds": -120,
    "units": 10.0,
+   "result": null,
+   "pl": null,
+   "pending": true
+  },
+  {
+   "n": 973,
+   "date": "2026-11-22",
+   "day": "2026-11-22",
+   "league": "NHL",
+   "market": "player_prop",
+   "market_label": "Player Prop",
+   "ticket": "single",
+   "matchup": "Edmonton Oilers @ St Louis Blues",
+   "pick": "Vasily Podkolzin Over 0.5 Points",
+   "odds": 100,
+   "units": 1.0,
    "result": null,
    "pl": null,
    "pending": true
