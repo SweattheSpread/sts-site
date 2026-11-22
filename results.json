@@ -1,5 +1,5 @@
 {
- "updated": "Nov 22, 2026, 2:13 PM PT",
+ "updated": "Nov 22, 2026, 2:16 PM PT",
  "record": {
   "w": 239,
   "l": 237,
@@ -11,7 +11,7 @@
   "first": "2026-10-12",
   "last": "2026-11-21"
  },
- "pending": 42,
+ "pending": 43,
  "plays": [
   {
    "n": 334,
@@ -8297,6 +8297,22 @@
    "pick": "Tampa Bay Lightning to win in regulation (60-min 3-way ML)",
    "odds": -127,
    "units": 1.75,
+   "result": null,
+   "pl": null,
+   "pending": true
+  },
+  {
+   "n": 976,
+   "date": "2026-11-22",
+   "day": "2026-11-22",
+   "league": "NBA",
+   "market": "player_prop",
+   "market_label": "Player Prop",
+   "ticket": "single",
+   "matchup": "Oklahoma City Thunder @ Miami Heat",
+   "pick": "Ajay Mitchell Under 4.5 Rebounds",
+   "odds": -115,
+   "units": 1.0,
    "result": null,
    "pl": null,
    "pending": true
