@@ -1,17 +1,17 @@
 {
- "updated": "Nov 21, 2026, 10:05 PM PT",
+ "updated": "Nov 21, 2026, 11:42 PM PT",
  "record": {
-  "w": 224,
-  "l": 230,
+  "w": 239,
+  "l": 237,
   "p": 0,
-  "n": 454,
-  "units": 50.56,
-  "risked": 654.75,
-  "roi": 7.72,
+  "n": 476,
+  "units": 72.6,
+  "risked": 693.25,
+  "roi": 10.47,
   "first": "2026-10-12",
-  "last": "2026-11-20"
+  "last": "2026-11-21"
  },
- "pending": 46,
+ "pending": 24,
  "plays": [
   {
    "n": 334,
@@ -7417,9 +7417,9 @@
    "pick": "Mario Craver (TA&M) Under 4.5 receptions",
    "odds": -102,
    "units": 1.0,
-   "result": null,
-   "pl": null,
-   "pending": true
+   "result": "W",
+   "pl": 0.98,
+   "pending": false
   },
   {
    "n": 935,
@@ -7433,9 +7433,9 @@
    "pick": "Jalen Brunson Over 2.5 rebounds",
    "odds": -120,
    "units": 1.0,
-   "result": null,
-   "pl": null,
-   "pending": true
+   "result": "W",
+   "pl": 0.83,
+   "pending": false
   },
   {
    "n": 936,
@@ -7449,9 +7449,9 @@
    "pick": "Pittsburgh Penguins ML +118",
    "odds": 118,
    "units": 0.5,
-   "result": null,
-   "pl": null,
-   "pending": true
+   "result": "L",
+   "pl": -0.5,
+   "pending": false
   },
   {
    "n": 937,
@@ -7465,9 +7465,9 @@
    "pick": "Utah Mammoth ML -159",
    "odds": -159,
    "units": 0.5,
-   "result": null,
-   "pl": null,
-   "pending": true
+   "result": "W",
+   "pl": 0.31,
+   "pending": false
   },
   {
    "n": 938,
@@ -7481,9 +7481,9 @@
    "pick": "Columbus Blue Jackets ML +102",
    "odds": 102,
    "units": 0.5,
-   "result": null,
-   "pl": null,
-   "pending": true
+   "result": "W",
+   "pl": 0.51,
+   "pending": false
   },
   {
    "n": 939,
@@ -7497,9 +7497,9 @@
    "pick": "Jacksonville State Gamecocks -10 (Missouri State @ Jacksonville State, 11:00 AM PT) + Appalachian State Mountaineers -13.5 (UL Monroe @ Appalachian State, 11:30 AM PT)",
    "odds": 224,
    "units": 1.5,
-   "result": null,
-   "pl": null,
-   "pending": true
+   "result": "L",
+   "pl": -1.5,
+   "pending": false
   },
   {
    "n": 940,
@@ -7513,9 +7513,9 @@
    "pick": "Columbia +1.5",
    "odds": -120,
    "units": 1.0,
-   "result": null,
-   "pl": null,
-   "pending": true
+   "result": "W",
+   "pl": 0.83,
+   "pending": false
   },
   {
    "n": 941,
@@ -7529,9 +7529,9 @@
    "pick": "Wichita State +2",
    "odds": -110,
    "units": 1.0,
-   "result": null,
-   "pl": null,
-   "pending": true
+   "result": "W",
+   "pl": 0.91,
+   "pending": false
   },
   {
    "n": 942,
@@ -7545,9 +7545,9 @@
    "pick": "Binghamton +1.5",
    "odds": -120,
    "units": 1.0,
-   "result": null,
-   "pl": null,
-   "pending": true
+   "result": "W",
+   "pl": 0.83,
+   "pending": false
   },
   {
    "n": 943,
@@ -7561,9 +7561,9 @@
    "pick": "UNC Greensboro -16.5",
    "odds": -115,
    "units": 3.0,
-   "result": null,
-   "pl": null,
-   "pending": true
+   "result": "W",
+   "pl": 2.61,
+   "pending": false
   },
   {
    "n": 944,
@@ -7577,9 +7577,9 @@
    "pick": "1H Under 20.5",
    "odds": -109,
    "units": 3.0,
-   "result": null,
-   "pl": null,
-   "pending": true
+   "result": "L",
+   "pl": -3.0,
+   "pending": false
   },
   {
    "n": 945,
@@ -7593,9 +7593,9 @@
    "pick": "Under 160.5",
    "odds": -110,
    "units": 1.0,
-   "result": null,
-   "pl": null,
-   "pending": true
+   "result": "W",
+   "pl": 0.91,
+   "pending": false
   },
   {
    "n": 946,
@@ -7609,9 +7609,9 @@
    "pick": "Over 136.5",
    "odds": -110,
    "units": 1.0,
-   "result": null,
-   "pl": null,
-   "pending": true
+   "result": "L",
+   "pl": -1.0,
+   "pending": false
   },
   {
    "n": 947,
@@ -7625,9 +7625,9 @@
    "pick": "Under 156.5",
    "odds": -110,
    "units": 1.0,
-   "result": null,
-   "pl": null,
-   "pending": true
+   "result": "W",
+   "pl": 0.91,
+   "pending": false
   },
   {
    "n": 948,
@@ -7641,9 +7641,9 @@
    "pick": "Wisconsin Badgers -19.5",
    "odds": 112,
    "units": 7.0,
-   "result": null,
-   "pl": null,
-   "pending": true
+   "result": "W",
+   "pl": 7.84,
+   "pending": false
   },
   {
    "n": 949,
@@ -7657,9 +7657,9 @@
    "pick": "Tyler Herro Under 2.5 threes",
    "odds": 100,
    "units": 1.0,
-   "result": null,
-   "pl": null,
-   "pending": true
+   "result": "L",
+   "pl": -1.0,
+   "pending": false
   },
   {
    "n": 950,
@@ -7673,9 +7673,9 @@
    "pick": "Nebraska Cornhuskers +2.5",
    "odds": 101,
    "units": 7.0,
-   "result": null,
-   "pl": null,
-   "pending": true
+   "result": "W",
+   "pl": 7.07,
+   "pending": false
   },
   {
    "n": 951,
@@ -7689,9 +7689,9 @@
    "pick": "Blake Coleman Under 0.5 points",
    "odds": -105,
    "units": 1.0,
-   "result": null,
-   "pl": null,
-   "pending": true
+   "result": "W",
+   "pl": 0.95,
+   "pending": false
   },
   {
    "n": 953,
@@ -7705,9 +7705,9 @@
    "pick": "Jack Roslovic Over 0.5 points",
    "odds": 105,
    "units": 1.0,
-   "result": null,
-   "pl": null,
-   "pending": true
+   "result": "W",
+   "pl": 1.05,
+   "pending": false
   },
   {
    "n": 954,
@@ -7721,9 +7721,9 @@
    "pick": "2nd Quarter Tie",
    "odds": 180,
    "units": 2.5,
-   "result": null,
-   "pl": null,
-   "pending": true
+   "result": "W",
+   "pl": 4.5,
+   "pending": false
   },
   {
    "n": 955,
@@ -7737,9 +7737,9 @@
    "pick": "Stephon Castle Under 17.5 points",
    "odds": 100,
    "units": 1.0,
-   "result": null,
-   "pl": null,
-   "pending": true
+   "result": "L",
+   "pl": -1.0,
+   "pending": false
   },
   {
    "n": 956,
@@ -7753,9 +7753,9 @@
    "pick": "Timo Meier Under 0.5 points",
    "odds": -110,
    "units": 1.0,
-   "result": null,
-   "pl": null,
-   "pending": true
+   "result": "L",
+   "pl": -1.0,
+   "pending": false
   },
   {
    "n": 855,
