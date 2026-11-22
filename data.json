@@ -1,5 +1,5 @@
 {
- "updated": "Nov 21, 2026, 3:58 PM PT",
+ "updated": "Nov 21, 2026, 4:01 PM PT",
  "record": {
   "w": 224,
   "l": 230,
@@ -242,241 +242,6 @@
     ],
     "sport": "NCAAF",
     "ticket": "parlay"
-   }
-  },
-  {
-   "n": 938,
-   "league": "NHL",
-   "type": "Moneyline",
-   "matchup": "Columbus Blue Jackets @ Toronto Maple Leafs",
-   "pick": "Columbus Blue Jackets ML",
-   "odds": 102,
-   "units": 0.5,
-   "gap": null,
-   "start": "2026-11-21T16:00:00",
-   "timed": true,
-   "ticket": "single",
-   "espn": {
-    "legs": [
-     {
-      "kind": "ml",
-      "side": "Columbus Blue Jackets",
-      "label": "Columbus Blue Jackets ML",
-      "path": "hockey/nhl",
-      "event": "401892759",
-      "date": "20261121",
-      "snapshot": {
-       "source": "nhl",
-       "state": "pre",
-       "detail": "Scheduled",
-       "start": "2026-11-22T00:00:00Z",
-       "period": null,
-       "clock": null,
-       "teams": [
-        {
-         "name": "Blue Jackets",
-         "short": "CBJ",
-         "abbr": "CBJ",
-         "score": 0,
-         "ha": "away",
-         "winner": null,
-         "linescores": []
-        },
-        {
-         "name": "Maple Leafs",
-         "short": "TOR",
-         "abbr": "TOR",
-         "score": 0,
-         "ha": "home",
-         "winner": null,
-         "linescores": []
-        }
-       ],
-       "nhl_id": 2026020364
-      },
-      "source": "nhl"
-     }
-    ],
-    "sport": "NHL",
-    "ticket": "single"
-   }
-  },
-  {
-   "n": 945,
-   "league": "NCAAB",
-   "type": "Over/Under",
-   "matchup": "Michigan Wolverines @ Villanova Wildcats",
-   "pick": "Under 160.5",
-   "odds": -110,
-   "units": 1.0,
-   "gap": null,
-   "start": "2026-11-21T16:00:00",
-   "timed": true,
-   "ticket": "single",
-   "espn": {
-    "legs": [
-     {
-      "kind": "total",
-      "side": null,
-      "ou": "U",
-      "line": 160.5,
-      "label": "U 160.5",
-      "path": "basketball/mens-college-basketball",
-      "event": "401921776",
-      "date": "20261121",
-      "snapshot": {
-       "source": "espn",
-       "state": "pre",
-       "detail": "11/21 - 7:00 PM EST",
-       "start": "2026-11-22T00:00Z",
-       "period": null,
-       "clock": null,
-       "teams": [
-        {
-         "name": "Michigan Wolverines",
-         "short": "Wolverines",
-         "abbr": "MICH",
-         "score": 0,
-         "ha": "away",
-         "winner": null,
-         "linescores": []
-        },
-        {
-         "name": "Villanova Wildcats",
-         "short": "Wildcats",
-         "abbr": "VILL",
-         "score": 0,
-         "ha": "home",
-         "winner": null,
-         "linescores": []
-        }
-       ]
-      },
-      "source": "espn"
-     }
-    ],
-    "sport": "NCAAB",
-    "ticket": "single"
-   }
-  },
-  {
-   "n": 953,
-   "league": "NHL",
-   "type": "Player Prop",
-   "matchup": "Columbus Blue Jackets @ Toronto Maple Leafs",
-   "pick": "Jack Roslovic Over 0.5 points",
-   "odds": 105,
-   "units": 1.0,
-   "gap": null,
-   "start": "2026-11-21T16:00:00",
-   "timed": true,
-   "ticket": "single",
-   "espn": {
-    "legs": [
-     {
-      "kind": "prop",
-      "player": "Jack Roslovic",
-      "ou": "O",
-      "line": 0.5,
-      "stat": "points",
-      "label": "Jack Roslovic O 0.5 points",
-      "date": "20261121",
-      "unverified": true,
-      "reason": "Player not found in this game",
-      "snapshot": {
-       "source": "nhl",
-       "state": "pre",
-       "detail": "Scheduled",
-       "start": "2026-11-22T00:00:00Z",
-       "period": null,
-       "clock": null,
-       "teams": [
-        {
-         "name": "Blue Jackets",
-         "short": "CBJ",
-         "abbr": "CBJ",
-         "score": 0,
-         "ha": "away",
-         "winner": null,
-         "linescores": []
-        },
-        {
-         "name": "Maple Leafs",
-         "short": "TOR",
-         "abbr": "TOR",
-         "score": 0,
-         "ha": "home",
-         "winner": null,
-         "linescores": []
-        }
-       ],
-       "nhl_id": 2026020364
-      },
-      "source": "nhl"
-     }
-    ],
-    "sport": "NHL",
-    "ticket": "single"
-   }
-  },
-  {
-   "n": 956,
-   "league": "NHL",
-   "type": "Player Prop",
-   "matchup": "New Jersey Devils @ St Louis Blues",
-   "pick": "Timo Meier Under 0.5 points",
-   "odds": -110,
-   "units": 1.0,
-   "gap": null,
-   "start": "2026-11-21T16:00:00",
-   "timed": true,
-   "ticket": "single",
-   "espn": {
-    "legs": [
-     {
-      "kind": "prop",
-      "player": "Timo Meier",
-      "ou": "U",
-      "line": 0.5,
-      "stat": "points",
-      "label": "Timo Meier U 0.5 points",
-      "date": "20261121",
-      "unverified": true,
-      "reason": "Player not found in this game",
-      "snapshot": {
-       "source": "nhl",
-       "state": "pre",
-       "detail": "Scheduled",
-       "start": "2026-11-22T00:00:00Z",
-       "period": null,
-       "clock": null,
-       "teams": [
-        {
-         "name": "Devils",
-         "short": "NJD",
-         "abbr": "NJD",
-         "score": 0,
-         "ha": "away",
-         "winner": null,
-         "linescores": []
-        },
-        {
-         "name": "Blues",
-         "short": "STL",
-         "abbr": "STL",
-         "score": 0,
-         "ha": "home",
-         "winner": null,
-         "linescores": []
-        }
-       ],
-       "nhl_id": 2026020368
-      },
-      "source": "nhl"
-     }
-    ],
-    "sport": "NHL",
-    "ticket": "single"
    }
   },
   {
@@ -2033,10 +1798,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "3:10 - 4th",
+       "detail": "2:57 - 4th",
        "start": "2026-11-21T20:45Z",
        "period": 4,
-       "clock": "3:10",
+       "clock": "2:57",
        "teams": [
         {
          "name": "Texas A&M Aggies",
@@ -2103,10 +1868,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P1 08:00",
+       "detail": "P1 05:25",
        "start": "2026-11-21T23:00:00Z",
        "period": 1,
-       "clock": "08:00",
+       "clock": "05:25",
        "teams": [
         {
          "name": "Penguins",
@@ -2128,6 +1893,63 @@
         }
        ],
        "nhl_id": 2026020362
+      },
+      "source": "nhl"
+     }
+    ],
+    "sport": "NHL",
+    "ticket": "single"
+   }
+  },
+  {
+   "n": 938,
+   "league": "NHL",
+   "type": "Moneyline",
+   "matchup": "Columbus Blue Jackets @ Toronto Maple Leafs",
+   "pick": "Columbus Blue Jackets ML",
+   "odds": 102,
+   "units": 0.5,
+   "gap": null,
+   "start": "2026-11-21T16:00:00",
+   "timed": true,
+   "ticket": "single",
+   "espn": {
+    "legs": [
+     {
+      "kind": "ml",
+      "side": "Columbus Blue Jackets",
+      "label": "Columbus Blue Jackets ML",
+      "path": "hockey/nhl",
+      "event": "401892759",
+      "date": "20261121",
+      "snapshot": {
+       "source": "nhl",
+       "state": "pre",
+       "detail": "Scheduled",
+       "start": "2026-11-22T00:00:00Z",
+       "period": null,
+       "clock": null,
+       "teams": [
+        {
+         "name": "Blue Jackets",
+         "short": "CBJ",
+         "abbr": "CBJ",
+         "score": 0,
+         "ha": "away",
+         "winner": null,
+         "linescores": []
+        },
+        {
+         "name": "Maple Leafs",
+         "short": "TOR",
+         "abbr": "TOR",
+         "score": 0,
+         "ha": "home",
+         "winner": null,
+         "linescores": []
+        }
+       ],
+       "nhl_id": 2026020364
       },
       "source": "nhl"
      }
@@ -2456,6 +2278,64 @@
      }
     ],
     "sport": "NCAAF",
+    "ticket": "single"
+   }
+  },
+  {
+   "n": 945,
+   "league": "NCAAB",
+   "type": "Over/Under",
+   "matchup": "Michigan Wolverines @ Villanova Wildcats",
+   "pick": "Under 160.5",
+   "odds": -110,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-21T16:00:00",
+   "timed": true,
+   "ticket": "single",
+   "espn": {
+    "legs": [
+     {
+      "kind": "total",
+      "side": null,
+      "ou": "U",
+      "line": 160.5,
+      "label": "U 160.5",
+      "path": "basketball/mens-college-basketball",
+      "event": "401921776",
+      "date": "20261121",
+      "snapshot": {
+       "source": "espn",
+       "state": "pre",
+       "detail": "11/21 - 7:00 PM EST",
+       "start": "2026-11-22T00:00Z",
+       "period": null,
+       "clock": null,
+       "teams": [
+        {
+         "name": "Michigan Wolverines",
+         "short": "Wolverines",
+         "abbr": "MICH",
+         "score": 0,
+         "ha": "away",
+         "winner": null,
+         "linescores": []
+        },
+        {
+         "name": "Villanova Wildcats",
+         "short": "Wildcats",
+         "abbr": "VILL",
+         "score": 0,
+         "ha": "home",
+         "winner": null,
+         "linescores": []
+        }
+       ]
+      },
+      "source": "espn"
+     }
+    ],
+    "sport": "NCAAB",
     "ticket": "single"
    }
   },
@@ -2795,6 +2675,66 @@
    }
   },
   {
+   "n": 953,
+   "league": "NHL",
+   "type": "Player Prop",
+   "matchup": "Columbus Blue Jackets @ Toronto Maple Leafs",
+   "pick": "Jack Roslovic Over 0.5 points",
+   "odds": 105,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-21T16:00:00",
+   "timed": true,
+   "ticket": "single",
+   "espn": {
+    "legs": [
+     {
+      "kind": "prop",
+      "player": "Jack Roslovic",
+      "ou": "O",
+      "line": 0.5,
+      "stat": "points",
+      "label": "Jack Roslovic O 0.5 points",
+      "date": "20261121",
+      "unverified": true,
+      "reason": "Player not found in this game",
+      "snapshot": {
+       "source": "nhl",
+       "state": "pre",
+       "detail": "Scheduled",
+       "start": "2026-11-22T00:00:00Z",
+       "period": null,
+       "clock": null,
+       "teams": [
+        {
+         "name": "Blue Jackets",
+         "short": "CBJ",
+         "abbr": "CBJ",
+         "score": 0,
+         "ha": "away",
+         "winner": null,
+         "linescores": []
+        },
+        {
+         "name": "Maple Leafs",
+         "short": "TOR",
+         "abbr": "TOR",
+         "score": 0,
+         "ha": "home",
+         "winner": null,
+         "linescores": []
+        }
+       ],
+       "nhl_id": 2026020364
+      },
+      "source": "nhl"
+     }
+    ],
+    "sport": "NHL",
+    "ticket": "single"
+   }
+  },
+  {
    "n": 954,
    "league": "NCAAF",
    "type": "Moneyline",
@@ -2858,6 +2798,66 @@
      }
     ],
     "sport": "NCAAF",
+    "ticket": "single"
+   }
+  },
+  {
+   "n": 956,
+   "league": "NHL",
+   "type": "Player Prop",
+   "matchup": "New Jersey Devils @ St Louis Blues",
+   "pick": "Timo Meier Under 0.5 points",
+   "odds": -110,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-21T16:00:00",
+   "timed": true,
+   "ticket": "single",
+   "espn": {
+    "legs": [
+     {
+      "kind": "prop",
+      "player": "Timo Meier",
+      "ou": "U",
+      "line": 0.5,
+      "stat": "points",
+      "label": "Timo Meier U 0.5 points",
+      "date": "20261121",
+      "unverified": true,
+      "reason": "Player not found in this game",
+      "snapshot": {
+       "source": "nhl",
+       "state": "pre",
+       "detail": "Scheduled",
+       "start": "2026-11-22T00:00:00Z",
+       "period": null,
+       "clock": null,
+       "teams": [
+        {
+         "name": "Devils",
+         "short": "NJD",
+         "abbr": "NJD",
+         "score": 0,
+         "ha": "away",
+         "winner": null,
+         "linescores": []
+        },
+        {
+         "name": "Blues",
+         "short": "STL",
+         "abbr": "STL",
+         "score": 0,
+         "ha": "home",
+         "winner": null,
+         "linescores": []
+        }
+       ],
+       "nhl_id": 2026020368
+      },
+      "source": "nhl"
+     }
+    ],
+    "sport": "NHL",
     "ticket": "single"
    }
   }
