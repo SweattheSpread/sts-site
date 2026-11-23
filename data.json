@@ -1,5 +1,5 @@
 {
- "updated": "Nov 22, 2026, 8:26 PM PT",
+ "updated": "Nov 22, 2026, 8:28 PM PT",
  "record": {
   "w": 253,
   "l": 246,
@@ -1702,16 +1702,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "4:29 - 2nd",
+       "detail": "3:32 - 2nd",
        "start": "2026-11-23T02:45Z",
        "period": 2,
-       "clock": "4:29",
+       "clock": "3:32",
        "teams": [
         {
          "name": "UC San Diego Tritons",
          "short": "Tritons",
          "abbr": "UCSD",
-         "score": 50,
+         "score": 53,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -1723,7 +1723,7 @@
          "name": "Seattle U Redhawks",
          "short": "Redhawks",
          "abbr": "SEA",
-         "score": 79,
+         "score": 81,
          "ha": "home",
          "winner": null,
          "linescores": [
