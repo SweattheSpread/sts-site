@@ -1,17 +1,17 @@
 {
- "updated": "Nov 22, 2026, 10:52 PM PT",
+ "updated": "Nov 22, 2026, 11:40 PM PT",
  "record": {
-  "w": 253,
-  "l": 246,
-  "p": 0,
-  "n": 499,
-  "units": 77.07,
-  "risked": 741.7,
-  "roi": 10.39,
+  "w": 261,
+  "l": 255,
+  "p": 1,
+  "n": 517,
+  "units": 76.29,
+  "risked": 759.7,
+  "roi": 10.04,
   "first": "2026-10-12",
   "last": "2026-11-22"
  },
- "pending": 27,
+ "pending": 9,
  "plays": [
   {
    "n": 334,
@@ -7753,9 +7753,9 @@
    "pick": "Chicago Bears -11.5 (-105)",
    "odds": -105,
    "units": 1.0,
-   "result": null,
-   "pl": null,
-   "pending": true
+   "result": "L",
+   "pl": -1.0,
+   "pending": false
   },
   {
    "n": 856,
@@ -7769,9 +7769,9 @@
    "pick": "Denver Broncos -10 (-109)",
    "odds": -109,
    "units": 1.0,
-   "result": null,
-   "pl": null,
-   "pending": true
+   "result": "W",
+   "pl": 0.92,
+   "pending": false
   },
   {
    "n": 857,
@@ -7785,9 +7785,9 @@
    "pick": "Dallas Cowboys -8 (-108)",
    "odds": -108,
    "units": 1.0,
-   "result": null,
-   "pl": null,
-   "pending": true
+   "result": "W",
+   "pl": 0.93,
+   "pending": false
   },
   {
    "n": 858,
@@ -7801,9 +7801,9 @@
    "pick": "Minnesota Vikings +3 (-108)",
    "odds": -108,
    "units": 1.0,
-   "result": null,
-   "pl": null,
-   "pending": true
+   "result": "L",
+   "pl": -1.0,
+   "pending": false
   },
   {
    "n": 859,
@@ -7817,9 +7817,9 @@
    "pick": "Buffalo Bills -16.5 (-108)",
    "odds": -108,
    "units": 1.0,
-   "result": null,
-   "pl": null,
-   "pending": true
+   "result": "W",
+   "pl": 0.93,
+   "pending": false
   },
   {
    "n": 860,
@@ -7833,9 +7833,9 @@
    "pick": "Over 45 -112",
    "odds": -112,
    "units": 1.0,
-   "result": null,
-   "pl": null,
-   "pending": true
+   "result": "L",
+   "pl": -1.0,
+   "pending": false
   },
   {
    "n": 861,
@@ -7849,9 +7849,9 @@
    "pick": "Over 41.5 -108",
    "odds": -108,
    "units": 1.0,
-   "result": null,
-   "pl": null,
-   "pending": true
+   "result": "W",
+   "pl": 0.93,
+   "pending": false
   },
   {
    "n": 862,
@@ -7865,9 +7865,9 @@
    "pick": "Over 41 -110",
    "odds": -110,
    "units": 1.0,
-   "result": null,
-   "pl": null,
-   "pending": true
+   "result": "P",
+   "pl": 0.0,
+   "pending": false
   },
   {
    "n": 863,
@@ -7881,9 +7881,9 @@
    "pick": "Over 40.5 -106",
    "odds": -106,
    "units": 1.0,
-   "result": null,
-   "pl": null,
-   "pending": true
+   "result": "W",
+   "pl": 0.94,
+   "pending": false
   },
   {
    "n": 864,
@@ -7897,9 +7897,9 @@
    "pick": "Over 46.5 -110",
    "odds": -110,
    "units": 1.0,
-   "result": null,
-   "pl": null,
-   "pending": true
+   "result": "L",
+   "pl": -1.0,
+   "pending": false
   },
   {
    "n": 865,
@@ -7913,9 +7913,9 @@
    "pick": "Over 48.5 -114",
    "odds": -114,
    "units": 1.0,
-   "result": null,
-   "pl": null,
-   "pending": true
+   "result": "L",
+   "pl": -1.0,
+   "pending": false
   },
   {
    "n": 866,
@@ -7929,9 +7929,9 @@
    "pick": "Over 44 -108",
    "odds": -108,
    "units": 1.0,
-   "result": null,
-   "pl": null,
-   "pending": true
+   "result": "W",
+   "pl": 0.93,
+   "pending": false
   },
   {
    "n": 873,
@@ -7945,9 +7945,9 @@
    "pick": "Juwan Johnson longest reception OVER 11.5 (-120)",
    "odds": -120,
    "units": 1.0,
-   "result": null,
-   "pl": null,
-   "pending": true
+   "result": "L",
+   "pl": -1.0,
+   "pending": false
   },
   {
    "n": 874,
@@ -7961,9 +7961,9 @@
    "pick": "Ryan Flournoy longest reception OVER 17.5 (-115)",
    "odds": -115,
    "units": 1.0,
-   "result": null,
-   "pl": null,
-   "pending": true
+   "result": "L",
+   "pl": -1.0,
+   "pending": false
   },
   {
    "n": 881,
@@ -7977,9 +7977,9 @@
    "pick": "Over 46.5 -108",
    "odds": -108,
    "units": 1.0,
-   "result": null,
-   "pl": null,
-   "pending": true
+   "result": "L",
+   "pl": -1.0,
+   "pending": false
   },
   {
    "n": 883,
@@ -7993,9 +7993,9 @@
    "pick": "Over 55 -110",
    "odds": -110,
    "units": 1.0,
-   "result": null,
-   "pl": null,
-   "pending": true
+   "result": "W",
+   "pl": 0.91,
+   "pending": false
   },
   {
    "n": 909,
@@ -8009,9 +8009,9 @@
    "pick": "Philadelphia Eagles ML +173",
    "odds": 173,
    "units": 1.0,
-   "result": null,
-   "pl": null,
-   "pending": true
+   "result": "W",
+   "pl": 1.73,
+   "pending": false
   },
   {
    "n": 957,
@@ -8233,9 +8233,9 @@
    "pick": "UC San Diego +1.5",
    "odds": -118,
    "units": 1.0,
-   "result": null,
-   "pl": null,
-   "pending": true
+   "result": "L",
+   "pl": -1.0,
+   "pending": false
   },
   {
    "n": 972,
