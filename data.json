@@ -1,5 +1,5 @@
 {
- "updated": "Nov 23, 2026, 2:30 PM PT",
+ "updated": "Nov 23, 2026, 2:34 PM PT",
  "record": {
   "w": 261,
   "l": 255,
@@ -1626,10 +1626,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "9:46 - 2nd",
+       "detail": "7:30 - 2nd",
        "start": "2026-11-23T21:00Z",
        "period": 2,
-       "clock": "9:46",
+       "clock": "7:30",
        "teams": [
         {
          "name": "Tulane Green Wave",
@@ -1647,7 +1647,7 @@
          "name": "Georgia State Panthers",
          "short": "Panthers",
          "abbr": "GAST",
-         "score": 54,
+         "score": 57,
          "ha": "home",
          "winner": null,
          "linescores": [
