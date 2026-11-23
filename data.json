@@ -1,5 +1,5 @@
 {
- "updated": "Nov 22, 2026, 6:27 PM PT",
+ "updated": "Nov 22, 2026, 6:39 PM PT",
  "record": {
   "w": 241,
   "l": 237,
@@ -127,63 +127,6 @@
   }
  ],
  "picks": [
-  {
-   "n": 971,
-   "league": "NCAAB",
-   "type": "Spread",
-   "matchup": "Seattle Redhawks @ UC San Diego Tritons",
-   "pick": "UC San Diego +1.5",
-   "odds": -118,
-   "units": 1.0,
-   "gap": null,
-   "start": "2026-11-22T18:30:00",
-   "timed": true,
-   "ticket": "single",
-   "espn": {
-    "legs": [
-     {
-      "kind": "spread",
-      "side": "UC San Diego",
-      "line": 1.5,
-      "label": "UC San Diego +1.5",
-      "path": "basketball/mens-college-basketball",
-      "event": "401917542",
-      "date": "20261122",
-      "snapshot": {
-       "source": "espn",
-       "state": "pre",
-       "detail": "11/22 - 9:30 PM EST",
-       "start": "2026-11-23T02:30Z",
-       "period": null,
-       "clock": null,
-       "teams": [
-        {
-         "name": "UC San Diego Tritons",
-         "short": "Tritons",
-         "abbr": "UCSD",
-         "score": 0,
-         "ha": "away",
-         "winner": null,
-         "linescores": []
-        },
-        {
-         "name": "Seattle U Redhawks",
-         "short": "Redhawks",
-         "abbr": "SEA",
-         "score": 0,
-         "ha": "home",
-         "winner": null,
-         "linescores": []
-        }
-       ]
-      },
-      "source": "espn"
-     }
-    ],
-    "sport": "NCAAB",
-    "ticket": "single"
-   }
-  },
   {
    "n": 882,
    "league": "NFL",
@@ -811,10 +754,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "6:38 - 2nd",
+       "detail": "1:59 - 2nd",
        "start": "2026-11-23T01:20Z",
        "period": 2,
-       "clock": "6:38",
+       "clock": "1:59",
        "teams": [
         {
          "name": "Minnesota Vikings",
@@ -832,7 +775,7 @@
          "name": "San Francisco 49ers",
          "short": "49ers",
          "abbr": "SF",
-         "score": 14,
+         "score": 28,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -1554,10 +1497,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "6:38 - 2nd",
+       "detail": "1:59 - 2nd",
        "start": "2026-11-23T01:20Z",
        "period": 2,
-       "clock": "6:38",
+       "clock": "1:59",
        "teams": [
         {
          "name": "Minnesota Vikings",
@@ -1575,7 +1518,7 @@
          "name": "San Francisco 49ers",
          "short": "49ers",
          "abbr": "SF",
-         "score": 14,
+         "score": 28,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -2077,10 +2020,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P2 13:12",
+       "detail": "P2 07:04",
        "start": "2026-11-23T01:00:00Z",
        "period": 2,
-       "clock": "13:12",
+       "clock": "07:04",
        "teams": [
         {
          "name": "Blackhawks",
@@ -2270,11 +2213,11 @@
       "date": "20261122",
       "snapshot": {
        "source": "nhl",
-       "state": "in",
-       "detail": "P3 02:14",
+       "state": "post",
+       "detail": "Final",
        "start": "2026-11-23T00:00:00Z",
        "period": 3,
-       "clock": "02:14",
+       "clock": "00:00",
        "teams": [
         {
          "name": "Penguins",
@@ -2282,7 +2225,7 @@
          "abbr": "PIT",
          "score": 0,
          "ha": "away",
-         "winner": null,
+         "winner": false,
          "linescores": []
         },
         {
@@ -2291,7 +2234,7 @@
          "abbr": "DAL",
          "score": 1,
          "ha": "home",
-         "winner": null,
+         "winner": true,
          "linescores": []
         }
        ],
@@ -2492,6 +2435,63 @@
    }
   },
   {
+   "n": 971,
+   "league": "NCAAB",
+   "type": "Spread",
+   "matchup": "Seattle Redhawks @ UC San Diego Tritons",
+   "pick": "UC San Diego +1.5",
+   "odds": -118,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-22T18:30:00",
+   "timed": true,
+   "ticket": "single",
+   "espn": {
+    "legs": [
+     {
+      "kind": "spread",
+      "side": "UC San Diego",
+      "line": 1.5,
+      "label": "UC San Diego +1.5",
+      "path": "basketball/mens-college-basketball",
+      "event": "401917542",
+      "date": "20261122",
+      "snapshot": {
+       "source": "espn",
+       "state": "pre",
+       "detail": "11/22 - 9:30 PM EST",
+       "start": "2026-11-23T02:30Z",
+       "period": null,
+       "clock": null,
+       "teams": [
+        {
+         "name": "UC San Diego Tritons",
+         "short": "Tritons",
+         "abbr": "UCSD",
+         "score": 0,
+         "ha": "away",
+         "winner": null,
+         "linescores": []
+        },
+        {
+         "name": "Seattle U Redhawks",
+         "short": "Redhawks",
+         "abbr": "SEA",
+         "score": 0,
+         "ha": "home",
+         "winner": null,
+         "linescores": []
+        }
+       ]
+      },
+      "source": "espn"
+     }
+    ],
+    "sport": "NCAAB",
+    "ticket": "single"
+   }
+  },
+  {
    "n": 972,
    "league": "NFL",
    "type": "Player Prop",
@@ -2575,10 +2575,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P3 05:36",
+       "detail": "P3 00:54",
        "start": "2026-11-23T00:00:00Z",
        "period": 3,
-       "clock": "05:36",
+       "clock": "00:54",
        "teams": [
         {
          "name": "Oilers",
@@ -2593,7 +2593,7 @@
          "name": "Blues",
          "short": "STL",
          "abbr": "STL",
-         "score": 2,
+         "score": 4,
          "ha": "home",
          "winner": null,
          "linescores": []
@@ -3192,10 +3192,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "6:38 - 2nd",
+       "detail": "1:59 - 2nd",
        "start": "2026-11-23T01:20Z",
        "period": 2,
-       "clock": "6:38",
+       "clock": "1:59",
        "teams": [
         {
          "name": "Minnesota Vikings",
@@ -3213,7 +3213,7 @@
          "name": "San Francisco 49ers",
          "short": "49ers",
          "abbr": "SF",
-         "score": 14,
+         "score": 28,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -3238,10 +3238,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "6:38 - 2nd",
+       "detail": "1:59 - 2nd",
        "start": "2026-11-23T01:20Z",
        "period": 2,
-       "clock": "6:38",
+       "clock": "1:59",
        "teams": [
         {
          "name": "Minnesota Vikings",
@@ -3259,7 +3259,7 @@
          "name": "San Francisco 49ers",
          "short": "49ers",
          "abbr": "SF",
-         "score": 14,
+         "score": 28,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -3285,10 +3285,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "6:38 - 2nd",
+       "detail": "1:59 - 2nd",
        "start": "2026-11-23T01:20Z",
        "period": 2,
-       "clock": "6:38",
+       "clock": "1:59",
        "teams": [
         {
          "name": "Minnesota Vikings",
@@ -3306,7 +3306,7 @@
          "name": "San Francisco 49ers",
          "short": "49ers",
          "abbr": "SF",
-         "score": 14,
+         "score": 28,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -3334,10 +3334,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "6:38 - 2nd",
+       "detail": "1:59 - 2nd",
        "start": "2026-11-23T01:20Z",
        "period": 2,
-       "clock": "6:38",
+       "clock": "1:59",
        "teams": [
         {
          "name": "Minnesota Vikings",
@@ -3355,7 +3355,7 @@
          "name": "San Francisco 49ers",
          "short": "49ers",
          "abbr": "SF",
-         "score": 14,
+         "score": 28,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -3392,7 +3392,7 @@
          "name": "San Francisco 49ers",
          "short": "San Francisco 49ers",
          "abbr": "",
-         "score": 14,
+         "score": 28,
          "ha": "home",
          "winner": null,
          "linescores": []
