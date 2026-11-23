@@ -1,5 +1,5 @@
 {
- "updated": "Nov 22, 2026, 5:13 PM PT",
+ "updated": "Nov 22, 2026, 5:16 PM PT",
  "record": {
   "w": 240,
   "l": 237,
@@ -2249,10 +2249,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P1 19:01",
+       "detail": "P1 17:44",
        "start": "2026-11-23T01:00:00Z",
        "period": 1,
-       "clock": "19:01",
+       "clock": "17:44",
        "teams": [
         {
          "name": "Blackhawks",
@@ -2377,16 +2377,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "10:15 - 1st",
+       "detail": "8:35 - 1st",
        "start": "2026-11-23T01:00Z",
        "period": 1,
-       "clock": "10:15",
+       "clock": "8:35",
        "teams": [
         {
          "name": "Indiana Pacers",
          "short": "Pacers",
          "abbr": "IND",
-         "score": 2,
+         "score": 4,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -2397,7 +2397,7 @@
          "name": "New York Knicks",
          "short": "Knicks",
          "abbr": "NY",
-         "score": 5,
+         "score": 6,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -2507,10 +2507,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P2 13:21",
+       "detail": "P2 11:35",
        "start": "2026-11-23T00:00:00Z",
        "period": 2,
-       "clock": "13:21",
+       "clock": "11:35",
        "teams": [
         {
          "name": "Penguins",
@@ -2811,10 +2811,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P2 12:31",
+       "detail": "P2 11:15",
        "start": "2026-11-23T00:00:00Z",
        "period": 2,
-       "clock": "12:31",
+       "clock": "11:15",
        "teams": [
         {
          "name": "Oilers",
@@ -2932,16 +2932,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "3:46 - 4th",
+       "detail": "3:08 - 4th",
        "start": "2026-11-22T23:00Z",
        "period": 4,
-       "clock": "3:46",
+       "clock": "3:08",
        "teams": [
         {
          "name": "Oklahoma City Thunder",
          "short": "Thunder",
          "abbr": "OKC",
-         "score": 104,
+         "score": 106,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -3062,16 +3062,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "3:46 - 4th",
+       "detail": "3:08 - 4th",
        "start": "2026-11-22T23:00Z",
        "period": 4,
-       "clock": "3:46",
+       "clock": "3:08",
        "teams": [
         {
          "name": "Oklahoma City Thunder",
          "short": "Thunder",
          "abbr": "OKC",
-         "score": 104,
+         "score": 106,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -3135,16 +3135,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "3:46 - 4th",
+       "detail": "3:08 - 4th",
        "start": "2026-11-22T23:00Z",
        "period": 4,
-       "clock": "3:46",
+       "clock": "3:08",
        "teams": [
         {
          "name": "Oklahoma City Thunder",
          "short": "Thunder",
          "abbr": "OKC",
-         "score": 104,
+         "score": 106,
          "ha": "away",
          "winner": null,
          "linescores": [
