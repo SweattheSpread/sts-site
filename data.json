@@ -1,5 +1,5 @@
 {
- "updated": "Nov 22, 2026, 7:51 PM PT",
+ "updated": "Nov 22, 2026, 7:54 PM PT",
  "record": {
   "w": 241,
   "l": 237,
@@ -754,10 +754,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "14:14 - 4th",
+       "detail": "13:26 - 4th",
        "start": "2026-11-23T01:20Z",
        "period": 4,
-       "clock": "14:14",
+       "clock": "13:26",
        "teams": [
         {
          "name": "Minnesota Vikings",
@@ -777,7 +777,7 @@
          "name": "San Francisco 49ers",
          "short": "49ers",
          "abbr": "SF",
-         "score": 28,
+         "score": 35,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -1501,10 +1501,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "14:14 - 4th",
+       "detail": "13:26 - 4th",
        "start": "2026-11-23T01:20Z",
        "period": 4,
-       "clock": "14:14",
+       "clock": "13:26",
        "teams": [
         {
          "name": "Minnesota Vikings",
@@ -1524,7 +1524,7 @@
          "name": "San Francisco 49ers",
          "short": "49ers",
          "abbr": "SF",
-         "score": 28,
+         "score": 35,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -2467,16 +2467,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "17:05 - 2nd",
+       "detail": "14:55 - 2nd",
        "start": "2026-11-23T02:45Z",
        "period": 2,
-       "clock": "17:05",
+       "clock": "14:55",
        "teams": [
         {
          "name": "UC San Diego Tritons",
          "short": "Tritons",
          "abbr": "UCSD",
-         "score": 25,
+         "score": 30,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -2488,7 +2488,7 @@
          "name": "Seattle U Redhawks",
          "short": "Redhawks",
          "abbr": "SEA",
-         "score": 52,
+         "score": 54,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -3206,10 +3206,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "14:14 - 4th",
+       "detail": "13:26 - 4th",
        "start": "2026-11-23T01:20Z",
        "period": 4,
-       "clock": "14:14",
+       "clock": "13:26",
        "teams": [
         {
          "name": "Minnesota Vikings",
@@ -3229,7 +3229,7 @@
          "name": "San Francisco 49ers",
          "short": "49ers",
          "abbr": "SF",
-         "score": 28,
+         "score": 35,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -3256,10 +3256,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "14:14 - 4th",
+       "detail": "13:26 - 4th",
        "start": "2026-11-23T01:20Z",
        "period": 4,
-       "clock": "14:14",
+       "clock": "13:26",
        "teams": [
         {
          "name": "Minnesota Vikings",
@@ -3279,7 +3279,7 @@
          "name": "San Francisco 49ers",
          "short": "49ers",
          "abbr": "SF",
-         "score": 28,
+         "score": 35,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -3310,10 +3310,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "14:14 - 4th",
+       "detail": "13:26 - 4th",
        "start": "2026-11-23T01:20Z",
        "period": 4,
-       "clock": "14:14",
+       "clock": "13:26",
        "teams": [
         {
          "name": "Minnesota Vikings",
@@ -3333,7 +3333,7 @@
          "name": "San Francisco 49ers",
          "short": "49ers",
          "abbr": "SF",
-         "score": 28,
+         "score": 35,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -3363,10 +3363,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "14:14 - 4th",
+       "detail": "13:26 - 4th",
        "start": "2026-11-23T01:20Z",
        "period": 4,
-       "clock": "14:14",
+       "clock": "13:26",
        "teams": [
         {
          "name": "Minnesota Vikings",
@@ -3386,7 +3386,7 @@
          "name": "San Francisco 49ers",
          "short": "49ers",
          "abbr": "SF",
-         "score": 28,
+         "score": 35,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -3425,7 +3425,7 @@
          "name": "San Francisco 49ers",
          "short": "San Francisco 49ers",
          "abbr": "",
-         "score": 28,
+         "score": 35,
          "ha": "home",
          "winner": null,
          "linescores": []
