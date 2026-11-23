@@ -1,5 +1,5 @@
 {
- "updated": "Nov 22, 2026, 7:14 PM PT",
+ "updated": "Nov 22, 2026, 7:16 PM PT",
  "record": {
   "w": 241,
   "l": 237,
@@ -754,10 +754,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "Halftime",
+       "detail": "15:00 - 3rd",
        "start": "2026-11-23T01:20Z",
-       "period": 2,
-       "clock": "0:00",
+       "period": 3,
+       "clock": "15:00",
        "teams": [
         {
          "name": "Minnesota Vikings",
@@ -767,6 +767,7 @@
          "ha": "away",
          "winner": null,
          "linescores": [
+          0,
           0,
           0
          ]
@@ -779,6 +780,7 @@
          "ha": "home",
          "winner": null,
          "linescores": [
+          0,
           0,
           0
          ]
@@ -1497,10 +1499,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "Halftime",
+       "detail": "15:00 - 3rd",
        "start": "2026-11-23T01:20Z",
-       "period": 2,
-       "clock": "0:00",
+       "period": 3,
+       "clock": "15:00",
        "teams": [
         {
          "name": "Minnesota Vikings",
@@ -1510,6 +1512,7 @@
          "ha": "away",
          "winner": null,
          "linescores": [
+          0,
           0,
           0
          ]
@@ -1522,6 +1525,7 @@
          "ha": "home",
          "winner": null,
          "linescores": [
+          0,
           0,
           0
          ]
@@ -2020,10 +2024,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P3 18:10",
+       "detail": "P3 15:57",
        "start": "2026-11-23T01:00:00Z",
        "period": 3,
-       "clock": "18:10",
+       "clock": "15:57",
        "teams": [
         {
          "name": "Blackhawks",
@@ -2459,16 +2463,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "6:02 - 1st",
+       "detail": "4:17 - 1st",
        "start": "2026-11-23T02:45Z",
        "period": 1,
-       "clock": "6:02",
+       "clock": "4:17",
        "teams": [
         {
          "name": "UC San Diego Tritons",
          "short": "Tritons",
          "abbr": "UCSD",
-         "score": 18,
+         "score": 21,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -2479,7 +2483,7 @@
          "name": "Seattle U Redhawks",
          "short": "Redhawks",
          "abbr": "SEA",
-         "score": 38,
+         "score": 41,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -3196,10 +3200,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "Halftime",
+       "detail": "15:00 - 3rd",
        "start": "2026-11-23T01:20Z",
-       "period": 2,
-       "clock": "0:00",
+       "period": 3,
+       "clock": "15:00",
        "teams": [
         {
          "name": "Minnesota Vikings",
@@ -3209,6 +3213,7 @@
          "ha": "away",
          "winner": null,
          "linescores": [
+          0,
           0,
           0
          ]
@@ -3221,6 +3226,7 @@
          "ha": "home",
          "winner": null,
          "linescores": [
+          0,
           0,
           0
          ]
@@ -3242,10 +3248,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "Halftime",
+       "detail": "15:00 - 3rd",
        "start": "2026-11-23T01:20Z",
-       "period": 2,
-       "clock": "0:00",
+       "period": 3,
+       "clock": "15:00",
        "teams": [
         {
          "name": "Minnesota Vikings",
@@ -3255,6 +3261,7 @@
          "ha": "away",
          "winner": null,
          "linescores": [
+          0,
           0,
           0
          ]
@@ -3267,6 +3274,7 @@
          "ha": "home",
          "winner": null,
          "linescores": [
+          0,
           0,
           0
          ]
@@ -3292,10 +3300,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "Halftime",
+       "detail": "15:00 - 3rd",
        "start": "2026-11-23T01:20Z",
-       "period": 2,
-       "clock": "0:00",
+       "period": 3,
+       "clock": "15:00",
        "teams": [
         {
          "name": "Minnesota Vikings",
@@ -3305,6 +3313,7 @@
          "ha": "away",
          "winner": null,
          "linescores": [
+          0,
           0,
           0
          ]
@@ -3317,6 +3326,7 @@
          "ha": "home",
          "winner": null,
          "linescores": [
+          0,
           0,
           0
          ]
@@ -3341,10 +3351,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "Halftime",
+       "detail": "15:00 - 3rd",
        "start": "2026-11-23T01:20Z",
-       "period": 2,
-       "clock": "0:00",
+       "period": 3,
+       "clock": "15:00",
        "teams": [
         {
          "name": "Minnesota Vikings",
@@ -3354,6 +3364,7 @@
          "ha": "away",
          "winner": null,
          "linescores": [
+          0,
           0,
           0
          ]
@@ -3366,6 +3377,7 @@
          "ha": "home",
          "winner": null,
          "linescores": [
+          0,
           0,
           0
          ]
