@@ -1,5 +1,5 @@
 {
- "updated": "Nov 23, 2026, 12:00 PM PT",
+ "updated": "Nov 23, 2026, 12:45 PM PT",
  "record": {
   "w": 261,
   "l": 255,
@@ -11,7 +11,7 @@
   "first": "2026-10-12",
   "last": "2026-11-22"
  },
- "pending": 25,
+ "pending": 26,
  "plays": [
   {
    "n": 334,
@@ -8648,6 +8648,22 @@
    "matchup": "Columbus Blue Jackets @ New Jersey Devils",
    "pick": "Kent Johnson Over 0.5 Points",
    "odds": 105,
+   "units": 1.0,
+   "result": null,
+   "pl": null,
+   "pending": true
+  },
+  {
+   "n": 1001,
+   "date": "2026-11-23",
+   "day": "2026-11-23",
+   "league": "NBA",
+   "market": "player_prop",
+   "market_label": "Player Prop",
+   "ticket": "single",
+   "matchup": "San Antonio Spurs @ Sacramento Kings",
+   "pick": "Domantas Sabonis Over 12.5 Rebounds",
+   "odds": 115,
    "units": 1.0,
    "result": null,
    "pl": null,

@@ -1,5 +1,5 @@
 {
- "updated": "Nov 23, 2026, 12:00 PM PT",
+ "updated": "Nov 23, 2026, 12:45 PM PT",
  "record": {
   "w": 261,
   "l": 255,
@@ -11,7 +11,7 @@
   "first": "2026-10-12",
   "last": "2026-11-22"
  },
- "pending": 25,
+ "pending": 26,
  "latest": [
   {
    "n": 982,
@@ -908,6 +908,65 @@
      }
     ],
     "sport": "NHL",
+    "ticket": "single"
+   }
+  },
+  {
+   "n": 1001,
+   "league": "NBA",
+   "type": "Player Prop",
+   "matchup": "San Antonio Spurs @ Sacramento Kings",
+   "pick": "Domantas Sabonis Over 12.5 Rebounds",
+   "odds": 115,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-23T19:10:00",
+   "timed": true,
+   "ticket": "single",
+   "espn": {
+    "legs": [
+     {
+      "kind": "prop",
+      "player": "Domantas Sabonis",
+      "ou": "O",
+      "line": 12.5,
+      "stat": "rebounds",
+      "label": "Domantas Sabonis O 12.5 rebounds",
+      "path": "basketball/nba",
+      "event": "401910045",
+      "date": "20261123",
+      "snapshot": {
+       "source": "espn",
+       "state": "pre",
+       "detail": "11/23 - 10:00 PM EST",
+       "start": "2026-11-24T03:00Z",
+       "period": null,
+       "clock": null,
+       "teams": [
+        {
+         "name": "San Antonio Spurs",
+         "short": "Spurs",
+         "abbr": "SA",
+         "score": 0,
+         "ha": "away",
+         "winner": null,
+         "linescores": []
+        },
+        {
+         "name": "Sacramento Kings",
+         "short": "Kings",
+         "abbr": "SAC",
+         "score": 0,
+         "ha": "home",
+         "winner": null,
+         "linescores": []
+        }
+       ]
+      },
+      "source": "espn"
+     }
+    ],
+    "sport": "NBA",
     "ticket": "single"
    }
   },
