@@ -1,5 +1,5 @@
 {
- "updated": "Nov 22, 2026, 5:44 PM PT",
+ "updated": "Nov 22, 2026, 5:46 PM PT",
  "record": {
   "w": 241,
   "l": 237,
@@ -148,7 +148,36 @@
       "label": "UC San Diego +1.5",
       "path": "basketball/mens-college-basketball",
       "event": "401917542",
-      "date": "20261122"
+      "date": "20261122",
+      "snapshot": {
+       "source": "espn",
+       "state": "pre",
+       "detail": "11/22 - 9:30 PM EST",
+       "start": "2026-11-23T02:30Z",
+       "period": null,
+       "clock": null,
+       "teams": [
+        {
+         "name": "UC San Diego Tritons",
+         "short": "Tritons",
+         "abbr": "UCSD",
+         "score": 0,
+         "ha": "away",
+         "winner": null,
+         "linescores": []
+        },
+        {
+         "name": "Seattle U Redhawks",
+         "short": "Redhawks",
+         "abbr": "SEA",
+         "score": 0,
+         "ha": "home",
+         "winner": null,
+         "linescores": []
+        }
+       ]
+      },
+      "source": "espn"
      }
     ],
     "sport": "NCAAB",
@@ -782,10 +811,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "6:50 - 1st",
+       "detail": "6:01 - 1st",
        "start": "2026-11-23T01:20Z",
        "period": 1,
-       "clock": "6:50",
+       "clock": "6:01",
        "teams": [
         {
          "name": "Minnesota Vikings",
@@ -1523,10 +1552,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "6:50 - 1st",
+       "detail": "6:01 - 1st",
        "start": "2026-11-23T01:20Z",
        "period": 1,
-       "clock": "6:50",
+       "clock": "6:01",
        "teams": [
         {
          "name": "Minnesota Vikings",
@@ -2044,10 +2073,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P1 06:55",
+       "detail": "P1 06:12",
        "start": "2026-11-23T01:00:00Z",
        "period": 1,
-       "clock": "06:55",
+       "clock": "06:12",
        "teams": [
         {
          "name": "Blackhawks",
@@ -2062,7 +2091,7 @@
          "name": "Canucks",
          "short": "VAN",
          "abbr": "VAN",
-         "score": 0,
+         "score": 1,
          "ha": "home",
          "winner": null,
          "linescores": []
@@ -2238,10 +2267,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P2 11:41",
+       "detail": "P2 09:25",
        "start": "2026-11-23T00:00:00Z",
        "period": 2,
-       "clock": "11:41",
+       "clock": "09:25",
        "teams": [
         {
          "name": "Penguins",
@@ -2542,10 +2571,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P2 13:53",
+       "detail": "P2 11:37",
        "start": "2026-11-23T00:00:00Z",
        "period": 2,
-       "clock": "13:53",
+       "clock": "11:37",
        "teams": [
         {
          "name": "Oilers",
@@ -3159,10 +3188,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "6:50 - 1st",
+       "detail": "6:01 - 1st",
        "start": "2026-11-23T01:20Z",
        "period": 1,
-       "clock": "6:50",
+       "clock": "6:01",
        "teams": [
         {
          "name": "Minnesota Vikings",
@@ -3203,10 +3232,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "6:50 - 1st",
+       "detail": "6:01 - 1st",
        "start": "2026-11-23T01:20Z",
        "period": 1,
-       "clock": "6:50",
+       "clock": "6:01",
        "teams": [
         {
          "name": "Minnesota Vikings",
@@ -3248,10 +3277,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "6:50 - 1st",
+       "detail": "6:01 - 1st",
        "start": "2026-11-23T01:20Z",
        "period": 1,
-       "clock": "6:50",
+       "clock": "6:01",
        "teams": [
         {
          "name": "Minnesota Vikings",
@@ -3295,10 +3324,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "6:50 - 1st",
+       "detail": "6:01 - 1st",
        "start": "2026-11-23T01:20Z",
        "period": 1,
-       "clock": "6:50",
+       "clock": "6:01",
        "teams": [
         {
          "name": "Minnesota Vikings",
