@@ -1,5 +1,5 @@
 {
- "updated": "Nov 22, 2026, 6:24 PM PT",
+ "updated": "Nov 22, 2026, 6:27 PM PT",
  "record": {
   "w": 241,
   "l": 237,
@@ -2077,10 +2077,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P2 14:41",
+       "detail": "P2 13:12",
        "start": "2026-11-23T01:00:00Z",
        "period": 2,
-       "clock": "14:41",
+       "clock": "13:12",
        "teams": [
         {
          "name": "Blackhawks",
@@ -2095,7 +2095,7 @@
          "name": "Canucks",
          "short": "VAN",
          "abbr": "VAN",
-         "score": 1,
+         "score": 2,
          "ha": "home",
          "winner": null,
          "linescores": []
@@ -2271,10 +2271,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P3 04:21",
+       "detail": "P3 02:14",
        "start": "2026-11-23T00:00:00Z",
        "period": 3,
-       "clock": "04:21",
+       "clock": "02:14",
        "teams": [
         {
          "name": "Penguins",
@@ -2575,10 +2575,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P3 07:36",
+       "detail": "P3 05:36",
        "start": "2026-11-23T00:00:00Z",
        "period": 3,
-       "clock": "07:36",
+       "clock": "05:36",
        "teams": [
         {
          "name": "Oilers",
