@@ -1,17 +1,17 @@
 {
- "updated": "Nov 22, 2026, 8:11 PM PT",
+ "updated": "Nov 22, 2026, 8:13 PM PT",
  "record": {
-  "w": 241,
-  "l": 237,
+  "w": 253,
+  "l": 246,
   "p": 0,
-  "n": 478,
-  "units": 79.46,
-  "risked": 697.25,
-  "roi": 11.4,
+  "n": 499,
+  "units": 77.07,
+  "risked": 741.7,
+  "roi": 10.39,
   "first": "2026-10-12",
   "last": "2026-11-22"
  },
- "pending": 46,
+ "pending": 25,
  "plays": [
   {
    "n": 334,
@@ -8025,9 +8025,9 @@
    "pick": "Sam LaPorta longest reception Over 15.5",
    "odds": -125,
    "units": 1.0,
-   "result": null,
-   "pl": null,
-   "pending": true
+   "result": "W",
+   "pl": 0.8,
+   "pending": false
   },
   {
    "n": 958,
@@ -8041,9 +8041,9 @@
    "pick": "Quentin Johnston longest reception Over 15.5",
    "odds": -110,
    "units": 1.0,
-   "result": null,
-   "pl": null,
-   "pending": true
+   "result": "L",
+   "pl": -1.0,
+   "pending": false
   },
   {
    "n": 959,
@@ -8057,9 +8057,9 @@
    "pick": "Brayden Point Over 0.5 assists",
    "odds": 120,
    "units": 1.0,
-   "result": null,
-   "pl": null,
-   "pending": true
+   "result": "L",
+   "pl": -1.0,
+   "pending": false
   },
   {
    "n": 960,
@@ -8073,9 +8073,9 @@
    "pick": "Khalil Shakir anytime TD Yes",
    "odds": 250,
    "units": 0.5,
-   "result": null,
-   "pl": null,
-   "pending": true
+   "result": "L",
+   "pl": -0.5,
+   "pending": false
   },
   {
    "n": 962,
@@ -8089,9 +8089,9 @@
    "pick": "Over 44.5 -105",
    "odds": -105,
    "units": 1.0,
-   "result": null,
-   "pl": null,
-   "pending": true
+   "result": "W",
+   "pl": 0.95,
+   "pending": false
   },
   {
    "n": 963,
@@ -8105,9 +8105,9 @@
    "pick": "Under 6.5 -110",
    "odds": -110,
    "units": 0.5,
-   "result": null,
-   "pl": null,
-   "pending": true
+   "result": "L",
+   "pl": -0.5,
+   "pending": false
   },
   {
    "n": 964,
@@ -8121,9 +8121,9 @@
    "pick": "Chicago Bears 1st half -7",
    "odds": -120,
    "units": 7.0,
-   "result": null,
-   "pl": null,
-   "pending": true
+   "result": "L",
+   "pl": -7.0,
+   "pending": false
   },
   {
    "n": 965,
@@ -8153,9 +8153,9 @@
    "pick": "Over 135 -110",
    "odds": -110,
    "units": 1.0,
-   "result": null,
-   "pl": null,
-   "pending": true
+   "result": "W",
+   "pl": 0.91,
+   "pending": false
   },
   {
    "n": 967,
@@ -8169,9 +8169,9 @@
    "pick": "Jamie Benn Under 0.5 points",
    "odds": -135,
    "units": 1.0,
-   "result": null,
-   "pl": null,
-   "pending": true
+   "result": "W",
+   "pl": 0.74,
+   "pending": false
   },
   {
    "n": 968,
@@ -8185,9 +8185,9 @@
    "pick": "Utah Tech +1.5",
    "odds": -110,
    "units": 1.0,
-   "result": null,
-   "pl": null,
-   "pending": true
+   "result": "W",
+   "pl": 0.91,
+   "pending": false
   },
   {
    "n": 969,
@@ -8201,9 +8201,9 @@
    "pick": "Mercyhurst +0.5",
    "odds": -110,
    "units": 1.0,
-   "result": null,
-   "pl": null,
-   "pending": true
+   "result": "W",
+   "pl": 0.91,
+   "pending": false
   },
   {
    "n": 970,
@@ -8217,9 +8217,9 @@
    "pick": "Richmond +1.5",
    "odds": -125,
    "units": 1.0,
-   "result": null,
-   "pl": null,
-   "pending": true
+   "result": "W",
+   "pl": 0.8,
+   "pending": false
   },
   {
    "n": 971,
@@ -8249,9 +8249,9 @@
    "pick": "Emmett Johnson Over 115.5 Rushing Yards, live",
    "odds": -120,
    "units": 10.0,
-   "result": null,
-   "pl": null,
-   "pending": true
+   "result": "L",
+   "pl": -10.0,
+   "pending": false
   },
   {
    "n": 973,
@@ -8265,9 +8265,9 @@
    "pick": "Vasily Podkolzin Over 0.5 Points",
    "odds": 100,
    "units": 2.0,
-   "result": null,
-   "pl": null,
-   "pending": true
+   "result": "W",
+   "pl": 2.0,
+   "pending": false
   },
   {
    "n": 974,
@@ -8297,9 +8297,9 @@
    "pick": "Tampa Bay Lightning to win in regulation (60-min 3-way ML)",
    "odds": -127,
    "units": 1.75,
-   "result": null,
-   "pl": null,
-   "pending": true
+   "result": "L",
+   "pl": -1.75,
+   "pending": false
   },
   {
    "n": 976,
@@ -8313,9 +8313,9 @@
    "pick": "Ajay Mitchell Under 4.5 Rebounds",
    "odds": -115,
    "units": 1.0,
-   "result": null,
-   "pl": null,
-   "pending": true
+   "result": "W",
+   "pl": 0.87,
+   "pending": false
   },
   {
    "n": 977,
@@ -8329,9 +8329,9 @@
    "pick": "Ashton Jeanty Over 29.5 Rushing Yards, live",
    "odds": -110,
    "units": 10.0,
-   "result": null,
-   "pl": null,
-   "pending": true
+   "result": "W",
+   "pl": 9.09,
+   "pending": false
   },
   {
    "n": 979,
@@ -8345,9 +8345,9 @@
    "pick": "Jared McCain Under 20.5 Points",
    "odds": -120,
    "units": 1.0,
-   "result": null,
-   "pl": null,
-   "pending": true
+   "result": "W",
+   "pl": 0.83,
+   "pending": false
   },
   {
    "n": 980,
@@ -8361,9 +8361,9 @@
    "pick": "Andrew Wiggins Under 3.5 Rebounds",
    "odds": 125,
    "units": 1.0,
-   "result": null,
-   "pl": null,
-   "pending": true
+   "result": "W",
+   "pl": 1.25,
+   "pending": false
   },
   {
    "n": 981,
@@ -8377,9 +8377,9 @@
    "pick": "Parker Washington anytime TD + Bhayshul Tuten anytime TD + Isaiah Likely 3+ receptions + Bhayshul Tuten 60+ rushing yds + T. Lawrence 225+ passing yds",
    "odds": 550,
    "units": 0.5,
-   "result": null,
-   "pl": null,
-   "pending": true
+   "result": "L",
+   "pl": -0.5,
+   "pending": false
   },
   {
    "n": 982,
@@ -8393,9 +8393,9 @@
    "pick": "2-leg parlay of SGPs (Raiders @ Broncos SGP +425 x Jaguars @ Giants SGP +550; legs as in #974 and #981)",
    "odds": 3313,
    "units": 0.2,
-   "result": null,
-   "pl": null,
-   "pending": true
+   "result": "L",
+   "pl": -0.2,
+   "pending": false
   },
   {
    "n": 882,

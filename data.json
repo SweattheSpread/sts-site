@@ -1,18 +1,116 @@
 {
- "updated": "Nov 22, 2026, 8:11 PM PT",
+ "updated": "Nov 22, 2026, 8:13 PM PT",
  "record": {
-  "w": 241,
-  "l": 237,
+  "w": 253,
+  "l": 246,
   "p": 0,
-  "n": 478,
-  "units": 79.46,
-  "risked": 697.25,
-  "roi": 11.4,
+  "n": 499,
+  "units": 77.07,
+  "risked": 741.7,
+  "roi": 10.39,
   "first": "2026-10-12",
   "last": "2026-11-22"
  },
- "pending": 45,
+ "pending": 25,
  "latest": [
+  {
+   "n": 982,
+   "date": "2026-11-22",
+   "day": "2026-11-22",
+   "league": "NFL",
+   "type": "Parlay",
+   "matchup": null,
+   "pick": "2-leg parlay of SGPs (Raiders @ Broncos SGP +425 x Jaguars @ Giants SGP +550; legs as in #",
+   "odds": 3313,
+   "units": 0.2,
+   "result": "L",
+   "pl": -0.2,
+   "ticket": "sgp"
+  },
+  {
+   "n": 981,
+   "date": "2026-11-22",
+   "day": "2026-11-22",
+   "league": "NFL",
+   "type": "Parlay",
+   "matchup": "Same-game parlay, Jacksonville Jaguars @ New York Giants",
+   "pick": "Parker Washington anytime TD + Bhayshul Tuten anytime TD + Isaiah Likely 3+ receptions + Bhayshul Tuten 60+ rushing yds + T. Lawrence 225+ passing yds; 0.5u at +550 (book not named on the slip). OFFICIAL user-directed pregame bet, recorded Nov 22 2026 ~1:16 PM PT (split from the original single #974 row on correction). Tracker record only; no sportsbook wager execution by us. Graded L: Washington 8-103, 0 TD; Tuten 10-33 rushing, 0 TD; Likely 1 reception; Lawrence 301 passing yards (ESPN box).",
+   "odds": 550,
+   "units": 0.5,
+   "result": "L",
+   "pl": -0.5,
+   "ticket": "sgp"
+  },
+  {
+   "n": 980,
+   "date": "2026-11-22",
+   "day": "2026-11-22",
+   "league": "NBA",
+   "type": "Player Prop",
+   "matchup": "Oklahoma City Thunder @ Miami Heat",
+   "pick": "Andrew Wiggins Under 3.5 Rebounds",
+   "odds": 125,
+   "units": 1.0,
+   "result": "W",
+   "pl": 1.25,
+   "ticket": "single"
+  },
+  {
+   "n": 979,
+   "date": "2026-11-22",
+   "day": "2026-11-22",
+   "league": "NBA",
+   "type": "Player Prop",
+   "matchup": "Oklahoma City Thunder @ Miami Heat",
+   "pick": "Jared McCain Under 20.5 Points",
+   "odds": -120,
+   "units": 1.0,
+   "result": "W",
+   "pl": 0.83,
+   "ticket": "single"
+  },
+  {
+   "n": 977,
+   "date": "2026-11-22",
+   "day": "2026-11-22",
+   "league": "NFL",
+   "type": "Player Prop",
+   "matchup": "Las Vegas Raiders @ Denver Broncos",
+   "pick": "Ashton Jeanty Over 29.5 Rushing Yards, live",
+   "odds": -110,
+   "units": 10.0,
+   "result": "W",
+   "pl": 9.09,
+   "ticket": "single"
+  },
+  {
+   "n": 976,
+   "date": "2026-11-22",
+   "day": "2026-11-22",
+   "league": "NBA",
+   "type": "Player Prop",
+   "matchup": "Oklahoma City Thunder @ Miami Heat",
+   "pick": "Ajay Mitchell Under 4.5 Rebounds",
+   "odds": -115,
+   "units": 1.0,
+   "result": "W",
+   "pl": 0.87,
+   "ticket": "single"
+  },
+  {
+   "n": 975,
+   "date": "2026-11-22",
+   "day": "2026-11-22",
+   "league": "NHL",
+   "type": "Moneyline",
+   "matchup": "Buffalo Sabres @ Tampa Bay Lightning",
+   "pick": "Tampa Bay Lightning to win in regulation (60-min 3-way ML)",
+   "odds": -127,
+   "units": 1.75,
+   "result": "L",
+   "pl": -1.75,
+   "ticket": "single"
+  },
   {
    "n": 974,
    "date": "2026-11-22",
@@ -26,104 +124,6 @@
    "result": "W",
    "pl": 4.25,
    "ticket": "sgp"
-  },
-  {
-   "n": 965,
-   "date": "2026-11-22",
-   "day": "2026-11-22",
-   "league": "NBA",
-   "type": "Player Prop",
-   "matchup": "Indiana Pacers @ New York Knicks",
-   "pick": "Andrew Nembhard Over 1.5 made threes",
-   "odds": -115,
-   "units": 3.0,
-   "result": "W",
-   "pl": 2.61,
-   "ticket": "single"
-  },
-  {
-   "n": 956,
-   "date": "2026-11-21",
-   "day": "2026-11-21",
-   "league": "NHL",
-   "type": "Player Prop",
-   "matchup": "New Jersey Devils @ St Louis Blues",
-   "pick": "Timo Meier Under 0.5 points",
-   "odds": -110,
-   "units": 1.0,
-   "result": "L",
-   "pl": -1.0,
-   "ticket": "single"
-  },
-  {
-   "n": 955,
-   "date": "2026-11-21",
-   "day": "2026-11-21",
-   "league": "NBA",
-   "type": "Player Prop",
-   "matchup": "New Orleans Pelicans @ San Antonio Spurs",
-   "pick": "Stephon Castle Under 17.5 points",
-   "odds": 100,
-   "units": 1.0,
-   "result": "L",
-   "pl": -1.0,
-   "ticket": "single"
-  },
-  {
-   "n": 954,
-   "date": "2026-11-21",
-   "day": "2026-11-21",
-   "league": "NCAAF",
-   "type": "Moneyline",
-   "matchup": "UCLA Bruins @ Michigan Wolverines",
-   "pick": "2nd Quarter Tie",
-   "odds": 180,
-   "units": 2.5,
-   "result": "W",
-   "pl": 4.5,
-   "ticket": "single"
-  },
-  {
-   "n": 953,
-   "date": "2026-11-21",
-   "day": "2026-11-21",
-   "league": "NHL",
-   "type": "Player Prop",
-   "matchup": "Columbus Blue Jackets @ Toronto Maple Leafs",
-   "pick": "Jack Roslovic Over 0.5 points",
-   "odds": 105,
-   "units": 1.0,
-   "result": "W",
-   "pl": 1.05,
-   "ticket": "single"
-  },
-  {
-   "n": 951,
-   "date": "2026-11-21",
-   "day": "2026-11-21",
-   "league": "NHL",
-   "type": "Player Prop",
-   "matchup": "Minnesota Wild @ Vancouver Canucks",
-   "pick": "Blake Coleman Under 0.5 points",
-   "odds": -105,
-   "units": 1.0,
-   "result": "W",
-   "pl": 0.95,
-   "ticket": "single"
-  },
-  {
-   "n": 950,
-   "date": "2026-11-21",
-   "day": "2026-11-21",
-   "league": "NCAAF",
-   "type": "Spread",
-   "matchup": "Ohio State Buckeyes @ Nebraska Cornhuskers",
-   "pick": "Nebraska Cornhuskers +2.5",
-   "odds": 101,
-   "units": 7.0,
-   "result": "W",
-   "pl": 7.07,
-   "ticket": "single"
   }
  ],
  "picks": [
@@ -754,10 +754,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "6:04 - 4th",
+       "detail": "4:44 - 4th",
        "start": "2026-11-23T01:20Z",
        "period": 4,
-       "clock": "6:04",
+       "clock": "4:44",
        "teams": [
         {
          "name": "Minnesota Vikings",
@@ -1501,10 +1501,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "6:04 - 4th",
+       "detail": "4:44 - 4th",
        "start": "2026-11-23T01:20Z",
        "period": 4,
-       "clock": "6:04",
+       "clock": "4:44",
        "teams": [
         {
          "name": "Minnesota Vikings",
@@ -1678,771 +1678,6 @@
    }
   },
   {
-   "n": 957,
-   "league": "NFL",
-   "type": "Player Prop",
-   "matchup": "Tampa Bay Buccaneers @ Detroit Lions",
-   "pick": "Sam LaPorta longest reception Over 15.5",
-   "odds": -125,
-   "units": 1.0,
-   "gap": null,
-   "start": "2026-11-22T10:00:00",
-   "timed": true,
-   "ticket": "single",
-   "espn": {
-    "legs": [
-     {
-      "kind": "team_total",
-      "side": "Sam LaPorta longest reception",
-      "ou": "O",
-      "line": 15.5,
-      "label": "Sam LaPorta longest reception O 15.5",
-      "path": "football/nfl",
-      "event": "401873072",
-      "date": "20261122",
-      "snapshot": {
-       "source": "espn",
-       "state": "post",
-       "detail": "Final",
-       "start": "2026-11-22T18:00Z",
-       "period": null,
-       "clock": null,
-       "teams": [
-        {
-         "name": "Tampa Bay Buccaneers",
-         "short": "Buccaneers",
-         "abbr": "TB",
-         "score": 21,
-         "ha": "away",
-         "winner": false,
-         "linescores": [
-          0,
-          0,
-          0,
-          0
-         ]
-        },
-        {
-         "name": "Detroit Lions",
-         "short": "Lions",
-         "abbr": "DET",
-         "score": 31,
-         "ha": "home",
-         "winner": true,
-         "linescores": [
-          0,
-          0,
-          0,
-          0
-         ]
-        }
-       ]
-      },
-      "source": "espn"
-     }
-    ],
-    "sport": "NFL",
-    "ticket": "single"
-   }
-  },
-  {
-   "n": 958,
-   "league": "NFL",
-   "type": "Player Prop",
-   "matchup": "New York Jets @ Los Angeles Chargers",
-   "pick": "Quentin Johnston longest reception Over 15.5",
-   "odds": -110,
-   "units": 1.0,
-   "gap": null,
-   "start": "2026-11-22T13:05:00",
-   "timed": true,
-   "ticket": "single",
-   "espn": {
-    "legs": [
-     {
-      "kind": "team_total",
-      "side": "Quentin Johnston longest reception",
-      "ou": "O",
-      "line": 15.5,
-      "label": "Quentin Johnston longest reception O 15.5",
-      "path": "football/nfl",
-      "event": "401873074",
-      "date": "20261122",
-      "snapshot": {
-       "source": "espn",
-       "state": "post",
-       "detail": "Final",
-       "start": "2026-11-22T21:05Z",
-       "period": null,
-       "clock": null,
-       "teams": [
-        {
-         "name": "New York Jets",
-         "short": "Jets",
-         "abbr": "NYJ",
-         "score": 27,
-         "ha": "away",
-         "winner": true,
-         "linescores": [
-          0,
-          0,
-          0,
-          0
-         ]
-        },
-        {
-         "name": "Los Angeles Chargers",
-         "short": "Chargers",
-         "abbr": "LAC",
-         "score": 24,
-         "ha": "home",
-         "winner": false,
-         "linescores": [
-          0,
-          0,
-          0,
-          0
-         ]
-        }
-       ]
-      },
-      "source": "espn"
-     }
-    ],
-    "sport": "NFL",
-    "ticket": "single"
-   }
-  },
-  {
-   "n": 959,
-   "league": "NHL",
-   "type": "Player Prop",
-   "matchup": "Buffalo Sabres @ Tampa Bay Lightning",
-   "pick": "Brayden Point Over 0.5 assists",
-   "odds": 120,
-   "units": 1.0,
-   "gap": null,
-   "start": "2026-11-22T14:10:00",
-   "timed": true,
-   "ticket": "single",
-   "espn": {
-    "legs": [
-     {
-      "kind": "prop",
-      "player": "Brayden Point",
-      "ou": "O",
-      "line": 0.5,
-      "stat": "assists",
-      "label": "Brayden Point O 0.5 assists",
-      "path": "hockey/nhl",
-      "event": "401892769",
-      "date": "20261122",
-      "snapshot": {
-       "source": "nhl",
-       "state": "post",
-       "detail": "Final",
-       "start": "2026-11-22T22:00:00Z",
-       "period": 3,
-       "clock": "00:00",
-       "teams": [
-        {
-         "name": "Sabres",
-         "short": "BUF",
-         "abbr": "BUF",
-         "score": 6,
-         "ha": "away",
-         "winner": true,
-         "linescores": []
-        },
-        {
-         "name": "Lightning",
-         "short": "TBL",
-         "abbr": "TBL",
-         "score": 2,
-         "ha": "home",
-         "winner": false,
-         "linescores": []
-        }
-       ],
-       "nhl_id": 2026020374,
-       "stat": {
-        "v": 0,
-        "name": "B. Point"
-       }
-      },
-      "source": "nhl"
-     }
-    ],
-    "sport": "NHL",
-    "ticket": "single"
-   }
-  },
-  {
-   "n": 960,
-   "league": "NFL",
-   "type": "Player Prop",
-   "matchup": "Miami Dolphins @ Buffalo Bills",
-   "pick": "Khalil Shakir anytime TD Yes",
-   "odds": 250,
-   "units": 0.5,
-   "gap": null,
-   "start": "2026-11-22T10:00:00",
-   "timed": true,
-   "ticket": "single",
-   "espn": {
-    "legs": [
-     {
-      "kind": "prop",
-      "player": "Khalil Shakir",
-      "ou": "O",
-      "line": 0.5,
-      "stat": "anytime td",
-      "label": "Khalil Shakir O 0.5 anytime td",
-      "date": "20261122",
-      "unverified": true,
-      "reason": "Player not found in this game",
-      "snapshot": {
-       "source": "odds-api",
-       "state": "post",
-       "detail": "Final",
-       "start": "2026-11-22T18:02:44Z",
-       "teams": [
-        {
-         "name": "Miami Dolphins",
-         "short": "Miami Dolphins",
-         "abbr": "",
-         "score": 9,
-         "ha": "away",
-         "winner": false,
-         "linescores": []
-        },
-        {
-         "name": "Buffalo Bills",
-         "short": "Buffalo Bills",
-         "abbr": "",
-         "score": 26,
-         "ha": "home",
-         "winner": true,
-         "linescores": []
-        }
-       ]
-      },
-      "source": "odds-api"
-     }
-    ],
-    "sport": "NFL",
-    "ticket": "single"
-   }
-  },
-  {
-   "n": 962,
-   "league": "NFL",
-   "type": "Over/Under",
-   "matchup": "Baltimore Ravens @ Carolina Panthers",
-   "pick": "Over 44.5",
-   "odds": -105,
-   "units": 1.0,
-   "gap": null,
-   "start": "2026-11-22T10:00:00",
-   "timed": true,
-   "ticket": "single",
-   "espn": {
-    "legs": [
-     {
-      "kind": "total",
-      "side": null,
-      "ou": "O",
-      "line": 44.5,
-      "label": "O 44.5",
-      "path": "football/nfl",
-      "event": "401873068",
-      "date": "20261122",
-      "snapshot": {
-       "source": "espn",
-       "state": "post",
-       "detail": "Final",
-       "start": "2026-11-22T18:00Z",
-       "period": null,
-       "clock": null,
-       "teams": [
-        {
-         "name": "Baltimore Ravens",
-         "short": "Ravens",
-         "abbr": "BAL",
-         "score": 33,
-         "ha": "away",
-         "winner": false,
-         "linescores": [
-          0,
-          0,
-          0,
-          0
-         ]
-        },
-        {
-         "name": "Carolina Panthers",
-         "short": "Panthers",
-         "abbr": "CAR",
-         "score": 35,
-         "ha": "home",
-         "winner": true,
-         "linescores": [
-          0,
-          0,
-          0,
-          0
-         ]
-        }
-       ]
-      },
-      "source": "espn"
-     }
-    ],
-    "sport": "NFL",
-    "ticket": "single"
-   }
-  },
-  {
-   "n": 963,
-   "league": "NHL",
-   "type": "Over/Under",
-   "matchup": "Chicago Blackhawks @ Vancouver Canucks",
-   "pick": "Under 6.5",
-   "odds": -110,
-   "units": 0.5,
-   "gap": null,
-   "start": "2026-11-22T17:10:00",
-   "timed": true,
-   "ticket": "single",
-   "espn": {
-    "legs": [
-     {
-      "kind": "total",
-      "side": null,
-      "ou": "U",
-      "line": 6.5,
-      "label": "U 6.5",
-      "path": "hockey/nhl",
-      "event": "401892772",
-      "date": "20261122",
-      "snapshot": {
-       "source": "nhl",
-       "state": "post",
-       "detail": "Final",
-       "start": "2026-11-23T01:00:00Z",
-       "period": 3,
-       "clock": "00:00",
-       "teams": [
-        {
-         "name": "Blackhawks",
-         "short": "CHI",
-         "abbr": "CHI",
-         "score": 6,
-         "ha": "away",
-         "winner": true,
-         "linescores": []
-        },
-        {
-         "name": "Canucks",
-         "short": "VAN",
-         "abbr": "VAN",
-         "score": 3,
-         "ha": "home",
-         "winner": false,
-         "linescores": []
-        }
-       ],
-       "nhl_id": 2026020377
-      },
-      "source": "nhl"
-     }
-    ],
-    "sport": "NHL",
-    "ticket": "single"
-   }
-  },
-  {
-   "n": 964,
-   "league": "NFL",
-   "type": "Spread",
-   "matchup": "New Orleans Saints @ Chicago Bears",
-   "pick": "Chicago Bears 1st half -7",
-   "odds": -120,
-   "units": 7.0,
-   "gap": null,
-   "start": "2026-11-22T10:00:00",
-   "timed": true,
-   "ticket": "single",
-   "espn": {
-    "legs": [
-     {
-      "kind": "spread",
-      "side": "Chicago Bears",
-      "line": -7.0,
-      "scope": "1H",
-      "label": "Chicago Bears -7",
-      "path": "football/nfl",
-      "event": "401873071",
-      "date": "20261122",
-      "snapshot": {
-       "source": "espn",
-       "state": "post",
-       "detail": "Final",
-       "start": "2026-11-22T18:00Z",
-       "period": null,
-       "clock": null,
-       "teams": [
-        {
-         "name": "New Orleans Saints",
-         "short": "Saints",
-         "abbr": "NO",
-         "score": 13,
-         "ha": "away",
-         "winner": false,
-         "linescores": [
-          0,
-          0,
-          0,
-          0
-         ]
-        },
-        {
-         "name": "Chicago Bears",
-         "short": "Bears",
-         "abbr": "CHI",
-         "score": 21,
-         "ha": "home",
-         "winner": true,
-         "linescores": [
-          0,
-          0,
-          0,
-          0
-         ]
-        }
-       ]
-      },
-      "source": "espn"
-     }
-    ],
-    "sport": "NFL",
-    "ticket": "single"
-   }
-  },
-  {
-   "n": 966,
-   "league": "NCAAB",
-   "type": "Over/Under",
-   "matchup": "Robert Morris Colonials @ New Mexico State Aggies",
-   "pick": "Over 135",
-   "odds": -110,
-   "units": 1.0,
-   "gap": null,
-   "start": "2026-11-22T11:30:00",
-   "timed": true,
-   "ticket": "single",
-   "espn": {
-    "legs": [
-     {
-      "kind": "total",
-      "side": null,
-      "ou": "O",
-      "line": 135.0,
-      "label": "O 135.0",
-      "path": "basketball/mens-college-basketball",
-      "event": "401928790",
-      "date": "20261122",
-      "snapshot": {
-       "source": "espn",
-       "state": "post",
-       "detail": "Final/OT",
-       "start": "2026-11-22T19:30Z",
-       "period": null,
-       "clock": null,
-       "teams": [
-        {
-         "name": "Robert Morris Colonials",
-         "short": "Colonials",
-         "abbr": "RMU",
-         "score": 84,
-         "ha": "away",
-         "winner": true,
-         "linescores": [
-          0,
-          0,
-          0
-         ]
-        },
-        {
-         "name": "New Mexico State Aggies",
-         "short": "Aggies",
-         "abbr": "NMSU",
-         "score": 79,
-         "ha": "home",
-         "winner": false,
-         "linescores": [
-          0,
-          0,
-          0
-         ]
-        }
-       ]
-      },
-      "source": "espn"
-     }
-    ],
-    "sport": "NCAAB",
-    "ticket": "single"
-   }
-  },
-  {
-   "n": 967,
-   "league": "NHL",
-   "type": "Player Prop",
-   "matchup": "Pittsburgh Penguins @ Dallas Stars",
-   "pick": "Jamie Benn Under 0.5 points",
-   "odds": -135,
-   "units": 1.0,
-   "gap": null,
-   "start": "2026-11-22T16:10:00",
-   "timed": true,
-   "ticket": "single",
-   "espn": {
-    "legs": [
-     {
-      "kind": "prop",
-      "player": "Jamie Benn",
-      "ou": "U",
-      "line": 0.5,
-      "stat": "points",
-      "label": "Jamie Benn U 0.5 points",
-      "path": "hockey/nhl",
-      "event": "401892771",
-      "date": "20261122",
-      "snapshot": {
-       "source": "nhl",
-       "state": "post",
-       "detail": "Final",
-       "start": "2026-11-23T00:00:00Z",
-       "period": 3,
-       "clock": "00:00",
-       "teams": [
-        {
-         "name": "Penguins",
-         "short": "PIT",
-         "abbr": "PIT",
-         "score": 0,
-         "ha": "away",
-         "winner": false,
-         "linescores": []
-        },
-        {
-         "name": "Stars",
-         "short": "DAL",
-         "abbr": "DAL",
-         "score": 1,
-         "ha": "home",
-         "winner": true,
-         "linescores": []
-        }
-       ],
-       "nhl_id": 2026020376,
-       "stat": {
-        "v": 0,
-        "name": "J. Benn"
-       }
-      },
-      "source": "nhl"
-     }
-    ],
-    "sport": "NHL",
-    "ticket": "single"
-   }
-  },
-  {
-   "n": 968,
-   "league": "NCAAB",
-   "type": "Spread",
-   "matchup": "Utah Tech Trailblazers @ South Dakota Coyotes",
-   "pick": "Utah Tech +1.5",
-   "odds": -110,
-   "units": 1.0,
-   "gap": null,
-   "start": "2026-11-22T11:00:00",
-   "timed": true,
-   "ticket": "single",
-   "espn": {
-    "legs": [
-     {
-      "kind": "spread",
-      "side": "Utah Tech",
-      "line": 1.5,
-      "label": "Utah Tech +1.5",
-      "path": "basketball/mens-college-basketball",
-      "event": "401925942",
-      "date": "20261122",
-      "snapshot": {
-       "source": "espn",
-       "state": "post",
-       "detail": "Final",
-       "start": "2026-11-22T19:00Z",
-       "period": null,
-       "clock": null,
-       "teams": [
-        {
-         "name": "South Dakota Coyotes",
-         "short": "Coyotes",
-         "abbr": "SDAK",
-         "score": 74,
-         "ha": "away",
-         "winner": true,
-         "linescores": [
-          0,
-          0
-         ]
-        },
-        {
-         "name": "Utah Tech Trailblazers",
-         "short": "Trailblazers",
-         "abbr": "UTU",
-         "score": 73,
-         "ha": "home",
-         "winner": false,
-         "linescores": [
-          0,
-          0
-         ]
-        }
-       ]
-      },
-      "source": "espn"
-     }
-    ],
-    "sport": "NCAAB",
-    "ticket": "single"
-   }
-  },
-  {
-   "n": 969,
-   "league": "NCAAB",
-   "type": "Spread",
-   "matchup": "Mercyhurst Lakers @ Albany Great Danes",
-   "pick": "Mercyhurst +0.5",
-   "odds": -110,
-   "units": 1.0,
-   "gap": null,
-   "start": "2026-11-22T12:30:00",
-   "timed": true,
-   "ticket": "single",
-   "espn": {
-    "legs": [
-     {
-      "kind": "spread",
-      "side": "Mercyhurst",
-      "line": 0.5,
-      "label": "Mercyhurst +0.5",
-      "unverified": true,
-      "snapshot": {
-       "source": "odds-api",
-       "state": "post",
-       "detail": "Final",
-       "start": "2026-11-22T20:34:01Z",
-       "teams": [
-        {
-         "name": "Mercyhurst Lakers",
-         "short": "Mercyhurst Lakers",
-         "abbr": "",
-         "score": 78,
-         "ha": "away",
-         "winner": true,
-         "linescores": []
-        },
-        {
-         "name": "Albany Great Danes",
-         "short": "Albany Great Danes",
-         "abbr": "",
-         "score": 75,
-         "ha": "home",
-         "winner": false,
-         "linescores": []
-        }
-       ]
-      },
-      "source": "odds-api"
-     }
-    ],
-    "sport": "NCAAB",
-    "ticket": "single"
-   }
-  },
-  {
-   "n": 970,
-   "league": "NCAAB",
-   "type": "Spread",
-   "matchup": "Liberty Flames @ Richmond Spiders",
-   "pick": "Richmond +1.5",
-   "odds": -125,
-   "units": 1.0,
-   "gap": null,
-   "start": "2026-11-22T13:30:00",
-   "timed": true,
-   "ticket": "single",
-   "espn": {
-    "legs": [
-     {
-      "kind": "spread",
-      "side": "Richmond",
-      "line": 1.5,
-      "label": "Richmond +1.5",
-      "path": "basketball/mens-college-basketball",
-      "event": "401926795",
-      "date": "20261122",
-      "snapshot": {
-       "source": "espn",
-       "state": "post",
-       "detail": "Final/2OT",
-       "start": "2026-11-22T21:30Z",
-       "period": null,
-       "clock": null,
-       "teams": [
-        {
-         "name": "Richmond Spiders",
-         "short": "Spiders",
-         "abbr": "RICH",
-         "score": 92,
-         "ha": "away",
-         "winner": true,
-         "linescores": [
-          0,
-          0,
-          0,
-          0
-         ]
-        },
-        {
-         "name": "Liberty Flames",
-         "short": "Flames",
-         "abbr": "LIB",
-         "score": 88,
-         "ha": "home",
-         "winner": false,
-         "linescores": [
-          0,
-          0,
-          0,
-          0
-         ]
-        }
-       ]
-      },
-      "source": "espn"
-     }
-    ],
-    "sport": "NCAAB",
-    "ticket": "single"
-   }
-  },
-  {
    "n": 971,
    "league": "NCAAB",
    "type": "Spread",
@@ -2467,16 +1702,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "9:35 - 2nd",
+       "detail": "9:15 - 2nd",
        "start": "2026-11-23T02:45Z",
        "period": 2,
-       "clock": "9:35",
+       "clock": "9:15",
        "teams": [
         {
          "name": "UC San Diego Tritons",
          "short": "Tritons",
          "abbr": "UCSD",
-         "score": 41,
+         "score": 43,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -2488,7 +1723,7 @@
          "name": "Seattle U Redhawks",
          "short": "Redhawks",
          "abbr": "SEA",
-         "score": 70,
+         "score": 71,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -2503,681 +1738,6 @@
     ],
     "sport": "NCAAB",
     "ticket": "single"
-   }
-  },
-  {
-   "n": 972,
-   "league": "NFL",
-   "type": "Player Prop",
-   "matchup": "Arizona Cardinals @ Kansas City Chiefs",
-   "pick": "Emmett Johnson Over 115.5 Rushing Yards, live",
-   "odds": -120,
-   "units": 10.0,
-   "gap": null,
-   "start": "2026-11-22T10:00:00",
-   "timed": true,
-   "ticket": "single",
-   "espn": {
-    "legs": [
-     {
-      "kind": "prop",
-      "player": "Emmett Johnson",
-      "ou": "O",
-      "line": 115.5,
-      "stat": "rushing yards, live",
-      "label": "Emmett Johnson O 115.5 rushing yards, live",
-      "date": "20261122",
-      "unverified": true,
-      "reason": "Player not found in this game",
-      "snapshot": {
-       "source": "odds-api",
-       "state": "post",
-       "detail": "Final",
-       "start": "2026-11-22T18:02:43Z",
-       "teams": [
-        {
-         "name": "Arizona Cardinals",
-         "short": "Arizona Cardinals",
-         "abbr": "",
-         "score": 7,
-         "ha": "away",
-         "winner": false,
-         "linescores": []
-        },
-        {
-         "name": "Kansas City Chiefs",
-         "short": "Kansas City Chiefs",
-         "abbr": "",
-         "score": 34,
-         "ha": "home",
-         "winner": true,
-         "linescores": []
-        }
-       ]
-      },
-      "source": "odds-api"
-     }
-    ],
-    "sport": "NFL",
-    "ticket": "single"
-   }
-  },
-  {
-   "n": 973,
-   "league": "NHL",
-   "type": "Player Prop",
-   "matchup": "Edmonton Oilers @ St Louis Blues",
-   "pick": "Vasily Podkolzin Over 0.5 Points",
-   "odds": 100,
-   "units": 2.0,
-   "gap": null,
-   "start": "2026-11-22T16:10:00",
-   "timed": true,
-   "ticket": "single",
-   "espn": {
-    "legs": [
-     {
-      "kind": "prop",
-      "player": "Vasily Podkolzin",
-      "ou": "O",
-      "line": 0.5,
-      "stat": "points",
-      "label": "Vasily Podkolzin O 0.5 points",
-      "path": "hockey/nhl",
-      "event": "401892770",
-      "date": "20261122",
-      "snapshot": {
-       "source": "nhl",
-       "state": "post",
-       "detail": "Final/SO",
-       "start": "2026-11-23T00:00:00Z",
-       "period": 5,
-       "clock": "00:00",
-       "teams": [
-        {
-         "name": "Oilers",
-         "short": "EDM",
-         "abbr": "EDM",
-         "score": 4,
-         "ha": "away",
-         "winner": false,
-         "linescores": []
-        },
-        {
-         "name": "Blues",
-         "short": "STL",
-         "abbr": "STL",
-         "score": 5,
-         "ha": "home",
-         "winner": true,
-         "linescores": []
-        }
-       ],
-       "nhl_id": 2026020375,
-       "stat": {
-        "v": 1,
-        "name": "V. Podkolzin"
-       }
-      },
-      "source": "nhl"
-     }
-    ],
-    "sport": "NHL",
-    "ticket": "single"
-   }
-  },
-  {
-   "n": 975,
-   "league": "NHL",
-   "type": "Moneyline",
-   "matchup": "Buffalo Sabres @ Tampa Bay Lightning",
-   "pick": "Tampa Bay Lightning to win in regulation (60-min 3-way ML)",
-   "odds": -127,
-   "units": 1.75,
-   "gap": null,
-   "start": "2026-11-22T14:10:00",
-   "timed": true,
-   "ticket": "single",
-   "espn": {
-    "legs": [
-     {
-      "kind": "ml",
-      "side": "Tampa Bay Lightning",
-      "label": "Tampa Bay Lightning ML",
-      "path": "hockey/nhl",
-      "event": "401892769",
-      "date": "20261122",
-      "snapshot": {
-       "source": "nhl",
-       "state": "post",
-       "detail": "Final",
-       "start": "2026-11-22T22:00:00Z",
-       "period": 3,
-       "clock": "00:00",
-       "teams": [
-        {
-         "name": "Sabres",
-         "short": "BUF",
-         "abbr": "BUF",
-         "score": 6,
-         "ha": "away",
-         "winner": true,
-         "linescores": []
-        },
-        {
-         "name": "Lightning",
-         "short": "TBL",
-         "abbr": "TBL",
-         "score": 2,
-         "ha": "home",
-         "winner": false,
-         "linescores": []
-        }
-       ],
-       "nhl_id": 2026020374
-      },
-      "source": "nhl"
-     }
-    ],
-    "sport": "NHL",
-    "ticket": "single"
-   }
-  },
-  {
-   "n": 976,
-   "league": "NBA",
-   "type": "Player Prop",
-   "matchup": "Oklahoma City Thunder @ Miami Heat",
-   "pick": "Ajay Mitchell Under 4.5 Rebounds",
-   "odds": -115,
-   "units": 1.0,
-   "gap": null,
-   "start": "2026-11-22T15:10:00",
-   "timed": true,
-   "ticket": "single",
-   "espn": {
-    "legs": [
-     {
-      "kind": "prop",
-      "player": "Ajay Mitchell",
-      "ou": "U",
-      "line": 4.5,
-      "stat": "rebounds",
-      "label": "Ajay Mitchell U 4.5 rebounds",
-      "path": "basketball/nba",
-      "event": "401910030",
-      "date": "20261122",
-      "snapshot": {
-       "source": "espn",
-       "state": "post",
-       "detail": "Final",
-       "start": "2026-11-22T23:00Z",
-       "period": null,
-       "clock": null,
-       "teams": [
-        {
-         "name": "Oklahoma City Thunder",
-         "short": "Thunder",
-         "abbr": "OKC",
-         "score": 113,
-         "ha": "away",
-         "winner": false,
-         "linescores": [
-          0,
-          0,
-          0,
-          0
-         ]
-        },
-        {
-         "name": "Miami Heat",
-         "short": "Heat",
-         "abbr": "MIA",
-         "score": 123,
-         "ha": "home",
-         "winner": true,
-         "linescores": [
-          0,
-          0,
-          0,
-          0
-         ]
-        }
-       ],
-       "stat": {
-        "v": 3,
-        "name": "Ajay Mitchell"
-       }
-      },
-      "source": "espn"
-     }
-    ],
-    "sport": "NBA",
-    "ticket": "single"
-   }
-  },
-  {
-   "n": 977,
-   "league": "NFL",
-   "type": "Player Prop",
-   "matchup": "Las Vegas Raiders @ Denver Broncos",
-   "pick": "Ashton Jeanty Over 29.5 Rushing Yards, live",
-   "odds": -110,
-   "units": 10.0,
-   "gap": null,
-   "start": "2026-11-22T13:25:00",
-   "timed": true,
-   "ticket": "single",
-   "espn": {
-    "legs": [
-     {
-      "kind": "prop",
-      "player": "Ashton Jeanty",
-      "ou": "O",
-      "line": 29.5,
-      "stat": "rushing yards, live",
-      "label": "Ashton Jeanty O 29.5 rushing yards, live",
-      "date": "20261122",
-      "unverified": true,
-      "reason": "Player not found in this game",
-      "snapshot": {
-       "source": "odds-api",
-       "state": "post",
-       "detail": "Final",
-       "start": "2026-11-22T21:25:20Z",
-       "teams": [
-        {
-         "name": "Las Vegas Raiders",
-         "short": "Las Vegas Raiders",
-         "abbr": "",
-         "score": 24,
-         "ha": "away",
-         "winner": false,
-         "linescores": []
-        },
-        {
-         "name": "Denver Broncos",
-         "short": "Denver Broncos",
-         "abbr": "",
-         "score": 38,
-         "ha": "home",
-         "winner": true,
-         "linescores": []
-        }
-       ]
-      },
-      "source": "odds-api"
-     }
-    ],
-    "sport": "NFL",
-    "ticket": "single"
-   }
-  },
-  {
-   "n": 979,
-   "league": "NBA",
-   "type": "Player Prop",
-   "matchup": "Oklahoma City Thunder @ Miami Heat",
-   "pick": "Jared McCain Under 20.5 Points",
-   "odds": -120,
-   "units": 1.0,
-   "gap": null,
-   "start": "2026-11-22T15:10:00",
-   "timed": true,
-   "ticket": "single",
-   "espn": {
-    "legs": [
-     {
-      "kind": "prop",
-      "player": "Jared McCain",
-      "ou": "U",
-      "line": 20.5,
-      "stat": "points",
-      "label": "Jared McCain U 20.5 points",
-      "path": "basketball/nba",
-      "event": "401910030",
-      "date": "20261122",
-      "snapshot": {
-       "source": "espn",
-       "state": "post",
-       "detail": "Final",
-       "start": "2026-11-22T23:00Z",
-       "period": null,
-       "clock": null,
-       "teams": [
-        {
-         "name": "Oklahoma City Thunder",
-         "short": "Thunder",
-         "abbr": "OKC",
-         "score": 113,
-         "ha": "away",
-         "winner": false,
-         "linescores": [
-          0,
-          0,
-          0,
-          0
-         ]
-        },
-        {
-         "name": "Miami Heat",
-         "short": "Heat",
-         "abbr": "MIA",
-         "score": 123,
-         "ha": "home",
-         "winner": true,
-         "linescores": [
-          0,
-          0,
-          0,
-          0
-         ]
-        }
-       ],
-       "stat": {
-        "v": 20,
-        "name": "Jared McCain"
-       }
-      },
-      "source": "espn"
-     }
-    ],
-    "sport": "NBA",
-    "ticket": "single"
-   }
-  },
-  {
-   "n": 980,
-   "league": "NBA",
-   "type": "Player Prop",
-   "matchup": "Oklahoma City Thunder @ Miami Heat",
-   "pick": "Andrew Wiggins Under 3.5 Rebounds",
-   "odds": 125,
-   "units": 1.0,
-   "gap": null,
-   "start": "2026-11-22T15:10:00",
-   "timed": true,
-   "ticket": "single",
-   "espn": {
-    "legs": [
-     {
-      "kind": "prop",
-      "player": "Andrew Wiggins",
-      "ou": "U",
-      "line": 3.5,
-      "stat": "rebounds",
-      "label": "Andrew Wiggins U 3.5 rebounds",
-      "path": "basketball/nba",
-      "event": "401910030",
-      "date": "20261122",
-      "snapshot": {
-       "source": "espn",
-       "state": "post",
-       "detail": "Final",
-       "start": "2026-11-22T23:00Z",
-       "period": null,
-       "clock": null,
-       "teams": [
-        {
-         "name": "Oklahoma City Thunder",
-         "short": "Thunder",
-         "abbr": "OKC",
-         "score": 113,
-         "ha": "away",
-         "winner": false,
-         "linescores": [
-          0,
-          0,
-          0,
-          0
-         ]
-        },
-        {
-         "name": "Miami Heat",
-         "short": "Heat",
-         "abbr": "MIA",
-         "score": 123,
-         "ha": "home",
-         "winner": true,
-         "linescores": [
-          0,
-          0,
-          0,
-          0
-         ]
-        }
-       ],
-       "stat": {
-        "v": 2,
-        "name": "Andrew Wiggins"
-       }
-      },
-      "source": "espn"
-     }
-    ],
-    "sport": "NBA",
-    "ticket": "single"
-   }
-  },
-  {
-   "n": 981,
-   "league": "NFL",
-   "type": "Parlay",
-   "matchup": "Same-game parlay, Jacksonville Jaguars @ New York Giants",
-   "pick": "Parker Washington anytime TD + Bhayshul Tuten anytime TD + Isaiah Likely 3+ receptions + Bhayshul Tuten 60+ rushing yds + T. Lawrence 225+ passing yds; 0.5u at +550 (book not named on the slip). OFFICIAL user-directed pregame bet, recorded Nov 22 2026 ~1:16 PM PT (split from the original single #974 row on correction). Tracker record only; no sportsbook wager execution by us.",
-   "odds": 550,
-   "units": 0.5,
-   "gap": null,
-   "start": "2026-11-22T13:25:00",
-   "timed": true,
-   "ticket": "sgp",
-   "espn": {
-    "legs": [
-     {
-      "kind": "prop",
-      "player": "Parker Washington",
-      "ou": "O",
-      "line": 0.5,
-      "stat": "anytime td",
-      "label": "Parker Washington O 0.5 anytime td",
-      "date": "20261122",
-      "unverified": true,
-      "reason": "Player not found in this game",
-      "snapshot": {
-       "source": "odds-api",
-       "state": "post",
-       "detail": "Final",
-       "start": "2026-11-22T21:25:20Z",
-       "teams": [
-        {
-         "name": "Jacksonville Jaguars",
-         "short": "Jacksonville Jaguars",
-         "abbr": "",
-         "score": 18,
-         "ha": "away",
-         "winner": false,
-         "linescores": []
-        },
-        {
-         "name": "New York Giants",
-         "short": "New York Giants",
-         "abbr": "",
-         "score": 23,
-         "ha": "home",
-         "winner": true,
-         "linescores": []
-        }
-       ]
-      },
-      "source": "odds-api"
-     },
-     {
-      "kind": "prop",
-      "player": "Bhayshul Tuten",
-      "ou": "O",
-      "line": 0.5,
-      "stat": "anytime td",
-      "label": "Bhayshul Tuten O 0.5 anytime td",
-      "date": "20261122",
-      "unverified": true,
-      "reason": "Player not found in this game",
-      "snapshot": {
-       "source": "odds-api",
-       "state": "post",
-       "detail": "Final",
-       "start": "2026-11-22T21:25:20Z",
-       "teams": [
-        {
-         "name": "Jacksonville Jaguars",
-         "short": "Jacksonville Jaguars",
-         "abbr": "",
-         "score": 18,
-         "ha": "away",
-         "winner": false,
-         "linescores": []
-        },
-        {
-         "name": "New York Giants",
-         "short": "New York Giants",
-         "abbr": "",
-         "score": 23,
-         "ha": "home",
-         "winner": true,
-         "linescores": []
-        }
-       ]
-      },
-      "source": "odds-api"
-     },
-     {
-      "kind": "prop",
-      "player": "Isaiah Likely",
-      "ou": "O",
-      "line": 2.5,
-      "stat": "receptions",
-      "label": "Isaiah Likely O 2.5 receptions",
-      "path": "football/nfl",
-      "event": "401873069",
-      "date": "20261122",
-      "snapshot": {
-       "source": "espn",
-       "state": "post",
-       "detail": "Final",
-       "start": "2026-11-22T21:25Z",
-       "period": null,
-       "clock": null,
-       "teams": [
-        {
-         "name": "Jacksonville Jaguars",
-         "short": "Jaguars",
-         "abbr": "JAX",
-         "score": 18,
-         "ha": "away",
-         "winner": false,
-         "linescores": [
-          0,
-          0,
-          0,
-          0
-         ]
-        },
-        {
-         "name": "New York Giants",
-         "short": "Giants",
-         "abbr": "NYG",
-         "score": 23,
-         "ha": "home",
-         "winner": true,
-         "linescores": [
-          0,
-          0,
-          0,
-          0
-         ]
-        }
-       ],
-       "stat": {
-        "v": 1,
-        "name": "Isaiah Likely"
-       }
-      },
-      "source": "espn"
-     },
-     {
-      "kind": "prop",
-      "player": "Bhayshul Tuten",
-      "ou": "O",
-      "line": 59.5,
-      "stat": "rushing yds",
-      "label": "Bhayshul Tuten O 59.5 rushing yds",
-      "date": "20261122",
-      "unverified": true,
-      "reason": "Player not found in this game",
-      "snapshot": {
-       "source": "odds-api",
-       "state": "post",
-       "detail": "Final",
-       "start": "2026-11-22T21:25:20Z",
-       "teams": [
-        {
-         "name": "Jacksonville Jaguars",
-         "short": "Jacksonville Jaguars",
-         "abbr": "",
-         "score": 18,
-         "ha": "away",
-         "winner": false,
-         "linescores": []
-        },
-        {
-         "name": "New York Giants",
-         "short": "New York Giants",
-         "abbr": "",
-         "score": 23,
-         "ha": "home",
-         "winner": true,
-         "linescores": []
-        }
-       ]
-      },
-      "source": "odds-api"
-     },
-     {
-      "kind": "spread",
-      "side": "T. Lawrence 225+ passing yds; 0.5u at",
-      "line": 550.0,
-      "label": "T. Lawrence 225+ passing yds; 0.5u at +550",
-      "unverified": true,
-      "snapshot": {
-       "source": "odds-api",
-       "state": "post",
-       "detail": "Final",
-       "start": "2026-11-22T21:25:20Z",
-       "teams": [
-        {
-         "name": "Jacksonville Jaguars",
-         "short": "Jacksonville Jaguars",
-         "abbr": "",
-         "score": 18,
-         "ha": "away",
-         "winner": false,
-         "linescores": []
-        },
-        {
-         "name": "New York Giants",
-         "short": "New York Giants",
-         "abbr": "",
-         "score": 23,
-         "ha": "home",
-         "winner": true,
-         "linescores": []
-        }
-       ]
-      },
-      "source": "odds-api"
-     }
-    ],
-    "sport": "NFL",
-    "ticket": "sgp"
    }
   }
  ],
@@ -3343,8 +1903,8 @@
    "n": 22
   },
   "2026-11-22": {
-   "u": 6.86,
-   "n": 2
+   "u": 4.47,
+   "n": 23
   }
  }
 }
