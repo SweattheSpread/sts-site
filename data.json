@@ -1,5 +1,5 @@
 {
- "updated": "Nov 22, 2026, 8:15 PM PT",
+ "updated": "Nov 22, 2026, 8:17 PM PT",
  "record": {
   "w": 253,
   "l": 246,
@@ -754,10 +754,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "3:46 - 4th",
+       "detail": "3:16 - 4th",
        "start": "2026-11-23T01:20Z",
        "period": 4,
-       "clock": "3:46",
+       "clock": "3:16",
        "teams": [
         {
          "name": "Minnesota Vikings",
@@ -1501,10 +1501,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "3:46 - 4th",
+       "detail": "3:16 - 4th",
        "start": "2026-11-23T01:20Z",
        "period": 4,
-       "clock": "3:46",
+       "clock": "3:16",
        "teams": [
         {
          "name": "Minnesota Vikings",
@@ -1702,16 +1702,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "8:48 - 2nd",
+       "detail": "7:37 - 2nd",
        "start": "2026-11-23T02:45Z",
        "period": 2,
-       "clock": "8:48",
+       "clock": "7:37",
        "teams": [
         {
          "name": "UC San Diego Tritons",
          "short": "Tritons",
          "abbr": "UCSD",
-         "score": 43,
+         "score": 45,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -1723,7 +1723,7 @@
          "name": "Seattle U Redhawks",
          "short": "Redhawks",
          "abbr": "SEA",
-         "score": 71,
+         "score": 72,
          "ha": "home",
          "winner": null,
          "linescores": [
