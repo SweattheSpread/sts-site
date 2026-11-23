@@ -1,5 +1,5 @@
 {
- "updated": "Nov 22, 2026, 5:35 PM PT",
+ "updated": "Nov 22, 2026, 5:37 PM PT",
  "record": {
   "w": 240,
   "l": 237,
@@ -811,10 +811,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "11:16 - 1st",
+       "detail": "9:13 - 1st",
        "start": "2026-11-23T01:20Z",
        "period": 1,
-       "clock": "11:16",
+       "clock": "9:13",
        "teams": [
         {
          "name": "Minnesota Vikings",
@@ -1552,10 +1552,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "11:16 - 1st",
+       "detail": "9:13 - 1st",
        "start": "2026-11-23T01:20Z",
        "period": 1,
-       "clock": "11:16",
+       "clock": "9:13",
        "teams": [
         {
          "name": "Minnesota Vikings",
@@ -2073,10 +2073,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P1 10:14",
+       "detail": "P1 08:48",
        "start": "2026-11-23T01:00:00Z",
        "period": 1,
-       "clock": "10:14",
+       "clock": "08:48",
        "teams": [
         {
          "name": "Blackhawks",
@@ -2201,16 +2201,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "40.4 - 1st",
+       "detail": "End of 1st",
        "start": "2026-11-23T01:00Z",
        "period": 1,
-       "clock": "40.4",
+       "clock": "0.1",
        "teams": [
         {
          "name": "Indiana Pacers",
          "short": "Pacers",
          "abbr": "IND",
-         "score": 23,
+         "score": 26,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -2221,7 +2221,7 @@
          "name": "New York Knicks",
          "short": "Knicks",
          "abbr": "NY",
-         "score": 24,
+         "score": 26,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -2331,10 +2331,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P2 02:16",
+       "detail": "P2 00:43",
        "start": "2026-11-23T00:00:00Z",
        "period": 2,
-       "clock": "02:16",
+       "clock": "00:43",
        "teams": [
         {
          "name": "Penguins",
@@ -2635,16 +2635,16 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P2 02:16",
+       "detail": "P2 01:31",
        "start": "2026-11-23T00:00:00Z",
        "period": 2,
-       "clock": "02:16",
+       "clock": "01:31",
        "teams": [
         {
          "name": "Oilers",
          "short": "EDM",
          "abbr": "EDM",
-         "score": 2,
+         "score": 3,
          "ha": "away",
          "winner": null,
          "linescores": []
@@ -2653,7 +2653,7 @@
          "name": "Blues",
          "short": "STL",
          "abbr": "STL",
-         "score": 0,
+         "score": 1,
          "ha": "home",
          "winner": null,
          "linescores": []
@@ -3252,10 +3252,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "11:16 - 1st",
+       "detail": "9:13 - 1st",
        "start": "2026-11-23T01:20Z",
        "period": 1,
-       "clock": "11:16",
+       "clock": "9:13",
        "teams": [
         {
          "name": "Minnesota Vikings",
@@ -3296,10 +3296,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "11:16 - 1st",
+       "detail": "9:13 - 1st",
        "start": "2026-11-23T01:20Z",
        "period": 1,
-       "clock": "11:16",
+       "clock": "9:13",
        "teams": [
         {
          "name": "Minnesota Vikings",
@@ -3341,10 +3341,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "11:16 - 1st",
+       "detail": "9:13 - 1st",
        "start": "2026-11-23T01:20Z",
        "period": 1,
-       "clock": "11:16",
+       "clock": "9:13",
        "teams": [
         {
          "name": "Minnesota Vikings",
@@ -3388,10 +3388,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "11:16 - 1st",
+       "detail": "9:13 - 1st",
        "start": "2026-11-23T01:20Z",
        "period": 1,
-       "clock": "11:16",
+       "clock": "9:13",
        "teams": [
         {
          "name": "Minnesota Vikings",
