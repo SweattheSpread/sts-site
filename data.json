@@ -1,5 +1,5 @@
 {
- "updated": "Nov 22, 2026, 6:55 PM PT",
+ "updated": "Nov 22, 2026, 6:58 PM PT",
  "record": {
   "w": 241,
   "l": 237,
@@ -2020,10 +2020,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P2 13:36",
+       "detail": "P2 10:52",
        "start": "2026-11-23T01:00:00Z",
        "period": 2,
-       "clock": "13:36",
+       "clock": "10:52",
        "teams": [
         {
          "name": "Blackhawks",
@@ -2459,16 +2459,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "14:13 - 1st",
+       "detail": "13:06 - 1st",
        "start": "2026-11-23T02:45Z",
        "period": 1,
-       "clock": "14:13",
+       "clock": "13:06",
        "teams": [
         {
          "name": "UC San Diego Tritons",
          "short": "Tritons",
          "abbr": "UCSD",
-         "score": 6,
+         "score": 7,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -2479,7 +2479,7 @@
          "name": "Seattle U Redhawks",
          "short": "Redhawks",
          "abbr": "SEA",
-         "score": 17,
+         "score": 19,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -2578,8 +2578,8 @@
       "date": "20261122",
       "snapshot": {
        "source": "nhl",
-       "state": "in",
-       "detail": "P5 00:00",
+       "state": "post",
+       "detail": "Final/SO",
        "start": "2026-11-23T00:00:00Z",
        "period": 5,
        "clock": "00:00",
@@ -2590,16 +2590,16 @@
          "abbr": "EDM",
          "score": 4,
          "ha": "away",
-         "winner": null,
+         "winner": false,
          "linescores": []
         },
         {
          "name": "Blues",
          "short": "STL",
          "abbr": "STL",
-         "score": 4,
+         "score": 5,
          "ha": "home",
-         "winner": null,
+         "winner": true,
          "linescores": []
         }
        ],
