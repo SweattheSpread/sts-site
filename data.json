@@ -1,5 +1,5 @@
 {
- "updated": "Nov 22, 2026, 5:58 PM PT",
+ "updated": "Nov 22, 2026, 6:00 PM PT",
  "record": {
   "w": 241,
   "l": 237,
@@ -2073,10 +2073,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P1 15:35",
+       "detail": "P1 13:20",
        "start": "2026-11-23T01:00:00Z",
        "period": 1,
-       "clock": "15:35",
+       "clock": "13:20",
        "teams": [
         {
          "name": "Blackhawks",
@@ -2267,10 +2267,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P3 19:35",
+       "detail": "P3 18:39",
        "start": "2026-11-23T00:00:00Z",
        "period": 3,
-       "clock": "19:35",
+       "clock": "18:39",
        "teams": [
         {
          "name": "Penguins",
@@ -2571,10 +2571,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P3 20:00",
+       "detail": "P3 19:34",
        "start": "2026-11-23T00:00:00Z",
        "period": 3,
-       "clock": "20:00",
+       "clock": "19:34",
        "teams": [
         {
          "name": "Oilers",
