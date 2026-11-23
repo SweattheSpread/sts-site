@@ -1,5 +1,5 @@
 {
- "updated": "Nov 22, 2026, 5:55 PM PT",
+ "updated": "Nov 22, 2026, 5:58 PM PT",
  "record": {
   "w": 241,
   "l": 237,
@@ -811,16 +811,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "1:18 - 1st",
+       "detail": "1:13 - 1st",
        "start": "2026-11-23T01:20Z",
        "period": 1,
-       "clock": "1:18",
+       "clock": "1:13",
        "teams": [
         {
          "name": "Minnesota Vikings",
          "short": "Vikings",
          "abbr": "MIN",
-         "score": 0,
+         "score": 7,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -1552,16 +1552,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "1:18 - 1st",
+       "detail": "1:13 - 1st",
        "start": "2026-11-23T01:20Z",
        "period": 1,
-       "clock": "1:18",
+       "clock": "1:13",
        "teams": [
         {
          "name": "Minnesota Vikings",
          "short": "Vikings",
          "abbr": "MIN",
-         "score": 0,
+         "score": 7,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -2073,10 +2073,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P1 00:58",
+       "detail": "P1 15:35",
        "start": "2026-11-23T01:00:00Z",
        "period": 1,
-       "clock": "00:58",
+       "clock": "15:35",
        "teams": [
         {
          "name": "Blackhawks",
@@ -2267,10 +2267,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P2 00:25",
+       "detail": "P3 19:35",
        "start": "2026-11-23T00:00:00Z",
-       "period": 2,
-       "clock": "00:25",
+       "period": 3,
+       "clock": "19:35",
        "teams": [
         {
          "name": "Penguins",
@@ -2571,10 +2571,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P2 02:38",
+       "detail": "P3 20:00",
        "start": "2026-11-23T00:00:00Z",
-       "period": 2,
-       "clock": "02:38",
+       "period": 3,
+       "clock": "20:00",
        "teams": [
         {
          "name": "Oilers",
@@ -3188,16 +3188,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "1:18 - 1st",
+       "detail": "1:13 - 1st",
        "start": "2026-11-23T01:20Z",
        "period": 1,
-       "clock": "1:18",
+       "clock": "1:13",
        "teams": [
         {
          "name": "Minnesota Vikings",
          "short": "Vikings",
          "abbr": "MIN",
-         "score": 0,
+         "score": 7,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -3232,16 +3232,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "1:18 - 1st",
+       "detail": "1:13 - 1st",
        "start": "2026-11-23T01:20Z",
        "period": 1,
-       "clock": "1:18",
+       "clock": "1:13",
        "teams": [
         {
          "name": "Minnesota Vikings",
          "short": "Vikings",
          "abbr": "MIN",
-         "score": 0,
+         "score": 7,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -3277,16 +3277,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "1:18 - 1st",
+       "detail": "1:13 - 1st",
        "start": "2026-11-23T01:20Z",
        "period": 1,
-       "clock": "1:18",
+       "clock": "1:13",
        "teams": [
         {
          "name": "Minnesota Vikings",
          "short": "Vikings",
          "abbr": "MIN",
-         "score": 0,
+         "score": 7,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -3324,16 +3324,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "1:18 - 1st",
+       "detail": "1:13 - 1st",
        "start": "2026-11-23T01:20Z",
        "period": 1,
-       "clock": "1:18",
+       "clock": "1:13",
        "teams": [
         {
          "name": "Minnesota Vikings",
          "short": "Vikings",
          "abbr": "MIN",
-         "score": 0,
+         "score": 7,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -3371,7 +3371,7 @@
          "name": "Minnesota Vikings",
          "short": "Minnesota Vikings",
          "abbr": "",
-         "score": 0,
+         "score": 7,
          "ha": "away",
          "winner": null,
          "linescores": []
