@@ -1,5 +1,5 @@
 {
- "updated": "Nov 22, 2026, 4:40 PM PT",
+ "updated": "Nov 22, 2026, 4:42 PM PT",
  "record": {
   "w": 239,
   "l": 237,
@@ -910,10 +910,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "1:27 - 4th",
+       "detail": "1:16 - 4th",
        "start": "2026-11-22T21:25Z",
        "period": 4,
-       "clock": "1:27",
+       "clock": "1:16",
        "teams": [
         {
          "name": "Las Vegas Raiders",
@@ -1316,10 +1316,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "1:27 - 4th",
+       "detail": "1:16 - 4th",
        "start": "2026-11-22T21:25Z",
        "period": 4,
-       "clock": "1:27",
+       "clock": "1:16",
        "teams": [
         {
          "name": "Las Vegas Raiders",
@@ -1384,10 +1384,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "4:54 - 4th",
+       "detail": "4:00 - 4th",
        "start": "2026-11-22T21:25Z",
        "period": 4,
-       "clock": "4:54",
+       "clock": "4:00",
        "teams": [
         {
          "name": "Jacksonville Jaguars",
@@ -2318,10 +2318,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P1 01:52",
+       "detail": "P1 00:47",
        "start": "2026-11-23T00:00:00Z",
        "period": 1,
-       "clock": "01:52",
+       "clock": "00:47",
        "teams": [
         {
          "name": "Penguins",
@@ -2622,10 +2622,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P1 01:08",
+       "detail": "P1 00:00",
        "start": "2026-11-23T00:00:00Z",
        "period": 1,
-       "clock": "01:08",
+       "clock": "00:00",
        "teams": [
         {
          "name": "Oilers",
@@ -2686,10 +2686,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "1:27 - 4th",
+       "detail": "1:16 - 4th",
        "start": "2026-11-22T21:25Z",
        "period": 4,
-       "clock": "1:27",
+       "clock": "1:16",
        "teams": [
         {
          "name": "Las Vegas Raiders",
@@ -2737,10 +2737,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "1:27 - 4th",
+       "detail": "1:16 - 4th",
        "start": "2026-11-22T21:25Z",
        "period": 4,
-       "clock": "1:27",
+       "clock": "1:16",
        "teams": [
         {
          "name": "Las Vegas Raiders",
@@ -2788,10 +2788,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "1:27 - 4th",
+       "detail": "1:16 - 4th",
        "start": "2026-11-22T21:25Z",
        "period": 4,
-       "clock": "1:27",
+       "clock": "1:16",
        "teams": [
         {
          "name": "Las Vegas Raiders",
@@ -2839,10 +2839,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "1:27 - 4th",
+       "detail": "1:16 - 4th",
        "start": "2026-11-22T21:25Z",
        "period": 4,
-       "clock": "1:27",
+       "clock": "1:16",
        "teams": [
         {
          "name": "Las Vegas Raiders",
@@ -2890,10 +2890,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "4:54 - 4th",
+       "detail": "4:00 - 4th",
        "start": "2026-11-22T21:25Z",
        "period": 4,
-       "clock": "4:54",
+       "clock": "4:00",
        "teams": [
         {
          "name": "Jacksonville Jaguars",
@@ -2941,10 +2941,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "4:54 - 4th",
+       "detail": "4:00 - 4th",
        "start": "2026-11-22T21:25Z",
        "period": 4,
-       "clock": "4:54",
+       "clock": "4:00",
        "teams": [
         {
          "name": "Jacksonville Jaguars",
@@ -2992,10 +2992,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "4:54 - 4th",
+       "detail": "4:00 - 4th",
        "start": "2026-11-22T21:25Z",
        "period": 4,
-       "clock": "4:54",
+       "clock": "4:00",
        "teams": [
         {
          "name": "Jacksonville Jaguars",
@@ -3046,10 +3046,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "4:54 - 4th",
+       "detail": "4:00 - 4th",
        "start": "2026-11-22T21:25Z",
        "period": 4,
-       "clock": "4:54",
+       "clock": "4:00",
        "teams": [
         {
          "name": "Jacksonville Jaguars",
@@ -3097,10 +3097,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "4:54 - 4th",
+       "detail": "4:00 - 4th",
        "start": "2026-11-22T21:25Z",
        "period": 4,
-       "clock": "4:54",
+       "clock": "4:00",
        "teams": [
         {
          "name": "Jacksonville Jaguars",
@@ -3224,16 +3224,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "3:50 - 3rd",
+       "detail": "3:21 - 3rd",
        "start": "2026-11-22T23:00Z",
        "period": 3,
-       "clock": "3:50",
+       "clock": "3:21",
        "teams": [
         {
          "name": "Oklahoma City Thunder",
          "short": "Thunder",
          "abbr": "OKC",
-         "score": 68,
+         "score": 71,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -3295,10 +3295,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "1:27 - 4th",
+       "detail": "1:16 - 4th",
        "start": "2026-11-22T21:25Z",
        "period": 4,
-       "clock": "1:27",
+       "clock": "1:16",
        "teams": [
         {
          "name": "Las Vegas Raiders",
@@ -3365,10 +3365,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "1:27 - 4th",
+       "detail": "1:16 - 4th",
        "start": "2026-11-22T21:25Z",
        "period": 4,
-       "clock": "1:27",
+       "clock": "1:16",
        "teams": [
         {
          "name": "Las Vegas Raiders",
@@ -3435,16 +3435,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "3:50 - 3rd",
+       "detail": "3:21 - 3rd",
        "start": "2026-11-22T23:00Z",
        "period": 3,
-       "clock": "3:50",
+       "clock": "3:21",
        "teams": [
         {
          "name": "Oklahoma City Thunder",
          "short": "Thunder",
          "abbr": "OKC",
-         "score": 68,
+         "score": 71,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -3506,16 +3506,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "3:50 - 3rd",
+       "detail": "3:21 - 3rd",
        "start": "2026-11-22T23:00Z",
        "period": 3,
-       "clock": "3:50",
+       "clock": "3:21",
        "teams": [
         {
          "name": "Oklahoma City Thunder",
          "short": "Thunder",
          "abbr": "OKC",
-         "score": 68,
+         "score": 71,
          "ha": "away",
          "winner": null,
          "linescores": [
