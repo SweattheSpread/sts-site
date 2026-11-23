@@ -1,5 +1,5 @@
 {
- "updated": "Nov 22, 2026, 5:16 PM PT",
+ "updated": "Nov 22, 2026, 5:18 PM PT",
  "record": {
   "w": 240,
   "l": 237,
@@ -2249,10 +2249,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P1 17:44",
+       "detail": "P1 17:07",
        "start": "2026-11-23T01:00:00Z",
        "period": 1,
-       "clock": "17:44",
+       "clock": "17:07",
        "teams": [
         {
          "name": "Blackhawks",
@@ -2377,16 +2377,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "8:35 - 1st",
+       "detail": "6:50 - 1st",
        "start": "2026-11-23T01:00Z",
        "period": 1,
-       "clock": "8:35",
+       "clock": "6:50",
        "teams": [
         {
          "name": "Indiana Pacers",
          "short": "Pacers",
          "abbr": "IND",
-         "score": 4,
+         "score": 9,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -2397,7 +2397,7 @@
          "name": "New York Knicks",
          "short": "Knicks",
          "abbr": "NY",
-         "score": 6,
+         "score": 13,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -2507,10 +2507,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P2 11:35",
+       "detail": "P2 09:42",
        "start": "2026-11-23T00:00:00Z",
        "period": 2,
-       "clock": "11:35",
+       "clock": "09:42",
        "teams": [
         {
          "name": "Penguins",
@@ -2811,10 +2811,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P2 11:15",
+       "detail": "P2 10:45",
        "start": "2026-11-23T00:00:00Z",
        "period": 2,
-       "clock": "11:15",
+       "clock": "10:45",
        "teams": [
         {
          "name": "Oilers",
@@ -2932,16 +2932,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "3:08 - 4th",
+       "detail": "1:32 - 4th",
        "start": "2026-11-22T23:00Z",
        "period": 4,
-       "clock": "3:08",
+       "clock": "1:32",
        "teams": [
         {
          "name": "Oklahoma City Thunder",
          "short": "Thunder",
          "abbr": "OKC",
-         "score": 106,
+         "score": 108,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -2955,7 +2955,7 @@
          "name": "Miami Heat",
          "short": "Heat",
          "abbr": "MIA",
-         "score": 119,
+         "score": 121,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -3062,16 +3062,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "3:08 - 4th",
+       "detail": "1:32 - 4th",
        "start": "2026-11-22T23:00Z",
        "period": 4,
-       "clock": "3:08",
+       "clock": "1:32",
        "teams": [
         {
          "name": "Oklahoma City Thunder",
          "short": "Thunder",
          "abbr": "OKC",
-         "score": 106,
+         "score": 108,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -3085,7 +3085,7 @@
          "name": "Miami Heat",
          "short": "Heat",
          "abbr": "MIA",
-         "score": 119,
+         "score": 121,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -3135,16 +3135,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "3:08 - 4th",
+       "detail": "1:32 - 4th",
        "start": "2026-11-22T23:00Z",
        "period": 4,
-       "clock": "3:08",
+       "clock": "1:32",
        "teams": [
         {
          "name": "Oklahoma City Thunder",
          "short": "Thunder",
          "abbr": "OKC",
-         "score": 106,
+         "score": 108,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -3158,7 +3158,7 @@
          "name": "Miami Heat",
          "short": "Heat",
          "abbr": "MIA",
-         "score": 119,
+         "score": 121,
          "ha": "home",
          "winner": null,
          "linescores": [
