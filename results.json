@@ -1,5 +1,5 @@
 {
- "updated": "Nov 22, 2026, 5:08 PM PT",
+ "updated": "Nov 22, 2026, 5:11 PM PT",
  "record": {
   "w": 240,
   "l": 237,
@@ -11,7 +11,7 @@
   "first": "2026-10-12",
   "last": "2026-11-22"
  },
- "pending": 47,
+ "pending": 49,
  "plays": [
   {
    "n": 334,
@@ -8393,6 +8393,38 @@
    "pick": "2-leg parlay of SGPs (Raiders @ Broncos SGP +425 x Jaguars @ Giants SGP +550; legs as in #974 and #981)",
    "odds": 3313,
    "units": 0.2,
+   "result": null,
+   "pl": null,
+   "pending": true
+  },
+  {
+   "n": 983,
+   "date": "2026-11-22",
+   "day": "2026-11-22",
+   "league": "NFL",
+   "market": "parlay",
+   "market_label": "SGP",
+   "ticket": "sgp",
+   "matchup": "Same-game parlay, Minnesota Vikings @ San Francisco 49ers",
+   "pick": "Vikings team points Over 16.5 + C. McCaffrey 3+ receptions + A. Van Ginkel 1+ sacks + K. Cousins Over 35.5 pass attempts + K. Cousins 200+ passing yds",
+   "odds": 475,
+   "units": 1.0,
+   "result": null,
+   "pl": null,
+   "pending": true
+  },
+  {
+   "n": 984,
+   "date": "2026-11-22",
+   "day": "2026-11-22",
+   "league": "NFL",
+   "market": "team_total",
+   "market_label": "Team Total",
+   "ticket": "single",
+   "matchup": "Minnesota Vikings @ San Francisco 49ers",
+   "pick": "Vikings team total Over 19.5",
+   "odds": -145,
+   "units": 10.0,
    "result": null,
    "pl": null,
    "pending": true
