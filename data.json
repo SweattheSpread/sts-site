@@ -1,5 +1,5 @@
 {
- "updated": "Nov 22, 2026, 5:25 PM PT",
+ "updated": "Nov 22, 2026, 5:28 PM PT",
  "record": {
   "w": 240,
   "l": 237,
@@ -811,10 +811,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "14:55 - 1st",
+       "detail": "13:07 - 1st",
        "start": "2026-11-23T01:20Z",
        "period": 1,
-       "clock": "14:55",
+       "clock": "13:07",
        "teams": [
         {
          "name": "Minnesota Vikings",
@@ -1552,10 +1552,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "14:55 - 1st",
+       "detail": "13:07 - 1st",
        "start": "2026-11-23T01:20Z",
        "period": 1,
-       "clock": "14:55",
+       "clock": "13:07",
        "teams": [
         {
          "name": "Minnesota Vikings",
@@ -2201,10 +2201,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "3:38 - 1st",
+       "detail": "3:07 - 1st",
        "start": "2026-11-23T01:00Z",
        "period": 1,
-       "clock": "3:38",
+       "clock": "3:07",
        "teams": [
         {
          "name": "Indiana Pacers",
@@ -2221,7 +2221,7 @@
          "name": "New York Knicks",
          "short": "Knicks",
          "abbr": "NY",
-         "score": 16,
+         "score": 18,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -2331,10 +2331,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P2 05:58",
+       "detail": "P2 05:20",
        "start": "2026-11-23T00:00:00Z",
        "period": 2,
-       "clock": "05:58",
+       "clock": "05:20",
        "teams": [
         {
          "name": "Penguins",
@@ -2635,10 +2635,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P2 08:11",
+       "detail": "P2 06:03",
        "start": "2026-11-23T00:00:00Z",
        "period": 2,
-       "clock": "08:11",
+       "clock": "06:03",
        "teams": [
         {
          "name": "Oilers",
@@ -3252,10 +3252,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "14:55 - 1st",
+       "detail": "13:07 - 1st",
        "start": "2026-11-23T01:20Z",
        "period": 1,
-       "clock": "14:55",
+       "clock": "13:07",
        "teams": [
         {
          "name": "Minnesota Vikings",
@@ -3296,10 +3296,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "14:55 - 1st",
+       "detail": "13:07 - 1st",
        "start": "2026-11-23T01:20Z",
        "period": 1,
-       "clock": "14:55",
+       "clock": "13:07",
        "teams": [
         {
          "name": "Minnesota Vikings",
@@ -3341,10 +3341,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "14:55 - 1st",
+       "detail": "13:07 - 1st",
        "start": "2026-11-23T01:20Z",
        "period": 1,
-       "clock": "14:55",
+       "clock": "13:07",
        "teams": [
         {
          "name": "Minnesota Vikings",
@@ -3369,7 +3369,10 @@
          ]
         }
        ],
-       "stat": null
+       "stat": {
+        "v": 0,
+        "name": "Andrew Van Ginkel"
+       }
       },
       "source": "espn"
      },
@@ -3385,10 +3388,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "14:55 - 1st",
+       "detail": "13:07 - 1st",
        "start": "2026-11-23T01:20Z",
        "period": 1,
-       "clock": "14:55",
+       "clock": "13:07",
        "teams": [
         {
          "name": "Minnesota Vikings",
