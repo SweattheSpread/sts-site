@@ -1,5 +1,5 @@
 {
- "updated": "Nov 23, 2026, 9:13 AM PT",
+ "updated": "Nov 23, 2026, 9:17 AM PT",
  "record": {
   "w": 261,
   "l": 255,
@@ -11,7 +11,7 @@
   "first": "2026-10-12",
   "last": "2026-11-22"
  },
- "pending": 17,
+ "pending": 18,
  "latest": [
   {
    "n": 982,
@@ -442,6 +442,64 @@
      }
     ],
     "sport": "NBA",
+    "ticket": "single"
+   }
+  },
+  {
+   "n": 993,
+   "league": "NCAAB",
+   "type": "Over/Under",
+   "matchup": "VCU Rams @ Providence Friars",
+   "pick": "Under 155",
+   "odds": -110,
+   "units": 3.0,
+   "gap": null,
+   "start": "2026-11-23T18:00:00",
+   "timed": true,
+   "ticket": "single",
+   "espn": {
+    "legs": [
+     {
+      "kind": "total",
+      "side": null,
+      "ou": "U",
+      "line": 155.0,
+      "label": "U 155.0",
+      "path": "basketball/mens-college-basketball",
+      "event": "401909536",
+      "date": "20261123",
+      "snapshot": {
+       "source": "espn",
+       "state": "pre",
+       "detail": "11/23 - 9:00 PM EST",
+       "start": "2026-11-24T02:00Z",
+       "period": null,
+       "clock": null,
+       "teams": [
+        {
+         "name": "VCU Rams",
+         "short": "Rams",
+         "abbr": "VCU",
+         "score": 0,
+         "ha": "away",
+         "winner": null,
+         "linescores": []
+        },
+        {
+         "name": "Providence Friars",
+         "short": "Friars",
+         "abbr": "PROV",
+         "score": 0,
+         "ha": "home",
+         "winner": null,
+         "linescores": []
+        }
+       ]
+      },
+      "source": "espn"
+     }
+    ],
+    "sport": "NCAAB",
     "ticket": "single"
    }
   },

@@ -1,5 +1,5 @@
 {
- "updated": "Nov 23, 2026, 9:13 AM PT",
+ "updated": "Nov 23, 2026, 9:17 AM PT",
  "record": {
   "w": 261,
   "l": 255,
@@ -11,7 +11,7 @@
   "first": "2026-10-12",
   "last": "2026-11-22"
  },
- "pending": 17,
+ "pending": 18,
  "plays": [
   {
    "n": 334,
@@ -8521,6 +8521,22 @@
    "pick": "Brook Lopez Over 1.5 Threes",
    "odds": 120,
    "units": 1.0,
+   "result": null,
+   "pl": null,
+   "pending": true
+  },
+  {
+   "n": 993,
+   "date": "2026-11-23",
+   "day": "2026-11-23",
+   "league": "NCAAB",
+   "market": "total",
+   "market_label": "Total",
+   "ticket": "single",
+   "matchup": "VCU Rams @ Providence Friars",
+   "pick": "Under 155",
+   "odds": -110,
+   "units": 3.0,
    "result": null,
    "pl": null,
    "pending": true
