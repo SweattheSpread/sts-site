@@ -1,5 +1,5 @@
 {
- "updated": "Nov 22, 2026, 4:33 PM PT",
+ "updated": "Nov 22, 2026, 4:35 PM PT",
  "record": {
   "w": 239,
   "l": 237,
@@ -933,7 +933,7 @@
          "name": "Denver Broncos",
          "short": "Broncos",
          "abbr": "DEN",
-         "score": 37,
+         "score": 38,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -1339,7 +1339,7 @@
          "name": "Denver Broncos",
          "short": "Broncos",
          "abbr": "DEN",
-         "score": 37,
+         "score": 38,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -1384,10 +1384,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "6:39 - 4th",
+       "detail": "6:04 - 4th",
        "start": "2026-11-22T21:25Z",
        "period": 4,
-       "clock": "6:39",
+       "clock": "6:04",
        "teams": [
         {
          "name": "Jacksonville Jaguars",
@@ -1995,16 +1995,16 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P3 01:40",
+       "detail": "P3 00:41",
        "start": "2026-11-22T22:00:00Z",
        "period": 3,
-       "clock": "01:40",
+       "clock": "00:41",
        "teams": [
         {
          "name": "Sabres",
          "short": "BUF",
          "abbr": "BUF",
-         "score": 5,
+         "score": 6,
          "ha": "away",
          "winner": null,
          "linescores": []
@@ -2318,10 +2318,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P1 05:18",
+       "detail": "P1 05:02",
        "start": "2026-11-23T00:00:00Z",
        "period": 1,
-       "clock": "05:18",
+       "clock": "05:02",
        "teams": [
         {
          "name": "Penguins",
@@ -2622,10 +2622,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P1 04:33",
+       "detail": "P1 03:38",
        "start": "2026-11-23T00:00:00Z",
        "period": 1,
-       "clock": "04:33",
+       "clock": "03:38",
        "teams": [
         {
          "name": "Oilers",
@@ -2709,7 +2709,7 @@
          "name": "Denver Broncos",
          "short": "Broncos",
          "abbr": "DEN",
-         "score": 37,
+         "score": 38,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -2760,7 +2760,7 @@
          "name": "Denver Broncos",
          "short": "Broncos",
          "abbr": "DEN",
-         "score": 37,
+         "score": 38,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -2811,7 +2811,7 @@
          "name": "Denver Broncos",
          "short": "Broncos",
          "abbr": "DEN",
-         "score": 37,
+         "score": 38,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -2862,7 +2862,7 @@
          "name": "Denver Broncos",
          "short": "Broncos",
          "abbr": "DEN",
-         "score": 37,
+         "score": 38,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -2890,10 +2890,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "6:39 - 4th",
+       "detail": "6:04 - 4th",
        "start": "2026-11-22T21:25Z",
        "period": 4,
-       "clock": "6:39",
+       "clock": "6:04",
        "teams": [
         {
          "name": "Jacksonville Jaguars",
@@ -2941,10 +2941,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "6:39 - 4th",
+       "detail": "6:04 - 4th",
        "start": "2026-11-22T21:25Z",
        "period": 4,
-       "clock": "6:39",
+       "clock": "6:04",
        "teams": [
         {
          "name": "Jacksonville Jaguars",
@@ -2992,10 +2992,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "6:39 - 4th",
+       "detail": "6:04 - 4th",
        "start": "2026-11-22T21:25Z",
        "period": 4,
-       "clock": "6:39",
+       "clock": "6:04",
        "teams": [
         {
          "name": "Jacksonville Jaguars",
@@ -3046,10 +3046,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "6:39 - 4th",
+       "detail": "6:04 - 4th",
        "start": "2026-11-22T21:25Z",
        "period": 4,
-       "clock": "6:39",
+       "clock": "6:04",
        "teams": [
         {
          "name": "Jacksonville Jaguars",
@@ -3097,10 +3097,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "6:39 - 4th",
+       "detail": "6:04 - 4th",
        "start": "2026-11-22T21:25Z",
        "period": 4,
-       "clock": "6:39",
+       "clock": "6:04",
        "teams": [
         {
          "name": "Jacksonville Jaguars",
@@ -3164,16 +3164,16 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P3 01:40",
+       "detail": "P3 00:41",
        "start": "2026-11-22T22:00:00Z",
        "period": 3,
-       "clock": "01:40",
+       "clock": "00:41",
        "teams": [
         {
          "name": "Sabres",
          "short": "BUF",
          "abbr": "BUF",
-         "score": 5,
+         "score": 6,
          "ha": "away",
          "winner": null,
          "linescores": []
@@ -3318,7 +3318,7 @@
          "name": "Denver Broncos",
          "short": "Broncos",
          "abbr": "DEN",
-         "score": 37,
+         "score": 38,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -3388,7 +3388,7 @@
          "name": "Denver Broncos",
          "short": "Broncos",
          "abbr": "DEN",
-         "score": 37,
+         "score": 38,
          "ha": "home",
          "winner": null,
          "linescores": [
