@@ -1,5 +1,5 @@
 {
- "updated": "Nov 22, 2026, 4:30 PM PT",
+ "updated": "Nov 22, 2026, 4:33 PM PT",
  "record": {
   "w": 239,
   "l": 237,
@@ -910,10 +910,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "2:00 - 4th",
+       "detail": "1:52 - 4th",
        "start": "2026-11-22T21:25Z",
        "period": 4,
-       "clock": "2:00",
+       "clock": "1:52",
        "teams": [
         {
          "name": "Las Vegas Raiders",
@@ -933,7 +933,7 @@
          "name": "Denver Broncos",
          "short": "Broncos",
          "abbr": "DEN",
-         "score": 31,
+         "score": 37,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -1316,10 +1316,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "2:00 - 4th",
+       "detail": "1:52 - 4th",
        "start": "2026-11-22T21:25Z",
        "period": 4,
-       "clock": "2:00",
+       "clock": "1:52",
        "teams": [
         {
          "name": "Las Vegas Raiders",
@@ -1339,7 +1339,7 @@
          "name": "Denver Broncos",
          "short": "Broncos",
          "abbr": "DEN",
-         "score": 31,
+         "score": 37,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -1995,10 +1995,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P3 03:29",
+       "detail": "P3 01:40",
        "start": "2026-11-22T22:00:00Z",
        "period": 3,
-       "clock": "03:29",
+       "clock": "01:40",
        "teams": [
         {
          "name": "Sabres",
@@ -2318,10 +2318,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P1 05:50",
+       "detail": "P1 05:18",
        "start": "2026-11-23T00:00:00Z",
        "period": 1,
-       "clock": "05:50",
+       "clock": "05:18",
        "teams": [
         {
          "name": "Penguins",
@@ -2622,10 +2622,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P1 06:12",
+       "detail": "P1 04:33",
        "start": "2026-11-23T00:00:00Z",
        "period": 1,
-       "clock": "06:12",
+       "clock": "04:33",
        "teams": [
         {
          "name": "Oilers",
@@ -2686,10 +2686,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "2:00 - 4th",
+       "detail": "1:52 - 4th",
        "start": "2026-11-22T21:25Z",
        "period": 4,
-       "clock": "2:00",
+       "clock": "1:52",
        "teams": [
         {
          "name": "Las Vegas Raiders",
@@ -2709,7 +2709,7 @@
          "name": "Denver Broncos",
          "short": "Broncos",
          "abbr": "DEN",
-         "score": 31,
+         "score": 37,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -2737,10 +2737,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "2:00 - 4th",
+       "detail": "1:52 - 4th",
        "start": "2026-11-22T21:25Z",
        "period": 4,
-       "clock": "2:00",
+       "clock": "1:52",
        "teams": [
         {
          "name": "Las Vegas Raiders",
@@ -2760,7 +2760,7 @@
          "name": "Denver Broncos",
          "short": "Broncos",
          "abbr": "DEN",
-         "score": 31,
+         "score": 37,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -2788,10 +2788,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "2:00 - 4th",
+       "detail": "1:52 - 4th",
        "start": "2026-11-22T21:25Z",
        "period": 4,
-       "clock": "2:00",
+       "clock": "1:52",
        "teams": [
         {
          "name": "Las Vegas Raiders",
@@ -2811,7 +2811,7 @@
          "name": "Denver Broncos",
          "short": "Broncos",
          "abbr": "DEN",
-         "score": 31,
+         "score": 37,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -2839,10 +2839,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "2:00 - 4th",
+       "detail": "1:52 - 4th",
        "start": "2026-11-22T21:25Z",
        "period": 4,
-       "clock": "2:00",
+       "clock": "1:52",
        "teams": [
         {
          "name": "Las Vegas Raiders",
@@ -2862,7 +2862,7 @@
          "name": "Denver Broncos",
          "short": "Broncos",
          "abbr": "DEN",
-         "score": 31,
+         "score": 37,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -3164,10 +3164,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P3 03:29",
+       "detail": "P3 01:40",
        "start": "2026-11-22T22:00:00Z",
        "period": 3,
-       "clock": "03:29",
+       "clock": "01:40",
        "teams": [
         {
          "name": "Sabres",
@@ -3224,16 +3224,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "6:52 - 3rd",
+       "detail": "5:25 - 3rd",
        "start": "2026-11-22T23:00Z",
        "period": 3,
-       "clock": "6:52",
+       "clock": "5:25",
        "teams": [
         {
          "name": "Oklahoma City Thunder",
          "short": "Thunder",
          "abbr": "OKC",
-         "score": 63,
+         "score": 65,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -3246,7 +3246,7 @@
          "name": "Miami Heat",
          "short": "Heat",
          "abbr": "MIA",
-         "score": 76,
+         "score": 80,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -3257,7 +3257,7 @@
         }
        ],
        "stat": {
-        "v": 2,
+        "v": 3,
         "name": "Ajay Mitchell"
        }
       },
@@ -3295,10 +3295,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "2:00 - 4th",
+       "detail": "1:52 - 4th",
        "start": "2026-11-22T21:25Z",
        "period": 4,
-       "clock": "2:00",
+       "clock": "1:52",
        "teams": [
         {
          "name": "Las Vegas Raiders",
@@ -3318,7 +3318,7 @@
          "name": "Denver Broncos",
          "short": "Broncos",
          "abbr": "DEN",
-         "score": 31,
+         "score": 37,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -3365,10 +3365,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "2:00 - 4th",
+       "detail": "1:52 - 4th",
        "start": "2026-11-22T21:25Z",
        "period": 4,
-       "clock": "2:00",
+       "clock": "1:52",
        "teams": [
         {
          "name": "Las Vegas Raiders",
@@ -3388,7 +3388,7 @@
          "name": "Denver Broncos",
          "short": "Broncos",
          "abbr": "DEN",
-         "score": 31,
+         "score": 37,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -3435,16 +3435,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "6:52 - 3rd",
+       "detail": "5:25 - 3rd",
        "start": "2026-11-22T23:00Z",
        "period": 3,
-       "clock": "6:52",
+       "clock": "5:25",
        "teams": [
         {
          "name": "Oklahoma City Thunder",
          "short": "Thunder",
          "abbr": "OKC",
-         "score": 63,
+         "score": 65,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -3457,7 +3457,7 @@
          "name": "Miami Heat",
          "short": "Heat",
          "abbr": "MIA",
-         "score": 76,
+         "score": 80,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -3468,7 +3468,7 @@
         }
        ],
        "stat": {
-        "v": 13,
+        "v": 15,
         "name": "Jared McCain"
        }
       },
@@ -3506,16 +3506,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "6:52 - 3rd",
+       "detail": "5:25 - 3rd",
        "start": "2026-11-22T23:00Z",
        "period": 3,
-       "clock": "6:52",
+       "clock": "5:25",
        "teams": [
         {
          "name": "Oklahoma City Thunder",
          "short": "Thunder",
          "abbr": "OKC",
-         "score": 63,
+         "score": 65,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -3528,7 +3528,7 @@
          "name": "Miami Heat",
          "short": "Heat",
          "abbr": "MIA",
-         "score": 76,
+         "score": 80,
          "ha": "home",
          "winner": null,
          "linescores": [
