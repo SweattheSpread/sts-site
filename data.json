@@ -1,5 +1,5 @@
 {
- "updated": "Nov 22, 2026, 7:26 PM PT",
+ "updated": "Nov 22, 2026, 7:28 PM PT",
  "record": {
   "w": 241,
   "l": 237,
@@ -2024,10 +2024,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P3 10:07",
+       "detail": "P3 09:51",
        "start": "2026-11-23T01:00:00Z",
        "period": 3,
-       "clock": "10:07",
+       "clock": "09:51",
        "teams": [
         {
          "name": "Blackhawks",
@@ -2463,10 +2463,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "1:12 - 1st",
+       "detail": "0:18 - 1st",
        "start": "2026-11-23T02:45Z",
        "period": 1,
-       "clock": "1:12",
+       "clock": "0:18",
        "teams": [
         {
          "name": "UC San Diego Tritons",
