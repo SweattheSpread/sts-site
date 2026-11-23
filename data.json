@@ -1,5 +1,5 @@
 {
- "updated": "Nov 22, 2026, 4:44 PM PT",
+ "updated": "Nov 22, 2026, 4:48 PM PT",
  "record": {
   "w": 239,
   "l": 237,
@@ -909,11 +909,11 @@
       "date": "20261122",
       "snapshot": {
        "source": "espn",
-       "state": "in",
-       "detail": "0:57 - 4th",
+       "state": "post",
+       "detail": "Final",
        "start": "2026-11-22T21:25Z",
-       "period": 4,
-       "clock": "0:57",
+       "period": null,
+       "clock": null,
        "teams": [
         {
          "name": "Las Vegas Raiders",
@@ -921,7 +921,7 @@
          "abbr": "LV",
          "score": 24,
          "ha": "away",
-         "winner": null,
+         "winner": false,
          "linescores": [
           0,
           0,
@@ -935,7 +935,7 @@
          "abbr": "DEN",
          "score": 38,
          "ha": "home",
-         "winner": null,
+         "winner": true,
          "linescores": [
           0,
           0,
@@ -1315,11 +1315,11 @@
       "date": "20261122",
       "snapshot": {
        "source": "espn",
-       "state": "in",
-       "detail": "0:57 - 4th",
+       "state": "post",
+       "detail": "Final",
        "start": "2026-11-22T21:25Z",
-       "period": 4,
-       "clock": "0:57",
+       "period": null,
+       "clock": null,
        "teams": [
         {
          "name": "Las Vegas Raiders",
@@ -1327,7 +1327,7 @@
          "abbr": "LV",
          "score": 24,
          "ha": "away",
-         "winner": null,
+         "winner": false,
          "linescores": [
           0,
           0,
@@ -1341,7 +1341,7 @@
          "abbr": "DEN",
          "score": 38,
          "ha": "home",
-         "winner": null,
+         "winner": true,
          "linescores": [
           0,
           0,
@@ -1384,16 +1384,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "3:40 - 4th",
+       "detail": "2:10 - 4th",
        "start": "2026-11-22T21:25Z",
        "period": 4,
-       "clock": "3:40",
+       "clock": "2:10",
        "teams": [
         {
          "name": "Jacksonville Jaguars",
          "short": "Jaguars",
          "abbr": "JAX",
-         "score": 15,
+         "score": 18,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -2318,10 +2318,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P1 15:48",
+       "detail": "P1 11:34",
        "start": "2026-11-23T00:00:00Z",
        "period": 1,
-       "clock": "15:48",
+       "clock": "11:34",
        "teams": [
         {
          "name": "Penguins",
@@ -2622,10 +2622,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P1 14:37",
+       "detail": "P1 10:23",
        "start": "2026-11-23T00:00:00Z",
        "period": 1,
-       "clock": "14:37",
+       "clock": "10:23",
        "teams": [
         {
          "name": "Oilers",
@@ -2680,49 +2680,36 @@
       "line": 24.5,
       "stat": "receiving yds",
       "label": "Patrick Bryant O 24.5 receiving yds",
-      "path": "football/nfl",
-      "event": "401873075",
       "date": "20261122",
+      "unverified": true,
+      "reason": "Player not found in this game",
       "snapshot": {
-       "source": "espn",
-       "state": "in",
-       "detail": "0:57 - 4th",
-       "start": "2026-11-22T21:25Z",
-       "period": 4,
-       "clock": "0:57",
+       "source": "odds-api",
+       "state": "post",
+       "detail": "Final",
+       "start": "2026-11-22T21:25:20Z",
        "teams": [
         {
          "name": "Las Vegas Raiders",
-         "short": "Raiders",
-         "abbr": "LV",
+         "short": "Las Vegas Raiders",
+         "abbr": "",
          "score": 24,
          "ha": "away",
-         "winner": null,
-         "linescores": [
-          0,
-          0,
-          0,
-          0
-         ]
+         "winner": false,
+         "linescores": []
         },
         {
          "name": "Denver Broncos",
-         "short": "Broncos",
-         "abbr": "DEN",
+         "short": "Denver Broncos",
+         "abbr": "",
          "score": 38,
          "ha": "home",
-         "winner": null,
-         "linescores": [
-          0,
-          0,
-          0,
-          0
-         ]
+         "winner": true,
+         "linescores": []
         }
-       ],
-       "stat": null
+       ]
       },
-      "source": "espn"
+      "source": "odds-api"
      },
      {
       "kind": "prop",
@@ -2731,49 +2718,36 @@
       "line": 49.5,
       "stat": "rushing yds",
       "label": "Jonah Coleman O 49.5 rushing yds",
-      "path": "football/nfl",
-      "event": "401873075",
       "date": "20261122",
+      "unverified": true,
+      "reason": "Player not found in this game",
       "snapshot": {
-       "source": "espn",
-       "state": "in",
-       "detail": "0:57 - 4th",
-       "start": "2026-11-22T21:25Z",
-       "period": 4,
-       "clock": "0:57",
+       "source": "odds-api",
+       "state": "post",
+       "detail": "Final",
+       "start": "2026-11-22T21:25:20Z",
        "teams": [
         {
          "name": "Las Vegas Raiders",
-         "short": "Raiders",
-         "abbr": "LV",
+         "short": "Las Vegas Raiders",
+         "abbr": "",
          "score": 24,
          "ha": "away",
-         "winner": null,
-         "linescores": [
-          0,
-          0,
-          0,
-          0
-         ]
+         "winner": false,
+         "linescores": []
         },
         {
          "name": "Denver Broncos",
-         "short": "Broncos",
-         "abbr": "DEN",
+         "short": "Denver Broncos",
+         "abbr": "",
          "score": 38,
          "ha": "home",
-         "winner": null,
-         "linescores": [
-          0,
-          0,
-          0,
-          0
-         ]
+         "winner": true,
+         "linescores": []
         }
-       ],
-       "stat": null
+       ]
       },
-      "source": "espn"
+      "source": "odds-api"
      },
      {
       "kind": "prop",
@@ -2782,49 +2756,36 @@
       "line": 0.5,
       "stat": "pass interceptions",
       "label": "Fernando Mendoza O 0.5 pass interceptions",
-      "path": "football/nfl",
-      "event": "401873075",
       "date": "20261122",
+      "unverified": true,
+      "reason": "Player not found in this game",
       "snapshot": {
-       "source": "espn",
-       "state": "in",
-       "detail": "0:57 - 4th",
-       "start": "2026-11-22T21:25Z",
-       "period": 4,
-       "clock": "0:57",
+       "source": "odds-api",
+       "state": "post",
+       "detail": "Final",
+       "start": "2026-11-22T21:25:20Z",
        "teams": [
         {
          "name": "Las Vegas Raiders",
-         "short": "Raiders",
-         "abbr": "LV",
+         "short": "Las Vegas Raiders",
+         "abbr": "",
          "score": 24,
          "ha": "away",
-         "winner": null,
-         "linescores": [
-          0,
-          0,
-          0,
-          0
-         ]
+         "winner": false,
+         "linescores": []
         },
         {
          "name": "Denver Broncos",
-         "short": "Broncos",
-         "abbr": "DEN",
+         "short": "Denver Broncos",
+         "abbr": "",
          "score": 38,
          "ha": "home",
-         "winner": null,
-         "linescores": [
-          0,
-          0,
-          0,
-          0
-         ]
+         "winner": true,
+         "linescores": []
         }
-       ],
-       "stat": null
+       ]
       },
-      "source": "espn"
+      "source": "odds-api"
      },
      {
       "kind": "prop",
@@ -2833,49 +2794,36 @@
       "line": 0.5,
       "stat": "anytime td",
       "label": "Jonah Coleman O 0.5 anytime td",
-      "path": "football/nfl",
-      "event": "401873075",
       "date": "20261122",
+      "unverified": true,
+      "reason": "Player not found in this game",
       "snapshot": {
-       "source": "espn",
-       "state": "in",
-       "detail": "0:57 - 4th",
-       "start": "2026-11-22T21:25Z",
-       "period": 4,
-       "clock": "0:57",
+       "source": "odds-api",
+       "state": "post",
+       "detail": "Final",
+       "start": "2026-11-22T21:25:20Z",
        "teams": [
         {
          "name": "Las Vegas Raiders",
-         "short": "Raiders",
-         "abbr": "LV",
+         "short": "Las Vegas Raiders",
+         "abbr": "",
          "score": 24,
          "ha": "away",
-         "winner": null,
-         "linescores": [
-          0,
-          0,
-          0,
-          0
-         ]
+         "winner": false,
+         "linescores": []
         },
         {
          "name": "Denver Broncos",
-         "short": "Broncos",
-         "abbr": "DEN",
+         "short": "Denver Broncos",
+         "abbr": "",
          "score": 38,
          "ha": "home",
-         "winner": null,
-         "linescores": [
-          0,
-          0,
-          0,
-          0
-         ]
+         "winner": true,
+         "linescores": []
         }
-       ],
-       "stat": null
+       ]
       },
-      "source": "espn"
+      "source": "odds-api"
      },
      {
       "kind": "prop",
@@ -2890,16 +2838,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "3:40 - 4th",
+       "detail": "2:10 - 4th",
        "start": "2026-11-22T21:25Z",
        "period": 4,
-       "clock": "3:40",
+       "clock": "2:10",
        "teams": [
         {
          "name": "Jacksonville Jaguars",
          "short": "Jaguars",
          "abbr": "JAX",
-         "score": 15,
+         "score": 18,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -2941,16 +2889,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "3:40 - 4th",
+       "detail": "2:10 - 4th",
        "start": "2026-11-22T21:25Z",
        "period": 4,
-       "clock": "3:40",
+       "clock": "2:10",
        "teams": [
         {
          "name": "Jacksonville Jaguars",
          "short": "Jaguars",
          "abbr": "JAX",
-         "score": 15,
+         "score": 18,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -2992,16 +2940,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "3:40 - 4th",
+       "detail": "2:10 - 4th",
        "start": "2026-11-22T21:25Z",
        "period": 4,
-       "clock": "3:40",
+       "clock": "2:10",
        "teams": [
         {
          "name": "Jacksonville Jaguars",
          "short": "Jaguars",
          "abbr": "JAX",
-         "score": 15,
+         "score": 18,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -3046,16 +2994,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "3:40 - 4th",
+       "detail": "2:10 - 4th",
        "start": "2026-11-22T21:25Z",
        "period": 4,
-       "clock": "3:40",
+       "clock": "2:10",
        "teams": [
         {
          "name": "Jacksonville Jaguars",
          "short": "Jaguars",
          "abbr": "JAX",
-         "score": 15,
+         "score": 18,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -3097,16 +3045,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "3:40 - 4th",
+       "detail": "2:10 - 4th",
        "start": "2026-11-22T21:25Z",
        "period": 4,
-       "clock": "3:40",
+       "clock": "2:10",
        "teams": [
         {
          "name": "Jacksonville Jaguars",
          "short": "Jaguars",
          "abbr": "JAX",
-         "score": 15,
+         "score": 18,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -3224,16 +3172,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "2:55 - 3rd",
+       "detail": "34.6 - 3rd",
        "start": "2026-11-22T23:00Z",
        "period": 3,
-       "clock": "2:55",
+       "clock": "34.6",
        "teams": [
         {
          "name": "Oklahoma City Thunder",
          "short": "Thunder",
          "abbr": "OKC",
-         "score": 73,
+         "score": 79,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -3246,7 +3194,7 @@
          "name": "Miami Heat",
          "short": "Heat",
          "abbr": "MIA",
-         "score": 84,
+         "score": 94,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -3257,7 +3205,7 @@
         }
        ],
        "stat": {
-        "v": 4,
+        "v": 3,
         "name": "Ajay Mitchell"
        }
       },
@@ -3289,49 +3237,36 @@
       "line": 29.5,
       "stat": "rushing yards, live",
       "label": "Ashton Jeanty O 29.5 rushing yards, live",
-      "path": "football/nfl",
-      "event": "401873075",
       "date": "20261122",
+      "unverified": true,
+      "reason": "Player not found in this game",
       "snapshot": {
-       "source": "espn",
-       "state": "in",
-       "detail": "0:57 - 4th",
-       "start": "2026-11-22T21:25Z",
-       "period": 4,
-       "clock": "0:57",
+       "source": "odds-api",
+       "state": "post",
+       "detail": "Final",
+       "start": "2026-11-22T21:25:20Z",
        "teams": [
         {
          "name": "Las Vegas Raiders",
-         "short": "Raiders",
-         "abbr": "LV",
+         "short": "Las Vegas Raiders",
+         "abbr": "",
          "score": 24,
          "ha": "away",
-         "winner": null,
-         "linescores": [
-          0,
-          0,
-          0,
-          0
-         ]
+         "winner": false,
+         "linescores": []
         },
         {
          "name": "Denver Broncos",
-         "short": "Broncos",
-         "abbr": "DEN",
+         "short": "Denver Broncos",
+         "abbr": "",
          "score": 38,
          "ha": "home",
-         "winner": null,
-         "linescores": [
-          0,
-          0,
-          0,
-          0
-         ]
+         "winner": true,
+         "linescores": []
         }
-       ],
-       "stat": null
+       ]
       },
-      "source": "espn"
+      "source": "odds-api"
      }
     ],
     "sport": "NFL",
@@ -3359,49 +3294,36 @@
       "line": 99.5,
       "stat": "rushing yards, live",
       "label": "Ashton Jeanty O 99.5 rushing yards, live",
-      "path": "football/nfl",
-      "event": "401873075",
       "date": "20261122",
+      "unverified": true,
+      "reason": "Player not found in this game",
       "snapshot": {
-       "source": "espn",
-       "state": "in",
-       "detail": "0:57 - 4th",
-       "start": "2026-11-22T21:25Z",
-       "period": 4,
-       "clock": "0:57",
+       "source": "odds-api",
+       "state": "post",
+       "detail": "Final",
+       "start": "2026-11-22T21:25:20Z",
        "teams": [
         {
          "name": "Las Vegas Raiders",
-         "short": "Raiders",
-         "abbr": "LV",
+         "short": "Las Vegas Raiders",
+         "abbr": "",
          "score": 24,
          "ha": "away",
-         "winner": null,
-         "linescores": [
-          0,
-          0,
-          0,
-          0
-         ]
+         "winner": false,
+         "linescores": []
         },
         {
          "name": "Denver Broncos",
-         "short": "Broncos",
-         "abbr": "DEN",
+         "short": "Denver Broncos",
+         "abbr": "",
          "score": 38,
          "ha": "home",
-         "winner": null,
-         "linescores": [
-          0,
-          0,
-          0,
-          0
-         ]
+         "winner": true,
+         "linescores": []
         }
-       ],
-       "stat": null
+       ]
       },
-      "source": "espn"
+      "source": "odds-api"
      }
     ],
     "sport": "NFL",
@@ -3435,16 +3357,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "2:55 - 3rd",
+       "detail": "34.6 - 3rd",
        "start": "2026-11-22T23:00Z",
        "period": 3,
-       "clock": "2:55",
+       "clock": "34.6",
        "teams": [
         {
          "name": "Oklahoma City Thunder",
          "short": "Thunder",
          "abbr": "OKC",
-         "score": 73,
+         "score": 79,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -3457,7 +3379,7 @@
          "name": "Miami Heat",
          "short": "Heat",
          "abbr": "MIA",
-         "score": 84,
+         "score": 94,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -3468,7 +3390,7 @@
         }
        ],
        "stat": {
-        "v": 15,
+        "v": 17,
         "name": "Jared McCain"
        }
       },
@@ -3506,16 +3428,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "2:55 - 3rd",
+       "detail": "34.6 - 3rd",
        "start": "2026-11-22T23:00Z",
        "period": 3,
-       "clock": "2:55",
+       "clock": "34.6",
        "teams": [
         {
          "name": "Oklahoma City Thunder",
          "short": "Thunder",
          "abbr": "OKC",
-         "score": 73,
+         "score": 79,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -3528,7 +3450,7 @@
          "name": "Miami Heat",
          "short": "Heat",
          "abbr": "MIA",
-         "score": 84,
+         "score": 94,
          "ha": "home",
          "winner": null,
          "linescores": [
