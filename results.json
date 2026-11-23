@@ -1,5 +1,5 @@
 {
- "updated": "Nov 23, 2026, 2:15 PM PT",
+ "updated": "Nov 23, 2026, 2:17 PM PT",
  "record": {
   "w": 261,
   "l": 255,
@@ -11,7 +11,7 @@
   "first": "2026-10-12",
   "last": "2026-11-22"
  },
- "pending": 26,
+ "pending": 27,
  "plays": [
   {
    "n": 334,
@@ -8664,6 +8664,22 @@
    "matchup": "San Antonio Spurs @ Sacramento Kings",
    "pick": "Domantas Sabonis Over 12.5 Rebounds",
    "odds": 115,
+   "units": 1.0,
+   "result": null,
+   "pl": null,
+   "pending": true
+  },
+  {
+   "n": 1002,
+   "date": "2026-11-23",
+   "day": "2026-11-23",
+   "league": "NHL",
+   "market": "player_prop",
+   "market_label": "Player Prop",
+   "ticket": "single",
+   "matchup": "Columbus Blue Jackets @ New Jersey Devils",
+   "pick": "Dougie Hamilton Over 2.5 shots on goal",
+   "odds": 125,
    "units": 1.0,
    "result": null,
    "pl": null,

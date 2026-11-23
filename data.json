@@ -1,5 +1,5 @@
 {
- "updated": "Nov 23, 2026, 2:15 PM PT",
+ "updated": "Nov 23, 2026, 2:17 PM PT",
  "record": {
   "w": 261,
   "l": 255,
@@ -11,7 +11,7 @@
   "first": "2026-10-12",
   "last": "2026-11-22"
  },
- "pending": 26,
+ "pending": 27,
  "latest": [
   {
    "n": 982,
@@ -323,6 +323,66 @@
       "line": 0.5,
       "stat": "points",
       "label": "Kent Johnson O 0.5 points",
+      "path": "hockey/nhl",
+      "event": "401892773",
+      "date": "20261123",
+      "snapshot": {
+       "source": "nhl",
+       "state": "pre",
+       "detail": "Scheduled",
+       "start": "2026-11-24T00:00:00Z",
+       "period": null,
+       "clock": null,
+       "teams": [
+        {
+         "name": "Blue Jackets",
+         "short": "CBJ",
+         "abbr": "CBJ",
+         "score": 0,
+         "ha": "away",
+         "winner": null,
+         "linescores": []
+        },
+        {
+         "name": "Devils",
+         "short": "NJD",
+         "abbr": "NJD",
+         "score": 0,
+         "ha": "home",
+         "winner": null,
+         "linescores": []
+        }
+       ],
+       "nhl_id": 2026020378
+      },
+      "source": "nhl"
+     }
+    ],
+    "sport": "NHL",
+    "ticket": "single"
+   }
+  },
+  {
+   "n": 1002,
+   "league": "NHL",
+   "type": "Player Prop",
+   "matchup": "Columbus Blue Jackets @ New Jersey Devils",
+   "pick": "Dougie Hamilton Over 2.5 shots on goal",
+   "odds": 125,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-23T16:10:00",
+   "timed": true,
+   "ticket": "single",
+   "espn": {
+    "legs": [
+     {
+      "kind": "prop",
+      "player": "Dougie Hamilton",
+      "ou": "O",
+      "line": 2.5,
+      "stat": "shots on goal",
+      "label": "Dougie Hamilton O 2.5 shots on goal",
       "path": "hockey/nhl",
       "event": "401892773",
       "date": "20261123",
@@ -1566,16 +1626,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "15:46 - 2nd",
+       "detail": "15:11 - 2nd",
        "start": "2026-11-23T21:00Z",
        "period": 2,
-       "clock": "15:46",
+       "clock": "15:11",
        "teams": [
         {
          "name": "Tulane Green Wave",
          "short": "Green Wave",
          "abbr": "TULN",
-         "score": 37,
+         "score": 39,
          "ha": "away",
          "winner": null,
          "linescores": [
