@@ -1,5 +1,5 @@
 {
- "updated": "Nov 22, 2026, 5:18 PM PT",
+ "updated": "Nov 22, 2026, 5:21 PM PT",
  "record": {
   "w": 240,
   "l": 237,
@@ -127,305 +127,6 @@
   }
  ],
  "picks": [
-  {
-   "n": 858,
-   "league": "NFL",
-   "type": "Spread",
-   "matchup": "Minnesota Vikings @ San Francisco 49ers",
-   "pick": "Minnesota Vikings +3 (-108)",
-   "odds": -108,
-   "units": 1.0,
-   "gap": null,
-   "start": "2026-11-22T17:20:00",
-   "timed": true,
-   "ticket": "single",
-   "espn": {
-    "legs": [
-     {
-      "kind": "spread",
-      "side": "Minnesota Vikings",
-      "line": 3.0,
-      "label": "Minnesota Vikings +3",
-      "path": "football/nfl",
-      "event": "401873077",
-      "date": "20261122",
-      "snapshot": {
-       "source": "espn",
-       "state": "pre",
-       "detail": "11/22 - 8:20 PM EST",
-       "start": "2026-11-23T01:20Z",
-       "period": null,
-       "clock": null,
-       "teams": [
-        {
-         "name": "Minnesota Vikings",
-         "short": "Vikings",
-         "abbr": "MIN",
-         "score": 0,
-         "ha": "away",
-         "winner": null,
-         "linescores": []
-        },
-        {
-         "name": "San Francisco 49ers",
-         "short": "49ers",
-         "abbr": "SF",
-         "score": 0,
-         "ha": "home",
-         "winner": null,
-         "linescores": []
-        }
-       ]
-      },
-      "source": "espn"
-     }
-    ],
-    "sport": "NFL",
-    "ticket": "single"
-   }
-  },
-  {
-   "n": 881,
-   "league": "NFL",
-   "type": "Over/Under",
-   "matchup": "Minnesota Vikings @ San Francisco 49ers",
-   "pick": "Over 46.5",
-   "odds": -108,
-   "units": 1.0,
-   "gap": null,
-   "start": "2026-11-22T17:20:00",
-   "timed": true,
-   "ticket": "single",
-   "espn": {
-    "legs": [
-     {
-      "kind": "total",
-      "side": null,
-      "ou": "O",
-      "line": 46.5,
-      "label": "O 46.5",
-      "path": "football/nfl",
-      "event": "401873077",
-      "date": "20261122",
-      "snapshot": {
-       "source": "espn",
-       "state": "pre",
-       "detail": "11/22 - 8:20 PM EST",
-       "start": "2026-11-23T01:20Z",
-       "period": null,
-       "clock": null,
-       "teams": [
-        {
-         "name": "Minnesota Vikings",
-         "short": "Vikings",
-         "abbr": "MIN",
-         "score": 0,
-         "ha": "away",
-         "winner": null,
-         "linescores": []
-        },
-        {
-         "name": "San Francisco 49ers",
-         "short": "49ers",
-         "abbr": "SF",
-         "score": 0,
-         "ha": "home",
-         "winner": null,
-         "linescores": []
-        }
-       ]
-      },
-      "source": "espn"
-     }
-    ],
-    "sport": "NFL",
-    "ticket": "single"
-   }
-  },
-  {
-   "n": 983,
-   "league": "NFL",
-   "type": "Parlay",
-   "matchup": "Same-game parlay, Minnesota Vikings @ San Francisco 49ers",
-   "pick": "Vikings team points Over 16.5 + C. McCaffrey 3+ receptions + A. Van Ginkel 1+ sacks + K. Cousins Over 35.5 pass attempts + K. Cousins 200+ passing yds; 1u at +475 (book not named on the slip). OFFICIAL user-directed pregame bet, recorded Nov 22 2026 ~5:12 PM PT. Tracker record only; no sportsbook wager execution by us. Ungraded.",
-   "odds": 475,
-   "units": 1.0,
-   "gap": null,
-   "start": "2026-11-22T17:20:00",
-   "timed": true,
-   "ticket": "sgp",
-   "espn": {
-    "legs": [
-     {
-      "kind": "team_total",
-      "side": "Vikings points",
-      "ou": "O",
-      "line": 16.5,
-      "label": "Vikings points O 16.5",
-      "path": "football/nfl",
-      "event": "401873077",
-      "date": "20261122",
-      "snapshot": {
-       "source": "espn",
-       "state": "pre",
-       "detail": "11/22 - 8:20 PM EST",
-       "start": "2026-11-23T01:20Z",
-       "period": null,
-       "clock": null,
-       "teams": [
-        {
-         "name": "Minnesota Vikings",
-         "short": "Vikings",
-         "abbr": "MIN",
-         "score": 0,
-         "ha": "away",
-         "winner": null,
-         "linescores": []
-        },
-        {
-         "name": "San Francisco 49ers",
-         "short": "49ers",
-         "abbr": "SF",
-         "score": 0,
-         "ha": "home",
-         "winner": null,
-         "linescores": []
-        }
-       ]
-      },
-      "source": "espn"
-     },
-     {
-      "kind": "prop",
-      "player": "C. McCaffrey",
-      "ou": "O",
-      "line": 2.5,
-      "stat": "receptions",
-      "label": "C. McCaffrey O 2.5 receptions",
-      "path": "football/nfl",
-      "event": "401873077",
-      "date": "20261122",
-      "snapshot": {
-       "source": "espn",
-       "state": "pre",
-       "detail": "11/22 - 8:20 PM EST",
-       "start": "2026-11-23T01:20Z",
-       "period": null,
-       "clock": null,
-       "teams": [
-        {
-         "name": "Minnesota Vikings",
-         "short": "Vikings",
-         "abbr": "MIN",
-         "score": 0,
-         "ha": "away",
-         "winner": null,
-         "linescores": []
-        },
-        {
-         "name": "San Francisco 49ers",
-         "short": "49ers",
-         "abbr": "SF",
-         "score": 0,
-         "ha": "home",
-         "winner": null,
-         "linescores": []
-        }
-       ]
-      },
-      "source": "espn"
-     },
-     {
-      "kind": "prop",
-      "player": "A. Van Ginkel",
-      "ou": "O",
-      "line": 0.5,
-      "stat": "sacks",
-      "label": "A. Van Ginkel O 0.5 sacks",
-      "path": "football/nfl",
-      "event": "401873077",
-      "date": "20261122",
-      "snapshot": {
-       "source": "espn",
-       "state": "pre",
-       "detail": "11/22 - 8:20 PM EST",
-       "start": "2026-11-23T01:20Z",
-       "period": null,
-       "clock": null,
-       "teams": [
-        {
-         "name": "Minnesota Vikings",
-         "short": "Vikings",
-         "abbr": "MIN",
-         "score": 0,
-         "ha": "away",
-         "winner": null,
-         "linescores": []
-        },
-        {
-         "name": "San Francisco 49ers",
-         "short": "49ers",
-         "abbr": "SF",
-         "score": 0,
-         "ha": "home",
-         "winner": null,
-         "linescores": []
-        }
-       ]
-      },
-      "source": "espn"
-     },
-     {
-      "kind": "team_total",
-      "side": "K. Cousins",
-      "ou": "O",
-      "line": 35.5,
-      "label": "K. Cousins O 35.5",
-      "path": "football/nfl",
-      "event": "401873077",
-      "date": "20261122",
-      "snapshot": {
-       "source": "espn",
-       "state": "pre",
-       "detail": "11/22 - 8:20 PM EST",
-       "start": "2026-11-23T01:20Z",
-       "period": null,
-       "clock": null,
-       "teams": [
-        {
-         "name": "Minnesota Vikings",
-         "short": "Vikings",
-         "abbr": "MIN",
-         "score": 0,
-         "ha": "away",
-         "winner": null,
-         "linescores": []
-        },
-        {
-         "name": "San Francisco 49ers",
-         "short": "49ers",
-         "abbr": "SF",
-         "score": 0,
-         "ha": "home",
-         "winner": null,
-         "linescores": []
-        }
-       ]
-      },
-      "source": "espn"
-     },
-     {
-      "kind": "spread",
-      "side": "K. Cousins 200+ passing yds; 1u at",
-      "line": 475.0,
-      "label": "K. Cousins 200+ passing yds; 1u at +475",
-      "unverified": true
-     }
-    ],
-    "sport": "NFL",
-    "ticket": "sgp"
-   }
-  },
   {
    "n": 971,
    "league": "NCAAB",
@@ -1075,6 +776,63 @@
           0,
           0
          ]
+        }
+       ]
+      },
+      "source": "espn"
+     }
+    ],
+    "sport": "NFL",
+    "ticket": "single"
+   }
+  },
+  {
+   "n": 858,
+   "league": "NFL",
+   "type": "Spread",
+   "matchup": "Minnesota Vikings @ San Francisco 49ers",
+   "pick": "Minnesota Vikings +3 (-108)",
+   "odds": -108,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-22T17:20:00",
+   "timed": true,
+   "ticket": "single",
+   "espn": {
+    "legs": [
+     {
+      "kind": "spread",
+      "side": "Minnesota Vikings",
+      "line": 3.0,
+      "label": "Minnesota Vikings +3",
+      "path": "football/nfl",
+      "event": "401873077",
+      "date": "20261122",
+      "snapshot": {
+       "source": "espn",
+       "state": "pre",
+       "detail": "11/22 - 8:20 PM EST",
+       "start": "2026-11-23T01:20Z",
+       "period": null,
+       "clock": null,
+       "teams": [
+        {
+         "name": "Minnesota Vikings",
+         "short": "Vikings",
+         "abbr": "MIN",
+         "score": 0,
+         "ha": "away",
+         "winner": null,
+         "linescores": []
+        },
+        {
+         "name": "San Francisco 49ers",
+         "short": "49ers",
+         "abbr": "SF",
+         "score": 0,
+         "ha": "home",
+         "winner": null,
+         "linescores": []
         }
        ]
       },
@@ -1765,6 +1523,64 @@
    }
   },
   {
+   "n": 881,
+   "league": "NFL",
+   "type": "Over/Under",
+   "matchup": "Minnesota Vikings @ San Francisco 49ers",
+   "pick": "Over 46.5",
+   "odds": -108,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-22T17:20:00",
+   "timed": true,
+   "ticket": "single",
+   "espn": {
+    "legs": [
+     {
+      "kind": "total",
+      "side": null,
+      "ou": "O",
+      "line": 46.5,
+      "label": "O 46.5",
+      "path": "football/nfl",
+      "event": "401873077",
+      "date": "20261122",
+      "snapshot": {
+       "source": "espn",
+       "state": "pre",
+       "detail": "11/22 - 8:20 PM EST",
+       "start": "2026-11-23T01:20Z",
+       "period": null,
+       "clock": null,
+       "teams": [
+        {
+         "name": "Minnesota Vikings",
+         "short": "Vikings",
+         "abbr": "MIN",
+         "score": 0,
+         "ha": "away",
+         "winner": null,
+         "linescores": []
+        },
+        {
+         "name": "San Francisco 49ers",
+         "short": "49ers",
+         "abbr": "SF",
+         "score": 0,
+         "ha": "home",
+         "winner": null,
+         "linescores": []
+        }
+       ]
+      },
+      "source": "espn"
+     }
+    ],
+    "sport": "NFL",
+    "ticket": "single"
+   }
+  },
+  {
    "n": 883,
    "league": "NFL",
    "type": "Over/Under",
@@ -2249,16 +2065,16 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P1 17:07",
+       "detail": "P1 14:56",
        "start": "2026-11-23T01:00:00Z",
        "period": 1,
-       "clock": "17:07",
+       "clock": "14:56",
        "teams": [
         {
          "name": "Blackhawks",
          "short": "CHI",
          "abbr": "CHI",
-         "score": 1,
+         "score": 2,
          "ha": "away",
          "winner": null,
          "linescores": []
@@ -2377,10 +2193,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "6:50 - 1st",
+       "detail": "6:15 - 1st",
        "start": "2026-11-23T01:00Z",
        "period": 1,
-       "clock": "6:50",
+       "clock": "6:15",
        "teams": [
         {
          "name": "Indiana Pacers",
@@ -2507,10 +2323,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P2 09:42",
+       "detail": "P2 07:16",
        "start": "2026-11-23T00:00:00Z",
        "period": 2,
-       "clock": "09:42",
+       "clock": "07:16",
        "teams": [
         {
          "name": "Penguins",
@@ -2811,16 +2627,16 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P2 10:45",
+       "detail": "P2 08:29",
        "start": "2026-11-23T00:00:00Z",
        "period": 2,
-       "clock": "10:45",
+       "clock": "08:29",
        "teams": [
         {
          "name": "Oilers",
          "short": "EDM",
          "abbr": "EDM",
-         "score": 1,
+         "score": 2,
          "ha": "away",
          "winner": null,
          "linescores": []
@@ -2837,7 +2653,7 @@
        ],
        "nhl_id": 2026020375,
        "stat": {
-        "v": 0,
+        "v": 1,
         "name": "V. Podkolzin"
        }
       },
@@ -2932,16 +2748,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "1:32 - 4th",
+       "detail": "End of 4th",
        "start": "2026-11-22T23:00Z",
-       "period": 4,
-       "clock": "1:32",
+       "period": null,
+       "clock": null,
        "teams": [
         {
          "name": "Oklahoma City Thunder",
          "short": "Thunder",
          "abbr": "OKC",
-         "score": 108,
+         "score": 113,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -2955,9 +2771,9 @@
          "name": "Miami Heat",
          "short": "Heat",
          "abbr": "MIA",
-         "score": 121,
+         "score": 123,
          "ha": "home",
-         "winner": null,
+         "winner": true,
          "linescores": [
           0,
           0,
@@ -3062,16 +2878,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "1:32 - 4th",
+       "detail": "End of 4th",
        "start": "2026-11-22T23:00Z",
-       "period": 4,
-       "clock": "1:32",
+       "period": null,
+       "clock": null,
        "teams": [
         {
          "name": "Oklahoma City Thunder",
          "short": "Thunder",
          "abbr": "OKC",
-         "score": 108,
+         "score": 113,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -3085,9 +2901,9 @@
          "name": "Miami Heat",
          "short": "Heat",
          "abbr": "MIA",
-         "score": 121,
+         "score": 123,
          "ha": "home",
-         "winner": null,
+         "winner": true,
          "linescores": [
           0,
           0,
@@ -3135,16 +2951,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "1:32 - 4th",
+       "detail": "End of 4th",
        "start": "2026-11-22T23:00Z",
-       "period": 4,
-       "clock": "1:32",
+       "period": null,
+       "clock": null,
        "teams": [
         {
          "name": "Oklahoma City Thunder",
          "short": "Thunder",
          "abbr": "OKC",
-         "score": 108,
+         "score": 113,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -3158,9 +2974,9 @@
          "name": "Miami Heat",
          "short": "Heat",
          "abbr": "MIA",
-         "score": 121,
+         "score": 123,
          "ha": "home",
-         "winner": null,
+         "winner": true,
          "linescores": [
           0,
           0,
@@ -3391,6 +3207,217 @@
          "score": 23,
          "ha": "home",
          "winner": true,
+         "linescores": []
+        }
+       ]
+      },
+      "source": "odds-api"
+     }
+    ],
+    "sport": "NFL",
+    "ticket": "sgp"
+   }
+  },
+  {
+   "n": 983,
+   "league": "NFL",
+   "type": "Parlay",
+   "matchup": "Same-game parlay, Minnesota Vikings @ San Francisco 49ers",
+   "pick": "Vikings team points Over 16.5 + C. McCaffrey 3+ receptions + A. Van Ginkel 1+ sacks + K. Cousins Over 35.5 pass attempts + K. Cousins 200+ passing yds; 1u at +475 (book not named on the slip). OFFICIAL user-directed pregame bet, recorded Nov 22 2026 ~5:12 PM PT. Tracker record only; no sportsbook wager execution by us. Ungraded.",
+   "odds": 475,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-22T17:20:00",
+   "timed": true,
+   "ticket": "sgp",
+   "espn": {
+    "legs": [
+     {
+      "kind": "team_total",
+      "side": "Vikings points",
+      "ou": "O",
+      "line": 16.5,
+      "label": "Vikings points O 16.5",
+      "path": "football/nfl",
+      "event": "401873077",
+      "date": "20261122",
+      "snapshot": {
+       "source": "espn",
+       "state": "pre",
+       "detail": "11/22 - 8:20 PM EST",
+       "start": "2026-11-23T01:20Z",
+       "period": null,
+       "clock": null,
+       "teams": [
+        {
+         "name": "Minnesota Vikings",
+         "short": "Vikings",
+         "abbr": "MIN",
+         "score": 0,
+         "ha": "away",
+         "winner": null,
+         "linescores": []
+        },
+        {
+         "name": "San Francisco 49ers",
+         "short": "49ers",
+         "abbr": "SF",
+         "score": 0,
+         "ha": "home",
+         "winner": null,
+         "linescores": []
+        }
+       ]
+      },
+      "source": "espn"
+     },
+     {
+      "kind": "prop",
+      "player": "C. McCaffrey",
+      "ou": "O",
+      "line": 2.5,
+      "stat": "receptions",
+      "label": "C. McCaffrey O 2.5 receptions",
+      "path": "football/nfl",
+      "event": "401873077",
+      "date": "20261122",
+      "snapshot": {
+       "source": "espn",
+       "state": "pre",
+       "detail": "11/22 - 8:20 PM EST",
+       "start": "2026-11-23T01:20Z",
+       "period": null,
+       "clock": null,
+       "teams": [
+        {
+         "name": "Minnesota Vikings",
+         "short": "Vikings",
+         "abbr": "MIN",
+         "score": 0,
+         "ha": "away",
+         "winner": null,
+         "linescores": []
+        },
+        {
+         "name": "San Francisco 49ers",
+         "short": "49ers",
+         "abbr": "SF",
+         "score": 0,
+         "ha": "home",
+         "winner": null,
+         "linescores": []
+        }
+       ]
+      },
+      "source": "espn"
+     },
+     {
+      "kind": "prop",
+      "player": "A. Van Ginkel",
+      "ou": "O",
+      "line": 0.5,
+      "stat": "sacks",
+      "label": "A. Van Ginkel O 0.5 sacks",
+      "path": "football/nfl",
+      "event": "401873077",
+      "date": "20261122",
+      "snapshot": {
+       "source": "espn",
+       "state": "pre",
+       "detail": "11/22 - 8:20 PM EST",
+       "start": "2026-11-23T01:20Z",
+       "period": null,
+       "clock": null,
+       "teams": [
+        {
+         "name": "Minnesota Vikings",
+         "short": "Vikings",
+         "abbr": "MIN",
+         "score": 0,
+         "ha": "away",
+         "winner": null,
+         "linescores": []
+        },
+        {
+         "name": "San Francisco 49ers",
+         "short": "49ers",
+         "abbr": "SF",
+         "score": 0,
+         "ha": "home",
+         "winner": null,
+         "linescores": []
+        }
+       ]
+      },
+      "source": "espn"
+     },
+     {
+      "kind": "team_total",
+      "side": "K. Cousins",
+      "ou": "O",
+      "line": 35.5,
+      "label": "K. Cousins O 35.5",
+      "path": "football/nfl",
+      "event": "401873077",
+      "date": "20261122",
+      "snapshot": {
+       "source": "espn",
+       "state": "pre",
+       "detail": "11/22 - 8:20 PM EST",
+       "start": "2026-11-23T01:20Z",
+       "period": null,
+       "clock": null,
+       "teams": [
+        {
+         "name": "Minnesota Vikings",
+         "short": "Vikings",
+         "abbr": "MIN",
+         "score": 0,
+         "ha": "away",
+         "winner": null,
+         "linescores": []
+        },
+        {
+         "name": "San Francisco 49ers",
+         "short": "49ers",
+         "abbr": "SF",
+         "score": 0,
+         "ha": "home",
+         "winner": null,
+         "linescores": []
+        }
+       ]
+      },
+      "source": "espn"
+     },
+     {
+      "kind": "spread",
+      "side": "K. Cousins 200+ passing yds; 1u at",
+      "line": 475.0,
+      "label": "K. Cousins 200+ passing yds; 1u at +475",
+      "unverified": true,
+      "snapshot": {
+       "source": "odds-api",
+       "state": "pre",
+       "detail": "Scheduled",
+       "start": "2026-11-23T01:25:00Z",
+       "teams": [
+        {
+         "name": "Minnesota Vikings",
+         "short": "Minnesota Vikings",
+         "abbr": "",
+         "score": 0,
+         "ha": "away",
+         "winner": null,
+         "linescores": []
+        },
+        {
+         "name": "San Francisco 49ers",
+         "short": "San Francisco 49ers",
+         "abbr": "",
+         "score": 0,
+         "ha": "home",
+         "winner": null,
          "linescores": []
         }
        ]
