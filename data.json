@@ -1,17 +1,17 @@
 {
- "updated": "Nov 22, 2026, 5:41 PM PT",
+ "updated": "Nov 22, 2026, 5:44 PM PT",
  "record": {
-  "w": 240,
+  "w": 241,
   "l": 237,
   "p": 0,
-  "n": 477,
-  "units": 76.85,
-  "risked": 694.25,
-  "roi": 11.07,
+  "n": 478,
+  "units": 79.46,
+  "risked": 697.25,
+  "roi": 11.4,
   "first": "2026-10-12",
   "last": "2026-11-22"
  },
- "pending": 47,
+ "pending": 46,
  "latest": [
   {
    "n": 974,
@@ -26,6 +26,20 @@
    "result": "W",
    "pl": 4.25,
    "ticket": "sgp"
+  },
+  {
+   "n": 965,
+   "date": "2026-11-22",
+   "day": "2026-11-22",
+   "league": "NBA",
+   "type": "Player Prop",
+   "matchup": "Indiana Pacers @ New York Knicks",
+   "pick": "Andrew Nembhard Over 1.5 made threes",
+   "odds": -115,
+   "units": 3.0,
+   "result": "W",
+   "pl": 2.61,
+   "ticket": "single"
   },
   {
    "n": 956,
@@ -110,20 +124,6 @@
    "result": "W",
    "pl": 7.07,
    "ticket": "single"
-  },
-  {
-   "n": 949,
-   "date": "2026-11-21",
-   "day": "2026-11-21",
-   "league": "NBA",
-   "type": "Player Prop",
-   "matchup": "Milwaukee Bucks @ Philadelphia 76ers",
-   "pick": "Tyler Herro Under 2.5 threes",
-   "odds": 100,
-   "units": 1.0,
-   "result": "L",
-   "pl": -1.0,
-   "ticket": "single"
   }
  ],
  "picks": [
@@ -148,36 +148,7 @@
       "label": "UC San Diego +1.5",
       "path": "basketball/mens-college-basketball",
       "event": "401917542",
-      "date": "20261122",
-      "snapshot": {
-       "source": "espn",
-       "state": "pre",
-       "detail": "11/22 - 9:30 PM EST",
-       "start": "2026-11-23T02:30Z",
-       "period": null,
-       "clock": null,
-       "teams": [
-        {
-         "name": "UC San Diego Tritons",
-         "short": "Tritons",
-         "abbr": "UCSD",
-         "score": 0,
-         "ha": "away",
-         "winner": null,
-         "linescores": []
-        },
-        {
-         "name": "Seattle U Redhawks",
-         "short": "Redhawks",
-         "abbr": "SEA",
-         "score": 0,
-         "ha": "home",
-         "winner": null,
-         "linescores": []
-        }
-       ]
-      },
-      "source": "espn"
+      "date": "20261122"
      }
     ],
     "sport": "NCAAB",
@@ -811,10 +782,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "7:33 - 1st",
+       "detail": "6:50 - 1st",
        "start": "2026-11-23T01:20Z",
        "period": 1,
-       "clock": "7:33",
+       "clock": "6:50",
        "teams": [
         {
          "name": "Minnesota Vikings",
@@ -1552,10 +1523,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "7:33 - 1st",
+       "detail": "6:50 - 1st",
        "start": "2026-11-23T01:20Z",
        "period": 1,
-       "clock": "7:33",
+       "clock": "6:50",
        "teams": [
         {
          "name": "Minnesota Vikings",
@@ -2073,16 +2044,16 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P1 07:20",
+       "detail": "P1 06:55",
        "start": "2026-11-23T01:00:00Z",
        "period": 1,
-       "clock": "07:20",
+       "clock": "06:55",
        "teams": [
         {
          "name": "Blackhawks",
          "short": "CHI",
          "abbr": "CHI",
-         "score": 3,
+         "score": 4,
          "ha": "away",
          "winner": null,
          "linescores": []
@@ -2171,72 +2142,6 @@
      }
     ],
     "sport": "NFL",
-    "ticket": "single"
-   }
-  },
-  {
-   "n": 965,
-   "league": "NBA",
-   "type": "Player Prop",
-   "matchup": "Indiana Pacers @ New York Knicks",
-   "pick": "Andrew Nembhard Over 1.5 made threes",
-   "odds": -115,
-   "units": 3.0,
-   "gap": null,
-   "start": "2026-11-22T17:10:00",
-   "timed": true,
-   "ticket": "single",
-   "espn": {
-    "legs": [
-     {
-      "kind": "prop",
-      "player": "Andrew Nembhard",
-      "ou": "O",
-      "line": 1.5,
-      "stat": "made threes",
-      "label": "Andrew Nembhard O 1.5 made threes",
-      "path": "basketball/nba",
-      "event": "401910034",
-      "date": "20261122",
-      "snapshot": {
-       "source": "espn",
-       "state": "in",
-       "detail": "11:10 - 2nd",
-       "start": "2026-11-23T01:00Z",
-       "period": 2,
-       "clock": "11:10",
-       "teams": [
-        {
-         "name": "Indiana Pacers",
-         "short": "Pacers",
-         "abbr": "IND",
-         "score": 29,
-         "ha": "away",
-         "winner": null,
-         "linescores": [
-          0,
-          0
-         ]
-        },
-        {
-         "name": "New York Knicks",
-         "short": "Knicks",
-         "abbr": "NY",
-         "score": 30,
-         "ha": "home",
-         "winner": null,
-         "linescores": [
-          0,
-          0
-         ]
-        }
-       ],
-       "stat": null
-      },
-      "source": "espn"
-     }
-    ],
-    "sport": "NBA",
     "ticket": "single"
    }
   },
@@ -2333,10 +2238,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P2 13:57",
+       "detail": "P2 11:41",
        "start": "2026-11-23T00:00:00Z",
        "period": 2,
-       "clock": "13:57",
+       "clock": "11:41",
        "teams": [
         {
          "name": "Penguins",
@@ -2637,10 +2542,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P2 16:06",
+       "detail": "P2 13:53",
        "start": "2026-11-23T00:00:00Z",
        "period": 2,
-       "clock": "16:06",
+       "clock": "13:53",
        "teams": [
         {
          "name": "Oilers",
@@ -3254,10 +3159,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "7:33 - 1st",
+       "detail": "6:50 - 1st",
        "start": "2026-11-23T01:20Z",
        "period": 1,
-       "clock": "7:33",
+       "clock": "6:50",
        "teams": [
         {
          "name": "Minnesota Vikings",
@@ -3298,10 +3203,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "7:33 - 1st",
+       "detail": "6:50 - 1st",
        "start": "2026-11-23T01:20Z",
        "period": 1,
-       "clock": "7:33",
+       "clock": "6:50",
        "teams": [
         {
          "name": "Minnesota Vikings",
@@ -3343,10 +3248,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "7:33 - 1st",
+       "detail": "6:50 - 1st",
        "start": "2026-11-23T01:20Z",
        "period": 1,
-       "clock": "7:33",
+       "clock": "6:50",
        "teams": [
         {
          "name": "Minnesota Vikings",
@@ -3390,10 +3295,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "7:33 - 1st",
+       "detail": "6:50 - 1st",
        "start": "2026-11-23T01:20Z",
        "period": 1,
-       "clock": "7:33",
+       "clock": "6:50",
        "teams": [
         {
          "name": "Minnesota Vikings",
@@ -3623,8 +3528,8 @@
    "n": 22
   },
   "2026-11-22": {
-   "u": 4.25,
-   "n": 1
+   "u": 6.86,
+   "n": 2
   }
  }
 }

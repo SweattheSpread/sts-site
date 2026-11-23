@@ -1,17 +1,17 @@
 {
- "updated": "Nov 22, 2026, 5:41 PM PT",
+ "updated": "Nov 22, 2026, 5:44 PM PT",
  "record": {
-  "w": 240,
+  "w": 241,
   "l": 237,
   "p": 0,
-  "n": 477,
-  "units": 76.85,
-  "risked": 694.25,
-  "roi": 11.07,
+  "n": 478,
+  "units": 79.46,
+  "risked": 697.25,
+  "roi": 11.4,
   "first": "2026-10-12",
   "last": "2026-11-22"
  },
- "pending": 49,
+ "pending": 48,
  "plays": [
   {
    "n": 334,
@@ -8137,9 +8137,9 @@
    "pick": "Andrew Nembhard Over 1.5 made threes",
    "odds": -115,
    "units": 3.0,
-   "result": null,
-   "pl": null,
-   "pending": true
+   "result": "W",
+   "pl": 2.61,
+   "pending": false
   },
   {
    "n": 966,
