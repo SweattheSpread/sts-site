@@ -1,5 +1,5 @@
 {
- "updated": "Nov 22, 2026, 6:58 PM PT",
+ "updated": "Nov 22, 2026, 7:00 PM PT",
  "record": {
   "w": 241,
   "l": 237,
@@ -2020,10 +2020,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P2 10:52",
+       "detail": "P2 08:36",
        "start": "2026-11-23T01:00:00Z",
        "period": 2,
-       "clock": "10:52",
+       "clock": "08:36",
        "teams": [
         {
          "name": "Blackhawks",
@@ -2459,10 +2459,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "13:06 - 1st",
+       "detail": "11:51 - 1st",
        "start": "2026-11-23T02:45Z",
        "period": 1,
-       "clock": "13:06",
+       "clock": "11:51",
        "teams": [
         {
          "name": "UC San Diego Tritons",
@@ -2479,7 +2479,7 @@
          "name": "Seattle U Redhawks",
          "short": "Redhawks",
          "abbr": "SEA",
-         "score": 19,
+         "score": 21,
          "ha": "home",
          "winner": null,
          "linescores": [
