@@ -1,5 +1,5 @@
 {
- "updated": "Nov 23, 2026, 7:53 AM PT",
+ "updated": "Nov 23, 2026, 9:13 AM PT",
  "record": {
   "w": 261,
   "l": 255,
@@ -11,7 +11,7 @@
   "first": "2026-10-12",
   "last": "2026-11-22"
  },
- "pending": 16,
+ "pending": 17,
  "plays": [
   {
    "n": 334,
@@ -8505,6 +8505,22 @@
    "pick": "Under 6.5 -110",
    "odds": -110,
    "units": 0.5,
+   "result": null,
+   "pl": null,
+   "pending": true
+  },
+  {
+   "n": 992,
+   "date": "2026-11-23",
+   "day": "2026-11-23",
+   "league": "NBA",
+   "market": "player_prop",
+   "market_label": "Player Prop",
+   "ticket": "single",
+   "matchup": "Los Angeles Clippers @ Houston Rockets",
+   "pick": "Brook Lopez Over 1.5 Threes",
+   "odds": 120,
+   "units": 1.0,
    "result": null,
    "pl": null,
    "pending": true
