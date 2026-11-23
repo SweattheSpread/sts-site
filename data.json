@@ -1,5 +1,5 @@
 {
- "updated": "Nov 22, 2026, 8:57 PM PT",
+ "updated": "Nov 22, 2026, 9:15 PM PT",
  "record": {
   "w": 253,
   "l": 246,
@@ -11,7 +11,7 @@
   "first": "2026-10-12",
   "last": "2026-11-22"
  },
- "pending": 25,
+ "pending": 26,
  "latest": [
   {
    "n": 982,
@@ -455,6 +455,63 @@
          "name": "Buffalo Bills",
          "short": "Bills",
          "abbr": "BUF",
+         "score": 0,
+         "ha": "home",
+         "winner": null,
+         "linescores": []
+        }
+       ]
+      },
+      "source": "espn"
+     }
+    ],
+    "sport": "NFL",
+    "ticket": "single"
+   }
+  },
+  {
+   "n": 983,
+   "league": "NFL",
+   "type": "Spread",
+   "matchup": "New York Giants @ Indianapolis Colts",
+   "pick": "Indianapolis Colts +6.5 (-105)",
+   "odds": -105,
+   "units": 1.0,
+   "gap": 4.5,
+   "start": "2026-11-29T10:00:00",
+   "timed": true,
+   "ticket": "single",
+   "espn": {
+    "legs": [
+     {
+      "kind": "spread",
+      "side": "Indianapolis Colts",
+      "line": 6.5,
+      "label": "Indianapolis Colts +6.5",
+      "path": "football/nfl",
+      "event": "401873088",
+      "date": "20261129",
+      "snapshot": {
+       "source": "espn",
+       "state": "pre",
+       "detail": "11/29 - 1:00 PM EST",
+       "start": "2026-11-29T18:00Z",
+       "period": null,
+       "clock": null,
+       "teams": [
+        {
+         "name": "New York Giants",
+         "short": "Giants",
+         "abbr": "NYG",
+         "score": 0,
+         "ha": "away",
+         "winner": null,
+         "linescores": []
+        },
+        {
+         "name": "Indianapolis Colts",
+         "short": "Colts",
+         "abbr": "IND",
          "score": 0,
          "ha": "home",
          "winner": null,
