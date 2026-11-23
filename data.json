@@ -1,5 +1,5 @@
 {
- "updated": "Nov 22, 2026, 9:15 PM PT",
+ "updated": "Nov 22, 2026, 9:23 PM PT",
  "record": {
   "w": 253,
   "l": 246,
@@ -11,7 +11,7 @@
   "first": "2026-10-12",
   "last": "2026-11-22"
  },
- "pending": 26,
+ "pending": 27,
  "latest": [
   {
    "n": 982,
@@ -127,6 +127,54 @@
   }
  ],
  "picks": [
+  {
+   "n": 984,
+   "league": "Tennis",
+   "type": "Moneyline",
+   "matchup": "Monastir 2 Challenger: Karim Rahmani vs Dimitri Blanch",
+   "pick": "Blanch D. ML",
+   "odds": -175,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-23T07:00:00",
+   "timed": true,
+   "ticket": "single",
+   "espn": {
+    "legs": [
+     {
+      "kind": "ml",
+      "side": "Blanch D.",
+      "label": "Blanch D. ML",
+      "snapshot": {
+       "source": "tennis-explorer",
+       "path": "tennis/explorer",
+       "event": "3385652",
+       "state": "pre",
+       "detail": "Scheduled",
+       "tennis": [
+        {
+         "name": "Rahmani K.",
+         "winner": false,
+         "sets": []
+        },
+        {
+         "name": "Blanch D.",
+         "winner": false,
+         "sets": []
+        }
+       ],
+       "tour": "Monastir 2 challenger"
+      },
+      "path": "tennis/explorer",
+      "event": "3385652",
+      "source": "tennis-explorer",
+      "date": "20261123"
+     }
+    ],
+    "sport": "Tennis",
+    "ticket": "single"
+   }
+  },
   {
    "n": 882,
    "league": "NFL",
