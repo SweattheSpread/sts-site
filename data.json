@@ -1,5 +1,5 @@
 {
- "updated": "Nov 22, 2026, 6:05 PM PT",
+ "updated": "Nov 22, 2026, 6:07 PM PT",
  "record": {
   "w": 241,
   "l": 237,
@@ -811,10 +811,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "15:00 - 2nd",
+       "detail": "14:13 - 2nd",
        "start": "2026-11-23T01:20Z",
        "period": 2,
-       "clock": "15:00",
+       "clock": "14:13",
        "teams": [
         {
          "name": "Minnesota Vikings",
@@ -832,7 +832,7 @@
          "name": "San Francisco 49ers",
          "short": "49ers",
          "abbr": "SF",
-         "score": 7,
+         "score": 14,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -1554,10 +1554,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "15:00 - 2nd",
+       "detail": "14:13 - 2nd",
        "start": "2026-11-23T01:20Z",
        "period": 2,
-       "clock": "15:00",
+       "clock": "14:13",
        "teams": [
         {
          "name": "Minnesota Vikings",
@@ -1575,7 +1575,7 @@
          "name": "San Francisco 49ers",
          "short": "49ers",
          "abbr": "SF",
-         "score": 7,
+         "score": 14,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -2077,10 +2077,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P1 08:36",
+       "detail": "P1 06:22",
        "start": "2026-11-23T01:00:00Z",
        "period": 1,
-       "clock": "08:36",
+       "clock": "06:22",
        "teams": [
         {
          "name": "Blackhawks",
@@ -2271,10 +2271,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P3 16:04",
+       "detail": "P3 14:24",
        "start": "2026-11-23T00:00:00Z",
        "period": 3,
-       "clock": "16:04",
+       "clock": "14:24",
        "teams": [
         {
          "name": "Penguins",
@@ -2575,10 +2575,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P3 16:53",
+       "detail": "P3 15:36",
        "start": "2026-11-23T00:00:00Z",
        "period": 3,
-       "clock": "16:53",
+       "clock": "15:36",
        "teams": [
         {
          "name": "Oilers",
@@ -3192,10 +3192,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "15:00 - 2nd",
+       "detail": "14:13 - 2nd",
        "start": "2026-11-23T01:20Z",
        "period": 2,
-       "clock": "15:00",
+       "clock": "14:13",
        "teams": [
         {
          "name": "Minnesota Vikings",
@@ -3213,7 +3213,7 @@
          "name": "San Francisco 49ers",
          "short": "49ers",
          "abbr": "SF",
-         "score": 7,
+         "score": 14,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -3238,10 +3238,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "15:00 - 2nd",
+       "detail": "14:13 - 2nd",
        "start": "2026-11-23T01:20Z",
        "period": 2,
-       "clock": "15:00",
+       "clock": "14:13",
        "teams": [
         {
          "name": "Minnesota Vikings",
@@ -3259,7 +3259,7 @@
          "name": "San Francisco 49ers",
          "short": "49ers",
          "abbr": "SF",
-         "score": 7,
+         "score": 14,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -3285,10 +3285,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "15:00 - 2nd",
+       "detail": "14:13 - 2nd",
        "start": "2026-11-23T01:20Z",
        "period": 2,
-       "clock": "15:00",
+       "clock": "14:13",
        "teams": [
         {
          "name": "Minnesota Vikings",
@@ -3306,7 +3306,7 @@
          "name": "San Francisco 49ers",
          "short": "49ers",
          "abbr": "SF",
-         "score": 7,
+         "score": 14,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -3334,10 +3334,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "15:00 - 2nd",
+       "detail": "14:13 - 2nd",
        "start": "2026-11-23T01:20Z",
        "period": 2,
-       "clock": "15:00",
+       "clock": "14:13",
        "teams": [
         {
          "name": "Minnesota Vikings",
@@ -3355,7 +3355,7 @@
          "name": "San Francisco 49ers",
          "short": "49ers",
          "abbr": "SF",
-         "score": 7,
+         "score": 14,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -3392,7 +3392,7 @@
          "name": "San Francisco 49ers",
          "short": "San Francisco 49ers",
          "abbr": "",
-         "score": 7,
+         "score": 14,
          "ha": "home",
          "winner": null,
          "linescores": []
