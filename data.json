@@ -1,5 +1,5 @@
 {
- "updated": "Nov 23, 2026, 11:55 AM PT",
+ "updated": "Nov 23, 2026, 11:57 AM PT",
  "record": {
   "w": 261,
   "l": 255,
@@ -11,7 +11,7 @@
   "first": "2026-10-12",
   "last": "2026-11-22"
  },
- "pending": 26,
+ "pending": 25,
  "latest": [
   {
    "n": 982,
@@ -1536,66 +1536,6 @@
      }
     ],
     "sport": "Tennis",
-    "ticket": "single"
-   }
-  },
-  {
-   "n": 1001,
-   "league": "NCAAB",
-   "type": "Moneyline",
-   "matchup": "Tulsa Golden Hurricane @ Oregon State Beavers",
-   "pick": "Oregon State ML, live",
-   "odds": -145,
-   "units": 5.0,
-   "gap": null,
-   "start": "2026-11-23T11:00:00",
-   "timed": true,
-   "ticket": "single",
-   "espn": {
-    "legs": [
-     {
-      "kind": "ml",
-      "side": "Oregon State",
-      "label": "Oregon State ML",
-      "path": "basketball/mens-college-basketball",
-      "event": "401921658",
-      "date": "20261123",
-      "snapshot": {
-       "source": "espn",
-       "state": "in",
-       "detail": "Halftime",
-       "start": "2026-11-23T19:00Z",
-       "period": 1,
-       "clock": "0:00",
-       "teams": [
-        {
-         "name": "Tulsa Golden Hurricane",
-         "short": "Golden Hurricane",
-         "abbr": "TLSA",
-         "score": 34,
-         "ha": "away",
-         "winner": null,
-         "linescores": [
-          0
-         ]
-        },
-        {
-         "name": "Oregon State Beavers",
-         "short": "Beavers",
-         "abbr": "ORST",
-         "score": 32,
-         "ha": "home",
-         "winner": null,
-         "linescores": [
-          0
-         ]
-        }
-       ]
-      },
-      "source": "espn"
-     }
-    ],
-    "sport": "NCAAB",
     "ticket": "single"
    }
   }

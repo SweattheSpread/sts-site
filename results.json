@@ -1,5 +1,5 @@
 {
- "updated": "Nov 23, 2026, 11:55 AM PT",
+ "updated": "Nov 23, 2026, 11:57 AM PT",
  "record": {
   "w": 261,
   "l": 255,
@@ -11,7 +11,7 @@
   "first": "2026-10-12",
   "last": "2026-11-22"
  },
- "pending": 26,
+ "pending": 25,
  "plays": [
   {
    "n": 334,
@@ -8649,22 +8649,6 @@
    "pick": "Kent Johnson Over 0.5 Points",
    "odds": 105,
    "units": 1.0,
-   "result": null,
-   "pl": null,
-   "pending": true
-  },
-  {
-   "n": 1001,
-   "date": "2026-11-23",
-   "day": "2026-11-23",
-   "league": "NCAAB",
-   "market": "ml",
-   "market_label": "Moneyline",
-   "ticket": "single",
-   "matchup": "Tulsa Golden Hurricane @ Oregon State Beavers",
-   "pick": "Oregon State ML, live",
-   "odds": -145,
-   "units": 5.0,
    "result": null,
    "pl": null,
    "pending": true
