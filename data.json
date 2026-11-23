@@ -1,5 +1,5 @@
 {
- "updated": "Nov 22, 2026, 6:07 PM PT",
+ "updated": "Nov 22, 2026, 6:10 PM PT",
  "record": {
   "w": 241,
   "l": 237,
@@ -811,10 +811,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "14:13 - 2nd",
+       "detail": "14:06 - 2nd",
        "start": "2026-11-23T01:20Z",
        "period": 2,
-       "clock": "14:13",
+       "clock": "14:06",
        "teams": [
         {
          "name": "Minnesota Vikings",
@@ -1554,10 +1554,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "14:13 - 2nd",
+       "detail": "14:06 - 2nd",
        "start": "2026-11-23T01:20Z",
        "period": 2,
-       "clock": "14:13",
+       "clock": "14:06",
        "teams": [
         {
          "name": "Minnesota Vikings",
@@ -2077,10 +2077,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P1 06:22",
+       "detail": "P1 03:49",
        "start": "2026-11-23T01:00:00Z",
        "period": 1,
-       "clock": "06:22",
+       "clock": "03:49",
        "teams": [
         {
          "name": "Blackhawks",
@@ -2271,10 +2271,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P3 14:24",
+       "detail": "P3 13:16",
        "start": "2026-11-23T00:00:00Z",
        "period": 3,
-       "clock": "14:24",
+       "clock": "13:16",
        "teams": [
         {
          "name": "Penguins",
@@ -2575,16 +2575,16 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P3 15:36",
+       "detail": "P3 14:34",
        "start": "2026-11-23T00:00:00Z",
        "period": 3,
-       "clock": "15:36",
+       "clock": "14:34",
        "teams": [
         {
          "name": "Oilers",
          "short": "EDM",
          "abbr": "EDM",
-         "score": 3,
+         "score": 4,
          "ha": "away",
          "winner": null,
          "linescores": []
@@ -3192,10 +3192,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "14:13 - 2nd",
+       "detail": "14:06 - 2nd",
        "start": "2026-11-23T01:20Z",
        "period": 2,
-       "clock": "14:13",
+       "clock": "14:06",
        "teams": [
         {
          "name": "Minnesota Vikings",
@@ -3238,10 +3238,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "14:13 - 2nd",
+       "detail": "14:06 - 2nd",
        "start": "2026-11-23T01:20Z",
        "period": 2,
-       "clock": "14:13",
+       "clock": "14:06",
        "teams": [
         {
          "name": "Minnesota Vikings",
@@ -3285,10 +3285,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "14:13 - 2nd",
+       "detail": "14:06 - 2nd",
        "start": "2026-11-23T01:20Z",
        "period": 2,
-       "clock": "14:13",
+       "clock": "14:06",
        "teams": [
         {
          "name": "Minnesota Vikings",
@@ -3334,10 +3334,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "14:13 - 2nd",
+       "detail": "14:06 - 2nd",
        "start": "2026-11-23T01:20Z",
        "period": 2,
-       "clock": "14:13",
+       "clock": "14:06",
        "teams": [
         {
          "name": "Minnesota Vikings",
