@@ -1,5 +1,5 @@
 {
- "updated": "Nov 23, 2026, 12:25 AM PT",
+ "updated": "Nov 23, 2026, 1:19 AM PT",
  "record": {
   "w": 261,
   "l": 255,
@@ -11,7 +11,7 @@
   "first": "2026-10-12",
   "last": "2026-11-22"
  },
- "pending": 9,
+ "pending": 10,
  "latest": [
   {
    "n": 982,
@@ -172,6 +172,63 @@
      }
     ],
     "sport": "Tennis",
+    "ticket": "single"
+   }
+  },
+  {
+   "n": 985,
+   "league": "NCAAB",
+   "type": "Spread",
+   "matchup": "Tulane Green Wave @ Georgia State Panthers",
+   "pick": "Tulane +1.5",
+   "odds": -110,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-23T13:00:00",
+   "timed": true,
+   "ticket": "single",
+   "espn": {
+    "legs": [
+     {
+      "kind": "spread",
+      "side": "Tulane",
+      "line": 1.5,
+      "label": "Tulane +1.5",
+      "path": "basketball/mens-college-basketball",
+      "event": "401919006",
+      "date": "20261123",
+      "snapshot": {
+       "source": "espn",
+       "state": "pre",
+       "detail": "11/23 - 4:00 PM EST",
+       "start": "2026-11-23T21:00Z",
+       "period": null,
+       "clock": null,
+       "teams": [
+        {
+         "name": "Tulane Green Wave",
+         "short": "Green Wave",
+         "abbr": "TULN",
+         "score": 0,
+         "ha": "away",
+         "winner": null,
+         "linescores": []
+        },
+        {
+         "name": "Georgia State Panthers",
+         "short": "Panthers",
+         "abbr": "GAST",
+         "score": 0,
+         "ha": "home",
+         "winner": null,
+         "linescores": []
+        }
+       ]
+      },
+      "source": "espn"
+     }
+    ],
+    "sport": "NCAAB",
     "ticket": "single"
    }
   },
