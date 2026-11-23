@@ -1,5 +1,5 @@
 {
- "updated": "Nov 22, 2026, 4:09 PM PT",
+ "updated": "Nov 22, 2026, 4:13 PM PT",
  "record": {
   "w": 239,
   "l": 237,
@@ -127,134 +127,6 @@
   }
  ],
  "picks": [
-  {
-   "n": 967,
-   "league": "NHL",
-   "type": "Player Prop",
-   "matchup": "Pittsburgh Penguins @ Dallas Stars",
-   "pick": "Jamie Benn Under 0.5 points",
-   "odds": -135,
-   "units": 1.0,
-   "gap": null,
-   "start": "2026-11-22T16:10:00",
-   "timed": true,
-   "ticket": "single",
-   "espn": {
-    "legs": [
-     {
-      "kind": "prop",
-      "player": "Jamie Benn",
-      "ou": "U",
-      "line": 0.5,
-      "stat": "points",
-      "label": "Jamie Benn U 0.5 points",
-      "path": "hockey/nhl",
-      "event": "401892771",
-      "date": "20261122",
-      "snapshot": {
-       "source": "nhl",
-       "state": "in",
-       "detail": "P1 19:13",
-       "start": "2026-11-23T00:00:00Z",
-       "period": 1,
-       "clock": "19:13",
-       "teams": [
-        {
-         "name": "Penguins",
-         "short": "PIT",
-         "abbr": "PIT",
-         "score": 0,
-         "ha": "away",
-         "winner": null,
-         "linescores": []
-        },
-        {
-         "name": "Stars",
-         "short": "DAL",
-         "abbr": "DAL",
-         "score": 0,
-         "ha": "home",
-         "winner": null,
-         "linescores": []
-        }
-       ],
-       "nhl_id": 2026020376,
-       "stat": {
-        "v": 0,
-        "name": "J. Benn"
-       }
-      },
-      "source": "nhl"
-     }
-    ],
-    "sport": "NHL",
-    "ticket": "single"
-   }
-  },
-  {
-   "n": 973,
-   "league": "NHL",
-   "type": "Player Prop",
-   "matchup": "Edmonton Oilers @ St Louis Blues",
-   "pick": "Vasily Podkolzin Over 0.5 Points",
-   "odds": 100,
-   "units": 2.0,
-   "gap": null,
-   "start": "2026-11-22T16:10:00",
-   "timed": true,
-   "ticket": "single",
-   "espn": {
-    "legs": [
-     {
-      "kind": "prop",
-      "player": "Vasily Podkolzin",
-      "ou": "O",
-      "line": 0.5,
-      "stat": "points",
-      "label": "Vasily Podkolzin O 0.5 points",
-      "path": "hockey/nhl",
-      "event": "401892770",
-      "date": "20261122",
-      "snapshot": {
-       "source": "nhl",
-       "state": "in",
-       "detail": "P1 18:56",
-       "start": "2026-11-23T00:00:00Z",
-       "period": 1,
-       "clock": "18:56",
-       "teams": [
-        {
-         "name": "Oilers",
-         "short": "EDM",
-         "abbr": "EDM",
-         "score": 0,
-         "ha": "away",
-         "winner": null,
-         "linescores": []
-        },
-        {
-         "name": "Blues",
-         "short": "STL",
-         "abbr": "STL",
-         "score": 0,
-         "ha": "home",
-         "winner": null,
-         "linescores": []
-        }
-       ],
-       "nhl_id": 2026020375,
-       "stat": {
-        "v": 0,
-        "name": "V. Podkolzin"
-       }
-      },
-      "source": "nhl"
-     }
-    ],
-    "sport": "NHL",
-    "ticket": "single"
-   }
-  },
   {
    "n": 963,
    "league": "NHL",
@@ -1038,10 +910,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "8:45 - 4th",
+       "detail": "7:31 - 4th",
        "start": "2026-11-22T21:25Z",
        "period": 4,
-       "clock": "8:45",
+       "clock": "7:31",
        "teams": [
         {
          "name": "Las Vegas Raiders",
@@ -1444,10 +1316,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "8:45 - 4th",
+       "detail": "7:31 - 4th",
        "start": "2026-11-22T21:25Z",
        "period": 4,
-       "clock": "8:45",
+       "clock": "7:31",
        "teams": [
         {
          "name": "Las Vegas Raiders",
@@ -1512,10 +1384,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "12:17 - 4th",
+       "detail": "11:15 - 4th",
        "start": "2026-11-22T21:25Z",
        "period": 4,
-       "clock": "12:17",
+       "clock": "11:15",
        "teams": [
         {
          "name": "Jacksonville Jaguars",
@@ -2123,10 +1995,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P3 17:19",
+       "detail": "P3 14:37",
        "start": "2026-11-22T22:00:00Z",
        "period": 3,
-       "clock": "17:19",
+       "clock": "14:37",
        "teams": [
         {
          "name": "Sabres",
@@ -2420,6 +2292,70 @@
    }
   },
   {
+   "n": 967,
+   "league": "NHL",
+   "type": "Player Prop",
+   "matchup": "Pittsburgh Penguins @ Dallas Stars",
+   "pick": "Jamie Benn Under 0.5 points",
+   "odds": -135,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-22T16:10:00",
+   "timed": true,
+   "ticket": "single",
+   "espn": {
+    "legs": [
+     {
+      "kind": "prop",
+      "player": "Jamie Benn",
+      "ou": "U",
+      "line": 0.5,
+      "stat": "points",
+      "label": "Jamie Benn U 0.5 points",
+      "path": "hockey/nhl",
+      "event": "401892771",
+      "date": "20261122",
+      "snapshot": {
+       "source": "nhl",
+       "state": "in",
+       "detail": "P1 16:28",
+       "start": "2026-11-23T00:00:00Z",
+       "period": 1,
+       "clock": "16:28",
+       "teams": [
+        {
+         "name": "Penguins",
+         "short": "PIT",
+         "abbr": "PIT",
+         "score": 0,
+         "ha": "away",
+         "winner": null,
+         "linescores": []
+        },
+        {
+         "name": "Stars",
+         "short": "DAL",
+         "abbr": "DAL",
+         "score": 0,
+         "ha": "home",
+         "winner": null,
+         "linescores": []
+        }
+       ],
+       "nhl_id": 2026020376,
+       "stat": {
+        "v": 0,
+        "name": "J. Benn"
+       }
+      },
+      "source": "nhl"
+     }
+    ],
+    "sport": "NHL",
+    "ticket": "single"
+   }
+  },
+  {
    "n": 968,
    "league": "NCAAB",
    "type": "Spread",
@@ -2560,16 +2496,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "0:41 - 2OT",
+       "detail": "0:05 - 2OT",
        "start": "2026-11-22T21:30Z",
        "period": 4,
-       "clock": "0:41",
+       "clock": "0:05",
        "teams": [
         {
          "name": "Richmond Spiders",
          "short": "Spiders",
          "abbr": "RICH",
-         "score": 90,
+         "score": 91,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -2660,6 +2596,70 @@
    }
   },
   {
+   "n": 973,
+   "league": "NHL",
+   "type": "Player Prop",
+   "matchup": "Edmonton Oilers @ St Louis Blues",
+   "pick": "Vasily Podkolzin Over 0.5 Points",
+   "odds": 100,
+   "units": 2.0,
+   "gap": null,
+   "start": "2026-11-22T16:10:00",
+   "timed": true,
+   "ticket": "single",
+   "espn": {
+    "legs": [
+     {
+      "kind": "prop",
+      "player": "Vasily Podkolzin",
+      "ou": "O",
+      "line": 0.5,
+      "stat": "points",
+      "label": "Vasily Podkolzin O 0.5 points",
+      "path": "hockey/nhl",
+      "event": "401892770",
+      "date": "20261122",
+      "snapshot": {
+       "source": "nhl",
+       "state": "in",
+       "detail": "P1 15:53",
+       "start": "2026-11-23T00:00:00Z",
+       "period": 1,
+       "clock": "15:53",
+       "teams": [
+        {
+         "name": "Oilers",
+         "short": "EDM",
+         "abbr": "EDM",
+         "score": 0,
+         "ha": "away",
+         "winner": null,
+         "linescores": []
+        },
+        {
+         "name": "Blues",
+         "short": "STL",
+         "abbr": "STL",
+         "score": 0,
+         "ha": "home",
+         "winner": null,
+         "linescores": []
+        }
+       ],
+       "nhl_id": 2026020375,
+       "stat": {
+        "v": 0,
+        "name": "V. Podkolzin"
+       }
+      },
+      "source": "nhl"
+     }
+    ],
+    "sport": "NHL",
+    "ticket": "single"
+   }
+  },
+  {
    "n": 974,
    "league": "NFL",
    "type": "Parlay",
@@ -2686,10 +2686,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "8:45 - 4th",
+       "detail": "7:31 - 4th",
        "start": "2026-11-22T21:25Z",
        "period": 4,
-       "clock": "8:45",
+       "clock": "7:31",
        "teams": [
         {
          "name": "Las Vegas Raiders",
@@ -2737,10 +2737,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "8:45 - 4th",
+       "detail": "7:31 - 4th",
        "start": "2026-11-22T21:25Z",
        "period": 4,
-       "clock": "8:45",
+       "clock": "7:31",
        "teams": [
         {
          "name": "Las Vegas Raiders",
@@ -2788,10 +2788,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "8:45 - 4th",
+       "detail": "7:31 - 4th",
        "start": "2026-11-22T21:25Z",
        "period": 4,
-       "clock": "8:45",
+       "clock": "7:31",
        "teams": [
         {
          "name": "Las Vegas Raiders",
@@ -2839,10 +2839,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "8:45 - 4th",
+       "detail": "7:31 - 4th",
        "start": "2026-11-22T21:25Z",
        "period": 4,
-       "clock": "8:45",
+       "clock": "7:31",
        "teams": [
         {
          "name": "Las Vegas Raiders",
@@ -2890,10 +2890,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "12:17 - 4th",
+       "detail": "11:15 - 4th",
        "start": "2026-11-22T21:25Z",
        "period": 4,
-       "clock": "12:17",
+       "clock": "11:15",
        "teams": [
         {
          "name": "Jacksonville Jaguars",
@@ -2941,10 +2941,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "12:17 - 4th",
+       "detail": "11:15 - 4th",
        "start": "2026-11-22T21:25Z",
        "period": 4,
-       "clock": "12:17",
+       "clock": "11:15",
        "teams": [
         {
          "name": "Jacksonville Jaguars",
@@ -2992,10 +2992,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "12:17 - 4th",
+       "detail": "11:15 - 4th",
        "start": "2026-11-22T21:25Z",
        "period": 4,
-       "clock": "12:17",
+       "clock": "11:15",
        "teams": [
         {
          "name": "Jacksonville Jaguars",
@@ -3046,10 +3046,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "12:17 - 4th",
+       "detail": "11:15 - 4th",
        "start": "2026-11-22T21:25Z",
        "period": 4,
-       "clock": "12:17",
+       "clock": "11:15",
        "teams": [
         {
          "name": "Jacksonville Jaguars",
@@ -3097,10 +3097,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "12:17 - 4th",
+       "detail": "11:15 - 4th",
        "start": "2026-11-22T21:25Z",
        "period": 4,
-       "clock": "12:17",
+       "clock": "11:15",
        "teams": [
         {
          "name": "Jacksonville Jaguars",
@@ -3164,10 +3164,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P3 17:19",
+       "detail": "P3 14:37",
        "start": "2026-11-22T22:00:00Z",
        "period": 3,
-       "clock": "17:19",
+       "clock": "14:37",
        "teams": [
         {
          "name": "Sabres",
@@ -3293,10 +3293,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "8:45 - 4th",
+       "detail": "7:31 - 4th",
        "start": "2026-11-22T21:25Z",
        "period": 4,
-       "clock": "8:45",
+       "clock": "7:31",
        "teams": [
         {
          "name": "Las Vegas Raiders",
@@ -3363,10 +3363,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "8:45 - 4th",
+       "detail": "7:31 - 4th",
        "start": "2026-11-22T21:25Z",
        "period": 4,
-       "clock": "8:45",
+       "clock": "7:31",
        "teams": [
         {
          "name": "Las Vegas Raiders",
