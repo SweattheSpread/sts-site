@@ -1,5 +1,5 @@
 {
- "updated": "Nov 23, 2026, 6:49 AM PT",
+ "updated": "Nov 23, 2026, 7:53 AM PT",
  "record": {
   "w": 261,
   "l": 255,
@@ -11,7 +11,7 @@
   "first": "2026-10-12",
   "last": "2026-11-22"
  },
- "pending": 12,
+ "pending": 16,
  "plays": [
   {
    "n": 334,
@@ -8494,6 +8494,22 @@
    "pending": true
   },
   {
+   "n": 988,
+   "date": "2026-11-23",
+   "day": "2026-11-23",
+   "league": "NHL",
+   "market": "total",
+   "market_label": "Total",
+   "ticket": "single",
+   "matchup": "Utah Mammoth @ Winnipeg Jets",
+   "pick": "Under 6.5 -110",
+   "odds": -110,
+   "units": 0.5,
+   "result": null,
+   "pl": null,
+   "pending": true
+  },
+  {
    "n": 852,
    "date": "2026-11-18",
    "day": "2026-11-25",
@@ -8504,6 +8520,22 @@
    "matchup": "Green Bay Packers @ Los Angeles Rams",
    "pick": "Los Angeles Rams -3.5 (-117)",
    "odds": -117,
+   "units": 1.0,
+   "result": null,
+   "pl": null,
+   "pending": true
+  },
+  {
+   "n": 989,
+   "date": "2026-11-25",
+   "day": "2026-11-25",
+   "league": "NFL",
+   "market": "total",
+   "market_label": "Total",
+   "ticket": "single",
+   "matchup": "Green Bay Packers @ Los Angeles Rams",
+   "pick": "Over 44 -110",
+   "odds": -110,
    "units": 1.0,
    "result": null,
    "pl": null,
@@ -8552,6 +8584,38 @@
    "matchup": "Kansas City Chiefs @ Buffalo Bills",
    "pick": "Buffalo Bills -3",
    "odds": -109,
+   "units": 1.0,
+   "result": null,
+   "pl": null,
+   "pending": true
+  },
+  {
+   "n": 990,
+   "date": "2026-11-26",
+   "day": "2026-11-26",
+   "league": "NFL",
+   "market": "total",
+   "market_label": "Total",
+   "ticket": "single",
+   "matchup": "Philadelphia Eagles @ Dallas Cowboys",
+   "pick": "Over 48 -108",
+   "odds": -108,
+   "units": 1.0,
+   "result": null,
+   "pl": null,
+   "pending": true
+  },
+  {
+   "n": 991,
+   "date": "2026-11-26",
+   "day": "2026-11-26",
+   "league": "NFL",
+   "market": "ml",
+   "market_label": "Moneyline",
+   "ticket": "single",
+   "matchup": "Kansas City Chiefs @ Buffalo Bills",
+   "pick": "Buffalo Bills ML -154",
+   "odds": -154,
    "units": 1.0,
    "result": null,
    "pl": null,
