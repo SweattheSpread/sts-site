@@ -1,5 +1,5 @@
 {
- "updated": "Nov 23, 2026, 1:19 AM PT",
+ "updated": "Nov 23, 2026, 4:46 AM PT",
  "record": {
   "w": 261,
   "l": 255,
@@ -11,7 +11,7 @@
   "first": "2026-10-12",
   "last": "2026-11-22"
  },
- "pending": 10,
+ "pending": 12,
  "latest": [
   {
    "n": 982,
@@ -233,6 +233,66 @@
    }
   },
   {
+   "n": 986,
+   "league": "NHL",
+   "type": "Player Prop",
+   "matchup": "Columbus Blue Jackets @ New Jersey Devils",
+   "pick": "Jack Hughes Over 1.5 Points",
+   "odds": 190,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-23T16:10:00",
+   "timed": true,
+   "ticket": "single",
+   "espn": {
+    "legs": [
+     {
+      "kind": "prop",
+      "player": "Jack Hughes",
+      "ou": "O",
+      "line": 1.5,
+      "stat": "points",
+      "label": "Jack Hughes O 1.5 points",
+      "path": "hockey/nhl",
+      "event": "401892773",
+      "date": "20261123",
+      "snapshot": {
+       "source": "nhl",
+       "state": "pre",
+       "detail": "Scheduled",
+       "start": "2026-11-24T00:00:00Z",
+       "period": null,
+       "clock": null,
+       "teams": [
+        {
+         "name": "Blue Jackets",
+         "short": "CBJ",
+         "abbr": "CBJ",
+         "score": 0,
+         "ha": "away",
+         "winner": null,
+         "linescores": []
+        },
+        {
+         "name": "Devils",
+         "short": "NJD",
+         "abbr": "NJD",
+         "score": 0,
+         "ha": "home",
+         "winner": null,
+         "linescores": []
+        }
+       ],
+       "nhl_id": 2026020378
+      },
+      "source": "nhl"
+     }
+    ],
+    "sport": "NHL",
+    "ticket": "single"
+   }
+  },
+  {
    "n": 882,
    "league": "NFL",
    "type": "Moneyline",
@@ -343,6 +403,66 @@
      }
     ],
     "sport": "NFL",
+    "ticket": "single"
+   }
+  },
+  {
+   "n": 987,
+   "league": "NHL",
+   "type": "Player Prop",
+   "matchup": "Minnesota Wild @ San Jose Sharks",
+   "pick": "Tyler Toffoli Over 0.5 Points",
+   "odds": 170,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-23T19:10:00",
+   "timed": true,
+   "ticket": "single",
+   "espn": {
+    "legs": [
+     {
+      "kind": "prop",
+      "player": "Tyler Toffoli",
+      "ou": "O",
+      "line": 0.5,
+      "stat": "points",
+      "label": "Tyler Toffoli O 0.5 points",
+      "path": "hockey/nhl",
+      "event": "401892779",
+      "date": "20261123",
+      "snapshot": {
+       "source": "nhl",
+       "state": "pre",
+       "detail": "Scheduled",
+       "start": "2026-11-24T03:00:00Z",
+       "period": null,
+       "clock": null,
+       "teams": [
+        {
+         "name": "Wild",
+         "short": "MIN",
+         "abbr": "MIN",
+         "score": 0,
+         "ha": "away",
+         "winner": null,
+         "linescores": []
+        },
+        {
+         "name": "Sharks",
+         "short": "SJS",
+         "abbr": "SJS",
+         "score": 0,
+         "ha": "home",
+         "winner": null,
+         "linescores": []
+        }
+       ],
+       "nhl_id": 2026020384
+      },
+      "source": "nhl"
+     }
+    ],
+    "sport": "NHL",
     "ticket": "single"
    }
   },
