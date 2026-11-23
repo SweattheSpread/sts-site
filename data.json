@@ -1,5 +1,5 @@
 {
- "updated": "Nov 23, 2026, 2:07 PM PT",
+ "updated": "Nov 23, 2026, 2:09 PM PT",
  "record": {
   "w": 261,
   "l": 255,
@@ -1566,16 +1566,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "18:40 - 2nd",
+       "detail": "17:40 - 2nd",
        "start": "2026-11-23T21:00Z",
        "period": 2,
-       "clock": "18:40",
+       "clock": "17:40",
        "teams": [
         {
          "name": "Tulane Green Wave",
          "short": "Green Wave",
          "abbr": "TULN",
-         "score": 34,
+         "score": 37,
          "ha": "away",
          "winner": null,
          "linescores": [
