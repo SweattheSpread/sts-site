@@ -1,5 +1,5 @@
 {
- "updated": "Nov 23, 2026, 9:42 AM PT",
+ "updated": "Nov 23, 2026, 11:39 AM PT",
  "record": {
   "w": 261,
   "l": 255,
@@ -11,7 +11,7 @@
   "first": "2026-10-12",
   "last": "2026-11-22"
  },
- "pending": 24,
+ "pending": 25,
  "plays": [
   {
    "n": 334,
@@ -8632,6 +8632,22 @@
    "matchup": "Winthrop Eagles @ Illinois Fighting Illini",
    "pick": "Under 181.5",
    "odds": -115,
+   "units": 1.0,
+   "result": null,
+   "pl": null,
+   "pending": true
+  },
+  {
+   "n": 1000,
+   "date": "2026-11-23",
+   "day": "2026-11-23",
+   "league": "NHL",
+   "market": "player_prop",
+   "market_label": "Player Prop",
+   "ticket": "single",
+   "matchup": "Columbus Blue Jackets @ New Jersey Devils",
+   "pick": "Kent Johnson Over 0.5 Points",
+   "odds": 105,
    "units": 1.0,
    "result": null,
    "pl": null,
