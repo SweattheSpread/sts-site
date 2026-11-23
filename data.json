@@ -1,5 +1,5 @@
 {
- "updated": "Nov 22, 2026, 5:11 PM PT",
+ "updated": "Nov 22, 2026, 5:13 PM PT",
  "record": {
   "w": 240,
   "l": 237,
@@ -2249,16 +2249,16 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P1 20:00",
+       "detail": "P1 19:01",
        "start": "2026-11-23T01:00:00Z",
        "period": 1,
-       "clock": "20:00",
+       "clock": "19:01",
        "teams": [
         {
          "name": "Blackhawks",
          "short": "CHI",
          "abbr": "CHI",
-         "score": 0,
+         "score": 1,
          "ha": "away",
          "winner": null,
          "linescores": []
@@ -2377,16 +2377,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "11:34 - 1st",
+       "detail": "10:15 - 1st",
        "start": "2026-11-23T01:00Z",
        "period": 1,
-       "clock": "11:34",
+       "clock": "10:15",
        "teams": [
         {
          "name": "Indiana Pacers",
          "short": "Pacers",
          "abbr": "IND",
-         "score": 0,
+         "score": 2,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -2397,7 +2397,7 @@
          "name": "New York Knicks",
          "short": "Knicks",
          "abbr": "NY",
-         "score": 0,
+         "score": 5,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -2507,10 +2507,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P2 13:46",
+       "detail": "P2 13:21",
        "start": "2026-11-23T00:00:00Z",
        "period": 2,
-       "clock": "13:46",
+       "clock": "13:21",
        "teams": [
         {
          "name": "Penguins",
@@ -2811,10 +2811,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P2 13:55",
+       "detail": "P2 12:31",
        "start": "2026-11-23T00:00:00Z",
        "period": 2,
-       "clock": "13:55",
+       "clock": "12:31",
        "teams": [
         {
          "name": "Oilers",
@@ -2932,16 +2932,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "5:08 - 4th",
+       "detail": "3:46 - 4th",
        "start": "2026-11-22T23:00Z",
        "period": 4,
-       "clock": "5:08",
+       "clock": "3:46",
        "teams": [
         {
          "name": "Oklahoma City Thunder",
          "short": "Thunder",
          "abbr": "OKC",
-         "score": 98,
+         "score": 104,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -2955,7 +2955,7 @@
          "name": "Miami Heat",
          "short": "Heat",
          "abbr": "MIA",
-         "score": 116,
+         "score": 119,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -3062,16 +3062,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "5:08 - 4th",
+       "detail": "3:46 - 4th",
        "start": "2026-11-22T23:00Z",
        "period": 4,
-       "clock": "5:08",
+       "clock": "3:46",
        "teams": [
         {
          "name": "Oklahoma City Thunder",
          "short": "Thunder",
          "abbr": "OKC",
-         "score": 98,
+         "score": 104,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -3085,7 +3085,7 @@
          "name": "Miami Heat",
          "short": "Heat",
          "abbr": "MIA",
-         "score": 116,
+         "score": 119,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -3135,16 +3135,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "5:08 - 4th",
+       "detail": "3:46 - 4th",
        "start": "2026-11-22T23:00Z",
        "period": 4,
-       "clock": "5:08",
+       "clock": "3:46",
        "teams": [
         {
          "name": "Oklahoma City Thunder",
          "short": "Thunder",
          "abbr": "OKC",
-         "score": 98,
+         "score": 104,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -3158,7 +3158,7 @@
          "name": "Miami Heat",
          "short": "Heat",
          "abbr": "MIA",
-         "score": 116,
+         "score": 119,
          "ha": "home",
          "winner": null,
          "linescores": [
