@@ -1,5 +1,5 @@
 {
- "updated": "Nov 23, 2026, 4:11 PM PT",
+ "updated": "Nov 23, 2026, 4:14 PM PT",
  "record": {
   "w": 261,
   "l": 255,
@@ -1396,10 +1396,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P1 17:27",
+       "detail": "P1 16:10",
        "start": "2026-11-24T00:00:00Z",
        "period": 1,
-       "clock": "17:27",
+       "clock": "16:10",
        "teams": [
         {
          "name": "Blue Jackets",
@@ -1458,10 +1458,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "15:23 - 1st",
+       "detail": "14:05 - 1st",
        "start": "2026-11-24T00:00Z",
        "period": 1,
-       "clock": "15:23",
+       "clock": "14:05",
        "teams": [
         {
          "name": "Central Arkansas Bears",
@@ -1478,7 +1478,7 @@
          "name": "North Florida Ospreys",
          "short": "Ospreys",
          "abbr": "UNF",
-         "score": 8,
+         "score": 12,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -1520,10 +1520,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "15:23 - 1st",
+       "detail": "14:05 - 1st",
        "start": "2026-11-24T00:00Z",
        "period": 1,
-       "clock": "15:23",
+       "clock": "14:05",
        "teams": [
         {
          "name": "Central Arkansas Bears",
@@ -1540,7 +1540,7 @@
          "name": "North Florida Ospreys",
          "short": "Ospreys",
          "abbr": "UNF",
-         "score": 8,
+         "score": 12,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -1583,10 +1583,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P1 17:27",
+       "detail": "P1 16:10",
        "start": "2026-11-24T00:00:00Z",
        "period": 1,
-       "clock": "17:27",
+       "clock": "16:10",
        "teams": [
         {
          "name": "Blue Jackets",
@@ -1647,10 +1647,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P1 17:27",
+       "detail": "P1 16:10",
        "start": "2026-11-24T00:00:00Z",
        "period": 1,
-       "clock": "17:27",
+       "clock": "16:10",
        "teams": [
         {
          "name": "Blue Jackets",
