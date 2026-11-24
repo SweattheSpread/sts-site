@@ -1,5 +1,5 @@
 {
- "updated": "Nov 23, 2026, 8:25 PM PT",
+ "updated": "Nov 23, 2026, 8:28 PM PT",
  "record": {
   "w": 261,
   "l": 255,
@@ -1043,10 +1043,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P2 09:10",
+       "detail": "P2 06:55",
        "start": "2026-11-24T03:00:00Z",
        "period": 2,
-       "clock": "09:10",
+       "clock": "06:55",
        "teams": [
         {
          "name": "Wild",
@@ -1349,16 +1349,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "0:37 - 2nd",
+       "detail": "0:00 - 2nd",
        "start": "2026-11-24T02:30Z",
        "period": 2,
-       "clock": "0:37",
+       "clock": "0:00",
        "teams": [
         {
          "name": "UNC Greensboro Spartans",
          "short": "Spartans",
          "abbr": "UNCG",
-         "score": 61,
+         "score": 62,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -1370,7 +1370,7 @@
          "name": "Pepperdine Waves",
          "short": "Waves",
          "abbr": "PEPP",
-         "score": 86,
+         "score": 89,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -1669,16 +1669,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "9:29 - 3rd",
+       "detail": "8:04 - 3rd",
        "start": "2026-11-24T03:00Z",
        "period": 3,
-       "clock": "9:29",
+       "clock": "8:04",
        "teams": [
         {
          "name": "San Antonio Spurs",
          "short": "Spurs",
          "abbr": "SA",
-         "score": 65,
+         "score": 71,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -1691,7 +1691,7 @@
          "name": "Sacramento Kings",
          "short": "Kings",
          "abbr": "SAC",
-         "score": 57,
+         "score": 59,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -1702,7 +1702,7 @@
         }
        ],
        "stat": {
-        "v": 7,
+        "v": 8,
         "name": "Domantas Sabonis"
        }
       },
