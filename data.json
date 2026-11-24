@@ -1,5 +1,5 @@
 {
- "updated": "Nov 23, 2026, 5:26 PM PT",
+ "updated": "Nov 23, 2026, 5:29 PM PT",
  "record": {
   "w": 261,
   "l": 255,
@@ -987,10 +987,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "10:52 - 1st",
+       "detail": "9:51 - 1st",
        "start": "2026-11-24T01:15Z",
        "period": 1,
-       "clock": "10:52",
+       "clock": "9:51",
        "teams": [
         {
          "name": "Cincinnati Bengals",
@@ -1049,10 +1049,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "10:52 - 1st",
+       "detail": "9:51 - 1st",
        "start": "2026-11-24T01:15Z",
        "period": 1,
-       "clock": "10:52",
+       "clock": "9:51",
        "teams": [
         {
          "name": "Cincinnati Bengals",
@@ -1229,10 +1229,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P2 04:53",
+       "detail": "P2 03:48",
        "start": "2026-11-24T00:00:00Z",
        "period": 2,
-       "clock": "04:53",
+       "clock": "03:48",
        "teams": [
         {
          "name": "Blue Jackets",
@@ -1292,10 +1292,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P1 07:18",
+       "detail": "P1 05:03",
        "start": "2026-11-24T00:30:00Z",
        "period": 1,
-       "clock": "07:18",
+       "clock": "05:03",
        "teams": [
         {
          "name": "Mammoth",
@@ -1412,10 +1412,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "12:01 - 2nd",
+       "detail": "11:36 - 2nd",
        "start": "2026-11-24T00:00Z",
        "period": 2,
-       "clock": "12:01",
+       "clock": "11:36",
        "teams": [
         {
          "name": "Central Arkansas Bears",
@@ -1433,7 +1433,7 @@
          "name": "North Florida Ospreys",
          "short": "Ospreys",
          "abbr": "UNF",
-         "score": 35,
+         "score": 37,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -1476,10 +1476,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "12:01 - 2nd",
+       "detail": "11:36 - 2nd",
        "start": "2026-11-24T00:00Z",
        "period": 2,
-       "clock": "12:01",
+       "clock": "11:36",
        "teams": [
         {
          "name": "Central Arkansas Bears",
@@ -1497,7 +1497,7 @@
          "name": "North Florida Ospreys",
          "short": "Ospreys",
          "abbr": "UNF",
-         "score": 35,
+         "score": 37,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -1540,16 +1540,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "8:33 - 1st",
+       "detail": "7:59 - 1st",
        "start": "2026-11-24T01:00Z",
        "period": 1,
-       "clock": "8:33",
+       "clock": "7:59",
        "teams": [
         {
          "name": "Winthrop Eagles",
          "short": "Eagles",
          "abbr": "WIN",
-         "score": 31,
+         "score": 34,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -1560,7 +1560,7 @@
          "name": "Illinois Fighting Illini",
          "short": "Fighting Illini",
          "abbr": "ILL",
-         "score": 40,
+         "score": 42,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -1603,10 +1603,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P2 04:53",
+       "detail": "P2 03:48",
        "start": "2026-11-24T00:00:00Z",
        "period": 2,
-       "clock": "04:53",
+       "clock": "03:48",
        "teams": [
         {
          "name": "Blue Jackets",
@@ -1667,10 +1667,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P2 04:53",
+       "detail": "P2 03:48",
        "start": "2026-11-24T00:00:00Z",
        "period": 2,
-       "clock": "04:53",
+       "clock": "03:48",
        "teams": [
         {
          "name": "Blue Jackets",
