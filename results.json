@@ -1,5 +1,5 @@
 {
- "updated": "Nov 24, 2026, 1:20 AM PT",
+ "updated": "Nov 24, 2026, 3:32 AM PT",
  "record": {
   "w": 269,
   "l": 265,
@@ -11,7 +11,7 @@
   "first": "2026-10-12",
   "last": "2026-11-23"
  },
- "pending": 14,
+ "pending": 16,
  "plays": [
   {
    "n": 334,
@@ -8873,6 +8873,38 @@
    "pick": "Buffalo Bills ML -154",
    "odds": -154,
    "units": 1.0,
+   "result": null,
+   "pl": null,
+   "pending": true
+  },
+  {
+   "n": 1008,
+   "date": "2026-11-24",
+   "day": "2026-11-26",
+   "league": "NFL",
+   "market": "player_prop",
+   "market_label": "Player Prop",
+   "ticket": "single",
+   "matchup": "Chicago Bears @ Detroit Lions",
+   "pick": "Jameson Williams longest reception Over 23.5",
+   "odds": -120,
+   "units": 1.0,
+   "result": null,
+   "pl": null,
+   "pending": true
+  },
+  {
+   "n": 1009,
+   "date": "2026-11-24",
+   "day": "2026-11-26",
+   "league": "NFL",
+   "market": "player_prop",
+   "market_label": "Player Prop",
+   "ticket": "single",
+   "matchup": "Chicago Bears @ Detroit Lions",
+   "pick": "Zavion Thomas longest reception Over 7.5",
+   "odds": -115,
+   "units": 1.5,
    "result": null,
    "pl": null,
    "pending": true

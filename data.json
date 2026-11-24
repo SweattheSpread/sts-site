@@ -1,5 +1,5 @@
 {
- "updated": "Nov 24, 2026, 1:20 AM PT",
+ "updated": "Nov 24, 2026, 3:32 AM PT",
  "record": {
   "w": 269,
   "l": 265,
@@ -11,7 +11,7 @@
   "first": "2026-10-12",
   "last": "2026-11-23"
  },
- "pending": 14,
+ "pending": 16,
  "latest": [
   {
    "n": 1002,
@@ -536,6 +536,122 @@
       "side": "Detroit Lions",
       "line": 2.5,
       "label": "Detroit Lions +2.5",
+      "path": "football/nfl",
+      "event": "401873081",
+      "date": "20261126",
+      "snapshot": {
+       "source": "espn",
+       "state": "pre",
+       "detail": "11/26 - 1:00 PM EST",
+       "start": "2026-11-26T18:00Z",
+       "period": null,
+       "clock": null,
+       "teams": [
+        {
+         "name": "Chicago Bears",
+         "short": "Bears",
+         "abbr": "CHI",
+         "score": 0,
+         "ha": "away",
+         "winner": null,
+         "linescores": []
+        },
+        {
+         "name": "Detroit Lions",
+         "short": "Lions",
+         "abbr": "DET",
+         "score": 0,
+         "ha": "home",
+         "winner": null,
+         "linescores": []
+        }
+       ]
+      },
+      "source": "espn"
+     }
+    ],
+    "sport": "NFL",
+    "ticket": "single"
+   }
+  },
+  {
+   "n": 1008,
+   "league": "NFL",
+   "type": "Player prop",
+   "matchup": "Chicago Bears @ Detroit Lions",
+   "pick": "Jameson Williams longest reception Over 23.5",
+   "odds": -120,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-26T10:00:00",
+   "timed": true,
+   "ticket": "single",
+   "espn": {
+    "legs": [
+     {
+      "kind": "team_total",
+      "side": "Jameson Williams longest reception",
+      "ou": "O",
+      "line": 23.5,
+      "label": "Jameson Williams longest reception O 23.5",
+      "path": "football/nfl",
+      "event": "401873081",
+      "date": "20261126",
+      "snapshot": {
+       "source": "espn",
+       "state": "pre",
+       "detail": "11/26 - 1:00 PM EST",
+       "start": "2026-11-26T18:00Z",
+       "period": null,
+       "clock": null,
+       "teams": [
+        {
+         "name": "Chicago Bears",
+         "short": "Bears",
+         "abbr": "CHI",
+         "score": 0,
+         "ha": "away",
+         "winner": null,
+         "linescores": []
+        },
+        {
+         "name": "Detroit Lions",
+         "short": "Lions",
+         "abbr": "DET",
+         "score": 0,
+         "ha": "home",
+         "winner": null,
+         "linescores": []
+        }
+       ]
+      },
+      "source": "espn"
+     }
+    ],
+    "sport": "NFL",
+    "ticket": "single"
+   }
+  },
+  {
+   "n": 1009,
+   "league": "NFL",
+   "type": "Player prop",
+   "matchup": "Chicago Bears @ Detroit Lions",
+   "pick": "Zavion Thomas longest reception Over 7.5",
+   "odds": -115,
+   "units": 1.5,
+   "gap": null,
+   "start": "2026-11-26T10:00:00",
+   "timed": true,
+   "ticket": "single",
+   "espn": {
+    "legs": [
+     {
+      "kind": "team_total",
+      "side": "Zavion Thomas longest reception",
+      "ou": "O",
+      "line": 7.5,
+      "label": "Zavion Thomas longest reception O 7.5",
       "path": "football/nfl",
       "event": "401873081",
       "date": "20261126",
