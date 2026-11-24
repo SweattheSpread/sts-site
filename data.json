@@ -1,5 +1,5 @@
 {
- "updated": "Nov 23, 2026, 5:05 PM PT",
+ "updated": "Nov 23, 2026, 5:08 PM PT",
  "record": {
   "w": 261,
   "l": 255,
@@ -1221,10 +1221,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P2 17:42",
+       "detail": "P2 15:38",
        "start": "2026-11-24T00:00:00Z",
        "period": 2,
-       "clock": "17:42",
+       "clock": "15:38",
        "teams": [
         {
          "name": "Blue Jackets",
@@ -1284,10 +1284,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P1 06:00",
+       "detail": "P1 03:55",
        "start": "2026-11-24T00:30:00Z",
        "period": 1,
-       "clock": "06:00",
+       "clock": "03:55",
        "teams": [
         {
          "name": "Mammoth",
@@ -1343,10 +1343,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "19:58 - 1st",
+       "detail": "18:29 - 1st",
        "start": "2026-11-24T01:00Z",
        "period": 1,
-       "clock": "19:58",
+       "clock": "18:29",
        "teams": [
         {
          "name": "Monmouth Hawks",
@@ -1528,16 +1528,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "17:31 - 1st",
+       "detail": "16:38 - 1st",
        "start": "2026-11-24T01:00Z",
        "period": 1,
-       "clock": "17:31",
+       "clock": "16:38",
        "teams": [
         {
          "name": "Winthrop Eagles",
          "short": "Eagles",
          "abbr": "WIN",
-         "score": 3,
+         "score": 8,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -1548,7 +1548,7 @@
          "name": "Illinois Fighting Illini",
          "short": "Fighting Illini",
          "abbr": "ILL",
-         "score": 9,
+         "score": 12,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -1591,10 +1591,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P2 17:42",
+       "detail": "P2 15:38",
        "start": "2026-11-24T00:00:00Z",
        "period": 2,
-       "clock": "17:42",
+       "clock": "15:38",
        "teams": [
         {
          "name": "Blue Jackets",
@@ -1655,10 +1655,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P2 17:42",
+       "detail": "P2 15:38",
        "start": "2026-11-24T00:00:00Z",
        "period": 2,
-       "clock": "17:42",
+       "clock": "15:38",
        "teams": [
         {
          "name": "Blue Jackets",
