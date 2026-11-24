@@ -1,5 +1,5 @@
 {
- "updated": "Nov 23, 2026, 8:31 PM PT",
+ "updated": "Nov 23, 2026, 8:33 PM PT",
  "record": {
   "w": 261,
   "l": 255,
@@ -985,10 +985,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P2 05:32",
+       "detail": "P2 04:16",
        "start": "2026-11-24T03:00:00Z",
        "period": 2,
-       "clock": "05:32",
+       "clock": "04:16",
        "teams": [
         {
          "name": "Wild",
@@ -1669,16 +1669,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "7:46 - 3rd",
+       "detail": "6:40 - 3rd",
        "start": "2026-11-24T03:00Z",
        "period": 3,
-       "clock": "7:46",
+       "clock": "6:40",
        "teams": [
         {
          "name": "San Antonio Spurs",
          "short": "Spurs",
          "abbr": "SA",
-         "score": 71,
+         "score": 74,
          "ha": "away",
          "winner": null,
          "linescores": [
