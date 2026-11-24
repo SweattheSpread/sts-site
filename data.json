@@ -1,5 +1,5 @@
 {
- "updated": "Nov 23, 2026, 6:29 PM PT",
+ "updated": "Nov 23, 2026, 6:32 PM PT",
  "record": {
   "w": 261,
   "l": 255,
@@ -127,63 +127,6 @@
   }
  ],
  "picks": [
-  {
-   "n": 995,
-   "league": "NCAAB",
-   "type": "Spread",
-   "matchup": "UNC Greensboro Spartans @ Pepperdine Waves",
-   "pick": "UNC Greensboro +10.5",
-   "odds": -110,
-   "units": 1.0,
-   "gap": null,
-   "start": "2026-11-23T18:30:00",
-   "timed": true,
-   "ticket": "single",
-   "espn": {
-    "legs": [
-     {
-      "kind": "spread",
-      "side": "UNC Greensboro",
-      "line": 10.5,
-      "label": "UNC Greensboro +10.5",
-      "path": "basketball/mens-college-basketball",
-      "event": "401926183",
-      "date": "20261123",
-      "snapshot": {
-       "source": "espn",
-       "state": "pre",
-       "detail": "11/23 - 9:30 PM EST",
-       "start": "2026-11-24T02:30Z",
-       "period": null,
-       "clock": null,
-       "teams": [
-        {
-         "name": "UNC Greensboro Spartans",
-         "short": "Spartans",
-         "abbr": "UNCG",
-         "score": 0,
-         "ha": "away",
-         "winner": null,
-         "linescores": []
-        },
-        {
-         "name": "Pepperdine Waves",
-         "short": "Waves",
-         "abbr": "PEPP",
-         "score": 0,
-         "ha": "home",
-         "winner": null,
-         "linescores": []
-        }
-       ]
-      },
-      "source": "espn"
-     }
-    ],
-    "sport": "NCAAB",
-    "ticket": "single"
-   }
-  },
   {
    "n": 987,
    "league": "NHL",
@@ -901,10 +844,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "1:30 - 2nd",
+       "detail": "0:54 - 2nd",
        "start": "2026-11-24T01:15Z",
        "period": 2,
-       "clock": "1:30",
+       "clock": "0:54",
        "teams": [
         {
          "name": "Cincinnati Bengals",
@@ -965,10 +908,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "1:30 - 2nd",
+       "detail": "0:54 - 2nd",
        "start": "2026-11-24T01:15Z",
        "period": 2,
-       "clock": "1:30",
+       "clock": "0:54",
        "teams": [
         {
          "name": "Cincinnati Bengals",
@@ -1210,10 +1153,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P2 00:04",
+       "detail": "P3 19:38",
        "start": "2026-11-24T00:30:00Z",
-       "period": 2,
-       "clock": "00:04",
+       "period": 3,
+       "clock": "19:38",
        "teams": [
         {
          "name": "Mammoth",
@@ -1324,10 +1267,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "8:12 - 1st",
+       "detail": "7:42 - 1st",
        "start": "2026-11-24T02:00Z",
        "period": 1,
-       "clock": "8:12",
+       "clock": "7:42",
        "teams": [
         {
          "name": "VCU Rams",
@@ -1386,16 +1329,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "13:50 - 2nd",
+       "detail": "13:26 - 2nd",
        "start": "2026-11-24T01:00Z",
        "period": 2,
-       "clock": "13:50",
+       "clock": "13:26",
        "teams": [
         {
          "name": "Monmouth Hawks",
          "short": "Hawks",
          "abbr": "MONM",
-         "score": 23,
+         "score": 27,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -1414,6 +1357,63 @@
           0,
           0
          ]
+        }
+       ]
+      },
+      "source": "espn"
+     }
+    ],
+    "sport": "NCAAB",
+    "ticket": "single"
+   }
+  },
+  {
+   "n": 995,
+   "league": "NCAAB",
+   "type": "Spread",
+   "matchup": "UNC Greensboro Spartans @ Pepperdine Waves",
+   "pick": "UNC Greensboro +10.5",
+   "odds": -110,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-23T18:30:00",
+   "timed": true,
+   "ticket": "single",
+   "espn": {
+    "legs": [
+     {
+      "kind": "spread",
+      "side": "UNC Greensboro",
+      "line": 10.5,
+      "label": "UNC Greensboro +10.5",
+      "path": "basketball/mens-college-basketball",
+      "event": "401926183",
+      "date": "20261123",
+      "snapshot": {
+       "source": "espn",
+       "state": "pre",
+       "detail": "11/23 - 9:30 PM EST",
+       "start": "2026-11-24T02:30Z",
+       "period": null,
+       "clock": null,
+       "teams": [
+        {
+         "name": "UNC Greensboro Spartans",
+         "short": "Spartans",
+         "abbr": "UNCG",
+         "score": 0,
+         "ha": "away",
+         "winner": null,
+         "linescores": []
+        },
+        {
+         "name": "Pepperdine Waves",
+         "short": "Waves",
+         "abbr": "PEPP",
+         "score": 0,
+         "ha": "home",
+         "winner": null,
+         "linescores": []
         }
        ]
       },
@@ -1577,16 +1577,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "14:03 - 2nd",
+       "detail": "12:57 - 2nd",
        "start": "2026-11-24T01:00Z",
        "period": 2,
-       "clock": "14:03",
+       "clock": "12:57",
        "teams": [
         {
          "name": "Winthrop Eagles",
          "short": "Eagles",
          "abbr": "WIN",
-         "score": 63,
+         "score": 66,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -1598,7 +1598,7 @@
          "name": "Illinois Fighting Illini",
          "short": "Fighting Illini",
          "abbr": "ILL",
-         "score": 86,
+         "score": 91,
          "ha": "home",
          "winner": null,
          "linescores": [
