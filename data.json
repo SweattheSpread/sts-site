@@ -1,5 +1,5 @@
 {
- "updated": "Nov 23, 2026, 5:29 PM PT",
+ "updated": "Nov 23, 2026, 6:04 PM PT",
  "record": {
   "w": 261,
   "l": 255,
@@ -127,92 +127,6 @@
   }
  ],
  "picks": [
-  {
-   "n": 992,
-   "league": "NBA",
-   "type": "Player Prop",
-   "matchup": "Los Angeles Clippers @ Houston Rockets",
-   "pick": "Brook Lopez Over 1.5 Threes",
-   "odds": 120,
-   "units": 1.0,
-   "gap": null,
-   "start": "2026-11-23T17:40:00",
-   "timed": true,
-   "ticket": "single",
-   "espn": {
-    "legs": [
-     {
-      "kind": "prop",
-      "player": "Brook Lopez",
-      "ou": "O",
-      "line": 1.5,
-      "stat": "threes",
-      "label": "Brook Lopez O 1.5 threes",
-      "unverified": true
-     }
-    ],
-    "sport": "NBA",
-    "ticket": "single"
-   }
-  },
-  {
-   "n": 993,
-   "league": "NCAAB",
-   "type": "Over/Under",
-   "matchup": "VCU Rams @ Providence Friars",
-   "pick": "Under 155",
-   "odds": -110,
-   "units": 3.0,
-   "gap": null,
-   "start": "2026-11-23T18:00:00",
-   "timed": true,
-   "ticket": "single",
-   "espn": {
-    "legs": [
-     {
-      "kind": "total",
-      "side": null,
-      "ou": "U",
-      "line": 155.0,
-      "label": "U 155.0",
-      "path": "basketball/mens-college-basketball",
-      "event": "401909536",
-      "date": "20261123",
-      "snapshot": {
-       "source": "espn",
-       "state": "pre",
-       "detail": "11/23 - 9:00 PM EST",
-       "start": "2026-11-24T02:00Z",
-       "period": null,
-       "clock": null,
-       "teams": [
-        {
-         "name": "VCU Rams",
-         "short": "Rams",
-         "abbr": "VCU",
-         "score": 0,
-         "ha": "away",
-         "winner": null,
-         "linescores": []
-        },
-        {
-         "name": "Providence Friars",
-         "short": "Friars",
-         "abbr": "PROV",
-         "score": 0,
-         "ha": "home",
-         "winner": null,
-         "linescores": []
-        }
-       ]
-      },
-      "source": "espn"
-     }
-    ],
-    "sport": "NCAAB",
-    "ticket": "single"
-   }
-  },
   {
    "n": 995,
    "league": "NCAAB",
@@ -987,10 +901,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "9:51 - 1st",
+       "detail": "8:34 - 2nd",
        "start": "2026-11-24T01:15Z",
-       "period": 1,
-       "clock": "9:51",
+       "period": 2,
+       "clock": "8:34",
        "teams": [
         {
          "name": "Cincinnati Bengals",
@@ -1000,6 +914,7 @@
          "ha": "away",
          "winner": null,
          "linescores": [
+          0,
           0
          ]
         },
@@ -1011,6 +926,7 @@
          "ha": "home",
          "winner": null,
          "linescores": [
+          0,
           0
          ]
         }
@@ -1049,10 +965,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "9:51 - 1st",
+       "detail": "8:34 - 2nd",
        "start": "2026-11-24T01:15Z",
-       "period": 1,
-       "clock": "9:51",
+       "period": 2,
+       "clock": "8:34",
        "teams": [
         {
          "name": "Cincinnati Bengals",
@@ -1062,6 +978,7 @@
          "ha": "away",
          "winner": null,
          "linescores": [
+          0,
           0
          ]
         },
@@ -1073,6 +990,7 @@
          "ha": "home",
          "winner": null,
          "linescores": [
+          0,
           0
          ]
         }
@@ -1229,16 +1147,16 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P2 03:48",
+       "detail": "P3 13:45",
        "start": "2026-11-24T00:00:00Z",
-       "period": 2,
-       "clock": "03:48",
+       "period": 3,
+       "clock": "13:45",
        "teams": [
         {
          "name": "Blue Jackets",
          "short": "CBJ",
          "abbr": "CBJ",
-         "score": 1,
+         "score": 2,
          "ha": "away",
          "winner": null,
          "linescores": []
@@ -1292,10 +1210,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P1 05:03",
+       "detail": "P2 05:44",
        "start": "2026-11-24T00:30:00Z",
-       "period": 1,
-       "clock": "05:03",
+       "period": 2,
+       "clock": "05:44",
        "teams": [
         {
          "name": "Mammoth",
@@ -1326,6 +1244,123 @@
    }
   },
   {
+   "n": 992,
+   "league": "NBA",
+   "type": "Player Prop",
+   "matchup": "Los Angeles Clippers @ Houston Rockets",
+   "pick": "Brook Lopez Over 1.5 Threes",
+   "odds": 120,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-23T17:40:00",
+   "timed": true,
+   "ticket": "single",
+   "espn": {
+    "legs": [
+     {
+      "kind": "prop",
+      "player": "Brook Lopez",
+      "ou": "O",
+      "line": 1.5,
+      "stat": "threes",
+      "label": "Brook Lopez O 1.5 threes",
+      "unverified": true,
+      "snapshot": {
+       "source": "odds-api",
+       "state": "in",
+       "detail": "Live",
+       "start": "2026-11-24T01:41:00Z",
+       "teams": [
+        {
+         "name": "Los Angeles Clippers",
+         "short": "Los Angeles Clippers",
+         "abbr": "",
+         "score": 15,
+         "ha": "away",
+         "winner": null,
+         "linescores": []
+        },
+        {
+         "name": "Houston Rockets",
+         "short": "Houston Rockets",
+         "abbr": "",
+         "score": 25,
+         "ha": "home",
+         "winner": null,
+         "linescores": []
+        }
+       ]
+      },
+      "source": "odds-api"
+     }
+    ],
+    "sport": "NBA",
+    "ticket": "single"
+   }
+  },
+  {
+   "n": 993,
+   "league": "NCAAB",
+   "type": "Over/Under",
+   "matchup": "VCU Rams @ Providence Friars",
+   "pick": "Under 155",
+   "odds": -110,
+   "units": 3.0,
+   "gap": null,
+   "start": "2026-11-23T18:00:00",
+   "timed": true,
+   "ticket": "single",
+   "espn": {
+    "legs": [
+     {
+      "kind": "total",
+      "side": null,
+      "ou": "U",
+      "line": 155.0,
+      "label": "U 155.0",
+      "path": "basketball/mens-college-basketball",
+      "event": "401909536",
+      "date": "20261123",
+      "snapshot": {
+       "source": "espn",
+       "state": "in",
+       "detail": "18:42 - 1st",
+       "start": "2026-11-24T02:00Z",
+       "period": 1,
+       "clock": "18:42",
+       "teams": [
+        {
+         "name": "VCU Rams",
+         "short": "Rams",
+         "abbr": "VCU",
+         "score": 2,
+         "ha": "away",
+         "winner": null,
+         "linescores": [
+          0
+         ]
+        },
+        {
+         "name": "Providence Friars",
+         "short": "Friars",
+         "abbr": "PROV",
+         "score": 4,
+         "ha": "home",
+         "winner": null,
+         "linescores": [
+          0
+         ]
+        }
+       ]
+      },
+      "source": "espn"
+     }
+    ],
+    "sport": "NCAAB",
+    "ticket": "single"
+   }
+  },
+  {
    "n": 994,
    "league": "NCAAB",
    "type": "Over/Under",
@@ -1351,16 +1386,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "11:22 - 1st",
+       "detail": "Halftime",
        "start": "2026-11-24T01:00Z",
        "period": 1,
-       "clock": "11:22",
+       "clock": "0:00",
        "teams": [
         {
          "name": "Monmouth Hawks",
          "short": "Hawks",
          "abbr": "MONM",
-         "score": 9,
+         "score": 15,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -1371,7 +1406,7 @@
          "name": "North Carolina Tar Heels",
          "short": "Tar Heels",
          "abbr": "UNC",
-         "score": 22,
+         "score": 51,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -1412,16 +1447,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "11:36 - 2nd",
+       "detail": "0:00 - 2nd",
        "start": "2026-11-24T00:00Z",
        "period": 2,
-       "clock": "11:36",
+       "clock": "0:00",
        "teams": [
         {
          "name": "Central Arkansas Bears",
          "short": "Bears",
          "abbr": "CARK",
-         "score": 58,
+         "score": 80,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -1433,7 +1468,7 @@
          "name": "North Florida Ospreys",
          "short": "Ospreys",
          "abbr": "UNF",
-         "score": 37,
+         "score": 66,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -1476,16 +1511,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "11:36 - 2nd",
+       "detail": "0:00 - 2nd",
        "start": "2026-11-24T00:00Z",
        "period": 2,
-       "clock": "11:36",
+       "clock": "0:00",
        "teams": [
         {
          "name": "Central Arkansas Bears",
          "short": "Bears",
          "abbr": "CARK",
-         "score": 58,
+         "score": 80,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -1497,7 +1532,7 @@
          "name": "North Florida Ospreys",
          "short": "Ospreys",
          "abbr": "UNF",
-         "score": 37,
+         "score": 66,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -1540,16 +1575,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "7:59 - 1st",
+       "detail": "Halftime",
        "start": "2026-11-24T01:00Z",
        "period": 1,
-       "clock": "7:59",
+       "clock": "0:00",
        "teams": [
         {
          "name": "Winthrop Eagles",
          "short": "Eagles",
          "abbr": "WIN",
-         "score": 34,
+         "score": 53,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -1560,7 +1595,7 @@
          "name": "Illinois Fighting Illini",
          "short": "Fighting Illini",
          "abbr": "ILL",
-         "score": 42,
+         "score": 62,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -1603,16 +1638,16 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P2 03:48",
+       "detail": "P3 13:45",
        "start": "2026-11-24T00:00:00Z",
-       "period": 2,
-       "clock": "03:48",
+       "period": 3,
+       "clock": "13:45",
        "teams": [
         {
          "name": "Blue Jackets",
          "short": "CBJ",
          "abbr": "CBJ",
-         "score": 1,
+         "score": 2,
          "ha": "away",
          "winner": null,
          "linescores": []
@@ -1667,16 +1702,16 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P2 03:48",
+       "detail": "P3 13:45",
        "start": "2026-11-24T00:00:00Z",
-       "period": 2,
-       "clock": "03:48",
+       "period": 3,
+       "clock": "13:45",
        "teams": [
         {
          "name": "Blue Jackets",
          "short": "CBJ",
          "abbr": "CBJ",
-         "score": 1,
+         "score": 2,
          "ha": "away",
          "winner": null,
          "linescores": []
