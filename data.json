@@ -1,5 +1,5 @@
 {
- "updated": "Nov 23, 2026, 6:19 PM PT",
+ "updated": "Nov 23, 2026, 6:22 PM PT",
  "record": {
   "w": 261,
   "l": 255,
@@ -901,10 +901,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "3:02 - 2nd",
+       "detail": "2:00 - 2nd",
        "start": "2026-11-24T01:15Z",
        "period": 2,
-       "clock": "3:02",
+       "clock": "2:00",
        "teams": [
         {
          "name": "Cincinnati Bengals",
@@ -965,10 +965,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "3:02 - 2nd",
+       "detail": "2:00 - 2nd",
        "start": "2026-11-24T01:15Z",
        "period": 2,
-       "clock": "3:02",
+       "clock": "2:00",
        "teams": [
         {
          "name": "Cincinnati Bengals",
@@ -1147,10 +1147,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P3 04:25",
+       "detail": "P3 01:58",
        "start": "2026-11-24T00:00:00Z",
        "period": 3,
-       "clock": "04:25",
+       "clock": "01:58",
        "teams": [
         {
          "name": "Blue Jackets",
@@ -1210,10 +1210,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P2 10:05",
+       "detail": "P2 07:37",
        "start": "2026-11-24T00:30:00Z",
        "period": 2,
-       "clock": "10:05",
+       "clock": "07:37",
        "teams": [
         {
          "name": "Mammoth",
@@ -1275,7 +1275,7 @@
          "name": "Los Angeles Clippers",
          "short": "Los Angeles Clippers",
          "abbr": "",
-         "score": 29,
+         "score": 35,
          "ha": "away",
          "winner": null,
          "linescores": []
@@ -1284,7 +1284,7 @@
          "name": "Houston Rockets",
          "short": "Houston Rockets",
          "abbr": "",
-         "score": 35,
+         "score": 37,
          "ha": "home",
          "winner": null,
          "linescores": []
@@ -1324,10 +1324,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "11:25 - 1st",
+       "detail": "10:48 - 1st",
        "start": "2026-11-24T02:00Z",
        "period": 1,
-       "clock": "11:25",
+       "clock": "10:48",
        "teams": [
         {
          "name": "VCU Rams",
@@ -1386,16 +1386,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "17:03 - 2nd",
+       "detail": "16:40 - 2nd",
        "start": "2026-11-24T01:00Z",
        "period": 2,
-       "clock": "17:03",
+       "clock": "16:40",
        "teams": [
         {
          "name": "Monmouth Hawks",
          "short": "Hawks",
          "abbr": "MONM",
-         "score": 19,
+         "score": 21,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -1577,10 +1577,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "17:46 - 2nd",
+       "detail": "16:48 - 2nd",
        "start": "2026-11-24T01:00Z",
        "period": 2,
-       "clock": "17:46",
+       "clock": "16:48",
        "teams": [
         {
          "name": "Winthrop Eagles",
@@ -1598,7 +1598,7 @@
          "name": "Illinois Fighting Illini",
          "short": "Fighting Illini",
          "abbr": "ILL",
-         "score": 68,
+         "score": 74,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -1642,10 +1642,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P3 04:25",
+       "detail": "P3 01:58",
        "start": "2026-11-24T00:00:00Z",
        "period": 3,
-       "clock": "04:25",
+       "clock": "01:58",
        "teams": [
         {
          "name": "Blue Jackets",
@@ -1706,10 +1706,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P3 04:25",
+       "detail": "P3 01:58",
        "start": "2026-11-24T00:00:00Z",
        "period": 3,
-       "clock": "04:25",
+       "clock": "01:58",
        "teams": [
         {
          "name": "Blue Jackets",
