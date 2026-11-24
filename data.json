@@ -1,5 +1,5 @@
 {
- "updated": "Nov 23, 2026, 6:58 PM PT",
+ "updated": "Nov 23, 2026, 7:00 PM PT",
  "record": {
   "w": 261,
   "l": 255,
@@ -844,10 +844,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "13:44 - 3rd",
+       "detail": "12:03 - 3rd",
        "start": "2026-11-24T01:15Z",
        "period": 3,
-       "clock": "13:44",
+       "clock": "12:03",
        "teams": [
         {
          "name": "Cincinnati Bengals",
@@ -910,10 +910,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "13:44 - 3rd",
+       "detail": "12:03 - 3rd",
        "start": "2026-11-24T01:15Z",
        "period": 3,
-       "clock": "13:44",
+       "clock": "12:03",
        "teams": [
         {
          "name": "Cincinnati Bengals",
@@ -1157,10 +1157,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P3 04:37",
+       "detail": "P3 02:23",
        "start": "2026-11-24T00:30:00Z",
        "period": 3,
-       "clock": "04:37",
+       "clock": "02:23",
        "teams": [
         {
          "name": "Mammoth",
@@ -1231,7 +1231,7 @@
          "name": "Houston Rockets",
          "short": "Houston Rockets",
          "abbr": "",
-         "score": 60,
+         "score": 65,
          "ha": "home",
          "winner": null,
          "linescores": []
@@ -1333,10 +1333,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "3:27 - 2nd",
+       "detail": "2:55 - 2nd",
        "start": "2026-11-24T01:00Z",
        "period": 2,
-       "clock": "3:27",
+       "clock": "2:55",
        "teams": [
         {
          "name": "Monmouth Hawks",
@@ -1354,7 +1354,7 @@
          "name": "North Carolina Tar Heels",
          "short": "Tar Heels",
          "abbr": "UNC",
-         "score": 77,
+         "score": 79,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -1396,10 +1396,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "7:06 - 1st",
+       "detail": "6:48 - 1st",
        "start": "2026-11-24T02:30Z",
        "period": 1,
-       "clock": "7:06",
+       "clock": "6:48",
        "teams": [
         {
          "name": "UNC Greensboro Spartans",
@@ -1585,16 +1585,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "3:29 - 2nd",
+       "detail": "2:01 - 2nd",
        "start": "2026-11-24T01:00Z",
        "period": 2,
-       "clock": "3:29",
+       "clock": "2:01",
        "teams": [
         {
          "name": "Winthrop Eagles",
          "short": "Eagles",
          "abbr": "WIN",
-         "score": 74,
+         "score": 79,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -1606,7 +1606,7 @@
          "name": "Illinois Fighting Illini",
          "short": "Fighting Illini",
          "abbr": "ILL",
-         "score": 121,
+         "score": 126,
          "ha": "home",
          "winner": null,
          "linescores": [
