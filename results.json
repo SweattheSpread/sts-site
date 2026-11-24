@@ -1,17 +1,17 @@
 {
- "updated": "Nov 23, 2026, 11:11 PM PT",
+ "updated": "Nov 23, 2026, 11:37 PM PT",
  "record": {
-  "w": 261,
-  "l": 255,
+  "w": 269,
+  "l": 265,
   "p": 1,
-  "n": 517,
-  "units": 76.29,
-  "risked": 759.7,
-  "roi": 10.04,
+  "n": 535,
+  "units": 76.01,
+  "risked": 778.7,
+  "roi": 9.76,
   "first": "2026-10-12",
-  "last": "2026-11-22"
+  "last": "2026-11-23"
  },
- "pending": 28,
+ "pending": 10,
  "plays": [
   {
    "n": 334,
@@ -8409,9 +8409,9 @@
    "pick": "Washington Commanders ML +240",
    "odds": 240,
    "units": 0.5,
-   "result": null,
-   "pl": null,
-   "pending": true
+   "result": "W",
+   "pl": 1.2,
+   "pending": false
   },
   {
    "n": 884,
@@ -8425,9 +8425,9 @@
    "pick": "Over 53.5 -115",
    "odds": -115,
    "units": 1.0,
-   "result": null,
-   "pl": null,
-   "pending": true
+   "result": "L",
+   "pl": -1.0,
+   "pending": false
   },
   {
    "n": 984,
@@ -8441,9 +8441,9 @@
    "pick": "Blanch D. ML",
    "odds": -175,
    "units": 1.0,
-   "result": null,
-   "pl": null,
-   "pending": true
+   "result": "W",
+   "pl": 0.57,
+   "pending": false
   },
   {
    "n": 985,
@@ -8457,9 +8457,9 @@
    "pick": "Tulane +1.5",
    "odds": -110,
    "units": 1.0,
-   "result": null,
-   "pl": null,
-   "pending": true
+   "result": "L",
+   "pl": -1.0,
+   "pending": false
   },
   {
    "n": 986,
@@ -8473,9 +8473,9 @@
    "pick": "Jack Hughes Over 1.5 Points",
    "odds": 190,
    "units": 1.0,
-   "result": null,
-   "pl": null,
-   "pending": true
+   "result": "L",
+   "pl": -1.0,
+   "pending": false
   },
   {
    "n": 987,
@@ -8489,9 +8489,9 @@
    "pick": "Tyler Toffoli Over 0.5 Points",
    "odds": 170,
    "units": 1.0,
-   "result": null,
-   "pl": null,
-   "pending": true
+   "result": "W",
+   "pl": 1.7,
+   "pending": false
   },
   {
    "n": 988,
@@ -8505,9 +8505,9 @@
    "pick": "Under 6.5 -110",
    "odds": -110,
    "units": 0.5,
-   "result": null,
-   "pl": null,
-   "pending": true
+   "result": "W",
+   "pl": 0.45,
+   "pending": false
   },
   {
    "n": 992,
@@ -8521,9 +8521,9 @@
    "pick": "Brook Lopez Over 1.5 Threes",
    "odds": 120,
    "units": 1.0,
-   "result": null,
-   "pl": null,
-   "pending": true
+   "result": "L",
+   "pl": -1.0,
+   "pending": false
   },
   {
    "n": 993,
@@ -8537,9 +8537,9 @@
    "pick": "Under 155",
    "odds": -110,
    "units": 3.0,
-   "result": null,
-   "pl": null,
-   "pending": true
+   "result": "W",
+   "pl": 2.73,
+   "pending": false
   },
   {
    "n": 994,
@@ -8553,9 +8553,9 @@
    "pick": "Under 153.5",
    "odds": -110,
    "units": 1.0,
-   "result": null,
-   "pl": null,
-   "pending": true
+   "result": "W",
+   "pl": 0.91,
+   "pending": false
   },
   {
    "n": 995,
@@ -8569,9 +8569,9 @@
    "pick": "UNC Greensboro +10.5",
    "odds": -110,
    "units": 1.0,
-   "result": null,
-   "pl": null,
-   "pending": true
+   "result": "L",
+   "pl": -1.0,
+   "pending": false
   },
   {
    "n": 996,
@@ -8585,9 +8585,9 @@
    "pick": "Under 159.5",
    "odds": -110,
    "units": 1.0,
-   "result": null,
-   "pl": null,
-   "pending": true
+   "result": "L",
+   "pl": -1.0,
+   "pending": false
   },
   {
    "n": 997,
@@ -8601,9 +8601,9 @@
    "pick": "North Florida +8.5",
    "odds": -110,
    "units": 1.0,
-   "result": null,
-   "pl": null,
-   "pending": true
+   "result": "L",
+   "pl": -1.0,
+   "pending": false
   },
   {
    "n": 998,
@@ -8617,9 +8617,9 @@
    "pick": "Under 167.5",
    "odds": -110,
    "units": 1.0,
-   "result": null,
-   "pl": null,
-   "pending": true
+   "result": "W",
+   "pl": 0.91,
+   "pending": false
   },
   {
    "n": 999,
@@ -8633,9 +8633,9 @@
    "pick": "Under 181.5",
    "odds": -115,
    "units": 1.0,
-   "result": null,
-   "pl": null,
-   "pending": true
+   "result": "L",
+   "pl": -1.0,
+   "pending": false
   },
   {
    "n": 1000,
@@ -8649,9 +8649,9 @@
    "pick": "Kent Johnson Over 0.5 Points",
    "odds": 105,
    "units": 1.0,
-   "result": null,
-   "pl": null,
-   "pending": true
+   "result": "L",
+   "pl": -1.0,
+   "pending": false
   },
   {
    "n": 1001,
@@ -8665,9 +8665,9 @@
    "pick": "Domantas Sabonis Over 12.5 Rebounds",
    "odds": 115,
    "units": 1.0,
-   "result": null,
-   "pl": null,
-   "pending": true
+   "result": "L",
+   "pl": -1.0,
+   "pending": false
   },
   {
    "n": 1002,
@@ -8681,9 +8681,9 @@
    "pick": "Dougie Hamilton Over 2.5 shots on goal",
    "odds": 125,
    "units": 1.0,
-   "result": null,
-   "pl": null,
-   "pending": true
+   "result": "W",
+   "pl": 1.25,
+   "pending": false
   },
   {
    "n": 1003,
