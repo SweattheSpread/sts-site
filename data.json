@@ -1,5 +1,5 @@
 {
- "updated": "Nov 23, 2026, 8:02 PM PT",
+ "updated": "Nov 23, 2026, 8:05 PM PT",
  "record": {
   "w": 261,
   "l": 255,
@@ -725,10 +725,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "2:26 - 4th",
+       "detail": "2:00 - 4th",
        "start": "2026-11-24T01:15Z",
        "period": 4,
-       "clock": "2:26",
+       "clock": "2:00",
        "teams": [
         {
          "name": "Cincinnati Bengals",
@@ -793,10 +793,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "2:26 - 4th",
+       "detail": "2:00 - 4th",
        "start": "2026-11-24T01:15Z",
        "period": 4,
-       "clock": "2:26",
+       "clock": "2:00",
        "teams": [
         {
          "name": "Cincinnati Bengals",
@@ -1043,16 +1043,16 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P1 00:29",
+       "detail": "P2 19:47",
        "start": "2026-11-24T03:00:00Z",
-       "period": 1,
-       "clock": "00:29",
+       "period": 2,
+       "clock": "19:47",
        "teams": [
         {
          "name": "Wild",
          "short": "MIN",
          "abbr": "MIN",
-         "score": 2,
+         "score": 3,
          "ha": "away",
          "winner": null,
          "linescores": []
@@ -1220,16 +1220,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "1:22 - 2nd",
+       "detail": "0:32 - 2nd",
        "start": "2026-11-24T02:00Z",
        "period": 2,
-       "clock": "1:22",
+       "clock": "0:32",
        "teams": [
         {
          "name": "VCU Rams",
          "short": "Rams",
          "abbr": "VCU",
-         "score": 62,
+         "score": 64,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -1241,7 +1241,7 @@
          "name": "Providence Friars",
          "short": "Friars",
          "abbr": "PROV",
-         "score": 60,
+         "score": 63,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -1347,16 +1347,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "8:43 - 2nd",
+       "detail": "7:30 - 2nd",
        "start": "2026-11-24T02:30Z",
        "period": 2,
-       "clock": "8:43",
+       "clock": "7:30",
        "teams": [
         {
          "name": "UNC Greensboro Spartans",
          "short": "Spartans",
          "abbr": "UNCG",
-         "score": 39,
+         "score": 42,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -1368,7 +1368,7 @@
          "name": "Pepperdine Waves",
          "short": "Waves",
          "abbr": "PEPP",
-         "score": 69,
+         "score": 72,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -1667,16 +1667,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "2:54 - 2nd",
+       "detail": "1:27 - 2nd",
        "start": "2026-11-24T03:00Z",
        "period": 2,
-       "clock": "2:54",
+       "clock": "1:27",
        "teams": [
         {
          "name": "San Antonio Spurs",
          "short": "Spurs",
          "abbr": "SA",
-         "score": 52,
+         "score": 56,
          "ha": "away",
          "winner": null,
          "linescores": [
