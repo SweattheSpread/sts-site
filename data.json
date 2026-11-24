@@ -1,5 +1,5 @@
 {
- "updated": "Nov 23, 2026, 4:46 PM PT",
+ "updated": "Nov 23, 2026, 4:49 PM PT",
  "record": {
   "w": 261,
   "l": 255,
@@ -1337,10 +1337,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P1 13:49",
+       "detail": "P1 11:04",
        "start": "2026-11-24T00:00:00Z",
        "period": 1,
-       "clock": "13:49",
+       "clock": "11:04",
        "teams": [
         {
          "name": "Blue Jackets",
@@ -1400,10 +1400,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P1 17:00",
+       "detail": "P1 14:49",
        "start": "2026-11-24T00:30:00Z",
        "period": 1,
-       "clock": "17:00",
+       "clock": "14:49",
        "teams": [
         {
          "name": "Mammoth",
@@ -1418,7 +1418,7 @@
          "name": "Jets",
          "short": "WPG",
          "abbr": "WPG",
-         "score": 0,
+         "score": 1,
          "ha": "home",
          "winner": null,
          "linescores": []
@@ -1458,10 +1458,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "0:53 - 1st",
+       "detail": "0:32 - 1st",
        "start": "2026-11-24T00:00Z",
        "period": 1,
-       "clock": "0:53",
+       "clock": "0:32",
        "teams": [
         {
          "name": "Central Arkansas Bears",
@@ -1520,10 +1520,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "0:53 - 1st",
+       "detail": "0:32 - 1st",
        "start": "2026-11-24T00:00Z",
        "period": 1,
-       "clock": "0:53",
+       "clock": "0:32",
        "teams": [
         {
          "name": "Central Arkansas Bears",
@@ -1583,10 +1583,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P1 13:49",
+       "detail": "P1 11:04",
        "start": "2026-11-24T00:00:00Z",
        "period": 1,
-       "clock": "13:49",
+       "clock": "11:04",
        "teams": [
         {
          "name": "Blue Jackets",
@@ -1647,10 +1647,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P1 13:49",
+       "detail": "P1 11:04",
        "start": "2026-11-24T00:00:00Z",
        "period": 1,
-       "clock": "13:49",
+       "clock": "11:04",
        "teams": [
         {
          "name": "Blue Jackets",
