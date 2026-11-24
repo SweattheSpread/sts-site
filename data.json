@@ -1,5 +1,5 @@
 {
- "updated": "Nov 23, 2026, 6:27 PM PT",
+ "updated": "Nov 23, 2026, 6:29 PM PT",
  "record": {
   "w": 261,
   "l": 255,
@@ -901,10 +901,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "1:55 - 2nd",
+       "detail": "1:30 - 2nd",
        "start": "2026-11-24T01:15Z",
        "period": 2,
-       "clock": "1:55",
+       "clock": "1:30",
        "teams": [
         {
          "name": "Cincinnati Bengals",
@@ -965,10 +965,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "1:55 - 2nd",
+       "detail": "1:30 - 2nd",
        "start": "2026-11-24T01:15Z",
        "period": 2,
-       "clock": "1:55",
+       "clock": "1:30",
        "teams": [
         {
          "name": "Cincinnati Bengals",
@@ -1146,11 +1146,11 @@
       "date": "20261123",
       "snapshot": {
        "source": "nhl",
-       "state": "in",
-       "detail": "P3 00:06",
+       "state": "post",
+       "detail": "Final",
        "start": "2026-11-24T00:00:00Z",
        "period": 3,
-       "clock": "00:06",
+       "clock": "00:00",
        "teams": [
         {
          "name": "Blue Jackets",
@@ -1158,7 +1158,7 @@
          "abbr": "CBJ",
          "score": 2,
          "ha": "away",
-         "winner": null,
+         "winner": false,
          "linescores": []
         },
         {
@@ -1167,7 +1167,7 @@
          "abbr": "NJD",
          "score": 3,
          "ha": "home",
-         "winner": null,
+         "winner": true,
          "linescores": []
         }
        ],
@@ -1210,10 +1210,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P2 02:20",
+       "detail": "P2 00:04",
        "start": "2026-11-24T00:30:00Z",
        "period": 2,
-       "clock": "02:20",
+       "clock": "00:04",
        "teams": [
         {
          "name": "Mammoth",
@@ -1284,7 +1284,7 @@
          "name": "Houston Rockets",
          "short": "Houston Rockets",
          "abbr": "",
-         "score": 39,
+         "score": 42,
          "ha": "home",
          "winner": null,
          "linescores": []
@@ -1324,16 +1324,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "9:10 - 1st",
+       "detail": "8:12 - 1st",
        "start": "2026-11-24T02:00Z",
        "period": 1,
-       "clock": "9:10",
+       "clock": "8:12",
        "teams": [
         {
          "name": "VCU Rams",
          "short": "Rams",
          "abbr": "VCU",
-         "score": 16,
+         "score": 19,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -1386,16 +1386,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "15:24 - 2nd",
+       "detail": "13:50 - 2nd",
        "start": "2026-11-24T01:00Z",
        "period": 2,
-       "clock": "15:24",
+       "clock": "13:50",
        "teams": [
         {
          "name": "Monmouth Hawks",
          "short": "Hawks",
          "abbr": "MONM",
-         "score": 21,
+         "score": 23,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -1407,7 +1407,7 @@
          "name": "North Carolina Tar Heels",
          "short": "Tar Heels",
          "abbr": "UNC",
-         "score": 56,
+         "score": 60,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -1641,11 +1641,11 @@
       "date": "20261123",
       "snapshot": {
        "source": "nhl",
-       "state": "in",
-       "detail": "P3 00:06",
+       "state": "post",
+       "detail": "Final",
        "start": "2026-11-24T00:00:00Z",
        "period": 3,
-       "clock": "00:06",
+       "clock": "00:00",
        "teams": [
         {
          "name": "Blue Jackets",
@@ -1653,7 +1653,7 @@
          "abbr": "CBJ",
          "score": 2,
          "ha": "away",
-         "winner": null,
+         "winner": false,
          "linescores": []
         },
         {
@@ -1662,7 +1662,7 @@
          "abbr": "NJD",
          "score": 3,
          "ha": "home",
-         "winner": null,
+         "winner": true,
          "linescores": []
         }
        ],
@@ -1705,11 +1705,11 @@
       "date": "20261123",
       "snapshot": {
        "source": "nhl",
-       "state": "in",
-       "detail": "P3 00:06",
+       "state": "post",
+       "detail": "Final",
        "start": "2026-11-24T00:00:00Z",
        "period": 3,
-       "clock": "00:06",
+       "clock": "00:00",
        "teams": [
         {
          "name": "Blue Jackets",
@@ -1717,7 +1717,7 @@
          "abbr": "CBJ",
          "score": 2,
          "ha": "away",
-         "winner": null,
+         "winner": false,
          "linescores": []
         },
         {
@@ -1726,7 +1726,7 @@
          "abbr": "NJD",
          "score": 3,
          "ha": "home",
-         "winner": null,
+         "winner": true,
          "linescores": []
         }
        ],
