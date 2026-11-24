@@ -1,5 +1,5 @@
 {
- "updated": "Nov 23, 2026, 4:57 PM PT",
+ "updated": "Nov 23, 2026, 4:59 PM PT",
  "record": {
   "w": 261,
   "l": 255,
@@ -1337,10 +1337,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P1 03:04",
+       "detail": "P1 00:49",
        "start": "2026-11-24T00:00:00Z",
        "period": 1,
-       "clock": "03:04",
+       "clock": "00:49",
        "teams": [
         {
          "name": "Blue Jackets",
@@ -1400,10 +1400,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P1 09:38",
+       "detail": "P1 07:52",
        "start": "2026-11-24T00:30:00Z",
        "period": 1,
-       "clock": "09:38",
+       "clock": "07:52",
        "teams": [
         {
          "name": "Mammoth",
@@ -1583,10 +1583,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P1 03:04",
+       "detail": "P1 00:49",
        "start": "2026-11-24T00:00:00Z",
        "period": 1,
-       "clock": "03:04",
+       "clock": "00:49",
        "teams": [
         {
          "name": "Blue Jackets",
@@ -1647,10 +1647,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P1 03:04",
+       "detail": "P1 00:49",
        "start": "2026-11-24T00:00:00Z",
        "period": 1,
-       "clock": "03:04",
+       "clock": "00:49",
        "teams": [
         {
          "name": "Blue Jackets",
