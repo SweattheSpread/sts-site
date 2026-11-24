@@ -1,5 +1,5 @@
 {
- "updated": "Nov 23, 2026, 6:45 PM PT",
+ "updated": "Nov 23, 2026, 6:47 PM PT",
  "record": {
   "w": 261,
   "l": 255,
@@ -1153,10 +1153,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P3 12:07",
+       "detail": "P3 09:54",
        "start": "2026-11-24T00:30:00Z",
        "period": 3,
-       "clock": "12:07",
+       "clock": "09:54",
        "teams": [
         {
          "name": "Mammoth",
@@ -1267,16 +1267,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "3:07 - 1st",
+       "detail": "2:00 - 1st",
        "start": "2026-11-24T02:00Z",
        "period": 1,
-       "clock": "3:07",
+       "clock": "2:00",
        "teams": [
         {
          "name": "VCU Rams",
          "short": "Rams",
          "abbr": "VCU",
-         "score": 29,
+         "score": 31,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -1287,7 +1287,7 @@
          "name": "Providence Friars",
          "short": "Friars",
          "abbr": "PROV",
-         "score": 35,
+         "score": 38,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -1581,16 +1581,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "8:17 - 2nd",
+       "detail": "5:57 - 2nd",
        "start": "2026-11-24T01:00Z",
        "period": 2,
-       "clock": "8:17",
+       "clock": "5:57",
        "teams": [
         {
          "name": "Winthrop Eagles",
          "short": "Eagles",
          "abbr": "WIN",
-         "score": 68,
+         "score": 70,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -1602,7 +1602,7 @@
          "name": "Illinois Fighting Illini",
          "short": "Fighting Illini",
          "abbr": "ILL",
-         "score": 102,
+         "score": 111,
          "ha": "home",
          "winner": null,
          "linescores": [
