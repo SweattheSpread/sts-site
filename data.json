@@ -1,5 +1,5 @@
 {
- "updated": "Nov 24, 2026, 7:42 AM PT",
+ "updated": "Nov 24, 2026, 7:45 AM PT",
  "record": {
   "w": 269,
   "l": 265,
@@ -949,7 +949,36 @@
       "label": "New England Patriots +5",
       "path": "football/nfl",
       "event": "401873093",
-      "date": "20261129"
+      "date": "20261129",
+      "snapshot": {
+       "source": "espn",
+       "state": "pre",
+       "detail": "11/29 - 4:05 PM EST",
+       "start": "2026-11-29T21:05Z",
+       "period": null,
+       "clock": null,
+       "teams": [
+        {
+         "name": "New England Patriots",
+         "short": "Patriots",
+         "abbr": "NE",
+         "score": 0,
+         "ha": "away",
+         "winner": null,
+         "linescores": []
+        },
+        {
+         "name": "Los Angeles Chargers",
+         "short": "Chargers",
+         "abbr": "LAC",
+         "score": 0,
+         "ha": "home",
+         "winner": null,
+         "linescores": []
+        }
+       ]
+      },
+      "source": "espn"
      }
     ],
     "sport": "NFL",
@@ -1037,16 +1066,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "0:49 - 1st",
+       "detail": "0:00 - 1st",
        "start": "2026-11-24T15:00Z",
        "period": 1,
-       "clock": "0:49",
+       "clock": "0:00",
        "teams": [
         {
          "name": "Wright State Raiders",
          "short": "Raiders",
          "abbr": "WRST",
-         "score": 23,
+         "score": 28,
          "ha": "away",
          "winner": null,
          "linescores": [
