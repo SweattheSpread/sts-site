@@ -1,5 +1,5 @@
 {
- "updated": "Nov 24, 2026, 12:10 PM PT",
+ "updated": "Nov 24, 2026, 12:48 PM PT",
  "record": {
   "w": 269,
   "l": 265,
@@ -11,7 +11,7 @@
   "first": "2026-10-12",
   "last": "2026-11-23"
  },
- "pending": 25,
+ "pending": 26,
  "plays": [
   {
    "n": 334,
@@ -8857,6 +8857,22 @@
    "pick": "BYU -6.5 LIVE",
    "odds": -115,
    "units": 7.0,
+   "result": null,
+   "pl": null,
+   "pending": true
+  },
+  {
+   "n": 1019,
+   "date": "2026-11-24",
+   "day": "2026-11-24",
+   "league": "NCAAB",
+   "market": "ml",
+   "market_label": "Moneyline",
+   "ticket": "single",
+   "matchup": "Tennessee Volunteers vs Maryland Terrapins",
+   "pick": "Tennessee ML LIVE",
+   "odds": -105,
+   "units": 3.0,
    "result": null,
    "pl": null,
    "pending": true
