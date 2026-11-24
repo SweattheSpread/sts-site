@@ -1,5 +1,5 @@
 {
- "updated": "Nov 24, 2026, 12:37 AM PT",
+ "updated": "Nov 24, 2026, 1:20 AM PT",
  "record": {
   "w": 269,
   "l": 265,
@@ -11,7 +11,7 @@
   "first": "2026-10-12",
   "last": "2026-11-23"
  },
- "pending": 10,
+ "pending": 14,
  "latest": [
   {
    "n": 1002,
@@ -172,6 +172,233 @@
      }
     ],
     "sport": "Tennis",
+    "ticket": "single"
+   }
+  },
+  {
+   "n": 1004,
+   "league": "NCAAB",
+   "type": "Spread",
+   "matchup": "Wright St Raiders @ St. Bonaventure Bonnies",
+   "pick": "Wright St +1",
+   "odds": -110,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-24T07:00:00",
+   "timed": true,
+   "ticket": "single",
+   "espn": {
+    "legs": [
+     {
+      "kind": "spread",
+      "side": "Wright St",
+      "line": 1.0,
+      "label": "Wright St +1",
+      "path": "basketball/mens-college-basketball",
+      "event": "401927398",
+      "date": "20261124",
+      "snapshot": {
+       "source": "espn",
+       "state": "pre",
+       "detail": "11/24 - 10:00 AM EST",
+       "start": "2026-11-24T15:00Z",
+       "period": null,
+       "clock": null,
+       "teams": [
+        {
+         "name": "Wright State Raiders",
+         "short": "Raiders",
+         "abbr": "WRST",
+         "score": 0,
+         "ha": "away",
+         "winner": null,
+         "linescores": []
+        },
+        {
+         "name": "St. Bonaventure Bonnies",
+         "short": "Bonnies",
+         "abbr": "SBU",
+         "score": 0,
+         "ha": "home",
+         "winner": null,
+         "linescores": []
+        }
+       ]
+      },
+      "source": "espn"
+     }
+    ],
+    "sport": "NCAAB",
+    "ticket": "single"
+   }
+  },
+  {
+   "n": 1005,
+   "league": "NCAAB",
+   "type": "Spread",
+   "matchup": "Queens University Royals @ Wofford Terriers",
+   "pick": "Queens University +1.5",
+   "odds": -110,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-24T15:00:00",
+   "timed": true,
+   "ticket": "single",
+   "espn": {
+    "legs": [
+     {
+      "kind": "spread",
+      "side": "Queens University",
+      "line": 1.5,
+      "label": "Queens University +1.5",
+      "path": "basketball/mens-college-basketball",
+      "event": "401922231",
+      "date": "20261124",
+      "snapshot": {
+       "source": "espn",
+       "state": "pre",
+       "detail": "11/24 - 6:00 PM EST",
+       "start": "2026-11-24T23:00Z",
+       "period": null,
+       "clock": null,
+       "teams": [
+        {
+         "name": "Queens University Royals",
+         "short": "Royals",
+         "abbr": "QUC",
+         "score": 0,
+         "ha": "away",
+         "winner": null,
+         "linescores": []
+        },
+        {
+         "name": "Wofford Terriers",
+         "short": "Terriers",
+         "abbr": "WOF",
+         "score": 0,
+         "ha": "home",
+         "winner": null,
+         "linescores": []
+        }
+       ]
+      },
+      "source": "espn"
+     }
+    ],
+    "sport": "NCAAB",
+    "ticket": "single"
+   }
+  },
+  {
+   "n": 1006,
+   "league": "NCAAB",
+   "type": "Spread",
+   "matchup": "Nevada Wolf Pack @ Santa Clara Broncos",
+   "pick": "Santa Clara +1.5",
+   "odds": -110,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-24T16:00:00",
+   "timed": true,
+   "ticket": "single",
+   "espn": {
+    "legs": [
+     {
+      "kind": "spread",
+      "side": "Santa Clara",
+      "line": 1.5,
+      "label": "Santa Clara +1.5",
+      "path": "basketball/mens-college-basketball",
+      "event": "401911458",
+      "date": "20261124",
+      "snapshot": {
+       "source": "espn",
+       "state": "pre",
+       "detail": "11/24 - 7:00 PM EST",
+       "start": "2026-11-25T00:00Z",
+       "period": null,
+       "clock": null,
+       "teams": [
+        {
+         "name": "Nevada Wolf Pack",
+         "short": "Wolf Pack",
+         "abbr": "NEV",
+         "score": 0,
+         "ha": "away",
+         "winner": null,
+         "linescores": []
+        },
+        {
+         "name": "Santa Clara Broncos",
+         "short": "Broncos",
+         "abbr": "SCU",
+         "score": 0,
+         "ha": "home",
+         "winner": null,
+         "linescores": []
+        }
+       ]
+      },
+      "source": "espn"
+     }
+    ],
+    "sport": "NCAAB",
+    "ticket": "single"
+   }
+  },
+  {
+   "n": 1007,
+   "league": "NCAAB",
+   "type": "Moneyline",
+   "matchup": "UTEP Miners @ Charleston Cougars",
+   "pick": "Charleston Cougars ML",
+   "odds": -135,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-24T17:30:00",
+   "timed": true,
+   "ticket": "single",
+   "espn": {
+    "legs": [
+     {
+      "kind": "ml",
+      "side": "Charleston Cougars",
+      "label": "Charleston Cougars ML",
+      "path": "basketball/mens-college-basketball",
+      "event": "401911535",
+      "date": "20261124",
+      "snapshot": {
+       "source": "espn",
+       "state": "pre",
+       "detail": "11/24 - 8:30 PM EST",
+       "start": "2026-11-25T01:30Z",
+       "period": null,
+       "clock": null,
+       "teams": [
+        {
+         "name": "Charleston Cougars",
+         "short": "Cougars",
+         "abbr": "COFC",
+         "score": 0,
+         "ha": "away",
+         "winner": null,
+         "linescores": []
+        },
+        {
+         "name": "UTEP Miners",
+         "short": "Miners",
+         "abbr": "UTEP",
+         "score": 0,
+         "ha": "home",
+         "winner": null,
+         "linescores": []
+        }
+       ]
+      },
+      "source": "espn"
+     }
+    ],
+    "sport": "NCAAB",
     "ticket": "single"
    }
   },

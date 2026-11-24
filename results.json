@@ -1,5 +1,5 @@
 {
- "updated": "Nov 24, 2026, 12:37 AM PT",
+ "updated": "Nov 24, 2026, 1:20 AM PT",
  "record": {
   "w": 269,
   "l": 265,
@@ -11,7 +11,7 @@
   "first": "2026-10-12",
   "last": "2026-11-23"
  },
- "pending": 10,
+ "pending": 14,
  "plays": [
   {
    "n": 334,
@@ -8697,6 +8697,70 @@
    "pick": "Federico Iannaccone ML",
    "odds": 112,
    "units": 1.5,
+   "result": null,
+   "pl": null,
+   "pending": true
+  },
+  {
+   "n": 1004,
+   "date": "2026-11-24",
+   "day": "2026-11-24",
+   "league": "NCAAB",
+   "market": "spread",
+   "market_label": "Spread",
+   "ticket": "single",
+   "matchup": "Wright St Raiders @ St. Bonaventure Bonnies",
+   "pick": "Wright St +1",
+   "odds": -110,
+   "units": 1.0,
+   "result": null,
+   "pl": null,
+   "pending": true
+  },
+  {
+   "n": 1005,
+   "date": "2026-11-24",
+   "day": "2026-11-24",
+   "league": "NCAAB",
+   "market": "spread",
+   "market_label": "Spread",
+   "ticket": "single",
+   "matchup": "Queens University Royals @ Wofford Terriers",
+   "pick": "Queens University +1.5",
+   "odds": -110,
+   "units": 1.0,
+   "result": null,
+   "pl": null,
+   "pending": true
+  },
+  {
+   "n": 1006,
+   "date": "2026-11-24",
+   "day": "2026-11-24",
+   "league": "NCAAB",
+   "market": "spread",
+   "market_label": "Spread",
+   "ticket": "single",
+   "matchup": "Nevada Wolf Pack @ Santa Clara Broncos",
+   "pick": "Santa Clara +1.5",
+   "odds": -110,
+   "units": 1.0,
+   "result": null,
+   "pl": null,
+   "pending": true
+  },
+  {
+   "n": 1007,
+   "date": "2026-11-24",
+   "day": "2026-11-24",
+   "league": "NCAAB",
+   "market": "ml",
+   "market_label": "Moneyline",
+   "ticket": "single",
+   "matchup": "UTEP Miners @ Charleston Cougars",
+   "pick": "Charleston Cougars ML",
+   "odds": -135,
+   "units": 1.0,
    "result": null,
    "pl": null,
    "pending": true
