@@ -1,5 +1,5 @@
 {
- "updated": "Nov 23, 2026, 6:06 PM PT",
+ "updated": "Nov 23, 2026, 6:09 PM PT",
  "record": {
   "w": 261,
   "l": 255,
@@ -1147,10 +1147,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P3 13:31",
+       "detail": "P3 10:50",
        "start": "2026-11-24T00:00:00Z",
        "period": 3,
-       "clock": "13:31",
+       "clock": "10:50",
        "teams": [
         {
          "name": "Blue Jackets",
@@ -1210,10 +1210,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P2 04:52",
+       "detail": "P2 02:44",
        "start": "2026-11-24T00:30:00Z",
        "period": 2,
-       "clock": "04:52",
+       "clock": "02:44",
        "teams": [
         {
          "name": "Mammoth",
@@ -1275,7 +1275,7 @@
          "name": "Los Angeles Clippers",
          "short": "Los Angeles Clippers",
          "abbr": "",
-         "score": 15,
+         "score": 18,
          "ha": "away",
          "winner": null,
          "linescores": []
@@ -1284,7 +1284,7 @@
          "name": "Houston Rockets",
          "short": "Houston Rockets",
          "abbr": "",
-         "score": 25,
+         "score": 27,
          "ha": "home",
          "winner": null,
          "linescores": []
@@ -1324,10 +1324,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "16:48 - 1st",
+       "detail": "15:58 - 1st",
        "start": "2026-11-24T02:00Z",
        "period": 1,
-       "clock": "16:48",
+       "clock": "15:58",
        "teams": [
         {
          "name": "VCU Rams",
@@ -1344,7 +1344,7 @@
          "name": "Providence Friars",
          "short": "Friars",
          "abbr": "PROV",
-         "score": 11,
+         "score": 13,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -1638,10 +1638,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P3 13:31",
+       "detail": "P3 10:50",
        "start": "2026-11-24T00:00:00Z",
        "period": 3,
-       "clock": "13:31",
+       "clock": "10:50",
        "teams": [
         {
          "name": "Blue Jackets",
@@ -1702,10 +1702,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P3 13:31",
+       "detail": "P3 10:50",
        "start": "2026-11-24T00:00:00Z",
        "period": 3,
-       "clock": "13:31",
+       "clock": "10:50",
        "teams": [
         {
          "name": "Blue Jackets",
