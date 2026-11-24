@@ -1,5 +1,5 @@
 {
- "updated": "Nov 23, 2026, 5:08 PM PT",
+ "updated": "Nov 23, 2026, 5:17 PM PT",
  "record": {
   "w": 261,
   "l": 255,
@@ -127,120 +127,6 @@
   }
  ],
  "picks": [
-  {
-   "n": 882,
-   "league": "NFL",
-   "type": "Moneyline",
-   "matchup": "Cincinnati Bengals @ Washington Commanders",
-   "pick": "Washington Commanders ML",
-   "odds": 240,
-   "units": 0.5,
-   "gap": null,
-   "start": "2026-11-23T17:15:00",
-   "timed": true,
-   "ticket": "single",
-   "espn": {
-    "legs": [
-     {
-      "kind": "ml",
-      "side": "Washington Commanders",
-      "label": "Washington Commanders ML",
-      "path": "football/nfl",
-      "event": "401873078",
-      "date": "20261123",
-      "snapshot": {
-       "source": "espn",
-       "state": "pre",
-       "detail": "11/23 - 8:15 PM EST",
-       "start": "2026-11-24T01:15Z",
-       "period": null,
-       "clock": null,
-       "teams": [
-        {
-         "name": "Cincinnati Bengals",
-         "short": "Bengals",
-         "abbr": "CIN",
-         "score": 0,
-         "ha": "away",
-         "winner": null,
-         "linescores": []
-        },
-        {
-         "name": "Washington Commanders",
-         "short": "Commanders",
-         "abbr": "WSH",
-         "score": 0,
-         "ha": "home",
-         "winner": null,
-         "linescores": []
-        }
-       ]
-      },
-      "source": "espn"
-     }
-    ],
-    "sport": "NFL",
-    "ticket": "single"
-   }
-  },
-  {
-   "n": 884,
-   "league": "NFL",
-   "type": "Over/Under",
-   "matchup": "Cincinnati Bengals @ Washington Commanders",
-   "pick": "Over 53.5",
-   "odds": -115,
-   "units": 1.0,
-   "gap": null,
-   "start": "2026-11-23T17:15:00",
-   "timed": true,
-   "ticket": "single",
-   "espn": {
-    "legs": [
-     {
-      "kind": "total",
-      "side": null,
-      "ou": "O",
-      "line": 53.5,
-      "label": "O 53.5",
-      "path": "football/nfl",
-      "event": "401873078",
-      "date": "20261123",
-      "snapshot": {
-       "source": "espn",
-       "state": "pre",
-       "detail": "11/23 - 8:15 PM EST",
-       "start": "2026-11-24T01:15Z",
-       "period": null,
-       "clock": null,
-       "teams": [
-        {
-         "name": "Cincinnati Bengals",
-         "short": "Bengals",
-         "abbr": "CIN",
-         "score": 0,
-         "ha": "away",
-         "winner": null,
-         "linescores": []
-        },
-        {
-         "name": "Washington Commanders",
-         "short": "Commanders",
-         "abbr": "WSH",
-         "score": 0,
-         "ha": "home",
-         "winner": null,
-         "linescores": []
-        }
-       ]
-      },
-      "source": "espn"
-     }
-    ],
-    "sport": "NFL",
-    "ticket": "single"
-   }
-  },
   {
    "n": 992,
    "league": "NBA",
@@ -1078,6 +964,128 @@
  ],
  "awaiting": [
   {
+   "n": 882,
+   "league": "NFL",
+   "type": "Moneyline",
+   "matchup": "Cincinnati Bengals @ Washington Commanders",
+   "pick": "Washington Commanders ML",
+   "odds": 240,
+   "units": 0.5,
+   "gap": null,
+   "start": "2026-11-23T17:15:00",
+   "timed": true,
+   "ticket": "single",
+   "espn": {
+    "legs": [
+     {
+      "kind": "ml",
+      "side": "Washington Commanders",
+      "label": "Washington Commanders ML",
+      "path": "football/nfl",
+      "event": "401873078",
+      "date": "20261123",
+      "snapshot": {
+       "source": "espn",
+       "state": "in",
+       "detail": "14:54 - 1st",
+       "start": "2026-11-24T01:15Z",
+       "period": 1,
+       "clock": "14:54",
+       "teams": [
+        {
+         "name": "Cincinnati Bengals",
+         "short": "Bengals",
+         "abbr": "CIN",
+         "score": 0,
+         "ha": "away",
+         "winner": null,
+         "linescores": [
+          0
+         ]
+        },
+        {
+         "name": "Washington Commanders",
+         "short": "Commanders",
+         "abbr": "WSH",
+         "score": 0,
+         "ha": "home",
+         "winner": null,
+         "linescores": [
+          0
+         ]
+        }
+       ]
+      },
+      "source": "espn"
+     }
+    ],
+    "sport": "NFL",
+    "ticket": "single"
+   }
+  },
+  {
+   "n": 884,
+   "league": "NFL",
+   "type": "Over/Under",
+   "matchup": "Cincinnati Bengals @ Washington Commanders",
+   "pick": "Over 53.5",
+   "odds": -115,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-23T17:15:00",
+   "timed": true,
+   "ticket": "single",
+   "espn": {
+    "legs": [
+     {
+      "kind": "total",
+      "side": null,
+      "ou": "O",
+      "line": 53.5,
+      "label": "O 53.5",
+      "path": "football/nfl",
+      "event": "401873078",
+      "date": "20261123",
+      "snapshot": {
+       "source": "espn",
+       "state": "in",
+       "detail": "14:54 - 1st",
+       "start": "2026-11-24T01:15Z",
+       "period": 1,
+       "clock": "14:54",
+       "teams": [
+        {
+         "name": "Cincinnati Bengals",
+         "short": "Bengals",
+         "abbr": "CIN",
+         "score": 0,
+         "ha": "away",
+         "winner": null,
+         "linescores": [
+          0
+         ]
+        },
+        {
+         "name": "Washington Commanders",
+         "short": "Commanders",
+         "abbr": "WSH",
+         "score": 0,
+         "ha": "home",
+         "winner": null,
+         "linescores": [
+          0
+         ]
+        }
+       ]
+      },
+      "source": "espn"
+     }
+    ],
+    "sport": "NFL",
+    "ticket": "single"
+   }
+  },
+  {
    "n": 984,
    "league": "Tennis",
    "type": "Moneyline",
@@ -1221,10 +1229,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P2 15:38",
+       "detail": "P2 10:26",
        "start": "2026-11-24T00:00:00Z",
        "period": 2,
-       "clock": "15:38",
+       "clock": "10:26",
        "teams": [
         {
          "name": "Blue Jackets",
@@ -1284,10 +1292,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P1 03:55",
+       "detail": "P1 00:00",
        "start": "2026-11-24T00:30:00Z",
        "period": 1,
-       "clock": "03:55",
+       "clock": "00:00",
        "teams": [
         {
          "name": "Mammoth",
@@ -1343,16 +1351,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "18:29 - 1st",
+       "detail": "14:34 - 1st",
        "start": "2026-11-24T01:00Z",
        "period": 1,
-       "clock": "18:29",
+       "clock": "14:34",
        "teams": [
         {
          "name": "Monmouth Hawks",
          "short": "Hawks",
          "abbr": "MONM",
-         "score": 0,
+         "score": 6,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -1363,7 +1371,7 @@
          "name": "North Carolina Tar Heels",
          "short": "Tar Heels",
          "abbr": "UNC",
-         "score": 0,
+         "score": 15,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -1404,19 +1412,20 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "Halftime",
+       "detail": "14:44 - 2nd",
        "start": "2026-11-24T00:00Z",
-       "period": 1,
-       "clock": "0:00",
+       "period": 2,
+       "clock": "14:44",
        "teams": [
         {
          "name": "Central Arkansas Bears",
          "short": "Bears",
          "abbr": "CARK",
-         "score": 44,
+         "score": 51,
          "ha": "away",
          "winner": null,
          "linescores": [
+          0,
           0
          ]
         },
@@ -1424,10 +1433,11 @@
          "name": "North Florida Ospreys",
          "short": "Ospreys",
          "abbr": "UNF",
-         "score": 23,
+         "score": 27,
          "ha": "home",
          "winner": null,
          "linescores": [
+          0,
           0
          ]
         }
@@ -1466,19 +1476,20 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "Halftime",
+       "detail": "14:44 - 2nd",
        "start": "2026-11-24T00:00Z",
-       "period": 1,
-       "clock": "0:00",
+       "period": 2,
+       "clock": "14:44",
        "teams": [
         {
          "name": "Central Arkansas Bears",
          "short": "Bears",
          "abbr": "CARK",
-         "score": 44,
+         "score": 51,
          "ha": "away",
          "winner": null,
          "linescores": [
+          0,
           0
          ]
         },
@@ -1486,10 +1497,11 @@
          "name": "North Florida Ospreys",
          "short": "Ospreys",
          "abbr": "UNF",
-         "score": 23,
+         "score": 27,
          "ha": "home",
          "winner": null,
          "linescores": [
+          0,
           0
          ]
         }
@@ -1528,16 +1540,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "16:38 - 1st",
+       "detail": "12:00 - 1st",
        "start": "2026-11-24T01:00Z",
        "period": 1,
-       "clock": "16:38",
+       "clock": "12:00",
        "teams": [
         {
          "name": "Winthrop Eagles",
          "short": "Eagles",
          "abbr": "WIN",
-         "score": 8,
+         "score": 24,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -1548,7 +1560,7 @@
          "name": "Illinois Fighting Illini",
          "short": "Fighting Illini",
          "abbr": "ILL",
-         "score": 12,
+         "score": 26,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -1591,10 +1603,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P2 15:38",
+       "detail": "P2 10:26",
        "start": "2026-11-24T00:00:00Z",
        "period": 2,
-       "clock": "15:38",
+       "clock": "10:26",
        "teams": [
         {
          "name": "Blue Jackets",
@@ -1655,10 +1667,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P2 15:38",
+       "detail": "P2 10:26",
        "start": "2026-11-24T00:00:00Z",
        "period": 2,
-       "clock": "15:38",
+       "clock": "10:26",
        "teams": [
         {
          "name": "Blue Jackets",
