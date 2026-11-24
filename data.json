@@ -1,5 +1,5 @@
 {
- "updated": "Nov 23, 2026, 8:23 PM PT",
+ "updated": "Nov 23, 2026, 8:25 PM PT",
  "record": {
   "w": 261,
   "l": 255,
@@ -1043,10 +1043,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P2 09:35",
+       "detail": "P2 09:10",
        "start": "2026-11-24T03:00:00Z",
        "period": 2,
-       "clock": "09:35",
+       "clock": "09:10",
        "teams": [
         {
          "name": "Wild",
@@ -1219,11 +1219,11 @@
       "date": "20261123",
       "snapshot": {
        "source": "espn",
-       "state": "in",
-       "detail": "0:12 - OT",
+       "state": "post",
+       "detail": "Final/OT",
        "start": "2026-11-24T02:00Z",
-       "period": 3,
-       "clock": "0:12",
+       "period": null,
+       "clock": null,
        "teams": [
         {
          "name": "VCU Rams",
@@ -1231,7 +1231,7 @@
          "abbr": "VCU",
          "score": 66,
          "ha": "away",
-         "winner": null,
+         "winner": false,
          "linescores": [
           0,
           0,
@@ -1244,7 +1244,7 @@
          "abbr": "PROV",
          "score": 72,
          "ha": "home",
-         "winner": null,
+         "winner": true,
          "linescores": [
           0,
           0,
@@ -1349,16 +1349,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "2:09 - 2nd",
+       "detail": "0:37 - 2nd",
        "start": "2026-11-24T02:30Z",
        "period": 2,
-       "clock": "2:09",
+       "clock": "0:37",
        "teams": [
         {
          "name": "UNC Greensboro Spartans",
          "short": "Spartans",
          "abbr": "UNCG",
-         "score": 55,
+         "score": 61,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -1370,7 +1370,7 @@
          "name": "Pepperdine Waves",
          "short": "Waves",
          "abbr": "PEPP",
-         "score": 80,
+         "score": 86,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -1669,16 +1669,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "11:36 - 3rd",
+       "detail": "9:29 - 3rd",
        "start": "2026-11-24T03:00Z",
        "period": 3,
-       "clock": "11:36",
+       "clock": "9:29",
        "teams": [
         {
          "name": "San Antonio Spurs",
          "short": "Spurs",
          "abbr": "SA",
-         "score": 60,
+         "score": 65,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -1691,7 +1691,7 @@
          "name": "Sacramento Kings",
          "short": "Kings",
          "abbr": "SAC",
-         "score": 53,
+         "score": 57,
          "ha": "home",
          "winner": null,
          "linescores": [
