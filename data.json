@@ -1,5 +1,5 @@
 {
- "updated": "Nov 23, 2026, 8:39 PM PT",
+ "updated": "Nov 23, 2026, 8:42 PM PT",
  "record": {
   "w": 261,
   "l": 255,
@@ -985,10 +985,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P2 00:09",
+       "detail": "P2 14:42",
        "start": "2026-11-24T03:00:00Z",
        "period": 2,
-       "clock": "00:09",
+       "clock": "14:42",
        "teams": [
         {
          "name": "Wild",
@@ -1355,8 +1355,8 @@
       "snapshot": {
        "source": "espn",
        "state": "pre",
-       "detail": "11/23 - 11:30 PM EST",
-       "start": "2026-11-24T04:30Z",
+       "detail": "11/23 - 11:55 PM EST",
+       "start": "2026-11-24T04:55Z",
        "period": null,
        "clock": null,
        "teams": [
