@@ -1,5 +1,5 @@
 {
- "updated": "Nov 23, 2026, 4:34 PM PT",
+ "updated": "Nov 23, 2026, 4:46 PM PT",
  "record": {
   "w": 261,
   "l": 255,
@@ -127,65 +127,6 @@
   }
  ],
  "picks": [
-  {
-   "n": 988,
-   "league": "NHL",
-   "type": "Over/Under",
-   "matchup": "Utah Mammoth @ Winnipeg Jets",
-   "pick": "Under 6.5",
-   "odds": -110,
-   "units": 0.5,
-   "gap": null,
-   "start": "2026-11-23T16:40:00",
-   "timed": true,
-   "ticket": "single",
-   "espn": {
-    "legs": [
-     {
-      "kind": "total",
-      "side": null,
-      "ou": "U",
-      "line": 6.5,
-      "label": "U 6.5",
-      "path": "hockey/nhl",
-      "event": "401892777",
-      "date": "20261123",
-      "snapshot": {
-       "source": "nhl",
-       "state": "pre",
-       "detail": "Scheduled",
-       "start": "2026-11-24T00:30:00Z",
-       "period": null,
-       "clock": null,
-       "teams": [
-        {
-         "name": "Mammoth",
-         "short": "UTA",
-         "abbr": "UTA",
-         "score": 0,
-         "ha": "away",
-         "winner": null,
-         "linescores": []
-        },
-        {
-         "name": "Jets",
-         "short": "WPG",
-         "abbr": "WPG",
-         "score": 0,
-         "ha": "home",
-         "winner": null,
-         "linescores": []
-        }
-       ],
-       "nhl_id": 2026020382
-      },
-      "source": "nhl"
-     }
-    ],
-    "sport": "NHL",
-    "ticket": "single"
-   }
-  },
   {
    "n": 994,
    "league": "NCAAB",
@@ -1396,16 +1337,16 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P1 04:46",
+       "detail": "P1 13:49",
        "start": "2026-11-24T00:00:00Z",
        "period": 1,
-       "clock": "04:46",
+       "clock": "13:49",
        "teams": [
         {
          "name": "Blue Jackets",
          "short": "CBJ",
          "abbr": "CBJ",
-         "score": 0,
+         "score": 1,
          "ha": "away",
          "winner": null,
          "linescores": []
@@ -1425,6 +1366,65 @@
         "v": 1,
         "name": "J. Hughes"
        }
+      },
+      "source": "nhl"
+     }
+    ],
+    "sport": "NHL",
+    "ticket": "single"
+   }
+  },
+  {
+   "n": 988,
+   "league": "NHL",
+   "type": "Over/Under",
+   "matchup": "Utah Mammoth @ Winnipeg Jets",
+   "pick": "Under 6.5",
+   "odds": -110,
+   "units": 0.5,
+   "gap": null,
+   "start": "2026-11-23T16:40:00",
+   "timed": true,
+   "ticket": "single",
+   "espn": {
+    "legs": [
+     {
+      "kind": "total",
+      "side": null,
+      "ou": "U",
+      "line": 6.5,
+      "label": "U 6.5",
+      "path": "hockey/nhl",
+      "event": "401892777",
+      "date": "20261123",
+      "snapshot": {
+       "source": "nhl",
+       "state": "in",
+       "detail": "P1 17:00",
+       "start": "2026-11-24T00:30:00Z",
+       "period": 1,
+       "clock": "17:00",
+       "teams": [
+        {
+         "name": "Mammoth",
+         "short": "UTA",
+         "abbr": "UTA",
+         "score": 0,
+         "ha": "away",
+         "winner": null,
+         "linescores": []
+        },
+        {
+         "name": "Jets",
+         "short": "WPG",
+         "abbr": "WPG",
+         "score": 0,
+         "ha": "home",
+         "winner": null,
+         "linescores": []
+        }
+       ],
+       "nhl_id": 2026020382
       },
       "source": "nhl"
      }
@@ -1458,16 +1458,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "7:27 - 1st",
+       "detail": "0:53 - 1st",
        "start": "2026-11-24T00:00Z",
        "period": 1,
-       "clock": "7:27",
+       "clock": "0:53",
        "teams": [
         {
          "name": "Central Arkansas Bears",
          "short": "Bears",
          "abbr": "CARK",
-         "score": 18,
+         "score": 43,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -1478,7 +1478,7 @@
          "name": "North Florida Ospreys",
          "short": "Ospreys",
          "abbr": "UNF",
-         "score": 12,
+         "score": 21,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -1520,16 +1520,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "7:27 - 1st",
+       "detail": "0:53 - 1st",
        "start": "2026-11-24T00:00Z",
        "period": 1,
-       "clock": "7:27",
+       "clock": "0:53",
        "teams": [
         {
          "name": "Central Arkansas Bears",
          "short": "Bears",
          "abbr": "CARK",
-         "score": 18,
+         "score": 43,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -1540,7 +1540,7 @@
          "name": "North Florida Ospreys",
          "short": "Ospreys",
          "abbr": "UNF",
-         "score": 12,
+         "score": 21,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -1583,16 +1583,16 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P1 04:46",
+       "detail": "P1 13:49",
        "start": "2026-11-24T00:00:00Z",
        "period": 1,
-       "clock": "04:46",
+       "clock": "13:49",
        "teams": [
         {
          "name": "Blue Jackets",
          "short": "CBJ",
          "abbr": "CBJ",
-         "score": 0,
+         "score": 1,
          "ha": "away",
          "winner": null,
          "linescores": []
@@ -1647,16 +1647,16 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P1 04:46",
+       "detail": "P1 13:49",
        "start": "2026-11-24T00:00:00Z",
        "period": 1,
-       "clock": "04:46",
+       "clock": "13:49",
        "teams": [
         {
          "name": "Blue Jackets",
          "short": "CBJ",
          "abbr": "CBJ",
-         "score": 0,
+         "score": 1,
          "ha": "away",
          "winner": null,
          "linescores": []
