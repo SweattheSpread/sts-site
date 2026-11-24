@@ -1,5 +1,5 @@
 {
- "updated": "Nov 23, 2026, 4:22 PM PT",
+ "updated": "Nov 23, 2026, 4:32 PM PT",
  "record": {
   "w": 261,
   "l": 255,
@@ -1396,10 +1396,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P1 12:14",
+       "detail": "P1 05:20",
        "start": "2026-11-24T00:00:00Z",
        "period": 1,
-       "clock": "12:14",
+       "clock": "05:20",
        "teams": [
         {
          "name": "Blue Jackets",
@@ -1414,7 +1414,7 @@
          "name": "Devils",
          "short": "NJD",
          "abbr": "NJD",
-         "score": 1,
+         "score": 2,
          "ha": "home",
          "winner": null,
          "linescores": []
@@ -1458,16 +1458,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "11:21 - 1st",
+       "detail": "8:16 - 1st",
        "start": "2026-11-24T00:00Z",
        "period": 1,
-       "clock": "11:21",
+       "clock": "8:16",
        "teams": [
         {
          "name": "Central Arkansas Bears",
          "short": "Bears",
          "abbr": "CARK",
-         "score": 6,
+         "score": 15,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -1520,16 +1520,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "11:21 - 1st",
+       "detail": "8:16 - 1st",
        "start": "2026-11-24T00:00Z",
        "period": 1,
-       "clock": "11:21",
+       "clock": "8:16",
        "teams": [
         {
          "name": "Central Arkansas Bears",
          "short": "Bears",
          "abbr": "CARK",
-         "score": 6,
+         "score": 15,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -1583,10 +1583,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P1 12:14",
+       "detail": "P1 05:20",
        "start": "2026-11-24T00:00:00Z",
        "period": 1,
-       "clock": "12:14",
+       "clock": "05:20",
        "teams": [
         {
          "name": "Blue Jackets",
@@ -1601,7 +1601,7 @@
          "name": "Devils",
          "short": "NJD",
          "abbr": "NJD",
-         "score": 1,
+         "score": 2,
          "ha": "home",
          "winner": null,
          "linescores": []
@@ -1647,10 +1647,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P1 12:14",
+       "detail": "P1 05:20",
        "start": "2026-11-24T00:00:00Z",
        "period": 1,
-       "clock": "12:14",
+       "clock": "05:20",
        "teams": [
         {
          "name": "Blue Jackets",
@@ -1665,7 +1665,7 @@
          "name": "Devils",
          "short": "NJD",
          "abbr": "NJD",
-         "score": 1,
+         "score": 2,
          "ha": "home",
          "winner": null,
          "linescores": []
