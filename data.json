@@ -1,5 +1,5 @@
 {
- "updated": "Nov 23, 2026, 3:56 PM PT",
+ "updated": "Nov 23, 2026, 4:05 PM PT",
  "record": {
   "w": 261,
   "l": 255,
@@ -127,121 +127,6 @@
   }
  ],
  "picks": [
-  {
-   "n": 997,
-   "league": "NCAAB",
-   "type": "Spread",
-   "matchup": "Central Arkansas Bears @ North Florida Ospreys",
-   "pick": "North Florida +8.5",
-   "odds": -110,
-   "units": 1.0,
-   "gap": null,
-   "start": "2026-11-23T16:00:00",
-   "timed": true,
-   "ticket": "single",
-   "espn": {
-    "legs": [
-     {
-      "kind": "spread",
-      "side": "North Florida",
-      "line": 8.5,
-      "label": "North Florida +8.5",
-      "path": "basketball/mens-college-basketball",
-      "event": "401917919",
-      "date": "20261123",
-      "snapshot": {
-       "source": "espn",
-       "state": "pre",
-       "detail": "11/23 - 7:00 PM EST",
-       "start": "2026-11-24T00:00Z",
-       "period": null,
-       "clock": null,
-       "teams": [
-        {
-         "name": "Central Arkansas Bears",
-         "short": "Bears",
-         "abbr": "CARK",
-         "score": 0,
-         "ha": "away",
-         "winner": null,
-         "linescores": []
-        },
-        {
-         "name": "North Florida Ospreys",
-         "short": "Ospreys",
-         "abbr": "UNF",
-         "score": 0,
-         "ha": "home",
-         "winner": null,
-         "linescores": []
-        }
-       ]
-      },
-      "source": "espn"
-     }
-    ],
-    "sport": "NCAAB",
-    "ticket": "single"
-   }
-  },
-  {
-   "n": 998,
-   "league": "NCAAB",
-   "type": "Over/Under",
-   "matchup": "Central Arkansas Bears @ North Florida Ospreys",
-   "pick": "Under 167.5",
-   "odds": -110,
-   "units": 1.0,
-   "gap": null,
-   "start": "2026-11-23T16:00:00",
-   "timed": true,
-   "ticket": "single",
-   "espn": {
-    "legs": [
-     {
-      "kind": "total",
-      "side": null,
-      "ou": "U",
-      "line": 167.5,
-      "label": "U 167.5",
-      "path": "basketball/mens-college-basketball",
-      "event": "401917919",
-      "date": "20261123",
-      "snapshot": {
-       "source": "espn",
-       "state": "pre",
-       "detail": "11/23 - 7:00 PM EST",
-       "start": "2026-11-24T00:00Z",
-       "period": null,
-       "clock": null,
-       "teams": [
-        {
-         "name": "Central Arkansas Bears",
-         "short": "Bears",
-         "abbr": "CARK",
-         "score": 0,
-         "ha": "away",
-         "winner": null,
-         "linescores": []
-        },
-        {
-         "name": "North Florida Ospreys",
-         "short": "Ospreys",
-         "abbr": "UNF",
-         "score": 0,
-         "ha": "home",
-         "winner": null,
-         "linescores": []
-        }
-       ]
-      },
-      "source": "espn"
-     }
-    ],
-    "sport": "NCAAB",
-    "ticket": "single"
-   }
-  },
   {
    "n": 986,
    "league": "NHL",
@@ -1652,6 +1537,129 @@
          "winner": true,
          "linescores": [
           0,
+          0
+         ]
+        }
+       ]
+      },
+      "source": "espn"
+     }
+    ],
+    "sport": "NCAAB",
+    "ticket": "single"
+   }
+  },
+  {
+   "n": 997,
+   "league": "NCAAB",
+   "type": "Spread",
+   "matchup": "Central Arkansas Bears @ North Florida Ospreys",
+   "pick": "North Florida +8.5",
+   "odds": -110,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-23T16:00:00",
+   "timed": true,
+   "ticket": "single",
+   "espn": {
+    "legs": [
+     {
+      "kind": "spread",
+      "side": "North Florida",
+      "line": 8.5,
+      "label": "North Florida +8.5",
+      "path": "basketball/mens-college-basketball",
+      "event": "401917919",
+      "date": "20261123",
+      "snapshot": {
+       "source": "espn",
+       "state": "in",
+       "detail": "18:27 - 1st",
+       "start": "2026-11-24T00:00Z",
+       "period": 1,
+       "clock": "18:27",
+       "teams": [
+        {
+         "name": "Central Arkansas Bears",
+         "short": "Bears",
+         "abbr": "CARK",
+         "score": 0,
+         "ha": "away",
+         "winner": null,
+         "linescores": [
+          0
+         ]
+        },
+        {
+         "name": "North Florida Ospreys",
+         "short": "Ospreys",
+         "abbr": "UNF",
+         "score": 6,
+         "ha": "home",
+         "winner": null,
+         "linescores": [
+          0
+         ]
+        }
+       ]
+      },
+      "source": "espn"
+     }
+    ],
+    "sport": "NCAAB",
+    "ticket": "single"
+   }
+  },
+  {
+   "n": 998,
+   "league": "NCAAB",
+   "type": "Over/Under",
+   "matchup": "Central Arkansas Bears @ North Florida Ospreys",
+   "pick": "Under 167.5",
+   "odds": -110,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-23T16:00:00",
+   "timed": true,
+   "ticket": "single",
+   "espn": {
+    "legs": [
+     {
+      "kind": "total",
+      "side": null,
+      "ou": "U",
+      "line": 167.5,
+      "label": "U 167.5",
+      "path": "basketball/mens-college-basketball",
+      "event": "401917919",
+      "date": "20261123",
+      "snapshot": {
+       "source": "espn",
+       "state": "in",
+       "detail": "18:27 - 1st",
+       "start": "2026-11-24T00:00Z",
+       "period": 1,
+       "clock": "18:27",
+       "teams": [
+        {
+         "name": "Central Arkansas Bears",
+         "short": "Bears",
+         "abbr": "CARK",
+         "score": 0,
+         "ha": "away",
+         "winner": null,
+         "linescores": [
+          0
+         ]
+        },
+        {
+         "name": "North Florida Ospreys",
+         "short": "Ospreys",
+         "abbr": "UNF",
+         "score": 6,
+         "ha": "home",
+         "winner": null,
+         "linescores": [
           0
          ]
         }
