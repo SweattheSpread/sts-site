@@ -1,5 +1,5 @@
 {
- "updated": "Nov 23, 2026, 8:20 PM PT",
+ "updated": "Nov 23, 2026, 8:23 PM PT",
  "record": {
   "w": 261,
   "l": 255,
@@ -1043,10 +1043,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P2 11:03",
+       "detail": "P2 09:35",
        "start": "2026-11-24T03:00:00Z",
        "period": 2,
-       "clock": "11:03",
+       "clock": "09:35",
        "teams": [
         {
          "name": "Wild",
@@ -1220,10 +1220,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "0:51 - OT",
+       "detail": "0:12 - OT",
        "start": "2026-11-24T02:00Z",
        "period": 3,
-       "clock": "0:51",
+       "clock": "0:12",
        "teams": [
         {
          "name": "VCU Rams",
@@ -1242,7 +1242,7 @@
          "name": "Providence Friars",
          "short": "Friars",
          "abbr": "PROV",
-         "score": 68,
+         "score": 72,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -1349,16 +1349,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "3:07 - 2nd",
+       "detail": "2:09 - 2nd",
        "start": "2026-11-24T02:30Z",
        "period": 2,
-       "clock": "3:07",
+       "clock": "2:09",
        "teams": [
         {
          "name": "UNC Greensboro Spartans",
          "short": "Spartans",
          "abbr": "UNCG",
-         "score": 52,
+         "score": 55,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -1669,10 +1669,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "Halftime",
+       "detail": "11:36 - 3rd",
        "start": "2026-11-24T03:00Z",
-       "period": 2,
-       "clock": "0.0",
+       "period": 3,
+       "clock": "11:36",
        "teams": [
         {
          "name": "San Antonio Spurs",
@@ -1683,6 +1683,7 @@
          "winner": null,
          "linescores": [
           0,
+          0,
           0
          ]
         },
@@ -1690,10 +1691,11 @@
          "name": "Sacramento Kings",
          "short": "Kings",
          "abbr": "SAC",
-         "score": 51,
+         "score": 53,
          "ha": "home",
          "winner": null,
          "linescores": [
+          0,
           0,
           0
          ]
