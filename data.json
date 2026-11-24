@@ -1,5 +1,5 @@
 {
- "updated": "Nov 24, 2026, 6:47 AM PT",
+ "updated": "Nov 24, 2026, 6:51 AM PT",
  "record": {
   "w": 269,
   "l": 265,
@@ -11,7 +11,7 @@
   "first": "2026-10-12",
   "last": "2026-11-23"
  },
- "pending": 16,
+ "pending": 17,
  "latest": [
   {
    "n": 1002,
@@ -719,6 +719,64 @@
       "ou": "O",
       "line": 48.0,
       "label": "O 48.0",
+      "path": "football/nfl",
+      "event": "401873080",
+      "date": "20261126",
+      "snapshot": {
+       "source": "espn",
+       "state": "pre",
+       "detail": "11/26 - 4:30 PM EST",
+       "start": "2026-11-26T21:30Z",
+       "period": null,
+       "clock": null,
+       "teams": [
+        {
+         "name": "Philadelphia Eagles",
+         "short": "Eagles",
+         "abbr": "PHI",
+         "score": 0,
+         "ha": "away",
+         "winner": null,
+         "linescores": []
+        },
+        {
+         "name": "Dallas Cowboys",
+         "short": "Cowboys",
+         "abbr": "DAL",
+         "score": 0,
+         "ha": "home",
+         "winner": null,
+         "linescores": []
+        }
+       ]
+      },
+      "source": "espn"
+     }
+    ],
+    "sport": "NFL",
+    "ticket": "single"
+   }
+  },
+  {
+   "n": 1010,
+   "league": "NFL",
+   "type": "Player prop",
+   "matchup": "Philadelphia Eagles @ Dallas Cowboys",
+   "pick": "Ryan Flournoy longest reception Over 15.5",
+   "odds": -105,
+   "units": 1.5,
+   "gap": null,
+   "start": "2026-11-26T13:30:00",
+   "timed": true,
+   "ticket": "single",
+   "espn": {
+    "legs": [
+     {
+      "kind": "team_total",
+      "side": "Ryan Flournoy longest reception",
+      "ou": "O",
+      "line": 15.5,
+      "label": "Ryan Flournoy longest reception O 15.5",
       "path": "football/nfl",
       "event": "401873080",
       "date": "20261126",
