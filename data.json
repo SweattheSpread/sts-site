@@ -1,5 +1,5 @@
 {
- "updated": "Nov 23, 2026, 4:59 PM PT",
+ "updated": "Nov 23, 2026, 5:02 PM PT",
  "record": {
   "w": 261,
   "l": 255,
@@ -127,122 +127,6 @@
   }
  ],
  "picks": [
-  {
-   "n": 994,
-   "league": "NCAAB",
-   "type": "Over/Under",
-   "matchup": "Monmouth Hawks @ North Carolina Tar Heels",
-   "pick": "Under 153.5",
-   "odds": -110,
-   "units": 1.0,
-   "gap": null,
-   "start": "2026-11-23T17:00:00",
-   "timed": true,
-   "ticket": "single",
-   "espn": {
-    "legs": [
-     {
-      "kind": "total",
-      "side": null,
-      "ou": "U",
-      "line": 153.5,
-      "label": "U 153.5",
-      "path": "basketball/mens-college-basketball",
-      "event": "401913102",
-      "date": "20261123",
-      "snapshot": {
-       "source": "espn",
-       "state": "pre",
-       "detail": "11/23 - 8:00 PM EST",
-       "start": "2026-11-24T01:00Z",
-       "period": null,
-       "clock": null,
-       "teams": [
-        {
-         "name": "Monmouth Hawks",
-         "short": "Hawks",
-         "abbr": "MONM",
-         "score": 0,
-         "ha": "away",
-         "winner": null,
-         "linescores": []
-        },
-        {
-         "name": "North Carolina Tar Heels",
-         "short": "Tar Heels",
-         "abbr": "UNC",
-         "score": 0,
-         "ha": "home",
-         "winner": null,
-         "linescores": []
-        }
-       ]
-      },
-      "source": "espn"
-     }
-    ],
-    "sport": "NCAAB",
-    "ticket": "single"
-   }
-  },
-  {
-   "n": 999,
-   "league": "NCAAB",
-   "type": "Over/Under",
-   "matchup": "Winthrop Eagles @ Illinois Fighting Illini",
-   "pick": "Under 181.5",
-   "odds": -115,
-   "units": 1.0,
-   "gap": null,
-   "start": "2026-11-23T17:00:00",
-   "timed": true,
-   "ticket": "single",
-   "espn": {
-    "legs": [
-     {
-      "kind": "total",
-      "side": null,
-      "ou": "U",
-      "line": 181.5,
-      "label": "U 181.5",
-      "path": "basketball/mens-college-basketball",
-      "event": "401913530",
-      "date": "20261123",
-      "snapshot": {
-       "source": "espn",
-       "state": "pre",
-       "detail": "11/23 - 8:00 PM EST",
-       "start": "2026-11-24T01:00Z",
-       "period": null,
-       "clock": null,
-       "teams": [
-        {
-         "name": "Winthrop Eagles",
-         "short": "Eagles",
-         "abbr": "WIN",
-         "score": 0,
-         "ha": "away",
-         "winner": null,
-         "linescores": []
-        },
-        {
-         "name": "Illinois Fighting Illini",
-         "short": "Fighting Illini",
-         "abbr": "ILL",
-         "score": 0,
-         "ha": "home",
-         "winner": null,
-         "linescores": []
-        }
-       ]
-      },
-      "source": "espn"
-     }
-    ],
-    "sport": "NCAAB",
-    "ticket": "single"
-   }
-  },
   {
    "n": 882,
    "league": "NFL",
@@ -1337,10 +1221,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P1 00:49",
+       "detail": "P2 19:54",
        "start": "2026-11-24T00:00:00Z",
-       "period": 1,
-       "clock": "00:49",
+       "period": 2,
+       "clock": "19:54",
        "teams": [
         {
          "name": "Blue Jackets",
@@ -1400,10 +1284,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P1 07:52",
+       "detail": "P1 07:27",
        "start": "2026-11-24T00:30:00Z",
        "period": 1,
-       "clock": "07:52",
+       "clock": "07:27",
        "teams": [
         {
          "name": "Mammoth",
@@ -1430,6 +1314,64 @@
      }
     ],
     "sport": "NHL",
+    "ticket": "single"
+   }
+  },
+  {
+   "n": 994,
+   "league": "NCAAB",
+   "type": "Over/Under",
+   "matchup": "Monmouth Hawks @ North Carolina Tar Heels",
+   "pick": "Under 153.5",
+   "odds": -110,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-23T17:00:00",
+   "timed": true,
+   "ticket": "single",
+   "espn": {
+    "legs": [
+     {
+      "kind": "total",
+      "side": null,
+      "ou": "U",
+      "line": 153.5,
+      "label": "U 153.5",
+      "path": "basketball/mens-college-basketball",
+      "event": "401913102",
+      "date": "20261123",
+      "snapshot": {
+       "source": "espn",
+       "state": "pre",
+       "detail": "11/23 - 8:00 PM EST",
+       "start": "2026-11-24T01:00Z",
+       "period": null,
+       "clock": null,
+       "teams": [
+        {
+         "name": "Monmouth Hawks",
+         "short": "Hawks",
+         "abbr": "MONM",
+         "score": 0,
+         "ha": "away",
+         "winner": null,
+         "linescores": []
+        },
+        {
+         "name": "North Carolina Tar Heels",
+         "short": "Tar Heels",
+         "abbr": "UNC",
+         "score": 0,
+         "ha": "home",
+         "winner": null,
+         "linescores": []
+        }
+       ]
+      },
+      "source": "espn"
+     }
+    ],
+    "sport": "NCAAB",
     "ticket": "single"
    }
   },
@@ -1557,6 +1499,68 @@
    }
   },
   {
+   "n": 999,
+   "league": "NCAAB",
+   "type": "Over/Under",
+   "matchup": "Winthrop Eagles @ Illinois Fighting Illini",
+   "pick": "Under 181.5",
+   "odds": -115,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-23T17:00:00",
+   "timed": true,
+   "ticket": "single",
+   "espn": {
+    "legs": [
+     {
+      "kind": "total",
+      "side": null,
+      "ou": "U",
+      "line": 181.5,
+      "label": "U 181.5",
+      "path": "basketball/mens-college-basketball",
+      "event": "401913530",
+      "date": "20261123",
+      "snapshot": {
+       "source": "espn",
+       "state": "in",
+       "detail": "19:15 - 1st",
+       "start": "2026-11-24T01:00Z",
+       "period": 1,
+       "clock": "19:15",
+       "teams": [
+        {
+         "name": "Winthrop Eagles",
+         "short": "Eagles",
+         "abbr": "WIN",
+         "score": 0,
+         "ha": "away",
+         "winner": null,
+         "linescores": [
+          0
+         ]
+        },
+        {
+         "name": "Illinois Fighting Illini",
+         "short": "Fighting Illini",
+         "abbr": "ILL",
+         "score": 2,
+         "ha": "home",
+         "winner": null,
+         "linescores": [
+          0
+         ]
+        }
+       ]
+      },
+      "source": "espn"
+     }
+    ],
+    "sport": "NCAAB",
+    "ticket": "single"
+   }
+  },
+  {
    "n": 1000,
    "league": "NHL",
    "type": "Player Prop",
@@ -1583,10 +1587,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P1 00:49",
+       "detail": "P2 19:54",
        "start": "2026-11-24T00:00:00Z",
-       "period": 1,
-       "clock": "00:49",
+       "period": 2,
+       "clock": "19:54",
        "teams": [
         {
          "name": "Blue Jackets",
@@ -1647,10 +1651,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P1 00:49",
+       "detail": "P2 19:54",
        "start": "2026-11-24T00:00:00Z",
-       "period": 1,
-       "clock": "00:49",
+       "period": 2,
+       "clock": "19:54",
        "teams": [
         {
          "name": "Blue Jackets",
