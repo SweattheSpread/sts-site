@@ -1,5 +1,5 @@
 {
- "updated": "Nov 24, 2026, 3:46 PM PT",
+ "updated": "Nov 24, 2026, 3:49 PM PT",
  "record": {
   "w": 269,
   "l": 265,
@@ -622,18 +622,18 @@
        "clock": null,
        "teams": [
         {
-         "name": "Grand Canyon Lopes",
-         "short": "Lopes",
-         "abbr": "GCU",
+         "name": "Saint Louis Billikens",
+         "short": "Billikens",
+         "abbr": "SLU",
          "score": 0,
          "ha": "away",
          "winner": null,
          "linescores": []
         },
         {
-         "name": "Saint Louis Billikens",
-         "short": "Billikens",
-         "abbr": "SLU",
+         "name": "Grand Canyon Lopes",
+         "short": "Lopes",
+         "abbr": "GCU",
          "score": 0,
          "ha": "home",
          "winner": null,
@@ -1597,10 +1597,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "0:40 - 1st",
+       "detail": "Halftime",
        "start": "2026-11-24T23:00Z",
        "period": 1,
-       "clock": "0:40",
+       "clock": "0:00",
        "teams": [
         {
          "name": "Queens University Royals",
