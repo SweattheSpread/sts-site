@@ -1,5 +1,5 @@
 {
- "updated": "Nov 24, 2026, 3:45 AM PT",
+ "updated": "Nov 24, 2026, 5:52 AM PT",
  "record": {
   "w": 269,
   "l": 265,
@@ -127,54 +127,6 @@
   }
  ],
  "picks": [
-  {
-   "n": 1003,
-   "league": "Tennis",
-   "type": "Moneyline",
-   "matchup": "Monastir 2 Challenger: Branko Djuric vs Federico Iannaccone",
-   "pick": "Federico Iannaccone ML",
-   "odds": 112,
-   "units": 1.5,
-   "gap": null,
-   "start": "2026-11-24T04:00:00",
-   "timed": true,
-   "ticket": "single",
-   "espn": {
-    "legs": [
-     {
-      "kind": "ml",
-      "side": "Federico Iannaccone",
-      "label": "Federico Iannaccone ML",
-      "snapshot": {
-       "source": "tennis-explorer",
-       "path": "tennis/explorer",
-       "event": "3387794",
-       "state": "pre",
-       "detail": "Scheduled",
-       "tennis": [
-        {
-         "name": "Djuric B.",
-         "winner": false,
-         "sets": []
-        },
-        {
-         "name": "Iannaccone F.",
-         "winner": false,
-         "sets": []
-        }
-       ],
-       "tour": "Monastir 2 challenger"
-      },
-      "path": "tennis/explorer",
-      "event": "3387794",
-      "source": "tennis-explorer",
-      "date": "20261124"
-     }
-    ],
-    "sport": "Tennis",
-    "ticket": "single"
-   }
-  },
   {
    "n": 1004,
    "league": "NCAAB",
@@ -1033,7 +985,62 @@
    }
   }
  ],
- "awaiting": [],
+ "awaiting": [
+  {
+   "n": 1003,
+   "league": "Tennis",
+   "type": "Moneyline",
+   "matchup": "Monastir 2 Challenger: Branko Djuric vs Federico Iannaccone",
+   "pick": "Federico Iannaccone ML",
+   "odds": 112,
+   "units": 1.5,
+   "gap": null,
+   "start": "2026-11-24T04:00:00",
+   "timed": true,
+   "ticket": "single",
+   "espn": {
+    "legs": [
+     {
+      "kind": "ml",
+      "side": "Federico Iannaccone",
+      "label": "Federico Iannaccone ML",
+      "snapshot": {
+       "source": "tennis-explorer",
+       "path": "tennis/explorer",
+       "event": "3387794",
+       "state": "post",
+       "detail": "Final \u00b7 2-0 sets",
+       "tennis": [
+        {
+         "name": "Djuric B.",
+         "winner": true,
+         "sets": [
+          6,
+          6
+         ]
+        },
+        {
+         "name": "Iannaccone F.",
+         "winner": false,
+         "sets": [
+          3,
+          4
+         ]
+        }
+       ],
+       "tour": "Monastir 2 challenger"
+      },
+      "path": "tennis/explorer",
+      "event": "3387794",
+      "source": "tennis-explorer",
+      "date": "20261124"
+     }
+    ],
+    "sport": "Tennis",
+    "ticket": "single"
+   }
+  }
+ ],
  "daily": {
   "2026-10-12": {
    "u": 5.67,
