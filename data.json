@@ -1,5 +1,5 @@
 {
- "updated": "Nov 24, 2026, 12:48 PM PT",
+ "updated": "Nov 24, 2026, 2:17 PM PT",
  "record": {
   "w": 269,
   "l": 265,
@@ -11,7 +11,7 @@
   "first": "2026-10-12",
   "last": "2026-11-23"
  },
- "pending": 24,
+ "pending": 25,
  "latest": [
   {
    "n": 1002,
@@ -437,6 +437,65 @@
       "line": 6.5,
       "stat": "rebounds +110",
       "label": "AJ Dybantsa O 6.5 rebounds +110",
+      "path": "basketball/nba",
+      "event": "401909315",
+      "date": "20261124",
+      "snapshot": {
+       "source": "espn",
+       "state": "pre",
+       "detail": "11/24 - 8:00 PM EST",
+       "start": "2026-11-25T01:00Z",
+       "period": null,
+       "clock": null,
+       "teams": [
+        {
+         "name": "Boston Celtics",
+         "short": "Celtics",
+         "abbr": "BOS",
+         "score": 0,
+         "ha": "away",
+         "winner": null,
+         "linescores": []
+        },
+        {
+         "name": "Washington Wizards",
+         "short": "Wizards",
+         "abbr": "WSH",
+         "score": 0,
+         "ha": "home",
+         "winner": null,
+         "linescores": []
+        }
+       ]
+      },
+      "source": "espn"
+     }
+    ],
+    "sport": "NBA",
+    "ticket": "single"
+   }
+  },
+  {
+   "n": 1020,
+   "league": "NBA",
+   "type": "Player Prop",
+   "matchup": "Boston Celtics @ Washington Wizards",
+   "pick": "Paul George Over 18.5 Points -115 (BetMGM; Circa -130)",
+   "odds": -115,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-24T17:10:00",
+   "timed": true,
+   "ticket": "single",
+   "espn": {
+    "legs": [
+     {
+      "kind": "prop",
+      "player": "Paul George",
+      "ou": "O",
+      "line": 18.5,
+      "stat": "points -115",
+      "label": "Paul George O 18.5 points -115",
       "path": "basketball/nba",
       "event": "401909315",
       "date": "20261124",

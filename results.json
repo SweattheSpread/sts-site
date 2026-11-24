@@ -1,5 +1,5 @@
 {
- "updated": "Nov 24, 2026, 12:48 PM PT",
+ "updated": "Nov 24, 2026, 2:17 PM PT",
  "record": {
   "w": 269,
   "l": 265,
@@ -11,7 +11,7 @@
   "first": "2026-10-12",
   "last": "2026-11-23"
  },
- "pending": 26,
+ "pending": 27,
  "plays": [
   {
    "n": 334,
@@ -8873,6 +8873,22 @@
    "pick": "Tennessee ML LIVE",
    "odds": -105,
    "units": 3.0,
+   "result": null,
+   "pl": null,
+   "pending": true
+  },
+  {
+   "n": 1020,
+   "date": "2026-11-24",
+   "day": "2026-11-24",
+   "league": "NBA",
+   "market": "player_prop",
+   "market_label": "Player Prop",
+   "ticket": "single",
+   "matchup": "Boston Celtics @ Washington Wizards",
+   "pick": "Paul George Over 18.5 Points -115 (BetMGM; Circa -130)",
+   "odds": -115,
+   "units": 1.0,
    "result": null,
    "pl": null,
    "pending": true
