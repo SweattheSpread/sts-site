@@ -1,5 +1,5 @@
 {
- "updated": "Nov 23, 2026, 9:15 PM PT",
+ "updated": "Nov 23, 2026, 9:18 PM PT",
  "record": {
   "w": 261,
   "l": 255,
@@ -985,10 +985,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P3 11:24",
+       "detail": "P3 09:33",
        "start": "2026-11-24T03:00:00Z",
        "period": 3,
-       "clock": "11:24",
+       "clock": "09:33",
        "teams": [
         {
          "name": "Wild",
@@ -1355,16 +1355,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "12:00 - 1st",
+       "detail": "10:05 - 1st",
        "start": "2026-11-24T04:55Z",
        "period": 1,
-       "clock": "12:00",
+       "clock": "10:05",
        "teams": [
         {
          "name": "Colorado State Rams",
          "short": "Rams",
          "abbr": "CSU",
-         "score": 12,
+         "score": 14,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -1375,7 +1375,7 @@
          "name": "Arizona Wildcats",
          "short": "Wildcats",
          "abbr": "ARIZ",
-         "score": 18,
+         "score": 22,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -1673,16 +1673,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "2:52 - 4th",
+       "detail": "1:42 - 4th",
        "start": "2026-11-24T03:00Z",
        "period": 4,
-       "clock": "2:52",
+       "clock": "1:42",
        "teams": [
         {
          "name": "San Antonio Spurs",
          "short": "Spurs",
          "abbr": "SA",
-         "score": 113,
+         "score": 117,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -1696,7 +1696,7 @@
          "name": "Sacramento Kings",
          "short": "Kings",
          "abbr": "SAC",
-         "score": 97,
+         "score": 101,
          "ha": "home",
          "winner": null,
          "linescores": [
