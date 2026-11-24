@@ -1,5 +1,5 @@
 {
- "updated": "Nov 23, 2026, 6:37 PM PT",
+ "updated": "Nov 23, 2026, 6:40 PM PT",
  "record": {
   "w": 261,
   "l": 255,
@@ -844,10 +844,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "0:19 - 2nd",
+       "detail": "0:12 - 2nd",
        "start": "2026-11-24T01:15Z",
        "period": 2,
-       "clock": "0:19",
+       "clock": "0:12",
        "teams": [
         {
          "name": "Cincinnati Bengals",
@@ -865,7 +865,7 @@
          "name": "Washington Commanders",
          "short": "Commanders",
          "abbr": "WSH",
-         "score": 0,
+         "score": 7,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -908,10 +908,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "0:19 - 2nd",
+       "detail": "0:12 - 2nd",
        "start": "2026-11-24T01:15Z",
        "period": 2,
-       "clock": "0:19",
+       "clock": "0:12",
        "teams": [
         {
          "name": "Cincinnati Bengals",
@@ -929,7 +929,7 @@
          "name": "Washington Commanders",
          "short": "Commanders",
          "abbr": "WSH",
-         "score": 0,
+         "score": 7,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -1153,10 +1153,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P3 15:33",
+       "detail": "P3 14:08",
        "start": "2026-11-24T00:30:00Z",
        "period": 3,
-       "clock": "15:33",
+       "clock": "14:08",
        "teams": [
         {
          "name": "Mammoth",
@@ -1267,16 +1267,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "5:31 - 1st",
+       "detail": "4:51 - 1st",
        "start": "2026-11-24T02:00Z",
        "period": 1,
-       "clock": "5:31",
+       "clock": "4:51",
        "teams": [
         {
          "name": "VCU Rams",
          "short": "Rams",
          "abbr": "VCU",
-         "score": 25,
+         "score": 27,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -1287,7 +1287,7 @@
          "name": "Providence Friars",
          "short": "Friars",
          "abbr": "PROV",
-         "score": 29,
+         "score": 31,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -1329,10 +1329,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "11:01 - 2nd",
+       "detail": "10:06 - 2nd",
        "start": "2026-11-24T01:00Z",
        "period": 2,
-       "clock": "11:01",
+       "clock": "10:06",
        "teams": [
         {
          "name": "Monmouth Hawks",
@@ -1350,7 +1350,7 @@
          "name": "North Carolina Tar Heels",
          "short": "Tar Heels",
          "abbr": "UNC",
-         "score": 64,
+         "score": 66,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -1392,10 +1392,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "15:37 - 1st",
+       "detail": "15:06 - 1st",
        "start": "2026-11-24T02:30Z",
        "period": 1,
-       "clock": "15:37",
+       "clock": "15:06",
        "teams": [
         {
          "name": "UNC Greensboro Spartans",
@@ -1581,16 +1581,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "11:36 - 2nd",
+       "detail": "10:39 - 2nd",
        "start": "2026-11-24T01:00Z",
        "period": 2,
-       "clock": "11:36",
+       "clock": "10:39",
        "teams": [
         {
          "name": "Winthrop Eagles",
          "short": "Eagles",
          "abbr": "WIN",
-         "score": 66,
+         "score": 68,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -1602,7 +1602,7 @@
          "name": "Illinois Fighting Illini",
          "short": "Fighting Illini",
          "abbr": "ILL",
-         "score": 94,
+         "score": 96,
          "ha": "home",
          "winner": null,
          "linescores": [
