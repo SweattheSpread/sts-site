@@ -1,5 +1,5 @@
 {
- "updated": "Nov 24, 2026, 2:45 PM PT",
+ "updated": "Nov 24, 2026, 3:07 PM PT",
  "record": {
   "w": 269,
   "l": 265,
@@ -128,63 +128,6 @@
  ],
  "picks": [
   {
-   "n": 1005,
-   "league": "NCAAB",
-   "type": "Spread",
-   "matchup": "Queens University Royals @ Wofford Terriers",
-   "pick": "Queens University +1.5",
-   "odds": -110,
-   "units": 1.0,
-   "gap": null,
-   "start": "2026-11-24T15:00:00",
-   "timed": true,
-   "ticket": "single",
-   "espn": {
-    "legs": [
-     {
-      "kind": "spread",
-      "side": "Queens University",
-      "line": 1.5,
-      "label": "Queens University +1.5",
-      "path": "basketball/mens-college-basketball",
-      "event": "401922231",
-      "date": "20261124",
-      "snapshot": {
-       "source": "espn",
-       "state": "pre",
-       "detail": "11/24 - 6:00 PM EST",
-       "start": "2026-11-24T23:00Z",
-       "period": null,
-       "clock": null,
-       "teams": [
-        {
-         "name": "Queens University Royals",
-         "short": "Royals",
-         "abbr": "QUC",
-         "score": 0,
-         "ha": "away",
-         "winner": null,
-         "linescores": []
-        },
-        {
-         "name": "Wofford Terriers",
-         "short": "Terriers",
-         "abbr": "WOF",
-         "score": 0,
-         "ha": "home",
-         "winner": null,
-         "linescores": []
-        }
-       ]
-      },
-      "source": "espn"
-     }
-    ],
-    "sport": "NCAAB",
-    "ticket": "single"
-   }
-  },
-  {
    "n": 1006,
    "league": "NCAAB",
    "type": "Spread",
@@ -215,18 +158,18 @@
        "clock": null,
        "teams": [
         {
-         "name": "Nevada Wolf Pack",
-         "short": "Wolf Pack",
-         "abbr": "NEV",
+         "name": "Santa Clara Broncos",
+         "short": "Broncos",
+         "abbr": "SCU",
          "score": 0,
          "ha": "away",
          "winner": null,
          "linescores": []
         },
         {
-         "name": "Santa Clara Broncos",
-         "short": "Broncos",
-         "abbr": "SCU",
+         "name": "Nevada Wolf Pack",
+         "short": "Wolf Pack",
+         "abbr": "NEV",
          "score": 0,
          "ha": "home",
          "winner": null,
@@ -564,18 +507,18 @@
        "clock": null,
        "teams": [
         {
-         "name": "Charleston Cougars",
-         "short": "Cougars",
-         "abbr": "COFC",
+         "name": "UTEP Miners",
+         "short": "Miners",
+         "abbr": "UTEP",
          "score": 0,
          "ha": "away",
          "winner": null,
          "linescores": []
         },
         {
-         "name": "UTEP Miners",
-         "short": "Miners",
-         "abbr": "UTEP",
+         "name": "Charleston Cougars",
+         "short": "Cougars",
+         "abbr": "COFC",
          "score": 0,
          "ha": "home",
          "winner": null,
@@ -1560,6 +1503,67 @@
          "linescores": [
           0,
           0,
+          0
+         ]
+        }
+       ]
+      },
+      "source": "espn"
+     }
+    ],
+    "sport": "NCAAB",
+    "ticket": "single"
+   }
+  },
+  {
+   "n": 1005,
+   "league": "NCAAB",
+   "type": "Spread",
+   "matchup": "Queens University Royals @ Wofford Terriers",
+   "pick": "Queens University +1.5",
+   "odds": -110,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-24T15:00:00",
+   "timed": true,
+   "ticket": "single",
+   "espn": {
+    "legs": [
+     {
+      "kind": "spread",
+      "side": "Queens University",
+      "line": 1.5,
+      "label": "Queens University +1.5",
+      "path": "basketball/mens-college-basketball",
+      "event": "401922231",
+      "date": "20261124",
+      "snapshot": {
+       "source": "espn",
+       "state": "in",
+       "detail": "17:06 - 1st",
+       "start": "2026-11-24T23:00Z",
+       "period": 1,
+       "clock": "17:06",
+       "teams": [
+        {
+         "name": "Queens University Royals",
+         "short": "Royals",
+         "abbr": "QUC",
+         "score": 5,
+         "ha": "away",
+         "winner": null,
+         "linescores": [
+          0
+         ]
+        },
+        {
+         "name": "Wofford Terriers",
+         "short": "Terriers",
+         "abbr": "WOF",
+         "score": 8,
+         "ha": "home",
+         "winner": null,
+         "linescores": [
           0
          ]
         }
