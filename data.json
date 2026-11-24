@@ -1,5 +1,5 @@
 {
- "updated": "Nov 23, 2026, 6:47 PM PT",
+ "updated": "Nov 23, 2026, 6:50 PM PT",
  "record": {
   "w": 261,
   "l": 255,
@@ -1153,10 +1153,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P3 09:54",
+       "detail": "P3 08:24",
        "start": "2026-11-24T00:30:00Z",
        "period": 3,
-       "clock": "09:54",
+       "clock": "08:24",
        "teams": [
         {
          "name": "Mammoth",
@@ -1267,16 +1267,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "2:00 - 1st",
+       "detail": "0:33 - 1st",
        "start": "2026-11-24T02:00Z",
        "period": 1,
-       "clock": "2:00",
+       "clock": "0:33",
        "teams": [
         {
          "name": "VCU Rams",
          "short": "Rams",
          "abbr": "VCU",
-         "score": 31,
+         "score": 33,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -1287,7 +1287,7 @@
          "name": "Providence Friars",
          "short": "Friars",
          "abbr": "PROV",
-         "score": 38,
+         "score": 40,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -1329,10 +1329,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "7:11 - 2nd",
+       "detail": "5:57 - 2nd",
        "start": "2026-11-24T01:00Z",
        "period": 2,
-       "clock": "7:11",
+       "clock": "5:57",
        "teams": [
         {
          "name": "Monmouth Hawks",
@@ -1392,16 +1392,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "11:21 - 1st",
+       "detail": "9:08 - 1st",
        "start": "2026-11-24T02:30Z",
        "period": 1,
-       "clock": "11:21",
+       "clock": "9:08",
        "teams": [
         {
          "name": "UNC Greensboro Spartans",
          "short": "Spartans",
          "abbr": "UNCG",
-         "score": 14,
+         "score": 16,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -1412,7 +1412,7 @@
          "name": "Pepperdine Waves",
          "short": "Waves",
          "abbr": "PEPP",
-         "score": 13,
+         "score": 20,
          "ha": "home",
          "winner": null,
          "linescores": [
