@@ -1,5 +1,5 @@
 {
- "updated": "Nov 24, 2026, 3:38 PM PT",
+ "updated": "Nov 24, 2026, 3:41 PM PT",
  "record": {
   "w": 269,
   "l": 265,
@@ -667,7 +667,38 @@
       "side": "Los Angeles Rams",
       "line": -3.5,
       "label": "Los Angeles Rams -3.5",
-      "unverified": true
+      "path": "football/nfl",
+      "event": "401873079",
+      "date": "20261125",
+      "snapshot": {
+       "source": "espn",
+       "state": "pre",
+       "detail": "11/25 - 8:00 PM EST",
+       "start": "2026-11-26T01:00Z",
+       "period": null,
+       "clock": null,
+       "teams": [
+        {
+         "name": "Green Bay Packers",
+         "short": "Packers",
+         "abbr": "GB",
+         "score": 0,
+         "ha": "away",
+         "winner": null,
+         "linescores": []
+        },
+        {
+         "name": "Los Angeles Rams",
+         "short": "Rams",
+         "abbr": "LAR",
+         "score": 0,
+         "ha": "home",
+         "winner": null,
+         "linescores": []
+        }
+       ]
+      },
+      "source": "espn"
      }
     ],
     "sport": "NFL",
@@ -694,7 +725,38 @@
       "ou": "O",
       "line": 44.0,
       "label": "O 44.0",
-      "unverified": true
+      "path": "football/nfl",
+      "event": "401873079",
+      "date": "20261125",
+      "snapshot": {
+       "source": "espn",
+       "state": "pre",
+       "detail": "11/25 - 8:00 PM EST",
+       "start": "2026-11-26T01:00Z",
+       "period": null,
+       "clock": null,
+       "teams": [
+        {
+         "name": "Green Bay Packers",
+         "short": "Packers",
+         "abbr": "GB",
+         "score": 0,
+         "ha": "away",
+         "winner": null,
+         "linescores": []
+        },
+        {
+         "name": "Los Angeles Rams",
+         "short": "Rams",
+         "abbr": "LAR",
+         "score": 0,
+         "ha": "home",
+         "winner": null,
+         "linescores": []
+        }
+       ]
+      },
+      "source": "espn"
      }
     ],
     "sport": "NFL",
@@ -720,7 +782,38 @@
       "side": "Los Angeles Rams",
       "line": -2.5,
       "label": "Los Angeles Rams -2.5",
-      "unverified": true
+      "path": "football/nfl",
+      "event": "401873079",
+      "date": "20261125",
+      "snapshot": {
+       "source": "espn",
+       "state": "pre",
+       "detail": "11/25 - 8:00 PM EST",
+       "start": "2026-11-26T01:00Z",
+       "period": null,
+       "clock": null,
+       "teams": [
+        {
+         "name": "Green Bay Packers",
+         "short": "Packers",
+         "abbr": "GB",
+         "score": 0,
+         "ha": "away",
+         "winner": null,
+         "linescores": []
+        },
+        {
+         "name": "Los Angeles Rams",
+         "short": "Rams",
+         "abbr": "LAR",
+         "score": 0,
+         "ha": "home",
+         "winner": null,
+         "linescores": []
+        }
+       ]
+      },
+      "source": "espn"
      }
     ],
     "sport": "NFL",
@@ -1504,16 +1597,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "3:51 - 1st",
+       "detail": "2:25 - 1st",
        "start": "2026-11-24T23:00Z",
        "period": 1,
-       "clock": "3:51",
+       "clock": "2:25",
        "teams": [
         {
          "name": "Queens University Royals",
          "short": "Royals",
          "abbr": "QUC",
-         "score": 28,
+         "score": 33,
          "ha": "away",
          "winner": null,
          "linescores": [
