@@ -1,5 +1,5 @@
 {
- "updated": "Nov 24, 2026, 7:22 AM PT",
+ "updated": "Nov 24, 2026, 7:24 AM PT",
  "record": {
   "w": 269,
   "l": 265,
@@ -1066,16 +1066,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "9:38 - 1st",
+       "detail": "8:11 - 1st",
        "start": "2026-11-24T15:00Z",
        "period": 1,
-       "clock": "9:38",
+       "clock": "8:11",
        "teams": [
         {
          "name": "Wright State Raiders",
          "short": "Raiders",
          "abbr": "WRST",
-         "score": 8,
+         "score": 10,
          "ha": "away",
          "winner": null,
          "linescores": [
