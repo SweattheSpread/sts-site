@@ -1,5 +1,5 @@
 {
- "updated": "Nov 23, 2026, 7:04 PM PT",
+ "updated": "Nov 23, 2026, 7:54 PM PT",
  "record": {
   "w": 261,
   "l": 255,
@@ -127,125 +127,6 @@
   }
  ],
  "picks": [
-  {
-   "n": 987,
-   "league": "NHL",
-   "type": "Player Prop",
-   "matchup": "Minnesota Wild @ San Jose Sharks",
-   "pick": "Tyler Toffoli Over 0.5 Points",
-   "odds": 170,
-   "units": 1.0,
-   "gap": null,
-   "start": "2026-11-23T19:10:00",
-   "timed": true,
-   "ticket": "single",
-   "espn": {
-    "legs": [
-     {
-      "kind": "prop",
-      "player": "Tyler Toffoli",
-      "ou": "O",
-      "line": 0.5,
-      "stat": "points",
-      "label": "Tyler Toffoli O 0.5 points",
-      "path": "hockey/nhl",
-      "event": "401892779",
-      "date": "20261123",
-      "snapshot": {
-       "source": "nhl",
-       "state": "pre",
-       "detail": "Scheduled",
-       "start": "2026-11-24T03:00:00Z",
-       "period": null,
-       "clock": null,
-       "teams": [
-        {
-         "name": "Wild",
-         "short": "MIN",
-         "abbr": "MIN",
-         "score": 0,
-         "ha": "away",
-         "winner": null,
-         "linescores": []
-        },
-        {
-         "name": "Sharks",
-         "short": "SJS",
-         "abbr": "SJS",
-         "score": 0,
-         "ha": "home",
-         "winner": null,
-         "linescores": []
-        }
-       ],
-       "nhl_id": 2026020384
-      },
-      "source": "nhl"
-     }
-    ],
-    "sport": "NHL",
-    "ticket": "single"
-   }
-  },
-  {
-   "n": 1001,
-   "league": "NBA",
-   "type": "Player Prop",
-   "matchup": "San Antonio Spurs @ Sacramento Kings",
-   "pick": "Domantas Sabonis Over 12.5 Rebounds",
-   "odds": 115,
-   "units": 1.0,
-   "gap": null,
-   "start": "2026-11-23T19:10:00",
-   "timed": true,
-   "ticket": "single",
-   "espn": {
-    "legs": [
-     {
-      "kind": "prop",
-      "player": "Domantas Sabonis",
-      "ou": "O",
-      "line": 12.5,
-      "stat": "rebounds",
-      "label": "Domantas Sabonis O 12.5 rebounds",
-      "path": "basketball/nba",
-      "event": "401910045",
-      "date": "20261123",
-      "snapshot": {
-       "source": "espn",
-       "state": "pre",
-       "detail": "11/23 - 10:00 PM EST",
-       "start": "2026-11-24T03:00Z",
-       "period": null,
-       "clock": null,
-       "teams": [
-        {
-         "name": "San Antonio Spurs",
-         "short": "Spurs",
-         "abbr": "SA",
-         "score": 0,
-         "ha": "away",
-         "winner": null,
-         "linescores": []
-        },
-        {
-         "name": "Sacramento Kings",
-         "short": "Kings",
-         "abbr": "SAC",
-         "score": 0,
-         "ha": "home",
-         "winner": null,
-         "linescores": []
-        }
-       ]
-      },
-      "source": "espn"
-     }
-    ],
-    "sport": "NBA",
-    "ticket": "single"
-   }
-  },
   {
    "n": 996,
    "league": "NCAAB",
@@ -844,19 +725,20 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "Delayed",
+       "detail": "8:30 - 4th",
        "start": "2026-11-24T01:15Z",
-       "period": 3,
-       "clock": "12:03",
+       "period": 4,
+       "clock": "8:30",
        "teams": [
         {
          "name": "Cincinnati Bengals",
          "short": "Bengals",
          "abbr": "CIN",
-         "score": 10,
+         "score": 17,
          "ha": "away",
          "winner": null,
          "linescores": [
+          0,
           0,
           0,
           0
@@ -866,10 +748,11 @@
          "name": "Washington Commanders",
          "short": "Commanders",
          "abbr": "WSH",
-         "score": 7,
+         "score": 16,
          "ha": "home",
          "winner": null,
          "linescores": [
+          0,
           0,
           0,
           0
@@ -910,19 +793,20 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "Delayed",
+       "detail": "8:30 - 4th",
        "start": "2026-11-24T01:15Z",
-       "period": 3,
-       "clock": "12:03",
+       "period": 4,
+       "clock": "8:30",
        "teams": [
         {
          "name": "Cincinnati Bengals",
          "short": "Bengals",
          "abbr": "CIN",
-         "score": 10,
+         "score": 17,
          "ha": "away",
          "winner": null,
          "linescores": [
+          0,
           0,
           0,
           0
@@ -932,10 +816,11 @@
          "name": "Washington Commanders",
          "short": "Commanders",
          "abbr": "WSH",
-         "score": 7,
+         "score": 16,
          "ha": "home",
          "winner": null,
          "linescores": [
+          0,
           0,
           0,
           0
@@ -1132,6 +1017,70 @@
    }
   },
   {
+   "n": 987,
+   "league": "NHL",
+   "type": "Player Prop",
+   "matchup": "Minnesota Wild @ San Jose Sharks",
+   "pick": "Tyler Toffoli Over 0.5 Points",
+   "odds": 170,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-23T19:10:00",
+   "timed": true,
+   "ticket": "single",
+   "espn": {
+    "legs": [
+     {
+      "kind": "prop",
+      "player": "Tyler Toffoli",
+      "ou": "O",
+      "line": 0.5,
+      "stat": "points",
+      "label": "Tyler Toffoli O 0.5 points",
+      "path": "hockey/nhl",
+      "event": "401892779",
+      "date": "20261123",
+      "snapshot": {
+       "source": "nhl",
+       "state": "in",
+       "detail": "P1 08:29",
+       "start": "2026-11-24T03:00:00Z",
+       "period": 1,
+       "clock": "08:29",
+       "teams": [
+        {
+         "name": "Wild",
+         "short": "MIN",
+         "abbr": "MIN",
+         "score": 2,
+         "ha": "away",
+         "winner": null,
+         "linescores": []
+        },
+        {
+         "name": "Sharks",
+         "short": "SJS",
+         "abbr": "SJS",
+         "score": 2,
+         "ha": "home",
+         "winner": null,
+         "linescores": []
+        }
+       ],
+       "nhl_id": 2026020384,
+       "stat": {
+        "v": 1,
+        "name": "T. Toffoli"
+       }
+      },
+      "source": "nhl"
+     }
+    ],
+    "sport": "NHL",
+    "ticket": "single"
+   }
+  },
+  {
    "n": 988,
    "league": "NHL",
    "type": "Over/Under",
@@ -1156,11 +1105,11 @@
       "date": "20261123",
       "snapshot": {
        "source": "nhl",
-       "state": "in",
-       "detail": "P3 01:12",
+       "state": "post",
+       "detail": "Final",
        "start": "2026-11-24T00:30:00Z",
        "period": 3,
-       "clock": "01:12",
+       "clock": "00:00",
        "teams": [
         {
          "name": "Mammoth",
@@ -1168,16 +1117,16 @@
          "abbr": "UTA",
          "score": 2,
          "ha": "away",
-         "winner": null,
+         "winner": false,
          "linescores": []
         },
         {
          "name": "Jets",
          "short": "WPG",
          "abbr": "WPG",
-         "score": 3,
+         "score": 4,
          "ha": "home",
-         "winner": null,
+         "winner": true,
          "linescores": []
         }
        ],
@@ -1214,26 +1163,26 @@
       "unverified": true,
       "snapshot": {
        "source": "odds-api",
-       "state": "in",
-       "detail": "Live",
+       "state": "post",
+       "detail": "Final",
        "start": "2026-11-24T01:41:00Z",
        "teams": [
         {
          "name": "Los Angeles Clippers",
          "short": "Los Angeles Clippers",
          "abbr": "",
-         "score": 65,
+         "score": 104,
          "ha": "away",
-         "winner": null,
+         "winner": false,
          "linescores": []
         },
         {
          "name": "Houston Rockets",
          "short": "Houston Rockets",
          "abbr": "",
-         "score": 65,
+         "score": 116,
          "ha": "home",
-         "winner": null,
+         "winner": true,
          "linescores": []
         }
        ]
@@ -1271,19 +1220,20 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "Halftime",
+       "detail": "4:08 - 2nd",
        "start": "2026-11-24T02:00Z",
-       "period": 1,
-       "clock": "0:00",
+       "period": 2,
+       "clock": "4:08",
        "teams": [
         {
          "name": "VCU Rams",
          "short": "Rams",
          "abbr": "VCU",
-         "score": 35,
+         "score": 57,
          "ha": "away",
          "winner": null,
          "linescores": [
+          0,
           0
          ]
         },
@@ -1291,10 +1241,11 @@
          "name": "Providence Friars",
          "short": "Friars",
          "abbr": "PROV",
-         "score": 40,
+         "score": 57,
          "ha": "home",
          "winner": null,
          "linescores": [
+          0,
           0
          ]
         }
@@ -1332,11 +1283,11 @@
       "date": "20261123",
       "snapshot": {
        "source": "espn",
-       "state": "in",
-       "detail": "1:14 - 2nd",
+       "state": "post",
+       "detail": "Final",
        "start": "2026-11-24T01:00Z",
-       "period": 2,
-       "clock": "1:14",
+       "period": null,
+       "clock": null,
        "teams": [
         {
          "name": "Monmouth Hawks",
@@ -1344,7 +1295,7 @@
          "abbr": "MONM",
          "score": 45,
          "ha": "away",
-         "winner": null,
+         "winner": false,
          "linescores": [
           0,
           0
@@ -1354,9 +1305,9 @@
          "name": "North Carolina Tar Heels",
          "short": "Tar Heels",
          "abbr": "UNC",
-         "score": 83,
+         "score": 85,
          "ha": "home",
-         "winner": null,
+         "winner": true,
          "linescores": [
           0,
           0
@@ -1396,19 +1347,20 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "4:41 - 1st",
+       "detail": "11:51 - 2nd",
        "start": "2026-11-24T02:30Z",
-       "period": 1,
-       "clock": "4:41",
+       "period": 2,
+       "clock": "11:51",
        "teams": [
         {
          "name": "UNC Greensboro Spartans",
          "short": "Spartans",
          "abbr": "UNCG",
-         "score": 19,
+         "score": 38,
          "ha": "away",
          "winner": null,
          "linescores": [
+          0,
           0
          ]
         },
@@ -1416,10 +1368,11 @@
          "name": "Pepperdine Waves",
          "short": "Waves",
          "abbr": "PEPP",
-         "score": 25,
+         "score": 56,
          "ha": "home",
          "winner": null,
          "linescores": [
+          0,
           0
          ]
         }
@@ -1584,11 +1537,11 @@
       "date": "20261123",
       "snapshot": {
        "source": "espn",
-       "state": "in",
-       "detail": "0:45 - 2nd",
+       "state": "post",
+       "detail": "Final",
        "start": "2026-11-24T01:00Z",
-       "period": 2,
-       "clock": "0:45",
+       "period": null,
+       "clock": null,
        "teams": [
         {
          "name": "Winthrop Eagles",
@@ -1596,7 +1549,7 @@
          "abbr": "WIN",
          "score": 83,
          "ha": "away",
-         "winner": null,
+         "winner": false,
          "linescores": [
           0,
           0
@@ -1606,9 +1559,9 @@
          "name": "Illinois Fighting Illini",
          "short": "Fighting Illini",
          "abbr": "ILL",
-         "score": 130,
+         "score": 133,
          "ha": "home",
-         "winner": null,
+         "winner": true,
          "linescores": [
           0,
           0
@@ -1684,6 +1637,75 @@
      }
     ],
     "sport": "NHL",
+    "ticket": "single"
+   }
+  },
+  {
+   "n": 1001,
+   "league": "NBA",
+   "type": "Player Prop",
+   "matchup": "San Antonio Spurs @ Sacramento Kings",
+   "pick": "Domantas Sabonis Over 12.5 Rebounds",
+   "odds": 115,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-23T19:10:00",
+   "timed": true,
+   "ticket": "single",
+   "espn": {
+    "legs": [
+     {
+      "kind": "prop",
+      "player": "Domantas Sabonis",
+      "ou": "O",
+      "line": 12.5,
+      "stat": "rebounds",
+      "label": "Domantas Sabonis O 12.5 rebounds",
+      "path": "basketball/nba",
+      "event": "401910045",
+      "date": "20261123",
+      "snapshot": {
+       "source": "espn",
+       "state": "in",
+       "detail": "5:58 - 2nd",
+       "start": "2026-11-24T03:00Z",
+       "period": 2,
+       "clock": "5:58",
+       "teams": [
+        {
+         "name": "San Antonio Spurs",
+         "short": "Spurs",
+         "abbr": "SA",
+         "score": 41,
+         "ha": "away",
+         "winner": null,
+         "linescores": [
+          0,
+          0
+         ]
+        },
+        {
+         "name": "Sacramento Kings",
+         "short": "Kings",
+         "abbr": "SAC",
+         "score": 41,
+         "ha": "home",
+         "winner": null,
+         "linescores": [
+          0,
+          0
+         ]
+        }
+       ],
+       "stat": {
+        "v": 7,
+        "name": "Domantas Sabonis"
+       }
+      },
+      "source": "espn"
+     }
+    ],
+    "sport": "NBA",
     "ticket": "single"
    }
   },
