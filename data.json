@@ -1,5 +1,5 @@
 {
- "updated": "Nov 23, 2026, 9:26 PM PT",
+ "updated": "Nov 23, 2026, 9:52 PM PT",
  "record": {
   "w": 261,
   "l": 255,
@@ -984,19 +984,19 @@
       "date": "20261123",
       "snapshot": {
        "source": "nhl",
-       "state": "in",
-       "detail": "P3 05:58",
+       "state": "post",
+       "detail": "Final",
        "start": "2026-11-24T03:00:00Z",
        "period": 3,
-       "clock": "05:58",
+       "clock": "00:00",
        "teams": [
         {
          "name": "Wild",
          "short": "MIN",
          "abbr": "MIN",
-         "score": 3,
+         "score": 5,
          "ha": "away",
-         "winner": null,
+         "winner": true,
          "linescores": []
         },
         {
@@ -1005,7 +1005,7 @@
          "abbr": "SJS",
          "score": 2,
          "ha": "home",
-         "winner": null,
+         "winner": false,
          "linescores": []
         }
        ],
@@ -1355,16 +1355,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "5:59 - 1st",
+       "detail": "Halftime",
        "start": "2026-11-24T04:55Z",
        "period": 1,
-       "clock": "5:59",
+       "clock": "0:00",
        "teams": [
         {
          "name": "Colorado State Rams",
          "short": "Rams",
          "abbr": "CSU",
-         "score": 23,
+         "score": 34,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -1375,7 +1375,7 @@
          "name": "Arizona Wildcats",
          "short": "Wildcats",
          "abbr": "ARIZ",
-         "score": 35,
+         "score": 50,
          "ha": "home",
          "winner": null,
          "linescores": [
