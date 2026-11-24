@@ -1,5 +1,5 @@
 {
- "updated": "Nov 24, 2026, 3:19 PM PT",
+ "updated": "Nov 24, 2026, 3:24 PM PT",
  "record": {
   "w": 269,
   "l": 265,
@@ -1540,16 +1540,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "11:41 - 1st",
+       "detail": "10:11 - 1st",
        "start": "2026-11-24T23:00Z",
        "period": 1,
-       "clock": "11:41",
+       "clock": "10:11",
        "teams": [
         {
          "name": "Queens University Royals",
          "short": "Royals",
          "abbr": "QUC",
-         "score": 12,
+         "score": 16,
          "ha": "away",
          "winner": null,
          "linescores": [
