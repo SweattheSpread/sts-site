@@ -1,5 +1,5 @@
 {
- "updated": "Nov 23, 2026, 10:57 PM PT",
+ "updated": "Nov 23, 2026, 11:11 PM PT",
  "record": {
   "w": 261,
   "l": 255,
@@ -11,7 +11,7 @@
   "first": "2026-10-12",
   "last": "2026-11-22"
  },
- "pending": 27,
+ "pending": 28,
  "latest": [
   {
    "n": 982,
@@ -127,6 +127,54 @@
   }
  ],
  "picks": [
+  {
+   "n": 1003,
+   "league": "Tennis",
+   "type": "Moneyline",
+   "matchup": "Monastir 2 Challenger: Branko Djuric vs Federico Iannaccone",
+   "pick": "Federico Iannaccone ML",
+   "odds": 112,
+   "units": 1.5,
+   "gap": null,
+   "start": "2026-11-24T04:00:00",
+   "timed": true,
+   "ticket": "single",
+   "espn": {
+    "legs": [
+     {
+      "kind": "ml",
+      "side": "Federico Iannaccone",
+      "label": "Federico Iannaccone ML",
+      "snapshot": {
+       "source": "tennis-explorer",
+       "path": "tennis/explorer",
+       "event": "3387794",
+       "state": "pre",
+       "detail": "Scheduled",
+       "tennis": [
+        {
+         "name": "Djuric B.",
+         "winner": false,
+         "sets": []
+        },
+        {
+         "name": "Iannaccone F.",
+         "winner": false,
+         "sets": []
+        }
+       ],
+       "tour": "Monastir 2 challenger"
+      },
+      "path": "tennis/explorer",
+      "event": "3387794",
+      "source": "tennis-explorer",
+      "date": "20261124"
+     }
+    ],
+    "sport": "Tennis",
+    "ticket": "single"
+   }
+  },
   {
    "n": 852,
    "league": "NFL",
