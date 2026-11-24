@@ -1,5 +1,5 @@
 {
- "updated": "Nov 24, 2026, 9:35 AM PT",
+ "updated": "Nov 24, 2026, 11:38 AM PT",
  "record": {
   "w": 269,
   "l": 265,
@@ -11,7 +11,7 @@
   "first": "2026-10-12",
   "last": "2026-11-23"
  },
- "pending": 22,
+ "pending": 24,
  "latest": [
   {
    "n": 1002,
@@ -354,6 +354,124 @@
      }
     ],
     "sport": "NCAAB",
+    "ticket": "single"
+   }
+  },
+  {
+   "n": 1016,
+   "league": "NBA",
+   "type": "Player Prop",
+   "matchup": "Boston Celtics @ Washington Wizards",
+   "pick": "Trae Young Over 2.5 Rebounds +140 (BetMGM; Caesars +128)",
+   "odds": 140,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-24T17:10:00",
+   "timed": true,
+   "ticket": "single",
+   "espn": {
+    "legs": [
+     {
+      "kind": "prop",
+      "player": "Trae Young",
+      "ou": "O",
+      "line": 2.5,
+      "stat": "rebounds +140",
+      "label": "Trae Young O 2.5 rebounds +140",
+      "path": "basketball/nba",
+      "event": "401909315",
+      "date": "20261124",
+      "snapshot": {
+       "source": "espn",
+       "state": "pre",
+       "detail": "11/24 - 8:00 PM EST",
+       "start": "2026-11-25T01:00Z",
+       "period": null,
+       "clock": null,
+       "teams": [
+        {
+         "name": "Boston Celtics",
+         "short": "Celtics",
+         "abbr": "BOS",
+         "score": 0,
+         "ha": "away",
+         "winner": null,
+         "linescores": []
+        },
+        {
+         "name": "Washington Wizards",
+         "short": "Wizards",
+         "abbr": "WSH",
+         "score": 0,
+         "ha": "home",
+         "winner": null,
+         "linescores": []
+        }
+       ]
+      },
+      "source": "espn"
+     }
+    ],
+    "sport": "NBA",
+    "ticket": "single"
+   }
+  },
+  {
+   "n": 1017,
+   "league": "NBA",
+   "type": "Player Prop",
+   "matchup": "Boston Celtics @ Washington Wizards",
+   "pick": "AJ Dybantsa Over 6.5 Rebounds +110 (Circa; BetMGM -105, Caesars -112)",
+   "odds": 110,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-24T17:10:00",
+   "timed": true,
+   "ticket": "single",
+   "espn": {
+    "legs": [
+     {
+      "kind": "prop",
+      "player": "AJ Dybantsa",
+      "ou": "O",
+      "line": 6.5,
+      "stat": "rebounds +110",
+      "label": "AJ Dybantsa O 6.5 rebounds +110",
+      "path": "basketball/nba",
+      "event": "401909315",
+      "date": "20261124",
+      "snapshot": {
+       "source": "espn",
+       "state": "pre",
+       "detail": "11/24 - 8:00 PM EST",
+       "start": "2026-11-25T01:00Z",
+       "period": null,
+       "clock": null,
+       "teams": [
+        {
+         "name": "Boston Celtics",
+         "short": "Celtics",
+         "abbr": "BOS",
+         "score": 0,
+         "ha": "away",
+         "winner": null,
+         "linescores": []
+        },
+        {
+         "name": "Washington Wizards",
+         "short": "Wizards",
+         "abbr": "WSH",
+         "score": 0,
+         "ha": "home",
+         "winner": null,
+         "linescores": []
+        }
+       ]
+      },
+      "source": "espn"
+     }
+    ],
+    "sport": "NBA",
     "ticket": "single"
    }
   },
