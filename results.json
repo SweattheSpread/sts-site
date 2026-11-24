@@ -1,5 +1,5 @@
 {
- "updated": "Nov 24, 2026, 3:26 PM PT",
+ "updated": "Nov 24, 2026, 3:29 PM PT",
  "record": {
   "w": 269,
   "l": 265,
@@ -11,7 +11,7 @@
   "first": "2026-10-12",
   "last": "2026-11-23"
  },
- "pending": 27,
+ "pending": 28,
  "plays": [
   {
    "n": 334,
@@ -8888,6 +8888,22 @@
    "matchup": "Boston Celtics @ Washington Wizards",
    "pick": "Paul George Over 18.5 Points -115 (BetMGM; Circa -130)",
    "odds": -115,
+   "units": 1.0,
+   "result": null,
+   "pl": null,
+   "pending": true
+  },
+  {
+   "n": 1021,
+   "date": "2026-11-24",
+   "day": "2026-11-24",
+   "league": "NCAAB",
+   "market": "spread",
+   "market_label": "Spread",
+   "ticket": "single",
+   "matchup": "Tarleton State Texans @ Weber State Wildcats",
+   "pick": "Tarleton State +2",
+   "odds": -110,
    "units": 1.0,
    "result": null,
    "pl": null,
