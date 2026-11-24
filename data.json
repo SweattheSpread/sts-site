@@ -1,5 +1,5 @@
 {
- "updated": "Nov 23, 2026, 4:08 PM PT",
+ "updated": "Nov 23, 2026, 4:11 PM PT",
  "record": {
   "w": 261,
   "l": 255,
@@ -127,198 +127,6 @@
   }
  ],
  "picks": [
-  {
-   "n": 986,
-   "league": "NHL",
-   "type": "Player Prop",
-   "matchup": "Columbus Blue Jackets @ New Jersey Devils",
-   "pick": "Jack Hughes Over 1.5 Points",
-   "odds": 190,
-   "units": 1.0,
-   "gap": null,
-   "start": "2026-11-23T16:10:00",
-   "timed": true,
-   "ticket": "single",
-   "espn": {
-    "legs": [
-     {
-      "kind": "prop",
-      "player": "Jack Hughes",
-      "ou": "O",
-      "line": 1.5,
-      "stat": "points",
-      "label": "Jack Hughes O 1.5 points",
-      "path": "hockey/nhl",
-      "event": "401892773",
-      "date": "20261123",
-      "snapshot": {
-       "source": "nhl",
-       "state": "in",
-       "detail": "P1 20:00",
-       "start": "2026-11-24T00:00:00Z",
-       "period": 1,
-       "clock": "20:00",
-       "teams": [
-        {
-         "name": "Blue Jackets",
-         "short": "CBJ",
-         "abbr": "CBJ",
-         "score": 0,
-         "ha": "away",
-         "winner": null,
-         "linescores": []
-        },
-        {
-         "name": "Devils",
-         "short": "NJD",
-         "abbr": "NJD",
-         "score": 0,
-         "ha": "home",
-         "winner": null,
-         "linescores": []
-        }
-       ],
-       "nhl_id": 2026020378,
-       "stat": {
-        "v": 0,
-        "name": "J. Hughes"
-       }
-      },
-      "source": "nhl"
-     }
-    ],
-    "sport": "NHL",
-    "ticket": "single"
-   }
-  },
-  {
-   "n": 1000,
-   "league": "NHL",
-   "type": "Player Prop",
-   "matchup": "Columbus Blue Jackets @ New Jersey Devils",
-   "pick": "Kent Johnson Over 0.5 Points",
-   "odds": 105,
-   "units": 1.0,
-   "gap": null,
-   "start": "2026-11-23T16:10:00",
-   "timed": true,
-   "ticket": "single",
-   "espn": {
-    "legs": [
-     {
-      "kind": "prop",
-      "player": "Kent Johnson",
-      "ou": "O",
-      "line": 0.5,
-      "stat": "points",
-      "label": "Kent Johnson O 0.5 points",
-      "path": "hockey/nhl",
-      "event": "401892773",
-      "date": "20261123",
-      "snapshot": {
-       "source": "nhl",
-       "state": "in",
-       "detail": "P1 20:00",
-       "start": "2026-11-24T00:00:00Z",
-       "period": 1,
-       "clock": "20:00",
-       "teams": [
-        {
-         "name": "Blue Jackets",
-         "short": "CBJ",
-         "abbr": "CBJ",
-         "score": 0,
-         "ha": "away",
-         "winner": null,
-         "linescores": []
-        },
-        {
-         "name": "Devils",
-         "short": "NJD",
-         "abbr": "NJD",
-         "score": 0,
-         "ha": "home",
-         "winner": null,
-         "linescores": []
-        }
-       ],
-       "nhl_id": 2026020378,
-       "stat": {
-        "v": 0,
-        "name": "K. Johnson"
-       }
-      },
-      "source": "nhl"
-     }
-    ],
-    "sport": "NHL",
-    "ticket": "single"
-   }
-  },
-  {
-   "n": 1002,
-   "league": "NHL",
-   "type": "Player Prop",
-   "matchup": "Columbus Blue Jackets @ New Jersey Devils",
-   "pick": "Dougie Hamilton Over 2.5 shots on goal",
-   "odds": 125,
-   "units": 1.0,
-   "gap": null,
-   "start": "2026-11-23T16:10:00",
-   "timed": true,
-   "ticket": "single",
-   "espn": {
-    "legs": [
-     {
-      "kind": "prop",
-      "player": "Dougie Hamilton",
-      "ou": "O",
-      "line": 2.5,
-      "stat": "shots on goal",
-      "label": "Dougie Hamilton O 2.5 shots on goal",
-      "path": "hockey/nhl",
-      "event": "401892773",
-      "date": "20261123",
-      "snapshot": {
-       "source": "nhl",
-       "state": "in",
-       "detail": "P1 20:00",
-       "start": "2026-11-24T00:00:00Z",
-       "period": 1,
-       "clock": "20:00",
-       "teams": [
-        {
-         "name": "Blue Jackets",
-         "short": "CBJ",
-         "abbr": "CBJ",
-         "score": 0,
-         "ha": "away",
-         "winner": null,
-         "linescores": []
-        },
-        {
-         "name": "Devils",
-         "short": "NJD",
-         "abbr": "NJD",
-         "score": 0,
-         "ha": "home",
-         "winner": null,
-         "linescores": []
-        }
-       ],
-       "nhl_id": 2026020378,
-       "stat": {
-        "v": 0,
-        "name": "D. Hamilton"
-       }
-      },
-      "source": "nhl"
-     }
-    ],
-    "sport": "NHL",
-    "ticket": "single"
-   }
-  },
   {
    "n": 988,
    "league": "NHL",
@@ -1562,6 +1370,70 @@
    }
   },
   {
+   "n": 986,
+   "league": "NHL",
+   "type": "Player Prop",
+   "matchup": "Columbus Blue Jackets @ New Jersey Devils",
+   "pick": "Jack Hughes Over 1.5 Points",
+   "odds": 190,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-23T16:10:00",
+   "timed": true,
+   "ticket": "single",
+   "espn": {
+    "legs": [
+     {
+      "kind": "prop",
+      "player": "Jack Hughes",
+      "ou": "O",
+      "line": 1.5,
+      "stat": "points",
+      "label": "Jack Hughes O 1.5 points",
+      "path": "hockey/nhl",
+      "event": "401892773",
+      "date": "20261123",
+      "snapshot": {
+       "source": "nhl",
+       "state": "in",
+       "detail": "P1 17:27",
+       "start": "2026-11-24T00:00:00Z",
+       "period": 1,
+       "clock": "17:27",
+       "teams": [
+        {
+         "name": "Blue Jackets",
+         "short": "CBJ",
+         "abbr": "CBJ",
+         "score": 0,
+         "ha": "away",
+         "winner": null,
+         "linescores": []
+        },
+        {
+         "name": "Devils",
+         "short": "NJD",
+         "abbr": "NJD",
+         "score": 0,
+         "ha": "home",
+         "winner": null,
+         "linescores": []
+        }
+       ],
+       "nhl_id": 2026020378,
+       "stat": {
+        "v": 0,
+        "name": "J. Hughes"
+       }
+      },
+      "source": "nhl"
+     }
+    ],
+    "sport": "NHL",
+    "ticket": "single"
+   }
+  },
+  {
    "n": 997,
    "league": "NCAAB",
    "type": "Spread",
@@ -1586,10 +1458,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "16:23 - 1st",
+       "detail": "15:23 - 1st",
        "start": "2026-11-24T00:00Z",
        "period": 1,
-       "clock": "16:23",
+       "clock": "15:23",
        "teams": [
         {
          "name": "Central Arkansas Bears",
@@ -1648,10 +1520,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "16:23 - 1st",
+       "detail": "15:23 - 1st",
        "start": "2026-11-24T00:00Z",
        "period": 1,
-       "clock": "16:23",
+       "clock": "15:23",
        "teams": [
         {
          "name": "Central Arkansas Bears",
@@ -1681,6 +1553,134 @@
      }
     ],
     "sport": "NCAAB",
+    "ticket": "single"
+   }
+  },
+  {
+   "n": 1000,
+   "league": "NHL",
+   "type": "Player Prop",
+   "matchup": "Columbus Blue Jackets @ New Jersey Devils",
+   "pick": "Kent Johnson Over 0.5 Points",
+   "odds": 105,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-23T16:10:00",
+   "timed": true,
+   "ticket": "single",
+   "espn": {
+    "legs": [
+     {
+      "kind": "prop",
+      "player": "Kent Johnson",
+      "ou": "O",
+      "line": 0.5,
+      "stat": "points",
+      "label": "Kent Johnson O 0.5 points",
+      "path": "hockey/nhl",
+      "event": "401892773",
+      "date": "20261123",
+      "snapshot": {
+       "source": "nhl",
+       "state": "in",
+       "detail": "P1 17:27",
+       "start": "2026-11-24T00:00:00Z",
+       "period": 1,
+       "clock": "17:27",
+       "teams": [
+        {
+         "name": "Blue Jackets",
+         "short": "CBJ",
+         "abbr": "CBJ",
+         "score": 0,
+         "ha": "away",
+         "winner": null,
+         "linescores": []
+        },
+        {
+         "name": "Devils",
+         "short": "NJD",
+         "abbr": "NJD",
+         "score": 0,
+         "ha": "home",
+         "winner": null,
+         "linescores": []
+        }
+       ],
+       "nhl_id": 2026020378,
+       "stat": {
+        "v": 0,
+        "name": "K. Johnson"
+       }
+      },
+      "source": "nhl"
+     }
+    ],
+    "sport": "NHL",
+    "ticket": "single"
+   }
+  },
+  {
+   "n": 1002,
+   "league": "NHL",
+   "type": "Player Prop",
+   "matchup": "Columbus Blue Jackets @ New Jersey Devils",
+   "pick": "Dougie Hamilton Over 2.5 shots on goal",
+   "odds": 125,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-23T16:10:00",
+   "timed": true,
+   "ticket": "single",
+   "espn": {
+    "legs": [
+     {
+      "kind": "prop",
+      "player": "Dougie Hamilton",
+      "ou": "O",
+      "line": 2.5,
+      "stat": "shots on goal",
+      "label": "Dougie Hamilton O 2.5 shots on goal",
+      "path": "hockey/nhl",
+      "event": "401892773",
+      "date": "20261123",
+      "snapshot": {
+       "source": "nhl",
+       "state": "in",
+       "detail": "P1 17:27",
+       "start": "2026-11-24T00:00:00Z",
+       "period": 1,
+       "clock": "17:27",
+       "teams": [
+        {
+         "name": "Blue Jackets",
+         "short": "CBJ",
+         "abbr": "CBJ",
+         "score": 0,
+         "ha": "away",
+         "winner": null,
+         "linescores": []
+        },
+        {
+         "name": "Devils",
+         "short": "NJD",
+         "abbr": "NJD",
+         "score": 0,
+         "ha": "home",
+         "winner": null,
+         "linescores": []
+        }
+       ],
+       "nhl_id": 2026020378,
+       "stat": {
+        "v": 0,
+        "name": "D. Hamilton"
+       }
+      },
+      "source": "nhl"
+     }
+    ],
+    "sport": "NHL",
     "ticket": "single"
    }
   }
