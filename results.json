@@ -1,5 +1,5 @@
 {
- "updated": "Nov 24, 2026, 7:48 AM PT",
+ "updated": "Nov 24, 2026, 7:52 AM PT",
  "record": {
   "w": 269,
   "l": 265,
@@ -11,7 +11,7 @@
   "first": "2026-10-12",
   "last": "2026-11-23"
  },
- "pending": 17,
+ "pending": 19,
  "plays": [
   {
    "n": 334,
@@ -8798,6 +8798,22 @@
    "pending": true
   },
   {
+   "n": 1011,
+   "date": "2026-11-25",
+   "day": "2026-11-25",
+   "league": "NFL",
+   "market": "spread",
+   "market_label": "Spread",
+   "ticket": "single",
+   "matchup": "Green Bay Packers @ Los Angeles Rams",
+   "pick": "Los Angeles Rams -2.5 -108",
+   "odds": -108,
+   "units": 1.0,
+   "result": null,
+   "pl": null,
+   "pending": true
+  },
+  {
    "n": 853,
    "date": "2026-11-18",
    "day": "2026-11-26",
@@ -8921,6 +8937,22 @@
    "pick": "Ryan Flournoy longest reception Over 15.5",
    "odds": -105,
    "units": 1.5,
+   "result": null,
+   "pl": null,
+   "pending": true
+  },
+  {
+   "n": 1012,
+   "date": "2026-11-26",
+   "day": "2026-11-26",
+   "league": "NFL",
+   "market": "total",
+   "market_label": "Total",
+   "ticket": "single",
+   "matchup": "Kansas City Chiefs @ Buffalo Bills",
+   "pick": "Over 47.5 -109",
+   "odds": -109,
+   "units": 1.0,
    "result": null,
    "pl": null,
    "pending": true
