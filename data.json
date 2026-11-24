@@ -1,5 +1,5 @@
 {
- "updated": "Nov 24, 2026, 8:03 AM PT",
+ "updated": "Nov 24, 2026, 8:06 AM PT",
  "record": {
   "w": 269,
   "l": 265,
@@ -1181,16 +1181,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "18:54 - 2nd",
+       "detail": "17:26 - 2nd",
        "start": "2026-11-24T15:00Z",
        "period": 2,
-       "clock": "18:54",
+       "clock": "17:26",
        "teams": [
         {
          "name": "Wright State Raiders",
          "short": "Raiders",
          "abbr": "WRST",
-         "score": 33,
+         "score": 35,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -1202,7 +1202,7 @@
          "name": "St. Bonaventure Bonnies",
          "short": "Bonnies",
          "abbr": "SBU",
-         "score": 23,
+         "score": 26,
          "ha": "home",
          "winner": null,
          "linescores": [
