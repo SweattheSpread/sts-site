@@ -1,5 +1,5 @@
 {
- "updated": "Nov 23, 2026, 9:12 PM PT",
+ "updated": "Nov 23, 2026, 9:15 PM PT",
  "record": {
   "w": 261,
   "l": 255,
@@ -985,10 +985,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P3 12:35",
+       "detail": "P3 11:24",
        "start": "2026-11-24T03:00:00Z",
        "period": 3,
-       "clock": "12:35",
+       "clock": "11:24",
        "teams": [
         {
          "name": "Wild",
@@ -1355,10 +1355,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "12:06 - 1st",
+       "detail": "12:00 - 1st",
        "start": "2026-11-24T04:55Z",
        "period": 1,
-       "clock": "12:06",
+       "clock": "12:00",
        "teams": [
         {
          "name": "Colorado State Rams",
@@ -1673,16 +1673,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "3:25 - 4th",
+       "detail": "2:52 - 4th",
        "start": "2026-11-24T03:00Z",
        "period": 4,
-       "clock": "3:25",
+       "clock": "2:52",
        "teams": [
         {
          "name": "San Antonio Spurs",
          "short": "Spurs",
          "abbr": "SA",
-         "score": 110,
+         "score": 113,
          "ha": "away",
          "winner": null,
          "linescores": [
