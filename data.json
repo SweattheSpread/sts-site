@@ -1,5 +1,5 @@
 {
- "updated": "Nov 23, 2026, 8:05 PM PT",
+ "updated": "Nov 23, 2026, 8:07 PM PT",
  "record": {
   "w": 261,
   "l": 255,
@@ -1043,10 +1043,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P2 19:47",
+       "detail": "P2 17:58",
        "start": "2026-11-24T03:00:00Z",
        "period": 2,
-       "clock": "19:47",
+       "clock": "17:58",
        "teams": [
         {
          "name": "Wild",
@@ -1220,10 +1220,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "0:32 - 2nd",
+       "detail": "0:23 - 2nd",
        "start": "2026-11-24T02:00Z",
        "period": 2,
-       "clock": "0:32",
+       "clock": "0:23",
        "teams": [
         {
          "name": "VCU Rams",
@@ -1241,7 +1241,7 @@
          "name": "Providence Friars",
          "short": "Friars",
          "abbr": "PROV",
-         "score": 63,
+         "score": 64,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -1347,10 +1347,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "7:30 - 2nd",
+       "detail": "7:15 - 2nd",
        "start": "2026-11-24T02:30Z",
        "period": 2,
-       "clock": "7:30",
+       "clock": "7:15",
        "teams": [
         {
          "name": "UNC Greensboro Spartans",
@@ -1667,16 +1667,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "1:27 - 2nd",
+       "detail": "0.0 - 2nd",
        "start": "2026-11-24T03:00Z",
        "period": 2,
-       "clock": "1:27",
+       "clock": "0.0",
        "teams": [
         {
          "name": "San Antonio Spurs",
          "short": "Spurs",
          "abbr": "SA",
-         "score": 56,
+         "score": 60,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -1688,7 +1688,7 @@
          "name": "Sacramento Kings",
          "short": "Kings",
          "abbr": "SAC",
-         "score": 45,
+         "score": 51,
          "ha": "home",
          "winner": null,
          "linescores": [
