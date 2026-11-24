@@ -1,5 +1,5 @@
 {
- "updated": "Nov 23, 2026, 6:04 PM PT",
+ "updated": "Nov 23, 2026, 6:06 PM PT",
  "record": {
   "w": 261,
   "l": 255,
@@ -901,16 +901,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "8:34 - 2nd",
+       "detail": "6:17 - 2nd",
        "start": "2026-11-24T01:15Z",
        "period": 2,
-       "clock": "8:34",
+       "clock": "6:17",
        "teams": [
         {
          "name": "Cincinnati Bengals",
          "short": "Bengals",
          "abbr": "CIN",
-         "score": 0,
+         "score": 3,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -965,16 +965,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "8:34 - 2nd",
+       "detail": "6:17 - 2nd",
        "start": "2026-11-24T01:15Z",
        "period": 2,
-       "clock": "8:34",
+       "clock": "6:17",
        "teams": [
         {
          "name": "Cincinnati Bengals",
          "short": "Bengals",
          "abbr": "CIN",
-         "score": 0,
+         "score": 3,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -1147,10 +1147,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P3 13:45",
+       "detail": "P3 13:31",
        "start": "2026-11-24T00:00:00Z",
        "period": 3,
-       "clock": "13:45",
+       "clock": "13:31",
        "teams": [
         {
          "name": "Blue Jackets",
@@ -1210,10 +1210,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P2 05:44",
+       "detail": "P2 04:52",
        "start": "2026-11-24T00:30:00Z",
        "period": 2,
-       "clock": "05:44",
+       "clock": "04:52",
        "teams": [
         {
          "name": "Mammoth",
@@ -1324,16 +1324,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "18:42 - 1st",
+       "detail": "16:48 - 1st",
        "start": "2026-11-24T02:00Z",
        "period": 1,
-       "clock": "18:42",
+       "clock": "16:48",
        "teams": [
         {
          "name": "VCU Rams",
          "short": "Rams",
          "abbr": "VCU",
-         "score": 2,
+         "score": 5,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -1344,7 +1344,7 @@
          "name": "Providence Friars",
          "short": "Friars",
          "abbr": "PROV",
-         "score": 4,
+         "score": 11,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -1638,10 +1638,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P3 13:45",
+       "detail": "P3 13:31",
        "start": "2026-11-24T00:00:00Z",
        "period": 3,
-       "clock": "13:45",
+       "clock": "13:31",
        "teams": [
         {
          "name": "Blue Jackets",
@@ -1702,10 +1702,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P3 13:45",
+       "detail": "P3 13:31",
        "start": "2026-11-24T00:00:00Z",
        "period": 3,
-       "clock": "13:45",
+       "clock": "13:31",
        "teams": [
         {
          "name": "Blue Jackets",
