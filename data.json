@@ -1,5 +1,5 @@
 {
- "updated": "Nov 23, 2026, 4:54 PM PT",
+ "updated": "Nov 23, 2026, 4:57 PM PT",
  "record": {
   "w": 261,
   "l": 255,
@@ -1337,10 +1337,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P1 06:05",
+       "detail": "P1 03:04",
        "start": "2026-11-24T00:00:00Z",
        "period": 1,
-       "clock": "06:05",
+       "clock": "03:04",
        "teams": [
         {
          "name": "Blue Jackets",
@@ -1400,16 +1400,16 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P1 12:01",
+       "detail": "P1 09:38",
        "start": "2026-11-24T00:30:00Z",
        "period": 1,
-       "clock": "12:01",
+       "clock": "09:38",
        "teams": [
         {
          "name": "Mammoth",
          "short": "UTA",
          "abbr": "UTA",
-         "score": 1,
+         "score": 2,
          "ha": "away",
          "winner": null,
          "linescores": []
@@ -1583,10 +1583,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P1 06:05",
+       "detail": "P1 03:04",
        "start": "2026-11-24T00:00:00Z",
        "period": 1,
-       "clock": "06:05",
+       "clock": "03:04",
        "teams": [
         {
          "name": "Blue Jackets",
@@ -1647,10 +1647,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P1 06:05",
+       "detail": "P1 03:04",
        "start": "2026-11-24T00:00:00Z",
        "period": 1,
-       "clock": "06:05",
+       "clock": "03:04",
        "teams": [
         {
          "name": "Blue Jackets",
