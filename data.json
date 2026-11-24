@@ -1,5 +1,5 @@
 {
- "updated": "Nov 24, 2026, 3:07 PM PT",
+ "updated": "Nov 24, 2026, 3:09 PM PT",
  "record": {
   "w": 269,
   "l": 265,
@@ -1540,16 +1540,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "17:06 - 1st",
+       "detail": "15:26 - 1st",
        "start": "2026-11-24T23:00Z",
        "period": 1,
-       "clock": "17:06",
+       "clock": "15:26",
        "teams": [
         {
          "name": "Queens University Royals",
          "short": "Royals",
          "abbr": "QUC",
-         "score": 5,
+         "score": 7,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -1560,7 +1560,7 @@
          "name": "Wofford Terriers",
          "short": "Terriers",
          "abbr": "WOF",
-         "score": 8,
+         "score": 10,
          "ha": "home",
          "winner": null,
          "linescores": [
