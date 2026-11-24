@@ -1,5 +1,5 @@
 {
- "updated": "Nov 23, 2026, 4:32 PM PT",
+ "updated": "Nov 23, 2026, 4:34 PM PT",
  "record": {
   "w": 261,
   "l": 255,
@@ -1396,10 +1396,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P1 05:20",
+       "detail": "P1 04:46",
        "start": "2026-11-24T00:00:00Z",
        "period": 1,
-       "clock": "05:20",
+       "clock": "04:46",
        "teams": [
         {
          "name": "Blue Jackets",
@@ -1458,16 +1458,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "8:16 - 1st",
+       "detail": "7:27 - 1st",
        "start": "2026-11-24T00:00Z",
        "period": 1,
-       "clock": "8:16",
+       "clock": "7:27",
        "teams": [
         {
          "name": "Central Arkansas Bears",
          "short": "Bears",
          "abbr": "CARK",
-         "score": 15,
+         "score": 18,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -1520,16 +1520,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "8:16 - 1st",
+       "detail": "7:27 - 1st",
        "start": "2026-11-24T00:00Z",
        "period": 1,
-       "clock": "8:16",
+       "clock": "7:27",
        "teams": [
         {
          "name": "Central Arkansas Bears",
          "short": "Bears",
          "abbr": "CARK",
-         "score": 15,
+         "score": 18,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -1583,10 +1583,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P1 05:20",
+       "detail": "P1 04:46",
        "start": "2026-11-24T00:00:00Z",
        "period": 1,
-       "clock": "05:20",
+       "clock": "04:46",
        "teams": [
         {
          "name": "Blue Jackets",
@@ -1647,10 +1647,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P1 05:20",
+       "detail": "P1 04:46",
        "start": "2026-11-24T00:00:00Z",
        "period": 1,
-       "clock": "05:20",
+       "clock": "04:46",
        "teams": [
         {
          "name": "Blue Jackets",
