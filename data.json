@@ -1,5 +1,5 @@
 {
- "updated": "Nov 23, 2026, 9:52 PM PT",
+ "updated": "Nov 23, 2026, 10:57 PM PT",
  "record": {
   "w": 261,
   "l": 255,
@@ -1354,20 +1354,21 @@
       "date": "20261123",
       "snapshot": {
        "source": "espn",
-       "state": "in",
-       "detail": "Halftime",
+       "state": "post",
+       "detail": "Final",
        "start": "2026-11-24T04:55Z",
-       "period": 1,
-       "clock": "0:00",
+       "period": null,
+       "clock": null,
        "teams": [
         {
          "name": "Colorado State Rams",
          "short": "Rams",
          "abbr": "CSU",
-         "score": 34,
+         "score": 83,
          "ha": "away",
-         "winner": null,
+         "winner": false,
          "linescores": [
+          0,
           0
          ]
         },
@@ -1375,10 +1376,11 @@
          "name": "Arizona Wildcats",
          "short": "Wildcats",
          "abbr": "ARIZ",
-         "score": 50,
+         "score": 96,
          "ha": "home",
-         "winner": null,
+         "winner": true,
          "linescores": [
+          0,
           0
          ]
         }
