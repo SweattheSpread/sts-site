@@ -1,5 +1,5 @@
 {
- "updated": "Nov 23, 2026, 6:12 PM PT",
+ "updated": "Nov 23, 2026, 6:14 PM PT",
  "record": {
   "w": 261,
   "l": 255,
@@ -901,10 +901,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "5:32 - 2nd",
+       "detail": "4:33 - 2nd",
        "start": "2026-11-24T01:15Z",
        "period": 2,
-       "clock": "5:32",
+       "clock": "4:33",
        "teams": [
         {
          "name": "Cincinnati Bengals",
@@ -965,10 +965,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "5:32 - 2nd",
+       "detail": "4:33 - 2nd",
        "start": "2026-11-24T01:15Z",
        "period": 2,
-       "clock": "5:32",
+       "clock": "4:33",
        "teams": [
         {
          "name": "Cincinnati Bengals",
@@ -1210,10 +1210,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P2 00:39",
+       "detail": "P2 15:20",
        "start": "2026-11-24T00:30:00Z",
        "period": 2,
-       "clock": "00:39",
+       "clock": "15:20",
        "teams": [
         {
          "name": "Mammoth",
@@ -1275,7 +1275,7 @@
          "name": "Los Angeles Clippers",
          "short": "Los Angeles Clippers",
          "abbr": "",
-         "score": 21,
+         "score": 27,
          "ha": "away",
          "winner": null,
          "linescores": []
@@ -1324,16 +1324,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "15:38 - 1st",
+       "detail": "14:33 - 1st",
        "start": "2026-11-24T02:00Z",
        "period": 1,
-       "clock": "15:38",
+       "clock": "14:33",
        "teams": [
         {
          "name": "VCU Rams",
          "short": "Rams",
          "abbr": "VCU",
-         "score": 7,
+         "score": 10,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -1344,7 +1344,7 @@
          "name": "Providence Friars",
          "short": "Friars",
          "abbr": "PROV",
-         "score": 13,
+         "score": 16,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -1575,16 +1575,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "19:21 - 2nd",
+       "detail": "18:16 - 2nd",
        "start": "2026-11-24T01:00Z",
        "period": 2,
-       "clock": "19:21",
+       "clock": "18:16",
        "teams": [
         {
          "name": "Winthrop Eagles",
          "short": "Eagles",
          "abbr": "WIN",
-         "score": 53,
+         "score": 56,
          "ha": "away",
          "winner": null,
          "linescores": [
