@@ -1,5 +1,5 @@
 {
- "updated": "Nov 24, 2026, 4:12 PM PT",
+ "updated": "Nov 24, 2026, 4:14 PM PT",
  "record": {
   "w": 269,
   "l": 265,
@@ -1128,36 +1128,7 @@
       "label": "Indianapolis Colts +6.5",
       "path": "football/nfl",
       "event": "401873088",
-      "date": "20261129",
-      "snapshot": {
-       "source": "espn",
-       "state": "pre",
-       "detail": "11/29 - 1:00 PM EST",
-       "start": "2026-11-29T18:00Z",
-       "period": null,
-       "clock": null,
-       "teams": [
-        {
-         "name": "New York Giants",
-         "short": "Giants",
-         "abbr": "NYG",
-         "score": 0,
-         "ha": "away",
-         "winner": null,
-         "linescores": []
-        },
-        {
-         "name": "Indianapolis Colts",
-         "short": "Colts",
-         "abbr": "IND",
-         "score": 0,
-         "ha": "home",
-         "winner": null,
-         "linescores": []
-        }
-       ]
-      },
-      "source": "espn"
+      "date": "20261129"
      }
     ],
     "sport": "NFL",
@@ -1367,10 +1338,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "15:46 - 2nd",
+       "detail": "15:08 - 2nd",
        "start": "2026-11-24T23:00Z",
        "period": 2,
-       "clock": "15:46",
+       "clock": "15:08",
        "teams": [
         {
          "name": "Queens University Royals",
@@ -1550,10 +1521,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "15:38 - 1st",
+       "detail": "15:14 - 1st",
        "start": "2026-11-25T00:00Z",
        "period": 1,
-       "clock": "15:38",
+       "clock": "15:14",
        "teams": [
         {
          "name": "Rider Broncs",
@@ -1611,16 +1582,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "13:56 - 1st",
+       "detail": "12:52 - 1st",
        "start": "2026-11-25T00:00Z",
        "period": 1,
-       "clock": "13:56",
+       "clock": "12:52",
        "teams": [
         {
          "name": "Tarleton State Texans",
          "short": "Texans",
          "abbr": "TAR",
-         "score": 4,
+         "score": 6,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -1631,7 +1602,7 @@
          "name": "Weber State Wildcats",
          "short": "Wildcats",
          "abbr": "WEB",
-         "score": 14,
+         "score": 20,
          "ha": "home",
          "winner": null,
          "linescores": [
