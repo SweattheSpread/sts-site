@@ -1,5 +1,5 @@
 {
- "updated": "Nov 24, 2026, 9:27 PM PT",
+ "updated": "Nov 24, 2026, 9:29 PM PT",
  "record": {
   "w": 269,
   "l": 265,
@@ -1406,11 +1406,11 @@
       "date": "20261124",
       "snapshot": {
        "source": "espn",
-       "state": "in",
-       "detail": "0:03 - 2nd",
+       "state": "post",
+       "detail": "Final",
        "start": "2026-11-25T02:55Z",
-       "period": 2,
-       "clock": "0:03",
+       "period": null,
+       "clock": null,
        "teams": [
         {
          "name": "Saint Louis Billikens",
@@ -1418,7 +1418,7 @@
          "abbr": "SLU",
          "score": 88,
          "ha": "away",
-         "winner": null,
+         "winner": false,
          "linescores": [
           0,
           0
@@ -1428,9 +1428,9 @@
          "name": "Grand Canyon Lopes",
          "short": "Lopes",
          "abbr": "GCU",
-         "score": 89,
+         "score": 91,
          "ha": "home",
-         "winner": null,
+         "winner": true,
          "linescores": [
           0,
           0
