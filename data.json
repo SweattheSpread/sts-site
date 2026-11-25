@@ -1,5 +1,5 @@
 {
- "updated": "Nov 24, 2026, 5:26 PM PT",
+ "updated": "Nov 24, 2026, 5:28 PM PT",
  "record": {
   "w": 269,
   "l": 265,
@@ -153,10 +153,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "1:14 - 2nd",
+       "detail": "1:01 - 2nd",
        "start": "2026-11-25T00:00Z",
        "period": 2,
-       "clock": "1:14",
+       "clock": "1:01",
        "teams": [
         {
          "name": "Miami (OH) RedHawks",
@@ -1263,16 +1263,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "19:39 - 2nd",
+       "detail": "18:50 - 2nd",
        "start": "2026-11-25T00:00Z",
        "period": 2,
-       "clock": "19:39",
+       "clock": "18:50",
        "teams": [
         {
          "name": "Santa Clara Broncos",
          "short": "Broncos",
          "abbr": "SCU",
-         "score": 35,
+         "score": 37,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -1284,7 +1284,7 @@
          "name": "Nevada Wolf Pack",
          "short": "Wolf Pack",
          "abbr": "NEV",
-         "score": 41,
+         "score": 45,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -1327,16 +1327,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "9:10 - 2nd",
+       "detail": "7:40 - 2nd",
        "start": "2026-11-25T00:00Z",
        "period": 2,
-       "clock": "9:10",
+       "clock": "7:40",
        "teams": [
         {
          "name": "Hampton Pirates",
          "short": "Pirates",
          "abbr": "HAMP",
-         "score": 47,
+         "score": 51,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -1348,7 +1348,7 @@
          "name": "Old Dominion Monarchs",
          "short": "Monarchs",
          "abbr": "ODU",
-         "score": 52,
+         "score": 54,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -1391,10 +1391,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "12:16 - 2nd",
+       "detail": "11:58 - 2nd",
        "start": "2026-11-25T00:00Z",
        "period": 2,
-       "clock": "12:16",
+       "clock": "11:58",
        "teams": [
         {
          "name": "Rider Broncs",
@@ -1456,16 +1456,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "6:57 - 1st",
+       "detail": "6:03 - 1st",
        "start": "2026-11-25T01:00Z",
        "period": 1,
-       "clock": "6:57",
+       "clock": "6:03",
        "teams": [
         {
          "name": "Boston Celtics",
          "short": "Celtics",
          "abbr": "BOS",
-         "score": 13,
+         "score": 18,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -1520,16 +1520,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "6:57 - 1st",
+       "detail": "6:03 - 1st",
        "start": "2026-11-25T01:00Z",
        "period": 1,
-       "clock": "6:57",
+       "clock": "6:03",
        "teams": [
         {
          "name": "Boston Celtics",
          "short": "Celtics",
          "abbr": "BOS",
-         "score": 13,
+         "score": 18,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -1584,16 +1584,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "6:57 - 1st",
+       "detail": "6:03 - 1st",
        "start": "2026-11-25T01:00Z",
        "period": 1,
-       "clock": "6:57",
+       "clock": "6:03",
        "teams": [
         {
          "name": "Boston Celtics",
          "short": "Celtics",
          "abbr": "BOS",
-         "score": 13,
+         "score": 18,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -1646,16 +1646,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "8:23 - 2nd",
+       "detail": "7:34 - 2nd",
        "start": "2026-11-25T00:00Z",
        "period": 2,
-       "clock": "8:23",
+       "clock": "7:34",
        "teams": [
         {
          "name": "Tarleton State Texans",
          "short": "Texans",
          "abbr": "TAR",
-         "score": 60,
+         "score": 62,
          "ha": "away",
          "winner": null,
          "linescores": [
