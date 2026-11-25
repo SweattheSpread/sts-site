@@ -1,5 +1,5 @@
 {
- "updated": "Nov 25, 2026, 1:23 AM PT",
+ "updated": "Nov 25, 2026, 7:02 AM PT",
  "record": {
   "w": 273,
   "l": 274,
@@ -11,7 +11,7 @@
   "first": "2026-10-12",
   "last": "2026-11-24"
  },
- "pending": 15,
+ "pending": 20,
  "latest": [
   {
    "n": 1022,
@@ -181,6 +181,186 @@
      }
     ],
     "sport": "NCAAB",
+    "ticket": "single"
+   }
+  },
+  {
+   "n": 1026,
+   "league": "NHL",
+   "type": "Player Prop",
+   "matchup": "New Jersey Devils @ Columbus Blue Jackets",
+   "pick": "Adam Fantilli Over 0.5 Assists +180 (BetMGM)",
+   "odds": 180,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-25T16:00:00",
+   "timed": true,
+   "ticket": "single",
+   "espn": {
+    "legs": [
+     {
+      "kind": "prop",
+      "player": "Adam Fantilli",
+      "ou": "O",
+      "line": 0.5,
+      "stat": "assists +180",
+      "label": "Adam Fantilli O 0.5 assists +180",
+      "path": "hockey/nhl",
+      "event": "401892788",
+      "date": "20261125",
+      "snapshot": {
+       "source": "nhl",
+       "state": "pre",
+       "detail": "Scheduled",
+       "start": "2026-11-26T00:00:00Z",
+       "period": null,
+       "clock": null,
+       "teams": [
+        {
+         "name": "Blues",
+         "short": "STL",
+         "abbr": "STL",
+         "score": 0,
+         "ha": "away",
+         "winner": null,
+         "linescores": []
+        },
+        {
+         "name": "Islanders",
+         "short": "NYI",
+         "abbr": "NYI",
+         "score": 0,
+         "ha": "home",
+         "winner": null,
+         "linescores": []
+        }
+       ],
+       "nhl_id": 2026020390
+      },
+      "source": "nhl"
+     }
+    ],
+    "sport": "NHL",
+    "ticket": "single"
+   }
+  },
+  {
+   "n": 1027,
+   "league": "NHL",
+   "type": "Player Prop",
+   "matchup": "Calgary Flames @ Pittsburgh Penguins",
+   "pick": "Zayne Parekh Over 0.5 Assists +210 (BetMGM)",
+   "odds": 210,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-25T16:00:00",
+   "timed": true,
+   "ticket": "single",
+   "espn": {
+    "legs": [
+     {
+      "kind": "prop",
+      "player": "Zayne Parekh",
+      "ou": "O",
+      "line": 0.5,
+      "stat": "assists +210",
+      "label": "Zayne Parekh O 0.5 assists +210",
+      "path": "hockey/nhl",
+      "event": "401892786",
+      "date": "20261125",
+      "snapshot": {
+       "source": "nhl",
+       "state": "pre",
+       "detail": "Scheduled",
+       "start": "2026-11-26T00:00:00Z",
+       "period": null,
+       "clock": null,
+       "teams": [
+        {
+         "name": "Flames",
+         "short": "CGY",
+         "abbr": "CGY",
+         "score": 0,
+         "ha": "away",
+         "winner": null,
+         "linescores": []
+        },
+        {
+         "name": "Penguins",
+         "short": "PIT",
+         "abbr": "PIT",
+         "score": 0,
+         "ha": "home",
+         "winner": null,
+         "linescores": []
+        }
+       ],
+       "nhl_id": 2026020391
+      },
+      "source": "nhl"
+     }
+    ],
+    "sport": "NHL",
+    "ticket": "single"
+   }
+  },
+  {
+   "n": 1028,
+   "league": "NHL",
+   "type": "Player Prop",
+   "matchup": "Philadelphia Flyers @ Washington Capitals",
+   "pick": "Cole Hutson Over 0.5 Assists +175 (BetMGM)",
+   "odds": 175,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-25T16:00:00",
+   "timed": true,
+   "ticket": "single",
+   "espn": {
+    "legs": [
+     {
+      "kind": "prop",
+      "player": "Cole Hutson",
+      "ou": "O",
+      "line": 0.5,
+      "stat": "assists +175",
+      "label": "Cole Hutson O 0.5 assists +175",
+      "path": "hockey/nhl",
+      "event": "401892787",
+      "date": "20261125",
+      "snapshot": {
+       "source": "nhl",
+       "state": "pre",
+       "detail": "Scheduled",
+       "start": "2026-11-26T00:00:00Z",
+       "period": null,
+       "clock": null,
+       "teams": [
+        {
+         "name": "Flyers",
+         "short": "PHI",
+         "abbr": "PHI",
+         "score": 0,
+         "ha": "away",
+         "winner": null,
+         "linescores": []
+        },
+        {
+         "name": "Capitals",
+         "short": "WSH",
+         "abbr": "WSH",
+         "score": 0,
+         "ha": "home",
+         "winner": null,
+         "linescores": []
+        }
+       ],
+       "nhl_id": 2026020392
+      },
+      "source": "nhl"
+     }
+    ],
+    "sport": "NHL",
     "ticket": "single"
    }
   },
@@ -874,6 +1054,64 @@
    }
   },
   {
+   "n": 1025,
+   "league": "NFL",
+   "type": "Player prop",
+   "matchup": "Kansas City Chiefs @ Buffalo Bills",
+   "pick": "Cyrus Allen longest reception Over 8.5",
+   "odds": -125,
+   "units": 1.5,
+   "gap": null,
+   "start": "2026-11-26T17:20:00",
+   "timed": true,
+   "ticket": "single",
+   "espn": {
+    "legs": [
+     {
+      "kind": "team_total",
+      "side": "Cyrus Allen longest reception",
+      "ou": "O",
+      "line": 8.5,
+      "label": "Cyrus Allen longest reception O 8.5",
+      "path": "football/nfl",
+      "event": "401873082",
+      "date": "20261126",
+      "snapshot": {
+       "source": "espn",
+       "state": "pre",
+       "detail": "11/26 - 8:20 PM EST",
+       "start": "2026-11-27T01:20Z",
+       "period": null,
+       "clock": null,
+       "teams": [
+        {
+         "name": "Kansas City Chiefs",
+         "short": "Chiefs",
+         "abbr": "KC",
+         "score": 0,
+         "ha": "away",
+         "winner": null,
+         "linescores": []
+        },
+        {
+         "name": "Buffalo Bills",
+         "short": "Bills",
+         "abbr": "BUF",
+         "score": 0,
+         "ha": "home",
+         "winner": null,
+         "linescores": []
+        }
+       ]
+      },
+      "source": "espn"
+     }
+    ],
+    "sport": "NFL",
+    "ticket": "single"
+   }
+  },
+  {
    "n": 983,
    "league": "NFL",
    "type": "Spread",
@@ -981,6 +1219,32 @@
        ]
       },
       "source": "espn"
+     }
+    ],
+    "sport": "NFL",
+    "ticket": "single"
+   }
+  },
+  {
+   "n": 1024,
+   "league": "NFL",
+   "type": "Spread",
+   "matchup": "Kansas City Chiefs @ Los Angeles Rams",
+   "pick": "Los Angeles Rams +1.5 spread",
+   "odds": -109,
+   "units": 1.0,
+   "gap": 5.1,
+   "start": "2026-12-03T17:15:00",
+   "timed": true,
+   "ticket": "single",
+   "espn": {
+    "legs": [
+     {
+      "kind": "spread",
+      "side": "Los Angeles Rams",
+      "line": 1.5,
+      "label": "Los Angeles Rams +1.5",
+      "unverified": true
      }
     ],
     "sport": "NFL",

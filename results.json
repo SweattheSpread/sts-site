@@ -1,5 +1,5 @@
 {
- "updated": "Nov 25, 2026, 1:23 AM PT",
+ "updated": "Nov 25, 2026, 7:02 AM PT",
  "record": {
   "w": 273,
   "l": 274,
@@ -11,7 +11,7 @@
   "first": "2026-10-12",
   "last": "2026-11-24"
  },
- "pending": 15,
+ "pending": 20,
  "plays": [
   {
    "n": 334,
@@ -8974,6 +8974,54 @@
    "pending": true
   },
   {
+   "n": 1026,
+   "date": "2026-11-25",
+   "day": "2026-11-25",
+   "league": "NHL",
+   "market": "player_prop",
+   "market_label": "Player Prop",
+   "ticket": "single",
+   "matchup": "New Jersey Devils @ Columbus Blue Jackets",
+   "pick": "Adam Fantilli Over 0.5 Assists +180 (BetMGM)",
+   "odds": 180,
+   "units": 1.0,
+   "result": null,
+   "pl": null,
+   "pending": true
+  },
+  {
+   "n": 1027,
+   "date": "2026-11-25",
+   "day": "2026-11-25",
+   "league": "NHL",
+   "market": "player_prop",
+   "market_label": "Player Prop",
+   "ticket": "single",
+   "matchup": "Calgary Flames @ Pittsburgh Penguins",
+   "pick": "Zayne Parekh Over 0.5 Assists +210 (BetMGM)",
+   "odds": 210,
+   "units": 1.0,
+   "result": null,
+   "pl": null,
+   "pending": true
+  },
+  {
+   "n": 1028,
+   "date": "2026-11-25",
+   "day": "2026-11-25",
+   "league": "NHL",
+   "market": "player_prop",
+   "market_label": "Player Prop",
+   "ticket": "single",
+   "matchup": "Philadelphia Flyers @ Washington Capitals",
+   "pick": "Cole Hutson Over 0.5 Assists +175 (BetMGM)",
+   "odds": 175,
+   "units": 1.0,
+   "result": null,
+   "pl": null,
+   "pending": true
+  },
+  {
    "n": 853,
    "date": "2026-11-18",
    "day": "2026-11-26",
@@ -9118,6 +9166,22 @@
    "pending": true
   },
   {
+   "n": 1025,
+   "date": "2026-11-25",
+   "day": "2026-11-26",
+   "league": "NFL",
+   "market": "player_prop",
+   "market_label": "Player Prop",
+   "ticket": "single",
+   "matchup": "Kansas City Chiefs @ Buffalo Bills",
+   "pick": "Cyrus Allen longest reception Over 8.5",
+   "odds": -125,
+   "units": 1.5,
+   "result": null,
+   "pl": null,
+   "pending": true
+  },
+  {
    "n": 905,
    "date": "2026-11-20",
    "day": "2026-11-29",
@@ -9144,6 +9208,22 @@
    "matchup": "New York Giants @ Indianapolis Colts",
    "pick": "Indianapolis Colts +6.5 (-105)",
    "odds": -105,
+   "units": 1.0,
+   "result": null,
+   "pl": null,
+   "pending": true
+  },
+  {
+   "n": 1024,
+   "date": "2026-11-25",
+   "day": "2026-12-03",
+   "league": "NFL",
+   "market": "spread",
+   "market_label": "Spread",
+   "ticket": "single",
+   "matchup": "Kansas City Chiefs @ Los Angeles Rams",
+   "pick": "Los Angeles Rams +1.5 spread at -109",
+   "odds": -109,
    "units": 1.0,
    "result": null,
    "pl": null,
