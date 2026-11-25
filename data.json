@@ -1,5 +1,5 @@
 {
- "updated": "Nov 24, 2026, 5:20 PM PT",
+ "updated": "Nov 24, 2026, 5:22 PM PT",
  "record": {
   "w": 269,
   "l": 265,
@@ -1325,16 +1325,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "10:53 - 2nd",
+       "detail": "9:50 - 2nd",
        "start": "2026-11-25T00:00Z",
        "period": 2,
-       "clock": "10:53",
+       "clock": "9:50",
        "teams": [
         {
          "name": "Hampton Pirates",
          "short": "Pirates",
          "abbr": "HAMP",
-         "score": 45,
+         "score": 47,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -1454,16 +1454,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "8:52 - 1st",
+       "detail": "6:57 - 1st",
        "start": "2026-11-25T01:00Z",
        "period": 1,
-       "clock": "8:52",
+       "clock": "6:57",
        "teams": [
         {
          "name": "Boston Celtics",
          "short": "Celtics",
          "abbr": "BOS",
-         "score": 9,
+         "score": 13,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -1474,7 +1474,7 @@
          "name": "Washington Wizards",
          "short": "Wizards",
          "abbr": "WSH",
-         "score": 6,
+         "score": 9,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -1518,16 +1518,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "8:52 - 1st",
+       "detail": "6:57 - 1st",
        "start": "2026-11-25T01:00Z",
        "period": 1,
-       "clock": "8:52",
+       "clock": "6:57",
        "teams": [
         {
          "name": "Boston Celtics",
          "short": "Celtics",
          "abbr": "BOS",
-         "score": 9,
+         "score": 13,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -1538,7 +1538,7 @@
          "name": "Washington Wizards",
          "short": "Wizards",
          "abbr": "WSH",
-         "score": 6,
+         "score": 9,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -1582,16 +1582,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "8:52 - 1st",
+       "detail": "6:57 - 1st",
        "start": "2026-11-25T01:00Z",
        "period": 1,
-       "clock": "8:52",
+       "clock": "6:57",
        "teams": [
         {
          "name": "Boston Celtics",
          "short": "Celtics",
          "abbr": "BOS",
-         "score": 9,
+         "score": 13,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -1602,7 +1602,7 @@
          "name": "Washington Wizards",
          "short": "Wizards",
          "abbr": "WSH",
-         "score": 6,
+         "score": 9,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -1644,16 +1644,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "11:14 - 2nd",
+       "detail": "9:57 - 2nd",
        "start": "2026-11-25T00:00Z",
        "period": 2,
-       "clock": "11:14",
+       "clock": "9:57",
        "teams": [
         {
          "name": "Tarleton State Texans",
          "short": "Texans",
          "abbr": "TAR",
-         "score": 54,
+         "score": 55,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -1665,7 +1665,7 @@
          "name": "Weber State Wildcats",
          "short": "Wildcats",
          "abbr": "WEB",
-         "score": 59,
+         "score": 61,
          "ha": "home",
          "winner": null,
          "linescores": [
