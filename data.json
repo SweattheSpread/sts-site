@@ -1,5 +1,5 @@
 {
- "updated": "Nov 24, 2026, 4:36 PM PT",
+ "updated": "Nov 24, 2026, 4:38 PM PT",
  "record": {
   "w": 269,
   "l": 265,
@@ -11,7 +11,7 @@
   "first": "2026-10-12",
   "last": "2026-11-23"
  },
- "pending": 25,
+ "pending": 26,
  "latest": [
   {
    "n": 1002,
@@ -127,6 +127,68 @@
   }
  ],
  "picks": [
+  {
+   "n": 1022,
+   "league": "NCAAF",
+   "type": "Total",
+   "matchup": "Miami (OH) RedHawks at Western Michigan Broncos",
+   "pick": "2nd Quarter Total Over 13.5 LIVE",
+   "odds": -112,
+   "units": 5.0,
+   "gap": null,
+   "start": "2026-11-24T16:00:00",
+   "timed": true,
+   "ticket": "single",
+   "espn": {
+    "legs": [
+     {
+      "kind": "total",
+      "side": "2nd Quarter Total",
+      "ou": "O",
+      "line": 13.5,
+      "label": "2nd Quarter Total O 13.5",
+      "path": "football/college-football",
+      "event": "401866471",
+      "date": "20261125",
+      "snapshot": {
+       "source": "espn",
+       "state": "in",
+       "detail": "2:08 - 1st",
+       "start": "2026-11-25T00:00Z",
+       "period": 1,
+       "clock": "2:08",
+       "teams": [
+        {
+         "name": "Miami (OH) RedHawks",
+         "short": "RedHawks",
+         "abbr": "M-OH",
+         "score": 14,
+         "ha": "away",
+         "winner": null,
+         "linescores": [
+          0
+         ]
+        },
+        {
+         "name": "Western Michigan Broncos",
+         "short": "Broncos",
+         "abbr": "WMU",
+         "score": 3,
+         "ha": "home",
+         "winner": null,
+         "linescores": [
+          0
+         ]
+        }
+       ]
+      },
+      "source": "espn"
+     }
+    ],
+    "sport": "NCAAF",
+    "ticket": "single"
+   }
+  },
   {
    "n": 1016,
    "league": "NBA",
@@ -1313,10 +1375,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "7:57 - 2nd",
+       "detail": "7:19 - 2nd",
        "start": "2026-11-24T23:00Z",
        "period": 2,
-       "clock": "7:57",
+       "clock": "7:19",
        "teams": [
         {
          "name": "Queens University Royals",
@@ -1376,16 +1438,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "12:00 - 1st",
+       "detail": "10:29 - 1st",
        "start": "2026-11-25T00:00Z",
        "period": 1,
-       "clock": "12:00",
+       "clock": "10:29",
        "teams": [
         {
          "name": "Santa Clara Broncos",
          "short": "Broncos",
          "abbr": "SCU",
-         "score": 9,
+         "score": 11,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -1396,7 +1458,7 @@
          "name": "Nevada Wolf Pack",
          "short": "Wolf Pack",
          "abbr": "NEV",
-         "score": 12,
+         "score": 17,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -1438,10 +1500,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "5:13 - 1st",
+       "detail": "4:00 - 1st",
        "start": "2026-11-25T00:00Z",
        "period": 1,
-       "clock": "5:13",
+       "clock": "4:00",
        "teams": [
         {
          "name": "Hampton Pirates",
@@ -1458,7 +1520,7 @@
          "name": "Old Dominion Monarchs",
          "short": "Monarchs",
          "abbr": "ODU",
-         "score": 28,
+         "score": 30,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -1500,16 +1562,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "6:16 - 1st",
+       "detail": "4:33 - 1st",
        "start": "2026-11-25T00:00Z",
        "period": 1,
-       "clock": "6:16",
+       "clock": "4:33",
        "teams": [
         {
          "name": "Rider Broncs",
          "short": "Broncs",
          "abbr": "RID",
-         "score": 15,
+         "score": 18,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -1520,7 +1582,7 @@
          "name": "Loyola Maryland Greyhounds",
          "short": "Greyhounds",
          "abbr": "L-MD",
-         "score": 24,
+         "score": 27,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -1561,10 +1623,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "3:56 - 1st",
+       "detail": "3:08 - 1st",
        "start": "2026-11-25T00:00Z",
        "period": 1,
-       "clock": "3:56",
+       "clock": "3:08",
        "teams": [
         {
          "name": "Tarleton State Texans",

@@ -1,5 +1,5 @@
 {
- "updated": "Nov 24, 2026, 4:36 PM PT",
+ "updated": "Nov 24, 2026, 4:38 PM PT",
  "record": {
   "w": 269,
   "l": 265,
@@ -11,7 +11,7 @@
   "first": "2026-10-12",
   "last": "2026-11-23"
  },
- "pending": 27,
+ "pending": 28,
  "plays": [
   {
    "n": 334,
@@ -8889,6 +8889,22 @@
    "pick": "Tarleton State +2",
    "odds": -110,
    "units": 1.0,
+   "result": null,
+   "pl": null,
+   "pending": true
+  },
+  {
+   "n": 1022,
+   "date": "2026-11-24",
+   "day": "2026-11-24",
+   "league": "NCAAF",
+   "market": "total",
+   "market_label": "Total",
+   "ticket": "single",
+   "matchup": "Miami (OH) RedHawks at Western Michigan Broncos",
+   "pick": "2nd Quarter Total Over 13.5 LIVE",
+   "odds": -112,
+   "units": 5.0,
    "result": null,
    "pl": null,
    "pending": true
