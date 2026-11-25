@@ -1,5 +1,5 @@
 {
- "updated": "Nov 24, 2026, 4:09 PM PT",
+ "updated": "Nov 24, 2026, 4:12 PM PT",
  "record": {
   "w": 269,
   "l": 265,
@@ -1488,16 +1488,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "17:22 - 1st",
+       "detail": "15:54 - 1st",
        "start": "2026-11-25T00:00Z",
        "period": 1,
-       "clock": "17:22",
+       "clock": "15:54",
        "teams": [
         {
          "name": "Hampton Pirates",
          "short": "Pirates",
          "abbr": "HAMP",
-         "score": 1,
+         "score": 3,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -1508,7 +1508,7 @@
          "name": "Old Dominion Monarchs",
          "short": "Monarchs",
          "abbr": "ODU",
-         "score": 5,
+         "score": 12,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -1550,10 +1550,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "15:59 - 1st",
+       "detail": "15:38 - 1st",
        "start": "2026-11-25T00:00Z",
        "period": 1,
-       "clock": "15:59",
+       "clock": "15:38",
        "teams": [
         {
          "name": "Rider Broncs",
@@ -1611,10 +1611,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "16:01 - 1st",
+       "detail": "13:56 - 1st",
        "start": "2026-11-25T00:00Z",
        "period": 1,
-       "clock": "16:01",
+       "clock": "13:56",
        "teams": [
         {
          "name": "Tarleton State Texans",
@@ -1631,7 +1631,7 @@
          "name": "Weber State Wildcats",
          "short": "Wildcats",
          "abbr": "WEB",
-         "score": 12,
+         "score": 14,
          "ha": "home",
          "winner": null,
          "linescores": [
