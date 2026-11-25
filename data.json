@@ -1,5 +1,5 @@
 {
- "updated": "Nov 24, 2026, 4:49 PM PT",
+ "updated": "Nov 24, 2026, 4:51 PM PT",
  "record": {
   "w": 269,
   "l": 265,
@@ -153,10 +153,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "15:00 - 2nd",
+       "detail": "13:19 - 2nd",
        "start": "2026-11-25T00:00Z",
        "period": 2,
-       "clock": "15:00",
+       "clock": "13:19",
        "teams": [
         {
          "name": "Miami (OH) RedHawks",
@@ -1377,16 +1377,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "3:35 - 2nd",
+       "detail": "3:30 - 2nd",
        "start": "2026-11-24T23:00Z",
        "period": 2,
-       "clock": "3:35",
+       "clock": "3:30",
        "teams": [
         {
          "name": "Queens University Royals",
          "short": "Royals",
          "abbr": "QUC",
-         "score": 67,
+         "score": 68,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -1440,16 +1440,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "7:04 - 1st",
+       "detail": "5:18 - 1st",
        "start": "2026-11-25T00:00Z",
        "period": 1,
-       "clock": "7:04",
+       "clock": "5:18",
        "teams": [
         {
          "name": "Santa Clara Broncos",
          "short": "Broncos",
          "abbr": "SCU",
-         "score": 18,
+         "score": 23,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -1460,7 +1460,7 @@
          "name": "Nevada Wolf Pack",
          "short": "Wolf Pack",
          "abbr": "NEV",
-         "score": 26,
+         "score": 31,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -1564,16 +1564,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "1:45 - 1st",
+       "detail": "0:33 - 1st",
        "start": "2026-11-25T00:00Z",
        "period": 1,
-       "clock": "1:45",
+       "clock": "0:33",
        "teams": [
         {
          "name": "Rider Broncs",
          "short": "Broncs",
          "abbr": "RID",
-         "score": 19,
+         "score": 21,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -1584,7 +1584,7 @@
          "name": "Loyola Maryland Greyhounds",
          "short": "Greyhounds",
          "abbr": "L-MD",
-         "score": 28,
+         "score": 33,
          "ha": "home",
          "winner": null,
          "linescores": [
