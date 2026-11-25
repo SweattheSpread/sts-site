@@ -1,5 +1,5 @@
 {
- "updated": "Nov 24, 2026, 7:09 PM PT",
+ "updated": "Nov 24, 2026, 7:55 PM PT",
  "record": {
   "w": 269,
   "l": 265,
@@ -152,11 +152,11 @@
       "date": "20261125",
       "snapshot": {
        "source": "espn",
-       "state": "in",
-       "detail": "5:40 - 4th",
+       "state": "post",
+       "detail": "Final",
        "start": "2026-11-25T00:00Z",
-       "period": 4,
-       "clock": "5:40",
+       "period": null,
+       "clock": null,
        "teams": [
         {
          "name": "Miami (OH) RedHawks",
@@ -164,7 +164,7 @@
          "abbr": "M-OH",
          "score": 28,
          "ha": "away",
-         "winner": null,
+         "winner": true,
          "linescores": [
           0,
           0,
@@ -178,7 +178,7 @@
          "abbr": "WMU",
          "score": 24,
          "ha": "home",
-         "winner": null,
+         "winner": false,
          "linescores": [
           0,
           0,
@@ -1215,19 +1215,20 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "Halftime",
+       "detail": "1:02 - 2nd",
        "start": "2026-11-25T02:00Z",
-       "period": 1,
-       "clock": "0:00",
+       "period": 2,
+       "clock": "1:02",
        "teams": [
         {
          "name": "UTEP Miners",
          "short": "Miners",
          "abbr": "UTEP",
-         "score": 42,
+         "score": 74,
          "ha": "away",
          "winner": null,
          "linescores": [
+          0,
           0
          ]
         },
@@ -1235,10 +1236,11 @@
          "name": "Charleston Cougars",
          "short": "Cougars",
          "abbr": "COFC",
-         "score": 26,
+         "score": 67,
          "ha": "home",
          "winner": null,
          "linescores": [
+          0,
           0
          ]
         }
@@ -1405,16 +1407,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "15:03 - 1st",
-       "start": "2026-11-25T04:00Z",
+       "detail": "0:00 - 1st",
+       "start": "2026-11-25T02:55Z",
        "period": 1,
-       "clock": "15:03",
+       "clock": "0:00",
        "teams": [
         {
          "name": "Saint Louis Billikens",
          "short": "Billikens",
          "abbr": "SLU",
-         "score": 12,
+         "score": 41,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -1425,7 +1427,7 @@
          "name": "Grand Canyon Lopes",
          "short": "Lopes",
          "abbr": "GCU",
-         "score": 7,
+         "score": 36,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -1462,49 +1464,36 @@
       "line": 2.5,
       "stat": "rebounds +140",
       "label": "Trae Young O 2.5 rebounds +140",
-      "path": "basketball/nba",
-      "event": "401909315",
       "date": "20261124",
+      "unverified": true,
+      "reason": "Player not found in this game",
       "snapshot": {
-       "source": "espn",
-       "state": "in",
-       "detail": "8:06 - 4th",
-       "start": "2026-11-25T01:00Z",
-       "period": 4,
-       "clock": "8:06",
+       "source": "odds-api",
+       "state": "post",
+       "detail": "Final",
+       "start": "2026-11-25T01:14:00Z",
        "teams": [
         {
          "name": "Boston Celtics",
-         "short": "Celtics",
-         "abbr": "BOS",
-         "score": 109,
+         "short": "Boston Celtics",
+         "abbr": "",
+         "score": 131,
          "ha": "away",
-         "winner": null,
-         "linescores": [
-          0,
-          0,
-          0,
-          0
-         ]
+         "winner": true,
+         "linescores": []
         },
         {
          "name": "Washington Wizards",
-         "short": "Wizards",
-         "abbr": "WSH",
-         "score": 96,
+         "short": "Washington Wizards",
+         "abbr": "",
+         "score": 116,
          "ha": "home",
-         "winner": null,
-         "linescores": [
-          0,
-          0,
-          0,
-          0
-         ]
+         "winner": false,
+         "linescores": []
         }
-       ],
-       "stat": null
+       ]
       },
-      "source": "espn"
+      "source": "odds-api"
      }
     ],
     "sport": "NBA",
@@ -1532,49 +1521,36 @@
       "line": 6.5,
       "stat": "rebounds +110",
       "label": "AJ Dybantsa O 6.5 rebounds +110",
-      "path": "basketball/nba",
-      "event": "401909315",
       "date": "20261124",
+      "unverified": true,
+      "reason": "Player not found in this game",
       "snapshot": {
-       "source": "espn",
-       "state": "in",
-       "detail": "8:06 - 4th",
-       "start": "2026-11-25T01:00Z",
-       "period": 4,
-       "clock": "8:06",
+       "source": "odds-api",
+       "state": "post",
+       "detail": "Final",
+       "start": "2026-11-25T01:14:00Z",
        "teams": [
         {
          "name": "Boston Celtics",
-         "short": "Celtics",
-         "abbr": "BOS",
-         "score": 109,
+         "short": "Boston Celtics",
+         "abbr": "",
+         "score": 131,
          "ha": "away",
-         "winner": null,
-         "linescores": [
-          0,
-          0,
-          0,
-          0
-         ]
+         "winner": true,
+         "linescores": []
         },
         {
          "name": "Washington Wizards",
-         "short": "Wizards",
-         "abbr": "WSH",
-         "score": 96,
+         "short": "Washington Wizards",
+         "abbr": "",
+         "score": 116,
          "ha": "home",
-         "winner": null,
-         "linescores": [
-          0,
-          0,
-          0,
-          0
-         ]
+         "winner": false,
+         "linescores": []
         }
-       ],
-       "stat": null
+       ]
       },
-      "source": "espn"
+      "source": "odds-api"
      }
     ],
     "sport": "NBA",
@@ -1602,49 +1578,36 @@
       "line": 18.5,
       "stat": "points -115",
       "label": "Paul George O 18.5 points -115",
-      "path": "basketball/nba",
-      "event": "401909315",
       "date": "20261124",
+      "unverified": true,
+      "reason": "Player not found in this game",
       "snapshot": {
-       "source": "espn",
-       "state": "in",
-       "detail": "8:06 - 4th",
-       "start": "2026-11-25T01:00Z",
-       "period": 4,
-       "clock": "8:06",
+       "source": "odds-api",
+       "state": "post",
+       "detail": "Final",
+       "start": "2026-11-25T01:14:00Z",
        "teams": [
         {
          "name": "Boston Celtics",
-         "short": "Celtics",
-         "abbr": "BOS",
-         "score": 109,
+         "short": "Boston Celtics",
+         "abbr": "",
+         "score": 131,
          "ha": "away",
-         "winner": null,
-         "linescores": [
-          0,
-          0,
-          0,
-          0
-         ]
+         "winner": true,
+         "linescores": []
         },
         {
          "name": "Washington Wizards",
-         "short": "Wizards",
-         "abbr": "WSH",
-         "score": 96,
+         "short": "Washington Wizards",
+         "abbr": "",
+         "score": 116,
          "ha": "home",
-         "winner": null,
-         "linescores": [
-          0,
-          0,
-          0,
-          0
-         ]
+         "winner": false,
+         "linescores": []
         }
-       ],
-       "stat": null
+       ]
       },
-      "source": "espn"
+      "source": "odds-api"
      }
     ],
     "sport": "NBA",
