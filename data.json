@@ -1,5 +1,5 @@
 {
- "updated": "Nov 24, 2026, 4:02 PM PT",
+ "updated": "Nov 24, 2026, 4:05 PM PT",
  "record": {
   "w": 269,
   "l": 265,
@@ -1367,10 +1367,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "Halftime",
+       "detail": "19:10 - 2nd",
        "start": "2026-11-24T23:00Z",
-       "period": 1,
-       "clock": "0:00",
+       "period": 2,
+       "clock": "19:10",
        "teams": [
         {
          "name": "Queens University Royals",
@@ -1380,6 +1380,7 @@
          "ha": "away",
          "winner": null,
          "linescores": [
+          0,
           0
          ]
         },
@@ -1391,6 +1392,7 @@
          "ha": "home",
          "winner": null,
          "linescores": [
+          0,
           0
          ]
         }
@@ -1543,11 +1545,11 @@
       "date": "20261124",
       "snapshot": {
        "source": "espn",
-       "state": "pre",
-       "detail": "11/24 - 7:00 PM EST",
+       "state": "in",
+       "detail": "18:10 - 1st",
        "start": "2026-11-25T00:00Z",
-       "period": null,
-       "clock": null,
+       "period": 1,
+       "clock": "18:10",
        "teams": [
         {
          "name": "Rider Broncs",
@@ -1556,7 +1558,9 @@
          "score": 0,
          "ha": "away",
          "winner": null,
-         "linescores": []
+         "linescores": [
+          0
+         ]
         },
         {
          "name": "Loyola Maryland Greyhounds",
@@ -1565,7 +1569,9 @@
          "score": 0,
          "ha": "home",
          "winner": null,
-         "linescores": []
+         "linescores": [
+          0
+         ]
         }
        ]
       },
@@ -1601,16 +1607,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "19:22 - 1st",
+       "detail": "17:31 - 1st",
        "start": "2026-11-25T00:00Z",
        "period": 1,
-       "clock": "19:22",
+       "clock": "17:31",
        "teams": [
         {
          "name": "Tarleton State Texans",
          "short": "Texans",
          "abbr": "TAR",
-         "score": 0,
+         "score": 4,
          "ha": "away",
          "winner": null,
          "linescores": [
