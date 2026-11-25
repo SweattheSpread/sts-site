@@ -1,5 +1,5 @@
 {
- "updated": "Nov 25, 2026, 2:54 PM PT",
+ "updated": "Nov 25, 2026, 2:56 PM PT",
  "record": {
   "w": 273,
   "l": 274,
@@ -2298,16 +2298,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "6:19 - 2nd",
+       "detail": "4:51 - 2nd",
        "start": "2026-11-25T22:00Z",
        "period": 2,
-       "clock": "6:19",
+       "clock": "4:51",
        "teams": [
         {
          "name": "Miami Heat",
          "short": "Heat",
          "abbr": "MIA",
-         "score": 39,
+         "score": 41,
          "ha": "away",
          "winner": null,
          "linescores": [
