@@ -1,5 +1,5 @@
 {
- "updated": "Nov 25, 2026, 12:32 PM PT",
+ "updated": "Nov 25, 2026, 12:34 PM PT",
  "record": {
   "w": 273,
   "l": 274,
@@ -11,7 +11,7 @@
   "first": "2026-10-12",
   "last": "2026-11-24"
  },
- "pending": 33,
+ "pending": 37,
  "latest": [
   {
    "n": 1022,
@@ -367,6 +367,63 @@
    }
   },
   {
+   "n": 1045,
+   "league": "NCAAB",
+   "type": "Spread",
+   "matchup": "Longwood Lancers @ George Mason Patriots",
+   "pick": "Longwood +16.5",
+   "odds": -110,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-25T16:00:00",
+   "timed": true,
+   "ticket": "single",
+   "espn": {
+    "legs": [
+     {
+      "kind": "spread",
+      "side": "Longwood",
+      "line": 16.5,
+      "label": "Longwood +16.5",
+      "path": "basketball/mens-college-basketball",
+      "event": "401920076",
+      "date": "20261125",
+      "snapshot": {
+       "source": "espn",
+       "state": "pre",
+       "detail": "11/25 - 7:00 PM EST",
+       "start": "2026-11-26T00:00Z",
+       "period": null,
+       "clock": null,
+       "teams": [
+        {
+         "name": "Longwood Lancers",
+         "short": "Lancers",
+         "abbr": "LONG",
+         "score": 0,
+         "ha": "away",
+         "winner": null,
+         "linescores": []
+        },
+        {
+         "name": "George Mason Patriots",
+         "short": "Patriots",
+         "abbr": "GMU",
+         "score": 0,
+         "ha": "home",
+         "winner": null,
+         "linescores": []
+        }
+       ]
+      },
+      "source": "espn"
+     }
+    ],
+    "sport": "NCAAB",
+    "ticket": "single"
+   }
+  },
+  {
    "n": 1039,
    "league": "NBA",
    "type": "Player Prop",
@@ -683,6 +740,64 @@
    }
   },
   {
+   "n": 1043,
+   "league": "NCAAB",
+   "type": "Over/Under",
+   "matchup": "Eastern Michigan Eagles @ UTEP Miners",
+   "pick": "Over 131.5",
+   "odds": -105,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-25T17:30:00",
+   "timed": true,
+   "ticket": "single",
+   "espn": {
+    "legs": [
+     {
+      "kind": "total",
+      "side": null,
+      "ou": "O",
+      "line": 131.5,
+      "label": "O 131.5",
+      "path": "basketball/mens-college-basketball",
+      "event": "401920550",
+      "date": "20261125",
+      "snapshot": {
+       "source": "espn",
+       "state": "pre",
+       "detail": "11/25 - 8:30 PM EST",
+       "start": "2026-11-26T01:30Z",
+       "period": null,
+       "clock": null,
+       "teams": [
+        {
+         "name": "Eastern Michigan Eagles",
+         "short": "Eagles",
+         "abbr": "EMU",
+         "score": 0,
+         "ha": "away",
+         "winner": null,
+         "linescores": []
+        },
+        {
+         "name": "UTEP Miners",
+         "short": "Miners",
+         "abbr": "UTEP",
+         "score": 0,
+         "ha": "home",
+         "winner": null,
+         "linescores": []
+        }
+       ]
+      },
+      "source": "espn"
+     }
+    ],
+    "sport": "NCAAB",
+    "ticket": "single"
+   }
+  },
+  {
    "n": 1037,
    "league": "NBA",
    "type": "Player Prop",
@@ -738,6 +853,64 @@
      }
     ],
     "sport": "NBA",
+    "ticket": "single"
+   }
+  },
+  {
+   "n": 1046,
+   "league": "NCAAB",
+   "type": "Over/Under",
+   "matchup": "Mississippi Valley St Delta Devils @ New Mexico Lobos",
+   "pick": "Under 152.5",
+   "odds": -110,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-25T18:00:00",
+   "timed": true,
+   "ticket": "single",
+   "espn": {
+    "legs": [
+     {
+      "kind": "total",
+      "side": null,
+      "ou": "U",
+      "line": 152.5,
+      "label": "U 152.5",
+      "path": "basketball/mens-college-basketball",
+      "event": "401924897",
+      "date": "20261125",
+      "snapshot": {
+       "source": "espn",
+       "state": "pre",
+       "detail": "11/25 - 9:00 PM EST",
+       "start": "2026-11-26T02:00Z",
+       "period": null,
+       "clock": null,
+       "teams": [
+        {
+         "name": "Mississippi Valley State Delta Devils",
+         "short": "Delta Devils",
+         "abbr": "MVSU",
+         "score": 0,
+         "ha": "away",
+         "winner": null,
+         "linescores": []
+        },
+        {
+         "name": "New Mexico Lobos",
+         "short": "Lobos",
+         "abbr": "UNM",
+         "score": 0,
+         "ha": "home",
+         "winner": null,
+         "linescores": []
+        }
+       ]
+      },
+      "source": "espn"
+     }
+    ],
+    "sport": "NCAAB",
     "ticket": "single"
    }
   },
@@ -798,6 +971,64 @@
      }
     ],
     "sport": "NHL",
+    "ticket": "single"
+   }
+  },
+  {
+   "n": 1044,
+   "league": "NCAAB",
+   "type": "Over/Under",
+   "matchup": "Incarnate Word Cardinals @ Hawaii Rainbow Warriors",
+   "pick": "Over 139.5",
+   "odds": -110,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-25T20:59:00",
+   "timed": true,
+   "ticket": "single",
+   "espn": {
+    "legs": [
+     {
+      "kind": "total",
+      "side": null,
+      "ou": "O",
+      "line": 139.5,
+      "label": "O 139.5",
+      "path": "basketball/mens-college-basketball",
+      "event": "401929005",
+      "date": "20261125",
+      "snapshot": {
+       "source": "espn",
+       "state": "pre",
+       "detail": "11/25 - 11:59 PM EST",
+       "start": "2026-11-26T04:59Z",
+       "period": null,
+       "clock": null,
+       "teams": [
+        {
+         "name": "Incarnate Word Cardinals",
+         "short": "Cardinals",
+         "abbr": "UIW",
+         "score": 0,
+         "ha": "away",
+         "winner": null,
+         "linescores": []
+        },
+        {
+         "name": "Hawai'i Rainbow Warriors",
+         "short": "Rainbow Warriors",
+         "abbr": "HAW",
+         "score": 0,
+         "ha": "home",
+         "winner": null,
+         "linescores": []
+        }
+       ]
+      },
+      "source": "espn"
+     }
+    ],
+    "sport": "NCAAB",
     "ticket": "single"
    }
   },
@@ -1942,16 +2173,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "13:13 - 1st",
+       "detail": "12:11 - 1st",
        "start": "2026-11-25T20:00Z",
        "period": 1,
-       "clock": "13:13",
+       "clock": "12:11",
        "teams": [
         {
          "name": "SE Louisiana Lions",
          "short": "Lions",
          "abbr": "SELA",
-         "score": 12,
+         "score": 14,
          "ha": "away",
          "winner": null,
          "linescores": [
