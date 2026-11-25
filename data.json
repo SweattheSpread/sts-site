@@ -1,5 +1,5 @@
 {
- "updated": "Nov 24, 2026, 4:47 PM PT",
+ "updated": "Nov 24, 2026, 4:49 PM PT",
  "record": {
   "w": 269,
   "l": 265,
@@ -1377,10 +1377,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "4:30 - 2nd",
+       "detail": "3:35 - 2nd",
        "start": "2026-11-24T23:00Z",
        "period": 2,
-       "clock": "4:30",
+       "clock": "3:35",
        "teams": [
         {
          "name": "Queens University Royals",
@@ -1398,7 +1398,7 @@
          "name": "Wofford Terriers",
          "short": "Terriers",
          "abbr": "WOF",
-         "score": 77,
+         "score": 80,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -1440,10 +1440,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "7:44 - 1st",
+       "detail": "7:04 - 1st",
        "start": "2026-11-25T00:00Z",
        "period": 1,
-       "clock": "7:44",
+       "clock": "7:04",
        "teams": [
         {
          "name": "Santa Clara Broncos",
@@ -1460,7 +1460,7 @@
          "name": "Nevada Wolf Pack",
          "short": "Wolf Pack",
          "abbr": "NEV",
-         "score": 22,
+         "score": 26,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -1502,7 +1502,7 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "0:00 - 1st",
+       "detail": "Halftime",
        "start": "2026-11-25T00:00Z",
        "period": 1,
        "clock": "0:00",
@@ -1564,10 +1564,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "2:48 - 1st",
+       "detail": "1:45 - 1st",
        "start": "2026-11-25T00:00Z",
        "period": 1,
-       "clock": "2:48",
+       "clock": "1:45",
        "teams": [
         {
          "name": "Rider Broncs",
