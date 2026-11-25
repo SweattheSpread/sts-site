@@ -1,5 +1,5 @@
 {
- "updated": "Nov 24, 2026, 5:28 PM PT",
+ "updated": "Nov 24, 2026, 7:00 PM PT",
  "record": {
   "w": 269,
   "l": 265,
@@ -153,19 +153,21 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "1:01 - 2nd",
+       "detail": "8:02 - 4th",
        "start": "2026-11-25T00:00Z",
-       "period": 2,
-       "clock": "1:01",
+       "period": 4,
+       "clock": "8:02",
        "teams": [
         {
          "name": "Miami (OH) RedHawks",
          "short": "RedHawks",
          "abbr": "M-OH",
-         "score": 14,
+         "score": 21,
          "ha": "away",
          "winner": null,
          "linescores": [
+          0,
+          0,
           0,
           0
          ]
@@ -174,10 +176,12 @@
          "name": "Western Michigan Broncos",
          "short": "Broncos",
          "abbr": "WMU",
-         "score": 3,
+         "score": 22,
          "ha": "home",
          "winner": null,
          "linescores": [
+          0,
+          0,
           0,
           0
          ]
@@ -188,120 +192,6 @@
      }
     ],
     "sport": "NCAAF",
-    "ticket": "single"
-   }
-  },
-  {
-   "n": 1007,
-   "league": "NCAAB",
-   "type": "Moneyline",
-   "matchup": "UTEP Miners @ Charleston Cougars",
-   "pick": "Charleston Cougars ML",
-   "odds": -135,
-   "units": 1.0,
-   "gap": null,
-   "start": "2026-11-24T17:30:00",
-   "timed": true,
-   "ticket": "single",
-   "espn": {
-    "legs": [
-     {
-      "kind": "ml",
-      "side": "Charleston Cougars",
-      "label": "Charleston Cougars ML",
-      "path": "basketball/mens-college-basketball",
-      "event": "401911535",
-      "date": "20261124",
-      "snapshot": {
-       "source": "espn",
-       "state": "pre",
-       "detail": "11/24 - 8:30 PM EST",
-       "start": "2026-11-25T01:30Z",
-       "period": null,
-       "clock": null,
-       "teams": [
-        {
-         "name": "UTEP Miners",
-         "short": "Miners",
-         "abbr": "UTEP",
-         "score": 0,
-         "ha": "away",
-         "winner": null,
-         "linescores": []
-        },
-        {
-         "name": "Charleston Cougars",
-         "short": "Cougars",
-         "abbr": "COFC",
-         "score": 0,
-         "ha": "home",
-         "winner": null,
-         "linescores": []
-        }
-       ]
-      },
-      "source": "espn"
-     }
-    ],
-    "sport": "NCAAB",
-    "ticket": "single"
-   }
-  },
-  {
-   "n": 1015,
-   "league": "NCAAB",
-   "type": "Over/Under",
-   "matchup": "Saint Louis Billikens @ Grand Canyon Antelopes",
-   "pick": "Under 166.5",
-   "odds": -110,
-   "units": 1.0,
-   "gap": null,
-   "start": "2026-11-24T18:30:00",
-   "timed": true,
-   "ticket": "single",
-   "espn": {
-    "legs": [
-     {
-      "kind": "total",
-      "side": null,
-      "ou": "U",
-      "line": 166.5,
-      "label": "U 166.5",
-      "path": "basketball/mens-college-basketball",
-      "event": "401911253",
-      "date": "20261124",
-      "snapshot": {
-       "source": "espn",
-       "state": "pre",
-       "detail": "11/24 - 9:30 PM EST",
-       "start": "2026-11-25T02:30Z",
-       "period": null,
-       "clock": null,
-       "teams": [
-        {
-         "name": "Saint Louis Billikens",
-         "short": "Billikens",
-         "abbr": "SLU",
-         "score": 0,
-         "ha": "away",
-         "winner": null,
-         "linescores": []
-        },
-        {
-         "name": "Grand Canyon Lopes",
-         "short": "Lopes",
-         "abbr": "GCU",
-         "score": 0,
-         "ha": "home",
-         "winner": null,
-         "linescores": []
-        }
-       ]
-      },
-      "source": "espn"
-     }
-    ],
-    "sport": "NCAAB",
     "ticket": "single"
    }
   },
@@ -1262,19 +1152,19 @@
       "date": "20261124",
       "snapshot": {
        "source": "espn",
-       "state": "in",
-       "detail": "18:50 - 2nd",
+       "state": "post",
+       "detail": "Final",
        "start": "2026-11-25T00:00Z",
-       "period": 2,
-       "clock": "18:50",
+       "period": null,
+       "clock": null,
        "teams": [
         {
          "name": "Santa Clara Broncos",
          "short": "Broncos",
          "abbr": "SCU",
-         "score": 37,
+         "score": 66,
          "ha": "away",
-         "winner": null,
+         "winner": false,
          "linescores": [
           0,
           0
@@ -1284,11 +1174,71 @@
          "name": "Nevada Wolf Pack",
          "short": "Wolf Pack",
          "abbr": "NEV",
-         "score": 45,
+         "score": 85,
+         "ha": "home",
+         "winner": true,
+         "linescores": [
+          0,
+          0
+         ]
+        }
+       ]
+      },
+      "source": "espn"
+     }
+    ],
+    "sport": "NCAAB",
+    "ticket": "single"
+   }
+  },
+  {
+   "n": 1007,
+   "league": "NCAAB",
+   "type": "Moneyline",
+   "matchup": "UTEP Miners @ Charleston Cougars",
+   "pick": "Charleston Cougars ML",
+   "odds": -135,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-24T17:30:00",
+   "timed": true,
+   "ticket": "single",
+   "espn": {
+    "legs": [
+     {
+      "kind": "ml",
+      "side": "Charleston Cougars",
+      "label": "Charleston Cougars ML",
+      "path": "basketball/mens-college-basketball",
+      "event": "401911535",
+      "date": "20261124",
+      "snapshot": {
+       "source": "espn",
+       "state": "in",
+       "detail": "Halftime",
+       "start": "2026-11-25T02:00Z",
+       "period": 1,
+       "clock": "0:00",
+       "teams": [
+        {
+         "name": "UTEP Miners",
+         "short": "Miners",
+         "abbr": "UTEP",
+         "score": 42,
+         "ha": "away",
+         "winner": null,
+         "linescores": [
+          0
+         ]
+        },
+        {
+         "name": "Charleston Cougars",
+         "short": "Cougars",
+         "abbr": "COFC",
+         "score": 26,
          "ha": "home",
          "winner": null,
          "linescores": [
-          0,
           0
          ]
         }
@@ -1326,19 +1276,19 @@
       "date": "20261124",
       "snapshot": {
        "source": "espn",
-       "state": "in",
-       "detail": "7:40 - 2nd",
+       "state": "post",
+       "detail": "Final",
        "start": "2026-11-25T00:00Z",
-       "period": 2,
-       "clock": "7:40",
+       "period": null,
+       "clock": null,
        "teams": [
         {
          "name": "Hampton Pirates",
          "short": "Pirates",
          "abbr": "HAMP",
-         "score": 51,
+         "score": 59,
          "ha": "away",
-         "winner": null,
+         "winner": false,
          "linescores": [
           0,
           0
@@ -1348,9 +1298,9 @@
          "name": "Old Dominion Monarchs",
          "short": "Monarchs",
          "abbr": "ODU",
-         "score": 54,
+         "score": 71,
          "ha": "home",
-         "winner": null,
+         "winner": true,
          "linescores": [
           0,
           0
@@ -1390,19 +1340,19 @@
       "date": "20261124",
       "snapshot": {
        "source": "espn",
-       "state": "in",
-       "detail": "11:58 - 2nd",
+       "state": "post",
+       "detail": "Final",
        "start": "2026-11-25T00:00Z",
-       "period": 2,
-       "clock": "11:58",
+       "period": null,
+       "clock": null,
        "teams": [
         {
          "name": "Rider Broncs",
          "short": "Broncs",
          "abbr": "RID",
-         "score": 33,
+         "score": 54,
          "ha": "away",
-         "winner": null,
+         "winner": false,
          "linescores": [
           0,
           0
@@ -1412,11 +1362,73 @@
          "name": "Loyola Maryland Greyhounds",
          "short": "Greyhounds",
          "abbr": "L-MD",
-         "score": 43,
+         "score": 71,
+         "ha": "home",
+         "winner": true,
+         "linescores": [
+          0,
+          0
+         ]
+        }
+       ]
+      },
+      "source": "espn"
+     }
+    ],
+    "sport": "NCAAB",
+    "ticket": "single"
+   }
+  },
+  {
+   "n": 1015,
+   "league": "NCAAB",
+   "type": "Over/Under",
+   "matchup": "Saint Louis Billikens @ Grand Canyon Antelopes",
+   "pick": "Under 166.5",
+   "odds": -110,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-24T18:30:00",
+   "timed": true,
+   "ticket": "single",
+   "espn": {
+    "legs": [
+     {
+      "kind": "total",
+      "side": null,
+      "ou": "U",
+      "line": 166.5,
+      "label": "U 166.5",
+      "path": "basketball/mens-college-basketball",
+      "event": "401911253",
+      "date": "20261124",
+      "snapshot": {
+       "source": "espn",
+       "state": "in",
+       "detail": "18:58 - 1st",
+       "start": "2026-11-25T04:00Z",
+       "period": 1,
+       "clock": "18:58",
+       "teams": [
+        {
+         "name": "Saint Louis Billikens",
+         "short": "Billikens",
+         "abbr": "SLU",
+         "score": 0,
+         "ha": "away",
+         "winner": null,
+         "linescores": [
+          0
+         ]
+        },
+        {
+         "name": "Grand Canyon Lopes",
+         "short": "Lopes",
+         "abbr": "GCU",
+         "score": 3,
          "ha": "home",
          "winner": null,
          "linescores": [
-          0,
           0
          ]
         }
@@ -1456,19 +1468,21 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "6:03 - 1st",
+       "detail": "End of 3rd",
        "start": "2026-11-25T01:00Z",
-       "period": 1,
-       "clock": "6:03",
+       "period": 3,
+       "clock": "0.1",
        "teams": [
         {
          "name": "Boston Celtics",
          "short": "Celtics",
          "abbr": "BOS",
-         "score": 18,
+         "score": 104,
          "ha": "away",
          "winner": null,
          "linescores": [
+          0,
+          0,
           0
          ]
         },
@@ -1476,10 +1490,12 @@
          "name": "Washington Wizards",
          "short": "Wizards",
          "abbr": "WSH",
-         "score": 9,
+         "score": 89,
          "ha": "home",
          "winner": null,
          "linescores": [
+          0,
+          0,
           0
          ]
         }
@@ -1520,19 +1536,21 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "6:03 - 1st",
+       "detail": "End of 3rd",
        "start": "2026-11-25T01:00Z",
-       "period": 1,
-       "clock": "6:03",
+       "period": 3,
+       "clock": "0.1",
        "teams": [
         {
          "name": "Boston Celtics",
          "short": "Celtics",
          "abbr": "BOS",
-         "score": 18,
+         "score": 104,
          "ha": "away",
          "winner": null,
          "linescores": [
+          0,
+          0,
           0
          ]
         },
@@ -1540,10 +1558,12 @@
          "name": "Washington Wizards",
          "short": "Wizards",
          "abbr": "WSH",
-         "score": 9,
+         "score": 89,
          "ha": "home",
          "winner": null,
          "linescores": [
+          0,
+          0,
           0
          ]
         }
@@ -1584,19 +1604,21 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "6:03 - 1st",
+       "detail": "End of 3rd",
        "start": "2026-11-25T01:00Z",
-       "period": 1,
-       "clock": "6:03",
+       "period": 3,
+       "clock": "0.1",
        "teams": [
         {
          "name": "Boston Celtics",
          "short": "Celtics",
          "abbr": "BOS",
-         "score": 18,
+         "score": 104,
          "ha": "away",
          "winner": null,
          "linescores": [
+          0,
+          0,
           0
          ]
         },
@@ -1604,10 +1626,12 @@
          "name": "Washington Wizards",
          "short": "Wizards",
          "abbr": "WSH",
-         "score": 9,
+         "score": 89,
          "ha": "home",
          "winner": null,
          "linescores": [
+          0,
+          0,
           0
          ]
         }
@@ -1645,20 +1669,21 @@
       "date": "20261124",
       "snapshot": {
        "source": "espn",
-       "state": "in",
-       "detail": "7:34 - 2nd",
+       "state": "post",
+       "detail": "Final/OT",
        "start": "2026-11-25T00:00Z",
-       "period": 2,
-       "clock": "7:34",
+       "period": null,
+       "clock": null,
        "teams": [
         {
          "name": "Tarleton State Texans",
          "short": "Texans",
          "abbr": "TAR",
-         "score": 62,
+         "score": 87,
          "ha": "away",
-         "winner": null,
+         "winner": false,
          "linescores": [
+          0,
           0,
           0
          ]
@@ -1667,10 +1692,11 @@
          "name": "Weber State Wildcats",
          "short": "Wildcats",
          "abbr": "WEB",
-         "score": 64,
+         "score": 89,
          "ha": "home",
-         "winner": null,
+         "winner": true,
          "linescores": [
+          0,
           0,
           0
          ]
