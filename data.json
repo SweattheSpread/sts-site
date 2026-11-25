@@ -1,5 +1,5 @@
 {
- "updated": "Nov 24, 2026, 5:00 PM PT",
+ "updated": "Nov 24, 2026, 5:16 PM PT",
  "record": {
   "w": 269,
   "l": 265,
@@ -153,10 +153,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "10:34 - 2nd",
+       "detail": "4:17 - 2nd",
        "start": "2026-11-25T00:00Z",
        "period": 2,
-       "clock": "10:34",
+       "clock": "4:17",
        "teams": [
         {
          "name": "Miami (OH) RedHawks",
@@ -188,183 +188,6 @@
      }
     ],
     "sport": "NCAAF",
-    "ticket": "single"
-   }
-  },
-  {
-   "n": 1016,
-   "league": "NBA",
-   "type": "Player Prop",
-   "matchup": "Boston Celtics @ Washington Wizards",
-   "pick": "Trae Young Over 2.5 Rebounds +140 (BetMGM; Caesars +128)",
-   "odds": 140,
-   "units": 1.0,
-   "gap": null,
-   "start": "2026-11-24T17:10:00",
-   "timed": true,
-   "ticket": "single",
-   "espn": {
-    "legs": [
-     {
-      "kind": "prop",
-      "player": "Trae Young",
-      "ou": "O",
-      "line": 2.5,
-      "stat": "rebounds +140",
-      "label": "Trae Young O 2.5 rebounds +140",
-      "path": "basketball/nba",
-      "event": "401909315",
-      "date": "20261124",
-      "snapshot": {
-       "source": "espn",
-       "state": "pre",
-       "detail": "11/24 - 8:00 PM EST",
-       "start": "2026-11-25T01:00Z",
-       "period": null,
-       "clock": null,
-       "teams": [
-        {
-         "name": "Boston Celtics",
-         "short": "Celtics",
-         "abbr": "BOS",
-         "score": 0,
-         "ha": "away",
-         "winner": null,
-         "linescores": []
-        },
-        {
-         "name": "Washington Wizards",
-         "short": "Wizards",
-         "abbr": "WSH",
-         "score": 0,
-         "ha": "home",
-         "winner": null,
-         "linescores": []
-        }
-       ]
-      },
-      "source": "espn"
-     }
-    ],
-    "sport": "NBA",
-    "ticket": "single"
-   }
-  },
-  {
-   "n": 1017,
-   "league": "NBA",
-   "type": "Player Prop",
-   "matchup": "Boston Celtics @ Washington Wizards",
-   "pick": "AJ Dybantsa Over 6.5 Rebounds +110 (Circa; BetMGM -105, Caesars -112)",
-   "odds": 110,
-   "units": 1.0,
-   "gap": null,
-   "start": "2026-11-24T17:10:00",
-   "timed": true,
-   "ticket": "single",
-   "espn": {
-    "legs": [
-     {
-      "kind": "prop",
-      "player": "AJ Dybantsa",
-      "ou": "O",
-      "line": 6.5,
-      "stat": "rebounds +110",
-      "label": "AJ Dybantsa O 6.5 rebounds +110",
-      "path": "basketball/nba",
-      "event": "401909315",
-      "date": "20261124",
-      "snapshot": {
-       "source": "espn",
-       "state": "pre",
-       "detail": "11/24 - 8:00 PM EST",
-       "start": "2026-11-25T01:00Z",
-       "period": null,
-       "clock": null,
-       "teams": [
-        {
-         "name": "Boston Celtics",
-         "short": "Celtics",
-         "abbr": "BOS",
-         "score": 0,
-         "ha": "away",
-         "winner": null,
-         "linescores": []
-        },
-        {
-         "name": "Washington Wizards",
-         "short": "Wizards",
-         "abbr": "WSH",
-         "score": 0,
-         "ha": "home",
-         "winner": null,
-         "linescores": []
-        }
-       ]
-      },
-      "source": "espn"
-     }
-    ],
-    "sport": "NBA",
-    "ticket": "single"
-   }
-  },
-  {
-   "n": 1020,
-   "league": "NBA",
-   "type": "Player Prop",
-   "matchup": "Boston Celtics @ Washington Wizards",
-   "pick": "Paul George Over 18.5 Points -115 (BetMGM; Circa -130)",
-   "odds": -115,
-   "units": 1.0,
-   "gap": null,
-   "start": "2026-11-24T17:10:00",
-   "timed": true,
-   "ticket": "single",
-   "espn": {
-    "legs": [
-     {
-      "kind": "prop",
-      "player": "Paul George",
-      "ou": "O",
-      "line": 18.5,
-      "stat": "points -115",
-      "label": "Paul George O 18.5 points -115",
-      "path": "basketball/nba",
-      "event": "401909315",
-      "date": "20261124",
-      "snapshot": {
-       "source": "espn",
-       "state": "pre",
-       "detail": "11/24 - 8:00 PM EST",
-       "start": "2026-11-25T01:00Z",
-       "period": null,
-       "clock": null,
-       "teams": [
-        {
-         "name": "Boston Celtics",
-         "short": "Celtics",
-         "abbr": "BOS",
-         "score": 0,
-         "ha": "away",
-         "winner": null,
-         "linescores": []
-        },
-        {
-         "name": "Washington Wizards",
-         "short": "Wizards",
-         "abbr": "WSH",
-         "score": 0,
-         "ha": "home",
-         "winner": null,
-         "linescores": []
-        }
-       ]
-      },
-      "source": "espn"
-     }
-    ],
-    "sport": "NBA",
     "ticket": "single"
    }
   },
@@ -1376,19 +1199,19 @@
       "date": "20261124",
       "snapshot": {
        "source": "espn",
-       "state": "in",
-       "detail": "0:43 - 2nd",
+       "state": "post",
+       "detail": "Final",
        "start": "2026-11-24T23:00Z",
-       "period": 2,
-       "clock": "0:43",
+       "period": null,
+       "clock": null,
        "teams": [
         {
          "name": "Queens University Royals",
          "short": "Royals",
          "abbr": "QUC",
-         "score": 74,
+         "score": 77,
          "ha": "away",
-         "winner": null,
+         "winner": false,
          "linescores": [
           0,
           0
@@ -1398,9 +1221,9 @@
          "name": "Wofford Terriers",
          "short": "Terriers",
          "abbr": "WOF",
-         "score": 85,
+         "score": 86,
          "ha": "home",
-         "winner": null,
+         "winner": true,
          "linescores": [
           0,
           0
@@ -1440,16 +1263,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "3:21 - 1st",
+       "detail": "Halftime",
        "start": "2026-11-25T00:00Z",
        "period": 1,
-       "clock": "3:21",
+       "clock": "0:00",
        "teams": [
         {
          "name": "Santa Clara Broncos",
          "short": "Broncos",
          "abbr": "SCU",
-         "score": 26,
+         "score": 35,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -1460,7 +1283,7 @@
          "name": "Nevada Wolf Pack",
          "short": "Wolf Pack",
          "abbr": "NEV",
-         "score": 38,
+         "score": 41,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -1502,19 +1325,20 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "Halftime",
+       "detail": "13:25 - 2nd",
        "start": "2026-11-25T00:00Z",
-       "period": 1,
-       "clock": "0:00",
+       "period": 2,
+       "clock": "13:25",
        "teams": [
         {
          "name": "Hampton Pirates",
          "short": "Pirates",
          "abbr": "HAMP",
-         "score": 30,
+         "score": 42,
          "ha": "away",
          "winner": null,
          "linescores": [
+          0,
           0
          ]
         },
@@ -1522,10 +1346,11 @@
          "name": "Old Dominion Monarchs",
          "short": "Monarchs",
          "abbr": "ODU",
-         "score": 40,
+         "score": 46,
          "ha": "home",
          "winner": null,
          "linescores": [
+          0,
           0
          ]
         }
@@ -1564,19 +1389,20 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "Halftime",
+       "detail": "15:31 - 2nd",
        "start": "2026-11-25T00:00Z",
-       "period": 1,
-       "clock": "0:00",
+       "period": 2,
+       "clock": "15:31",
        "teams": [
         {
          "name": "Rider Broncs",
          "short": "Broncs",
          "abbr": "RID",
-         "score": 23,
+         "score": 28,
          "ha": "away",
          "winner": null,
          "linescores": [
+          0,
           0
          ]
         },
@@ -1584,10 +1410,11 @@
          "name": "Loyola Maryland Greyhounds",
          "short": "Greyhounds",
          "abbr": "L-MD",
-         "score": 35,
+         "score": 38,
          "ha": "home",
          "winner": null,
          "linescores": [
+          0,
           0
          ]
         }
@@ -1597,6 +1424,198 @@
      }
     ],
     "sport": "NCAAB",
+    "ticket": "single"
+   }
+  },
+  {
+   "n": 1016,
+   "league": "NBA",
+   "type": "Player Prop",
+   "matchup": "Boston Celtics @ Washington Wizards",
+   "pick": "Trae Young Over 2.5 Rebounds +140 (BetMGM; Caesars +128)",
+   "odds": 140,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-24T17:10:00",
+   "timed": true,
+   "ticket": "single",
+   "espn": {
+    "legs": [
+     {
+      "kind": "prop",
+      "player": "Trae Young",
+      "ou": "O",
+      "line": 2.5,
+      "stat": "rebounds +140",
+      "label": "Trae Young O 2.5 rebounds +140",
+      "path": "basketball/nba",
+      "event": "401909315",
+      "date": "20261124",
+      "snapshot": {
+       "source": "espn",
+       "state": "in",
+       "detail": "10:04 - 1st",
+       "start": "2026-11-25T01:00Z",
+       "period": 1,
+       "clock": "10:04",
+       "teams": [
+        {
+         "name": "Boston Celtics",
+         "short": "Celtics",
+         "abbr": "BOS",
+         "score": 9,
+         "ha": "away",
+         "winner": null,
+         "linescores": [
+          0
+         ]
+        },
+        {
+         "name": "Washington Wizards",
+         "short": "Wizards",
+         "abbr": "WSH",
+         "score": 2,
+         "ha": "home",
+         "winner": null,
+         "linescores": [
+          0
+         ]
+        }
+       ],
+       "stat": null
+      },
+      "source": "espn"
+     }
+    ],
+    "sport": "NBA",
+    "ticket": "single"
+   }
+  },
+  {
+   "n": 1017,
+   "league": "NBA",
+   "type": "Player Prop",
+   "matchup": "Boston Celtics @ Washington Wizards",
+   "pick": "AJ Dybantsa Over 6.5 Rebounds +110 (Circa; BetMGM -105, Caesars -112)",
+   "odds": 110,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-24T17:10:00",
+   "timed": true,
+   "ticket": "single",
+   "espn": {
+    "legs": [
+     {
+      "kind": "prop",
+      "player": "AJ Dybantsa",
+      "ou": "O",
+      "line": 6.5,
+      "stat": "rebounds +110",
+      "label": "AJ Dybantsa O 6.5 rebounds +110",
+      "path": "basketball/nba",
+      "event": "401909315",
+      "date": "20261124",
+      "snapshot": {
+       "source": "espn",
+       "state": "in",
+       "detail": "10:04 - 1st",
+       "start": "2026-11-25T01:00Z",
+       "period": 1,
+       "clock": "10:04",
+       "teams": [
+        {
+         "name": "Boston Celtics",
+         "short": "Celtics",
+         "abbr": "BOS",
+         "score": 9,
+         "ha": "away",
+         "winner": null,
+         "linescores": [
+          0
+         ]
+        },
+        {
+         "name": "Washington Wizards",
+         "short": "Wizards",
+         "abbr": "WSH",
+         "score": 2,
+         "ha": "home",
+         "winner": null,
+         "linescores": [
+          0
+         ]
+        }
+       ],
+       "stat": null
+      },
+      "source": "espn"
+     }
+    ],
+    "sport": "NBA",
+    "ticket": "single"
+   }
+  },
+  {
+   "n": 1020,
+   "league": "NBA",
+   "type": "Player Prop",
+   "matchup": "Boston Celtics @ Washington Wizards",
+   "pick": "Paul George Over 18.5 Points -115 (BetMGM; Circa -130)",
+   "odds": -115,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-24T17:10:00",
+   "timed": true,
+   "ticket": "single",
+   "espn": {
+    "legs": [
+     {
+      "kind": "prop",
+      "player": "Paul George",
+      "ou": "O",
+      "line": 18.5,
+      "stat": "points -115",
+      "label": "Paul George O 18.5 points -115",
+      "path": "basketball/nba",
+      "event": "401909315",
+      "date": "20261124",
+      "snapshot": {
+       "source": "espn",
+       "state": "in",
+       "detail": "10:04 - 1st",
+       "start": "2026-11-25T01:00Z",
+       "period": 1,
+       "clock": "10:04",
+       "teams": [
+        {
+         "name": "Boston Celtics",
+         "short": "Celtics",
+         "abbr": "BOS",
+         "score": 9,
+         "ha": "away",
+         "winner": null,
+         "linescores": [
+          0
+         ]
+        },
+        {
+         "name": "Washington Wizards",
+         "short": "Wizards",
+         "abbr": "WSH",
+         "score": 2,
+         "ha": "home",
+         "winner": null,
+         "linescores": [
+          0
+         ]
+        }
+       ],
+       "stat": null
+      },
+      "source": "espn"
+     }
+    ],
+    "sport": "NBA",
     "ticket": "single"
    }
   },
@@ -1625,19 +1644,20 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "Halftime",
+       "detail": "12:24 - 2nd",
        "start": "2026-11-25T00:00Z",
-       "period": 1,
-       "clock": "0:00",
+       "period": 2,
+       "clock": "12:24",
        "teams": [
         {
          "name": "Tarleton State Texans",
          "short": "Texans",
          "abbr": "TAR",
-         "score": 34,
+         "score": 53,
          "ha": "away",
          "winner": null,
          "linescores": [
+          0,
           0
          ]
         },
@@ -1645,10 +1665,11 @@
          "name": "Weber State Wildcats",
          "short": "Wildcats",
          "abbr": "WEB",
-         "score": 44,
+         "score": 59,
          "ha": "home",
          "winner": null,
          "linescores": [
+          0,
           0
          ]
         }
