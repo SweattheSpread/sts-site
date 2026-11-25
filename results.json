@@ -1,5 +1,5 @@
 {
- "updated": "Nov 24, 2026, 4:29 PM PT",
+ "updated": "Nov 24, 2026, 4:32 PM PT",
  "record": {
   "w": 269,
   "l": 265,
@@ -11,7 +11,7 @@
   "first": "2026-10-12",
   "last": "2026-11-23"
  },
- "pending": 28,
+ "pending": 27,
  "plays": [
   {
    "n": 334,
@@ -8684,22 +8684,6 @@
    "result": "W",
    "pl": 1.25,
    "pending": false
-  },
-  {
-   "n": 1003,
-   "date": "2026-11-24",
-   "day": "2026-11-24",
-   "league": "Tennis",
-   "market": "ml",
-   "market_label": "Moneyline",
-   "ticket": "single",
-   "matchup": "Monastir 2 Challenger: Branko Djuric vs Federico Iannaccone",
-   "pick": "Federico Iannaccone ML",
-   "odds": 112,
-   "units": 1.5,
-   "result": null,
-   "pl": null,
-   "pending": true
   },
   {
    "n": 1004,

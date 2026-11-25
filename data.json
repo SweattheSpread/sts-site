@@ -1,5 +1,5 @@
 {
- "updated": "Nov 24, 2026, 4:29 PM PT",
+ "updated": "Nov 24, 2026, 4:32 PM PT",
  "record": {
   "w": 269,
   "l": 265,
@@ -11,7 +11,7 @@
   "first": "2026-10-12",
   "last": "2026-11-23"
  },
- "pending": 26,
+ "pending": 25,
  "latest": [
   {
    "n": 1002,
@@ -1224,60 +1224,6 @@
  ],
  "awaiting": [
   {
-   "n": 1003,
-   "league": "Tennis",
-   "type": "Moneyline",
-   "matchup": "Monastir 2 Challenger: Branko Djuric vs Federico Iannaccone",
-   "pick": "Federico Iannaccone ML",
-   "odds": 112,
-   "units": 1.5,
-   "gap": null,
-   "start": "2026-11-24T04:00:00",
-   "timed": true,
-   "ticket": "single",
-   "espn": {
-    "legs": [
-     {
-      "kind": "ml",
-      "side": "Federico Iannaccone",
-      "label": "Federico Iannaccone ML",
-      "snapshot": {
-       "source": "tennis-explorer",
-       "path": "tennis/explorer",
-       "event": "3387794",
-       "state": "post",
-       "detail": "Final \u00b7 2-0 sets",
-       "tennis": [
-        {
-         "name": "Djuric B.",
-         "winner": true,
-         "sets": [
-          6,
-          6
-         ]
-        },
-        {
-         "name": "Iannaccone F.",
-         "winner": false,
-         "sets": [
-          3,
-          4
-         ]
-        }
-       ],
-       "tour": "Monastir 2 challenger"
-      },
-      "path": "tennis/explorer",
-      "event": "3387794",
-      "source": "tennis-explorer",
-      "date": "20261124"
-     }
-    ],
-    "sport": "Tennis",
-    "ticket": "single"
-   }
-  },
-  {
    "n": 1004,
    "league": "NCAAB",
    "type": "Spread",
@@ -1367,16 +1313,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "9:35 - 2nd",
+       "detail": "8:56 - 2nd",
        "start": "2026-11-24T23:00Z",
        "period": 2,
-       "clock": "9:35",
+       "clock": "8:56",
        "teams": [
         {
          "name": "Queens University Royals",
          "short": "Royals",
          "abbr": "QUC",
-         "score": 53,
+         "score": 55,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -1430,16 +1376,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "13:39 - 1st",
+       "detail": "12:41 - 1st",
        "start": "2026-11-25T00:00Z",
        "period": 1,
-       "clock": "13:39",
+       "clock": "12:41",
        "teams": [
         {
          "name": "Santa Clara Broncos",
          "short": "Broncos",
          "abbr": "SCU",
-         "score": 5,
+         "score": 7,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -1450,7 +1396,7 @@
          "name": "Nevada Wolf Pack",
          "short": "Wolf Pack",
          "abbr": "NEV",
-         "score": 9,
+         "score": 12,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -1501,7 +1447,7 @@
          "name": "Hampton Pirates",
          "short": "Pirates",
          "abbr": "HAMP",
-         "score": 18,
+         "score": 20,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -1554,10 +1500,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "8:34 - 1st",
+       "detail": "7:57 - 1st",
        "start": "2026-11-25T00:00Z",
        "period": 1,
-       "clock": "8:34",
+       "clock": "7:57",
        "teams": [
         {
          "name": "Rider Broncs",
@@ -1615,16 +1561,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "6:12 - 1st",
+       "detail": "5:29 - 1st",
        "start": "2026-11-25T00:00Z",
        "period": 1,
-       "clock": "6:12",
+       "clock": "5:29",
        "teams": [
         {
          "name": "Tarleton State Texans",
          "short": "Texans",
          "abbr": "TAR",
-         "score": 23,
+         "score": 24,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -1635,7 +1581,7 @@
          "name": "Weber State Wildcats",
          "short": "Wildcats",
          "abbr": "WEB",
-         "score": 31,
+         "score": 36,
          "ha": "home",
          "winner": null,
          "linescores": [
