@@ -1,5 +1,5 @@
 {
- "updated": "Nov 24, 2026, 4:43 PM PT",
+ "updated": "Nov 24, 2026, 4:45 PM PT",
  "record": {
   "w": 269,
   "l": 265,
@@ -153,10 +153,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "0:20 - 1st",
+       "detail": "End of 1st",
        "start": "2026-11-25T00:00Z",
        "period": 1,
-       "clock": "0:20",
+       "clock": "0:00",
        "teams": [
         {
          "name": "Miami (OH) RedHawks",
@@ -1375,16 +1375,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "5:41 - 2nd",
+       "detail": "4:59 - 2nd",
        "start": "2026-11-24T23:00Z",
        "period": 2,
-       "clock": "5:41",
+       "clock": "4:59",
        "teams": [
         {
          "name": "Queens University Royals",
          "short": "Royals",
          "abbr": "QUC",
-         "score": 62,
+         "score": 65,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -1438,16 +1438,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "9:10 - 1st",
+       "detail": "7:44 - 1st",
        "start": "2026-11-25T00:00Z",
        "period": 1,
-       "clock": "9:10",
+       "clock": "7:44",
        "teams": [
         {
          "name": "Santa Clara Broncos",
          "short": "Broncos",
          "abbr": "SCU",
-         "score": 15,
+         "score": 18,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -1458,7 +1458,7 @@
          "name": "Nevada Wolf Pack",
          "short": "Wolf Pack",
          "abbr": "NEV",
-         "score": 18,
+         "score": 22,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -1500,16 +1500,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "1:31 - 1st",
+       "detail": "0:27 - 1st",
        "start": "2026-11-25T00:00Z",
        "period": 1,
-       "clock": "1:31",
+       "clock": "0:27",
        "teams": [
         {
          "name": "Hampton Pirates",
          "short": "Pirates",
          "abbr": "HAMP",
-         "score": 29,
+         "score": 30,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -1520,7 +1520,7 @@
          "name": "Old Dominion Monarchs",
          "short": "Monarchs",
          "abbr": "ODU",
-         "score": 38,
+         "score": 40,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -1562,10 +1562,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "3:36 - 1st",
+       "detail": "3:30 - 1st",
        "start": "2026-11-25T00:00Z",
        "period": 1,
-       "clock": "3:36",
+       "clock": "3:30",
        "teams": [
         {
          "name": "Rider Broncs",
@@ -1632,7 +1632,7 @@
          "name": "Tarleton State Texans",
          "short": "Texans",
          "abbr": "TAR",
-         "score": 32,
+         "score": 34,
          "ha": "away",
          "winner": null,
          "linescores": [
