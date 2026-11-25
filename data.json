@@ -1,5 +1,5 @@
 {
- "updated": "Nov 24, 2026, 4:22 PM PT",
+ "updated": "Nov 24, 2026, 4:24 PM PT",
  "record": {
   "w": 269,
   "l": 265,
@@ -1430,10 +1430,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "16:33 - 1st",
+       "detail": "15:19 - 1st",
        "start": "2026-11-25T00:00Z",
        "period": 1,
-       "clock": "16:33",
+       "clock": "15:19",
        "teams": [
         {
          "name": "Santa Clara Broncos",
@@ -1492,16 +1492,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "11:47 - 1st",
+       "detail": "10:47 - 1st",
        "start": "2026-11-25T00:00Z",
        "period": 1,
-       "clock": "11:47",
+       "clock": "10:47",
        "teams": [
         {
          "name": "Hampton Pirates",
          "short": "Pirates",
          "abbr": "HAMP",
-         "score": 9,
+         "score": 11,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -1554,16 +1554,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "12:10 - 1st",
+       "detail": "11:17 - 1st",
        "start": "2026-11-25T00:00Z",
        "period": 1,
-       "clock": "12:10",
+       "clock": "11:17",
        "teams": [
         {
          "name": "Rider Broncs",
          "short": "Broncs",
          "abbr": "RID",
-         "score": 9,
+         "score": 11,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -1574,7 +1574,7 @@
          "name": "Loyola Maryland Greyhounds",
          "short": "Greyhounds",
          "abbr": "L-MD",
-         "score": 13,
+         "score": 17,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -1615,16 +1615,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "9:15 - 1st",
+       "detail": "7:45 - 1st",
        "start": "2026-11-25T00:00Z",
        "period": 1,
-       "clock": "9:15",
+       "clock": "7:45",
        "teams": [
         {
          "name": "Tarleton State Texans",
          "short": "Texans",
          "abbr": "TAR",
-         "score": 19,
+         "score": 21,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -1635,7 +1635,7 @@
          "name": "Weber State Wildcats",
          "short": "Wildcats",
          "abbr": "WEB",
-         "score": 27,
+         "score": 29,
          "ha": "home",
          "winner": null,
          "linescores": [
