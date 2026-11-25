@@ -1,5 +1,5 @@
 {
- "updated": "Nov 25, 2026, 7:49 AM PT",
+ "updated": "Nov 25, 2026, 9:09 AM PT",
  "record": {
   "w": 273,
   "l": 274,
@@ -11,7 +11,7 @@
   "first": "2026-10-12",
   "last": "2026-11-24"
  },
- "pending": 28,
+ "pending": 30,
  "latest": [
   {
    "n": 1022,
@@ -585,6 +585,125 @@
         }
        ],
        "nhl_id": 2026020396
+      },
+      "source": "nhl"
+     }
+    ],
+    "sport": "NHL",
+    "ticket": "single"
+   }
+  },
+  {
+   "n": 1037,
+   "league": "NBA",
+   "type": "Player Prop",
+   "matchup": "Phoenix Suns @ Houston Rockets",
+   "pick": "Miles Bridges Over 1.5 3-pointers made +105 (BetMGM; Caesars -118)",
+   "odds": 105,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-25T17:40:00",
+   "timed": true,
+   "ticket": "single",
+   "espn": {
+    "legs": [
+     {
+      "kind": "prop",
+      "player": "Miles Bridges",
+      "ou": "O",
+      "line": 1.5,
+      "stat": "3-pointers made +105",
+      "label": "Miles Bridges O 1.5 3-pointers made +105",
+      "path": "basketball/nba",
+      "event": "401909323",
+      "date": "20261125",
+      "snapshot": {
+       "source": "espn",
+       "state": "pre",
+       "detail": "11/25 - 8:30 PM EST",
+       "start": "2026-11-26T01:30Z",
+       "period": null,
+       "clock": null,
+       "teams": [
+        {
+         "name": "Phoenix Suns",
+         "short": "Suns",
+         "abbr": "PHX",
+         "score": 0,
+         "ha": "away",
+         "winner": null,
+         "linescores": []
+        },
+        {
+         "name": "Houston Rockets",
+         "short": "Rockets",
+         "abbr": "HOU",
+         "score": 0,
+         "ha": "home",
+         "winner": null,
+         "linescores": []
+        }
+       ]
+      },
+      "source": "espn"
+     }
+    ],
+    "sport": "NBA",
+    "ticket": "single"
+   }
+  },
+  {
+   "n": 1038,
+   "league": "NHL",
+   "type": "Player Prop",
+   "matchup": "San Jose Sharks @ Anaheim Ducks",
+   "pick": "Ivar Stenberg Under 1.5 shots on goal +115 (BetMGM)",
+   "odds": 115,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-25T19:10:00",
+   "timed": true,
+   "ticket": "single",
+   "espn": {
+    "legs": [
+     {
+      "kind": "prop",
+      "player": "Ivar Stenberg",
+      "ou": "U",
+      "line": 1.5,
+      "stat": "shots on goal +115",
+      "label": "Ivar Stenberg U 1.5 shots on goal +115",
+      "path": "hockey/nhl",
+      "event": "401892793",
+      "date": "20261125",
+      "snapshot": {
+       "source": "nhl",
+       "state": "pre",
+       "detail": "Scheduled",
+       "start": "2026-11-26T03:00:00Z",
+       "period": null,
+       "clock": null,
+       "teams": [
+        {
+         "name": "Sharks",
+         "short": "SJS",
+         "abbr": "SJS",
+         "score": 0,
+         "ha": "away",
+         "winner": null,
+         "linescores": []
+        },
+        {
+         "name": "Ducks",
+         "short": "ANA",
+         "abbr": "ANA",
+         "score": 0,
+         "ha": "home",
+         "winner": null,
+         "linescores": []
+        }
+       ],
+       "nhl_id": 2026020398
       },
       "source": "nhl"
      }
