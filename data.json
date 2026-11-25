@@ -1,5 +1,5 @@
 {
- "updated": "Nov 24, 2026, 7:05 PM PT",
+ "updated": "Nov 24, 2026, 7:07 PM PT",
  "record": {
   "w": 269,
   "l": 265,
@@ -153,10 +153,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "7:51 - 4th",
+       "detail": "6:50 - 4th",
        "start": "2026-11-25T00:00Z",
        "period": 4,
-       "clock": "7:51",
+       "clock": "6:50",
        "teams": [
         {
          "name": "Miami (OH) RedHawks",
@@ -1468,16 +1468,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "10:11 - 4th",
+       "detail": "9:04 - 4th",
        "start": "2026-11-25T01:00Z",
        "period": 4,
-       "clock": "10:11",
+       "clock": "9:04",
        "teams": [
         {
          "name": "Boston Celtics",
          "short": "Celtics",
          "abbr": "BOS",
-         "score": 108,
+         "score": 109,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -1491,7 +1491,7 @@
          "name": "Washington Wizards",
          "short": "Wizards",
          "abbr": "WSH",
-         "score": 92,
+         "score": 94,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -1538,16 +1538,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "10:11 - 4th",
+       "detail": "9:04 - 4th",
        "start": "2026-11-25T01:00Z",
        "period": 4,
-       "clock": "10:11",
+       "clock": "9:04",
        "teams": [
         {
          "name": "Boston Celtics",
          "short": "Celtics",
          "abbr": "BOS",
-         "score": 108,
+         "score": 109,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -1561,7 +1561,7 @@
          "name": "Washington Wizards",
          "short": "Wizards",
          "abbr": "WSH",
-         "score": 92,
+         "score": 94,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -1608,16 +1608,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "10:11 - 4th",
+       "detail": "9:04 - 4th",
        "start": "2026-11-25T01:00Z",
        "period": 4,
-       "clock": "10:11",
+       "clock": "9:04",
        "teams": [
         {
          "name": "Boston Celtics",
          "short": "Celtics",
          "abbr": "BOS",
-         "score": 108,
+         "score": 109,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -1631,7 +1631,7 @@
          "name": "Washington Wizards",
          "short": "Wizards",
          "abbr": "WSH",
-         "score": 92,
+         "score": 94,
          "ha": "home",
          "winner": null,
          "linescores": [
