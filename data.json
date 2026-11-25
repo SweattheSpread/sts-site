@@ -1,5 +1,5 @@
 {
- "updated": "Nov 25, 2026, 7:47 AM PT",
+ "updated": "Nov 25, 2026, 7:49 AM PT",
  "record": {
   "w": 273,
   "l": 274,
@@ -11,7 +11,7 @@
   "first": "2026-10-12",
   "last": "2026-11-24"
  },
- "pending": 21,
+ "pending": 28,
  "latest": [
   {
    "n": 1022,
@@ -533,6 +533,63 @@
      }
     ],
     "sport": "NFL",
+    "ticket": "single"
+   }
+  },
+  {
+   "n": 1036,
+   "league": "NHL",
+   "type": "Moneyline",
+   "matchup": "Utah Mammoth @ Minnesota Wild",
+   "pick": "Utah Mammoth ML",
+   "odds": 130,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-25T17:10:00",
+   "timed": true,
+   "ticket": "single",
+   "espn": {
+    "legs": [
+     {
+      "kind": "ml",
+      "side": "Utah Mammoth",
+      "label": "Utah Mammoth ML",
+      "path": "hockey/nhl",
+      "event": "401892791",
+      "date": "20261125",
+      "snapshot": {
+       "source": "nhl",
+       "state": "pre",
+       "detail": "Scheduled",
+       "start": "2026-11-26T01:00:00Z",
+       "period": null,
+       "clock": null,
+       "teams": [
+        {
+         "name": "Mammoth",
+         "short": "UTA",
+         "abbr": "UTA",
+         "score": 0,
+         "ha": "away",
+         "winner": null,
+         "linescores": []
+        },
+        {
+         "name": "Wild",
+         "short": "MIN",
+         "abbr": "MIN",
+         "score": 0,
+         "ha": "home",
+         "winner": null,
+         "linescores": []
+        }
+       ],
+       "nhl_id": 2026020396
+      },
+      "source": "nhl"
+     }
+    ],
+    "sport": "NHL",
     "ticket": "single"
    }
   },
@@ -1112,6 +1169,62 @@
    }
   },
   {
+   "n": 1032,
+   "league": "NFL",
+   "type": "Moneyline",
+   "matchup": "Denver Broncos @ Pittsburgh Steelers",
+   "pick": "Pittsburgh Steelers ML",
+   "odds": 168,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-27T12:00:00",
+   "timed": true,
+   "ticket": "single",
+   "espn": {
+    "legs": [
+     {
+      "kind": "ml",
+      "side": "Pittsburgh Steelers",
+      "label": "Pittsburgh Steelers ML",
+      "path": "football/nfl",
+      "event": "401873083",
+      "date": "20261127",
+      "snapshot": {
+       "source": "espn",
+       "state": "pre",
+       "detail": "11/27 - 3:00 PM EST",
+       "start": "2026-11-27T20:00Z",
+       "period": null,
+       "clock": null,
+       "teams": [
+        {
+         "name": "Denver Broncos",
+         "short": "Broncos",
+         "abbr": "DEN",
+         "score": 0,
+         "ha": "away",
+         "winner": null,
+         "linescores": []
+        },
+        {
+         "name": "Pittsburgh Steelers",
+         "short": "Steelers",
+         "abbr": "PIT",
+         "score": 0,
+         "ha": "home",
+         "winner": null,
+         "linescores": []
+        }
+       ]
+      },
+      "source": "espn"
+     }
+    ],
+    "sport": "NFL",
+    "ticket": "single"
+   }
+  },
+  {
    "n": 983,
    "league": "NFL",
    "type": "Spread",
@@ -1226,6 +1339,121 @@
    }
   },
   {
+   "n": 1031,
+   "league": "NFL",
+   "type": "Spread",
+   "matchup": "New Orleans Saints @ Cincinnati Bengals",
+   "pick": "Cincinnati Bengals -10",
+   "odds": -105,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-29T10:00:00",
+   "timed": true,
+   "ticket": "single",
+   "espn": {
+    "legs": [
+     {
+      "kind": "spread",
+      "side": "Cincinnati Bengals",
+      "line": -10.0,
+      "label": "Cincinnati Bengals -10",
+      "path": "football/nfl",
+      "event": "401873087",
+      "date": "20261129",
+      "snapshot": {
+       "source": "espn",
+       "state": "pre",
+       "detail": "11/29 - 1:00 PM EST",
+       "start": "2026-11-29T18:00Z",
+       "period": null,
+       "clock": null,
+       "teams": [
+        {
+         "name": "New Orleans Saints",
+         "short": "Saints",
+         "abbr": "NO",
+         "score": 0,
+         "ha": "away",
+         "winner": null,
+         "linescores": []
+        },
+        {
+         "name": "Cincinnati Bengals",
+         "short": "Bengals",
+         "abbr": "CIN",
+         "score": 0,
+         "ha": "home",
+         "winner": null,
+         "linescores": []
+        }
+       ]
+      },
+      "source": "espn"
+     }
+    ],
+    "sport": "NFL",
+    "ticket": "single"
+   }
+  },
+  {
+   "n": 1035,
+   "league": "NFL",
+   "type": "Over/Under",
+   "matchup": "New Orleans Saints @ Cincinnati Bengals",
+   "pick": "Over 50",
+   "odds": -110,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-29T10:00:00",
+   "timed": true,
+   "ticket": "single",
+   "espn": {
+    "legs": [
+     {
+      "kind": "total",
+      "side": null,
+      "ou": "O",
+      "line": 50.0,
+      "label": "O 50.0",
+      "path": "football/nfl",
+      "event": "401873087",
+      "date": "20261129",
+      "snapshot": {
+       "source": "espn",
+       "state": "pre",
+       "detail": "11/29 - 1:00 PM EST",
+       "start": "2026-11-29T18:00Z",
+       "period": null,
+       "clock": null,
+       "teams": [
+        {
+         "name": "New Orleans Saints",
+         "short": "Saints",
+         "abbr": "NO",
+         "score": 0,
+         "ha": "away",
+         "winner": null,
+         "linescores": []
+        },
+        {
+         "name": "Cincinnati Bengals",
+         "short": "Bengals",
+         "abbr": "CIN",
+         "score": 0,
+         "ha": "home",
+         "winner": null,
+         "linescores": []
+        }
+       ]
+      },
+      "source": "espn"
+     }
+    ],
+    "sport": "NFL",
+    "ticket": "single"
+   }
+  },
+  {
    "n": 905,
    "league": "NFL",
    "type": "Spread",
@@ -1268,6 +1496,177 @@
          "name": "Los Angeles Chargers",
          "short": "Chargers",
          "abbr": "LAC",
+         "score": 0,
+         "ha": "home",
+         "winner": null,
+         "linescores": []
+        }
+       ]
+      },
+      "source": "espn"
+     }
+    ],
+    "sport": "NFL",
+    "ticket": "single"
+   }
+  },
+  {
+   "n": 1033,
+   "league": "NFL",
+   "type": "Moneyline",
+   "matchup": "New England Patriots @ Los Angeles Chargers",
+   "pick": "New England Patriots ML",
+   "odds": -102,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-29T13:05:00",
+   "timed": true,
+   "ticket": "single",
+   "espn": {
+    "legs": [
+     {
+      "kind": "ml",
+      "side": "New England Patriots",
+      "label": "New England Patriots ML",
+      "path": "football/nfl",
+      "event": "401873093",
+      "date": "20261129",
+      "snapshot": {
+       "source": "espn",
+       "state": "pre",
+       "detail": "11/29 - 4:05 PM EST",
+       "start": "2026-11-29T21:05Z",
+       "period": null,
+       "clock": null,
+       "teams": [
+        {
+         "name": "New England Patriots",
+         "short": "Patriots",
+         "abbr": "NE",
+         "score": 0,
+         "ha": "away",
+         "winner": null,
+         "linescores": []
+        },
+        {
+         "name": "Los Angeles Chargers",
+         "short": "Chargers",
+         "abbr": "LAC",
+         "score": 0,
+         "ha": "home",
+         "winner": null,
+         "linescores": []
+        }
+       ]
+      },
+      "source": "espn"
+     }
+    ],
+    "sport": "NFL",
+    "ticket": "single"
+   }
+  },
+  {
+   "n": 1030,
+   "league": "NFL",
+   "type": "Over/Under",
+   "matchup": "Seattle Seahawks @ San Francisco 49ers",
+   "pick": "Over 45",
+   "odds": -108,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-29T13:25:00",
+   "timed": true,
+   "ticket": "single",
+   "espn": {
+    "legs": [
+     {
+      "kind": "total",
+      "side": null,
+      "ou": "O",
+      "line": 45.0,
+      "label": "O 45.0",
+      "path": "football/nfl",
+      "event": "401873091",
+      "date": "20261129",
+      "snapshot": {
+       "source": "espn",
+       "state": "pre",
+       "detail": "11/29 - 4:25 PM EST",
+       "start": "2026-11-29T21:25Z",
+       "period": null,
+       "clock": null,
+       "teams": [
+        {
+         "name": "Seattle Seahawks",
+         "short": "Seahawks",
+         "abbr": "SEA",
+         "score": 0,
+         "ha": "away",
+         "winner": null,
+         "linescores": []
+        },
+        {
+         "name": "San Francisco 49ers",
+         "short": "49ers",
+         "abbr": "SF",
+         "score": 0,
+         "ha": "home",
+         "winner": null,
+         "linescores": []
+        }
+       ]
+      },
+      "source": "espn"
+     }
+    ],
+    "sport": "NFL",
+    "ticket": "single"
+   }
+  },
+  {
+   "n": 1034,
+   "league": "NFL",
+   "type": "Spread",
+   "matchup": "Seattle Seahawks @ San Francisco 49ers",
+   "pick": "Seattle Seahawks +3",
+   "odds": -105,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-29T13:25:00",
+   "timed": true,
+   "ticket": "single",
+   "espn": {
+    "legs": [
+     {
+      "kind": "spread",
+      "side": "Seattle Seahawks",
+      "line": 3.0,
+      "label": "Seattle Seahawks +3",
+      "path": "football/nfl",
+      "event": "401873091",
+      "date": "20261129",
+      "snapshot": {
+       "source": "espn",
+       "state": "pre",
+       "detail": "11/29 - 4:25 PM EST",
+       "start": "2026-11-29T21:25Z",
+       "period": null,
+       "clock": null,
+       "teams": [
+        {
+         "name": "Seattle Seahawks",
+         "short": "Seahawks",
+         "abbr": "SEA",
+         "score": 0,
+         "ha": "away",
+         "winner": null,
+         "linescores": []
+        },
+        {
+         "name": "San Francisco 49ers",
+         "short": "49ers",
+         "abbr": "SF",
          "score": 0,
          "ha": "home",
          "winner": null,
