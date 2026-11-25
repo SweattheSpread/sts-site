@@ -1,5 +1,5 @@
 {
- "updated": "Nov 24, 2026, 7:00 PM PT",
+ "updated": "Nov 24, 2026, 7:02 PM PT",
  "record": {
   "w": 269,
   "l": 265,
@@ -176,7 +176,7 @@
          "name": "Western Michigan Broncos",
          "short": "Broncos",
          "abbr": "WMU",
-         "score": 22,
+         "score": 24,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -1405,16 +1405,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "18:58 - 1st",
+       "detail": "17:20 - 1st",
        "start": "2026-11-25T04:00Z",
        "period": 1,
-       "clock": "18:58",
+       "clock": "17:20",
        "teams": [
         {
          "name": "Saint Louis Billikens",
          "short": "Billikens",
          "abbr": "SLU",
-         "score": 0,
+         "score": 2,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -1468,19 +1468,20 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "End of 3rd",
+       "detail": "11:02 - 4th",
        "start": "2026-11-25T01:00Z",
-       "period": 3,
-       "clock": "0.1",
+       "period": 4,
+       "clock": "11:02",
        "teams": [
         {
          "name": "Boston Celtics",
          "short": "Celtics",
          "abbr": "BOS",
-         "score": 104,
+         "score": 106,
          "ha": "away",
          "winner": null,
          "linescores": [
+          0,
           0,
           0,
           0
@@ -1494,6 +1495,7 @@
          "ha": "home",
          "winner": null,
          "linescores": [
+          0,
           0,
           0,
           0
@@ -1536,19 +1538,20 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "End of 3rd",
+       "detail": "11:02 - 4th",
        "start": "2026-11-25T01:00Z",
-       "period": 3,
-       "clock": "0.1",
+       "period": 4,
+       "clock": "11:02",
        "teams": [
         {
          "name": "Boston Celtics",
          "short": "Celtics",
          "abbr": "BOS",
-         "score": 104,
+         "score": 106,
          "ha": "away",
          "winner": null,
          "linescores": [
+          0,
           0,
           0,
           0
@@ -1562,6 +1565,7 @@
          "ha": "home",
          "winner": null,
          "linescores": [
+          0,
           0,
           0,
           0
@@ -1604,19 +1608,20 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "End of 3rd",
+       "detail": "11:02 - 4th",
        "start": "2026-11-25T01:00Z",
-       "period": 3,
-       "clock": "0.1",
+       "period": 4,
+       "clock": "11:02",
        "teams": [
         {
          "name": "Boston Celtics",
          "short": "Celtics",
          "abbr": "BOS",
-         "score": 104,
+         "score": 106,
          "ha": "away",
          "winner": null,
          "linescores": [
+          0,
           0,
           0,
           0
@@ -1630,6 +1635,7 @@
          "ha": "home",
          "winner": null,
          "linescores": [
+          0,
           0,
           0,
           0
