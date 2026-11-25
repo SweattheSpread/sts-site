@@ -1,5 +1,5 @@
 {
- "updated": "Nov 25, 2026, 12:23 PM PT",
+ "updated": "Nov 25, 2026, 12:25 PM PT",
  "record": {
   "w": 273,
   "l": 274,
@@ -1942,10 +1942,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "17:41 - 1st",
+       "detail": "16:20 - 1st",
        "start": "2026-11-25T20:00Z",
        "period": 1,
-       "clock": "17:41",
+       "clock": "16:20",
        "teams": [
         {
          "name": "SE Louisiana Lions",
@@ -1962,7 +1962,7 @@
          "name": "North Dakota Fighting Hawks",
          "short": "Fighting Hawks",
          "abbr": "UND",
-         "score": 4,
+         "score": 5,
          "ha": "home",
          "winner": null,
          "linescores": [
