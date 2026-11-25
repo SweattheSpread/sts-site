@@ -1,5 +1,5 @@
 {
- "updated": "Nov 24, 2026, 3:49 PM PT",
+ "updated": "Nov 24, 2026, 4:02 PM PT",
  "record": {
   "w": 269,
   "l": 265,
@@ -127,236 +127,6 @@
   }
  ],
  "picks": [
-  {
-   "n": 1006,
-   "league": "NCAAB",
-   "type": "Spread",
-   "matchup": "Nevada Wolf Pack @ Santa Clara Broncos",
-   "pick": "Santa Clara +1.5",
-   "odds": -110,
-   "units": 1.0,
-   "gap": null,
-   "start": "2026-11-24T16:00:00",
-   "timed": true,
-   "ticket": "single",
-   "espn": {
-    "legs": [
-     {
-      "kind": "spread",
-      "side": "Santa Clara",
-      "line": 1.5,
-      "label": "Santa Clara +1.5",
-      "path": "basketball/mens-college-basketball",
-      "event": "401911458",
-      "date": "20261124",
-      "snapshot": {
-       "source": "espn",
-       "state": "pre",
-       "detail": "11/24 - 7:00 PM EST",
-       "start": "2026-11-25T00:00Z",
-       "period": null,
-       "clock": null,
-       "teams": [
-        {
-         "name": "Santa Clara Broncos",
-         "short": "Broncos",
-         "abbr": "SCU",
-         "score": 0,
-         "ha": "away",
-         "winner": null,
-         "linescores": []
-        },
-        {
-         "name": "Nevada Wolf Pack",
-         "short": "Wolf Pack",
-         "abbr": "NEV",
-         "score": 0,
-         "ha": "home",
-         "winner": null,
-         "linescores": []
-        }
-       ]
-      },
-      "source": "espn"
-     }
-    ],
-    "sport": "NCAAB",
-    "ticket": "single"
-   }
-  },
-  {
-   "n": 1013,
-   "league": "NCAAB",
-   "type": "Over/Under",
-   "matchup": "Hampton Pirates @ Old Dominion Monarchs",
-   "pick": "Over 129",
-   "odds": -110,
-   "units": 1.0,
-   "gap": null,
-   "start": "2026-11-24T16:00:00",
-   "timed": true,
-   "ticket": "single",
-   "espn": {
-    "legs": [
-     {
-      "kind": "total",
-      "side": null,
-      "ou": "O",
-      "line": 129.0,
-      "label": "O 129.0",
-      "path": "basketball/mens-college-basketball",
-      "event": "401926827",
-      "date": "20261124",
-      "snapshot": {
-       "source": "espn",
-       "state": "pre",
-       "detail": "11/24 - 7:00 PM EST",
-       "start": "2026-11-25T00:00Z",
-       "period": null,
-       "clock": null,
-       "teams": [
-        {
-         "name": "Hampton Pirates",
-         "short": "Pirates",
-         "abbr": "HAMP",
-         "score": 0,
-         "ha": "away",
-         "winner": null,
-         "linescores": []
-        },
-        {
-         "name": "Old Dominion Monarchs",
-         "short": "Monarchs",
-         "abbr": "ODU",
-         "score": 0,
-         "ha": "home",
-         "winner": null,
-         "linescores": []
-        }
-       ]
-      },
-      "source": "espn"
-     }
-    ],
-    "sport": "NCAAB",
-    "ticket": "single"
-   }
-  },
-  {
-   "n": 1014,
-   "league": "NCAAB",
-   "type": "Over/Under",
-   "matchup": "Rider Broncs @ Loyola (MD) Greyhounds",
-   "pick": "Over 138.5",
-   "odds": -110,
-   "units": 1.0,
-   "gap": null,
-   "start": "2026-11-24T16:00:00",
-   "timed": true,
-   "ticket": "single",
-   "espn": {
-    "legs": [
-     {
-      "kind": "total",
-      "side": null,
-      "ou": "O",
-      "line": 138.5,
-      "label": "O 138.5",
-      "path": "basketball/mens-college-basketball",
-      "event": "401921266",
-      "date": "20261124",
-      "snapshot": {
-       "source": "espn",
-       "state": "pre",
-       "detail": "11/24 - 7:00 PM EST",
-       "start": "2026-11-25T00:00Z",
-       "period": null,
-       "clock": null,
-       "teams": [
-        {
-         "name": "Rider Broncs",
-         "short": "Broncs",
-         "abbr": "RID",
-         "score": 0,
-         "ha": "away",
-         "winner": null,
-         "linescores": []
-        },
-        {
-         "name": "Loyola Maryland Greyhounds",
-         "short": "Greyhounds",
-         "abbr": "L-MD",
-         "score": 0,
-         "ha": "home",
-         "winner": null,
-         "linescores": []
-        }
-       ]
-      },
-      "source": "espn"
-     }
-    ],
-    "sport": "NCAAB",
-    "ticket": "single"
-   }
-  },
-  {
-   "n": 1021,
-   "league": "NCAAB",
-   "type": "Spread",
-   "matchup": "Tarleton State Texans @ Weber State Wildcats",
-   "pick": "Tarleton State +2",
-   "odds": -110,
-   "units": 1.0,
-   "gap": null,
-   "start": "2026-11-24T16:00:00",
-   "timed": true,
-   "ticket": "single",
-   "espn": {
-    "legs": [
-     {
-      "kind": "spread",
-      "side": "Tarleton State",
-      "line": 2.0,
-      "label": "Tarleton State +2",
-      "path": "basketball/mens-college-basketball",
-      "event": "401925950",
-      "date": "20261124",
-      "snapshot": {
-       "source": "espn",
-       "state": "pre",
-       "detail": "11/24 - 7:00 PM EST",
-       "start": "2026-11-25T00:00Z",
-       "period": null,
-       "clock": null,
-       "teams": [
-        {
-         "name": "Tarleton State Texans",
-         "short": "Texans",
-         "abbr": "TAR",
-         "score": 0,
-         "ha": "away",
-         "winner": null,
-         "linescores": []
-        },
-        {
-         "name": "Weber State Wildcats",
-         "short": "Wildcats",
-         "abbr": "WEB",
-         "score": 0,
-         "ha": "home",
-         "winner": null,
-         "linescores": []
-        }
-       ]
-      },
-      "source": "espn"
-     }
-    ],
-    "sport": "NCAAB",
-    "ticket": "single"
-   }
-  },
   {
    "n": 1016,
    "league": "NBA",
@@ -1618,6 +1388,240 @@
          "short": "Terriers",
          "abbr": "WOF",
          "score": 39,
+         "ha": "home",
+         "winner": null,
+         "linescores": [
+          0
+         ]
+        }
+       ]
+      },
+      "source": "espn"
+     }
+    ],
+    "sport": "NCAAB",
+    "ticket": "single"
+   }
+  },
+  {
+   "n": 1006,
+   "league": "NCAAB",
+   "type": "Spread",
+   "matchup": "Nevada Wolf Pack @ Santa Clara Broncos",
+   "pick": "Santa Clara +1.5",
+   "odds": -110,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-24T16:00:00",
+   "timed": true,
+   "ticket": "single",
+   "espn": {
+    "legs": [
+     {
+      "kind": "spread",
+      "side": "Santa Clara",
+      "line": 1.5,
+      "label": "Santa Clara +1.5",
+      "path": "basketball/mens-college-basketball",
+      "event": "401911458",
+      "date": "20261124",
+      "snapshot": {
+       "source": "espn",
+       "state": "pre",
+       "detail": "11/24 - 7:00 PM EST",
+       "start": "2026-11-25T00:00Z",
+       "period": null,
+       "clock": null,
+       "teams": [
+        {
+         "name": "Santa Clara Broncos",
+         "short": "Broncos",
+         "abbr": "SCU",
+         "score": 0,
+         "ha": "away",
+         "winner": null,
+         "linescores": []
+        },
+        {
+         "name": "Nevada Wolf Pack",
+         "short": "Wolf Pack",
+         "abbr": "NEV",
+         "score": 0,
+         "ha": "home",
+         "winner": null,
+         "linescores": []
+        }
+       ]
+      },
+      "source": "espn"
+     }
+    ],
+    "sport": "NCAAB",
+    "ticket": "single"
+   }
+  },
+  {
+   "n": 1013,
+   "league": "NCAAB",
+   "type": "Over/Under",
+   "matchup": "Hampton Pirates @ Old Dominion Monarchs",
+   "pick": "Over 129",
+   "odds": -110,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-24T16:00:00",
+   "timed": true,
+   "ticket": "single",
+   "espn": {
+    "legs": [
+     {
+      "kind": "total",
+      "side": null,
+      "ou": "O",
+      "line": 129.0,
+      "label": "O 129.0",
+      "path": "basketball/mens-college-basketball",
+      "event": "401926827",
+      "date": "20261124",
+      "snapshot": {
+       "source": "espn",
+       "state": "pre",
+       "detail": "11/24 - 7:00 PM EST",
+       "start": "2026-11-25T00:00Z",
+       "period": null,
+       "clock": null,
+       "teams": [
+        {
+         "name": "Hampton Pirates",
+         "short": "Pirates",
+         "abbr": "HAMP",
+         "score": 0,
+         "ha": "away",
+         "winner": null,
+         "linescores": []
+        },
+        {
+         "name": "Old Dominion Monarchs",
+         "short": "Monarchs",
+         "abbr": "ODU",
+         "score": 0,
+         "ha": "home",
+         "winner": null,
+         "linescores": []
+        }
+       ]
+      },
+      "source": "espn"
+     }
+    ],
+    "sport": "NCAAB",
+    "ticket": "single"
+   }
+  },
+  {
+   "n": 1014,
+   "league": "NCAAB",
+   "type": "Over/Under",
+   "matchup": "Rider Broncs @ Loyola (MD) Greyhounds",
+   "pick": "Over 138.5",
+   "odds": -110,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-24T16:00:00",
+   "timed": true,
+   "ticket": "single",
+   "espn": {
+    "legs": [
+     {
+      "kind": "total",
+      "side": null,
+      "ou": "O",
+      "line": 138.5,
+      "label": "O 138.5",
+      "path": "basketball/mens-college-basketball",
+      "event": "401921266",
+      "date": "20261124",
+      "snapshot": {
+       "source": "espn",
+       "state": "pre",
+       "detail": "11/24 - 7:00 PM EST",
+       "start": "2026-11-25T00:00Z",
+       "period": null,
+       "clock": null,
+       "teams": [
+        {
+         "name": "Rider Broncs",
+         "short": "Broncs",
+         "abbr": "RID",
+         "score": 0,
+         "ha": "away",
+         "winner": null,
+         "linescores": []
+        },
+        {
+         "name": "Loyola Maryland Greyhounds",
+         "short": "Greyhounds",
+         "abbr": "L-MD",
+         "score": 0,
+         "ha": "home",
+         "winner": null,
+         "linescores": []
+        }
+       ]
+      },
+      "source": "espn"
+     }
+    ],
+    "sport": "NCAAB",
+    "ticket": "single"
+   }
+  },
+  {
+   "n": 1021,
+   "league": "NCAAB",
+   "type": "Spread",
+   "matchup": "Tarleton State Texans @ Weber State Wildcats",
+   "pick": "Tarleton State +2",
+   "odds": -110,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-24T16:00:00",
+   "timed": true,
+   "ticket": "single",
+   "espn": {
+    "legs": [
+     {
+      "kind": "spread",
+      "side": "Tarleton State",
+      "line": 2.0,
+      "label": "Tarleton State +2",
+      "path": "basketball/mens-college-basketball",
+      "event": "401925950",
+      "date": "20261124",
+      "snapshot": {
+       "source": "espn",
+       "state": "in",
+       "detail": "19:22 - 1st",
+       "start": "2026-11-25T00:00Z",
+       "period": 1,
+       "clock": "19:22",
+       "teams": [
+        {
+         "name": "Tarleton State Texans",
+         "short": "Texans",
+         "abbr": "TAR",
+         "score": 0,
+         "ha": "away",
+         "winner": null,
+         "linescores": [
+          0
+         ]
+        },
+        {
+         "name": "Weber State Wildcats",
+         "short": "Wildcats",
+         "abbr": "WEB",
+         "score": 2,
          "ha": "home",
          "winner": null,
          "linescores": [
