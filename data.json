@@ -1,5 +1,5 @@
 {
- "updated": "Nov 24, 2026, 5:16 PM PT",
+ "updated": "Nov 24, 2026, 5:18 PM PT",
  "record": {
   "w": 269,
   "l": 265,
@@ -153,10 +153,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "4:17 - 2nd",
+       "detail": "2:31 - 2nd",
        "start": "2026-11-25T00:00Z",
        "period": 2,
-       "clock": "4:17",
+       "clock": "2:31",
        "teams": [
         {
          "name": "Miami (OH) RedHawks",
@@ -1325,16 +1325,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "13:25 - 2nd",
+       "detail": "12:37 - 2nd",
        "start": "2026-11-25T00:00Z",
        "period": 2,
-       "clock": "13:25",
+       "clock": "12:37",
        "teams": [
         {
          "name": "Hampton Pirates",
          "short": "Pirates",
          "abbr": "HAMP",
-         "score": 42,
+         "score": 43,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -1346,7 +1346,7 @@
          "name": "Old Dominion Monarchs",
          "short": "Monarchs",
          "abbr": "ODU",
-         "score": 46,
+         "score": 47,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -1389,10 +1389,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "15:31 - 2nd",
+       "detail": "15:23 - 2nd",
        "start": "2026-11-25T00:00Z",
        "period": 2,
-       "clock": "15:31",
+       "clock": "15:23",
        "teams": [
         {
          "name": "Rider Broncs",
@@ -1410,7 +1410,7 @@
          "name": "Loyola Maryland Greyhounds",
          "short": "Greyhounds",
          "abbr": "L-MD",
-         "score": 38,
+         "score": 40,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -1644,10 +1644,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "12:24 - 2nd",
+       "detail": "11:55 - 2nd",
        "start": "2026-11-25T00:00Z",
        "period": 2,
-       "clock": "12:24",
+       "clock": "11:55",
        "teams": [
         {
          "name": "Tarleton State Texans",
