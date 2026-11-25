@@ -1,5 +1,5 @@
 {
- "updated": "Nov 24, 2026, 4:05 PM PT",
+ "updated": "Nov 24, 2026, 4:07 PM PT",
  "record": {
   "w": 269,
   "l": 265,
@@ -1367,16 +1367,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "19:10 - 2nd",
+       "detail": "17:01 - 2nd",
        "start": "2026-11-24T23:00Z",
        "period": 2,
-       "clock": "19:10",
+       "clock": "17:01",
        "teams": [
         {
          "name": "Queens University Royals",
          "short": "Royals",
          "abbr": "QUC",
-         "score": 35,
+         "score": 41,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -1388,7 +1388,7 @@
          "name": "Wofford Terriers",
          "short": "Terriers",
          "abbr": "WOF",
-         "score": 39,
+         "score": 44,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -1487,11 +1487,11 @@
       "date": "20261124",
       "snapshot": {
        "source": "espn",
-       "state": "pre",
-       "detail": "11/24 - 7:00 PM EST",
+       "state": "in",
+       "detail": "18:21 - 1st",
        "start": "2026-11-25T00:00Z",
-       "period": null,
-       "clock": null,
+       "period": 1,
+       "clock": "18:21",
        "teams": [
         {
          "name": "Hampton Pirates",
@@ -1500,16 +1500,20 @@
          "score": 0,
          "ha": "away",
          "winner": null,
-         "linescores": []
+         "linescores": [
+          0
+         ]
         },
         {
          "name": "Old Dominion Monarchs",
          "short": "Monarchs",
          "abbr": "ODU",
-         "score": 0,
+         "score": 3,
          "ha": "home",
          "winner": null,
-         "linescores": []
+         "linescores": [
+          0
+         ]
         }
        ]
       },
@@ -1546,16 +1550,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "18:10 - 1st",
+       "detail": "17:18 - 1st",
        "start": "2026-11-25T00:00Z",
        "period": 1,
-       "clock": "18:10",
+       "clock": "17:18",
        "teams": [
         {
          "name": "Rider Broncs",
          "short": "Broncs",
          "abbr": "RID",
-         "score": 0,
+         "score": 3,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -1566,7 +1570,7 @@
          "name": "Loyola Maryland Greyhounds",
          "short": "Greyhounds",
          "abbr": "L-MD",
-         "score": 0,
+         "score": 2,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -1607,10 +1611,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "17:31 - 1st",
+       "detail": "16:24 - 1st",
        "start": "2026-11-25T00:00Z",
        "period": 1,
-       "clock": "17:31",
+       "clock": "16:24",
        "teams": [
         {
          "name": "Tarleton State Texans",
@@ -1627,7 +1631,7 @@
          "name": "Weber State Wildcats",
          "short": "Wildcats",
          "abbr": "WEB",
-         "score": 2,
+         "score": 10,
          "ha": "home",
          "winner": null,
          "linescores": [
