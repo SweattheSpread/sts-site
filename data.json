@@ -1,5 +1,5 @@
 {
- "updated": "Nov 25, 2026, 7:02 AM PT",
+ "updated": "Nov 25, 2026, 7:45 AM PT",
  "record": {
   "w": 273,
   "l": 274,
@@ -11,7 +11,7 @@
   "first": "2026-10-12",
   "last": "2026-11-24"
  },
- "pending": 20,
+ "pending": 21,
  "latest": [
   {
    "n": 1022,
@@ -1154,6 +1154,63 @@
          "name": "Indianapolis Colts",
          "short": "Colts",
          "abbr": "IND",
+         "score": 0,
+         "ha": "home",
+         "winner": null,
+         "linescores": []
+        }
+       ]
+      },
+      "source": "espn"
+     }
+    ],
+    "sport": "NFL",
+    "ticket": "single"
+   }
+  },
+  {
+   "n": 1029,
+   "league": "NFL",
+   "type": "Spread",
+   "matchup": "Tennessee Titans @ Jacksonville Jaguars",
+   "pick": "Jacksonville Jaguars -14.5",
+   "odds": -106,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-29T10:00:00",
+   "timed": true,
+   "ticket": "single",
+   "espn": {
+    "legs": [
+     {
+      "kind": "spread",
+      "side": "Jacksonville Jaguars",
+      "line": -14.5,
+      "label": "Jacksonville Jaguars -14.5",
+      "path": "football/nfl",
+      "event": "401873090",
+      "date": "20261129",
+      "snapshot": {
+       "source": "espn",
+       "state": "pre",
+       "detail": "11/29 - 1:00 PM EST",
+       "start": "2026-11-29T18:00Z",
+       "period": null,
+       "clock": null,
+       "teams": [
+        {
+         "name": "Tennessee Titans",
+         "short": "Titans",
+         "abbr": "TEN",
+         "score": 0,
+         "ha": "away",
+         "winner": null,
+         "linescores": []
+        },
+        {
+         "name": "Jacksonville Jaguars",
+         "short": "Jaguars",
+         "abbr": "JAX",
          "score": 0,
          "ha": "home",
          "winner": null,
