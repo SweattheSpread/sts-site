@@ -1,5 +1,5 @@
 {
- "updated": "Nov 24, 2026, 4:32 PM PT",
+ "updated": "Nov 24, 2026, 4:34 PM PT",
  "record": {
   "w": 269,
   "l": 265,
@@ -1313,10 +1313,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "8:56 - 2nd",
+       "detail": "8:35 - 2nd",
        "start": "2026-11-24T23:00Z",
        "period": 2,
-       "clock": "8:56",
+       "clock": "8:35",
        "teams": [
         {
          "name": "Queens University Royals",
@@ -1334,7 +1334,7 @@
          "name": "Wofford Terriers",
          "short": "Terriers",
          "abbr": "WOF",
-         "score": 66,
+         "score": 69,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -1376,16 +1376,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "12:41 - 1st",
+       "detail": "12:00 - 1st",
        "start": "2026-11-25T00:00Z",
        "period": 1,
-       "clock": "12:41",
+       "clock": "12:00",
        "teams": [
         {
          "name": "Santa Clara Broncos",
          "short": "Broncos",
          "abbr": "SCU",
-         "score": 7,
+         "score": 9,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -1438,16 +1438,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "7:55 - 1st",
+       "detail": "6:23 - 1st",
        "start": "2026-11-25T00:00Z",
        "period": 1,
-       "clock": "7:55",
+       "clock": "6:23",
        "teams": [
         {
          "name": "Hampton Pirates",
          "short": "Pirates",
          "abbr": "HAMP",
-         "score": 20,
+         "score": 23,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -1500,10 +1500,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "7:57 - 1st",
+       "detail": "7:36 - 1st",
        "start": "2026-11-25T00:00Z",
        "period": 1,
-       "clock": "7:57",
+       "clock": "7:36",
        "teams": [
         {
          "name": "Rider Broncs",
@@ -1561,16 +1561,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "5:29 - 1st",
+       "detail": "4:06 - 1st",
        "start": "2026-11-25T00:00Z",
        "period": 1,
-       "clock": "5:29",
+       "clock": "4:06",
        "teams": [
         {
          "name": "Tarleton State Texans",
          "short": "Texans",
          "abbr": "TAR",
-         "score": 24,
+         "score": 29,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -1581,7 +1581,7 @@
          "name": "Weber State Wildcats",
          "short": "Wildcats",
          "abbr": "WEB",
-         "score": 36,
+         "score": 37,
          "ha": "home",
          "winner": null,
          "linescores": [
