@@ -1,5 +1,5 @@
 {
- "updated": "Nov 25, 2026, 12:54 PM PT",
+ "updated": "Nov 25, 2026, 12:56 PM PT",
  "record": {
   "w": 273,
   "l": 274,
@@ -11,7 +11,7 @@
   "first": "2026-10-12",
   "last": "2026-11-24"
  },
- "pending": 37,
+ "pending": 38,
  "latest": [
   {
    "n": 1022,
@@ -818,6 +818,65 @@
       "line": 1.5,
       "stat": "3-pointers made +105",
       "label": "Miles Bridges O 1.5 3-pointers made +105",
+      "path": "basketball/nba",
+      "event": "401909323",
+      "date": "20261125",
+      "snapshot": {
+       "source": "espn",
+       "state": "pre",
+       "detail": "11/25 - 8:30 PM EST",
+       "start": "2026-11-26T01:30Z",
+       "period": null,
+       "clock": null,
+       "teams": [
+        {
+         "name": "Phoenix Suns",
+         "short": "Suns",
+         "abbr": "PHX",
+         "score": 0,
+         "ha": "away",
+         "winner": null,
+         "linescores": []
+        },
+        {
+         "name": "Houston Rockets",
+         "short": "Rockets",
+         "abbr": "HOU",
+         "score": 0,
+         "ha": "home",
+         "winner": null,
+         "linescores": []
+        }
+       ]
+      },
+      "source": "espn"
+     }
+    ],
+    "sport": "NBA",
+    "ticket": "single"
+   }
+  },
+  {
+   "n": 1047,
+   "league": "NBA",
+   "type": "Player Prop",
+   "matchup": "Phoenix Suns @ Houston Rockets",
+   "pick": "Dillon Brooks Over 1.5 3-pointers made +100 (BetMGM)",
+   "odds": 100,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-25T17:40:00",
+   "timed": true,
+   "ticket": "single",
+   "espn": {
+    "legs": [
+     {
+      "kind": "prop",
+      "player": "Dillon Brooks",
+      "ou": "O",
+      "line": 1.5,
+      "stat": "3-pointers made +100",
+      "label": "Dillon Brooks O 1.5 3-pointers made +100",
       "path": "basketball/nba",
       "event": "401909323",
       "date": "20261125",
@@ -2173,16 +2232,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "6:25 - 1st",
+       "detail": "5:23 - 1st",
        "start": "2026-11-25T20:00Z",
        "period": 1,
-       "clock": "6:25",
+       "clock": "5:23",
        "teams": [
         {
          "name": "SE Louisiana Lions",
          "short": "Lions",
          "abbr": "SELA",
-         "score": 25,
+         "score": 28,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -2193,7 +2252,7 @@
          "name": "North Dakota Fighting Hawks",
          "short": "Fighting Hawks",
          "abbr": "UND",
-         "score": 23,
+         "score": 27,
          "ha": "home",
          "winner": null,
          "linescores": [
