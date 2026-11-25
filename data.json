@@ -1,5 +1,5 @@
 {
- "updated": "Nov 24, 2026, 4:45 PM PT",
+ "updated": "Nov 24, 2026, 4:47 PM PT",
  "record": {
   "w": 269,
   "l": 265,
@@ -153,10 +153,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "End of 1st",
+       "detail": "15:00 - 2nd",
        "start": "2026-11-25T00:00Z",
-       "period": 1,
-       "clock": "0:00",
+       "period": 2,
+       "clock": "15:00",
        "teams": [
         {
          "name": "Miami (OH) RedHawks",
@@ -166,6 +166,7 @@
          "ha": "away",
          "winner": null,
          "linescores": [
+          0,
           0
          ]
         },
@@ -177,6 +178,7 @@
          "ha": "home",
          "winner": null,
          "linescores": [
+          0,
           0
          ]
         }
@@ -1375,16 +1377,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "4:59 - 2nd",
+       "detail": "4:30 - 2nd",
        "start": "2026-11-24T23:00Z",
        "period": 2,
-       "clock": "4:59",
+       "clock": "4:30",
        "teams": [
         {
          "name": "Queens University Royals",
          "short": "Royals",
          "abbr": "QUC",
-         "score": 65,
+         "score": 67,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -1500,10 +1502,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "0:27 - 1st",
+       "detail": "0:00 - 1st",
        "start": "2026-11-25T00:00Z",
        "period": 1,
-       "clock": "0:27",
+       "clock": "0:00",
        "teams": [
         {
          "name": "Hampton Pirates",
@@ -1562,10 +1564,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "3:30 - 1st",
+       "detail": "2:48 - 1st",
        "start": "2026-11-25T00:00Z",
        "period": 1,
-       "clock": "3:30",
+       "clock": "2:48",
        "teams": [
         {
          "name": "Rider Broncs",
@@ -1623,10 +1625,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "0:32 - 1st",
+       "detail": "Halftime",
        "start": "2026-11-25T00:00Z",
        "period": 1,
-       "clock": "0:32",
+       "clock": "0:00",
        "teams": [
         {
          "name": "Tarleton State Texans",
