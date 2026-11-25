@@ -1,5 +1,5 @@
 {
- "updated": "Nov 24, 2026, 4:53 PM PT",
+ "updated": "Nov 24, 2026, 4:55 PM PT",
  "record": {
   "w": 269,
   "l": 265,
@@ -153,10 +153,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "12:10 - 2nd",
+       "detail": "12:07 - 2nd",
        "start": "2026-11-25T00:00Z",
        "period": 2,
-       "clock": "12:10",
+       "clock": "12:07",
        "teams": [
         {
          "name": "Miami (OH) RedHawks",
@@ -1377,16 +1377,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "3:00 - 2nd",
+       "detail": "1:50 - 2nd",
        "start": "2026-11-24T23:00Z",
        "period": 2,
-       "clock": "3:00",
+       "clock": "1:50",
        "teams": [
         {
          "name": "Queens University Royals",
          "short": "Royals",
          "abbr": "QUC",
-         "score": 70,
+         "score": 72,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -1398,7 +1398,7 @@
          "name": "Wofford Terriers",
          "short": "Terriers",
          "abbr": "WOF",
-         "score": 80,
+         "score": 83,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -1440,10 +1440,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "4:46 - 1st",
+       "detail": "3:56 - 1st",
        "start": "2026-11-25T00:00Z",
        "period": 1,
-       "clock": "4:46",
+       "clock": "3:56",
        "teams": [
         {
          "name": "Santa Clara Broncos",
