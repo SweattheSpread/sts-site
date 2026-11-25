@@ -1,5 +1,5 @@
 {
- "updated": "Nov 24, 2026, 8:02 PM PT",
+ "updated": "Nov 24, 2026, 8:53 PM PT",
  "record": {
   "w": 269,
   "l": 265,
@@ -1214,11 +1214,11 @@
       "date": "20261124",
       "snapshot": {
        "source": "espn",
-       "state": "in",
-       "detail": "End of 2nd",
+       "state": "post",
+       "detail": "Final",
        "start": "2026-11-25T02:00Z",
-       "period": 2,
-       "clock": "0:00",
+       "period": null,
+       "clock": null,
        "teams": [
         {
          "name": "UTEP Miners",
@@ -1226,7 +1226,7 @@
          "abbr": "UTEP",
          "score": 80,
          "ha": "away",
-         "winner": null,
+         "winner": true,
          "linescores": [
           0,
           0
@@ -1238,7 +1238,7 @@
          "abbr": "COFC",
          "score": 69,
          "ha": "home",
-         "winner": null,
+         "winner": false,
          "linescores": [
           0,
           0
@@ -1407,19 +1407,20 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "Halftime",
+       "detail": "7:31 - 2nd",
        "start": "2026-11-25T02:55Z",
-       "period": 1,
-       "clock": "0:00",
+       "period": 2,
+       "clock": "7:31",
        "teams": [
         {
          "name": "Saint Louis Billikens",
          "short": "Billikens",
          "abbr": "SLU",
-         "score": 41,
+         "score": 70,
          "ha": "away",
          "winner": null,
          "linescores": [
+          0,
           0
          ]
         },
@@ -1427,10 +1428,11 @@
          "name": "Grand Canyon Lopes",
          "short": "Lopes",
          "abbr": "GCU",
-         "score": 36,
+         "score": 70,
          "ha": "home",
          "winner": null,
          "linescores": [
+          0,
           0
          ]
         }
