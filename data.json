@@ -1,5 +1,5 @@
 {
- "updated": "Nov 24, 2026, 9:18 PM PT",
+ "updated": "Nov 24, 2026, 9:20 PM PT",
  "record": {
   "w": 269,
   "l": 265,
@@ -1407,16 +1407,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "1:06 - 2nd",
+       "detail": "0:37 - 2nd",
        "start": "2026-11-25T02:55Z",
        "period": 2,
-       "clock": "1:06",
+       "clock": "0:37",
        "teams": [
         {
          "name": "Saint Louis Billikens",
          "short": "Billikens",
          "abbr": "SLU",
-         "score": 80,
+         "score": 82,
          "ha": "away",
          "winner": null,
          "linescores": [
