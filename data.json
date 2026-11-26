@@ -1,17 +1,17 @@
 {
- "updated": "Nov 25, 2026, 11:53 PM PT",
+ "updated": "Nov 25, 2026, 11:55 PM PT",
  "record": {
-  "w": 282,
+  "w": 283,
   "l": 287,
   "p": 2,
-  "n": 571,
-  "units": 55.63,
-  "risked": 834.2,
-  "roi": 6.67,
+  "n": 572,
+  "units": 56.54,
+  "risked": 835.2,
+  "roi": 6.77,
   "first": "2026-10-12",
   "last": "2026-11-25"
  },
- "pending": 21,
+ "pending": 20,
  "latest": [
   {
    "n": 1051,
@@ -112,17 +112,17 @@
    "ticket": "single"
   },
   {
-   "n": 1043,
+   "n": 1044,
    "date": "2026-11-25",
    "day": "2026-11-25",
    "league": "NCAAB",
    "type": "Over/Under",
-   "matchup": "Eastern Michigan Eagles @ UTEP Miners",
-   "pick": "Over 131.5",
-   "odds": -105,
+   "matchup": "Incarnate Word Cardinals @ Hawaii Rainbow Warriors",
+   "pick": "Over 139.5",
+   "odds": -110,
    "units": 1.0,
-   "result": "L",
-   "pl": -1.0,
+   "result": "W",
+   "pl": 0.91,
    "ticket": "single"
   }
  ],
@@ -1242,74 +1242,7 @@
    }
   }
  ],
- "awaiting": [
-  {
-   "n": 1044,
-   "league": "NCAAB",
-   "type": "Over/Under",
-   "matchup": "Incarnate Word Cardinals @ Hawaii Rainbow Warriors",
-   "pick": "Over 139.5",
-   "odds": -110,
-   "units": 1.0,
-   "gap": null,
-   "start": "2026-11-25T20:59:00",
-   "timed": true,
-   "ticket": "single",
-   "espn": {
-    "legs": [
-     {
-      "kind": "total",
-      "side": null,
-      "ou": "O",
-      "line": 139.5,
-      "label": "O 139.5",
-      "path": "basketball/mens-college-basketball",
-      "event": "401929005",
-      "date": "20261125",
-      "snapshot": {
-       "source": "espn",
-       "state": "post",
-       "detail": "Final/OT",
-       "start": "2026-11-26T04:59Z",
-       "period": null,
-       "clock": null,
-       "teams": [
-        {
-         "name": "Incarnate Word Cardinals",
-         "short": "Cardinals",
-         "abbr": "UIW",
-         "score": 81,
-         "ha": "away",
-         "winner": false,
-         "linescores": [
-          0,
-          0,
-          0
-         ]
-        },
-        {
-         "name": "Hawai'i Rainbow Warriors",
-         "short": "Rainbow Warriors",
-         "abbr": "HAW",
-         "score": 83,
-         "ha": "home",
-         "winner": true,
-         "linescores": [
-          0,
-          0,
-          0
-         ]
-        }
-       ]
-      },
-      "source": "espn"
-     }
-    ],
-    "sport": "NCAAB",
-    "ticket": "single"
-   }
-  }
- ],
+ "awaiting": [],
  "daily": {
   "2026-10-12": {
    "u": 5.67,
@@ -1484,8 +1417,8 @@
    "n": 14
   },
   "2026-11-25": {
-   "u": -7.12,
-   "n": 22
+   "u": -6.21,
+   "n": 23
   }
  }
 }
