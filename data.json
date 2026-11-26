@@ -1,5 +1,5 @@
 {
- "updated": "Nov 25, 2026, 3:59 PM PT",
+ "updated": "Nov 25, 2026, 4:01 PM PT",
  "record": {
   "w": 273,
   "l": 274,
@@ -127,303 +127,6 @@
   }
  ],
  "picks": [
-  {
-   "n": 1026,
-   "league": "NHL",
-   "type": "Player Prop",
-   "matchup": "New Jersey Devils @ Columbus Blue Jackets",
-   "pick": "Adam Fantilli Over 0.5 Assists +180 (BetMGM)",
-   "odds": 180,
-   "units": 1.0,
-   "gap": null,
-   "start": "2026-11-25T16:00:00",
-   "timed": true,
-   "ticket": "single",
-   "espn": {
-    "legs": [
-     {
-      "kind": "prop",
-      "player": "Adam Fantilli",
-      "ou": "O",
-      "line": 0.5,
-      "stat": "assists +180",
-      "label": "Adam Fantilli O 0.5 assists +180",
-      "path": "hockey/nhl",
-      "event": "401892788",
-      "date": "20261125",
-      "snapshot": {
-       "source": "nhl",
-       "state": "pre",
-       "detail": "Scheduled",
-       "start": "2026-11-26T00:00:00Z",
-       "period": null,
-       "clock": null,
-       "teams": [
-        {
-         "name": "Blues",
-         "short": "STL",
-         "abbr": "STL",
-         "score": 0,
-         "ha": "away",
-         "winner": null,
-         "linescores": []
-        },
-        {
-         "name": "Islanders",
-         "short": "NYI",
-         "abbr": "NYI",
-         "score": 0,
-         "ha": "home",
-         "winner": null,
-         "linescores": []
-        }
-       ],
-       "nhl_id": 2026020390
-      },
-      "source": "nhl"
-     }
-    ],
-    "sport": "NHL",
-    "ticket": "single"
-   }
-  },
-  {
-   "n": 1027,
-   "league": "NHL",
-   "type": "Player Prop",
-   "matchup": "Calgary Flames @ Pittsburgh Penguins",
-   "pick": "Zayne Parekh Over 0.5 Assists +210 (BetMGM)",
-   "odds": 210,
-   "units": 1.0,
-   "gap": null,
-   "start": "2026-11-25T16:00:00",
-   "timed": true,
-   "ticket": "single",
-   "espn": {
-    "legs": [
-     {
-      "kind": "prop",
-      "player": "Zayne Parekh",
-      "ou": "O",
-      "line": 0.5,
-      "stat": "assists +210",
-      "label": "Zayne Parekh O 0.5 assists +210",
-      "path": "hockey/nhl",
-      "event": "401892786",
-      "date": "20261125",
-      "snapshot": {
-       "source": "nhl",
-       "state": "pre",
-       "detail": "Scheduled",
-       "start": "2026-11-26T00:00:00Z",
-       "period": null,
-       "clock": null,
-       "teams": [
-        {
-         "name": "Flames",
-         "short": "CGY",
-         "abbr": "CGY",
-         "score": 0,
-         "ha": "away",
-         "winner": null,
-         "linescores": []
-        },
-        {
-         "name": "Penguins",
-         "short": "PIT",
-         "abbr": "PIT",
-         "score": 0,
-         "ha": "home",
-         "winner": null,
-         "linescores": []
-        }
-       ],
-       "nhl_id": 2026020391
-      },
-      "source": "nhl"
-     }
-    ],
-    "sport": "NHL",
-    "ticket": "single"
-   }
-  },
-  {
-   "n": 1028,
-   "league": "NHL",
-   "type": "Player Prop",
-   "matchup": "Philadelphia Flyers @ Washington Capitals",
-   "pick": "Cole Hutson Over 0.5 Assists +175 (BetMGM)",
-   "odds": 175,
-   "units": 1.0,
-   "gap": null,
-   "start": "2026-11-25T16:00:00",
-   "timed": true,
-   "ticket": "single",
-   "espn": {
-    "legs": [
-     {
-      "kind": "prop",
-      "player": "Cole Hutson",
-      "ou": "O",
-      "line": 0.5,
-      "stat": "assists +175",
-      "label": "Cole Hutson O 0.5 assists +175",
-      "path": "hockey/nhl",
-      "event": "401892787",
-      "date": "20261125",
-      "snapshot": {
-       "source": "nhl",
-       "state": "pre",
-       "detail": "Scheduled",
-       "start": "2026-11-26T00:00:00Z",
-       "period": null,
-       "clock": null,
-       "teams": [
-        {
-         "name": "Flyers",
-         "short": "PHI",
-         "abbr": "PHI",
-         "score": 0,
-         "ha": "away",
-         "winner": null,
-         "linescores": []
-        },
-        {
-         "name": "Capitals",
-         "short": "WSH",
-         "abbr": "WSH",
-         "score": 0,
-         "ha": "home",
-         "winner": null,
-         "linescores": []
-        }
-       ],
-       "nhl_id": 2026020392
-      },
-      "source": "nhl"
-     }
-    ],
-    "sport": "NHL",
-    "ticket": "single"
-   }
-  },
-  {
-   "n": 1045,
-   "league": "NCAAB",
-   "type": "Spread",
-   "matchup": "Longwood Lancers @ George Mason Patriots",
-   "pick": "Longwood +16.5",
-   "odds": -110,
-   "units": 1.0,
-   "gap": null,
-   "start": "2026-11-25T16:00:00",
-   "timed": true,
-   "ticket": "single",
-   "espn": {
-    "legs": [
-     {
-      "kind": "spread",
-      "side": "Longwood",
-      "line": 16.5,
-      "label": "Longwood +16.5",
-      "path": "basketball/mens-college-basketball",
-      "event": "401920076",
-      "date": "20261125",
-      "snapshot": {
-       "source": "espn",
-       "state": "pre",
-       "detail": "11/25 - 7:00 PM EST",
-       "start": "2026-11-26T00:00Z",
-       "period": null,
-       "clock": null,
-       "teams": [
-        {
-         "name": "Longwood Lancers",
-         "short": "Lancers",
-         "abbr": "LONG",
-         "score": 0,
-         "ha": "away",
-         "winner": null,
-         "linescores": []
-        },
-        {
-         "name": "George Mason Patriots",
-         "short": "Patriots",
-         "abbr": "GMU",
-         "score": 0,
-         "ha": "home",
-         "winner": null,
-         "linescores": []
-        }
-       ]
-      },
-      "source": "espn"
-     }
-    ],
-    "sport": "NCAAB",
-    "ticket": "single"
-   }
-  },
-  {
-   "n": 1048,
-   "league": "NHL",
-   "type": "Player Prop",
-   "matchup": "Philadelphia Flyers @ Washington Capitals",
-   "pick": "Ryan Leonard Over 0.5 points +105 (BetMGM)",
-   "odds": 105,
-   "units": 1.0,
-   "gap": null,
-   "start": "2026-11-25T16:00:00",
-   "timed": true,
-   "ticket": "single",
-   "espn": {
-    "legs": [
-     {
-      "kind": "prop",
-      "player": "Ryan Leonard",
-      "ou": "O",
-      "line": 0.5,
-      "stat": "points +105",
-      "label": "Ryan Leonard O 0.5 points +105",
-      "path": "hockey/nhl",
-      "event": "401892787",
-      "date": "20261125",
-      "snapshot": {
-       "source": "nhl",
-       "state": "pre",
-       "detail": "Scheduled",
-       "start": "2026-11-26T00:00:00Z",
-       "period": null,
-       "clock": null,
-       "teams": [
-        {
-         "name": "Flyers",
-         "short": "PHI",
-         "abbr": "PHI",
-         "score": 0,
-         "ha": "away",
-         "winner": null,
-         "linescores": []
-        },
-        {
-         "name": "Capitals",
-         "short": "WSH",
-         "abbr": "WSH",
-         "score": 0,
-         "ha": "home",
-         "winner": null,
-         "linescores": []
-        }
-       ],
-       "nhl_id": 2026020392
-      },
-      "source": "nhl"
-     }
-    ],
-    "sport": "NHL",
-    "ticket": "single"
-   }
-  },
   {
    "n": 1039,
    "league": "NBA",
@@ -2331,6 +2034,186 @@
    }
   },
   {
+   "n": 1026,
+   "league": "NHL",
+   "type": "Player Prop",
+   "matchup": "New Jersey Devils @ Columbus Blue Jackets",
+   "pick": "Adam Fantilli Over 0.5 Assists +180 (BetMGM)",
+   "odds": 180,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-25T16:00:00",
+   "timed": true,
+   "ticket": "single",
+   "espn": {
+    "legs": [
+     {
+      "kind": "prop",
+      "player": "Adam Fantilli",
+      "ou": "O",
+      "line": 0.5,
+      "stat": "assists +180",
+      "label": "Adam Fantilli O 0.5 assists +180",
+      "path": "hockey/nhl",
+      "event": "401892788",
+      "date": "20261125",
+      "snapshot": {
+       "source": "nhl",
+       "state": "pre",
+       "detail": "Scheduled",
+       "start": "2026-11-26T00:00:00Z",
+       "period": null,
+       "clock": null,
+       "teams": [
+        {
+         "name": "Blues",
+         "short": "STL",
+         "abbr": "STL",
+         "score": 0,
+         "ha": "away",
+         "winner": null,
+         "linescores": []
+        },
+        {
+         "name": "Islanders",
+         "short": "NYI",
+         "abbr": "NYI",
+         "score": 0,
+         "ha": "home",
+         "winner": null,
+         "linescores": []
+        }
+       ],
+       "nhl_id": 2026020390
+      },
+      "source": "nhl"
+     }
+    ],
+    "sport": "NHL",
+    "ticket": "single"
+   }
+  },
+  {
+   "n": 1027,
+   "league": "NHL",
+   "type": "Player Prop",
+   "matchup": "Calgary Flames @ Pittsburgh Penguins",
+   "pick": "Zayne Parekh Over 0.5 Assists +210 (BetMGM)",
+   "odds": 210,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-25T16:00:00",
+   "timed": true,
+   "ticket": "single",
+   "espn": {
+    "legs": [
+     {
+      "kind": "prop",
+      "player": "Zayne Parekh",
+      "ou": "O",
+      "line": 0.5,
+      "stat": "assists +210",
+      "label": "Zayne Parekh O 0.5 assists +210",
+      "path": "hockey/nhl",
+      "event": "401892786",
+      "date": "20261125",
+      "snapshot": {
+       "source": "nhl",
+       "state": "pre",
+       "detail": "Scheduled",
+       "start": "2026-11-26T00:00:00Z",
+       "period": null,
+       "clock": null,
+       "teams": [
+        {
+         "name": "Flames",
+         "short": "CGY",
+         "abbr": "CGY",
+         "score": 0,
+         "ha": "away",
+         "winner": null,
+         "linescores": []
+        },
+        {
+         "name": "Penguins",
+         "short": "PIT",
+         "abbr": "PIT",
+         "score": 0,
+         "ha": "home",
+         "winner": null,
+         "linescores": []
+        }
+       ],
+       "nhl_id": 2026020391
+      },
+      "source": "nhl"
+     }
+    ],
+    "sport": "NHL",
+    "ticket": "single"
+   }
+  },
+  {
+   "n": 1028,
+   "league": "NHL",
+   "type": "Player Prop",
+   "matchup": "Philadelphia Flyers @ Washington Capitals",
+   "pick": "Cole Hutson Over 0.5 Assists +175 (BetMGM)",
+   "odds": 175,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-25T16:00:00",
+   "timed": true,
+   "ticket": "single",
+   "espn": {
+    "legs": [
+     {
+      "kind": "prop",
+      "player": "Cole Hutson",
+      "ou": "O",
+      "line": 0.5,
+      "stat": "assists +175",
+      "label": "Cole Hutson O 0.5 assists +175",
+      "path": "hockey/nhl",
+      "event": "401892787",
+      "date": "20261125",
+      "snapshot": {
+       "source": "nhl",
+       "state": "pre",
+       "detail": "Scheduled",
+       "start": "2026-11-26T00:00:00Z",
+       "period": null,
+       "clock": null,
+       "teams": [
+        {
+         "name": "Flyers",
+         "short": "PHI",
+         "abbr": "PHI",
+         "score": 0,
+         "ha": "away",
+         "winner": null,
+         "linescores": []
+        },
+        {
+         "name": "Capitals",
+         "short": "WSH",
+         "abbr": "WSH",
+         "score": 0,
+         "ha": "home",
+         "winner": null,
+         "linescores": []
+        }
+       ],
+       "nhl_id": 2026020392
+      },
+      "source": "nhl"
+     }
+    ],
+    "sport": "NHL",
+    "ticket": "single"
+   }
+  },
+  {
    "n": 1042,
    "league": "NBA",
    "type": "Player Prop",
@@ -2357,10 +2240,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "End of 3rd",
+       "detail": "11:12 - 4th",
        "start": "2026-11-25T22:00Z",
-       "period": 3,
-       "clock": "0.0",
+       "period": 4,
+       "clock": "11:12",
        "teams": [
         {
          "name": "Miami Heat",
@@ -2372,6 +2255,7 @@
          "linescores": [
           0,
           0,
+          0,
           0
          ]
         },
@@ -2379,10 +2263,11 @@
          "name": "Philadelphia 76ers",
          "short": "76ers",
          "abbr": "PHI",
-         "score": 90,
+         "score": 93,
          "ha": "home",
          "winner": null,
          "linescores": [
+          0,
           0,
           0,
           0
@@ -2395,6 +2280,123 @@
      }
     ],
     "sport": "NBA",
+    "ticket": "single"
+   }
+  },
+  {
+   "n": 1045,
+   "league": "NCAAB",
+   "type": "Spread",
+   "matchup": "Longwood Lancers @ George Mason Patriots",
+   "pick": "Longwood +16.5",
+   "odds": -110,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-25T16:00:00",
+   "timed": true,
+   "ticket": "single",
+   "espn": {
+    "legs": [
+     {
+      "kind": "spread",
+      "side": "Longwood",
+      "line": 16.5,
+      "label": "Longwood +16.5",
+      "path": "basketball/mens-college-basketball",
+      "event": "401920076",
+      "date": "20261125",
+      "snapshot": {
+       "source": "espn",
+       "state": "pre",
+       "detail": "11/25 - 7:00 PM EST",
+       "start": "2026-11-26T00:00Z",
+       "period": null,
+       "clock": null,
+       "teams": [
+        {
+         "name": "Longwood Lancers",
+         "short": "Lancers",
+         "abbr": "LONG",
+         "score": 0,
+         "ha": "away",
+         "winner": null,
+         "linescores": []
+        },
+        {
+         "name": "George Mason Patriots",
+         "short": "Patriots",
+         "abbr": "GMU",
+         "score": 0,
+         "ha": "home",
+         "winner": null,
+         "linescores": []
+        }
+       ]
+      },
+      "source": "espn"
+     }
+    ],
+    "sport": "NCAAB",
+    "ticket": "single"
+   }
+  },
+  {
+   "n": 1048,
+   "league": "NHL",
+   "type": "Player Prop",
+   "matchup": "Philadelphia Flyers @ Washington Capitals",
+   "pick": "Ryan Leonard Over 0.5 points +105 (BetMGM)",
+   "odds": 105,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-25T16:00:00",
+   "timed": true,
+   "ticket": "single",
+   "espn": {
+    "legs": [
+     {
+      "kind": "prop",
+      "player": "Ryan Leonard",
+      "ou": "O",
+      "line": 0.5,
+      "stat": "points +105",
+      "label": "Ryan Leonard O 0.5 points +105",
+      "path": "hockey/nhl",
+      "event": "401892787",
+      "date": "20261125",
+      "snapshot": {
+       "source": "nhl",
+       "state": "pre",
+       "detail": "Scheduled",
+       "start": "2026-11-26T00:00:00Z",
+       "period": null,
+       "clock": null,
+       "teams": [
+        {
+         "name": "Flyers",
+         "short": "PHI",
+         "abbr": "PHI",
+         "score": 0,
+         "ha": "away",
+         "winner": null,
+         "linescores": []
+        },
+        {
+         "name": "Capitals",
+         "short": "WSH",
+         "abbr": "WSH",
+         "score": 0,
+         "ha": "home",
+         "winner": null,
+         "linescores": []
+        }
+       ],
+       "nhl_id": 2026020392
+      },
+      "source": "nhl"
+     }
+    ],
+    "sport": "NHL",
     "ticket": "single"
    }
   }
