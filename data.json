@@ -1,5 +1,5 @@
 {
- "updated": "Nov 25, 2026, 7:56 PM PT",
+ "updated": "Nov 25, 2026, 7:58 PM PT",
  "record": {
   "w": 273,
   "l": 274,
@@ -1839,16 +1839,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "2:42 - 4th",
+       "detail": "2:08 - 4th",
        "start": "2026-11-26T01:30Z",
        "period": 4,
-       "clock": "2:42",
+       "clock": "2:08",
        "teams": [
         {
          "name": "Phoenix Suns",
          "short": "Suns",
          "abbr": "PHX",
-         "score": 100,
+         "score": 101,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -1862,7 +1862,7 @@
          "name": "Houston Rockets",
          "short": "Rockets",
          "abbr": "HOU",
-         "score": 106,
+         "score": 109,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -1909,10 +1909,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P1 10:32",
+       "detail": "P1 08:17",
        "start": "2026-11-26T03:00:00Z",
        "period": 1,
-       "clock": "10:32",
+       "clock": "08:17",
        "teams": [
         {
          "name": "Sharks",
@@ -2349,16 +2349,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "2:42 - 4th",
+       "detail": "2:08 - 4th",
        "start": "2026-11-26T01:30Z",
        "period": 4,
-       "clock": "2:42",
+       "clock": "2:08",
        "teams": [
         {
          "name": "Phoenix Suns",
          "short": "Suns",
          "abbr": "PHX",
-         "score": 100,
+         "score": 101,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -2372,7 +2372,7 @@
          "name": "Houston Rockets",
          "short": "Rockets",
          "abbr": "HOU",
-         "score": 106,
+         "score": 109,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -2483,16 +2483,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "4:25 - 2nd",
+       "detail": "3:11 - 2nd",
        "start": "2026-11-26T03:00Z",
        "period": 2,
-       "clock": "4:25",
+       "clock": "3:11",
        "teams": [
         {
          "name": "Sacramento Kings",
          "short": "Kings",
          "abbr": "SAC",
-         "score": 38,
+         "score": 42,
          "ha": "away",
          "winner": null,
          "linescores": [
