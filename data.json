@@ -1,5 +1,5 @@
 {
- "updated": "Nov 26, 2026, 11:33 AM PT",
+ "updated": "Nov 26, 2026, 11:37 AM PT",
  "record": {
   "w": 283,
   "l": 287,
@@ -1880,10 +1880,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "0:10 - 2nd",
+       "detail": "Halftime",
        "start": "2026-11-26T18:00Z",
        "period": 2,
-       "clock": "0:10",
+       "clock": "0:00",
        "teams": [
         {
          "name": "Chicago Bears",
@@ -1901,7 +1901,7 @@
          "name": "Detroit Lions",
          "short": "Lions",
          "abbr": "DET",
-         "score": 12,
+         "score": 19,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -1944,10 +1944,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "0:10 - 2nd",
+       "detail": "Halftime",
        "start": "2026-11-26T18:00Z",
        "period": 2,
-       "clock": "0:10",
+       "clock": "0:00",
        "teams": [
         {
          "name": "Chicago Bears",
@@ -1965,7 +1965,7 @@
          "name": "Detroit Lions",
          "short": "Lions",
          "abbr": "DET",
-         "score": 12,
+         "score": 19,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -2008,10 +2008,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "0:10 - 2nd",
+       "detail": "Halftime",
        "start": "2026-11-26T18:00Z",
        "period": 2,
-       "clock": "0:10",
+       "clock": "0:00",
        "teams": [
         {
          "name": "Chicago Bears",
@@ -2029,7 +2029,7 @@
          "name": "Detroit Lions",
          "short": "Lions",
          "abbr": "DET",
-         "score": 12,
+         "score": 19,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -2073,10 +2073,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "0:10 - 2nd",
+       "detail": "Halftime",
        "start": "2026-11-26T18:00Z",
        "period": 2,
-       "clock": "0:10",
+       "clock": "0:00",
        "teams": [
         {
          "name": "Chicago Bears",
@@ -2094,7 +2094,7 @@
          "name": "Detroit Lions",
          "short": "Lions",
          "abbr": "DET",
-         "score": 12,
+         "score": 19,
          "ha": "home",
          "winner": null,
          "linescores": [
