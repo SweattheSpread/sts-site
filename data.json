@@ -1,5 +1,5 @@
 {
- "updated": "Nov 25, 2026, 4:46 PM PT",
+ "updated": "Nov 25, 2026, 4:48 PM PT",
  "record": {
   "w": 273,
   "l": 274,
@@ -2001,10 +2001,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P1 04:27",
+       "detail": "P1 02:08",
        "start": "2026-11-26T00:00:00Z",
        "period": 1,
-       "clock": "04:27",
+       "clock": "02:08",
        "teams": [
         {
          "name": "Blues",
@@ -2061,10 +2061,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P1 00:00",
+       "detail": "P1 13:59",
        "start": "2026-11-26T00:00:00Z",
        "period": 1,
-       "clock": "00:00",
+       "clock": "13:59",
        "teams": [
         {
          "name": "Flames",
@@ -2125,10 +2125,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P1 04:17",
+       "detail": "P1 02:41",
        "start": "2026-11-26T00:00:00Z",
        "period": 1,
-       "clock": "04:17",
+       "clock": "02:41",
        "teams": [
         {
          "name": "Flyers",
@@ -2198,7 +2198,7 @@
          "name": "Cleveland Cavaliers",
          "short": "Cavaliers",
          "abbr": "CLE",
-         "score": 5,
+         "score": 8,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -2311,16 +2311,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "1:51 - 1st",
+       "detail": "0:59 - 1st",
        "start": "2026-11-26T00:00Z",
        "period": 1,
-       "clock": "1:51",
+       "clock": "0:59",
        "teams": [
         {
          "name": "Longwood Lancers",
          "short": "Lancers",
          "abbr": "LONG",
-         "score": 12,
+         "score": 16,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -2331,7 +2331,7 @@
          "name": "George Mason Patriots",
          "short": "Patriots",
          "abbr": "GMU",
-         "score": 48,
+         "score": 50,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -2374,10 +2374,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P1 04:17",
+       "detail": "P1 02:41",
        "start": "2026-11-26T00:00:00Z",
        "period": 1,
-       "clock": "04:17",
+       "clock": "02:41",
        "teams": [
         {
          "name": "Flyers",
