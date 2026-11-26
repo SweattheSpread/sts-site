@@ -1,5 +1,5 @@
 {
- "updated": "Nov 25, 2026, 5:33 PM PT",
+ "updated": "Nov 25, 2026, 5:49 PM PT",
  "record": {
   "w": 273,
   "l": 274,
@@ -127,124 +127,6 @@
   }
  ],
  "picks": [
-  {
-   "n": 1037,
-   "league": "NBA",
-   "type": "Player Prop",
-   "matchup": "Phoenix Suns @ Houston Rockets",
-   "pick": "Miles Bridges Over 1.5 3-pointers made +105 (BetMGM; Caesars -118)",
-   "odds": 105,
-   "units": 1.0,
-   "gap": null,
-   "start": "2026-11-25T17:40:00",
-   "timed": true,
-   "ticket": "single",
-   "espn": {
-    "legs": [
-     {
-      "kind": "prop",
-      "player": "Miles Bridges",
-      "ou": "O",
-      "line": 1.5,
-      "stat": "3-pointers made +105",
-      "label": "Miles Bridges O 1.5 3-pointers made +105",
-      "path": "basketball/nba",
-      "event": "401909323",
-      "date": "20261125",
-      "snapshot": {
-       "source": "espn",
-       "state": "pre",
-       "detail": "11/25 - 8:30 PM EST",
-       "start": "2026-11-26T01:30Z",
-       "period": null,
-       "clock": null,
-       "teams": [
-        {
-         "name": "Phoenix Suns",
-         "short": "Suns",
-         "abbr": "PHX",
-         "score": 0,
-         "ha": "away",
-         "winner": null,
-         "linescores": []
-        },
-        {
-         "name": "Houston Rockets",
-         "short": "Rockets",
-         "abbr": "HOU",
-         "score": 0,
-         "ha": "home",
-         "winner": null,
-         "linescores": []
-        }
-       ]
-      },
-      "source": "espn"
-     }
-    ],
-    "sport": "NBA",
-    "ticket": "single"
-   }
-  },
-  {
-   "n": 1047,
-   "league": "NBA",
-   "type": "Player Prop",
-   "matchup": "Phoenix Suns @ Houston Rockets",
-   "pick": "Dillon Brooks Over 1.5 3-pointers made +100 (BetMGM)",
-   "odds": 100,
-   "units": 1.0,
-   "gap": null,
-   "start": "2026-11-25T17:40:00",
-   "timed": true,
-   "ticket": "single",
-   "espn": {
-    "legs": [
-     {
-      "kind": "prop",
-      "player": "Dillon Brooks",
-      "ou": "O",
-      "line": 1.5,
-      "stat": "3-pointers made +100",
-      "label": "Dillon Brooks O 1.5 3-pointers made +100",
-      "path": "basketball/nba",
-      "event": "401909323",
-      "date": "20261125",
-      "snapshot": {
-       "source": "espn",
-       "state": "pre",
-       "detail": "11/25 - 8:30 PM EST",
-       "start": "2026-11-26T01:30Z",
-       "period": null,
-       "clock": null,
-       "teams": [
-        {
-         "name": "Phoenix Suns",
-         "short": "Suns",
-         "abbr": "PHX",
-         "score": 0,
-         "ha": "away",
-         "winner": null,
-         "linescores": []
-        },
-        {
-         "name": "Houston Rockets",
-         "short": "Rockets",
-         "abbr": "HOU",
-         "score": 0,
-         "ha": "home",
-         "winner": null,
-         "linescores": []
-        }
-       ]
-      },
-      "source": "espn"
-     }
-    ],
-    "sport": "NBA",
-    "ticket": "single"
-   }
-  },
   {
    "n": 1046,
    "league": "NCAAB",
@@ -1621,16 +1503,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "7:06 - 1st",
+       "detail": "1:28 - 1st",
        "start": "2026-11-26T01:00Z",
        "period": 1,
-       "clock": "7:06",
+       "clock": "1:28",
        "teams": [
         {
          "name": "Green Bay Packers",
          "short": "Packers",
          "abbr": "GB",
-         "score": 0,
+         "score": 3,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -1641,7 +1523,7 @@
          "name": "Los Angeles Rams",
          "short": "Rams",
          "abbr": "LAR",
-         "score": 3,
+         "score": 6,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -1683,16 +1565,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "7:06 - 1st",
+       "detail": "1:28 - 1st",
        "start": "2026-11-26T01:00Z",
        "period": 1,
-       "clock": "7:06",
+       "clock": "1:28",
        "teams": [
         {
          "name": "Green Bay Packers",
          "short": "Packers",
          "abbr": "GB",
-         "score": 0,
+         "score": 3,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -1703,7 +1585,7 @@
          "name": "Los Angeles Rams",
          "short": "Rams",
          "abbr": "LAR",
-         "score": 3,
+         "score": 6,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -1744,16 +1626,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "7:06 - 1st",
+       "detail": "1:28 - 1st",
        "start": "2026-11-26T01:00Z",
        "period": 1,
-       "clock": "7:06",
+       "clock": "1:28",
        "teams": [
         {
          "name": "Green Bay Packers",
          "short": "Packers",
          "abbr": "GB",
-         "score": 0,
+         "score": 3,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -1764,7 +1646,7 @@
          "name": "Los Angeles Rams",
          "short": "Rams",
          "abbr": "LAR",
-         "score": 3,
+         "score": 6,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -1870,16 +1752,16 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P2 06:38",
+       "detail": "P2 13:23",
        "start": "2026-11-26T00:00:00Z",
        "period": 2,
-       "clock": "06:38",
+       "clock": "13:23",
        "teams": [
         {
          "name": "Blues",
          "short": "STL",
          "abbr": "STL",
-         "score": 0,
+         "score": 1,
          "ha": "away",
          "winner": null,
          "linescores": []
@@ -1930,16 +1812,16 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P2 05:45",
+       "detail": "P2 15:02",
        "start": "2026-11-26T00:00:00Z",
        "period": 2,
-       "clock": "05:45",
+       "clock": "15:02",
        "teams": [
         {
          "name": "Flames",
          "short": "CGY",
          "abbr": "CGY",
-         "score": 3,
+         "score": 4,
          "ha": "away",
          "winner": null,
          "linescores": []
@@ -1948,7 +1830,7 @@
          "name": "Penguins",
          "short": "PIT",
          "abbr": "PIT",
-         "score": 1,
+         "score": 3,
          "ha": "home",
          "winner": null,
          "linescores": []
@@ -1994,10 +1876,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P2 07:58",
+       "detail": "P2 00:28",
        "start": "2026-11-26T00:00:00Z",
        "period": 2,
-       "clock": "07:58",
+       "clock": "00:28",
        "teams": [
         {
          "name": "Flyers",
@@ -2012,7 +1894,7 @@
          "name": "Capitals",
          "short": "WSH",
          "abbr": "WSH",
-         "score": 1,
+         "score": 3,
          "ha": "home",
          "winner": null,
          "linescores": []
@@ -2055,10 +1937,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P1 09:21",
+       "detail": "P1 00:45",
        "start": "2026-11-26T01:00:00Z",
        "period": 1,
-       "clock": "09:21",
+       "clock": "00:45",
        "teams": [
         {
          "name": "Mammoth",
@@ -2089,6 +1971,70 @@
    }
   },
   {
+   "n": 1037,
+   "league": "NBA",
+   "type": "Player Prop",
+   "matchup": "Phoenix Suns @ Houston Rockets",
+   "pick": "Miles Bridges Over 1.5 3-pointers made +105 (BetMGM; Caesars -118)",
+   "odds": 105,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-25T17:40:00",
+   "timed": true,
+   "ticket": "single",
+   "espn": {
+    "legs": [
+     {
+      "kind": "prop",
+      "player": "Miles Bridges",
+      "ou": "O",
+      "line": 1.5,
+      "stat": "3-pointers made +105",
+      "label": "Miles Bridges O 1.5 3-pointers made +105",
+      "path": "basketball/nba",
+      "event": "401909323",
+      "date": "20261125",
+      "snapshot": {
+       "source": "espn",
+       "state": "in",
+       "detail": "8:12 - 1st",
+       "start": "2026-11-26T01:30Z",
+       "period": 1,
+       "clock": "8:12",
+       "teams": [
+        {
+         "name": "Phoenix Suns",
+         "short": "Suns",
+         "abbr": "PHX",
+         "score": 11,
+         "ha": "away",
+         "winner": null,
+         "linescores": [
+          0
+         ]
+        },
+        {
+         "name": "Houston Rockets",
+         "short": "Rockets",
+         "abbr": "HOU",
+         "score": 11,
+         "ha": "home",
+         "winner": null,
+         "linescores": [
+          0
+         ]
+        }
+       ],
+       "stat": null
+      },
+      "source": "espn"
+     }
+    ],
+    "sport": "NBA",
+    "ticket": "single"
+   }
+  },
+  {
    "n": 1039,
    "league": "NBA",
    "type": "Player Prop",
@@ -2115,16 +2061,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "4:40 - 2nd",
+       "detail": "Halftime",
        "start": "2026-11-26T00:30Z",
        "period": 2,
-       "clock": "4:40",
+       "clock": "0.1",
        "teams": [
         {
          "name": "Cleveland Cavaliers",
          "short": "Cavaliers",
          "abbr": "CLE",
-         "score": 50,
+         "score": 61,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -2136,7 +2082,7 @@
          "name": "New York Knicks",
          "short": "Knicks",
          "abbr": "NY",
-         "score": 44,
+         "score": 56,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -2189,7 +2135,7 @@
          "name": "Los Angeles Clippers",
          "short": "Los Angeles Clippers",
          "abbr": "",
-         "score": 13,
+         "score": 28,
          "ha": "away",
          "winner": null,
          "linescores": []
@@ -2198,7 +2144,7 @@
          "name": "Memphis Grizzlies",
          "short": "Memphis Grizzlies",
          "abbr": "",
-         "score": 32,
+         "score": 39,
          "ha": "home",
          "winner": null,
          "linescores": []
@@ -2295,8 +2241,8 @@
       "snapshot": {
        "source": "espn",
        "state": "pre",
-       "detail": "11/25 - 8:30 PM EST",
-       "start": "2026-11-26T01:30Z",
+       "detail": "11/25 - 8:45 PM EST",
+       "start": "2026-11-26T01:45Z",
        "period": null,
        "clock": null,
        "teams": [
@@ -2352,16 +2298,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "8:18 - 2nd",
+       "detail": "2:47 - 2nd",
        "start": "2026-11-26T00:00Z",
        "period": 2,
-       "clock": "8:18",
+       "clock": "2:47",
        "teams": [
         {
          "name": "Longwood Lancers",
          "short": "Lancers",
          "abbr": "LONG",
-         "score": 44,
+         "score": 58,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -2373,7 +2319,7 @@
          "name": "George Mason Patriots",
          "short": "Patriots",
          "abbr": "GMU",
-         "score": 75,
+         "score": 89,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -2387,6 +2333,70 @@
      }
     ],
     "sport": "NCAAB",
+    "ticket": "single"
+   }
+  },
+  {
+   "n": 1047,
+   "league": "NBA",
+   "type": "Player Prop",
+   "matchup": "Phoenix Suns @ Houston Rockets",
+   "pick": "Dillon Brooks Over 1.5 3-pointers made +100 (BetMGM)",
+   "odds": 100,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-25T17:40:00",
+   "timed": true,
+   "ticket": "single",
+   "espn": {
+    "legs": [
+     {
+      "kind": "prop",
+      "player": "Dillon Brooks",
+      "ou": "O",
+      "line": 1.5,
+      "stat": "3-pointers made +100",
+      "label": "Dillon Brooks O 1.5 3-pointers made +100",
+      "path": "basketball/nba",
+      "event": "401909323",
+      "date": "20261125",
+      "snapshot": {
+       "source": "espn",
+       "state": "in",
+       "detail": "8:12 - 1st",
+       "start": "2026-11-26T01:30Z",
+       "period": 1,
+       "clock": "8:12",
+       "teams": [
+        {
+         "name": "Phoenix Suns",
+         "short": "Suns",
+         "abbr": "PHX",
+         "score": 11,
+         "ha": "away",
+         "winner": null,
+         "linescores": [
+          0
+         ]
+        },
+        {
+         "name": "Houston Rockets",
+         "short": "Rockets",
+         "abbr": "HOU",
+         "score": 11,
+         "ha": "home",
+         "winner": null,
+         "linescores": [
+          0
+         ]
+        }
+       ],
+       "stat": null
+      },
+      "source": "espn"
+     }
+    ],
+    "sport": "NBA",
     "ticket": "single"
    }
   },
@@ -2417,10 +2427,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P2 07:58",
+       "detail": "P2 00:28",
        "start": "2026-11-26T00:00:00Z",
        "period": 2,
-       "clock": "07:58",
+       "clock": "00:28",
        "teams": [
         {
          "name": "Flyers",
@@ -2435,7 +2445,7 @@
          "name": "Capitals",
          "short": "WSH",
          "abbr": "WSH",
-         "score": 1,
+         "score": 3,
          "ha": "home",
          "winner": null,
          "linescores": []
@@ -2443,7 +2453,7 @@
        ],
        "nhl_id": 2026020392,
        "stat": {
-        "v": 1,
+        "v": 2,
         "name": "R. Leonard"
        }
       },
@@ -2479,16 +2489,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "7:06 - 1st",
+       "detail": "1:28 - 1st",
        "start": "2026-11-26T01:00Z",
        "period": 1,
-       "clock": "7:06",
+       "clock": "1:28",
        "teams": [
         {
          "name": "Green Bay Packers",
          "short": "Packers",
          "abbr": "GB",
-         "score": 0,
+         "score": 3,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -2499,7 +2509,7 @@
          "name": "Los Angeles Rams",
          "short": "Rams",
          "abbr": "LAR",
-         "score": 3,
+         "score": 6,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -2542,16 +2552,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "7:06 - 1st",
+       "detail": "1:28 - 1st",
        "start": "2026-11-26T01:00Z",
        "period": 1,
-       "clock": "7:06",
+       "clock": "1:28",
        "teams": [
         {
          "name": "Green Bay Packers",
          "short": "Packers",
          "abbr": "GB",
-         "score": 0,
+         "score": 3,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -2562,7 +2572,7 @@
          "name": "Los Angeles Rams",
          "short": "Rams",
          "abbr": "LAR",
-         "score": 3,
+         "score": 6,
          "ha": "home",
          "winner": null,
          "linescores": [
