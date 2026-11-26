@@ -1,5 +1,5 @@
 {
- "updated": "Nov 25, 2026, 5:00 PM PT",
+ "updated": "Nov 25, 2026, 5:02 PM PT",
  "record": {
   "w": 273,
   "l": 274,
@@ -2001,10 +2001,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P1 07:29",
+       "detail": "P1 05:09",
        "start": "2026-11-26T00:00:00Z",
        "period": 1,
-       "clock": "07:29",
+       "clock": "05:09",
        "teams": [
         {
          "name": "Blues",
@@ -2061,10 +2061,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P1 02:23",
+       "detail": "P2 20:00",
        "start": "2026-11-26T00:00:00Z",
-       "period": 1,
-       "clock": "02:23",
+       "period": 2,
+       "clock": "20:00",
        "teams": [
         {
          "name": "Flames",
@@ -2125,10 +2125,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P1 09:48",
+       "detail": "P1 07:25",
        "start": "2026-11-26T00:00:00Z",
        "period": 1,
-       "clock": "09:48",
+       "clock": "07:25",
        "teams": [
         {
          "name": "Flyers",
@@ -2189,16 +2189,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "3:02 - 1st",
+       "detail": "1:59 - 1st",
        "start": "2026-11-26T00:30Z",
        "period": 1,
-       "clock": "3:02",
+       "clock": "1:59",
        "teams": [
         {
          "name": "Cleveland Cavaliers",
          "short": "Cavaliers",
          "abbr": "CLE",
-         "score": 21,
+         "score": 24,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -2209,7 +2209,7 @@
          "name": "New York Knicks",
          "short": "Knicks",
          "abbr": "NY",
-         "score": 18,
+         "score": 21,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -2218,7 +2218,7 @@
         }
        ],
        "stat": {
-        "v": 0,
+        "v": 1,
         "name": "Donovan Mitchell"
        }
       },
@@ -2374,10 +2374,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P1 09:48",
+       "detail": "P1 07:25",
        "start": "2026-11-26T00:00:00Z",
        "period": 1,
-       "clock": "09:48",
+       "clock": "07:25",
        "teams": [
         {
          "name": "Flyers",
