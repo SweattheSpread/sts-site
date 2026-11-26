@@ -1,5 +1,5 @@
 {
- "updated": "Nov 26, 2026, 2:18 PM PT",
+ "updated": "Nov 26, 2026, 2:20 PM PT",
  "record": {
   "w": 283,
   "l": 287,
@@ -11,7 +11,7 @@
   "first": "2026-10-12",
   "last": "2026-11-25"
  },
- "pending": 33,
+ "pending": 34,
  "plays": [
   {
    "n": 334,
@@ -9512,6 +9512,22 @@
    "matchup": "Chicago Bears @ Detroit Lions",
    "pick": "Amon-Ra St. Brown (DET) Over 143.5 receiving yards LIVE",
    "odds": -115,
+   "units": 3.0,
+   "result": null,
+   "pl": null,
+   "pending": true
+  },
+  {
+   "n": 1065,
+   "date": "2026-11-26",
+   "day": "2026-11-26",
+   "league": "NFL",
+   "market": "team_total",
+   "market_label": "Team Total",
+   "ticket": "single",
+   "matchup": "Philadelphia Eagles @ Dallas Cowboys",
+   "pick": "Philadelphia Eagles team total Over 17.5 LIVE",
+   "odds": -105,
    "units": 3.0,
    "result": null,
    "pl": null,
