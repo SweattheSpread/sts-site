@@ -1,5 +1,5 @@
 {
- "updated": "Nov 25, 2026, 6:24 PM PT",
+ "updated": "Nov 25, 2026, 6:26 PM PT",
  "record": {
   "w": 273,
   "l": 274,
@@ -1445,10 +1445,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "4:18 - 2nd",
+       "detail": "2:33 - 2nd",
        "start": "2026-11-26T01:00Z",
        "period": 2,
-       "clock": "4:18",
+       "clock": "2:33",
        "teams": [
         {
          "name": "Green Bay Packers",
@@ -1509,10 +1509,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "4:18 - 2nd",
+       "detail": "2:33 - 2nd",
        "start": "2026-11-26T01:00Z",
        "period": 2,
-       "clock": "4:18",
+       "clock": "2:33",
        "teams": [
         {
          "name": "Green Bay Packers",
@@ -1572,10 +1572,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "4:18 - 2nd",
+       "detail": "2:33 - 2nd",
        "start": "2026-11-26T01:00Z",
        "period": 2,
-       "clock": "4:18",
+       "clock": "2:33",
        "teams": [
         {
          "name": "Green Bay Packers",
@@ -1700,10 +1700,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P3 08:42",
+       "detail": "P3 07:13",
        "start": "2026-11-26T00:00:00Z",
        "period": 3,
-       "clock": "08:42",
+       "clock": "07:13",
        "teams": [
         {
          "name": "Blues",
@@ -1760,10 +1760,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P3 09:33",
+       "detail": "P3 09:25",
        "start": "2026-11-26T00:00:00Z",
        "period": 3,
-       "clock": "09:33",
+       "clock": "09:25",
        "teams": [
         {
          "name": "Flames",
@@ -1824,10 +1824,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P3 10:18",
+       "detail": "P3 09:44",
        "start": "2026-11-26T00:00:00Z",
        "period": 3,
-       "clock": "10:18",
+       "clock": "09:44",
        "teams": [
         {
          "name": "Flyers",
@@ -1885,10 +1885,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P2 15:08",
+       "detail": "P2 14:13",
        "start": "2026-11-26T01:00:00Z",
        "period": 2,
-       "clock": "15:08",
+       "clock": "14:13",
        "teams": [
         {
          "name": "Mammoth",
@@ -1903,7 +1903,7 @@
          "name": "Wild",
          "short": "MIN",
          "abbr": "MIN",
-         "score": 0,
+         "score": 1,
          "ha": "home",
          "winner": null,
          "linescores": []
@@ -1945,16 +1945,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "8:57 - 2nd",
+       "detail": "7:40 - 2nd",
        "start": "2026-11-26T01:30Z",
        "period": 2,
-       "clock": "8:57",
+       "clock": "7:40",
        "teams": [
         {
          "name": "Phoenix Suns",
          "short": "Suns",
          "abbr": "PHX",
-         "score": 40,
+         "score": 43,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -1966,7 +1966,7 @@
          "name": "Houston Rockets",
          "short": "Rockets",
          "abbr": "HOU",
-         "score": 38,
+         "score": 42,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -2011,10 +2011,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "16.8 - 3rd",
+       "detail": "End of 3rd",
        "start": "2026-11-26T00:30Z",
        "period": 3,
-       "clock": "16.8",
+       "clock": "0.0",
        "teams": [
         {
          "name": "Cleveland Cavaliers",
@@ -2087,7 +2087,7 @@
          "name": "Los Angeles Clippers",
          "short": "Los Angeles Clippers",
          "abbr": "",
-         "score": 46,
+         "score": 48,
          "ha": "away",
          "winner": null,
          "linescores": []
@@ -2096,7 +2096,7 @@
          "name": "Memphis Grizzlies",
          "short": "Memphis Grizzlies",
          "abbr": "",
-         "score": 50,
+         "score": 54,
          "ha": "home",
          "winner": null,
          "linescores": []
@@ -2193,16 +2193,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "5:50 - 1st",
+       "detail": "5:18 - 1st",
        "start": "2026-11-26T01:45Z",
        "period": 1,
-       "clock": "5:50",
+       "clock": "5:18",
        "teams": [
         {
          "name": "Eastern Michigan Eagles",
          "short": "Eagles",
          "abbr": "EMU",
-         "score": 14,
+         "score": 16,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -2213,7 +2213,7 @@
          "name": "UTEP Miners",
          "short": "Miners",
          "abbr": "UTEP",
-         "score": 18,
+         "score": 21,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -2318,10 +2318,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "10:39 - 1st",
+       "detail": "9:43 - 1st",
        "start": "2026-11-26T02:00Z",
        "period": 1,
-       "clock": "10:39",
+       "clock": "9:43",
        "teams": [
         {
          "name": "Mississippi Valley State Delta Devils",
@@ -2338,7 +2338,7 @@
          "name": "New Mexico Lobos",
          "short": "Lobos",
          "abbr": "UNM",
-         "score": 15,
+         "score": 19,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -2381,16 +2381,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "8:57 - 2nd",
+       "detail": "7:40 - 2nd",
        "start": "2026-11-26T01:30Z",
        "period": 2,
-       "clock": "8:57",
+       "clock": "7:40",
        "teams": [
         {
          "name": "Phoenix Suns",
          "short": "Suns",
          "abbr": "PHX",
-         "score": 40,
+         "score": 43,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -2402,7 +2402,7 @@
          "name": "Houston Rockets",
          "short": "Rockets",
          "abbr": "HOU",
-         "score": 38,
+         "score": 42,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -2447,10 +2447,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P3 10:18",
+       "detail": "P3 09:44",
        "start": "2026-11-26T00:00:00Z",
        "period": 3,
-       "clock": "10:18",
+       "clock": "09:44",
        "teams": [
         {
          "name": "Flyers",
@@ -2509,10 +2509,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "4:18 - 2nd",
+       "detail": "2:33 - 2nd",
        "start": "2026-11-26T01:00Z",
        "period": 2,
-       "clock": "4:18",
+       "clock": "2:33",
        "teams": [
         {
          "name": "Green Bay Packers",
@@ -2574,10 +2574,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "4:18 - 2nd",
+       "detail": "2:33 - 2nd",
        "start": "2026-11-26T01:00Z",
        "period": 2,
-       "clock": "4:18",
+       "clock": "2:33",
        "teams": [
         {
          "name": "Green Bay Packers",
