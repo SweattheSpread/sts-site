@@ -1,5 +1,5 @@
 {
- "updated": "Nov 26, 2026, 12:29 PM PT",
+ "updated": "Nov 26, 2026, 12:31 PM PT",
  "record": {
   "w": 283,
   "l": 287,
@@ -127,63 +127,6 @@
   }
  ],
  "picks": [
-  {
-   "n": 854,
-   "league": "NFL",
-   "type": "Spread",
-   "matchup": "Philadelphia Eagles @ Dallas Cowboys",
-   "pick": "Philadelphia Eagles +8.5 (-109)",
-   "odds": -109,
-   "units": 1.0,
-   "gap": 4.1,
-   "start": "2026-11-26T12:30:00",
-   "timed": true,
-   "ticket": "single",
-   "espn": {
-    "legs": [
-     {
-      "kind": "spread",
-      "side": "Philadelphia Eagles",
-      "line": 8.5,
-      "label": "Philadelphia Eagles +8.5",
-      "path": "football/nfl",
-      "event": "401873080",
-      "date": "20261126",
-      "snapshot": {
-       "source": "espn",
-       "state": "pre",
-       "detail": "11/26 - 4:30 PM EST",
-       "start": "2026-11-26T21:30Z",
-       "period": null,
-       "clock": null,
-       "teams": [
-        {
-         "name": "Philadelphia Eagles",
-         "short": "Eagles",
-         "abbr": "PHI",
-         "score": 0,
-         "ha": "away",
-         "winner": null,
-         "linescores": []
-        },
-        {
-         "name": "Dallas Cowboys",
-         "short": "Cowboys",
-         "abbr": "DAL",
-         "score": 0,
-         "ha": "home",
-         "winner": null,
-         "linescores": []
-        }
-       ]
-      },
-      "source": "espn"
-     }
-    ],
-    "sport": "NFL",
-    "ticket": "single"
-   }
-  },
   {
    "n": 990,
    "league": "NFL",
@@ -1880,10 +1823,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "3:09 - 3rd",
+       "detail": "3:05 - 3rd",
        "start": "2026-11-26T18:00Z",
        "period": 3,
-       "clock": "3:09",
+       "clock": "3:05",
        "teams": [
         {
          "name": "Chicago Bears",
@@ -1921,6 +1864,63 @@
    }
   },
   {
+   "n": 854,
+   "league": "NFL",
+   "type": "Spread",
+   "matchup": "Philadelphia Eagles @ Dallas Cowboys",
+   "pick": "Philadelphia Eagles +8.5 (-109)",
+   "odds": -109,
+   "units": 1.0,
+   "gap": 4.1,
+   "start": "2026-11-26T12:30:00",
+   "timed": true,
+   "ticket": "single",
+   "espn": {
+    "legs": [
+     {
+      "kind": "spread",
+      "side": "Philadelphia Eagles",
+      "line": 8.5,
+      "label": "Philadelphia Eagles +8.5",
+      "path": "football/nfl",
+      "event": "401873080",
+      "date": "20261126",
+      "snapshot": {
+       "source": "espn",
+       "state": "pre",
+       "detail": "11/26 - 4:30 PM EST",
+       "start": "2026-11-26T21:30Z",
+       "period": null,
+       "clock": null,
+       "teams": [
+        {
+         "name": "Philadelphia Eagles",
+         "short": "Eagles",
+         "abbr": "PHI",
+         "score": 0,
+         "ha": "away",
+         "winner": null,
+         "linescores": []
+        },
+        {
+         "name": "Dallas Cowboys",
+         "short": "Cowboys",
+         "abbr": "DAL",
+         "score": 0,
+         "ha": "home",
+         "winner": null,
+         "linescores": []
+        }
+       ]
+      },
+      "source": "espn"
+     }
+    ],
+    "sport": "NFL",
+    "ticket": "single"
+   }
+  },
+  {
    "n": 1008,
    "league": "NFL",
    "type": "Player prop",
@@ -1946,10 +1946,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "3:09 - 3rd",
+       "detail": "3:05 - 3rd",
        "start": "2026-11-26T18:00Z",
        "period": 3,
-       "clock": "3:09",
+       "clock": "3:05",
        "teams": [
         {
          "name": "Chicago Bears",
@@ -2012,10 +2012,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "3:09 - 3rd",
+       "detail": "3:05 - 3rd",
        "start": "2026-11-26T18:00Z",
        "period": 3,
-       "clock": "3:09",
+       "clock": "3:05",
        "teams": [
         {
          "name": "Chicago Bears",
@@ -2079,10 +2079,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "3:09 - 3rd",
+       "detail": "3:05 - 3rd",
        "start": "2026-11-26T18:00Z",
        "period": 3,
-       "clock": "3:09",
+       "clock": "3:05",
        "teams": [
         {
          "name": "Chicago Bears",
