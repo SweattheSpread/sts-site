@@ -1,5 +1,5 @@
 {
- "updated": "Nov 25, 2026, 5:02 PM PT",
+ "updated": "Nov 25, 2026, 5:16 PM PT",
  "record": {
   "w": 273,
   "l": 274,
@@ -127,91 +127,6 @@
   }
  ],
  "picks": [
-  {
-   "n": 1036,
-   "league": "NHL",
-   "type": "Moneyline",
-   "matchup": "Utah Mammoth @ Minnesota Wild",
-   "pick": "Utah Mammoth ML",
-   "odds": 130,
-   "units": 1.0,
-   "gap": null,
-   "start": "2026-11-25T17:10:00",
-   "timed": true,
-   "ticket": "single",
-   "espn": {
-    "legs": [
-     {
-      "kind": "ml",
-      "side": "Utah Mammoth",
-      "label": "Utah Mammoth ML",
-      "path": "hockey/nhl",
-      "event": "401892791",
-      "date": "20261125",
-      "snapshot": {
-       "source": "nhl",
-       "state": "pre",
-       "detail": "Scheduled",
-       "start": "2026-11-26T01:00:00Z",
-       "period": null,
-       "clock": null,
-       "teams": [
-        {
-         "name": "Mammoth",
-         "short": "UTA",
-         "abbr": "UTA",
-         "score": 0,
-         "ha": "away",
-         "winner": null,
-         "linescores": []
-        },
-        {
-         "name": "Wild",
-         "short": "MIN",
-         "abbr": "MIN",
-         "score": 0,
-         "ha": "home",
-         "winner": null,
-         "linescores": []
-        }
-       ],
-       "nhl_id": 2026020396
-      },
-      "source": "nhl"
-     }
-    ],
-    "sport": "NHL",
-    "ticket": "single"
-   }
-  },
-  {
-   "n": 1041,
-   "league": "NBA",
-   "type": "Player Prop",
-   "matchup": "Los Angeles Clippers @ Memphis Grizzlies",
-   "pick": "Brook Lopez Over 1.5 3-pointers made +115 (BetMGM; Caesars +100)",
-   "odds": 115,
-   "units": 1.0,
-   "gap": null,
-   "start": "2026-11-25T17:10:00",
-   "timed": true,
-   "ticket": "single",
-   "espn": {
-    "legs": [
-     {
-      "kind": "prop",
-      "player": "Brook Lopez",
-      "ou": "O",
-      "line": 1.5,
-      "stat": "3-pointers made +115",
-      "label": "Brook Lopez O 1.5 3-pointers made +115",
-      "unverified": true
-     }
-    ],
-    "sport": "NBA",
-    "ticket": "single"
-   }
-  },
   {
    "n": 1043,
    "league": "NCAAB",
@@ -1763,11 +1678,11 @@
       "date": "20261125",
       "snapshot": {
        "source": "espn",
-       "state": "pre",
-       "detail": "11/25 - 8:00 PM EST",
+       "state": "in",
+       "detail": "15:00 - 1st",
        "start": "2026-11-26T01:00Z",
-       "period": null,
-       "clock": null,
+       "period": 1,
+       "clock": "15:00",
        "teams": [
         {
          "name": "Green Bay Packers",
@@ -1776,7 +1691,9 @@
          "score": 0,
          "ha": "away",
          "winner": null,
-         "linescores": []
+         "linescores": [
+          0
+         ]
         },
         {
          "name": "Los Angeles Rams",
@@ -1785,7 +1702,9 @@
          "score": 0,
          "ha": "home",
          "winner": null,
-         "linescores": []
+         "linescores": [
+          0
+         ]
         }
        ]
       },
@@ -1821,11 +1740,11 @@
       "date": "20261125",
       "snapshot": {
        "source": "espn",
-       "state": "pre",
-       "detail": "11/25 - 8:00 PM EST",
+       "state": "in",
+       "detail": "15:00 - 1st",
        "start": "2026-11-26T01:00Z",
-       "period": null,
-       "clock": null,
+       "period": 1,
+       "clock": "15:00",
        "teams": [
         {
          "name": "Green Bay Packers",
@@ -1834,7 +1753,9 @@
          "score": 0,
          "ha": "away",
          "winner": null,
-         "linescores": []
+         "linescores": [
+          0
+         ]
         },
         {
          "name": "Los Angeles Rams",
@@ -1843,7 +1764,9 @@
          "score": 0,
          "ha": "home",
          "winner": null,
-         "linescores": []
+         "linescores": [
+          0
+         ]
         }
        ]
       },
@@ -1878,11 +1801,11 @@
       "date": "20261125",
       "snapshot": {
        "source": "espn",
-       "state": "pre",
-       "detail": "11/25 - 8:00 PM EST",
+       "state": "in",
+       "detail": "15:00 - 1st",
        "start": "2026-11-26T01:00Z",
-       "period": null,
-       "clock": null,
+       "period": 1,
+       "clock": "15:00",
        "teams": [
         {
          "name": "Green Bay Packers",
@@ -1891,7 +1814,9 @@
          "score": 0,
          "ha": "away",
          "winner": null,
-         "linescores": []
+         "linescores": [
+          0
+         ]
         },
         {
          "name": "Los Angeles Rams",
@@ -1900,7 +1825,9 @@
          "score": 0,
          "ha": "home",
          "winner": null,
-         "linescores": []
+         "linescores": [
+          0
+         ]
         }
        ]
       },
@@ -2001,10 +1928,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P1 05:09",
+       "detail": "P2 15:15",
        "start": "2026-11-26T00:00:00Z",
-       "period": 1,
-       "clock": "05:09",
+       "period": 2,
+       "clock": "15:15",
        "teams": [
         {
          "name": "Blues",
@@ -2061,16 +1988,16 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P2 20:00",
+       "detail": "P2 13:34",
        "start": "2026-11-26T00:00:00Z",
        "period": 2,
-       "clock": "20:00",
+       "clock": "13:34",
        "teams": [
         {
          "name": "Flames",
          "short": "CGY",
          "abbr": "CGY",
-         "score": 0,
+         "score": 1,
          "ha": "away",
          "winner": null,
          "linescores": []
@@ -2125,10 +2052,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P1 07:25",
+       "detail": "P2 17:49",
        "start": "2026-11-26T00:00:00Z",
-       "period": 1,
-       "clock": "07:25",
+       "period": 2,
+       "clock": "17:49",
        "teams": [
         {
          "name": "Flyers",
@@ -2154,6 +2081,63 @@
         "v": 0,
         "name": "C. Hutson"
        }
+      },
+      "source": "nhl"
+     }
+    ],
+    "sport": "NHL",
+    "ticket": "single"
+   }
+  },
+  {
+   "n": 1036,
+   "league": "NHL",
+   "type": "Moneyline",
+   "matchup": "Utah Mammoth @ Minnesota Wild",
+   "pick": "Utah Mammoth ML",
+   "odds": 130,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-25T17:10:00",
+   "timed": true,
+   "ticket": "single",
+   "espn": {
+    "legs": [
+     {
+      "kind": "ml",
+      "side": "Utah Mammoth",
+      "label": "Utah Mammoth ML",
+      "path": "hockey/nhl",
+      "event": "401892791",
+      "date": "20261125",
+      "snapshot": {
+       "source": "nhl",
+       "state": "in",
+       "detail": "P1 17:58",
+       "start": "2026-11-26T01:00:00Z",
+       "period": 1,
+       "clock": "17:58",
+       "teams": [
+        {
+         "name": "Mammoth",
+         "short": "UTA",
+         "abbr": "UTA",
+         "score": 0,
+         "ha": "away",
+         "winner": null,
+         "linescores": []
+        },
+        {
+         "name": "Wild",
+         "short": "MIN",
+         "abbr": "MIN",
+         "score": 0,
+         "ha": "home",
+         "winner": null,
+         "linescores": []
+        }
+       ],
+       "nhl_id": 2026020396
       },
       "source": "nhl"
      }
@@ -2189,19 +2173,20 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "1:59 - 1st",
+       "detail": "11:06 - 2nd",
        "start": "2026-11-26T00:30Z",
-       "period": 1,
-       "clock": "1:59",
+       "period": 2,
+       "clock": "11:06",
        "teams": [
         {
          "name": "Cleveland Cavaliers",
          "short": "Cavaliers",
          "abbr": "CLE",
-         "score": 24,
+         "score": 34,
          "ha": "away",
          "winner": null,
          "linescores": [
+          0,
           0
          ]
         },
@@ -2209,10 +2194,11 @@
          "name": "New York Knicks",
          "short": "Knicks",
          "abbr": "NY",
-         "score": 21,
+         "score": 25,
          "ha": "home",
          "winner": null,
          "linescores": [
+          0,
           0
          ]
         }
@@ -2223,6 +2209,61 @@
        }
       },
       "source": "espn"
+     }
+    ],
+    "sport": "NBA",
+    "ticket": "single"
+   }
+  },
+  {
+   "n": 1041,
+   "league": "NBA",
+   "type": "Player Prop",
+   "matchup": "Los Angeles Clippers @ Memphis Grizzlies",
+   "pick": "Brook Lopez Over 1.5 3-pointers made +115 (BetMGM; Caesars +100)",
+   "odds": 115,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-25T17:10:00",
+   "timed": true,
+   "ticket": "single",
+   "espn": {
+    "legs": [
+     {
+      "kind": "prop",
+      "player": "Brook Lopez",
+      "ou": "O",
+      "line": 1.5,
+      "stat": "3-pointers made +115",
+      "label": "Brook Lopez O 1.5 3-pointers made +115",
+      "unverified": true,
+      "snapshot": {
+       "source": "odds-api",
+       "state": "in",
+       "detail": "Live",
+       "start": "2026-11-26T01:10:40Z",
+       "teams": [
+        {
+         "name": "Los Angeles Clippers",
+         "short": "Los Angeles Clippers",
+         "abbr": "",
+         "score": 2,
+         "ha": "away",
+         "winner": null,
+         "linescores": []
+        },
+        {
+         "name": "Memphis Grizzlies",
+         "short": "Memphis Grizzlies",
+         "abbr": "",
+         "score": 12,
+         "ha": "home",
+         "winner": null,
+         "linescores": []
+        }
+       ]
+      },
+      "source": "odds-api"
      }
     ],
     "sport": "NBA",
@@ -2311,19 +2352,20 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "Halftime",
+       "detail": "15:57 - 2nd",
        "start": "2026-11-26T00:00Z",
-       "period": 1,
-       "clock": "0:00",
+       "period": 2,
+       "clock": "15:57",
        "teams": [
         {
          "name": "Longwood Lancers",
          "short": "Lancers",
          "abbr": "LONG",
-         "score": 19,
+         "score": 35,
          "ha": "away",
          "winner": null,
          "linescores": [
+          0,
           0
          ]
         },
@@ -2331,10 +2373,11 @@
          "name": "George Mason Patriots",
          "short": "Patriots",
          "abbr": "GMU",
-         "score": 56,
+         "score": 63,
          "ha": "home",
          "winner": null,
          "linescores": [
+          0,
           0
          ]
         }
@@ -2374,10 +2417,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P1 07:25",
+       "detail": "P2 17:49",
        "start": "2026-11-26T00:00:00Z",
-       "period": 1,
-       "clock": "07:25",
+       "period": 2,
+       "clock": "17:49",
        "teams": [
         {
          "name": "Flyers",
