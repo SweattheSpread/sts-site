@@ -1,5 +1,5 @@
 {
- "updated": "Nov 25, 2026, 4:08 PM PT",
+ "updated": "Nov 25, 2026, 4:11 PM PT",
  "record": {
   "w": 273,
   "l": 274,
@@ -2120,10 +2120,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P1 19:37",
+       "detail": "P1 18:06",
        "start": "2026-11-26T00:00:00Z",
        "period": 1,
-       "clock": "19:37",
+       "clock": "18:06",
        "teams": [
         {
          "name": "Flames",
@@ -2244,16 +2244,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "7:48 - 4th",
+       "detail": "7:00 - 4th",
        "start": "2026-11-25T22:00Z",
        "period": 4,
-       "clock": "7:48",
+       "clock": "7:00",
        "teams": [
         {
          "name": "Miami Heat",
          "short": "Heat",
          "abbr": "MIA",
-         "score": 86,
+         "score": 89,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -2267,7 +2267,7 @@
          "name": "Philadelphia 76ers",
          "short": "76ers",
          "abbr": "PHI",
-         "score": 100,
+         "score": 102,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -2312,10 +2312,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "15:59 - 1st",
+       "detail": "15:58 - 1st",
        "start": "2026-11-26T00:00Z",
        "period": 1,
-       "clock": "15:59",
+       "clock": "15:58",
        "teams": [
         {
          "name": "Longwood Lancers",
