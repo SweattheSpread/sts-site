@@ -1,5 +1,5 @@
 {
- "updated": "Nov 26, 2026, 11:00 AM PT",
+ "updated": "Nov 26, 2026, 11:02 AM PT",
  "record": {
   "w": 283,
   "l": 287,
@@ -11,7 +11,7 @@
   "first": "2026-10-12",
   "last": "2026-11-25"
  },
- "pending": 29,
+ "pending": 31,
  "latest": [
   {
    "n": 1051,
@@ -688,6 +688,132 @@
    }
   },
   {
+   "n": 1062,
+   "league": "NFL",
+   "type": "Parlay",
+   "matchup": "6-leg parlay of two same-game parlays",
+   "pick": "(1) Kansas City Chiefs @ Buffalo Bills SGP +500: Emmett Johnson 70+ rushing yds, James Cook 80+ rushing yds, James Cook anytime TD, Emmett Johnson anytime TD; (2) Denver Broncos @ Pittsburgh Steelers SGP +130: Jonah Coleman 70+ rushing yds, Jonah Coleman anytime TD",
+   "odds": 1280,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-26T17:20:00",
+   "timed": true,
+   "ticket": "sgp",
+   "espn": {
+    "legs": [
+     {
+      "kind": "prop",
+      "player": "Kansas City Chiefs @ Buffalo Bills SGP +500: Emmett Johnson",
+      "ou": "O",
+      "line": 69.5,
+      "stat": "rushing yds",
+      "label": "Kansas City Chiefs @ Buffalo Bills SGP +500: Emmett Johnson O 69.5 rushing yds",
+      "path": "football/nfl",
+      "event": "401873082",
+      "date": "20261126",
+      "snapshot": {
+       "source": "espn",
+       "state": "pre",
+       "detail": "11/26 - 8:20 PM EST",
+       "start": "2026-11-27T01:20Z",
+       "period": null,
+       "clock": null,
+       "teams": [
+        {
+         "name": "Kansas City Chiefs",
+         "short": "Chiefs",
+         "abbr": "KC",
+         "score": 0,
+         "ha": "away",
+         "winner": null,
+         "linescores": []
+        },
+        {
+         "name": "Buffalo Bills",
+         "short": "Bills",
+         "abbr": "BUF",
+         "score": 0,
+         "ha": "home",
+         "winner": null,
+         "linescores": []
+        }
+       ]
+      },
+      "source": "espn"
+     },
+     {
+      "kind": "prop",
+      "player": "James Cook",
+      "ou": "O",
+      "line": 79.5,
+      "stat": "rushing yds",
+      "label": "James Cook O 79.5 rushing yds",
+      "unverified": true
+     },
+     {
+      "kind": "prop",
+      "player": "James Cook",
+      "ou": "O",
+      "line": 0.5,
+      "stat": "anytime td",
+      "label": "James Cook O 0.5 anytime td",
+      "unverified": true
+     },
+     {
+      "kind": "prop",
+      "player": "Emmett Johnson",
+      "ou": "O",
+      "line": 0.5,
+      "stat": "anytime td",
+      "label": "Emmett Johnson O 0.5 anytime td",
+      "path": "football/nfl",
+      "event": "401873083",
+      "date": "20261126",
+      "snapshot": {
+       "source": "espn",
+       "state": "pre",
+       "detail": "11/27 - 3:00 PM EST",
+       "start": "2026-11-27T20:00Z",
+       "period": null,
+       "clock": null,
+       "teams": [
+        {
+         "name": "Denver Broncos",
+         "short": "Broncos",
+         "abbr": "DEN",
+         "score": 0,
+         "ha": "away",
+         "winner": null,
+         "linescores": []
+        },
+        {
+         "name": "Pittsburgh Steelers",
+         "short": "Steelers",
+         "abbr": "PIT",
+         "score": 0,
+         "ha": "home",
+         "winner": null,
+         "linescores": []
+        }
+       ]
+      },
+      "source": "espn"
+     },
+     {
+      "kind": "prop",
+      "player": "Jonah Coleman",
+      "ou": "O",
+      "line": 0.5,
+      "stat": "anytime td",
+      "label": "Jonah Coleman O 0.5 anytime td",
+      "unverified": true
+     }
+    ],
+    "sport": "NFL",
+    "ticket": "sgp"
+   }
+  },
+  {
    "n": 1032,
    "league": "NFL",
    "type": "Moneyline",
@@ -741,6 +867,105 @@
     ],
     "sport": "NFL",
     "ticket": "single"
+   }
+  },
+  {
+   "n": 1063,
+   "league": "NFL",
+   "type": "Parlay",
+   "matchup": "Denver Broncos @ Pittsburgh Steelers",
+   "pick": "2-leg SGP Jonah Coleman 70+ rushing yds + Jonah Coleman anytime TD",
+   "odds": 130,
+   "units": 3.0,
+   "gap": null,
+   "start": "2026-11-27T12:00:00",
+   "timed": true,
+   "ticket": "sgp",
+   "espn": {
+    "legs": [
+     {
+      "kind": "prop",
+      "player": "2-leg SGP Jonah Coleman",
+      "ou": "O",
+      "line": 69.5,
+      "stat": "rushing yds",
+      "label": "2-leg SGP Jonah Coleman O 69.5 rushing yds",
+      "path": "football/nfl",
+      "event": "401873083",
+      "date": "20261127",
+      "snapshot": {
+       "source": "espn",
+       "state": "pre",
+       "detail": "11/27 - 3:00 PM EST",
+       "start": "2026-11-27T20:00Z",
+       "period": null,
+       "clock": null,
+       "teams": [
+        {
+         "name": "Denver Broncos",
+         "short": "Broncos",
+         "abbr": "DEN",
+         "score": 0,
+         "ha": "away",
+         "winner": null,
+         "linescores": []
+        },
+        {
+         "name": "Pittsburgh Steelers",
+         "short": "Steelers",
+         "abbr": "PIT",
+         "score": 0,
+         "ha": "home",
+         "winner": null,
+         "linescores": []
+        }
+       ]
+      },
+      "source": "espn"
+     },
+     {
+      "kind": "prop",
+      "player": "Jonah Coleman",
+      "ou": "O",
+      "line": 0.5,
+      "stat": "anytime td",
+      "label": "Jonah Coleman O 0.5 anytime td",
+      "path": "football/nfl",
+      "event": "401873083",
+      "date": "20261127",
+      "snapshot": {
+       "source": "espn",
+       "state": "pre",
+       "detail": "11/27 - 3:00 PM EST",
+       "start": "2026-11-27T20:00Z",
+       "period": null,
+       "clock": null,
+       "teams": [
+        {
+         "name": "Denver Broncos",
+         "short": "Broncos",
+         "abbr": "DEN",
+         "score": 0,
+         "ha": "away",
+         "winner": null,
+         "linescores": []
+        },
+        {
+         "name": "Pittsburgh Steelers",
+         "short": "Steelers",
+         "abbr": "PIT",
+         "score": 0,
+         "ha": "home",
+         "winner": null,
+         "linescores": []
+        }
+       ]
+      },
+      "source": "espn"
+     }
+    ],
+    "sport": "NFL",
+    "ticket": "sgp"
    }
   },
   {
