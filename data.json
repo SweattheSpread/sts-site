@@ -1,5 +1,5 @@
 {
- "updated": "Nov 26, 2026, 7:57 AM PT",
+ "updated": "Nov 26, 2026, 7:59 AM PT",
  "record": {
   "w": 283,
   "l": 287,
@@ -11,7 +11,7 @@
   "first": "2026-10-12",
   "last": "2026-11-25"
  },
- "pending": 21,
+ "pending": 26,
  "latest": [
   {
    "n": 1051,
@@ -759,6 +759,120 @@
    }
   },
   {
+   "n": 1058,
+   "league": "NHL",
+   "type": "Moneyline",
+   "matchup": "Colorado Avalanche @ Minnesota Wild",
+   "pick": "Colorado Avalanche ML",
+   "odds": 108,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-27T13:00:00",
+   "timed": true,
+   "ticket": "single",
+   "espn": {
+    "legs": [
+     {
+      "kind": "ml",
+      "side": "Colorado Avalanche",
+      "label": "Colorado Avalanche ML",
+      "path": "hockey/nhl",
+      "event": "401892803",
+      "date": "20261127",
+      "snapshot": {
+       "source": "nhl",
+       "state": "pre",
+       "detail": "Scheduled",
+       "start": "2026-11-27T21:00:00Z",
+       "period": null,
+       "clock": null,
+       "teams": [
+        {
+         "name": "Avalanche",
+         "short": "COL",
+         "abbr": "COL",
+         "score": 0,
+         "ha": "away",
+         "winner": null,
+         "linescores": []
+        },
+        {
+         "name": "Wild",
+         "short": "MIN",
+         "abbr": "MIN",
+         "score": 0,
+         "ha": "home",
+         "winner": null,
+         "linescores": []
+        }
+       ],
+       "nhl_id": 2026020408
+      },
+      "source": "nhl"
+     }
+    ],
+    "sport": "NHL",
+    "ticket": "single"
+   }
+  },
+  {
+   "n": 1057,
+   "league": "NHL",
+   "type": "Moneyline",
+   "matchup": "New York Rangers @ Chicago Blackhawks",
+   "pick": "New York Rangers ML",
+   "odds": -172,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-27T14:30:00",
+   "timed": true,
+   "ticket": "single",
+   "espn": {
+    "legs": [
+     {
+      "kind": "ml",
+      "side": "New York Rangers",
+      "label": "New York Rangers ML",
+      "path": "hockey/nhl",
+      "event": "401892806",
+      "date": "20261127",
+      "snapshot": {
+       "source": "nhl",
+       "state": "pre",
+       "detail": "Scheduled",
+       "start": "2026-11-27T22:30:00Z",
+       "period": null,
+       "clock": null,
+       "teams": [
+        {
+         "name": "Rangers",
+         "short": "NYR",
+         "abbr": "NYR",
+         "score": 0,
+         "ha": "away",
+         "winner": null,
+         "linescores": []
+        },
+        {
+         "name": "Blackhawks",
+         "short": "CHI",
+         "abbr": "CHI",
+         "score": 0,
+         "ha": "home",
+         "winner": null,
+         "linescores": []
+        }
+       ],
+       "nhl_id": 2026020411
+      },
+      "source": "nhl"
+     }
+    ],
+    "sport": "NHL",
+    "ticket": "single"
+   }
+  },
+  {
    "n": 983,
    "league": "NFL",
    "type": "Spread",
@@ -973,6 +1087,121 @@
          "name": "Cincinnati Bengals",
          "short": "Bengals",
          "abbr": "CIN",
+         "score": 0,
+         "ha": "home",
+         "winner": null,
+         "linescores": []
+        }
+       ]
+      },
+      "source": "espn"
+     }
+    ],
+    "sport": "NFL",
+    "ticket": "single"
+   }
+  },
+  {
+   "n": 1055,
+   "league": "NFL",
+   "type": "Over/Under",
+   "matchup": "Baltimore Ravens @ Houston Texans",
+   "pick": "Over 47",
+   "odds": -110,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-29T10:00:00",
+   "timed": true,
+   "ticket": "single",
+   "espn": {
+    "legs": [
+     {
+      "kind": "total",
+      "side": null,
+      "ou": "O",
+      "line": 47.0,
+      "label": "O 47.0",
+      "path": "football/nfl",
+      "event": "401873085",
+      "date": "20261129",
+      "snapshot": {
+       "source": "espn",
+       "state": "pre",
+       "detail": "11/29 - 1:00 PM EST",
+       "start": "2026-11-29T18:00Z",
+       "period": null,
+       "clock": null,
+       "teams": [
+        {
+         "name": "Baltimore Ravens",
+         "short": "Ravens",
+         "abbr": "BAL",
+         "score": 0,
+         "ha": "away",
+         "winner": null,
+         "linescores": []
+        },
+        {
+         "name": "Houston Texans",
+         "short": "Texans",
+         "abbr": "HOU",
+         "score": 0,
+         "ha": "home",
+         "winner": null,
+         "linescores": []
+        }
+       ]
+      },
+      "source": "espn"
+     }
+    ],
+    "sport": "NFL",
+    "ticket": "single"
+   }
+  },
+  {
+   "n": 1056,
+   "league": "NFL",
+   "type": "Spread",
+   "matchup": "New York Jets @ Miami Dolphins",
+   "pick": "Miami Dolphins +5",
+   "odds": -108,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-29T10:00:00",
+   "timed": true,
+   "ticket": "single",
+   "espn": {
+    "legs": [
+     {
+      "kind": "spread",
+      "side": "Miami Dolphins",
+      "line": 5.0,
+      "label": "Miami Dolphins +5",
+      "path": "football/nfl",
+      "event": "401873089",
+      "date": "20261129",
+      "snapshot": {
+       "source": "espn",
+       "state": "pre",
+       "detail": "11/29 - 1:00 PM EST",
+       "start": "2026-11-29T18:00Z",
+       "period": null,
+       "clock": null,
+       "teams": [
+        {
+         "name": "New York Jets",
+         "short": "Jets",
+         "abbr": "NYJ",
+         "score": 0,
+         "ha": "away",
+         "winner": null,
+         "linescores": []
+        },
+        {
+         "name": "Miami Dolphins",
+         "short": "Dolphins",
+         "abbr": "MIA",
          "score": 0,
          "ha": "home",
          "winner": null,
@@ -1258,6 +1487,64 @@
          "name": "Arizona Cardinals",
          "short": "Cardinals",
          "abbr": "ARI",
+         "score": 0,
+         "ha": "home",
+         "winner": null,
+         "linescores": []
+        }
+       ]
+      },
+      "source": "espn"
+     }
+    ],
+    "sport": "NFL",
+    "ticket": "single"
+   }
+  },
+  {
+   "n": 1054,
+   "league": "NFL",
+   "type": "Over/Under",
+   "matchup": "Carolina Panthers @ Tampa Bay Buccaneers",
+   "pick": "Over 43.5",
+   "odds": -110,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-30T17:15:00",
+   "timed": true,
+   "ticket": "single",
+   "espn": {
+    "legs": [
+     {
+      "kind": "total",
+      "side": null,
+      "ou": "O",
+      "line": 43.5,
+      "label": "O 43.5",
+      "path": "football/nfl",
+      "event": "401873094",
+      "date": "20261130",
+      "snapshot": {
+       "source": "espn",
+       "state": "pre",
+       "detail": "11/30 - 8:15 PM EST",
+       "start": "2026-12-01T01:15Z",
+       "period": null,
+       "clock": null,
+       "teams": [
+        {
+         "name": "Carolina Panthers",
+         "short": "Panthers",
+         "abbr": "CAR",
+         "score": 0,
+         "ha": "away",
+         "winner": null,
+         "linescores": []
+        },
+        {
+         "name": "Tampa Bay Buccaneers",
+         "short": "Buccaneers",
+         "abbr": "TB",
          "score": 0,
          "ha": "home",
          "winner": null,
