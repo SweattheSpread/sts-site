@@ -1,5 +1,5 @@
 {
- "updated": "Nov 25, 2026, 4:21 PM PT",
+ "updated": "Nov 25, 2026, 4:23 PM PT",
  "record": {
   "w": 273,
   "l": 274,
@@ -2060,10 +2060,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P1 19:22",
+       "detail": "P1 16:34",
        "start": "2026-11-26T00:00:00Z",
        "period": 1,
-       "clock": "19:22",
+       "clock": "16:34",
        "teams": [
         {
          "name": "Blues",
@@ -2120,10 +2120,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P1 12:55",
+       "detail": "P1 11:49",
        "start": "2026-11-26T00:00:00Z",
        "period": 1,
-       "clock": "12:55",
+       "clock": "11:49",
        "teams": [
         {
          "name": "Flames",
@@ -2184,10 +2184,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P1 18:19",
+       "detail": "P1 16:33",
        "start": "2026-11-26T00:00:00Z",
        "period": 1,
-       "clock": "18:19",
+       "clock": "16:33",
        "teams": [
         {
          "name": "Flyers",
@@ -2316,16 +2316,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "10:35 - 1st",
+       "detail": "9:01 - 1st",
        "start": "2026-11-26T00:00Z",
        "period": 1,
-       "clock": "10:35",
+       "clock": "9:01",
        "teams": [
         {
          "name": "Longwood Lancers",
          "short": "Lancers",
          "abbr": "LONG",
-         "score": 10,
+         "score": 12,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -2336,7 +2336,7 @@
          "name": "George Mason Patriots",
          "short": "Patriots",
          "abbr": "GMU",
-         "score": 22,
+         "score": 26,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -2379,10 +2379,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P1 18:19",
+       "detail": "P1 16:33",
        "start": "2026-11-26T00:00:00Z",
        "period": 1,
-       "clock": "18:19",
+       "clock": "16:33",
        "teams": [
         {
          "name": "Flyers",
