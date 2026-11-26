@@ -1,5 +1,5 @@
 {
- "updated": "Nov 26, 2026, 11:25 AM PT",
+ "updated": "Nov 26, 2026, 11:27 AM PT",
  "record": {
   "w": 283,
   "l": 287,
@@ -11,7 +11,7 @@
   "first": "2026-10-12",
   "last": "2026-11-25"
  },
- "pending": 31,
+ "pending": 32,
  "latest": [
   {
    "n": 1051,
@@ -1880,10 +1880,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "1:13 - 2nd",
+       "detail": "1:07 - 2nd",
        "start": "2026-11-26T18:00Z",
        "period": 2,
-       "clock": "1:13",
+       "clock": "1:07",
        "teams": [
         {
          "name": "Chicago Bears",
@@ -1944,10 +1944,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "1:13 - 2nd",
+       "detail": "1:07 - 2nd",
        "start": "2026-11-26T18:00Z",
        "period": 2,
-       "clock": "1:13",
+       "clock": "1:07",
        "teams": [
         {
          "name": "Chicago Bears",
@@ -2008,10 +2008,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "1:13 - 2nd",
+       "detail": "1:07 - 2nd",
        "start": "2026-11-26T18:00Z",
        "period": 2,
-       "clock": "1:13",
+       "clock": "1:07",
        "teams": [
         {
          "name": "Chicago Bears",
@@ -2038,6 +2038,72 @@
          ]
         }
        ]
+      },
+      "source": "espn"
+     }
+    ],
+    "sport": "NFL",
+    "ticket": "single"
+   }
+  },
+  {
+   "n": 1064,
+   "league": "NFL",
+   "type": "Player Prop",
+   "matchup": "Chicago Bears @ Detroit Lions",
+   "pick": "Amon-Ra St. Brown (DET) Over 143.5 receiving yards LIVE",
+   "odds": -115,
+   "units": 3.0,
+   "gap": null,
+   "start": "2026-11-26T10:00:00",
+   "timed": true,
+   "ticket": "single",
+   "espn": {
+    "legs": [
+     {
+      "kind": "prop",
+      "player": "Amon-Ra St. Brown",
+      "ou": "O",
+      "line": 143.5,
+      "stat": "receiving yards live",
+      "label": "Amon-Ra St. Brown O 143.5 receiving yards live",
+      "path": "football/nfl",
+      "event": "401873081",
+      "date": "20261126",
+      "snapshot": {
+       "source": "espn",
+       "state": "in",
+       "detail": "1:07 - 2nd",
+       "start": "2026-11-26T18:00Z",
+       "period": 2,
+       "clock": "1:07",
+       "teams": [
+        {
+         "name": "Chicago Bears",
+         "short": "Bears",
+         "abbr": "CHI",
+         "score": 10,
+         "ha": "away",
+         "winner": null,
+         "linescores": [
+          0,
+          0
+         ]
+        },
+        {
+         "name": "Detroit Lions",
+         "short": "Lions",
+         "abbr": "DET",
+         "score": 12,
+         "ha": "home",
+         "winner": null,
+         "linescores": [
+          0,
+          0
+         ]
+        }
+       ],
+       "stat": null
       },
       "source": "espn"
      }

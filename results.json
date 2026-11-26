@@ -1,5 +1,5 @@
 {
- "updated": "Nov 26, 2026, 11:25 AM PT",
+ "updated": "Nov 26, 2026, 11:27 AM PT",
  "record": {
   "w": 283,
   "l": 287,
@@ -11,7 +11,7 @@
   "first": "2026-10-12",
   "last": "2026-11-25"
  },
- "pending": 32,
+ "pending": 33,
  "plays": [
   {
    "n": 334,
@@ -9497,6 +9497,22 @@
    "pick": "(1) Kansas City Chiefs @ Buffalo Bills SGP +500: Emmett Johnson 70+ rushing yds, James Cook 80+ rushing yds, James Cook anytime TD, Emmett Johnson anytime TD; (2) Denver Broncos @ Pittsburgh Steelers SGP +130: Jonah Coleman 70+ rushing yds, Jonah Coleman anytime TD",
    "odds": 1280,
    "units": 1.0,
+   "result": null,
+   "pl": null,
+   "pending": true
+  },
+  {
+   "n": 1064,
+   "date": "2026-11-26",
+   "day": "2026-11-26",
+   "league": "NFL",
+   "market": "player_prop",
+   "market_label": "Player Prop",
+   "ticket": "single",
+   "matchup": "Chicago Bears @ Detroit Lions",
+   "pick": "Amon-Ra St. Brown (DET) Over 143.5 receiving yards LIVE",
+   "odds": -115,
+   "units": 3.0,
    "result": null,
    "pl": null,
    "pending": true
