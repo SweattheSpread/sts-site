@@ -1,5 +1,5 @@
 {
- "updated": "Nov 26, 2026, 10:55 AM PT",
+ "updated": "Nov 26, 2026, 10:58 AM PT",
  "record": {
   "w": 283,
   "l": 287,
@@ -11,7 +11,7 @@
   "first": "2026-10-12",
   "last": "2026-11-25"
  },
- "pending": 29,
+ "pending": 30,
  "plays": [
   {
    "n": 334,
@@ -9465,6 +9465,22 @@
    "pick": "James Cook Over 86.5 rushing yards (player prop)",
    "odds": -110,
    "units": 5.0,
+   "result": null,
+   "pl": null,
+   "pending": true
+  },
+  {
+   "n": 1061,
+   "date": "2026-11-26",
+   "day": "2026-11-26",
+   "league": "NFL",
+   "market": "parlay",
+   "market_label": "SGP",
+   "ticket": "sgp",
+   "matchup": "Kansas City Chiefs @ Buffalo Bills",
+   "pick": "2-leg parlay James Cook anytime TD + Emmett Johnson anytime TD",
+   "odds": 221,
+   "units": 1.5,
    "result": null,
    "pl": null,
    "pending": true
