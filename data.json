@@ -1,5 +1,5 @@
 {
- "updated": "Nov 25, 2026, 5:58 PM PT",
+ "updated": "Nov 25, 2026, 6:00 PM PT",
  "record": {
   "w": 273,
   "l": 274,
@@ -127,64 +127,6 @@
   }
  ],
  "picks": [
-  {
-   "n": 1046,
-   "league": "NCAAB",
-   "type": "Over/Under",
-   "matchup": "Mississippi Valley St Delta Devils @ New Mexico Lobos",
-   "pick": "Under 152.5",
-   "odds": -110,
-   "units": 1.0,
-   "gap": null,
-   "start": "2026-11-25T18:00:00",
-   "timed": true,
-   "ticket": "single",
-   "espn": {
-    "legs": [
-     {
-      "kind": "total",
-      "side": null,
-      "ou": "U",
-      "line": 152.5,
-      "label": "U 152.5",
-      "path": "basketball/mens-college-basketball",
-      "event": "401924897",
-      "date": "20261125",
-      "snapshot": {
-       "source": "espn",
-       "state": "pre",
-       "detail": "11/25 - 9:00 PM EST",
-       "start": "2026-11-26T02:00Z",
-       "period": null,
-       "clock": null,
-       "teams": [
-        {
-         "name": "Mississippi Valley State Delta Devils",
-         "short": "Delta Devils",
-         "abbr": "MVSU",
-         "score": 0,
-         "ha": "away",
-         "winner": null,
-         "linescores": []
-        },
-        {
-         "name": "New Mexico Lobos",
-         "short": "Lobos",
-         "abbr": "UNM",
-         "score": 0,
-         "ha": "home",
-         "winner": null,
-         "linescores": []
-        }
-       ]
-      },
-      "source": "espn"
-     }
-    ],
-    "sport": "NCAAB",
-    "ticket": "single"
-   }
-  },
   {
    "n": 1038,
    "league": "NHL",
@@ -1503,10 +1445,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "12:56 - 2nd",
+       "detail": "11:29 - 2nd",
        "start": "2026-11-26T01:00Z",
        "period": 2,
-       "clock": "12:56",
+       "clock": "11:29",
        "teams": [
         {
          "name": "Green Bay Packers",
@@ -1524,7 +1466,7 @@
          "name": "Los Angeles Rams",
          "short": "Rams",
          "abbr": "LAR",
-         "score": 6,
+         "score": 13,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -1567,10 +1509,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "12:56 - 2nd",
+       "detail": "11:29 - 2nd",
        "start": "2026-11-26T01:00Z",
        "period": 2,
-       "clock": "12:56",
+       "clock": "11:29",
        "teams": [
         {
          "name": "Green Bay Packers",
@@ -1588,7 +1530,7 @@
          "name": "Los Angeles Rams",
          "short": "Rams",
          "abbr": "LAR",
-         "score": 6,
+         "score": 13,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -1630,10 +1572,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "12:56 - 2nd",
+       "detail": "11:29 - 2nd",
        "start": "2026-11-26T01:00Z",
        "period": 2,
-       "clock": "12:56",
+       "clock": "11:29",
        "teams": [
         {
          "name": "Green Bay Packers",
@@ -1651,7 +1593,7 @@
          "name": "Los Angeles Rams",
          "short": "Rams",
          "abbr": "LAR",
-         "score": 6,
+         "score": 13,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -1758,10 +1700,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P2 04:19",
+       "detail": "P2 02:03",
        "start": "2026-11-26T00:00:00Z",
        "period": 2,
-       "clock": "04:19",
+       "clock": "02:03",
        "teams": [
         {
          "name": "Blues",
@@ -1818,10 +1760,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P2 06:01",
+       "detail": "P2 03:44",
        "start": "2026-11-26T00:00:00Z",
        "period": 2,
-       "clock": "06:01",
+       "clock": "03:44",
        "teams": [
         {
          "name": "Flames",
@@ -1882,10 +1824,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P2 08:24",
+       "detail": "P2 06:07",
        "start": "2026-11-26T00:00:00Z",
        "period": 2,
-       "clock": "08:24",
+       "clock": "06:07",
        "teams": [
         {
          "name": "Flyers",
@@ -1943,10 +1885,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P1 08:48",
+       "detail": "P1 06:33",
        "start": "2026-11-26T01:00:00Z",
        "period": 1,
-       "clock": "08:48",
+       "clock": "06:33",
        "teams": [
         {
          "name": "Mammoth",
@@ -2003,10 +1945,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "5:01 - 1st",
+       "detail": "4:12 - 1st",
        "start": "2026-11-26T01:30Z",
        "period": 1,
-       "clock": "5:01",
+       "clock": "4:12",
        "teams": [
         {
          "name": "Phoenix Suns",
@@ -2023,7 +1965,7 @@
          "name": "Houston Rockets",
          "short": "Rockets",
          "abbr": "HOU",
-         "score": 20,
+         "score": 22,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -2067,16 +2009,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "11:27 - 3rd",
+       "detail": "9:47 - 3rd",
        "start": "2026-11-26T00:30Z",
        "period": 3,
-       "clock": "11:27",
+       "clock": "9:47",
        "teams": [
         {
          "name": "Cleveland Cavaliers",
          "short": "Cavaliers",
          "abbr": "CLE",
-         "score": 61,
+         "score": 68,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -2089,7 +2031,7 @@
          "name": "New York Knicks",
          "short": "Knicks",
          "abbr": "NY",
-         "score": 56,
+         "score": 59,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -2249,16 +2191,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "17:00 - 1st",
+       "detail": "15:31 - 1st",
        "start": "2026-11-26T01:45Z",
        "period": 1,
-       "clock": "17:00",
+       "clock": "15:31",
        "teams": [
         {
          "name": "Eastern Michigan Eagles",
          "short": "Eagles",
          "abbr": "EMU",
-         "score": 0,
+         "score": 3,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -2269,7 +2211,7 @@
          "name": "UTEP Miners",
          "short": "Miners",
          "abbr": "UTEP",
-         "score": 5,
+         "score": 8,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -2349,6 +2291,64 @@
    }
   },
   {
+   "n": 1046,
+   "league": "NCAAB",
+   "type": "Over/Under",
+   "matchup": "Mississippi Valley St Delta Devils @ New Mexico Lobos",
+   "pick": "Under 152.5",
+   "odds": -110,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-25T18:00:00",
+   "timed": true,
+   "ticket": "single",
+   "espn": {
+    "legs": [
+     {
+      "kind": "total",
+      "side": null,
+      "ou": "U",
+      "line": 152.5,
+      "label": "U 152.5",
+      "path": "basketball/mens-college-basketball",
+      "event": "401924897",
+      "date": "20261125",
+      "snapshot": {
+       "source": "espn",
+       "state": "pre",
+       "detail": "11/25 - 9:00 PM EST",
+       "start": "2026-11-26T02:00Z",
+       "period": null,
+       "clock": null,
+       "teams": [
+        {
+         "name": "Mississippi Valley State Delta Devils",
+         "short": "Delta Devils",
+         "abbr": "MVSU",
+         "score": 0,
+         "ha": "away",
+         "winner": null,
+         "linescores": []
+        },
+        {
+         "name": "New Mexico Lobos",
+         "short": "Lobos",
+         "abbr": "UNM",
+         "score": 0,
+         "ha": "home",
+         "winner": null,
+         "linescores": []
+        }
+       ]
+      },
+      "source": "espn"
+     }
+    ],
+    "sport": "NCAAB",
+    "ticket": "single"
+   }
+  },
+  {
    "n": 1047,
    "league": "NBA",
    "type": "Player Prop",
@@ -2375,10 +2375,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "5:01 - 1st",
+       "detail": "4:12 - 1st",
        "start": "2026-11-26T01:30Z",
        "period": 1,
-       "clock": "5:01",
+       "clock": "4:12",
        "teams": [
         {
          "name": "Phoenix Suns",
@@ -2395,7 +2395,7 @@
          "name": "Houston Rockets",
          "short": "Rockets",
          "abbr": "HOU",
-         "score": 20,
+         "score": 22,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -2439,10 +2439,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P2 08:24",
+       "detail": "P2 06:07",
        "start": "2026-11-26T00:00:00Z",
        "period": 2,
-       "clock": "08:24",
+       "clock": "06:07",
        "teams": [
         {
          "name": "Flyers",
@@ -2501,10 +2501,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "12:56 - 2nd",
+       "detail": "11:29 - 2nd",
        "start": "2026-11-26T01:00Z",
        "period": 2,
-       "clock": "12:56",
+       "clock": "11:29",
        "teams": [
         {
          "name": "Green Bay Packers",
@@ -2522,7 +2522,7 @@
          "name": "Los Angeles Rams",
          "short": "Rams",
          "abbr": "LAR",
-         "score": 6,
+         "score": 13,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -2566,10 +2566,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "12:56 - 2nd",
+       "detail": "11:29 - 2nd",
        "start": "2026-11-26T01:00Z",
        "period": 2,
-       "clock": "12:56",
+       "clock": "11:29",
        "teams": [
         {
          "name": "Green Bay Packers",
@@ -2587,7 +2587,7 @@
          "name": "Los Angeles Rams",
          "short": "Rams",
          "abbr": "LAR",
-         "score": 6,
+         "score": 13,
          "ha": "home",
          "winner": null,
          "linescores": [
