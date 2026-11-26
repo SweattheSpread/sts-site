@@ -1,5 +1,5 @@
 {
- "updated": "Nov 25, 2026, 8:03 PM PT",
+ "updated": "Nov 25, 2026, 8:53 PM PT",
  "record": {
   "w": 273,
   "l": 274,
@@ -1325,11 +1325,11 @@
       "date": "20261125",
       "snapshot": {
        "source": "espn",
-       "state": "in",
-       "detail": "7:48 - 4th",
+       "state": "post",
+       "detail": "Final",
        "start": "2026-11-26T01:00Z",
-       "period": 4,
-       "clock": "7:48",
+       "period": null,
+       "clock": null,
        "teams": [
         {
          "name": "Green Bay Packers",
@@ -1337,7 +1337,7 @@
          "abbr": "GB",
          "score": 13,
          "ha": "away",
-         "winner": null,
+         "winner": false,
          "linescores": [
           0,
           0,
@@ -1349,9 +1349,9 @@
          "name": "Los Angeles Rams",
          "short": "Rams",
          "abbr": "LAR",
-         "score": 20,
+         "score": 26,
          "ha": "home",
-         "winner": null,
+         "winner": true,
          "linescores": [
           0,
           0,
@@ -1393,11 +1393,11 @@
       "date": "20261125",
       "snapshot": {
        "source": "espn",
-       "state": "in",
-       "detail": "7:48 - 4th",
+       "state": "post",
+       "detail": "Final",
        "start": "2026-11-26T01:00Z",
-       "period": 4,
-       "clock": "7:48",
+       "period": null,
+       "clock": null,
        "teams": [
         {
          "name": "Green Bay Packers",
@@ -1405,7 +1405,7 @@
          "abbr": "GB",
          "score": 13,
          "ha": "away",
-         "winner": null,
+         "winner": false,
          "linescores": [
           0,
           0,
@@ -1417,9 +1417,9 @@
          "name": "Los Angeles Rams",
          "short": "Rams",
          "abbr": "LAR",
-         "score": 20,
+         "score": 26,
          "ha": "home",
-         "winner": null,
+         "winner": true,
          "linescores": [
           0,
           0,
@@ -1460,11 +1460,11 @@
       "date": "20261125",
       "snapshot": {
        "source": "espn",
-       "state": "in",
-       "detail": "7:48 - 4th",
+       "state": "post",
+       "detail": "Final",
        "start": "2026-11-26T01:00Z",
-       "period": 4,
-       "clock": "7:48",
+       "period": null,
+       "clock": null,
        "teams": [
         {
          "name": "Green Bay Packers",
@@ -1472,7 +1472,7 @@
          "abbr": "GB",
          "score": 13,
          "ha": "away",
-         "winner": null,
+         "winner": false,
          "linescores": [
           0,
           0,
@@ -1484,9 +1484,9 @@
          "name": "Los Angeles Rams",
          "short": "Rams",
          "abbr": "LAR",
-         "score": 20,
+         "score": 26,
          "ha": "home",
-         "winner": null,
+         "winner": true,
          "linescores": [
           0,
           0,
@@ -1833,49 +1833,36 @@
       "line": 1.5,
       "stat": "3-pointers made +105",
       "label": "Miles Bridges O 1.5 3-pointers made +105",
-      "path": "basketball/nba",
-      "event": "401909323",
       "date": "20261125",
+      "unverified": true,
+      "reason": "Player not found in this game",
       "snapshot": {
-       "source": "espn",
-       "state": "in",
-       "detail": "1.5 - 4th",
-       "start": "2026-11-26T01:30Z",
-       "period": 4,
-       "clock": "1.5",
+       "source": "odds-api",
+       "state": "post",
+       "detail": "Final",
+       "start": "2026-11-26T01:41:00Z",
        "teams": [
         {
          "name": "Phoenix Suns",
-         "short": "Suns",
-         "abbr": "PHX",
+         "short": "Phoenix Suns",
+         "abbr": "",
          "score": 104,
          "ha": "away",
-         "winner": null,
-         "linescores": [
-          0,
-          0,
-          0,
-          0
-         ]
+         "winner": false,
+         "linescores": []
         },
         {
          "name": "Houston Rockets",
-         "short": "Rockets",
-         "abbr": "HOU",
+         "short": "Houston Rockets",
+         "abbr": "",
          "score": 116,
          "ha": "home",
-         "winner": null,
-         "linescores": [
-          0,
-          0,
-          0,
-          0
-         ]
+         "winner": true,
+         "linescores": []
         }
-       ],
-       "stat": null
+       ]
       },
-      "source": "espn"
+      "source": "odds-api"
      }
     ],
     "sport": "NBA",
@@ -1909,10 +1896,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P1 03:17",
+       "detail": "P2 06:27",
        "start": "2026-11-26T03:00:00Z",
-       "period": 1,
-       "clock": "03:17",
+       "period": 2,
+       "clock": "06:27",
        "teams": [
         {
          "name": "Sharks",
@@ -1927,7 +1914,7 @@
          "name": "Ducks",
          "short": "ANA",
          "abbr": "ANA",
-         "score": 3,
+         "score": 5,
          "ha": "home",
          "winner": null,
          "linescores": []
@@ -2343,49 +2330,36 @@
       "line": 1.5,
       "stat": "3-pointers made +100",
       "label": "Dillon Brooks O 1.5 3-pointers made +100",
-      "path": "basketball/nba",
-      "event": "401909323",
       "date": "20261125",
+      "unverified": true,
+      "reason": "Player not found in this game",
       "snapshot": {
-       "source": "espn",
-       "state": "in",
-       "detail": "1.5 - 4th",
-       "start": "2026-11-26T01:30Z",
-       "period": 4,
-       "clock": "1.5",
+       "source": "odds-api",
+       "state": "post",
+       "detail": "Final",
+       "start": "2026-11-26T01:41:00Z",
        "teams": [
         {
          "name": "Phoenix Suns",
-         "short": "Suns",
-         "abbr": "PHX",
+         "short": "Phoenix Suns",
+         "abbr": "",
          "score": 104,
          "ha": "away",
-         "winner": null,
-         "linescores": [
-          0,
-          0,
-          0,
-          0
-         ]
+         "winner": false,
+         "linescores": []
         },
         {
          "name": "Houston Rockets",
-         "short": "Rockets",
-         "abbr": "HOU",
+         "short": "Houston Rockets",
+         "abbr": "",
          "score": 116,
          "ha": "home",
-         "winner": null,
-         "linescores": [
-          0,
-          0,
-          0,
-          0
-         ]
+         "winner": true,
+         "linescores": []
         }
-       ],
-       "stat": null
+       ]
       },
-      "source": "espn"
+      "source": "odds-api"
      }
     ],
     "sport": "NBA",
@@ -2483,19 +2457,21 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "2:19 - 2nd",
+       "detail": "10:57 - 4th",
        "start": "2026-11-26T03:00Z",
-       "period": 2,
-       "clock": "2:19",
+       "period": 4,
+       "clock": "10:57",
        "teams": [
         {
          "name": "Sacramento Kings",
          "short": "Kings",
          "abbr": "SAC",
-         "score": 43,
+         "score": 91,
          "ha": "away",
          "winner": null,
          "linescores": [
+          0,
+          0,
           0,
           0
          ]
@@ -2504,10 +2480,12 @@
          "name": "Golden State Warriors",
          "short": "Warriors",
          "abbr": "GS",
-         "score": 64,
+         "score": 101,
          "ha": "home",
          "winner": null,
          "linescores": [
+          0,
+          0,
           0,
           0
          ]
@@ -2546,11 +2524,11 @@
       "date": "20261125",
       "snapshot": {
        "source": "espn",
-       "state": "in",
-       "detail": "7:48 - 4th",
+       "state": "post",
+       "detail": "Final",
        "start": "2026-11-26T01:00Z",
-       "period": 4,
-       "clock": "7:48",
+       "period": null,
+       "clock": null,
        "teams": [
         {
          "name": "Green Bay Packers",
@@ -2558,7 +2536,7 @@
          "abbr": "GB",
          "score": 13,
          "ha": "away",
-         "winner": null,
+         "winner": false,
          "linescores": [
           0,
           0,
@@ -2570,9 +2548,9 @@
          "name": "Los Angeles Rams",
          "short": "Rams",
          "abbr": "LAR",
-         "score": 20,
+         "score": 26,
          "ha": "home",
-         "winner": null,
+         "winner": true,
          "linescores": [
           0,
           0,
@@ -2610,49 +2588,36 @@
       "line": 67.5,
       "stat": "receiving yards -122",
       "label": "Matthew Golden O 67.5 receiving yards -122",
-      "path": "football/nfl",
-      "event": "401873079",
       "date": "20261125",
+      "unverified": true,
+      "reason": "Player not found in this game",
       "snapshot": {
-       "source": "espn",
-       "state": "in",
-       "detail": "7:48 - 4th",
-       "start": "2026-11-26T01:00Z",
-       "period": 4,
-       "clock": "7:48",
+       "source": "odds-api",
+       "state": "post",
+       "detail": "Final",
+       "start": "2026-11-26T01:15:28Z",
        "teams": [
         {
          "name": "Green Bay Packers",
-         "short": "Packers",
-         "abbr": "GB",
+         "short": "Green Bay Packers",
+         "abbr": "",
          "score": 13,
          "ha": "away",
-         "winner": null,
-         "linescores": [
-          0,
-          0,
-          0,
-          0
-         ]
+         "winner": false,
+         "linescores": []
         },
         {
          "name": "Los Angeles Rams",
-         "short": "Rams",
-         "abbr": "LAR",
-         "score": 20,
+         "short": "Los Angeles Rams",
+         "abbr": "",
+         "score": 26,
          "ha": "home",
-         "winner": null,
-         "linescores": [
-          0,
-          0,
-          0,
-          0
-         ]
+         "winner": true,
+         "linescores": []
         }
-       ],
-       "stat": null
+       ]
       },
-      "source": "espn"
+      "source": "odds-api"
      }
     ],
     "sport": "NFL",
