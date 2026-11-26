@@ -1,5 +1,5 @@
 {
- "updated": "Nov 26, 2026, 10:02 AM PT",
+ "updated": "Nov 26, 2026, 10:04 AM PT",
  "record": {
   "w": 283,
   "l": 287,
@@ -1438,11 +1438,11 @@
       "date": "20261126",
       "snapshot": {
        "source": "espn",
-       "state": "pre",
-       "detail": "11/26 - 1:00 PM EST",
+       "state": "in",
+       "detail": "14:15 - 1st",
        "start": "2026-11-26T18:00Z",
-       "period": null,
-       "clock": null,
+       "period": 1,
+       "clock": "14:15",
        "teams": [
         {
          "name": "Chicago Bears",
@@ -1451,7 +1451,9 @@
          "score": 0,
          "ha": "away",
          "winner": null,
-         "linescores": []
+         "linescores": [
+          0
+         ]
         },
         {
          "name": "Detroit Lions",
@@ -1460,7 +1462,9 @@
          "score": 0,
          "ha": "home",
          "winner": null,
-         "linescores": []
+         "linescores": [
+          0
+         ]
         }
        ]
       },
@@ -1496,11 +1500,11 @@
       "date": "20261126",
       "snapshot": {
        "source": "espn",
-       "state": "pre",
-       "detail": "11/26 - 1:00 PM EST",
+       "state": "in",
+       "detail": "14:15 - 1st",
        "start": "2026-11-26T18:00Z",
-       "period": null,
-       "clock": null,
+       "period": 1,
+       "clock": "14:15",
        "teams": [
         {
          "name": "Chicago Bears",
@@ -1509,7 +1513,9 @@
          "score": 0,
          "ha": "away",
          "winner": null,
-         "linescores": []
+         "linescores": [
+          0
+         ]
         },
         {
          "name": "Detroit Lions",
@@ -1518,7 +1524,9 @@
          "score": 0,
          "ha": "home",
          "winner": null,
-         "linescores": []
+         "linescores": [
+          0
+         ]
         }
        ]
       },
@@ -1554,11 +1562,11 @@
       "date": "20261126",
       "snapshot": {
        "source": "espn",
-       "state": "pre",
-       "detail": "11/26 - 1:00 PM EST",
+       "state": "in",
+       "detail": "14:15 - 1st",
        "start": "2026-11-26T18:00Z",
-       "period": null,
-       "clock": null,
+       "period": 1,
+       "clock": "14:15",
        "teams": [
         {
          "name": "Chicago Bears",
@@ -1567,7 +1575,9 @@
          "score": 0,
          "ha": "away",
          "winner": null,
-         "linescores": []
+         "linescores": [
+          0
+         ]
         },
         {
          "name": "Detroit Lions",
@@ -1576,7 +1586,9 @@
          "score": 0,
          "ha": "home",
          "winner": null,
-         "linescores": []
+         "linescores": [
+          0
+         ]
         }
        ]
       },
