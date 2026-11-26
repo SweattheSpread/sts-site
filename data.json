@@ -1,5 +1,5 @@
 {
- "updated": "Nov 25, 2026, 7:01 PM PT",
+ "updated": "Nov 25, 2026, 7:04 PM PT",
  "record": {
   "w": 273,
   "l": 274,
@@ -1886,10 +1886,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P2 12:45",
+       "detail": "P2 10:16",
        "start": "2026-11-26T01:00:00Z",
        "period": 2,
-       "clock": "12:45",
+       "clock": "10:16",
        "teams": [
         {
          "name": "Mammoth",
@@ -2323,19 +2323,20 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "Halftime",
+       "detail": "18:20 - 2nd",
        "start": "2026-11-26T02:00Z",
-       "period": 1,
-       "clock": "0:00",
+       "period": 2,
+       "clock": "18:20",
        "teams": [
         {
          "name": "Mississippi Valley State Delta Devils",
          "short": "Delta Devils",
          "abbr": "MVSU",
-         "score": 41,
+         "score": 44,
          "ha": "away",
          "winner": null,
          "linescores": [
+          0,
           0
          ]
         },
@@ -2343,10 +2344,11 @@
          "name": "New Mexico Lobos",
          "short": "Lobos",
          "abbr": "UNM",
-         "score": 43,
+         "score": 46,
          "ha": "home",
          "winner": null,
          "linescores": [
+          0,
           0
          ]
         }
