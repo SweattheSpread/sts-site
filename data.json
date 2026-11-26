@@ -1,5 +1,5 @@
 {
- "updated": "Nov 26, 2026, 1:28 PM PT",
+ "updated": "Nov 26, 2026, 1:44 PM PT",
  "record": {
   "w": 283,
   "l": 287,
@@ -127,122 +127,6 @@
   }
  ],
  "picks": [
-  {
-   "n": 990,
-   "league": "NFL",
-   "type": "Over/Under",
-   "matchup": "Philadelphia Eagles @ Dallas Cowboys",
-   "pick": "Over 48",
-   "odds": -108,
-   "units": 1.0,
-   "gap": null,
-   "start": "2026-11-26T13:30:00",
-   "timed": true,
-   "ticket": "single",
-   "espn": {
-    "legs": [
-     {
-      "kind": "total",
-      "side": null,
-      "ou": "O",
-      "line": 48.0,
-      "label": "O 48.0",
-      "path": "football/nfl",
-      "event": "401873080",
-      "date": "20261126",
-      "snapshot": {
-       "source": "espn",
-       "state": "pre",
-       "detail": "11/26 - 4:30 PM EST",
-       "start": "2026-11-26T21:30Z",
-       "period": null,
-       "clock": null,
-       "teams": [
-        {
-         "name": "Philadelphia Eagles",
-         "short": "Eagles",
-         "abbr": "PHI",
-         "score": 0,
-         "ha": "away",
-         "winner": null,
-         "linescores": []
-        },
-        {
-         "name": "Dallas Cowboys",
-         "short": "Cowboys",
-         "abbr": "DAL",
-         "score": 0,
-         "ha": "home",
-         "winner": null,
-         "linescores": []
-        }
-       ]
-      },
-      "source": "espn"
-     }
-    ],
-    "sport": "NFL",
-    "ticket": "single"
-   }
-  },
-  {
-   "n": 1010,
-   "league": "NFL",
-   "type": "Player prop",
-   "matchup": "Philadelphia Eagles @ Dallas Cowboys",
-   "pick": "Ryan Flournoy longest reception Over 15.5",
-   "odds": -105,
-   "units": 1.0,
-   "gap": null,
-   "start": "2026-11-26T13:30:00",
-   "timed": true,
-   "ticket": "single",
-   "espn": {
-    "legs": [
-     {
-      "kind": "team_total",
-      "side": "Ryan Flournoy longest reception",
-      "ou": "O",
-      "line": 15.5,
-      "label": "Ryan Flournoy longest reception O 15.5",
-      "path": "football/nfl",
-      "event": "401873080",
-      "date": "20261126",
-      "snapshot": {
-       "source": "espn",
-       "state": "pre",
-       "detail": "11/26 - 4:30 PM EST",
-       "start": "2026-11-26T21:30Z",
-       "period": null,
-       "clock": null,
-       "teams": [
-        {
-         "name": "Philadelphia Eagles",
-         "short": "Eagles",
-         "abbr": "PHI",
-         "score": 0,
-         "ha": "away",
-         "winner": null,
-         "linescores": []
-        },
-        {
-         "name": "Dallas Cowboys",
-         "short": "Cowboys",
-         "abbr": "DAL",
-         "score": 0,
-         "ha": "home",
-         "winner": null,
-         "linescores": []
-        }
-       ]
-      },
-      "source": "espn"
-     }
-    ],
-    "sport": "NFL",
-    "ticket": "single"
-   }
-  },
   {
    "n": 961,
    "league": "NFL",
@@ -1822,19 +1706,19 @@
       "date": "20261126",
       "snapshot": {
        "source": "espn",
-       "state": "in",
-       "detail": "0:09 - 4th",
+       "state": "post",
+       "detail": "Final",
        "start": "2026-11-26T18:00Z",
-       "period": 4,
-       "clock": "0:09",
+       "period": null,
+       "clock": null,
        "teams": [
         {
          "name": "Chicago Bears",
          "short": "Bears",
          "abbr": "CHI",
-         "score": 32,
+         "score": 39,
          "ha": "away",
-         "winner": null,
+         "winner": true,
          "linescores": [
           0,
           0,
@@ -1848,7 +1732,7 @@
          "abbr": "DET",
          "score": 35,
          "ha": "home",
-         "winner": null,
+         "winner": false,
          "linescores": [
           0,
           0,
@@ -1923,6 +1807,64 @@
    }
   },
   {
+   "n": 990,
+   "league": "NFL",
+   "type": "Over/Under",
+   "matchup": "Philadelphia Eagles @ Dallas Cowboys",
+   "pick": "Over 48",
+   "odds": -108,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-26T13:30:00",
+   "timed": true,
+   "ticket": "single",
+   "espn": {
+    "legs": [
+     {
+      "kind": "total",
+      "side": null,
+      "ou": "O",
+      "line": 48.0,
+      "label": "O 48.0",
+      "path": "football/nfl",
+      "event": "401873080",
+      "date": "20261126",
+      "snapshot": {
+       "source": "espn",
+       "state": "pre",
+       "detail": "11/26 - 4:30 PM EST",
+       "start": "2026-11-26T21:30Z",
+       "period": null,
+       "clock": null,
+       "teams": [
+        {
+         "name": "Philadelphia Eagles",
+         "short": "Eagles",
+         "abbr": "PHI",
+         "score": 0,
+         "ha": "away",
+         "winner": null,
+         "linescores": []
+        },
+        {
+         "name": "Dallas Cowboys",
+         "short": "Cowboys",
+         "abbr": "DAL",
+         "score": 0,
+         "ha": "home",
+         "winner": null,
+         "linescores": []
+        }
+       ]
+      },
+      "source": "espn"
+     }
+    ],
+    "sport": "NFL",
+    "ticket": "single"
+   }
+  },
+  {
    "n": 1008,
    "league": "NFL",
    "type": "Player prop",
@@ -1947,19 +1889,19 @@
       "date": "20261126",
       "snapshot": {
        "source": "espn",
-       "state": "in",
-       "detail": "0:09 - 4th",
+       "state": "post",
+       "detail": "Final",
        "start": "2026-11-26T18:00Z",
-       "period": 4,
-       "clock": "0:09",
+       "period": null,
+       "clock": null,
        "teams": [
         {
          "name": "Chicago Bears",
          "short": "Bears",
          "abbr": "CHI",
-         "score": 32,
+         "score": 39,
          "ha": "away",
-         "winner": null,
+         "winner": true,
          "linescores": [
           0,
           0,
@@ -1973,7 +1915,7 @@
          "abbr": "DET",
          "score": 35,
          "ha": "home",
-         "winner": null,
+         "winner": false,
          "linescores": [
           0,
           0,
@@ -2015,19 +1957,19 @@
       "date": "20261126",
       "snapshot": {
        "source": "espn",
-       "state": "in",
-       "detail": "0:09 - 4th",
+       "state": "post",
+       "detail": "Final",
        "start": "2026-11-26T18:00Z",
-       "period": 4,
-       "clock": "0:09",
+       "period": null,
+       "clock": null,
        "teams": [
         {
          "name": "Chicago Bears",
          "short": "Bears",
          "abbr": "CHI",
-         "score": 32,
+         "score": 39,
          "ha": "away",
-         "winner": null,
+         "winner": true,
          "linescores": [
           0,
           0,
@@ -2041,13 +1983,71 @@
          "abbr": "DET",
          "score": 35,
          "ha": "home",
-         "winner": null,
+         "winner": false,
          "linescores": [
           0,
           0,
           0,
           0
          ]
+        }
+       ]
+      },
+      "source": "espn"
+     }
+    ],
+    "sport": "NFL",
+    "ticket": "single"
+   }
+  },
+  {
+   "n": 1010,
+   "league": "NFL",
+   "type": "Player prop",
+   "matchup": "Philadelphia Eagles @ Dallas Cowboys",
+   "pick": "Ryan Flournoy longest reception Over 15.5",
+   "odds": -105,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-26T13:30:00",
+   "timed": true,
+   "ticket": "single",
+   "espn": {
+    "legs": [
+     {
+      "kind": "team_total",
+      "side": "Ryan Flournoy longest reception",
+      "ou": "O",
+      "line": 15.5,
+      "label": "Ryan Flournoy longest reception O 15.5",
+      "path": "football/nfl",
+      "event": "401873080",
+      "date": "20261126",
+      "snapshot": {
+       "source": "espn",
+       "state": "pre",
+       "detail": "11/26 - 4:30 PM EST",
+       "start": "2026-11-26T21:30Z",
+       "period": null,
+       "clock": null,
+       "teams": [
+        {
+         "name": "Philadelphia Eagles",
+         "short": "Eagles",
+         "abbr": "PHI",
+         "score": 0,
+         "ha": "away",
+         "winner": null,
+         "linescores": []
+        },
+        {
+         "name": "Dallas Cowboys",
+         "short": "Cowboys",
+         "abbr": "DAL",
+         "score": 0,
+         "ha": "home",
+         "winner": null,
+         "linescores": []
         }
        ]
       },
@@ -2079,49 +2079,36 @@
       "line": 143.5,
       "stat": "receiving yards live",
       "label": "Amon-Ra St. Brown O 143.5 receiving yards live",
-      "path": "football/nfl",
-      "event": "401873081",
       "date": "20261126",
+      "unverified": true,
+      "reason": "Player not found in this game",
       "snapshot": {
-       "source": "espn",
-       "state": "in",
-       "detail": "0:09 - 4th",
-       "start": "2026-11-26T18:00Z",
-       "period": 4,
-       "clock": "0:09",
+       "source": "odds-api",
+       "state": "post",
+       "detail": "Final",
+       "start": "2026-11-26T18:02:55Z",
        "teams": [
         {
          "name": "Chicago Bears",
-         "short": "Bears",
-         "abbr": "CHI",
-         "score": 32,
+         "short": "Chicago Bears",
+         "abbr": "",
+         "score": 39,
          "ha": "away",
-         "winner": null,
-         "linescores": [
-          0,
-          0,
-          0,
-          0
-         ]
+         "winner": true,
+         "linescores": []
         },
         {
          "name": "Detroit Lions",
-         "short": "Lions",
-         "abbr": "DET",
+         "short": "Detroit Lions",
+         "abbr": "",
          "score": 35,
          "ha": "home",
-         "winner": null,
-         "linescores": [
-          0,
-          0,
-          0,
-          0
-         ]
+         "winner": false,
+         "linescores": []
         }
-       ],
-       "stat": null
+       ]
       },
-      "source": "espn"
+      "source": "odds-api"
      }
     ],
     "sport": "NFL",
