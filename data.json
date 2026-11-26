@@ -1,5 +1,5 @@
 {
- "updated": "Nov 25, 2026, 7:04 PM PT",
+ "updated": "Nov 25, 2026, 7:23 PM PT",
  "record": {
   "w": 273,
   "l": 274,
@@ -127,125 +127,6 @@
   }
  ],
  "picks": [
-  {
-   "n": 1038,
-   "league": "NHL",
-   "type": "Player Prop",
-   "matchup": "San Jose Sharks @ Anaheim Ducks",
-   "pick": "Ivar Stenberg Under 1.5 shots on goal +115 (BetMGM)",
-   "odds": 115,
-   "units": 1.0,
-   "gap": null,
-   "start": "2026-11-25T19:10:00",
-   "timed": true,
-   "ticket": "single",
-   "espn": {
-    "legs": [
-     {
-      "kind": "prop",
-      "player": "Ivar Stenberg",
-      "ou": "U",
-      "line": 1.5,
-      "stat": "shots on goal +115",
-      "label": "Ivar Stenberg U 1.5 shots on goal +115",
-      "path": "hockey/nhl",
-      "event": "401892793",
-      "date": "20261125",
-      "snapshot": {
-       "source": "nhl",
-       "state": "pre",
-       "detail": "Scheduled",
-       "start": "2026-11-26T03:00:00Z",
-       "period": null,
-       "clock": null,
-       "teams": [
-        {
-         "name": "Sharks",
-         "short": "SJS",
-         "abbr": "SJS",
-         "score": 0,
-         "ha": "away",
-         "winner": null,
-         "linescores": []
-        },
-        {
-         "name": "Ducks",
-         "short": "ANA",
-         "abbr": "ANA",
-         "score": 0,
-         "ha": "home",
-         "winner": null,
-         "linescores": []
-        }
-       ],
-       "nhl_id": 2026020398
-      },
-      "source": "nhl"
-     }
-    ],
-    "sport": "NHL",
-    "ticket": "single"
-   }
-  },
-  {
-   "n": 1049,
-   "league": "NBA",
-   "type": "Player Prop",
-   "matchup": "Sacramento Kings @ Golden State Warriors",
-   "pick": "Keegan Murray Under 13.5 points +100 (BetMGM)",
-   "odds": 100,
-   "units": 1.0,
-   "gap": null,
-   "start": "2026-11-25T19:10:00",
-   "timed": true,
-   "ticket": "single",
-   "espn": {
-    "legs": [
-     {
-      "kind": "prop",
-      "player": "Keegan Murray",
-      "ou": "U",
-      "line": 13.5,
-      "stat": "points +100",
-      "label": "Keegan Murray U 13.5 points +100",
-      "path": "basketball/nba",
-      "event": "401909324",
-      "date": "20261125",
-      "snapshot": {
-       "source": "espn",
-       "state": "pre",
-       "detail": "11/25 - 10:00 PM EST",
-       "start": "2026-11-26T03:00Z",
-       "period": null,
-       "clock": null,
-       "teams": [
-        {
-         "name": "Sacramento Kings",
-         "short": "Kings",
-         "abbr": "SAC",
-         "score": 0,
-         "ha": "away",
-         "winner": null,
-         "linescores": []
-        },
-        {
-         "name": "Golden State Warriors",
-         "short": "Warriors",
-         "abbr": "GS",
-         "score": 0,
-         "ha": "home",
-         "winner": null,
-         "linescores": []
-        }
-       ]
-      },
-      "source": "espn"
-     }
-    ],
-    "sport": "NBA",
-    "ticket": "single"
-   }
-  },
   {
    "n": 1044,
    "league": "NCAAB",
@@ -1445,10 +1326,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "Halftime",
+       "detail": "6:58 - 3rd",
        "start": "2026-11-26T01:00Z",
-       "period": 2,
-       "clock": "0:00",
+       "period": 3,
+       "clock": "6:58",
        "teams": [
         {
          "name": "Green Bay Packers",
@@ -1459,6 +1340,7 @@
          "winner": null,
          "linescores": [
           0,
+          0,
           0
          ]
         },
@@ -1466,10 +1348,11 @@
          "name": "Los Angeles Rams",
          "short": "Rams",
          "abbr": "LAR",
-         "score": 13,
+         "score": 20,
          "ha": "home",
          "winner": null,
          "linescores": [
+          0,
           0,
           0
          ]
@@ -1509,10 +1392,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "Halftime",
+       "detail": "6:58 - 3rd",
        "start": "2026-11-26T01:00Z",
-       "period": 2,
-       "clock": "0:00",
+       "period": 3,
+       "clock": "6:58",
        "teams": [
         {
          "name": "Green Bay Packers",
@@ -1523,6 +1406,7 @@
          "winner": null,
          "linescores": [
           0,
+          0,
           0
          ]
         },
@@ -1530,10 +1414,11 @@
          "name": "Los Angeles Rams",
          "short": "Rams",
          "abbr": "LAR",
-         "score": 13,
+         "score": 20,
          "ha": "home",
          "winner": null,
          "linescores": [
+          0,
           0,
           0
          ]
@@ -1572,10 +1457,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "Halftime",
+       "detail": "6:58 - 3rd",
        "start": "2026-11-26T01:00Z",
-       "period": 2,
-       "clock": "0:00",
+       "period": 3,
+       "clock": "6:58",
        "teams": [
         {
          "name": "Green Bay Packers",
@@ -1586,6 +1471,7 @@
          "winner": null,
          "linescores": [
           0,
+          0,
           0
          ]
         },
@@ -1593,10 +1479,11 @@
          "name": "Los Angeles Rams",
          "short": "Rams",
          "abbr": "LAR",
-         "score": 13,
+         "score": 20,
          "ha": "home",
          "winner": null,
          "linescores": [
+          0,
           0,
           0
          ]
@@ -1886,10 +1773,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P2 10:16",
+       "detail": "P3 13:54",
        "start": "2026-11-26T01:00:00Z",
-       "period": 2,
-       "clock": "10:16",
+       "period": 3,
+       "clock": "13:54",
        "teams": [
         {
          "name": "Mammoth",
@@ -1946,19 +1833,20 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "Halftime",
+       "detail": "2:11 - 3rd",
        "start": "2026-11-26T01:30Z",
-       "period": 2,
-       "clock": "0.0",
+       "period": 3,
+       "clock": "2:11",
        "teams": [
         {
          "name": "Phoenix Suns",
          "short": "Suns",
          "abbr": "PHX",
-         "score": 56,
+         "score": 75,
          "ha": "away",
          "winner": null,
          "linescores": [
+          0,
           0,
           0
          ]
@@ -1967,10 +1855,11 @@
          "name": "Houston Rockets",
          "short": "Rockets",
          "abbr": "HOU",
-         "score": 66,
+         "score": 89,
          "ha": "home",
          "winner": null,
          "linescores": [
+          0,
           0,
           0
          ]
@@ -1982,6 +1871,70 @@
      }
     ],
     "sport": "NBA",
+    "ticket": "single"
+   }
+  },
+  {
+   "n": 1038,
+   "league": "NHL",
+   "type": "Player Prop",
+   "matchup": "San Jose Sharks @ Anaheim Ducks",
+   "pick": "Ivar Stenberg Under 1.5 shots on goal +115 (BetMGM)",
+   "odds": 115,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-25T19:10:00",
+   "timed": true,
+   "ticket": "single",
+   "espn": {
+    "legs": [
+     {
+      "kind": "prop",
+      "player": "Ivar Stenberg",
+      "ou": "U",
+      "line": 1.5,
+      "stat": "shots on goal +115",
+      "label": "Ivar Stenberg U 1.5 shots on goal +115",
+      "path": "hockey/nhl",
+      "event": "401892793",
+      "date": "20261125",
+      "snapshot": {
+       "source": "nhl",
+       "state": "in",
+       "detail": "P1 10:44",
+       "start": "2026-11-26T03:00:00Z",
+       "period": 1,
+       "clock": "10:44",
+       "teams": [
+        {
+         "name": "Sharks",
+         "short": "SJS",
+         "abbr": "SJS",
+         "score": 0,
+         "ha": "away",
+         "winner": null,
+         "linescores": []
+        },
+        {
+         "name": "Ducks",
+         "short": "ANA",
+         "abbr": "ANA",
+         "score": 0,
+         "ha": "home",
+         "winner": null,
+         "linescores": []
+        }
+       ],
+       "nhl_id": 2026020398,
+       "stat": {
+        "v": 0,
+        "name": "I. Stenberg"
+       }
+      },
+      "source": "nhl"
+     }
+    ],
+    "sport": "NHL",
     "ticket": "single"
    }
   },
@@ -2082,26 +2035,26 @@
       "unverified": true,
       "snapshot": {
        "source": "odds-api",
-       "state": "in",
-       "detail": "Live",
+       "state": "post",
+       "detail": "Final",
        "start": "2026-11-26T01:10:40Z",
        "teams": [
         {
          "name": "Los Angeles Clippers",
          "short": "Los Angeles Clippers",
          "abbr": "",
-         "score": 81,
+         "score": 97,
          "ha": "away",
-         "winner": null,
+         "winner": false,
          "linescores": []
         },
         {
          "name": "Memphis Grizzlies",
          "short": "Memphis Grizzlies",
          "abbr": "",
-         "score": 100,
+         "score": 115,
          "ha": "home",
-         "winner": null,
+         "winner": true,
          "linescores": []
         }
        ]
@@ -2196,16 +2149,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "15:28 - 2nd",
+       "detail": "8:22 - 2nd",
        "start": "2026-11-26T01:45Z",
        "period": 2,
-       "clock": "15:28",
+       "clock": "8:22",
        "teams": [
         {
          "name": "Eastern Michigan Eagles",
          "short": "Eagles",
          "abbr": "EMU",
-         "score": 28,
+         "score": 38,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -2217,7 +2170,7 @@
          "name": "UTEP Miners",
          "short": "Miners",
          "abbr": "UTEP",
-         "score": 43,
+         "score": 59,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -2323,16 +2276,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "18:20 - 2nd",
+       "detail": "10:55 - 2nd",
        "start": "2026-11-26T02:00Z",
        "period": 2,
-       "clock": "18:20",
+       "clock": "10:55",
        "teams": [
         {
          "name": "Mississippi Valley State Delta Devils",
          "short": "Delta Devils",
          "abbr": "MVSU",
-         "score": 44,
+         "score": 59,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -2344,7 +2297,7 @@
          "name": "New Mexico Lobos",
          "short": "Lobos",
          "abbr": "UNM",
-         "score": 46,
+         "score": 63,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -2388,19 +2341,20 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "Halftime",
+       "detail": "2:11 - 3rd",
        "start": "2026-11-26T01:30Z",
-       "period": 2,
-       "clock": "0.0",
+       "period": 3,
+       "clock": "2:11",
        "teams": [
         {
          "name": "Phoenix Suns",
          "short": "Suns",
          "abbr": "PHX",
-         "score": 56,
+         "score": 75,
          "ha": "away",
          "winner": null,
          "linescores": [
+          0,
           0,
           0
          ]
@@ -2409,10 +2363,11 @@
          "name": "Houston Rockets",
          "short": "Rockets",
          "abbr": "HOU",
-         "score": 66,
+         "score": 89,
          "ha": "home",
          "winner": null,
          "linescores": [
+          0,
           0,
           0
          ]
@@ -2492,6 +2447,70 @@
    }
   },
   {
+   "n": 1049,
+   "league": "NBA",
+   "type": "Player Prop",
+   "matchup": "Sacramento Kings @ Golden State Warriors",
+   "pick": "Keegan Murray Under 13.5 points +100 (BetMGM)",
+   "odds": 100,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-25T19:10:00",
+   "timed": true,
+   "ticket": "single",
+   "espn": {
+    "legs": [
+     {
+      "kind": "prop",
+      "player": "Keegan Murray",
+      "ou": "U",
+      "line": 13.5,
+      "stat": "points +100",
+      "label": "Keegan Murray U 13.5 points +100",
+      "path": "basketball/nba",
+      "event": "401909324",
+      "date": "20261125",
+      "snapshot": {
+       "source": "espn",
+       "state": "in",
+       "detail": "5:52 - 1st",
+       "start": "2026-11-26T03:00Z",
+       "period": 1,
+       "clock": "5:52",
+       "teams": [
+        {
+         "name": "Sacramento Kings",
+         "short": "Kings",
+         "abbr": "SAC",
+         "score": 12,
+         "ha": "away",
+         "winner": null,
+         "linescores": [
+          0
+         ]
+        },
+        {
+         "name": "Golden State Warriors",
+         "short": "Warriors",
+         "abbr": "GS",
+         "score": 20,
+         "ha": "home",
+         "winner": null,
+         "linescores": [
+          0
+         ]
+        }
+       ],
+       "stat": null
+      },
+      "source": "espn"
+     }
+    ],
+    "sport": "NBA",
+    "ticket": "single"
+   }
+  },
+  {
    "n": 1050,
    "league": "NFL",
    "type": "Player Prop",
@@ -2516,10 +2535,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "Halftime",
+       "detail": "6:58 - 3rd",
        "start": "2026-11-26T01:00Z",
-       "period": 2,
-       "clock": "0:00",
+       "period": 3,
+       "clock": "6:58",
        "teams": [
         {
          "name": "Green Bay Packers",
@@ -2530,6 +2549,7 @@
          "winner": null,
          "linescores": [
           0,
+          0,
           0
          ]
         },
@@ -2537,10 +2557,11 @@
          "name": "Los Angeles Rams",
          "short": "Rams",
          "abbr": "LAR",
-         "score": 13,
+         "score": 20,
          "ha": "home",
          "winner": null,
          "linescores": [
+          0,
           0,
           0
          ]
@@ -2581,10 +2602,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "Halftime",
+       "detail": "6:58 - 3rd",
        "start": "2026-11-26T01:00Z",
-       "period": 2,
-       "clock": "0:00",
+       "period": 3,
+       "clock": "6:58",
        "teams": [
         {
          "name": "Green Bay Packers",
@@ -2595,6 +2616,7 @@
          "winner": null,
          "linescores": [
           0,
+          0,
           0
          ]
         },
@@ -2602,10 +2624,11 @@
          "name": "Los Angeles Rams",
          "short": "Rams",
          "abbr": "LAR",
-         "score": 13,
+         "score": 20,
          "ha": "home",
          "winner": null,
          "linescores": [
+          0,
           0,
           0
          ]
