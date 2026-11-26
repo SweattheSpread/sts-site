@@ -1,5 +1,5 @@
 {
- "updated": "Nov 25, 2026, 11:38 PM PT",
+ "updated": "Nov 25, 2026, 11:40 PM PT",
  "record": {
   "w": 282,
   "l": 287,
@@ -1269,16 +1269,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "1:49 - OT",
+       "detail": "1:14 - OT",
        "start": "2026-11-26T04:59Z",
        "period": 3,
-       "clock": "1:49",
+       "clock": "1:14",
        "teams": [
         {
          "name": "Incarnate Word Cardinals",
          "short": "Cardinals",
          "abbr": "UIW",
-         "score": 72,
+         "score": 75,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -1291,7 +1291,7 @@
          "name": "Hawai'i Rainbow Warriors",
          "short": "Rainbow Warriors",
          "abbr": "HAW",
-         "score": 77,
+         "score": 78,
          "ha": "home",
          "winner": null,
          "linescores": [
