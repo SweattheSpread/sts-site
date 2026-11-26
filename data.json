@@ -1,5 +1,5 @@
 {
- "updated": "Nov 26, 2026, 2:24 PM PT",
+ "updated": "Nov 26, 2026, 2:31 PM PT",
  "record": {
   "w": 283,
   "l": 287,
@@ -1774,10 +1774,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "1:14 - 1st",
+       "detail": "15:00 - 2nd",
        "start": "2026-11-26T21:30Z",
-       "period": 1,
-       "clock": "1:14",
+       "period": 2,
+       "clock": "15:00",
        "teams": [
         {
          "name": "Philadelphia Eagles",
@@ -1787,6 +1787,7 @@
          "ha": "away",
          "winner": null,
          "linescores": [
+          0,
           0
          ]
         },
@@ -1794,10 +1795,11 @@
          "name": "Dallas Cowboys",
          "short": "Cowboys",
          "abbr": "DAL",
-         "score": 7,
+         "score": 14,
          "ha": "home",
          "winner": null,
          "linescores": [
+          0,
           0
          ]
         }
@@ -1836,10 +1838,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "1:14 - 1st",
+       "detail": "15:00 - 2nd",
        "start": "2026-11-26T21:30Z",
-       "period": 1,
-       "clock": "1:14",
+       "period": 2,
+       "clock": "15:00",
        "teams": [
         {
          "name": "Philadelphia Eagles",
@@ -1849,6 +1851,7 @@
          "ha": "away",
          "winner": null,
          "linescores": [
+          0,
           0
          ]
         },
@@ -1856,10 +1859,11 @@
          "name": "Dallas Cowboys",
          "short": "Cowboys",
          "abbr": "DAL",
-         "score": 7,
+         "score": 14,
          "ha": "home",
          "winner": null,
          "linescores": [
+          0,
           0
          ]
         }
@@ -2034,10 +2038,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "1:14 - 1st",
+       "detail": "15:00 - 2nd",
        "start": "2026-11-26T21:30Z",
-       "period": 1,
-       "clock": "1:14",
+       "period": 2,
+       "clock": "15:00",
        "teams": [
         {
          "name": "Philadelphia Eagles",
@@ -2047,6 +2051,7 @@
          "ha": "away",
          "winner": null,
          "linescores": [
+          0,
           0
          ]
         },
@@ -2054,10 +2059,11 @@
          "name": "Dallas Cowboys",
          "short": "Cowboys",
          "abbr": "DAL",
-         "score": 7,
+         "score": 14,
          "ha": "home",
          "winner": null,
          "linescores": [
+          0,
           0
          ]
         }
@@ -2153,10 +2159,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "1:14 - 1st",
+       "detail": "15:00 - 2nd",
        "start": "2026-11-26T21:30Z",
-       "period": 1,
-       "clock": "1:14",
+       "period": 2,
+       "clock": "15:00",
        "teams": [
         {
          "name": "Philadelphia Eagles",
@@ -2166,6 +2172,7 @@
          "ha": "away",
          "winner": null,
          "linescores": [
+          0,
           0
          ]
         },
@@ -2173,10 +2180,11 @@
          "name": "Dallas Cowboys",
          "short": "Cowboys",
          "abbr": "DAL",
-         "score": 7,
+         "score": 14,
          "ha": "home",
          "winner": null,
          "linescores": [
+          0,
           0
          ]
         }
