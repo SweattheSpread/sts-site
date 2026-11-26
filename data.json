@@ -1,5 +1,5 @@
 {
- "updated": "Nov 25, 2026, 7:51 PM PT",
+ "updated": "Nov 25, 2026, 7:53 PM PT",
  "record": {
   "w": 273,
   "l": 274,
@@ -1326,10 +1326,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "12:35 - 4th",
+       "detail": "11:57 - 4th",
        "start": "2026-11-26T01:00Z",
        "period": 4,
-       "clock": "12:35",
+       "clock": "11:57",
        "teams": [
         {
          "name": "Green Bay Packers",
@@ -1394,10 +1394,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "12:35 - 4th",
+       "detail": "11:57 - 4th",
        "start": "2026-11-26T01:00Z",
        "period": 4,
-       "clock": "12:35",
+       "clock": "11:57",
        "teams": [
         {
          "name": "Green Bay Packers",
@@ -1461,10 +1461,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "12:35 - 4th",
+       "detail": "11:57 - 4th",
        "start": "2026-11-26T01:00Z",
        "period": 4,
-       "clock": "12:35",
+       "clock": "11:57",
        "teams": [
         {
          "name": "Green Bay Packers",
@@ -1839,16 +1839,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "4:31 - 4th",
+       "detail": "3:19 - 4th",
        "start": "2026-11-26T01:30Z",
        "period": 4,
-       "clock": "4:31",
+       "clock": "3:19",
        "teams": [
         {
          "name": "Phoenix Suns",
          "short": "Suns",
          "abbr": "PHX",
-         "score": 98,
+         "score": 100,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -1862,7 +1862,7 @@
          "name": "Houston Rockets",
          "short": "Rockets",
          "abbr": "HOU",
-         "score": 104,
+         "score": 106,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -1909,10 +1909,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P1 15:02",
+       "detail": "P1 12:32",
        "start": "2026-11-26T03:00:00Z",
        "period": 1,
-       "clock": "15:02",
+       "clock": "12:32",
        "teams": [
         {
          "name": "Sharks",
@@ -2349,16 +2349,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "4:31 - 4th",
+       "detail": "3:19 - 4th",
        "start": "2026-11-26T01:30Z",
        "period": 4,
-       "clock": "4:31",
+       "clock": "3:19",
        "teams": [
         {
          "name": "Phoenix Suns",
          "short": "Suns",
          "abbr": "PHX",
-         "score": 98,
+         "score": 100,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -2372,7 +2372,7 @@
          "name": "Houston Rockets",
          "short": "Rockets",
          "abbr": "HOU",
-         "score": 104,
+         "score": 106,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -2483,16 +2483,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "6:53 - 2nd",
+       "detail": "5:31 - 2nd",
        "start": "2026-11-26T03:00Z",
        "period": 2,
-       "clock": "6:53",
+       "clock": "5:31",
        "teams": [
         {
          "name": "Sacramento Kings",
          "short": "Kings",
          "abbr": "SAC",
-         "score": 30,
+         "score": 35,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -2504,7 +2504,7 @@
          "name": "Golden State Warriors",
          "short": "Warriors",
          "abbr": "GS",
-         "score": 52,
+         "score": 55,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -2547,10 +2547,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "12:35 - 4th",
+       "detail": "11:57 - 4th",
        "start": "2026-11-26T01:00Z",
        "period": 4,
-       "clock": "12:35",
+       "clock": "11:57",
        "teams": [
         {
          "name": "Green Bay Packers",
@@ -2616,10 +2616,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "12:35 - 4th",
+       "detail": "11:57 - 4th",
        "start": "2026-11-26T01:00Z",
        "period": 4,
-       "clock": "12:35",
+       "clock": "11:57",
        "teams": [
         {
          "name": "Green Bay Packers",
