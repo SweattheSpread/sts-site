@@ -1,5 +1,5 @@
 {
- "updated": "Nov 25, 2026, 11:51 PM PT",
+ "updated": "Nov 25, 2026, 11:53 PM PT",
  "record": {
   "w": 282,
   "l": 287,
@@ -1268,11 +1268,11 @@
       "date": "20261125",
       "snapshot": {
        "source": "espn",
-       "state": "in",
-       "detail": "End of OT",
+       "state": "post",
+       "detail": "Final/OT",
        "start": "2026-11-26T04:59Z",
-       "period": 3,
-       "clock": "0:00",
+       "period": null,
+       "clock": null,
        "teams": [
         {
          "name": "Incarnate Word Cardinals",
@@ -1280,7 +1280,7 @@
          "abbr": "UIW",
          "score": 81,
          "ha": "away",
-         "winner": null,
+         "winner": false,
          "linescores": [
           0,
           0,
@@ -1293,7 +1293,7 @@
          "abbr": "HAW",
          "score": 83,
          "ha": "home",
-         "winner": null,
+         "winner": true,
          "linescores": [
           0,
           0,
