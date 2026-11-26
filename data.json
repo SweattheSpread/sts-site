@@ -1,5 +1,5 @@
 {
- "updated": "Nov 25, 2026, 4:01 PM PT",
+ "updated": "Nov 25, 2026, 4:08 PM PT",
  "record": {
   "w": 273,
   "l": 274,
@@ -2119,11 +2119,11 @@
       "date": "20261125",
       "snapshot": {
        "source": "nhl",
-       "state": "pre",
-       "detail": "Scheduled",
+       "state": "in",
+       "detail": "P1 19:37",
        "start": "2026-11-26T00:00:00Z",
-       "period": null,
-       "clock": null,
+       "period": 1,
+       "clock": "19:37",
        "teams": [
         {
          "name": "Flames",
@@ -2144,7 +2144,11 @@
          "linescores": []
         }
        ],
-       "nhl_id": 2026020391
+       "nhl_id": 2026020391,
+       "stat": {
+        "v": 0,
+        "name": "Z. Parekh"
+       }
       },
       "source": "nhl"
      }
@@ -2240,16 +2244,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "11:12 - 4th",
+       "detail": "7:48 - 4th",
        "start": "2026-11-25T22:00Z",
        "period": 4,
-       "clock": "11:12",
+       "clock": "7:48",
        "teams": [
         {
          "name": "Miami Heat",
          "short": "Heat",
          "abbr": "MIA",
-         "score": 81,
+         "score": 86,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -2263,7 +2267,7 @@
          "name": "Philadelphia 76ers",
          "short": "76ers",
          "abbr": "PHI",
-         "score": 93,
+         "score": 100,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -2307,29 +2311,33 @@
       "date": "20261125",
       "snapshot": {
        "source": "espn",
-       "state": "pre",
-       "detail": "11/25 - 7:00 PM EST",
+       "state": "in",
+       "detail": "15:59 - 1st",
        "start": "2026-11-26T00:00Z",
-       "period": null,
-       "clock": null,
+       "period": 1,
+       "clock": "15:59",
        "teams": [
         {
          "name": "Longwood Lancers",
          "short": "Lancers",
          "abbr": "LONG",
-         "score": 0,
+         "score": 8,
          "ha": "away",
          "winner": null,
-         "linescores": []
+         "linescores": [
+          0
+         ]
         },
         {
          "name": "George Mason Patriots",
          "short": "Patriots",
          "abbr": "GMU",
-         "score": 0,
+         "score": 6,
          "ha": "home",
          "winner": null,
-         "linescores": []
+         "linescores": [
+          0
+         ]
         }
        ]
       },
