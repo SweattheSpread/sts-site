@@ -1,5 +1,5 @@
 {
- "updated": "Nov 25, 2026, 8:58 PM PT",
+ "updated": "Nov 25, 2026, 9:00 PM PT",
  "record": {
   "w": 273,
   "l": 274,
@@ -127,64 +127,6 @@
   }
  ],
  "picks": [
-  {
-   "n": 1044,
-   "league": "NCAAB",
-   "type": "Over/Under",
-   "matchup": "Incarnate Word Cardinals @ Hawaii Rainbow Warriors",
-   "pick": "Over 139.5",
-   "odds": -110,
-   "units": 1.0,
-   "gap": null,
-   "start": "2026-11-25T20:59:00",
-   "timed": true,
-   "ticket": "single",
-   "espn": {
-    "legs": [
-     {
-      "kind": "total",
-      "side": null,
-      "ou": "O",
-      "line": 139.5,
-      "label": "O 139.5",
-      "path": "basketball/mens-college-basketball",
-      "event": "401929005",
-      "date": "20261125",
-      "snapshot": {
-       "source": "espn",
-       "state": "pre",
-       "detail": "11/25 - 11:59 PM EST",
-       "start": "2026-11-26T04:59Z",
-       "period": null,
-       "clock": null,
-       "teams": [
-        {
-         "name": "Incarnate Word Cardinals",
-         "short": "Cardinals",
-         "abbr": "UIW",
-         "score": 0,
-         "ha": "away",
-         "winner": null,
-         "linescores": []
-        },
-        {
-         "name": "Hawai'i Rainbow Warriors",
-         "short": "Rainbow Warriors",
-         "abbr": "HAW",
-         "score": 0,
-         "ha": "home",
-         "winner": null,
-         "linescores": []
-        }
-       ]
-      },
-      "source": "espn"
-     }
-    ],
-    "sport": "NCAAB",
-    "ticket": "single"
-   }
-  },
   {
    "n": 853,
    "league": "NFL",
@@ -1896,10 +1838,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P2 01:46",
+       "detail": "P3 20:00",
        "start": "2026-11-26T03:00:00Z",
-       "period": 2,
-       "clock": "01:46",
+       "period": 3,
+       "clock": "20:00",
        "teams": [
         {
          "name": "Sharks",
@@ -2172,6 +2114,64 @@
           0,
           0
          ]
+        }
+       ]
+      },
+      "source": "espn"
+     }
+    ],
+    "sport": "NCAAB",
+    "ticket": "single"
+   }
+  },
+  {
+   "n": 1044,
+   "league": "NCAAB",
+   "type": "Over/Under",
+   "matchup": "Incarnate Word Cardinals @ Hawaii Rainbow Warriors",
+   "pick": "Over 139.5",
+   "odds": -110,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-25T20:59:00",
+   "timed": true,
+   "ticket": "single",
+   "espn": {
+    "legs": [
+     {
+      "kind": "total",
+      "side": null,
+      "ou": "O",
+      "line": 139.5,
+      "label": "O 139.5",
+      "path": "basketball/mens-college-basketball",
+      "event": "401929005",
+      "date": "20261125",
+      "snapshot": {
+       "source": "espn",
+       "state": "pre",
+       "detail": "11/25 - 11:59 PM EST",
+       "start": "2026-11-26T04:59Z",
+       "period": null,
+       "clock": null,
+       "teams": [
+        {
+         "name": "Incarnate Word Cardinals",
+         "short": "Cardinals",
+         "abbr": "UIW",
+         "score": 0,
+         "ha": "away",
+         "winner": null,
+         "linescores": []
+        },
+        {
+         "name": "Hawai'i Rainbow Warriors",
+         "short": "Rainbow Warriors",
+         "abbr": "HAW",
+         "score": 0,
+         "ha": "home",
+         "winner": null,
+         "linescores": []
         }
        ]
       },
@@ -2466,7 +2466,7 @@
          "name": "Sacramento Kings",
          "short": "Kings",
          "abbr": "SAC",
-         "score": 95,
+         "score": 93,
          "ha": "away",
          "winner": null,
          "linescores": [
