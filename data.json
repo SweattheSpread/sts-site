@@ -1,5 +1,5 @@
 {
- "updated": "Nov 25, 2026, 8:55 PM PT",
+ "updated": "Nov 25, 2026, 8:58 PM PT",
  "record": {
   "w": 273,
   "l": 274,
@@ -1896,10 +1896,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P2 03:58",
+       "detail": "P2 01:46",
        "start": "2026-11-26T03:00:00Z",
        "period": 2,
-       "clock": "03:58",
+       "clock": "01:46",
        "teams": [
         {
          "name": "Sharks",
@@ -2457,16 +2457,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "9:25 - 4th",
+       "detail": "9:01 - 4th",
        "start": "2026-11-26T03:00Z",
        "period": 4,
-       "clock": "9:25",
+       "clock": "9:01",
        "teams": [
         {
          "name": "Sacramento Kings",
          "short": "Kings",
          "abbr": "SAC",
-         "score": 93,
+         "score": 95,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -2480,7 +2480,7 @@
          "name": "Golden State Warriors",
          "short": "Warriors",
          "abbr": "GS",
-         "score": 104,
+         "score": 106,
          "ha": "home",
          "winner": null,
          "linescores": [
