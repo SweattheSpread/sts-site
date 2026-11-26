@@ -1,5 +1,5 @@
 {
- "updated": "Nov 25, 2026, 6:56 PM PT",
+ "updated": "Nov 25, 2026, 6:59 PM PT",
  "record": {
   "w": 273,
   "l": 274,
@@ -1699,8 +1699,8 @@
       "reason": "Player not found in this game",
       "snapshot": {
        "source": "nhl",
-       "state": "in",
-       "detail": "P5 00:00",
+       "state": "post",
+       "detail": "Final/SO",
        "start": "2026-11-26T00:00:00Z",
        "period": 5,
        "clock": "00:00",
@@ -1711,7 +1711,7 @@
          "abbr": "STL",
          "score": 2,
          "ha": "away",
-         "winner": null,
+         "winner": false,
          "linescores": []
         },
         {
@@ -1720,11 +1720,12 @@
          "abbr": "NYI",
          "score": 3,
          "ha": "home",
-         "winner": null,
+         "winner": true,
          "linescores": []
         }
        ],
-       "nhl_id": 2026020390
+       "nhl_id": 2026020390,
+       "player_missing": true
       },
       "source": "nhl"
      }
@@ -1885,10 +1886,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P2 00:48",
+       "detail": "P2 15:33",
        "start": "2026-11-26T01:00:00Z",
        "period": 2,
-       "clock": "00:48",
+       "clock": "15:33",
        "teams": [
         {
          "name": "Mammoth",
@@ -2010,11 +2011,11 @@
       "date": "20261125",
       "snapshot": {
        "source": "espn",
-       "state": "in",
-       "detail": "45.0 - 4th",
+       "state": "post",
+       "detail": "Final",
        "start": "2026-11-26T00:30Z",
-       "period": 4,
-       "clock": "45.0",
+       "period": null,
+       "clock": null,
        "teams": [
         {
          "name": "Cleveland Cavaliers",
@@ -2022,7 +2023,7 @@
          "abbr": "CLE",
          "score": 102,
          "ha": "away",
-         "winner": null,
+         "winner": false,
          "linescores": [
           0,
           0,
@@ -2034,9 +2035,9 @@
          "name": "New York Knicks",
          "short": "Knicks",
          "abbr": "NY",
-         "score": 116,
+         "score": 121,
          "ha": "home",
-         "winner": null,
+         "winner": true,
          "linescores": [
           0,
           0,
@@ -2089,7 +2090,7 @@
          "name": "Los Angeles Clippers",
          "short": "Los Angeles Clippers",
          "abbr": "",
-         "score": 77,
+         "score": 81,
          "ha": "away",
          "winner": null,
          "linescores": []
@@ -2098,7 +2099,7 @@
          "name": "Memphis Grizzlies",
          "short": "Memphis Grizzlies",
          "abbr": "",
-         "score": 93,
+         "score": 97,
          "ha": "home",
          "winner": null,
          "linescores": []
@@ -2195,16 +2196,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "18:22 - 2nd",
+       "detail": "17:20 - 2nd",
        "start": "2026-11-26T01:45Z",
        "period": 2,
-       "clock": "18:22",
+       "clock": "17:20",
        "teams": [
         {
          "name": "Eastern Michigan Eagles",
          "short": "Eagles",
          "abbr": "EMU",
-         "score": 26,
+         "score": 28,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -2216,7 +2217,7 @@
          "name": "UTEP Miners",
          "short": "Miners",
          "abbr": "UTEP",
-         "score": 33,
+         "score": 38,
          "ha": "home",
          "winner": null,
          "linescores": [
