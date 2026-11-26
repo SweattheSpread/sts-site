@@ -1,5 +1,5 @@
 {
- "updated": "Nov 25, 2026, 7:49 PM PT",
+ "updated": "Nov 25, 2026, 7:51 PM PT",
  "record": {
   "w": 273,
   "l": 274,
@@ -1326,10 +1326,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "13:28 - 4th",
+       "detail": "12:35 - 4th",
        "start": "2026-11-26T01:00Z",
        "period": 4,
-       "clock": "13:28",
+       "clock": "12:35",
        "teams": [
         {
          "name": "Green Bay Packers",
@@ -1394,10 +1394,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "13:28 - 4th",
+       "detail": "12:35 - 4th",
        "start": "2026-11-26T01:00Z",
        "period": 4,
-       "clock": "13:28",
+       "clock": "12:35",
        "teams": [
         {
          "name": "Green Bay Packers",
@@ -1461,10 +1461,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "13:28 - 4th",
+       "detail": "12:35 - 4th",
        "start": "2026-11-26T01:00Z",
        "period": 4,
-       "clock": "13:28",
+       "clock": "12:35",
        "teams": [
         {
          "name": "Green Bay Packers",
@@ -1778,11 +1778,11 @@
       "date": "20261125",
       "snapshot": {
        "source": "nhl",
-       "state": "in",
-       "detail": "P3 02:02",
+       "state": "post",
+       "detail": "Final",
        "start": "2026-11-26T01:00:00Z",
        "period": 3,
-       "clock": "02:02",
+       "clock": "00:00",
        "teams": [
         {
          "name": "Mammoth",
@@ -1790,7 +1790,7 @@
          "abbr": "UTA",
          "score": 4,
          "ha": "away",
-         "winner": null,
+         "winner": true,
          "linescores": []
         },
         {
@@ -1799,7 +1799,7 @@
          "abbr": "MIN",
          "score": 3,
          "ha": "home",
-         "winner": null,
+         "winner": false,
          "linescores": []
         }
        ],
@@ -1909,10 +1909,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P1 00:27",
+       "detail": "P1 15:02",
        "start": "2026-11-26T03:00:00Z",
        "period": 1,
-       "clock": "00:27",
+       "clock": "15:02",
        "teams": [
         {
          "name": "Sharks",
@@ -2483,16 +2483,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "8:58 - 2nd",
+       "detail": "6:53 - 2nd",
        "start": "2026-11-26T03:00Z",
        "period": 2,
-       "clock": "8:58",
+       "clock": "6:53",
        "teams": [
         {
          "name": "Sacramento Kings",
          "short": "Kings",
          "abbr": "SAC",
-         "score": 24,
+         "score": 30,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -2504,7 +2504,7 @@
          "name": "Golden State Warriors",
          "short": "Warriors",
          "abbr": "GS",
-         "score": 48,
+         "score": 52,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -2547,10 +2547,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "13:28 - 4th",
+       "detail": "12:35 - 4th",
        "start": "2026-11-26T01:00Z",
        "period": 4,
-       "clock": "13:28",
+       "clock": "12:35",
        "teams": [
         {
          "name": "Green Bay Packers",
@@ -2616,10 +2616,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "13:28 - 4th",
+       "detail": "12:35 - 4th",
        "start": "2026-11-26T01:00Z",
        "period": 4,
-       "clock": "13:28",
+       "clock": "12:35",
        "teams": [
         {
          "name": "Green Bay Packers",
