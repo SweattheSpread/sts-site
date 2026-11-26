@@ -1,5 +1,5 @@
 {
- "updated": "Nov 26, 2026, 10:42 AM PT",
+ "updated": "Nov 26, 2026, 10:44 AM PT",
  "record": {
   "w": 283,
   "l": 287,
@@ -1556,10 +1556,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "13:01 - 2nd",
+       "detail": "12:51 - 2nd",
        "start": "2026-11-26T18:00Z",
        "period": 2,
-       "clock": "13:01",
+       "clock": "12:51",
        "teams": [
         {
          "name": "Chicago Bears",
@@ -1577,7 +1577,7 @@
          "name": "Detroit Lions",
          "short": "Lions",
          "abbr": "DET",
-         "score": 3,
+         "score": 10,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -1620,10 +1620,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "13:01 - 2nd",
+       "detail": "12:51 - 2nd",
        "start": "2026-11-26T18:00Z",
        "period": 2,
-       "clock": "13:01",
+       "clock": "12:51",
        "teams": [
         {
          "name": "Chicago Bears",
@@ -1641,7 +1641,7 @@
          "name": "Detroit Lions",
          "short": "Lions",
          "abbr": "DET",
-         "score": 3,
+         "score": 10,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -1684,10 +1684,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "13:01 - 2nd",
+       "detail": "12:51 - 2nd",
        "start": "2026-11-26T18:00Z",
        "period": 2,
-       "clock": "13:01",
+       "clock": "12:51",
        "teams": [
         {
          "name": "Chicago Bears",
@@ -1705,7 +1705,7 @@
          "name": "Detroit Lions",
          "short": "Lions",
          "abbr": "DET",
-         "score": 3,
+         "score": 10,
          "ha": "home",
          "winner": null,
          "linescores": [
