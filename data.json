@@ -1,5 +1,5 @@
 {
- "updated": "Nov 26, 2026, 1:46 PM PT",
+ "updated": "Nov 26, 2026, 1:48 PM PT",
  "record": {
   "w": 283,
   "l": 287,
@@ -1773,11 +1773,11 @@
       "date": "20261126",
       "snapshot": {
        "source": "espn",
-       "state": "pre",
-       "detail": "11/26 - 4:30 PM EST",
+       "state": "in",
+       "detail": "14:51 - 1st",
        "start": "2026-11-26T21:30Z",
-       "period": null,
-       "clock": null,
+       "period": 1,
+       "clock": "14:51",
        "teams": [
         {
          "name": "Philadelphia Eagles",
@@ -1786,7 +1786,9 @@
          "score": 0,
          "ha": "away",
          "winner": null,
-         "linescores": []
+         "linescores": [
+          0
+         ]
         },
         {
          "name": "Dallas Cowboys",
@@ -1795,7 +1797,9 @@
          "score": 0,
          "ha": "home",
          "winner": null,
-         "linescores": []
+         "linescores": [
+          0
+         ]
         }
        ]
       },
@@ -1831,11 +1835,11 @@
       "date": "20261126",
       "snapshot": {
        "source": "espn",
-       "state": "pre",
-       "detail": "11/26 - 4:30 PM EST",
+       "state": "in",
+       "detail": "14:51 - 1st",
        "start": "2026-11-26T21:30Z",
-       "period": null,
-       "clock": null,
+       "period": 1,
+       "clock": "14:51",
        "teams": [
         {
          "name": "Philadelphia Eagles",
@@ -1844,7 +1848,9 @@
          "score": 0,
          "ha": "away",
          "winner": null,
-         "linescores": []
+         "linescores": [
+          0
+         ]
         },
         {
          "name": "Dallas Cowboys",
@@ -1853,7 +1859,9 @@
          "score": 0,
          "ha": "home",
          "winner": null,
-         "linescores": []
+         "linescores": [
+          0
+         ]
         }
        ]
       },
@@ -2025,11 +2033,11 @@
       "date": "20261126",
       "snapshot": {
        "source": "espn",
-       "state": "pre",
-       "detail": "11/26 - 4:30 PM EST",
+       "state": "in",
+       "detail": "14:51 - 1st",
        "start": "2026-11-26T21:30Z",
-       "period": null,
-       "clock": null,
+       "period": 1,
+       "clock": "14:51",
        "teams": [
         {
          "name": "Philadelphia Eagles",
@@ -2038,7 +2046,9 @@
          "score": 0,
          "ha": "away",
          "winner": null,
-         "linescores": []
+         "linescores": [
+          0
+         ]
         },
         {
          "name": "Dallas Cowboys",
@@ -2047,7 +2057,9 @@
          "score": 0,
          "ha": "home",
          "winner": null,
-         "linescores": []
+         "linescores": [
+          0
+         ]
         }
        ]
       },
