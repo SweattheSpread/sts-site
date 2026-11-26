@@ -1,5 +1,5 @@
 {
- "updated": "Nov 25, 2026, 5:16 PM PT",
+ "updated": "Nov 25, 2026, 5:18 PM PT",
  "record": {
   "w": 273,
   "l": 274,
@@ -1679,10 +1679,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "15:00 - 1st",
+       "detail": "14:11 - 1st",
        "start": "2026-11-26T01:00Z",
        "period": 1,
-       "clock": "15:00",
+       "clock": "14:11",
        "teams": [
         {
          "name": "Green Bay Packers",
@@ -1741,10 +1741,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "15:00 - 1st",
+       "detail": "14:11 - 1st",
        "start": "2026-11-26T01:00Z",
        "period": 1,
-       "clock": "15:00",
+       "clock": "14:11",
        "teams": [
         {
          "name": "Green Bay Packers",
@@ -1802,10 +1802,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "15:00 - 1st",
+       "detail": "14:11 - 1st",
        "start": "2026-11-26T01:00Z",
        "period": 1,
-       "clock": "15:00",
+       "clock": "14:11",
        "teams": [
         {
          "name": "Green Bay Packers",
@@ -1928,10 +1928,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P2 15:15",
+       "detail": "P2 14:23",
        "start": "2026-11-26T00:00:00Z",
        "period": 2,
-       "clock": "15:15",
+       "clock": "14:23",
        "teams": [
         {
          "name": "Blues",
@@ -1988,16 +1988,16 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P2 13:34",
+       "detail": "P2 12:35",
        "start": "2026-11-26T00:00:00Z",
        "period": 2,
-       "clock": "13:34",
+       "clock": "12:35",
        "teams": [
         {
          "name": "Flames",
          "short": "CGY",
          "abbr": "CGY",
-         "score": 1,
+         "score": 2,
          "ha": "away",
          "winner": null,
          "linescores": []
@@ -2052,10 +2052,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P2 17:49",
+       "detail": "P2 17:04",
        "start": "2026-11-26T00:00:00Z",
        "period": 2,
-       "clock": "17:49",
+       "clock": "17:04",
        "teams": [
         {
          "name": "Flyers",
@@ -2113,10 +2113,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P1 17:58",
+       "detail": "P1 16:15",
        "start": "2026-11-26T01:00:00Z",
        "period": 1,
-       "clock": "17:58",
+       "clock": "16:15",
        "teams": [
         {
          "name": "Mammoth",
@@ -2173,16 +2173,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "11:06 - 2nd",
+       "detail": "9:37 - 2nd",
        "start": "2026-11-26T00:30Z",
        "period": 2,
-       "clock": "11:06",
+       "clock": "9:37",
        "teams": [
         {
          "name": "Cleveland Cavaliers",
          "short": "Cavaliers",
          "abbr": "CLE",
-         "score": 34,
+         "score": 38,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -2194,7 +2194,7 @@
          "name": "New York Knicks",
          "short": "Knicks",
          "abbr": "NY",
-         "score": 25,
+         "score": 30,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -2247,7 +2247,7 @@
          "name": "Los Angeles Clippers",
          "short": "Los Angeles Clippers",
          "abbr": "",
-         "score": 2,
+         "score": 5,
          "ha": "away",
          "winner": null,
          "linescores": []
@@ -2256,7 +2256,7 @@
          "name": "Memphis Grizzlies",
          "short": "Memphis Grizzlies",
          "abbr": "",
-         "score": 12,
+         "score": 16,
          "ha": "home",
          "winner": null,
          "linescores": []
@@ -2417,10 +2417,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P2 17:49",
+       "detail": "P2 17:04",
        "start": "2026-11-26T00:00:00Z",
        "period": 2,
-       "clock": "17:49",
+       "clock": "17:04",
        "teams": [
         {
          "name": "Flyers",
