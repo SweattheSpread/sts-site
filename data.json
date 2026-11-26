@@ -1,5 +1,5 @@
 {
- "updated": "Nov 25, 2026, 4:25 PM PT",
+ "updated": "Nov 25, 2026, 4:28 PM PT",
  "record": {
   "w": 273,
   "l": 274,
@@ -2060,10 +2060,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P1 15:14",
+       "detail": "P1 13:35",
        "start": "2026-11-26T00:00:00Z",
        "period": 1,
-       "clock": "15:14",
+       "clock": "13:35",
        "teams": [
         {
          "name": "Blues",
@@ -2120,10 +2120,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P1 10:56",
+       "detail": "P1 09:08",
        "start": "2026-11-26T00:00:00Z",
        "period": 1,
-       "clock": "10:56",
+       "clock": "09:08",
        "teams": [
         {
          "name": "Flames",
@@ -2184,10 +2184,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P1 15:57",
+       "detail": "P1 13:41",
        "start": "2026-11-26T00:00:00Z",
        "period": 1,
-       "clock": "15:57",
+       "clock": "13:41",
        "teams": [
         {
          "name": "Flyers",
@@ -2248,16 +2248,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "2:29 - 4th",
+       "detail": "2:14 - 4th",
        "start": "2026-11-25T22:00Z",
        "period": 4,
-       "clock": "2:29",
+       "clock": "2:14",
        "teams": [
         {
          "name": "Miami Heat",
          "short": "Heat",
          "abbr": "MIA",
-         "score": 95,
+         "score": 98,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -2336,7 +2336,7 @@
          "name": "George Mason Patriots",
          "short": "Patriots",
          "abbr": "GMU",
-         "score": 27,
+         "score": 29,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -2379,10 +2379,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P1 15:57",
+       "detail": "P1 13:41",
        "start": "2026-11-26T00:00:00Z",
        "period": 1,
-       "clock": "15:57",
+       "clock": "13:41",
        "teams": [
         {
          "name": "Flyers",
