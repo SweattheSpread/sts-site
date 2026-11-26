@@ -1,5 +1,5 @@
 {
- "updated": "Nov 25, 2026, 9:20 PM PT",
+ "updated": "Nov 25, 2026, 9:22 PM PT",
  "record": {
   "w": 273,
   "l": 274,
@@ -1838,10 +1838,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P3 09:46",
+       "detail": "P3 09:13",
        "start": "2026-11-26T03:00:00Z",
        "period": 3,
-       "clock": "09:46",
+       "clock": "09:13",
        "teams": [
         {
          "name": "Sharks",
@@ -2150,16 +2150,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "14:15 - 1st",
+       "detail": "12:48 - 1st",
        "start": "2026-11-26T04:59Z",
        "period": 1,
-       "clock": "14:15",
+       "clock": "12:48",
        "teams": [
         {
          "name": "Incarnate Word Cardinals",
          "short": "Cardinals",
          "abbr": "UIW",
-         "score": 15,
+         "score": 18,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -2170,7 +2170,7 @@
          "name": "Hawai'i Rainbow Warriors",
          "short": "Rainbow Warriors",
          "abbr": "HAW",
-         "score": 8,
+         "score": 12,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -2461,16 +2461,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "1:49 - 4th",
+       "detail": "4.7 - 4th",
        "start": "2026-11-26T03:00Z",
        "period": 4,
-       "clock": "1:49",
+       "clock": "4.7",
        "teams": [
         {
          "name": "Sacramento Kings",
          "short": "Kings",
          "abbr": "SAC",
-         "score": 102,
+         "score": 107,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -2484,7 +2484,7 @@
          "name": "Golden State Warriors",
          "short": "Warriors",
          "abbr": "GS",
-         "score": 123,
+         "score": 127,
          "ha": "home",
          "winner": null,
          "linescores": [
