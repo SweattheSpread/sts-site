@@ -1,5 +1,5 @@
 {
- "updated": "Nov 25, 2026, 4:28 PM PT",
+ "updated": "Nov 25, 2026, 4:41 PM PT",
  "record": {
   "w": 273,
   "l": 274,
@@ -127,65 +127,6 @@
   }
  ],
  "picks": [
-  {
-   "n": 1039,
-   "league": "NBA",
-   "type": "Player Prop",
-   "matchup": "Cleveland Cavaliers @ New York Knicks",
-   "pick": "Donovan Mitchell Under 4.5 rebounds",
-   "odds": -140,
-   "units": 3.0,
-   "gap": null,
-   "start": "2026-11-25T16:40:00",
-   "timed": true,
-   "ticket": "single",
-   "espn": {
-    "legs": [
-     {
-      "kind": "prop",
-      "player": "Donovan Mitchell",
-      "ou": "U",
-      "line": 4.5,
-      "stat": "rebounds",
-      "label": "Donovan Mitchell U 4.5 rebounds",
-      "path": "basketball/nba",
-      "event": "401909319",
-      "date": "20261125",
-      "snapshot": {
-       "source": "espn",
-       "state": "pre",
-       "detail": "11/25 - 7:30 PM EST",
-       "start": "2026-11-26T00:30Z",
-       "period": null,
-       "clock": null,
-       "teams": [
-        {
-         "name": "Cleveland Cavaliers",
-         "short": "Cavaliers",
-         "abbr": "CLE",
-         "score": 0,
-         "ha": "away",
-         "winner": null,
-         "linescores": []
-        },
-        {
-         "name": "New York Knicks",
-         "short": "Knicks",
-         "abbr": "NY",
-         "score": 0,
-         "ha": "home",
-         "winner": null,
-         "linescores": []
-        }
-       ]
-      },
-      "source": "espn"
-     }
-    ],
-    "sport": "NBA",
-    "ticket": "single"
-   }
-  },
   {
    "n": 852,
    "league": "NFL",
@@ -2060,10 +2001,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P1 13:35",
+       "detail": "P1 06:57",
        "start": "2026-11-26T00:00:00Z",
        "period": 1,
-       "clock": "13:35",
+       "clock": "06:57",
        "teams": [
         {
          "name": "Blues",
@@ -2120,10 +2061,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P1 09:08",
+       "detail": "P1 02:58",
        "start": "2026-11-26T00:00:00Z",
        "period": 1,
-       "clock": "09:08",
+       "clock": "02:58",
        "teams": [
         {
          "name": "Flames",
@@ -2138,7 +2079,7 @@
          "name": "Penguins",
          "short": "PIT",
          "abbr": "PIT",
-         "score": 0,
+         "score": 1,
          "ha": "home",
          "winner": null,
          "linescores": []
@@ -2184,10 +2125,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P1 13:41",
+       "detail": "P1 06:00",
        "start": "2026-11-26T00:00:00Z",
        "period": 1,
-       "clock": "13:41",
+       "clock": "06:00",
        "teams": [
         {
          "name": "Flyers",
@@ -2222,6 +2163,65 @@
    }
   },
   {
+   "n": 1039,
+   "league": "NBA",
+   "type": "Player Prop",
+   "matchup": "Cleveland Cavaliers @ New York Knicks",
+   "pick": "Donovan Mitchell Under 4.5 rebounds",
+   "odds": -140,
+   "units": 3.0,
+   "gap": null,
+   "start": "2026-11-25T16:40:00",
+   "timed": true,
+   "ticket": "single",
+   "espn": {
+    "legs": [
+     {
+      "kind": "prop",
+      "player": "Donovan Mitchell",
+      "ou": "U",
+      "line": 4.5,
+      "stat": "rebounds",
+      "label": "Donovan Mitchell U 4.5 rebounds",
+      "path": "basketball/nba",
+      "event": "401909319",
+      "date": "20261125",
+      "snapshot": {
+       "source": "espn",
+       "state": "pre",
+       "detail": "11/25 - 7:30 PM EST",
+       "start": "2026-11-26T00:30Z",
+       "period": null,
+       "clock": null,
+       "teams": [
+        {
+         "name": "Cleveland Cavaliers",
+         "short": "Cavaliers",
+         "abbr": "CLE",
+         "score": 0,
+         "ha": "away",
+         "winner": null,
+         "linescores": []
+        },
+        {
+         "name": "New York Knicks",
+         "short": "Knicks",
+         "abbr": "NY",
+         "score": 0,
+         "ha": "home",
+         "winner": null,
+         "linescores": []
+        }
+       ]
+      },
+      "source": "espn"
+     }
+    ],
+    "sport": "NBA",
+    "ticket": "single"
+   }
+  },
+  {
    "n": 1042,
    "league": "NBA",
    "type": "Player Prop",
@@ -2242,49 +2242,36 @@
       "line": 1.5,
       "stat": "3-pointers made -105",
       "label": "VJ Edgecombe O 1.5 3-pointers made -105",
-      "path": "basketball/nba",
-      "event": "401909317",
       "date": "20261125",
+      "unverified": true,
+      "reason": "Player not found in this game",
       "snapshot": {
-       "source": "espn",
-       "state": "in",
-       "detail": "2:14 - 4th",
-       "start": "2026-11-25T22:00Z",
-       "period": 4,
-       "clock": "2:14",
+       "source": "odds-api",
+       "state": "post",
+       "detail": "Final",
+       "start": "2026-11-25T22:12:00Z",
        "teams": [
         {
          "name": "Miami Heat",
-         "short": "Heat",
-         "abbr": "MIA",
-         "score": 98,
+         "short": "Miami Heat",
+         "abbr": "",
+         "score": 104,
          "ha": "away",
-         "winner": null,
-         "linescores": [
-          0,
-          0,
-          0,
-          0
-         ]
+         "winner": false,
+         "linescores": []
         },
         {
          "name": "Philadelphia 76ers",
-         "short": "76ers",
-         "abbr": "PHI",
+         "short": "Philadelphia 76ers",
+         "abbr": "",
          "score": 111,
          "ha": "home",
-         "winner": null,
-         "linescores": [
-          0,
-          0,
-          0,
-          0
-         ]
+         "winner": true,
+         "linescores": []
         }
-       ],
-       "stat": null
+       ]
       },
-      "source": "espn"
+      "source": "odds-api"
      }
     ],
     "sport": "NBA",
@@ -2316,10 +2303,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "7:55 - 1st",
+       "detail": "3:36 - 1st",
        "start": "2026-11-26T00:00Z",
        "period": 1,
-       "clock": "7:55",
+       "clock": "3:36",
        "teams": [
         {
          "name": "Longwood Lancers",
@@ -2336,7 +2323,7 @@
          "name": "George Mason Patriots",
          "short": "Patriots",
          "abbr": "GMU",
-         "score": 29,
+         "score": 43,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -2379,10 +2366,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P1 13:41",
+       "detail": "P1 06:00",
        "start": "2026-11-26T00:00:00Z",
        "period": 1,
-       "clock": "13:41",
+       "clock": "06:00",
        "teams": [
         {
          "name": "Flyers",
