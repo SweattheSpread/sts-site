@@ -1,5 +1,5 @@
 {
- "updated": "Nov 26, 2026, 10:38 AM PT",
+ "updated": "Nov 26, 2026, 10:40 AM PT",
  "record": {
   "w": 283,
   "l": 287,
@@ -1556,10 +1556,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "End of 1st",
+       "detail": "15:00 - 2nd",
        "start": "2026-11-26T18:00Z",
-       "period": 1,
-       "clock": "0:00",
+       "period": 2,
+       "clock": "15:00",
        "teams": [
         {
          "name": "Chicago Bears",
@@ -1569,6 +1569,7 @@
          "ha": "away",
          "winner": null,
          "linescores": [
+          0,
           0
          ]
         },
@@ -1580,6 +1581,7 @@
          "ha": "home",
          "winner": null,
          "linescores": [
+          0,
           0
          ]
         }
@@ -1618,10 +1620,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "End of 1st",
+       "detail": "15:00 - 2nd",
        "start": "2026-11-26T18:00Z",
-       "period": 1,
-       "clock": "0:00",
+       "period": 2,
+       "clock": "15:00",
        "teams": [
         {
          "name": "Chicago Bears",
@@ -1631,6 +1633,7 @@
          "ha": "away",
          "winner": null,
          "linescores": [
+          0,
           0
          ]
         },
@@ -1642,6 +1645,7 @@
          "ha": "home",
          "winner": null,
          "linescores": [
+          0,
           0
          ]
         }
@@ -1680,10 +1684,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "End of 1st",
+       "detail": "15:00 - 2nd",
        "start": "2026-11-26T18:00Z",
-       "period": 1,
-       "clock": "0:00",
+       "period": 2,
+       "clock": "15:00",
        "teams": [
         {
          "name": "Chicago Bears",
@@ -1693,6 +1697,7 @@
          "ha": "away",
          "winner": null,
          "linescores": [
+          0,
           0
          ]
         },
@@ -1704,6 +1709,7 @@
          "ha": "home",
          "winner": null,
          "linescores": [
+          0,
           0
          ]
         }
