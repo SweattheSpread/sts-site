@@ -1,5 +1,5 @@
 {
- "updated": "Nov 26, 2026, 10:28 AM PT",
+ "updated": "Nov 26, 2026, 10:30 AM PT",
  "record": {
   "w": 283,
   "l": 287,
@@ -11,7 +11,7 @@
   "first": "2026-10-12",
   "last": "2026-11-25"
  },
- "pending": 26,
+ "pending": 28,
  "latest": [
   {
    "n": 1051,
@@ -530,6 +530,65 @@
    }
   },
   {
+   "n": 1060,
+   "league": "NFL",
+   "type": "Player Prop",
+   "matchup": "Kansas City Chiefs @ Buffalo Bills",
+   "pick": "James Cook Over 86.5 rushing yards (player prop)",
+   "odds": -110,
+   "units": 3.0,
+   "gap": null,
+   "start": "2026-11-26T17:20:00",
+   "timed": true,
+   "ticket": "single",
+   "espn": {
+    "legs": [
+     {
+      "kind": "prop",
+      "player": "James Cook",
+      "ou": "O",
+      "line": 86.5,
+      "stat": "rushing yards",
+      "label": "James Cook O 86.5 rushing yards",
+      "path": "football/nfl",
+      "event": "401873082",
+      "date": "20261126",
+      "snapshot": {
+       "source": "espn",
+       "state": "pre",
+       "detail": "11/26 - 8:20 PM EST",
+       "start": "2026-11-27T01:20Z",
+       "period": null,
+       "clock": null,
+       "teams": [
+        {
+         "name": "Kansas City Chiefs",
+         "short": "Chiefs",
+         "abbr": "KC",
+         "score": 0,
+         "ha": "away",
+         "winner": null,
+         "linescores": []
+        },
+        {
+         "name": "Buffalo Bills",
+         "short": "Bills",
+         "abbr": "BUF",
+         "score": 0,
+         "ha": "home",
+         "winner": null,
+         "linescores": []
+        }
+       ]
+      },
+      "source": "espn"
+     }
+    ],
+    "sport": "NFL",
+    "ticket": "single"
+   }
+  },
+  {
    "n": 1032,
    "league": "NFL",
    "type": "Moneyline",
@@ -582,6 +641,64 @@
      }
     ],
     "sport": "NFL",
+    "ticket": "single"
+   }
+  },
+  {
+   "n": 1059,
+   "league": "NCAAF",
+   "type": "Total",
+   "matchup": "Temple Owls @ Memphis Tigers",
+   "pick": "Under 67.5",
+   "odds": -110,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-27T12:30:00",
+   "timed": true,
+   "ticket": "single",
+   "espn": {
+    "legs": [
+     {
+      "kind": "total",
+      "side": null,
+      "ou": "U",
+      "line": 67.5,
+      "label": "U 67.5",
+      "path": "football/college-football",
+      "event": "401862838",
+      "date": "20261127",
+      "snapshot": {
+       "source": "espn",
+       "state": "pre",
+       "detail": "11/27 - 3:30 PM EST",
+       "start": "2026-11-27T20:30Z",
+       "period": null,
+       "clock": null,
+       "teams": [
+        {
+         "name": "Temple Owls",
+         "short": "Owls",
+         "abbr": "TEM",
+         "score": 0,
+         "ha": "away",
+         "winner": null,
+         "linescores": []
+        },
+        {
+         "name": "Memphis Tigers",
+         "short": "Tigers",
+         "abbr": "MEM",
+         "score": 0,
+         "ha": "home",
+         "winner": null,
+         "linescores": []
+        }
+       ]
+      },
+      "source": "espn"
+     }
+    ],
+    "sport": "NCAAF",
     "ticket": "single"
    }
   },
@@ -1439,10 +1556,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "5:29 - 1st",
+       "detail": "5:03 - 1st",
        "start": "2026-11-26T18:00Z",
        "period": 1,
-       "clock": "5:29",
+       "clock": "5:03",
        "teams": [
         {
          "name": "Chicago Bears",
@@ -1501,10 +1618,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "5:29 - 1st",
+       "detail": "5:03 - 1st",
        "start": "2026-11-26T18:00Z",
        "period": 1,
-       "clock": "5:29",
+       "clock": "5:03",
        "teams": [
         {
          "name": "Chicago Bears",
@@ -1563,10 +1680,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "5:29 - 1st",
+       "detail": "5:03 - 1st",
        "start": "2026-11-26T18:00Z",
        "period": 1,
-       "clock": "5:29",
+       "clock": "5:03",
        "teams": [
         {
          "name": "Chicago Bears",

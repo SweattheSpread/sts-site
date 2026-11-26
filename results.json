@@ -1,5 +1,5 @@
 {
- "updated": "Nov 26, 2026, 10:28 AM PT",
+ "updated": "Nov 26, 2026, 10:30 AM PT",
  "record": {
   "w": 283,
   "l": 287,
@@ -11,7 +11,7 @@
   "first": "2026-10-12",
   "last": "2026-11-25"
  },
- "pending": 27,
+ "pending": 29,
  "plays": [
   {
    "n": 334,
@@ -9454,6 +9454,22 @@
    "pending": true
   },
   {
+   "n": 1060,
+   "date": "2026-11-26",
+   "day": "2026-11-26",
+   "league": "NFL",
+   "market": "player_prop",
+   "market_label": "Player Prop",
+   "ticket": "single",
+   "matchup": "Kansas City Chiefs @ Buffalo Bills",
+   "pick": "James Cook Over 86.5 rushing yards (player prop)",
+   "odds": -110,
+   "units": 3.0,
+   "result": null,
+   "pl": null,
+   "pending": true
+  },
+  {
    "n": 1032,
    "date": "2026-11-27",
    "day": "2026-11-27",
@@ -9496,6 +9512,22 @@
    "matchup": "Colorado Avalanche @ Minnesota Wild",
    "pick": "Colorado Avalanche ML +108",
    "odds": 108,
+   "units": 1.0,
+   "result": null,
+   "pl": null,
+   "pending": true
+  },
+  {
+   "n": 1059,
+   "date": "2026-11-27",
+   "day": "2026-11-27",
+   "league": "NCAAF",
+   "market": "total",
+   "market_label": "Total",
+   "ticket": "single",
+   "matchup": "Temple Owls @ Memphis Tigers",
+   "pick": "Under 67.5 -110",
+   "odds": -110,
    "units": 1.0,
    "result": null,
    "pl": null,
