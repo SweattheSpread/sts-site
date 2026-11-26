@@ -1,5 +1,5 @@
 {
- "updated": "Nov 26, 2026, 11:06 AM PT",
+ "updated": "Nov 26, 2026, 11:08 AM PT",
  "record": {
   "w": 283,
   "l": 287,
@@ -146,38 +146,7 @@
       "side": "Philadelphia Eagles",
       "line": 8.5,
       "label": "Philadelphia Eagles +8.5",
-      "path": "football/nfl",
-      "event": "401873080",
-      "date": "20261126",
-      "snapshot": {
-       "source": "espn",
-       "state": "pre",
-       "detail": "11/26 - 4:30 PM EST",
-       "start": "2026-11-26T21:30Z",
-       "period": null,
-       "clock": null,
-       "teams": [
-        {
-         "name": "Philadelphia Eagles",
-         "short": "Eagles",
-         "abbr": "PHI",
-         "score": 0,
-         "ha": "away",
-         "winner": null,
-         "linescores": []
-        },
-        {
-         "name": "Dallas Cowboys",
-         "short": "Cowboys",
-         "abbr": "DAL",
-         "score": 0,
-         "ha": "home",
-         "winner": null,
-         "linescores": []
-        }
-       ]
-      },
-      "source": "espn"
+      "unverified": true
      }
     ],
     "sport": "NFL",
@@ -204,38 +173,7 @@
       "ou": "O",
       "line": 48.0,
       "label": "O 48.0",
-      "path": "football/nfl",
-      "event": "401873080",
-      "date": "20261126",
-      "snapshot": {
-       "source": "espn",
-       "state": "pre",
-       "detail": "11/26 - 4:30 PM EST",
-       "start": "2026-11-26T21:30Z",
-       "period": null,
-       "clock": null,
-       "teams": [
-        {
-         "name": "Philadelphia Eagles",
-         "short": "Eagles",
-         "abbr": "PHI",
-         "score": 0,
-         "ha": "away",
-         "winner": null,
-         "linescores": []
-        },
-        {
-         "name": "Dallas Cowboys",
-         "short": "Cowboys",
-         "abbr": "DAL",
-         "score": 0,
-         "ha": "home",
-         "winner": null,
-         "linescores": []
-        }
-       ]
-      },
-      "source": "espn"
+      "unverified": true
      }
     ],
     "sport": "NFL",
@@ -262,38 +200,7 @@
       "ou": "O",
       "line": 15.5,
       "label": "Ryan Flournoy longest reception O 15.5",
-      "path": "football/nfl",
-      "event": "401873080",
-      "date": "20261126",
-      "snapshot": {
-       "source": "espn",
-       "state": "pre",
-       "detail": "11/26 - 4:30 PM EST",
-       "start": "2026-11-26T21:30Z",
-       "period": null,
-       "clock": null,
-       "teams": [
-        {
-         "name": "Philadelphia Eagles",
-         "short": "Eagles",
-         "abbr": "PHI",
-         "score": 0,
-         "ha": "away",
-         "winner": null,
-         "linescores": []
-        },
-        {
-         "name": "Dallas Cowboys",
-         "short": "Cowboys",
-         "abbr": "DAL",
-         "score": 0,
-         "ha": "home",
-         "winner": null,
-         "linescores": []
-        }
-       ]
-      },
-      "source": "espn"
+      "unverified": true
      }
     ],
     "sport": "NFL",
@@ -319,38 +226,7 @@
       "side": "Buffalo Bills",
       "line": -3.0,
       "label": "Buffalo Bills -3",
-      "path": "football/nfl",
-      "event": "401873082",
-      "date": "20261126",
-      "snapshot": {
-       "source": "espn",
-       "state": "pre",
-       "detail": "11/26 - 8:20 PM EST",
-       "start": "2026-11-27T01:20Z",
-       "period": null,
-       "clock": null,
-       "teams": [
-        {
-         "name": "Kansas City Chiefs",
-         "short": "Chiefs",
-         "abbr": "KC",
-         "score": 0,
-         "ha": "away",
-         "winner": null,
-         "linescores": []
-        },
-        {
-         "name": "Buffalo Bills",
-         "short": "Bills",
-         "abbr": "BUF",
-         "score": 0,
-         "ha": "home",
-         "winner": null,
-         "linescores": []
-        }
-       ]
-      },
-      "source": "espn"
+      "unverified": true
      }
     ],
     "sport": "NFL",
@@ -375,38 +251,7 @@
       "kind": "ml",
       "side": "Buffalo Bills",
       "label": "Buffalo Bills ML",
-      "path": "football/nfl",
-      "event": "401873082",
-      "date": "20261126",
-      "snapshot": {
-       "source": "espn",
-       "state": "pre",
-       "detail": "11/26 - 8:20 PM EST",
-       "start": "2026-11-27T01:20Z",
-       "period": null,
-       "clock": null,
-       "teams": [
-        {
-         "name": "Kansas City Chiefs",
-         "short": "Chiefs",
-         "abbr": "KC",
-         "score": 0,
-         "ha": "away",
-         "winner": null,
-         "linescores": []
-        },
-        {
-         "name": "Buffalo Bills",
-         "short": "Bills",
-         "abbr": "BUF",
-         "score": 0,
-         "ha": "home",
-         "winner": null,
-         "linescores": []
-        }
-       ]
-      },
-      "source": "espn"
+      "unverified": true
      }
     ],
     "sport": "NFL",
@@ -433,38 +278,7 @@
       "ou": "O",
       "line": 47.5,
       "label": "O 47.5",
-      "path": "football/nfl",
-      "event": "401873082",
-      "date": "20261126",
-      "snapshot": {
-       "source": "espn",
-       "state": "pre",
-       "detail": "11/26 - 8:20 PM EST",
-       "start": "2026-11-27T01:20Z",
-       "period": null,
-       "clock": null,
-       "teams": [
-        {
-         "name": "Kansas City Chiefs",
-         "short": "Chiefs",
-         "abbr": "KC",
-         "score": 0,
-         "ha": "away",
-         "winner": null,
-         "linescores": []
-        },
-        {
-         "name": "Buffalo Bills",
-         "short": "Bills",
-         "abbr": "BUF",
-         "score": 0,
-         "ha": "home",
-         "winner": null,
-         "linescores": []
-        }
-       ]
-      },
-      "source": "espn"
+      "unverified": true
      }
     ],
     "sport": "NFL",
@@ -491,38 +305,7 @@
       "ou": "O",
       "line": 8.5,
       "label": "Cyrus Allen longest reception O 8.5",
-      "path": "football/nfl",
-      "event": "401873082",
-      "date": "20261126",
-      "snapshot": {
-       "source": "espn",
-       "state": "pre",
-       "detail": "11/26 - 8:20 PM EST",
-       "start": "2026-11-27T01:20Z",
-       "period": null,
-       "clock": null,
-       "teams": [
-        {
-         "name": "Kansas City Chiefs",
-         "short": "Chiefs",
-         "abbr": "KC",
-         "score": 0,
-         "ha": "away",
-         "winner": null,
-         "linescores": []
-        },
-        {
-         "name": "Buffalo Bills",
-         "short": "Bills",
-         "abbr": "BUF",
-         "score": 0,
-         "ha": "home",
-         "winner": null,
-         "linescores": []
-        }
-       ]
-      },
-      "source": "espn"
+      "unverified": true
      }
     ],
     "sport": "NFL",
@@ -550,38 +333,7 @@
       "line": 86.5,
       "stat": "rushing yards",
       "label": "James Cook O 86.5 rushing yards",
-      "path": "football/nfl",
-      "event": "401873082",
-      "date": "20261126",
-      "snapshot": {
-       "source": "espn",
-       "state": "pre",
-       "detail": "11/26 - 8:20 PM EST",
-       "start": "2026-11-27T01:20Z",
-       "period": null,
-       "clock": null,
-       "teams": [
-        {
-         "name": "Kansas City Chiefs",
-         "short": "Chiefs",
-         "abbr": "KC",
-         "score": 0,
-         "ha": "away",
-         "winner": null,
-         "linescores": []
-        },
-        {
-         "name": "Buffalo Bills",
-         "short": "Bills",
-         "abbr": "BUF",
-         "score": 0,
-         "ha": "home",
-         "winner": null,
-         "linescores": []
-        }
-       ]
-      },
-      "source": "espn"
+      "unverified": true
      }
     ],
     "sport": "NFL",
@@ -609,38 +361,7 @@
       "line": 0.5,
       "stat": "anytime td",
       "label": "2-leg parlay James Cook O 0.5 anytime td",
-      "path": "football/nfl",
-      "event": "401873082",
-      "date": "20261126",
-      "snapshot": {
-       "source": "espn",
-       "state": "pre",
-       "detail": "11/26 - 8:20 PM EST",
-       "start": "2026-11-27T01:20Z",
-       "period": null,
-       "clock": null,
-       "teams": [
-        {
-         "name": "Kansas City Chiefs",
-         "short": "Chiefs",
-         "abbr": "KC",
-         "score": 0,
-         "ha": "away",
-         "winner": null,
-         "linescores": []
-        },
-        {
-         "name": "Buffalo Bills",
-         "short": "Bills",
-         "abbr": "BUF",
-         "score": 0,
-         "ha": "home",
-         "winner": null,
-         "linescores": []
-        }
-       ]
-      },
-      "source": "espn"
+      "unverified": true
      },
      {
       "kind": "prop",
@@ -649,38 +370,7 @@
       "line": 0.5,
       "stat": "anytime td",
       "label": "Emmett Johnson O 0.5 anytime td",
-      "path": "football/nfl",
-      "event": "401873082",
-      "date": "20261126",
-      "snapshot": {
-       "source": "espn",
-       "state": "pre",
-       "detail": "11/26 - 8:20 PM EST",
-       "start": "2026-11-27T01:20Z",
-       "period": null,
-       "clock": null,
-       "teams": [
-        {
-         "name": "Kansas City Chiefs",
-         "short": "Chiefs",
-         "abbr": "KC",
-         "score": 0,
-         "ha": "away",
-         "winner": null,
-         "linescores": []
-        },
-        {
-         "name": "Buffalo Bills",
-         "short": "Bills",
-         "abbr": "BUF",
-         "score": 0,
-         "ha": "home",
-         "winner": null,
-         "linescores": []
-        }
-       ]
-      },
-      "source": "espn"
+      "unverified": true
      }
     ],
     "sport": "NFL",
@@ -708,38 +398,7 @@
       "line": 69.5,
       "stat": "rushing yds",
       "label": "Kansas City Chiefs @ Buffalo Bills SGP +500: Emmett Johnson O 69.5 rushing yds",
-      "path": "football/nfl",
-      "event": "401873082",
-      "date": "20261126",
-      "snapshot": {
-       "source": "espn",
-       "state": "pre",
-       "detail": "11/26 - 8:20 PM EST",
-       "start": "2026-11-27T01:20Z",
-       "period": null,
-       "clock": null,
-       "teams": [
-        {
-         "name": "Kansas City Chiefs",
-         "short": "Chiefs",
-         "abbr": "KC",
-         "score": 0,
-         "ha": "away",
-         "winner": null,
-         "linescores": []
-        },
-        {
-         "name": "Buffalo Bills",
-         "short": "Bills",
-         "abbr": "BUF",
-         "score": 0,
-         "ha": "home",
-         "winner": null,
-         "linescores": []
-        }
-       ]
-      },
-      "source": "espn"
+      "unverified": true
      },
      {
       "kind": "prop",
@@ -1874,44 +1533,34 @@
       "side": "Detroit Lions",
       "line": 2.5,
       "label": "Detroit Lions +2.5",
-      "path": "football/nfl",
-      "event": "401873081",
-      "date": "20261126",
+      "unverified": true,
       "snapshot": {
-       "source": "espn",
+       "source": "odds-api",
        "state": "in",
-       "detail": "4:58 - 2nd",
-       "start": "2026-11-26T18:00Z",
-       "period": 2,
-       "clock": "4:58",
+       "detail": "Live",
+       "start": "2026-11-26T18:02:55Z",
        "teams": [
         {
          "name": "Chicago Bears",
-         "short": "Bears",
-         "abbr": "CHI",
-         "score": 3,
+         "short": "Chicago Bears",
+         "abbr": "",
+         "score": 10,
          "ha": "away",
          "winner": null,
-         "linescores": [
-          0,
-          0
-         ]
+         "linescores": []
         },
         {
          "name": "Detroit Lions",
-         "short": "Lions",
-         "abbr": "DET",
+         "short": "Detroit Lions",
+         "abbr": "",
          "score": 10,
          "ha": "home",
          "winner": null,
-         "linescores": [
-          0,
-          0
-         ]
+         "linescores": []
         }
        ]
       },
-      "source": "espn"
+      "source": "odds-api"
      }
     ],
     "sport": "NFL",
@@ -1938,44 +1587,34 @@
       "ou": "O",
       "line": 23.5,
       "label": "Jameson Williams longest reception O 23.5",
-      "path": "football/nfl",
-      "event": "401873081",
-      "date": "20261126",
+      "unverified": true,
       "snapshot": {
-       "source": "espn",
+       "source": "odds-api",
        "state": "in",
-       "detail": "4:58 - 2nd",
-       "start": "2026-11-26T18:00Z",
-       "period": 2,
-       "clock": "4:58",
+       "detail": "Live",
+       "start": "2026-11-26T18:02:55Z",
        "teams": [
         {
          "name": "Chicago Bears",
-         "short": "Bears",
-         "abbr": "CHI",
-         "score": 3,
+         "short": "Chicago Bears",
+         "abbr": "",
+         "score": 10,
          "ha": "away",
          "winner": null,
-         "linescores": [
-          0,
-          0
-         ]
+         "linescores": []
         },
         {
          "name": "Detroit Lions",
-         "short": "Lions",
-         "abbr": "DET",
+         "short": "Detroit Lions",
+         "abbr": "",
          "score": 10,
          "ha": "home",
          "winner": null,
-         "linescores": [
-          0,
-          0
-         ]
+         "linescores": []
         }
        ]
       },
-      "source": "espn"
+      "source": "odds-api"
      }
     ],
     "sport": "NFL",
@@ -2002,44 +1641,34 @@
       "ou": "O",
       "line": 7.5,
       "label": "Zavion Thomas longest reception O 7.5",
-      "path": "football/nfl",
-      "event": "401873081",
-      "date": "20261126",
+      "unverified": true,
       "snapshot": {
-       "source": "espn",
+       "source": "odds-api",
        "state": "in",
-       "detail": "4:58 - 2nd",
-       "start": "2026-11-26T18:00Z",
-       "period": 2,
-       "clock": "4:58",
+       "detail": "Live",
+       "start": "2026-11-26T18:02:55Z",
        "teams": [
         {
          "name": "Chicago Bears",
-         "short": "Bears",
-         "abbr": "CHI",
-         "score": 3,
+         "short": "Chicago Bears",
+         "abbr": "",
+         "score": 10,
          "ha": "away",
          "winner": null,
-         "linescores": [
-          0,
-          0
-         ]
+         "linescores": []
         },
         {
          "name": "Detroit Lions",
-         "short": "Lions",
-         "abbr": "DET",
+         "short": "Detroit Lions",
+         "abbr": "",
          "score": 10,
          "ha": "home",
          "winner": null,
-         "linescores": [
-          0,
-          0
-         ]
+         "linescores": []
         }
        ]
       },
-      "source": "espn"
+      "source": "odds-api"
      }
     ],
     "sport": "NFL",
