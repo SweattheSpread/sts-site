@@ -1,125 +1,125 @@
 {
- "updated": "Nov 25, 2026, 11:22 PM PT",
+ "updated": "Nov 25, 2026, 11:38 PM PT",
  "record": {
-  "w": 273,
-  "l": 274,
+  "w": 282,
+  "l": 287,
   "p": 2,
-  "n": 549,
-  "units": 62.75,
-  "risked": 804.7,
-  "roi": 7.8,
+  "n": 571,
+  "units": 55.63,
+  "risked": 834.2,
+  "roi": 6.67,
   "first": "2026-10-12",
-  "last": "2026-11-24"
+  "last": "2026-11-25"
  },
- "pending": 42,
+ "pending": 21,
  "latest": [
   {
-   "n": 1022,
-   "date": "2026-11-24",
-   "day": "2026-11-24",
-   "league": "NCAAF",
-   "type": "Total",
-   "matchup": "Miami (OH) RedHawks at Western Michigan Broncos",
-   "pick": "2nd Quarter Total Over 13.5 LIVE",
-   "odds": -112,
+   "n": 1051,
+   "date": "2026-11-25",
+   "day": "2026-11-25",
+   "league": "NFL",
+   "type": "Player Prop",
+   "matchup": "Green Bay Packers @ Los Angeles Rams",
+   "pick": "Matthew Golden Over 67.5 receiving yards -122 (BetRivers)",
+   "odds": -122,
    "units": 5.0,
    "result": "L",
    "pl": -5.0,
    "ticket": "single"
   },
   {
-   "n": 1021,
-   "date": "2026-11-24",
-   "day": "2026-11-24",
-   "league": "NCAAB",
-   "type": "Spread",
-   "matchup": "Tarleton State Texans @ Weber State Wildcats",
-   "pick": "Tarleton State +2",
-   "odds": -110,
-   "units": 1.0,
-   "result": "P",
-   "pl": 0.0,
-   "ticket": "single"
-  },
-  {
-   "n": 1020,
-   "date": "2026-11-24",
-   "day": "2026-11-24",
-   "league": "NBA",
+   "n": 1050,
+   "date": "2026-11-25",
+   "day": "2026-11-25",
+   "league": "NFL",
    "type": "Player Prop",
-   "matchup": "Boston Celtics @ Washington Wizards",
-   "pick": "Paul George Over 18.5 Points -115 (BetMGM; Circa -130)",
-   "odds": -115,
-   "units": 1.0,
-   "result": "W",
-   "pl": 0.87,
-   "ticket": "single"
-  },
-  {
-   "n": 1019,
-   "date": "2026-11-24",
-   "day": "2026-11-24",
-   "league": "NCAAB",
-   "type": "Moneyline",
-   "matchup": "Tennessee Volunteers vs Maryland Terrapins",
-   "pick": "Tennessee ML LIVE",
-   "odds": -105,
-   "units": 3.0,
-   "result": "W",
-   "pl": 2.86,
-   "ticket": "single"
-  },
-  {
-   "n": 1018,
-   "date": "2026-11-24",
-   "day": "2026-11-24",
-   "league": "NCAAB",
-   "type": "Spread",
-   "matchup": "BYU Cougars vs Ole Miss Rebels",
-   "pick": "BYU -6.5 LIVE",
-   "odds": -115,
-   "units": 7.0,
+   "matchup": "Green Bay Packers @ Los Angeles Rams",
+   "pick": "Blake Corum First TD Scorer",
+   "odds": 700,
+   "units": 0.5,
    "result": "L",
-   "pl": -7.0,
+   "pl": -0.5,
    "ticket": "single"
   },
   {
-   "n": 1017,
-   "date": "2026-11-24",
-   "day": "2026-11-24",
+   "n": 1049,
+   "date": "2026-11-25",
+   "day": "2026-11-25",
    "league": "NBA",
    "type": "Player Prop",
-   "matchup": "Boston Celtics @ Washington Wizards",
-   "pick": "AJ Dybantsa Over 6.5 Rebounds +110 (Circa; BetMGM -105, Caesars -112)",
-   "odds": 110,
-   "units": 1.0,
-   "result": "W",
-   "pl": 1.1,
-   "ticket": "single"
-  },
-  {
-   "n": 1016,
-   "date": "2026-11-24",
-   "day": "2026-11-24",
-   "league": "NBA",
-   "type": "Player Prop",
-   "matchup": "Boston Celtics @ Washington Wizards",
-   "pick": "Trae Young Over 2.5 Rebounds +140 (BetMGM; Caesars +128)",
-   "odds": 140,
+   "matchup": "Sacramento Kings @ Golden State Warriors",
+   "pick": "Keegan Murray Under 13.5 points +100 (BetMGM)",
+   "odds": 100,
    "units": 1.0,
    "result": "L",
    "pl": -1.0,
    "ticket": "single"
   },
   {
-   "n": 1015,
-   "date": "2026-11-24",
-   "day": "2026-11-24",
+   "n": 1048,
+   "date": "2026-11-25",
+   "day": "2026-11-25",
+   "league": "NHL",
+   "type": "Player Prop",
+   "matchup": "Philadelphia Flyers @ Washington Capitals",
+   "pick": "Ryan Leonard Over 0.5 points +105 (BetMGM)",
+   "odds": 105,
+   "units": 1.0,
+   "result": "W",
+   "pl": 1.05,
+   "ticket": "single"
+  },
+  {
+   "n": 1047,
+   "date": "2026-11-25",
+   "day": "2026-11-25",
+   "league": "NBA",
+   "type": "Player Prop",
+   "matchup": "Phoenix Suns @ Houston Rockets",
+   "pick": "Dillon Brooks Over 1.5 3-pointers made +100 (BetMGM)",
+   "odds": 100,
+   "units": 1.0,
+   "result": "L",
+   "pl": -1.0,
+   "ticket": "single"
+  },
+  {
+   "n": 1046,
+   "date": "2026-11-25",
+   "day": "2026-11-25",
    "league": "NCAAB",
    "type": "Over/Under",
-   "matchup": "Saint Louis Billikens @ Grand Canyon Antelopes",
-   "pick": "Under 166.5",
+   "matchup": "Mississippi Valley St Delta Devils @ New Mexico Lobos",
+   "pick": "Under 152.5",
    "odds": -110,
+   "units": 1.0,
+   "result": "L",
+   "pl": -1.0,
+   "ticket": "single"
+  },
+  {
+   "n": 1045,
+   "date": "2026-11-25",
+   "day": "2026-11-25",
+   "league": "NCAAB",
+   "type": "Spread",
+   "matchup": "Longwood Lancers @ George Mason Patriots",
+   "pick": "Longwood +16.5",
+   "odds": -110,
+   "units": 1.0,
+   "result": "L",
+   "pl": -1.0,
+   "ticket": "single"
+  },
+  {
+   "n": 1043,
+   "date": "2026-11-25",
+   "day": "2026-11-25",
+   "league": "NCAAB",
+   "type": "Over/Under",
+   "matchup": "Eastern Michigan Eagles @ UTEP Miners",
+   "pick": "Over 131.5",
+   "odds": -105,
    "units": 1.0,
    "result": "L",
    "pl": -1.0,
@@ -1244,887 +1244,6 @@
  ],
  "awaiting": [
   {
-   "n": 852,
-   "league": "NFL",
-   "type": "Spread",
-   "matchup": "Green Bay Packers @ Los Angeles Rams",
-   "pick": "Los Angeles Rams -3.5 (-117)",
-   "odds": -117,
-   "units": 1.0,
-   "gap": 4.3,
-   "start": "2026-11-25T17:00:00",
-   "timed": true,
-   "ticket": "single",
-   "espn": {
-    "legs": [
-     {
-      "kind": "spread",
-      "side": "Los Angeles Rams",
-      "line": -3.5,
-      "label": "Los Angeles Rams -3.5",
-      "path": "football/nfl",
-      "event": "401873079",
-      "date": "20261125",
-      "snapshot": {
-       "source": "espn",
-       "state": "post",
-       "detail": "Final",
-       "start": "2026-11-26T01:00Z",
-       "period": null,
-       "clock": null,
-       "teams": [
-        {
-         "name": "Green Bay Packers",
-         "short": "Packers",
-         "abbr": "GB",
-         "score": 13,
-         "ha": "away",
-         "winner": false,
-         "linescores": [
-          0,
-          0,
-          0,
-          0
-         ]
-        },
-        {
-         "name": "Los Angeles Rams",
-         "short": "Rams",
-         "abbr": "LAR",
-         "score": 26,
-         "ha": "home",
-         "winner": true,
-         "linescores": [
-          0,
-          0,
-          0,
-          0
-         ]
-        }
-       ]
-      },
-      "source": "espn"
-     }
-    ],
-    "sport": "NFL",
-    "ticket": "single"
-   }
-  },
-  {
-   "n": 989,
-   "league": "NFL",
-   "type": "Over/Under",
-   "matchup": "Green Bay Packers @ Los Angeles Rams",
-   "pick": "Over 44",
-   "odds": -110,
-   "units": 1.0,
-   "gap": null,
-   "start": "2026-11-25T17:00:00",
-   "timed": true,
-   "ticket": "single",
-   "espn": {
-    "legs": [
-     {
-      "kind": "total",
-      "side": null,
-      "ou": "O",
-      "line": 44.0,
-      "label": "O 44.0",
-      "path": "football/nfl",
-      "event": "401873079",
-      "date": "20261125",
-      "snapshot": {
-       "source": "espn",
-       "state": "post",
-       "detail": "Final",
-       "start": "2026-11-26T01:00Z",
-       "period": null,
-       "clock": null,
-       "teams": [
-        {
-         "name": "Green Bay Packers",
-         "short": "Packers",
-         "abbr": "GB",
-         "score": 13,
-         "ha": "away",
-         "winner": false,
-         "linescores": [
-          0,
-          0,
-          0,
-          0
-         ]
-        },
-        {
-         "name": "Los Angeles Rams",
-         "short": "Rams",
-         "abbr": "LAR",
-         "score": 26,
-         "ha": "home",
-         "winner": true,
-         "linescores": [
-          0,
-          0,
-          0,
-          0
-         ]
-        }
-       ]
-      },
-      "source": "espn"
-     }
-    ],
-    "sport": "NFL",
-    "ticket": "single"
-   }
-  },
-  {
-   "n": 1011,
-   "league": "NFL",
-   "type": "Spread",
-   "matchup": "Green Bay Packers @ Los Angeles Rams",
-   "pick": "Los Angeles Rams -2.5",
-   "odds": -108,
-   "units": 1.0,
-   "gap": null,
-   "start": "2026-11-25T17:00:00",
-   "timed": true,
-   "ticket": "single",
-   "espn": {
-    "legs": [
-     {
-      "kind": "spread",
-      "side": "Los Angeles Rams",
-      "line": -2.5,
-      "label": "Los Angeles Rams -2.5",
-      "path": "football/nfl",
-      "event": "401873079",
-      "date": "20261125",
-      "snapshot": {
-       "source": "espn",
-       "state": "post",
-       "detail": "Final",
-       "start": "2026-11-26T01:00Z",
-       "period": null,
-       "clock": null,
-       "teams": [
-        {
-         "name": "Green Bay Packers",
-         "short": "Packers",
-         "abbr": "GB",
-         "score": 13,
-         "ha": "away",
-         "winner": false,
-         "linescores": [
-          0,
-          0,
-          0,
-          0
-         ]
-        },
-        {
-         "name": "Los Angeles Rams",
-         "short": "Rams",
-         "abbr": "LAR",
-         "score": 26,
-         "ha": "home",
-         "winner": true,
-         "linescores": [
-          0,
-          0,
-          0,
-          0
-         ]
-        }
-       ]
-      },
-      "source": "espn"
-     }
-    ],
-    "sport": "NFL",
-    "ticket": "single"
-   }
-  },
-  {
-   "n": 1023,
-   "league": "NCAAB",
-   "type": "Spread",
-   "matchup": "SE Louisiana Lions @ North Dakota Fighting Hawks",
-   "pick": "North Dakota +1.5",
-   "odds": -110,
-   "units": 1.0,
-   "gap": null,
-   "start": "2026-11-25T12:00:00",
-   "timed": true,
-   "ticket": "single",
-   "espn": {
-    "legs": [
-     {
-      "kind": "spread",
-      "side": "North Dakota",
-      "line": 1.5,
-      "label": "North Dakota +1.5",
-      "path": "basketball/mens-college-basketball",
-      "event": "401920548",
-      "date": "20261125",
-      "snapshot": {
-       "source": "espn",
-       "state": "post",
-       "detail": "Final",
-       "start": "2026-11-25T20:00Z",
-       "period": null,
-       "clock": null,
-       "teams": [
-        {
-         "name": "SE Louisiana Lions",
-         "short": "Lions",
-         "abbr": "SELA",
-         "score": 73,
-         "ha": "away",
-         "winner": true,
-         "linescores": [
-          0,
-          0
-         ]
-        },
-        {
-         "name": "North Dakota Fighting Hawks",
-         "short": "Fighting Hawks",
-         "abbr": "UND",
-         "score": 72,
-         "ha": "home",
-         "winner": false,
-         "linescores": [
-          0,
-          0
-         ]
-        }
-       ]
-      },
-      "source": "espn"
-     }
-    ],
-    "sport": "NCAAB",
-    "ticket": "single"
-   }
-  },
-  {
-   "n": 1026,
-   "league": "NHL",
-   "type": "Player Prop",
-   "matchup": "New Jersey Devils @ Columbus Blue Jackets",
-   "pick": "Adam Fantilli Over 0.5 Assists +180 (BetMGM)",
-   "odds": 180,
-   "units": 1.0,
-   "gap": null,
-   "start": "2026-11-25T16:00:00",
-   "timed": true,
-   "ticket": "single",
-   "espn": {
-    "legs": [
-     {
-      "kind": "prop",
-      "player": "Adam Fantilli",
-      "ou": "O",
-      "line": 0.5,
-      "stat": "assists +180",
-      "label": "Adam Fantilli O 0.5 assists +180",
-      "date": "20261125",
-      "unverified": true,
-      "reason": "Player not found in this game",
-      "snapshot": {
-       "source": "nhl",
-       "state": "post",
-       "detail": "Final/SO",
-       "start": "2026-11-26T00:00:00Z",
-       "period": 5,
-       "clock": "00:00",
-       "teams": [
-        {
-         "name": "Blues",
-         "short": "STL",
-         "abbr": "STL",
-         "score": 2,
-         "ha": "away",
-         "winner": false,
-         "linescores": []
-        },
-        {
-         "name": "Islanders",
-         "short": "NYI",
-         "abbr": "NYI",
-         "score": 3,
-         "ha": "home",
-         "winner": true,
-         "linescores": []
-        }
-       ],
-       "nhl_id": 2026020390,
-       "player_missing": true
-      },
-      "source": "nhl"
-     }
-    ],
-    "sport": "NHL",
-    "ticket": "single"
-   }
-  },
-  {
-   "n": 1027,
-   "league": "NHL",
-   "type": "Player Prop",
-   "matchup": "Calgary Flames @ Pittsburgh Penguins",
-   "pick": "Zayne Parekh Over 0.5 Assists +210 (BetMGM)",
-   "odds": 210,
-   "units": 1.0,
-   "gap": null,
-   "start": "2026-11-25T16:00:00",
-   "timed": true,
-   "ticket": "single",
-   "espn": {
-    "legs": [
-     {
-      "kind": "prop",
-      "player": "Zayne Parekh",
-      "ou": "O",
-      "line": 0.5,
-      "stat": "assists +210",
-      "label": "Zayne Parekh O 0.5 assists +210",
-      "date": "20261125",
-      "unverified": true,
-      "reason": "Player not found in this game",
-      "snapshot": {
-       "source": "nhl",
-       "state": "post",
-       "detail": "Final",
-       "start": "2026-11-26T00:00:00Z",
-       "period": 3,
-       "clock": "00:00",
-       "teams": [
-        {
-         "name": "Flames",
-         "short": "CGY",
-         "abbr": "CGY",
-         "score": 6,
-         "ha": "away",
-         "winner": true,
-         "linescores": []
-        },
-        {
-         "name": "Penguins",
-         "short": "PIT",
-         "abbr": "PIT",
-         "score": 3,
-         "ha": "home",
-         "winner": false,
-         "linescores": []
-        }
-       ],
-       "nhl_id": 2026020391,
-       "stat": {
-        "v": 1,
-        "name": "Z. Parekh"
-       }
-      },
-      "source": "nhl"
-     }
-    ],
-    "sport": "NHL",
-    "ticket": "single"
-   }
-  },
-  {
-   "n": 1028,
-   "league": "NHL",
-   "type": "Player Prop",
-   "matchup": "Philadelphia Flyers @ Washington Capitals",
-   "pick": "Cole Hutson Over 0.5 Assists +175 (BetMGM)",
-   "odds": 175,
-   "units": 1.0,
-   "gap": null,
-   "start": "2026-11-25T16:00:00",
-   "timed": true,
-   "ticket": "single",
-   "espn": {
-    "legs": [
-     {
-      "kind": "prop",
-      "player": "Cole Hutson",
-      "ou": "O",
-      "line": 0.5,
-      "stat": "assists +175",
-      "label": "Cole Hutson O 0.5 assists +175",
-      "date": "20261125",
-      "unverified": true,
-      "reason": "Player not found in this game",
-      "snapshot": {
-       "source": "nhl",
-       "state": "post",
-       "detail": "Final",
-       "start": "2026-11-26T00:00:00Z",
-       "period": 3,
-       "clock": "00:00",
-       "teams": [
-        {
-         "name": "Flyers",
-         "short": "PHI",
-         "abbr": "PHI",
-         "score": 3,
-         "ha": "away",
-         "winner": false,
-         "linescores": []
-        },
-        {
-         "name": "Capitals",
-         "short": "WSH",
-         "abbr": "WSH",
-         "score": 7,
-         "ha": "home",
-         "winner": true,
-         "linescores": []
-        }
-       ],
-       "nhl_id": 2026020392,
-       "stat": {
-        "v": 0,
-        "name": "C. Hutson"
-       }
-      },
-      "source": "nhl"
-     }
-    ],
-    "sport": "NHL",
-    "ticket": "single"
-   }
-  },
-  {
-   "n": 1036,
-   "league": "NHL",
-   "type": "Moneyline",
-   "matchup": "Utah Mammoth @ Minnesota Wild",
-   "pick": "Utah Mammoth ML",
-   "odds": 130,
-   "units": 1.0,
-   "gap": null,
-   "start": "2026-11-25T17:10:00",
-   "timed": true,
-   "ticket": "single",
-   "espn": {
-    "legs": [
-     {
-      "kind": "ml",
-      "side": "Utah Mammoth",
-      "label": "Utah Mammoth ML",
-      "path": "hockey/nhl",
-      "event": "401892791",
-      "date": "20261125",
-      "snapshot": {
-       "source": "nhl",
-       "state": "post",
-       "detail": "Final",
-       "start": "2026-11-26T01:00:00Z",
-       "period": 3,
-       "clock": "00:00",
-       "teams": [
-        {
-         "name": "Mammoth",
-         "short": "UTA",
-         "abbr": "UTA",
-         "score": 4,
-         "ha": "away",
-         "winner": true,
-         "linescores": []
-        },
-        {
-         "name": "Wild",
-         "short": "MIN",
-         "abbr": "MIN",
-         "score": 3,
-         "ha": "home",
-         "winner": false,
-         "linescores": []
-        }
-       ],
-       "nhl_id": 2026020396
-      },
-      "source": "nhl"
-     }
-    ],
-    "sport": "NHL",
-    "ticket": "single"
-   }
-  },
-  {
-   "n": 1037,
-   "league": "NBA",
-   "type": "Player Prop",
-   "matchup": "Phoenix Suns @ Houston Rockets",
-   "pick": "Miles Bridges Over 1.5 3-pointers made +105 (BetMGM; Caesars -118)",
-   "odds": 105,
-   "units": 1.0,
-   "gap": null,
-   "start": "2026-11-25T17:40:00",
-   "timed": true,
-   "ticket": "single",
-   "espn": {
-    "legs": [
-     {
-      "kind": "prop",
-      "player": "Miles Bridges",
-      "ou": "O",
-      "line": 1.5,
-      "stat": "3-pointers made +105",
-      "label": "Miles Bridges O 1.5 3-pointers made +105",
-      "date": "20261125",
-      "unverified": true,
-      "reason": "Player not found in this game",
-      "snapshot": {
-       "source": "odds-api",
-       "state": "post",
-       "detail": "Final",
-       "start": "2026-11-26T01:41:00Z",
-       "teams": [
-        {
-         "name": "Phoenix Suns",
-         "short": "Phoenix Suns",
-         "abbr": "",
-         "score": 104,
-         "ha": "away",
-         "winner": false,
-         "linescores": []
-        },
-        {
-         "name": "Houston Rockets",
-         "short": "Houston Rockets",
-         "abbr": "",
-         "score": 116,
-         "ha": "home",
-         "winner": true,
-         "linescores": []
-        }
-       ]
-      },
-      "source": "odds-api"
-     }
-    ],
-    "sport": "NBA",
-    "ticket": "single"
-   }
-  },
-  {
-   "n": 1038,
-   "league": "NHL",
-   "type": "Player Prop",
-   "matchup": "San Jose Sharks @ Anaheim Ducks",
-   "pick": "Ivar Stenberg Under 1.5 shots on goal +115 (BetMGM)",
-   "odds": 115,
-   "units": 1.0,
-   "gap": null,
-   "start": "2026-11-25T19:10:00",
-   "timed": true,
-   "ticket": "single",
-   "espn": {
-    "legs": [
-     {
-      "kind": "prop",
-      "player": "Ivar Stenberg",
-      "ou": "U",
-      "line": 1.5,
-      "stat": "shots on goal +115",
-      "label": "Ivar Stenberg U 1.5 shots on goal +115",
-      "date": "20261125",
-      "unverified": true,
-      "reason": "Player not found in this game",
-      "snapshot": {
-       "source": "nhl",
-       "state": "post",
-       "detail": "Final",
-       "start": "2026-11-26T03:00:00Z",
-       "period": 3,
-       "clock": "00:00",
-       "teams": [
-        {
-         "name": "Sharks",
-         "short": "SJS",
-         "abbr": "SJS",
-         "score": 0,
-         "ha": "away",
-         "winner": false,
-         "linescores": []
-        },
-        {
-         "name": "Ducks",
-         "short": "ANA",
-         "abbr": "ANA",
-         "score": 7,
-         "ha": "home",
-         "winner": true,
-         "linescores": []
-        }
-       ],
-       "nhl_id": 2026020398,
-       "stat": {
-        "v": 0,
-        "name": "I. Stenberg"
-       }
-      },
-      "source": "nhl"
-     }
-    ],
-    "sport": "NHL",
-    "ticket": "single"
-   }
-  },
-  {
-   "n": 1039,
-   "league": "NBA",
-   "type": "Player Prop",
-   "matchup": "Cleveland Cavaliers @ New York Knicks",
-   "pick": "Donovan Mitchell Under 4.5 rebounds",
-   "odds": -140,
-   "units": 3.0,
-   "gap": null,
-   "start": "2026-11-25T16:40:00",
-   "timed": true,
-   "ticket": "single",
-   "espn": {
-    "legs": [
-     {
-      "kind": "prop",
-      "player": "Donovan Mitchell",
-      "ou": "U",
-      "line": 4.5,
-      "stat": "rebounds",
-      "label": "Donovan Mitchell U 4.5 rebounds",
-      "path": "basketball/nba",
-      "event": "401909319",
-      "date": "20261125",
-      "snapshot": {
-       "source": "espn",
-       "state": "post",
-       "detail": "Final",
-       "start": "2026-11-26T00:30Z",
-       "period": null,
-       "clock": null,
-       "teams": [
-        {
-         "name": "Cleveland Cavaliers",
-         "short": "Cavaliers",
-         "abbr": "CLE",
-         "score": 102,
-         "ha": "away",
-         "winner": false,
-         "linescores": [
-          0,
-          0,
-          0,
-          0
-         ]
-        },
-        {
-         "name": "New York Knicks",
-         "short": "Knicks",
-         "abbr": "NY",
-         "score": 121,
-         "ha": "home",
-         "winner": true,
-         "linescores": [
-          0,
-          0,
-          0,
-          0
-         ]
-        }
-       ],
-       "stat": {
-        "v": 4,
-        "name": "Donovan Mitchell"
-       }
-      },
-      "source": "espn"
-     }
-    ],
-    "sport": "NBA",
-    "ticket": "single"
-   }
-  },
-  {
-   "n": 1041,
-   "league": "NBA",
-   "type": "Player Prop",
-   "matchup": "Los Angeles Clippers @ Memphis Grizzlies",
-   "pick": "Brook Lopez Over 1.5 3-pointers made +115 (BetMGM; Caesars +100)",
-   "odds": 115,
-   "units": 1.0,
-   "gap": null,
-   "start": "2026-11-25T17:10:00",
-   "timed": true,
-   "ticket": "single",
-   "espn": {
-    "legs": [
-     {
-      "kind": "prop",
-      "player": "Brook Lopez",
-      "ou": "O",
-      "line": 1.5,
-      "stat": "3-pointers made +115",
-      "label": "Brook Lopez O 1.5 3-pointers made +115",
-      "unverified": true,
-      "snapshot": {
-       "source": "odds-api",
-       "state": "post",
-       "detail": "Final",
-       "start": "2026-11-26T01:10:40Z",
-       "teams": [
-        {
-         "name": "Los Angeles Clippers",
-         "short": "Los Angeles Clippers",
-         "abbr": "",
-         "score": 97,
-         "ha": "away",
-         "winner": false,
-         "linescores": []
-        },
-        {
-         "name": "Memphis Grizzlies",
-         "short": "Memphis Grizzlies",
-         "abbr": "",
-         "score": 115,
-         "ha": "home",
-         "winner": true,
-         "linescores": []
-        }
-       ]
-      },
-      "source": "odds-api"
-     }
-    ],
-    "sport": "NBA",
-    "ticket": "single"
-   }
-  },
-  {
-   "n": 1042,
-   "league": "NBA",
-   "type": "Player Prop",
-   "matchup": "Miami Heat @ Philadelphia 76ers",
-   "pick": "VJ Edgecombe Over 1.5 3-pointers made -105 (BetMGM; Caesars -123)",
-   "odds": -105,
-   "units": 1.0,
-   "gap": null,
-   "start": "2026-11-25T14:10:00",
-   "timed": true,
-   "ticket": "single",
-   "espn": {
-    "legs": [
-     {
-      "kind": "prop",
-      "player": "VJ Edgecombe",
-      "ou": "O",
-      "line": 1.5,
-      "stat": "3-pointers made -105",
-      "label": "VJ Edgecombe O 1.5 3-pointers made -105",
-      "date": "20261125",
-      "unverified": true,
-      "reason": "Player not found in this game",
-      "snapshot": {
-       "source": "odds-api",
-       "state": "post",
-       "detail": "Final",
-       "start": "2026-11-25T22:12:00Z",
-       "teams": [
-        {
-         "name": "Miami Heat",
-         "short": "Miami Heat",
-         "abbr": "",
-         "score": 104,
-         "ha": "away",
-         "winner": false,
-         "linescores": []
-        },
-        {
-         "name": "Philadelphia 76ers",
-         "short": "Philadelphia 76ers",
-         "abbr": "",
-         "score": 111,
-         "ha": "home",
-         "winner": true,
-         "linescores": []
-        }
-       ]
-      },
-      "source": "odds-api"
-     }
-    ],
-    "sport": "NBA",
-    "ticket": "single"
-   }
-  },
-  {
-   "n": 1043,
-   "league": "NCAAB",
-   "type": "Over/Under",
-   "matchup": "Eastern Michigan Eagles @ UTEP Miners",
-   "pick": "Over 131.5",
-   "odds": -105,
-   "units": 1.0,
-   "gap": null,
-   "start": "2026-11-25T17:30:00",
-   "timed": true,
-   "ticket": "single",
-   "espn": {
-    "legs": [
-     {
-      "kind": "total",
-      "side": null,
-      "ou": "O",
-      "line": 131.5,
-      "label": "O 131.5",
-      "path": "basketball/mens-college-basketball",
-      "event": "401920550",
-      "date": "20261125",
-      "snapshot": {
-       "source": "espn",
-       "state": "post",
-       "detail": "Final",
-       "start": "2026-11-26T01:45Z",
-       "period": null,
-       "clock": null,
-       "teams": [
-        {
-         "name": "Eastern Michigan Eagles",
-         "short": "Eagles",
-         "abbr": "EMU",
-         "score": 54,
-         "ha": "away",
-         "winner": false,
-         "linescores": [
-          0,
-          0
-         ]
-        },
-        {
-         "name": "UTEP Miners",
-         "short": "Miners",
-         "abbr": "UTEP",
-         "score": 72,
-         "ha": "home",
-         "winner": true,
-         "linescores": [
-          0,
-          0
-         ]
-        }
-       ]
-      },
-      "source": "espn"
-     }
-    ],
-    "sport": "NCAAB",
-    "ticket": "single"
-   }
-  },
-  {
    "n": 1044,
    "league": "NCAAB",
    "type": "Over/Under",
@@ -2150,19 +1269,20 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "0:38 - 2nd",
+       "detail": "1:49 - OT",
        "start": "2026-11-26T04:59Z",
-       "period": 2,
-       "clock": "0:38",
+       "period": 3,
+       "clock": "1:49",
        "teams": [
         {
          "name": "Incarnate Word Cardinals",
          "short": "Cardinals",
          "abbr": "UIW",
-         "score": 65,
+         "score": 72,
          "ha": "away",
          "winner": null,
          "linescores": [
+          0,
           0,
           0
          ]
@@ -2171,73 +1291,11 @@
          "name": "Hawai'i Rainbow Warriors",
          "short": "Rainbow Warriors",
          "abbr": "HAW",
-         "score": 62,
+         "score": 77,
          "ha": "home",
          "winner": null,
          "linescores": [
           0,
-          0
-         ]
-        }
-       ]
-      },
-      "source": "espn"
-     }
-    ],
-    "sport": "NCAAB",
-    "ticket": "single"
-   }
-  },
-  {
-   "n": 1045,
-   "league": "NCAAB",
-   "type": "Spread",
-   "matchup": "Longwood Lancers @ George Mason Patriots",
-   "pick": "Longwood +16.5",
-   "odds": -110,
-   "units": 1.0,
-   "gap": null,
-   "start": "2026-11-25T16:00:00",
-   "timed": true,
-   "ticket": "single",
-   "espn": {
-    "legs": [
-     {
-      "kind": "spread",
-      "side": "Longwood",
-      "line": 16.5,
-      "label": "Longwood +16.5",
-      "path": "basketball/mens-college-basketball",
-      "event": "401920076",
-      "date": "20261125",
-      "snapshot": {
-       "source": "espn",
-       "state": "post",
-       "detail": "Final",
-       "start": "2026-11-26T00:00Z",
-       "period": null,
-       "clock": null,
-       "teams": [
-        {
-         "name": "Longwood Lancers",
-         "short": "Lancers",
-         "abbr": "LONG",
-         "score": 58,
-         "ha": "away",
-         "winner": false,
-         "linescores": [
-          0,
-          0
-         ]
-        },
-        {
-         "name": "George Mason Patriots",
-         "short": "Patriots",
-         "abbr": "GMU",
-         "score": 93,
-         "ha": "home",
-         "winner": true,
-         "linescores": [
           0,
           0
          ]
@@ -2248,372 +1306,6 @@
      }
     ],
     "sport": "NCAAB",
-    "ticket": "single"
-   }
-  },
-  {
-   "n": 1046,
-   "league": "NCAAB",
-   "type": "Over/Under",
-   "matchup": "Mississippi Valley St Delta Devils @ New Mexico Lobos",
-   "pick": "Under 152.5",
-   "odds": -110,
-   "units": 1.0,
-   "gap": null,
-   "start": "2026-11-25T18:00:00",
-   "timed": true,
-   "ticket": "single",
-   "espn": {
-    "legs": [
-     {
-      "kind": "total",
-      "side": null,
-      "ou": "U",
-      "line": 152.5,
-      "label": "U 152.5",
-      "path": "basketball/mens-college-basketball",
-      "event": "401924897",
-      "date": "20261125",
-      "snapshot": {
-       "source": "espn",
-       "state": "post",
-       "detail": "Final",
-       "start": "2026-11-26T02:00Z",
-       "period": null,
-       "clock": null,
-       "teams": [
-        {
-         "name": "Mississippi Valley State Delta Devils",
-         "short": "Delta Devils",
-         "abbr": "MVSU",
-         "score": 77,
-         "ha": "away",
-         "winner": false,
-         "linescores": [
-          0,
-          0
-         ]
-        },
-        {
-         "name": "New Mexico Lobos",
-         "short": "Lobos",
-         "abbr": "UNM",
-         "score": 100,
-         "ha": "home",
-         "winner": true,
-         "linescores": [
-          0,
-          0
-         ]
-        }
-       ]
-      },
-      "source": "espn"
-     }
-    ],
-    "sport": "NCAAB",
-    "ticket": "single"
-   }
-  },
-  {
-   "n": 1047,
-   "league": "NBA",
-   "type": "Player Prop",
-   "matchup": "Phoenix Suns @ Houston Rockets",
-   "pick": "Dillon Brooks Over 1.5 3-pointers made +100 (BetMGM)",
-   "odds": 100,
-   "units": 1.0,
-   "gap": null,
-   "start": "2026-11-25T17:40:00",
-   "timed": true,
-   "ticket": "single",
-   "espn": {
-    "legs": [
-     {
-      "kind": "prop",
-      "player": "Dillon Brooks",
-      "ou": "O",
-      "line": 1.5,
-      "stat": "3-pointers made +100",
-      "label": "Dillon Brooks O 1.5 3-pointers made +100",
-      "date": "20261125",
-      "unverified": true,
-      "reason": "Player not found in this game",
-      "snapshot": {
-       "source": "odds-api",
-       "state": "post",
-       "detail": "Final",
-       "start": "2026-11-26T01:41:00Z",
-       "teams": [
-        {
-         "name": "Phoenix Suns",
-         "short": "Phoenix Suns",
-         "abbr": "",
-         "score": 104,
-         "ha": "away",
-         "winner": false,
-         "linescores": []
-        },
-        {
-         "name": "Houston Rockets",
-         "short": "Houston Rockets",
-         "abbr": "",
-         "score": 116,
-         "ha": "home",
-         "winner": true,
-         "linescores": []
-        }
-       ]
-      },
-      "source": "odds-api"
-     }
-    ],
-    "sport": "NBA",
-    "ticket": "single"
-   }
-  },
-  {
-   "n": 1048,
-   "league": "NHL",
-   "type": "Player Prop",
-   "matchup": "Philadelphia Flyers @ Washington Capitals",
-   "pick": "Ryan Leonard Over 0.5 points +105 (BetMGM)",
-   "odds": 105,
-   "units": 1.0,
-   "gap": null,
-   "start": "2026-11-25T16:00:00",
-   "timed": true,
-   "ticket": "single",
-   "espn": {
-    "legs": [
-     {
-      "kind": "prop",
-      "player": "Ryan Leonard",
-      "ou": "O",
-      "line": 0.5,
-      "stat": "points +105",
-      "label": "Ryan Leonard O 0.5 points +105",
-      "path": "hockey/nhl",
-      "event": "401892787",
-      "date": "20261125",
-      "snapshot": {
-       "source": "nhl",
-       "state": "post",
-       "detail": "Final",
-       "start": "2026-11-26T00:00:00Z",
-       "period": 3,
-       "clock": "00:00",
-       "teams": [
-        {
-         "name": "Flyers",
-         "short": "PHI",
-         "abbr": "PHI",
-         "score": 3,
-         "ha": "away",
-         "winner": false,
-         "linescores": []
-        },
-        {
-         "name": "Capitals",
-         "short": "WSH",
-         "abbr": "WSH",
-         "score": 7,
-         "ha": "home",
-         "winner": true,
-         "linescores": []
-        }
-       ],
-       "nhl_id": 2026020392,
-       "stat": {
-        "v": 2,
-        "name": "R. Leonard"
-       }
-      },
-      "source": "nhl"
-     }
-    ],
-    "sport": "NHL",
-    "ticket": "single"
-   }
-  },
-  {
-   "n": 1049,
-   "league": "NBA",
-   "type": "Player Prop",
-   "matchup": "Sacramento Kings @ Golden State Warriors",
-   "pick": "Keegan Murray Under 13.5 points +100 (BetMGM)",
-   "odds": 100,
-   "units": 1.0,
-   "gap": null,
-   "start": "2026-11-25T19:10:00",
-   "timed": true,
-   "ticket": "single",
-   "espn": {
-    "legs": [
-     {
-      "kind": "prop",
-      "player": "Keegan Murray",
-      "ou": "U",
-      "line": 13.5,
-      "stat": "points +100",
-      "label": "Keegan Murray U 13.5 points +100",
-      "date": "20261125",
-      "unverified": true,
-      "reason": "Player not found in this game",
-      "snapshot": {
-       "source": "odds-api",
-       "state": "post",
-       "detail": "Final",
-       "start": "2026-11-26T03:10:47Z",
-       "teams": [
-        {
-         "name": "Sacramento Kings",
-         "short": "Sacramento Kings",
-         "abbr": "",
-         "score": 110,
-         "ha": "away",
-         "winner": false,
-         "linescores": []
-        },
-        {
-         "name": "Golden State Warriors",
-         "short": "Golden State Warriors",
-         "abbr": "",
-         "score": 129,
-         "ha": "home",
-         "winner": true,
-         "linescores": []
-        }
-       ]
-      },
-      "source": "odds-api"
-     }
-    ],
-    "sport": "NBA",
-    "ticket": "single"
-   }
-  },
-  {
-   "n": 1050,
-   "league": "NFL",
-   "type": "Player Prop",
-   "matchup": "Green Bay Packers @ Los Angeles Rams",
-   "pick": "Blake Corum First TD Scorer",
-   "odds": 700,
-   "units": 0.5,
-   "gap": null,
-   "start": "2026-11-25T17:15:00",
-   "timed": true,
-   "ticket": "single",
-   "espn": {
-    "legs": [
-     {
-      "kind": "spread",
-      "side": "Blake Corum First TD Scorer",
-      "line": 700.0,
-      "label": "Blake Corum First TD Scorer +700",
-      "path": "football/nfl",
-      "event": "401873079",
-      "date": "20261125",
-      "snapshot": {
-       "source": "espn",
-       "state": "post",
-       "detail": "Final",
-       "start": "2026-11-26T01:00Z",
-       "period": null,
-       "clock": null,
-       "teams": [
-        {
-         "name": "Green Bay Packers",
-         "short": "Packers",
-         "abbr": "GB",
-         "score": 13,
-         "ha": "away",
-         "winner": false,
-         "linescores": [
-          0,
-          0,
-          0,
-          0
-         ]
-        },
-        {
-         "name": "Los Angeles Rams",
-         "short": "Rams",
-         "abbr": "LAR",
-         "score": 26,
-         "ha": "home",
-         "winner": true,
-         "linescores": [
-          0,
-          0,
-          0,
-          0
-         ]
-        }
-       ]
-      },
-      "source": "espn"
-     }
-    ],
-    "sport": "NFL",
-    "ticket": "single"
-   }
-  },
-  {
-   "n": 1051,
-   "league": "NFL",
-   "type": "Player Prop",
-   "matchup": "Green Bay Packers @ Los Angeles Rams",
-   "pick": "Matthew Golden Over 67.5 receiving yards -122 (BetRivers)",
-   "odds": -122,
-   "units": 5.0,
-   "gap": null,
-   "start": "2026-11-25T17:15:00",
-   "timed": true,
-   "ticket": "single",
-   "espn": {
-    "legs": [
-     {
-      "kind": "prop",
-      "player": "Matthew Golden",
-      "ou": "O",
-      "line": 67.5,
-      "stat": "receiving yards -122",
-      "label": "Matthew Golden O 67.5 receiving yards -122",
-      "date": "20261125",
-      "unverified": true,
-      "reason": "Player not found in this game",
-      "snapshot": {
-       "source": "odds-api",
-       "state": "post",
-       "detail": "Final",
-       "start": "2026-11-26T01:15:28Z",
-       "teams": [
-        {
-         "name": "Green Bay Packers",
-         "short": "Green Bay Packers",
-         "abbr": "",
-         "score": 13,
-         "ha": "away",
-         "winner": false,
-         "linescores": []
-        },
-        {
-         "name": "Los Angeles Rams",
-         "short": "Los Angeles Rams",
-         "abbr": "",
-         "score": 26,
-         "ha": "home",
-         "winner": true,
-         "linescores": []
-        }
-       ]
-      },
-      "source": "odds-api"
-     }
-    ],
-    "sport": "NFL",
     "ticket": "single"
    }
   }
@@ -2790,6 +1482,10 @@
   "2026-11-24": {
    "u": -13.26,
    "n": 14
+  },
+  "2026-11-25": {
+   "u": -7.12,
+   "n": 22
   }
  }
 }
