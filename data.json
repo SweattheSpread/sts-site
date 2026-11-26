@@ -1,5 +1,5 @@
 {
- "updated": "Nov 25, 2026, 5:51 PM PT",
+ "updated": "Nov 25, 2026, 5:54 PM PT",
  "record": {
   "w": 273,
   "l": 274,
@@ -1503,10 +1503,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "1:23 - 1st",
+       "detail": "15:00 - 2nd",
        "start": "2026-11-26T01:00Z",
-       "period": 1,
-       "clock": "1:23",
+       "period": 2,
+       "clock": "15:00",
        "teams": [
         {
          "name": "Green Bay Packers",
@@ -1516,6 +1516,7 @@
          "ha": "away",
          "winner": null,
          "linescores": [
+          0,
           0
          ]
         },
@@ -1527,6 +1528,7 @@
          "ha": "home",
          "winner": null,
          "linescores": [
+          0,
           0
          ]
         }
@@ -1565,10 +1567,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "1:23 - 1st",
+       "detail": "15:00 - 2nd",
        "start": "2026-11-26T01:00Z",
-       "period": 1,
-       "clock": "1:23",
+       "period": 2,
+       "clock": "15:00",
        "teams": [
         {
          "name": "Green Bay Packers",
@@ -1578,6 +1580,7 @@
          "ha": "away",
          "winner": null,
          "linescores": [
+          0,
           0
          ]
         },
@@ -1589,6 +1592,7 @@
          "ha": "home",
          "winner": null,
          "linescores": [
+          0,
           0
          ]
         }
@@ -1626,10 +1630,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "1:23 - 1st",
+       "detail": "15:00 - 2nd",
        "start": "2026-11-26T01:00Z",
-       "period": 1,
-       "clock": "1:23",
+       "period": 2,
+       "clock": "15:00",
        "teams": [
         {
          "name": "Green Bay Packers",
@@ -1639,6 +1643,7 @@
          "ha": "away",
          "winner": null,
          "linescores": [
+          0,
           0
          ]
         },
@@ -1650,6 +1655,7 @@
          "ha": "home",
          "winner": null,
          "linescores": [
+          0,
           0
          ]
         }
@@ -1752,10 +1758,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P2 11:05",
+       "detail": "P2 08:32",
        "start": "2026-11-26T00:00:00Z",
        "period": 2,
-       "clock": "11:05",
+       "clock": "08:32",
        "teams": [
         {
          "name": "Blues",
@@ -1812,10 +1818,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P2 12:47",
+       "detail": "P2 10:13",
        "start": "2026-11-26T00:00:00Z",
        "period": 2,
-       "clock": "12:47",
+       "clock": "10:13",
        "teams": [
         {
          "name": "Flames",
@@ -1876,10 +1882,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P2 15:10",
+       "detail": "P2 12:36",
        "start": "2026-11-26T00:00:00Z",
        "period": 2,
-       "clock": "15:10",
+       "clock": "12:36",
        "teams": [
         {
          "name": "Flyers",
@@ -1937,10 +1943,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P1 15:35",
+       "detail": "P1 13:01",
        "start": "2026-11-26T01:00:00Z",
        "period": 1,
-       "clock": "15:35",
+       "clock": "13:01",
        "teams": [
         {
          "name": "Mammoth",
@@ -2298,10 +2304,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "1:57 - 2nd",
+       "detail": "0:59 - 2nd",
        "start": "2026-11-26T00:00Z",
        "period": 2,
-       "clock": "1:57",
+       "clock": "0:59",
        "teams": [
         {
          "name": "Longwood Lancers",
@@ -2319,7 +2325,7 @@
          "name": "George Mason Patriots",
          "short": "Patriots",
          "abbr": "GMU",
-         "score": 91,
+         "score": 93,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -2427,10 +2433,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P2 15:10",
+       "detail": "P2 12:36",
        "start": "2026-11-26T00:00:00Z",
        "period": 2,
-       "clock": "15:10",
+       "clock": "12:36",
        "teams": [
         {
          "name": "Flyers",
@@ -2489,10 +2495,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "1:23 - 1st",
+       "detail": "15:00 - 2nd",
        "start": "2026-11-26T01:00Z",
-       "period": 1,
-       "clock": "1:23",
+       "period": 2,
+       "clock": "15:00",
        "teams": [
         {
          "name": "Green Bay Packers",
@@ -2502,6 +2508,7 @@
          "ha": "away",
          "winner": null,
          "linescores": [
+          0,
           0
          ]
         },
@@ -2513,6 +2520,7 @@
          "ha": "home",
          "winner": null,
          "linescores": [
+          0,
           0
          ]
         }
@@ -2552,10 +2560,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "1:23 - 1st",
+       "detail": "15:00 - 2nd",
        "start": "2026-11-26T01:00Z",
-       "period": 1,
-       "clock": "1:23",
+       "period": 2,
+       "clock": "15:00",
        "teams": [
         {
          "name": "Green Bay Packers",
@@ -2565,6 +2573,7 @@
          "ha": "away",
          "winner": null,
          "linescores": [
+          0,
           0
          ]
         },
@@ -2576,6 +2585,7 @@
          "ha": "home",
          "winner": null,
          "linescores": [
+          0,
           0
          ]
         }
