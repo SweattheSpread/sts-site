@@ -1,5 +1,5 @@
 {
- "updated": "Nov 27, 2026, 12:19 PM PT",
+ "updated": "Nov 27, 2026, 12:21 PM PT",
  "record": {
   "w": 292,
   "l": 292,
@@ -1989,16 +1989,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "14:29 - 2nd",
+       "detail": "13:46 - 2nd",
        "start": "2026-11-27T19:00Z",
        "period": 2,
-       "clock": "14:29",
+       "clock": "13:46",
        "teams": [
         {
          "name": "Maine Black Bears",
          "short": "Black Bears",
          "abbr": "ME",
-         "score": 44,
+         "score": 48,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -2010,7 +2010,7 @@
          "name": "Le Moyne Dolphins",
          "short": "Dolphins",
          "abbr": "LEM",
-         "score": 40,
+         "score": 41,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -2229,10 +2229,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P1 12:20",
+       "detail": "P1 11:57",
        "start": "2026-11-27T20:00:00Z",
        "period": 1,
-       "clock": "12:20",
+       "clock": "11:57",
        "teams": [
         {
          "name": "Senators",
