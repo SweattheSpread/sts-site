@@ -1,5 +1,5 @@
 {
- "updated": "Nov 27, 2026, 12:48 PM PT",
+ "updated": "Nov 27, 2026, 12:50 PM PT",
  "record": {
   "w": 292,
   "l": 292,
@@ -2187,16 +2187,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "12:42 - 1st",
+       "detail": "11:33 - 1st",
        "start": "2026-11-27T20:30Z",
        "period": 1,
-       "clock": "12:42",
+       "clock": "11:33",
        "teams": [
         {
          "name": "Colgate Raiders",
          "short": "Raiders",
          "abbr": "COLG",
-         "score": 16,
+         "score": 20,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -2249,10 +2249,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P1 14:02",
+       "detail": "P1 11:59",
        "start": "2026-11-27T20:00:00Z",
        "period": 1,
-       "clock": "14:02",
+       "clock": "11:59",
        "teams": [
         {
          "name": "Senators",
