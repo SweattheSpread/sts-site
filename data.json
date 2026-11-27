@@ -1,5 +1,5 @@
 {
- "updated": "Nov 27, 2026, 4:06 PM PT",
+ "updated": "Nov 27, 2026, 4:11 PM PT",
  "record": {
   "w": 292,
   "l": 292,
@@ -127,64 +127,6 @@
   }
  ],
  "picks": [
-  {
-   "n": 1085,
-   "league": "NBA",
-   "type": "Spread",
-   "matchup": "Miami Heat @ New York Knicks",
-   "pick": "Andrew Wiggins (MIA) Over 7.5 points (player prop)",
-   "odds": -105,
-   "units": 1.0,
-   "gap": null,
-   "start": "2026-11-27T16:10:00",
-   "timed": true,
-   "ticket": "single",
-   "espn": {
-    "legs": [
-     {
-      "kind": "team_total",
-      "side": "Andrew Wiggins",
-      "ou": "O",
-      "line": 7.5,
-      "label": "Andrew Wiggins O 7.5",
-      "path": "basketball/nba",
-      "event": "401909326",
-      "date": "20261127",
-      "snapshot": {
-       "source": "espn",
-       "state": "pre",
-       "detail": "11/27 - 7:00 PM EST",
-       "start": "2026-11-28T00:00Z",
-       "period": null,
-       "clock": null,
-       "teams": [
-        {
-         "name": "Miami Heat",
-         "short": "Heat",
-         "abbr": "MIA",
-         "score": 0,
-         "ha": "away",
-         "winner": null,
-         "linescores": []
-        },
-        {
-         "name": "New York Knicks",
-         "short": "Knicks",
-         "abbr": "NY",
-         "score": 0,
-         "ha": "home",
-         "winner": null,
-         "linescores": []
-        }
-       ]
-      },
-      "source": "espn"
-     }
-    ],
-    "sport": "NBA",
-    "ticket": "single"
-   }
-  },
   {
    "n": 1077,
    "league": "NBA",
@@ -1371,10 +1313,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P1 05:22",
+       "detail": "P1 02:30",
        "start": "2026-11-27T22:30:00Z",
        "period": 1,
-       "clock": "05:22",
+       "clock": "02:30",
        "teams": [
         {
          "name": "Rangers",
@@ -1428,10 +1370,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P3 15:42",
+       "detail": "P3 12:17",
        "start": "2026-11-27T21:00:00Z",
        "period": 3,
-       "clock": "15:42",
+       "clock": "12:17",
        "teams": [
         {
          "name": "Avalanche",
@@ -1487,10 +1429,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "13:59 - 4th",
+       "detail": "12:56 - 4th",
        "start": "2026-11-27T20:30Z",
        "period": 4,
-       "clock": "13:59",
+       "clock": "12:56",
        "teams": [
         {
          "name": "Temple Owls",
@@ -2134,16 +2076,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "16:44 - 1st",
+       "detail": "15:33 - 1st",
        "start": "2026-11-27T23:00Z",
        "period": 1,
-       "clock": "16:44",
+       "clock": "15:33",
        "teams": [
         {
          "name": "Western Kentucky Hilltoppers",
          "short": "Hilltoppers",
          "abbr": "WKU",
-         "score": 5,
+         "score": 7,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -2154,7 +2096,7 @@
          "name": "Illinois Fighting Illini",
          "short": "Fighting Illini",
          "abbr": "ILL",
-         "score": 5,
+         "score": 7,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -2195,16 +2137,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "19:05 - 2nd",
+       "detail": "17:05 - 2nd",
        "start": "2026-11-27T22:00Z",
        "period": 2,
-       "clock": "19:05",
+       "clock": "17:05",
        "teams": [
         {
          "name": "Marquette Golden Eagles",
          "short": "Golden Eagles",
          "abbr": "MARQ",
-         "score": 41,
+         "score": 47,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -2216,7 +2158,7 @@
          "name": "Texas A&M Aggies",
          "short": "Aggies",
          "abbr": "TA&M",
-         "score": 37,
+         "score": 39,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -2357,6 +2299,64 @@
      }
     ],
     "sport": "NFL",
+    "ticket": "single"
+   }
+  },
+  {
+   "n": 1085,
+   "league": "NBA",
+   "type": "Spread",
+   "matchup": "Miami Heat @ New York Knicks",
+   "pick": "Andrew Wiggins (MIA) Over 7.5 points (player prop)",
+   "odds": -105,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-27T16:10:00",
+   "timed": true,
+   "ticket": "single",
+   "espn": {
+    "legs": [
+     {
+      "kind": "team_total",
+      "side": "Andrew Wiggins",
+      "ou": "O",
+      "line": 7.5,
+      "label": "Andrew Wiggins O 7.5",
+      "path": "basketball/nba",
+      "event": "401909326",
+      "date": "20261127",
+      "snapshot": {
+       "source": "espn",
+       "state": "pre",
+       "detail": "11/27 - 7:00 PM EST",
+       "start": "2026-11-28T00:00Z",
+       "period": null,
+       "clock": null,
+       "teams": [
+        {
+         "name": "Miami Heat",
+         "short": "Heat",
+         "abbr": "MIA",
+         "score": 0,
+         "ha": "away",
+         "winner": null,
+         "linescores": []
+        },
+        {
+         "name": "New York Knicks",
+         "short": "Knicks",
+         "abbr": "NY",
+         "score": 0,
+         "ha": "home",
+         "winner": null,
+         "linescores": []
+        }
+       ]
+      },
+      "source": "espn"
+     }
+    ],
+    "sport": "NBA",
     "ticket": "single"
    }
   }
