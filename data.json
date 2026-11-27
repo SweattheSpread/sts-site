@@ -1,5 +1,5 @@
 {
- "updated": "Nov 27, 2026, 3:59 PM PT",
+ "updated": "Nov 27, 2026, 4:02 PM PT",
  "record": {
   "w": 292,
   "l": 292,
@@ -1371,10 +1371,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P1 09:24",
+       "detail": "P1 07:53",
        "start": "2026-11-27T22:30:00Z",
        "period": 1,
-       "clock": "09:24",
+       "clock": "07:53",
        "teams": [
         {
          "name": "Rangers",
@@ -1428,10 +1428,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P3 19:51",
+       "detail": "P3 18:06",
        "start": "2026-11-27T21:00:00Z",
        "period": 3,
-       "clock": "19:51",
+       "clock": "18:06",
        "teams": [
         {
          "name": "Avalanche",
@@ -2133,11 +2133,11 @@
       "date": "20261127",
       "snapshot": {
        "source": "espn",
-       "state": "pre",
-       "detail": "11/27 - 6:00 PM EST",
+       "state": "in",
+       "detail": "19:57 - 1st",
        "start": "2026-11-27T23:00Z",
-       "period": null,
-       "clock": null,
+       "period": 1,
+       "clock": "19:57",
        "teams": [
         {
          "name": "Western Kentucky Hilltoppers",
@@ -2146,7 +2146,9 @@
          "score": 0,
          "ha": "away",
          "winner": null,
-         "linescores": []
+         "linescores": [
+          0
+         ]
         },
         {
          "name": "Illinois Fighting Illini",
@@ -2155,7 +2157,9 @@
          "score": 0,
          "ha": "home",
          "winner": null,
-         "linescores": []
+         "linescores": [
+          0
+         ]
         }
        ]
       },
