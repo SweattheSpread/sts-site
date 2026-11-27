@@ -1,5 +1,5 @@
 {
- "updated": "Nov 27, 2026, 9:48 AM PT",
+ "updated": "Nov 27, 2026, 10:05 AM PT",
  "record": {
   "w": 292,
   "l": 292,
@@ -2040,19 +2040,20 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "Halftime",
+       "detail": "17:19 - 2nd",
        "start": "2026-11-27T17:00Z",
-       "period": 1,
-       "clock": "0:00",
+       "period": 2,
+       "clock": "17:19",
        "teams": [
         {
          "name": "St. Thomas Tommies",
          "short": "Tommies",
          "abbr": "STMN",
-         "score": 26,
+         "score": 30,
          "ha": "away",
          "winner": null,
          "linescores": [
+          0,
           0
          ]
         },
@@ -2060,10 +2061,11 @@
          "name": "Liberty Flames",
          "short": "Flames",
          "abbr": "LIB",
-         "score": 41,
+         "score": 44,
          "ha": "home",
          "winner": null,
          "linescores": [
+          0,
           0
          ]
         }
