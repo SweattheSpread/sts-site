@@ -1,5 +1,5 @@
 {
- "updated": "Nov 27, 2026, 3:16 PM PT",
+ "updated": "Nov 27, 2026, 3:19 PM PT",
  "record": {
   "w": 292,
   "l": 292,
@@ -1426,10 +1426,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P2 11:57",
+       "detail": "P2 11:48",
        "start": "2026-11-27T21:00:00Z",
        "period": 2,
-       "clock": "11:57",
+       "clock": "11:48",
        "teams": [
         {
          "name": "Avalanche",
@@ -2148,16 +2148,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "2:06 - 2nd",
+       "detail": "0:58 - 2nd",
        "start": "2026-11-27T20:30Z",
        "period": 2,
-       "clock": "2:06",
+       "clock": "0:58",
        "teams": [
         {
          "name": "Colgate Raiders",
          "short": "Raiders",
          "abbr": "COLG",
-         "score": 70,
+         "score": 72,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -2169,7 +2169,7 @@
          "name": "Hofstra Pride",
          "short": "Pride",
          "abbr": "HOF",
-         "score": 43,
+         "score": 46,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -2269,16 +2269,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "13:31 - 1st",
+       "detail": "11:42 - 1st",
        "start": "2026-11-27T22:00Z",
        "period": 1,
-       "clock": "13:31",
+       "clock": "11:42",
        "teams": [
         {
          "name": "Marquette Golden Eagles",
          "short": "Golden Eagles",
          "abbr": "MARQ",
-         "score": 15,
+         "score": 20,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -2289,7 +2289,7 @@
          "name": "Texas A&M Aggies",
          "short": "Aggies",
          "abbr": "TA&M",
-         "score": 10,
+         "score": 13,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -2331,16 +2331,16 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P3 12:21",
+       "detail": "P3 10:57",
        "start": "2026-11-27T20:00:00Z",
        "period": 3,
-       "clock": "12:21",
+       "clock": "10:57",
        "teams": [
         {
          "name": "Senators",
          "short": "OTT",
          "abbr": "OTT",
-         "score": 5,
+         "score": 6,
          "ha": "away",
          "winner": null,
          "linescores": []
