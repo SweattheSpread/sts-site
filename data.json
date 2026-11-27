@@ -1,5 +1,5 @@
 {
- "updated": "Nov 27, 2026, 4:14 PM PT",
+ "updated": "Nov 27, 2026, 4:17 PM PT",
  "record": {
   "w": 292,
   "l": 292,
@@ -1313,10 +1313,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P1 01:52",
+       "detail": "P1 00:39",
        "start": "2026-11-27T22:30:00Z",
        "period": 1,
-       "clock": "01:52",
+       "clock": "00:39",
        "teams": [
         {
          "name": "Rangers",
@@ -1331,7 +1331,7 @@
          "name": "Blackhawks",
          "short": "CHI",
          "abbr": "CHI",
-         "score": 1,
+         "score": 2,
          "ha": "home",
          "winner": null,
          "linescores": []
@@ -1370,10 +1370,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P3 11:04",
+       "detail": "P3 07:55",
        "start": "2026-11-27T21:00:00Z",
        "period": 3,
-       "clock": "11:04",
+       "clock": "07:55",
        "teams": [
         {
          "name": "Avalanche",
@@ -1429,10 +1429,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "12:13 - 4th",
+       "detail": "11:06 - 4th",
        "start": "2026-11-27T20:30Z",
        "period": 4,
-       "clock": "12:13",
+       "clock": "11:06",
        "teams": [
         {
          "name": "Temple Owls",
@@ -2076,16 +2076,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "14:10 - 1st",
+       "detail": "12:47 - 1st",
        "start": "2026-11-27T23:00Z",
        "period": 1,
-       "clock": "14:10",
+       "clock": "12:47",
        "teams": [
         {
          "name": "Western Kentucky Hilltoppers",
          "short": "Hilltoppers",
          "abbr": "WKU",
-         "score": 7,
+         "score": 10,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -2096,7 +2096,7 @@
          "name": "Illinois Fighting Illini",
          "short": "Fighting Illini",
          "abbr": "ILL",
-         "score": 12,
+         "score": 16,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -2137,16 +2137,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "15:30 - 2nd",
+       "detail": "14:56 - 2nd",
        "start": "2026-11-27T22:00Z",
        "period": 2,
-       "clock": "15:30",
+       "clock": "14:56",
        "teams": [
         {
          "name": "Marquette Golden Eagles",
          "short": "Golden Eagles",
          "abbr": "MARQ",
-         "score": 49,
+         "score": 52,
          "ha": "away",
          "winner": null,
          "linescores": [
