@@ -1,5 +1,5 @@
 {
- "updated": "Nov 27, 2026, 2:26 PM PT",
+ "updated": "Nov 27, 2026, 2:29 PM PT",
  "record": {
   "w": 292,
   "l": 292,
@@ -11,7 +11,7 @@
   "first": "2026-10-12",
   "last": "2026-11-26"
  },
- "pending": 37,
+ "pending": 38,
  "latest": [
   {
    "n": 1065,
@@ -1424,10 +1424,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P1 09:55",
+       "detail": "P1 09:21",
        "start": "2026-11-27T21:00:00Z",
        "period": 1,
-       "clock": "09:55",
+       "clock": "09:21",
        "teams": [
         {
          "name": "Avalanche",
@@ -1483,10 +1483,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "10:54 - 2nd",
+       "detail": "8:20 - 2nd",
        "start": "2026-11-27T20:30Z",
        "period": 2,
-       "clock": "10:54",
+       "clock": "8:20",
        "teams": [
         {
          "name": "Temple Owls",
@@ -1889,10 +1889,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "0:24 - OT",
+       "detail": "0:17 - OT",
        "start": "2026-11-27T19:00Z",
        "period": 3,
-       "clock": "0:24",
+       "clock": "0:17",
        "teams": [
         {
          "name": "Maine Black Bears",
@@ -2253,10 +2253,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P2 09:18",
+       "detail": "P2 07:58",
        "start": "2026-11-27T20:00:00Z",
        "period": 2,
-       "clock": "09:18",
+       "clock": "07:58",
        "teams": [
         {
          "name": "Senators",
@@ -2283,6 +2283,70 @@
      }
     ],
     "sport": "NHL",
+    "ticket": "single"
+   }
+  },
+  {
+   "n": 1084,
+   "league": "NFL",
+   "type": "Total",
+   "matchup": "Denver Broncos @ Pittsburgh Steelers",
+   "pick": "Over 47.5 total points LIVE",
+   "odds": -118,
+   "units": 3.0,
+   "gap": null,
+   "start": "2026-11-27T12:00:00",
+   "timed": true,
+   "ticket": "single",
+   "espn": {
+    "legs": [
+     {
+      "kind": "total",
+      "side": null,
+      "ou": "O",
+      "line": 47.5,
+      "label": "O 47.5",
+      "path": "football/nfl",
+      "event": "401873083",
+      "date": "20261127",
+      "snapshot": {
+       "source": "espn",
+       "state": "in",
+       "detail": "Halftime",
+       "start": "2026-11-27T20:00Z",
+       "period": 2,
+       "clock": "0:00",
+       "teams": [
+        {
+         "name": "Denver Broncos",
+         "short": "Broncos",
+         "abbr": "DEN",
+         "score": 5,
+         "ha": "away",
+         "winner": null,
+         "linescores": [
+          0,
+          0
+         ]
+        },
+        {
+         "name": "Pittsburgh Steelers",
+         "short": "Steelers",
+         "abbr": "PIT",
+         "score": 24,
+         "ha": "home",
+         "winner": null,
+         "linescores": [
+          0,
+          0
+         ]
+        }
+       ]
+      },
+      "source": "espn"
+     }
+    ],
+    "sport": "NFL",
     "ticket": "single"
    }
   }
