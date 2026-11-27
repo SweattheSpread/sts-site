@@ -1,5 +1,5 @@
 {
- "updated": "Nov 27, 2026, 11:38 AM PT",
+ "updated": "Nov 27, 2026, 11:40 AM PT",
  "record": {
   "w": 292,
   "l": 292,
@@ -11,7 +11,7 @@
   "first": "2026-10-12",
   "last": "2026-11-26"
  },
- "pending": 35,
+ "pending": 37,
  "latest": [
   {
    "n": 1065,
@@ -445,6 +445,65 @@
      }
     ],
     "sport": "NFL",
+    "ticket": "single"
+   }
+  },
+  {
+   "n": 1082,
+   "league": "NHL",
+   "type": "Spread",
+   "matchup": "Ottawa Senators @ Tampa Bay Lightning",
+   "pick": "Claude Giroux (OTT) Under 0.5 points (player prop)",
+   "odds": -120,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-27T12:00:00",
+   "timed": true,
+   "ticket": "single",
+   "espn": {
+    "legs": [
+     {
+      "kind": "team_total",
+      "side": "Claude Giroux",
+      "ou": "U",
+      "line": 0.5,
+      "label": "Claude Giroux U 0.5",
+      "path": "hockey/nhl",
+      "event": "401892799",
+      "date": "20261127",
+      "snapshot": {
+       "source": "nhl",
+       "state": "pre",
+       "detail": "Scheduled",
+       "start": "2026-11-27T20:00:00Z",
+       "period": null,
+       "clock": null,
+       "teams": [
+        {
+         "name": "Senators",
+         "short": "OTT",
+         "abbr": "OTT",
+         "score": 0,
+         "ha": "away",
+         "winner": null,
+         "linescores": []
+        },
+        {
+         "name": "Lightning",
+         "short": "TBL",
+         "abbr": "TBL",
+         "score": 0,
+         "ha": "home",
+         "winner": null,
+         "linescores": []
+        }
+       ],
+       "nhl_id": 2026020404
+      },
+      "source": "nhl"
+     }
+    ],
+    "sport": "NHL",
     "ticket": "single"
    }
   },
@@ -1082,6 +1141,33 @@
        ]
       },
       "source": "espn"
+     }
+    ],
+    "sport": "NBA",
+    "ticket": "single"
+   }
+  },
+  {
+   "n": 1083,
+   "league": "NBA",
+   "type": "Spread",
+   "matchup": "New Orleans Pelicans @ Los Angeles Clippers",
+   "pick": "Brook Lopez (LAC) Over 4.5 rebounds (player prop)",
+   "odds": 125,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-27T18:40:00",
+   "timed": true,
+   "ticket": "single",
+   "espn": {
+    "legs": [
+     {
+      "kind": "team_total",
+      "side": "Brook Lopez",
+      "ou": "O",
+      "line": 4.5,
+      "label": "Brook Lopez O 4.5",
+      "unverified": true
      }
     ],
     "sport": "NBA",
@@ -2107,10 +2193,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "4:09 - 1st",
+       "detail": "3:52 - 1st",
        "start": "2026-11-27T19:00Z",
        "period": 1,
-       "clock": "4:09",
+       "clock": "3:52",
        "teams": [
         {
          "name": "Maine Black Bears",
@@ -2127,7 +2213,7 @@
          "name": "Le Moyne Dolphins",
          "short": "Dolphins",
          "abbr": "LEM",
-         "score": 22,
+         "score": 23,
          "ha": "home",
          "winner": null,
          "linescores": [
