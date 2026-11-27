@@ -1,5 +1,5 @@
 {
- "updated": "Nov 27, 2026, 2:53 PM PT",
+ "updated": "Nov 27, 2026, 2:55 PM PT",
  "record": {
   "w": 292,
   "l": 292,
@@ -1305,10 +1305,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "10:32 - 3rd",
+       "detail": "10:02 - 3rd",
        "start": "2026-11-27T20:00Z",
        "period": 3,
-       "clock": "10:32",
+       "clock": "10:02",
        "teams": [
         {
          "name": "Denver Broncos",
@@ -1426,10 +1426,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P1 11:29",
+       "detail": "P1 09:27",
        "start": "2026-11-27T21:00:00Z",
        "period": 1,
-       "clock": "11:29",
+       "clock": "09:27",
        "teams": [
         {
          "name": "Avalanche",
@@ -1485,10 +1485,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "1:34 - 2nd",
+       "detail": "Halftime",
        "start": "2026-11-27T20:30Z",
        "period": 2,
-       "clock": "1:34",
+       "clock": "0:00",
        "teams": [
         {
          "name": "Temple Owls",
@@ -1579,10 +1579,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "10:32 - 3rd",
+       "detail": "10:02 - 3rd",
        "start": "2026-11-27T20:00Z",
        "period": 3,
-       "clock": "10:32",
+       "clock": "10:02",
        "teams": [
         {
          "name": "Denver Broncos",
@@ -1656,10 +1656,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "10:32 - 3rd",
+       "detail": "10:02 - 3rd",
        "start": "2026-11-27T20:00Z",
        "period": 3,
-       "clock": "10:32",
+       "clock": "10:02",
        "teams": [
         {
          "name": "Denver Broncos",
@@ -1705,10 +1705,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "10:32 - 3rd",
+       "detail": "10:02 - 3rd",
        "start": "2026-11-27T20:00Z",
        "period": 3,
-       "clock": "10:32",
+       "clock": "10:02",
        "teams": [
         {
          "name": "Denver Broncos",
@@ -2012,10 +2012,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "10:32 - 3rd",
+       "detail": "10:02 - 3rd",
        "start": "2026-11-27T20:00Z",
        "period": 3,
-       "clock": "10:32",
+       "clock": "10:02",
        "teams": [
         {
          "name": "Denver Broncos",
@@ -2080,10 +2080,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "10:32 - 3rd",
+       "detail": "10:02 - 3rd",
        "start": "2026-11-27T20:00Z",
        "period": 3,
-       "clock": "10:32",
+       "clock": "10:02",
        "teams": [
         {
          "name": "Denver Broncos",
@@ -2146,16 +2146,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "11:22 - 2nd",
+       "detail": "10:45 - 2nd",
        "start": "2026-11-27T20:30Z",
        "period": 2,
-       "clock": "11:22",
+       "clock": "10:45",
        "teams": [
         {
          "name": "Colgate Raiders",
          "short": "Raiders",
          "abbr": "COLG",
-         "score": 55,
+         "score": 58,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -2267,10 +2267,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P2 08:27",
+       "detail": "P2 06:27",
        "start": "2026-11-27T20:00:00Z",
        "period": 2,
-       "clock": "08:27",
+       "clock": "06:27",
        "teams": [
         {
          "name": "Senators",
@@ -2326,10 +2326,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "10:32 - 3rd",
+       "detail": "10:02 - 3rd",
        "start": "2026-11-27T20:00Z",
        "period": 3,
-       "clock": "10:32",
+       "clock": "10:02",
        "teams": [
         {
          "name": "Denver Broncos",
