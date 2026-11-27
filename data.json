@@ -1,5 +1,5 @@
 {
- "updated": "Nov 27, 2026, 12:13 PM PT",
+ "updated": "Nov 27, 2026, 12:19 PM PT",
  "record": {
   "w": 292,
   "l": 292,
@@ -1591,10 +1591,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "9:07 - 1st",
+       "detail": "6:54 - 1st",
        "start": "2026-11-27T20:00Z",
        "period": 1,
-       "clock": "9:07",
+       "clock": "6:54",
        "teams": [
         {
          "name": "Denver Broncos",
@@ -1683,10 +1683,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "9:07 - 1st",
+       "detail": "6:54 - 1st",
        "start": "2026-11-27T20:00Z",
        "period": 1,
-       "clock": "9:07",
+       "clock": "6:54",
        "teams": [
         {
          "name": "Denver Broncos",
@@ -1756,10 +1756,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "9:07 - 1st",
+       "detail": "6:54 - 1st",
        "start": "2026-11-27T20:00Z",
        "period": 1,
-       "clock": "9:07",
+       "clock": "6:54",
        "teams": [
         {
          "name": "Denver Broncos",
@@ -1801,10 +1801,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "9:07 - 1st",
+       "detail": "6:54 - 1st",
        "start": "2026-11-27T20:00Z",
        "period": 1,
-       "clock": "9:07",
+       "clock": "6:54",
        "teams": [
         {
          "name": "Denver Broncos",
@@ -1926,16 +1926,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "13:54 - 2nd",
+       "detail": "11:27 - 2nd",
        "start": "2026-11-27T19:00Z",
        "period": 2,
-       "clock": "13:54",
+       "clock": "11:27",
        "teams": [
         {
          "name": "Fresno State Bulldogs",
          "short": "Bulldogs",
          "abbr": "FRES",
-         "score": 47,
+         "score": 53,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -1947,7 +1947,7 @@
          "name": "South Alabama Jaguars",
          "short": "Jaguars",
          "abbr": "USA",
-         "score": 44,
+         "score": 48,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -1989,16 +1989,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "16:17 - 2nd",
+       "detail": "14:29 - 2nd",
        "start": "2026-11-27T19:00Z",
        "period": 2,
-       "clock": "16:17",
+       "clock": "14:29",
        "teams": [
         {
          "name": "Maine Black Bears",
          "short": "Black Bears",
          "abbr": "ME",
-         "score": 41,
+         "score": 44,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -2010,7 +2010,7 @@
          "name": "Le Moyne Dolphins",
          "short": "Dolphins",
          "abbr": "LEM",
-         "score": 37,
+         "score": 40,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -2102,10 +2102,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "9:07 - 1st",
+       "detail": "6:54 - 1st",
        "start": "2026-11-27T20:00Z",
        "period": 1,
-       "clock": "9:07",
+       "clock": "6:54",
        "teams": [
         {
          "name": "Denver Broncos",
@@ -2166,10 +2166,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "9:07 - 1st",
+       "detail": "6:54 - 1st",
        "start": "2026-11-27T20:00Z",
        "period": 1,
-       "clock": "9:07",
+       "clock": "6:54",
        "teams": [
         {
          "name": "Denver Broncos",
@@ -2229,16 +2229,16 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P1 16:34",
+       "detail": "P1 12:20",
        "start": "2026-11-27T20:00:00Z",
        "period": 1,
-       "clock": "16:34",
+       "clock": "12:20",
        "teams": [
         {
          "name": "Senators",
          "short": "OTT",
          "abbr": "OTT",
-         "score": 0,
+         "score": 1,
          "ha": "away",
          "winner": null,
          "linescores": []
