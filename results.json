@@ -1,5 +1,5 @@
 {
- "updated": "Nov 27, 2026, 9:13 AM PT",
+ "updated": "Nov 27, 2026, 9:17 AM PT",
  "record": {
   "w": 292,
   "l": 292,
@@ -11,7 +11,7 @@
   "first": "2026-10-12",
   "last": "2026-11-26"
  },
- "pending": 29,
+ "pending": 31,
  "plays": [
   {
    "n": 334,
@@ -9753,6 +9753,38 @@
    "pick": "Jonah Coleman (DEN RB) Over 21.5 receiving yards (player prop)",
    "odds": -115,
    "units": 3.0,
+   "result": null,
+   "pl": null,
+   "pending": true
+  },
+  {
+   "n": 1076,
+   "date": "2026-11-27",
+   "day": "2026-11-27",
+   "league": "NHL",
+   "market": "player_prop",
+   "market_label": "Player Prop",
+   "ticket": "single",
+   "matchup": "Seattle Kraken @ Edmonton Oilers",
+   "pick": "Ryan Nugent-Hopkins (EDM) Under 0.5 points (player prop)",
+   "odds": 130,
+   "units": 1.0,
+   "result": null,
+   "pl": null,
+   "pending": true
+  },
+  {
+   "n": 1077,
+   "date": "2026-11-27",
+   "day": "2026-11-27",
+   "league": "NBA",
+   "market": "player_prop",
+   "market_label": "Player Prop",
+   "ticket": "single",
+   "matchup": "Brooklyn Nets @ Toronto Raptors",
+   "pick": "Collin Murray-Boyles (TOR) Under 5.5 rebounds (player prop)",
+   "odds": -125,
+   "units": 1.0,
    "result": null,
    "pl": null,
    "pending": true
