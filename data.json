@@ -1,5 +1,5 @@
 {
- "updated": "Nov 27, 2026, 4:02 PM PT",
+ "updated": "Nov 27, 2026, 4:04 PM PT",
  "record": {
   "w": 292,
   "l": 292,
@@ -1371,10 +1371,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P1 07:53",
+       "detail": "P1 06:42",
        "start": "2026-11-27T22:30:00Z",
        "period": 1,
-       "clock": "07:53",
+       "clock": "06:42",
        "teams": [
         {
          "name": "Rangers",
@@ -1428,10 +1428,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P3 18:06",
+       "detail": "P3 16:58",
        "start": "2026-11-27T21:00:00Z",
        "period": 3,
-       "clock": "18:06",
+       "clock": "16:58",
        "teams": [
         {
          "name": "Avalanche",
@@ -1487,10 +1487,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "14:15 - 4th",
+       "detail": "13:59 - 4th",
        "start": "2026-11-27T20:30Z",
        "period": 4,
-       "clock": "14:15",
+       "clock": "13:59",
        "teams": [
         {
          "name": "Temple Owls",
@@ -2134,16 +2134,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "19:57 - 1st",
+       "detail": "17:57 - 1st",
        "start": "2026-11-27T23:00Z",
        "period": 1,
-       "clock": "19:57",
+       "clock": "17:57",
        "teams": [
         {
          "name": "Western Kentucky Hilltoppers",
          "short": "Hilltoppers",
          "abbr": "WKU",
-         "score": 0,
+         "score": 3,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -2154,7 +2154,7 @@
          "name": "Illinois Fighting Illini",
          "short": "Fighting Illini",
          "abbr": "ILL",
-         "score": 0,
+         "score": 5,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -2195,10 +2195,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "Halftime",
+       "detail": "19:47 - 2nd",
        "start": "2026-11-27T22:00Z",
-       "period": 1,
-       "clock": "0:00",
+       "period": 2,
+       "clock": "19:47",
        "teams": [
         {
          "name": "Marquette Golden Eagles",
@@ -2208,6 +2208,7 @@
          "ha": "away",
          "winner": null,
          "linescores": [
+          0,
           0
          ]
         },
@@ -2219,6 +2220,7 @@
          "ha": "home",
          "winner": null,
          "linescores": [
+          0,
           0
          ]
         }
