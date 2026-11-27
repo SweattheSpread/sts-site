@@ -1,5 +1,5 @@
 {
- "updated": "Nov 27, 2026, 8:47 AM PT",
+ "updated": "Nov 27, 2026, 9:06 AM PT",
  "record": {
   "w": 292,
   "l": 292,
@@ -127,63 +127,6 @@
   }
  ],
  "picks": [
-  {
-   "n": 1066,
-   "league": "NCAAB",
-   "type": "Spread",
-   "matchup": "Liberty Flames @ St. Thomas (MN) Tommies",
-   "pick": "St. Thomas (MN) +1.5",
-   "odds": -115,
-   "units": 1.0,
-   "gap": null,
-   "start": "2026-11-27T09:00:00",
-   "timed": true,
-   "ticket": "single",
-   "espn": {
-    "legs": [
-     {
-      "kind": "spread",
-      "side": "St. Thomas",
-      "line": 1.5,
-      "label": "St. Thomas +1.5",
-      "path": "basketball/mens-college-basketball",
-      "event": "401920848",
-      "date": "20261127",
-      "snapshot": {
-       "source": "espn",
-       "state": "pre",
-       "detail": "11/27 - 12:00 PM EST",
-       "start": "2026-11-27T17:00Z",
-       "period": null,
-       "clock": null,
-       "teams": [
-        {
-         "name": "St. Thomas Tommies",
-         "short": "Tommies",
-         "abbr": "STMN",
-         "score": 0,
-         "ha": "away",
-         "winner": null,
-         "linescores": []
-        },
-        {
-         "name": "Liberty Flames",
-         "short": "Flames",
-         "abbr": "LIB",
-         "score": 0,
-         "ha": "home",
-         "winner": null,
-         "linescores": []
-        }
-       ]
-      },
-      "source": "espn"
-     }
-    ],
-    "sport": "NCAAB",
-    "ticket": "single"
-   }
-  },
   {
    "n": 1067,
    "league": "NCAAB",
@@ -1778,6 +1721,67 @@
     ],
     "sport": "NFL",
     "ticket": "sgp"
+   }
+  },
+  {
+   "n": 1066,
+   "league": "NCAAB",
+   "type": "Spread",
+   "matchup": "Liberty Flames @ St. Thomas (MN) Tommies",
+   "pick": "St. Thomas (MN) +1.5",
+   "odds": -115,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-27T09:00:00",
+   "timed": true,
+   "ticket": "single",
+   "espn": {
+    "legs": [
+     {
+      "kind": "spread",
+      "side": "St. Thomas",
+      "line": 1.5,
+      "label": "St. Thomas +1.5",
+      "path": "basketball/mens-college-basketball",
+      "event": "401920848",
+      "date": "20261127",
+      "snapshot": {
+       "source": "espn",
+       "state": "in",
+       "detail": "19:50 - 1st",
+       "start": "2026-11-27T17:00Z",
+       "period": 1,
+       "clock": "19:50",
+       "teams": [
+        {
+         "name": "St. Thomas Tommies",
+         "short": "Tommies",
+         "abbr": "STMN",
+         "score": 0,
+         "ha": "away",
+         "winner": null,
+         "linescores": [
+          0
+         ]
+        },
+        {
+         "name": "Liberty Flames",
+         "short": "Flames",
+         "abbr": "LIB",
+         "score": 0,
+         "ha": "home",
+         "winner": null,
+         "linescores": [
+          0
+         ]
+        }
+       ]
+      },
+      "source": "espn"
+     }
+    ],
+    "sport": "NCAAB",
+    "ticket": "single"
    }
   }
  ],
