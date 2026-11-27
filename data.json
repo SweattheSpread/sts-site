@@ -1,5 +1,5 @@
 {
- "updated": "Nov 27, 2026, 9:28 AM PT",
+ "updated": "Nov 27, 2026, 9:31 AM PT",
  "record": {
   "w": 292,
   "l": 292,
@@ -1867,10 +1867,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "8:22 - 1st",
+       "detail": "7:11 - 1st",
        "start": "2026-11-27T17:00Z",
        "period": 1,
-       "clock": "8:22",
+       "clock": "7:11",
        "teams": [
         {
          "name": "St. Thomas Tommies",
@@ -1887,7 +1887,7 @@
          "name": "Liberty Flames",
          "short": "Flames",
          "abbr": "LIB",
-         "score": 27,
+         "score": 29,
          "ha": "home",
          "winner": null,
          "linescores": [
