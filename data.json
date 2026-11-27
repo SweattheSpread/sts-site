@@ -1,5 +1,5 @@
 {
- "updated": "Nov 27, 2026, 1:16 AM PT",
+ "updated": "Nov 27, 2026, 4:42 AM PT",
  "record": {
   "w": 292,
   "l": 292,
@@ -11,7 +11,7 @@
   "first": "2026-10-12",
   "last": "2026-11-26"
  },
- "pending": 22,
+ "pending": 24,
  "latest": [
   {
    "n": 1065,
@@ -622,6 +622,125 @@
      }
     ],
     "sport": "NHL",
+    "ticket": "single"
+   }
+  },
+  {
+   "n": 1069,
+   "league": "NHL",
+   "type": "Player Prop",
+   "matchup": "Seattle Kraken @ Edmonton Oilers",
+   "pick": "Connor McDavid Over 1.5 points",
+   "odds": 100,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-27T17:00:00",
+   "timed": true,
+   "ticket": "single",
+   "espn": {
+    "legs": [
+     {
+      "kind": "prop",
+      "player": "Connor McDavid",
+      "ou": "O",
+      "line": 1.5,
+      "stat": "points",
+      "label": "Connor McDavid O 1.5 points",
+      "path": "hockey/nhl",
+      "event": "401892809",
+      "date": "20261127",
+      "snapshot": {
+       "source": "nhl",
+       "state": "pre",
+       "detail": "Scheduled",
+       "start": "2026-11-28T01:00:00Z",
+       "period": null,
+       "clock": null,
+       "teams": [
+        {
+         "name": "Kraken",
+         "short": "SEA",
+         "abbr": "SEA",
+         "score": 0,
+         "ha": "away",
+         "winner": null,
+         "linescores": []
+        },
+        {
+         "name": "Oilers",
+         "short": "EDM",
+         "abbr": "EDM",
+         "score": 0,
+         "ha": "home",
+         "winner": null,
+         "linescores": []
+        }
+       ],
+       "nhl_id": 2026020414
+      },
+      "source": "nhl"
+     }
+    ],
+    "sport": "NHL",
+    "ticket": "single"
+   }
+  },
+  {
+   "n": 1070,
+   "league": "NBA",
+   "type": "Player Prop",
+   "matchup": "Memphis Grizzlies @ Minnesota Timberwolves",
+   "pick": "Jaylen Wells Over 3.5 rebounds",
+   "odds": 125,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-27T17:40:00",
+   "timed": true,
+   "ticket": "single",
+   "espn": {
+    "legs": [
+     {
+      "kind": "prop",
+      "player": "Jaylen Wells",
+      "ou": "O",
+      "line": 3.5,
+      "stat": "rebounds",
+      "label": "Jaylen Wells O 3.5 rebounds",
+      "path": "basketball/nba",
+      "event": "401909331",
+      "date": "20261127",
+      "snapshot": {
+       "source": "espn",
+       "state": "pre",
+       "detail": "11/27 - 8:30 PM EST",
+       "start": "2026-11-28T01:30Z",
+       "period": null,
+       "clock": null,
+       "teams": [
+        {
+         "name": "Memphis Grizzlies",
+         "short": "Grizzlies",
+         "abbr": "MEM",
+         "score": 0,
+         "ha": "away",
+         "winner": null,
+         "linescores": []
+        },
+        {
+         "name": "Minnesota Timberwolves",
+         "short": "Timberwolves",
+         "abbr": "MIN",
+         "score": 0,
+         "ha": "home",
+         "winner": null,
+         "linescores": []
+        }
+       ]
+      },
+      "source": "espn"
+     }
+    ],
+    "sport": "NBA",
     "ticket": "single"
    }
   },

@@ -1,5 +1,5 @@
 {
- "updated": "Nov 27, 2026, 1:16 AM PT",
+ "updated": "Nov 27, 2026, 4:42 AM PT",
  "record": {
   "w": 292,
   "l": 292,
@@ -11,7 +11,7 @@
   "first": "2026-10-12",
   "last": "2026-11-26"
  },
- "pending": 22,
+ "pending": 24,
  "plays": [
   {
    "n": 334,
@@ -9656,6 +9656,38 @@
    "matchup": "Le Moyne Dolphins @ Maine Black Bears",
    "pick": "Le Moyne +1.5",
    "odds": -110,
+   "units": 1.0,
+   "result": null,
+   "pl": null,
+   "pending": true
+  },
+  {
+   "n": 1069,
+   "date": "2026-11-27",
+   "day": "2026-11-27",
+   "league": "NHL",
+   "market": "player_prop",
+   "market_label": "Player Prop",
+   "ticket": "single",
+   "matchup": "Seattle Kraken @ Edmonton Oilers",
+   "pick": "Connor McDavid Over 1.5 points",
+   "odds": 100,
+   "units": 1.0,
+   "result": null,
+   "pl": null,
+   "pending": true
+  },
+  {
+   "n": 1070,
+   "date": "2026-11-27",
+   "day": "2026-11-27",
+   "league": "NBA",
+   "market": "player_prop",
+   "market_label": "Player Prop",
+   "ticket": "single",
+   "matchup": "Memphis Grizzlies @ Minnesota Timberwolves",
+   "pick": "Jaylen Wells Over 3.5 rebounds",
+   "odds": 125,
    "units": 1.0,
    "result": null,
    "pl": null,
