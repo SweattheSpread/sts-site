@@ -1,5 +1,5 @@
 {
- "updated": "Nov 27, 2026, 11:44 AM PT",
+ "updated": "Nov 27, 2026, 11:46 AM PT",
  "record": {
   "w": 292,
   "l": 292,
@@ -127,54 +127,6 @@
   }
  ],
  "picks": [
-  {
-   "n": 1071,
-   "league": "Soccer",
-   "type": "Player Prop",
-   "matchup": "Soccer Ligue 1 Brest v Paris FC",
-   "pick": "Lassine Sinayoko (Paris FC) anytime goal",
-   "odds": 170,
-   "units": 1.0,
-   "gap": null,
-   "start": "2026-11-27T11:45:00",
-   "timed": true,
-   "ticket": "single",
-   "espn": {
-    "legs": [
-     {
-      "kind": "unknown",
-      "label": "Lassine Sinayoko anytime goal",
-      "unverified": true
-     }
-    ],
-    "sport": "Soccer",
-    "ticket": "single"
-   }
-  },
-  {
-   "n": 1072,
-   "league": "Soccer",
-   "type": "Player Prop",
-   "matchup": "Soccer Ligue 1 Brest v Paris FC",
-   "pick": "Ludovic Ajorque (Brest) anytime goal",
-   "odds": 250,
-   "units": 1.0,
-   "gap": null,
-   "start": "2026-11-27T11:45:00",
-   "timed": true,
-   "ticket": "single",
-   "espn": {
-    "legs": [
-     {
-      "kind": "unknown",
-      "label": "Ludovic Ajorque anytime goal",
-      "unverified": true
-     }
-    ],
-    "sport": "Soccer",
-    "ticket": "single"
-   }
-  },
   {
    "n": 1032,
    "league": "NFL",
@@ -2132,16 +2084,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "3:29 - 1st",
+       "detail": "Halftime",
        "start": "2026-11-27T19:00Z",
        "period": 1,
-       "clock": "3:29",
+       "clock": "0:00",
        "teams": [
         {
          "name": "Fresno State Bulldogs",
          "short": "Bulldogs",
          "abbr": "FRES",
-         "score": 37,
+         "score": 42,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -2152,7 +2104,7 @@
          "name": "South Alabama Jaguars",
          "short": "Jaguars",
          "abbr": "USA",
-         "score": 23,
+         "score": 30,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -2193,16 +2145,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "2:12 - 1st",
+       "detail": "0:35 - 1st",
        "start": "2026-11-27T19:00Z",
        "period": 1,
-       "clock": "2:12",
+       "clock": "0:35",
        "teams": [
         {
          "name": "Maine Black Bears",
          "short": "Black Bears",
          "abbr": "ME",
-         "score": 28,
+         "score": 32,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -2226,6 +2178,54 @@
      }
     ],
     "sport": "NCAAB",
+    "ticket": "single"
+   }
+  },
+  {
+   "n": 1071,
+   "league": "Soccer",
+   "type": "Player Prop",
+   "matchup": "Soccer Ligue 1 Brest v Paris FC",
+   "pick": "Lassine Sinayoko (Paris FC) anytime goal",
+   "odds": 170,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-27T11:45:00",
+   "timed": true,
+   "ticket": "single",
+   "espn": {
+    "legs": [
+     {
+      "kind": "unknown",
+      "label": "Lassine Sinayoko anytime goal",
+      "unverified": true
+     }
+    ],
+    "sport": "Soccer",
+    "ticket": "single"
+   }
+  },
+  {
+   "n": 1072,
+   "league": "Soccer",
+   "type": "Player Prop",
+   "matchup": "Soccer Ligue 1 Brest v Paris FC",
+   "pick": "Ludovic Ajorque (Brest) anytime goal",
+   "odds": 250,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-27T11:45:00",
+   "timed": true,
+   "ticket": "single",
+   "espn": {
+    "legs": [
+     {
+      "kind": "unknown",
+      "label": "Ludovic Ajorque anytime goal",
+      "unverified": true
+     }
+    ],
+    "sport": "Soccer",
     "ticket": "single"
    }
   }
