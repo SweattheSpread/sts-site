@@ -1,17 +1,17 @@
 {
- "updated": "Nov 26, 2026, 8:39 PM PT",
+ "updated": "Nov 26, 2026, 8:42 PM PT",
  "record": {
-  "w": 288,
-  "l": 289,
-  "p": 2,
-  "n": 579,
-  "units": 62.19,
-  "risked": 846.7,
-  "roi": 7.34,
+  "w": 292,
+  "l": 292,
+  "p": 3,
+  "n": 587,
+  "units": 68.9,
+  "risked": 859.7,
+  "roi": 8.01,
   "first": "2026-10-12",
   "last": "2026-11-26"
  },
- "pending": 26,
+ "pending": 19,
  "latest": [
   {
    "n": 1065,
@@ -42,6 +42,76 @@
    "ticket": "single"
   },
   {
+   "n": 1061,
+   "date": "2026-11-26",
+   "day": "2026-11-26",
+   "league": "NFL",
+   "type": "Parlay",
+   "matchup": "Kansas City Chiefs @ Buffalo Bills",
+   "pick": "2-leg parlay James Cook anytime TD + Emmett Johnson anytime TD",
+   "odds": 221,
+   "units": 1.5,
+   "result": "W",
+   "pl": 3.31,
+   "ticket": "parlay"
+  },
+  {
+   "n": 1060,
+   "date": "2026-11-26",
+   "day": "2026-11-26",
+   "league": "NFL",
+   "type": "Player Prop",
+   "matchup": "Kansas City Chiefs @ Buffalo Bills",
+   "pick": "James Cook Over 86.5 rushing yards (player prop)",
+   "odds": -110,
+   "units": 5.0,
+   "result": "W",
+   "pl": 4.55,
+   "ticket": "single"
+  },
+  {
+   "n": 1052,
+   "date": "2026-11-26",
+   "day": "2026-11-26",
+   "league": "NCAAB",
+   "type": "Spread",
+   "matchup": "DePaul Blue Demons vs Pittsburgh Panthers",
+   "pick": "DePaul +1",
+   "odds": -110,
+   "units": 1.0,
+   "result": "L",
+   "pl": -1.0,
+   "ticket": "single"
+  },
+  {
+   "n": 1012,
+   "date": "2026-11-26",
+   "day": "2026-11-26",
+   "league": "NFL",
+   "type": "Over/Under",
+   "matchup": "Kansas City Chiefs @ Buffalo Bills",
+   "pick": "Over 47.5",
+   "odds": -109,
+   "units": 1.0,
+   "result": "L",
+   "pl": -1.0,
+   "ticket": "single"
+  },
+  {
+   "n": 991,
+   "date": "2026-11-26",
+   "day": "2026-11-26",
+   "league": "NFL",
+   "type": "Moneyline",
+   "matchup": "Kansas City Chiefs @ Buffalo Bills",
+   "pick": "Buffalo Bills ML",
+   "odds": -154,
+   "units": 1.0,
+   "result": "W",
+   "pl": 0.65,
+   "ticket": "single"
+  },
+  {
    "n": 990,
    "date": "2026-11-26",
    "day": "2026-11-26",
@@ -53,76 +123,6 @@
    "units": 1.0,
    "result": "W",
    "pl": 0.93,
-   "ticket": "single"
-  },
-  {
-   "n": 1051,
-   "date": "2026-11-25",
-   "day": "2026-11-25",
-   "league": "NFL",
-   "type": "Player Prop",
-   "matchup": "Green Bay Packers @ Los Angeles Rams",
-   "pick": "Matthew Golden Over 67.5 receiving yards -122 (BetRivers)",
-   "odds": -122,
-   "units": 5.0,
-   "result": "L",
-   "pl": -5.0,
-   "ticket": "single"
-  },
-  {
-   "n": 1050,
-   "date": "2026-11-25",
-   "day": "2026-11-25",
-   "league": "NFL",
-   "type": "Player Prop",
-   "matchup": "Green Bay Packers @ Los Angeles Rams",
-   "pick": "Blake Corum First TD Scorer",
-   "odds": 700,
-   "units": 0.5,
-   "result": "L",
-   "pl": -0.5,
-   "ticket": "single"
-  },
-  {
-   "n": 1049,
-   "date": "2026-11-25",
-   "day": "2026-11-25",
-   "league": "NBA",
-   "type": "Player Prop",
-   "matchup": "Sacramento Kings @ Golden State Warriors",
-   "pick": "Keegan Murray Under 13.5 points +100 (BetMGM)",
-   "odds": 100,
-   "units": 1.0,
-   "result": "L",
-   "pl": -1.0,
-   "ticket": "single"
-  },
-  {
-   "n": 1048,
-   "date": "2026-11-25",
-   "day": "2026-11-25",
-   "league": "NHL",
-   "type": "Player Prop",
-   "matchup": "Philadelphia Flyers @ Washington Capitals",
-   "pick": "Ryan Leonard Over 0.5 points +105 (BetMGM)",
-   "odds": 105,
-   "units": 1.0,
-   "result": "W",
-   "pl": 1.05,
-   "ticket": "single"
-  },
-  {
-   "n": 1047,
-   "date": "2026-11-25",
-   "day": "2026-11-25",
-   "league": "NBA",
-   "type": "Player Prop",
-   "matchup": "Phoenix Suns @ Houston Rockets",
-   "pick": "Dillon Brooks Over 1.5 3-pointers made +100 (BetMGM)",
-   "odds": 100,
-   "units": 1.0,
-   "result": "L",
-   "pl": -1.0,
    "ticket": "single"
   }
  ],
@@ -1170,494 +1170,6 @@
  ],
  "awaiting": [
   {
-   "n": 853,
-   "league": "NFL",
-   "type": "Spread",
-   "matchup": "Chicago Bears @ Detroit Lions",
-   "pick": "Detroit Lions +2.5 (-107)",
-   "odds": -107,
-   "units": 1.0,
-   "gap": 6.4,
-   "start": "2026-11-26T10:00:00",
-   "timed": true,
-   "ticket": "single",
-   "espn": {
-    "legs": [
-     {
-      "kind": "spread",
-      "side": "Detroit Lions",
-      "line": 2.5,
-      "label": "Detroit Lions +2.5",
-      "path": "football/nfl",
-      "event": "401873081",
-      "date": "20261126",
-      "snapshot": {
-       "source": "espn",
-       "state": "post",
-       "detail": "Final",
-       "start": "2026-11-26T18:00Z",
-       "period": null,
-       "clock": null,
-       "teams": [
-        {
-         "name": "Chicago Bears",
-         "short": "Bears",
-         "abbr": "CHI",
-         "score": 39,
-         "ha": "away",
-         "winner": true,
-         "linescores": [
-          0,
-          0,
-          0,
-          0
-         ]
-        },
-        {
-         "name": "Detroit Lions",
-         "short": "Lions",
-         "abbr": "DET",
-         "score": 35,
-         "ha": "home",
-         "winner": false,
-         "linescores": [
-          0,
-          0,
-          0,
-          0
-         ]
-        }
-       ]
-      },
-      "source": "espn"
-     }
-    ],
-    "sport": "NFL",
-    "ticket": "single"
-   }
-  },
-  {
-   "n": 961,
-   "league": "NFL",
-   "type": "Spread",
-   "matchup": "Kansas City Chiefs @ Buffalo Bills",
-   "pick": "Buffalo Bills -3",
-   "odds": -109,
-   "units": 1.0,
-   "gap": null,
-   "start": "2026-11-26T17:20:00",
-   "timed": true,
-   "ticket": "single",
-   "espn": {
-    "legs": [
-     {
-      "kind": "spread",
-      "side": "Buffalo Bills",
-      "line": -3.0,
-      "label": "Buffalo Bills -3",
-      "path": "football/nfl",
-      "event": "401873082",
-      "date": "20261126",
-      "snapshot": {
-       "source": "espn",
-       "state": "post",
-       "detail": "Final",
-       "start": "2026-11-27T01:20Z",
-       "period": null,
-       "clock": null,
-       "teams": [
-        {
-         "name": "Kansas City Chiefs",
-         "short": "Chiefs",
-         "abbr": "KC",
-         "score": 10,
-         "ha": "away",
-         "winner": false,
-         "linescores": [
-          0,
-          0,
-          0,
-          0
-         ]
-        },
-        {
-         "name": "Buffalo Bills",
-         "short": "Bills",
-         "abbr": "BUF",
-         "score": 13,
-         "ha": "home",
-         "winner": true,
-         "linescores": [
-          0,
-          0,
-          0,
-          0
-         ]
-        }
-       ]
-      },
-      "source": "espn"
-     }
-    ],
-    "sport": "NFL",
-    "ticket": "single"
-   }
-  },
-  {
-   "n": 991,
-   "league": "NFL",
-   "type": "Moneyline",
-   "matchup": "Kansas City Chiefs @ Buffalo Bills",
-   "pick": "Buffalo Bills ML",
-   "odds": -154,
-   "units": 1.0,
-   "gap": null,
-   "start": "2026-11-26T17:20:00",
-   "timed": true,
-   "ticket": "single",
-   "espn": {
-    "legs": [
-     {
-      "kind": "ml",
-      "side": "Buffalo Bills",
-      "label": "Buffalo Bills ML",
-      "path": "football/nfl",
-      "event": "401873082",
-      "date": "20261126",
-      "snapshot": {
-       "source": "espn",
-       "state": "post",
-       "detail": "Final",
-       "start": "2026-11-27T01:20Z",
-       "period": null,
-       "clock": null,
-       "teams": [
-        {
-         "name": "Kansas City Chiefs",
-         "short": "Chiefs",
-         "abbr": "KC",
-         "score": 10,
-         "ha": "away",
-         "winner": false,
-         "linescores": [
-          0,
-          0,
-          0,
-          0
-         ]
-        },
-        {
-         "name": "Buffalo Bills",
-         "short": "Bills",
-         "abbr": "BUF",
-         "score": 13,
-         "ha": "home",
-         "winner": true,
-         "linescores": [
-          0,
-          0,
-          0,
-          0
-         ]
-        }
-       ]
-      },
-      "source": "espn"
-     }
-    ],
-    "sport": "NFL",
-    "ticket": "single"
-   }
-  },
-  {
-   "n": 1012,
-   "league": "NFL",
-   "type": "Over/Under",
-   "matchup": "Kansas City Chiefs @ Buffalo Bills",
-   "pick": "Over 47.5",
-   "odds": -109,
-   "units": 1.0,
-   "gap": null,
-   "start": "2026-11-26T17:20:00",
-   "timed": true,
-   "ticket": "single",
-   "espn": {
-    "legs": [
-     {
-      "kind": "total",
-      "side": null,
-      "ou": "O",
-      "line": 47.5,
-      "label": "O 47.5",
-      "path": "football/nfl",
-      "event": "401873082",
-      "date": "20261126",
-      "snapshot": {
-       "source": "espn",
-       "state": "post",
-       "detail": "Final",
-       "start": "2026-11-27T01:20Z",
-       "period": null,
-       "clock": null,
-       "teams": [
-        {
-         "name": "Kansas City Chiefs",
-         "short": "Chiefs",
-         "abbr": "KC",
-         "score": 10,
-         "ha": "away",
-         "winner": false,
-         "linescores": [
-          0,
-          0,
-          0,
-          0
-         ]
-        },
-        {
-         "name": "Buffalo Bills",
-         "short": "Bills",
-         "abbr": "BUF",
-         "score": 13,
-         "ha": "home",
-         "winner": true,
-         "linescores": [
-          0,
-          0,
-          0,
-          0
-         ]
-        }
-       ]
-      },
-      "source": "espn"
-     }
-    ],
-    "sport": "NFL",
-    "ticket": "single"
-   }
-  },
-  {
-   "n": 1025,
-   "league": "NFL",
-   "type": "Player prop",
-   "matchup": "Kansas City Chiefs @ Buffalo Bills",
-   "pick": "Cyrus Allen longest reception Over 8.5",
-   "odds": -125,
-   "units": 1.5,
-   "gap": null,
-   "start": "2026-11-26T17:20:00",
-   "timed": true,
-   "ticket": "single",
-   "espn": {
-    "legs": [
-     {
-      "kind": "team_total",
-      "side": "Cyrus Allen longest reception",
-      "ou": "O",
-      "line": 8.5,
-      "label": "Cyrus Allen longest reception O 8.5",
-      "path": "football/nfl",
-      "event": "401873082",
-      "date": "20261126",
-      "snapshot": {
-       "source": "espn",
-       "state": "post",
-       "detail": "Final",
-       "start": "2026-11-27T01:20Z",
-       "period": null,
-       "clock": null,
-       "teams": [
-        {
-         "name": "Kansas City Chiefs",
-         "short": "Chiefs",
-         "abbr": "KC",
-         "score": 10,
-         "ha": "away",
-         "winner": false,
-         "linescores": [
-          0,
-          0,
-          0,
-          0
-         ]
-        },
-        {
-         "name": "Buffalo Bills",
-         "short": "Bills",
-         "abbr": "BUF",
-         "score": 13,
-         "ha": "home",
-         "winner": true,
-         "linescores": [
-          0,
-          0,
-          0,
-          0
-         ]
-        }
-       ]
-      },
-      "source": "espn"
-     }
-    ],
-    "sport": "NFL",
-    "ticket": "single"
-   }
-  },
-  {
-   "n": 1060,
-   "league": "NFL",
-   "type": "Player Prop",
-   "matchup": "Kansas City Chiefs @ Buffalo Bills",
-   "pick": "James Cook Over 86.5 rushing yards (player prop)",
-   "odds": -110,
-   "units": 5.0,
-   "gap": null,
-   "start": "2026-11-26T17:20:00",
-   "timed": true,
-   "ticket": "single",
-   "espn": {
-    "legs": [
-     {
-      "kind": "prop",
-      "player": "James Cook",
-      "ou": "O",
-      "line": 86.5,
-      "stat": "rushing yards",
-      "label": "James Cook O 86.5 rushing yards",
-      "date": "20261126",
-      "unverified": true,
-      "reason": "Player not found in this game",
-      "snapshot": {
-       "source": "odds-api",
-       "state": "post",
-       "detail": "Final",
-       "start": "2026-11-27T01:29:03Z",
-       "teams": [
-        {
-         "name": "Kansas City Chiefs",
-         "short": "Kansas City Chiefs",
-         "abbr": "",
-         "score": 10,
-         "ha": "away",
-         "winner": false,
-         "linescores": []
-        },
-        {
-         "name": "Buffalo Bills",
-         "short": "Buffalo Bills",
-         "abbr": "",
-         "score": 13,
-         "ha": "home",
-         "winner": true,
-         "linescores": []
-        }
-       ]
-      },
-      "source": "odds-api"
-     }
-    ],
-    "sport": "NFL",
-    "ticket": "single"
-   }
-  },
-  {
-   "n": 1061,
-   "league": "NFL",
-   "type": "Parlay",
-   "matchup": "Kansas City Chiefs @ Buffalo Bills",
-   "pick": "2-leg parlay James Cook anytime TD + Emmett Johnson anytime TD",
-   "odds": 221,
-   "units": 1.5,
-   "gap": null,
-   "start": "2026-11-26T17:20:00",
-   "timed": true,
-   "ticket": "parlay",
-   "espn": {
-    "legs": [
-     {
-      "kind": "prop",
-      "player": "2-leg parlay James Cook",
-      "ou": "O",
-      "line": 0.5,
-      "stat": "anytime td",
-      "label": "2-leg parlay James Cook O 0.5 anytime td",
-      "date": "20261126",
-      "unverified": true,
-      "reason": "Player not found in this game",
-      "snapshot": {
-       "source": "odds-api",
-       "state": "post",
-       "detail": "Final",
-       "start": "2026-11-27T01:29:03Z",
-       "teams": [
-        {
-         "name": "Kansas City Chiefs",
-         "short": "Kansas City Chiefs",
-         "abbr": "",
-         "score": 10,
-         "ha": "away",
-         "winner": false,
-         "linescores": []
-        },
-        {
-         "name": "Buffalo Bills",
-         "short": "Buffalo Bills",
-         "abbr": "",
-         "score": 13,
-         "ha": "home",
-         "winner": true,
-         "linescores": []
-        }
-       ]
-      },
-      "source": "odds-api"
-     },
-     {
-      "kind": "prop",
-      "player": "Emmett Johnson",
-      "ou": "O",
-      "line": 0.5,
-      "stat": "anytime td",
-      "label": "Emmett Johnson O 0.5 anytime td",
-      "date": "20261126",
-      "unverified": true,
-      "reason": "Player not found in this game",
-      "snapshot": {
-       "source": "odds-api",
-       "state": "post",
-       "detail": "Final",
-       "start": "2026-11-27T01:29:03Z",
-       "teams": [
-        {
-         "name": "Kansas City Chiefs",
-         "short": "Kansas City Chiefs",
-         "abbr": "",
-         "score": 10,
-         "ha": "away",
-         "winner": false,
-         "linescores": []
-        },
-        {
-         "name": "Buffalo Bills",
-         "short": "Buffalo Bills",
-         "abbr": "",
-         "score": 13,
-         "ha": "home",
-         "winner": true,
-         "linescores": []
-        }
-       ]
-      },
-      "source": "odds-api"
-     }
-    ],
-    "sport": "NFL",
-    "ticket": "parlay"
-   }
-  },
-  {
    "n": 1062,
    "league": "NFL",
    "type": "Parlay",
@@ -1933,8 +1445,8 @@
    "n": 23
   },
   "2026-11-26": {
-   "u": 5.65,
-   "n": 7
+   "u": 12.36,
+   "n": 15
   }
  }
 }
