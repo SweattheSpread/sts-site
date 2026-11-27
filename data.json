@@ -1,5 +1,5 @@
 {
- "updated": "Nov 27, 2026, 4:19 PM PT",
+ "updated": "Nov 27, 2026, 4:22 PM PT",
  "record": {
   "w": 292,
   "l": 292,
@@ -1313,10 +1313,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P1 15:34",
+       "detail": "P1 12:03",
        "start": "2026-11-27T22:30:00Z",
        "period": 1,
-       "clock": "15:34",
+       "clock": "12:03",
        "teams": [
         {
          "name": "Rangers",
@@ -1370,10 +1370,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P3 07:55",
+       "detail": "P3 07:25",
        "start": "2026-11-27T21:00:00Z",
        "period": 3,
-       "clock": "07:55",
+       "clock": "07:25",
        "teams": [
         {
          "name": "Avalanche",
@@ -1429,10 +1429,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "10:21 - 4th",
+       "detail": "8:29 - 4th",
        "start": "2026-11-27T20:30Z",
        "period": 4,
-       "clock": "10:21",
+       "clock": "8:29",
        "teams": [
         {
          "name": "Temple Owls",
@@ -2076,10 +2076,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "11:48 - 1st",
+       "detail": "11:39 - 1st",
        "start": "2026-11-27T23:00Z",
        "period": 1,
-       "clock": "11:48",
+       "clock": "11:39",
        "teams": [
         {
          "name": "Western Kentucky Hilltoppers",
@@ -2137,16 +2137,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "14:02 - 2nd",
+       "detail": "13:06 - 2nd",
        "start": "2026-11-27T22:00Z",
        "period": 2,
-       "clock": "14:02",
+       "clock": "13:06",
        "teams": [
         {
          "name": "Marquette Golden Eagles",
          "short": "Golden Eagles",
          "abbr": "MARQ",
-         "score": 53,
+         "score": 57,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -2158,7 +2158,7 @@
          "name": "Texas A&M Aggies",
          "short": "Aggies",
          "abbr": "TA&M",
-         "score": 46,
+         "score": 51,
          "ha": "home",
          "winner": null,
          "linescores": [
