@@ -1,5 +1,5 @@
 {
- "updated": "Nov 27, 2026, 4:17 PM PT",
+ "updated": "Nov 27, 2026, 4:19 PM PT",
  "record": {
   "w": 292,
   "l": 292,
@@ -1313,10 +1313,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P1 00:39",
+       "detail": "P1 15:34",
        "start": "2026-11-27T22:30:00Z",
        "period": 1,
-       "clock": "00:39",
+       "clock": "15:34",
        "teams": [
         {
          "name": "Rangers",
@@ -1429,10 +1429,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "11:06 - 4th",
+       "detail": "10:21 - 4th",
        "start": "2026-11-27T20:30Z",
        "period": 4,
-       "clock": "11:06",
+       "clock": "10:21",
        "teams": [
         {
          "name": "Temple Owls",
@@ -2076,16 +2076,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "12:47 - 1st",
+       "detail": "11:48 - 1st",
        "start": "2026-11-27T23:00Z",
        "period": 1,
-       "clock": "12:47",
+       "clock": "11:48",
        "teams": [
         {
          "name": "Western Kentucky Hilltoppers",
          "short": "Hilltoppers",
          "abbr": "WKU",
-         "score": 10,
+         "score": 14,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -2137,16 +2137,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "14:56 - 2nd",
+       "detail": "14:02 - 2nd",
        "start": "2026-11-27T22:00Z",
        "period": 2,
-       "clock": "14:56",
+       "clock": "14:02",
        "teams": [
         {
          "name": "Marquette Golden Eagles",
          "short": "Golden Eagles",
          "abbr": "MARQ",
-         "score": 52,
+         "score": 53,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -2158,7 +2158,7 @@
          "name": "Texas A&M Aggies",
          "short": "Aggies",
          "abbr": "TA&M",
-         "score": 44,
+         "score": 46,
          "ha": "home",
          "winner": null,
          "linescores": [
