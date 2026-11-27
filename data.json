@@ -1,5 +1,5 @@
 {
- "updated": "Nov 27, 2026, 4:54 PM PT",
+ "updated": "Nov 27, 2026, 4:56 PM PT",
  "record": {
   "w": 292,
   "l": 292,
@@ -1254,10 +1254,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P2 10:47",
+       "detail": "P2 10:38",
        "start": "2026-11-27T22:30:00Z",
        "period": 2,
-       "clock": "10:47",
+       "clock": "10:38",
        "teams": [
         {
          "name": "Rangers",
@@ -1310,8 +1310,8 @@
       "date": "20261127",
       "snapshot": {
        "source": "nhl",
-       "state": "in",
-       "detail": "P5 00:00",
+       "state": "post",
+       "detail": "Final/SO",
        "start": "2026-11-27T21:00:00Z",
        "period": 5,
        "clock": "00:00",
@@ -1322,7 +1322,7 @@
          "abbr": "COL",
          "score": 4,
          "ha": "away",
-         "winner": null,
+         "winner": true,
          "linescores": []
         },
         {
@@ -1331,7 +1331,7 @@
          "abbr": "MIN",
          "score": 3,
          "ha": "home",
-         "winner": null,
+         "winner": false,
          "linescores": []
         }
        ],
@@ -1369,11 +1369,11 @@
       "date": "20261127",
       "snapshot": {
        "source": "espn",
-       "state": "in",
-       "detail": "End of 4th",
+       "state": "post",
+       "detail": "Final",
        "start": "2026-11-27T20:30Z",
-       "period": 4,
-       "clock": "0:00",
+       "period": null,
+       "clock": null,
        "teams": [
         {
          "name": "Temple Owls",
@@ -1381,7 +1381,7 @@
          "abbr": "TEM",
          "score": 35,
          "ha": "away",
-         "winner": null,
+         "winner": true,
          "linescores": [
           0,
           0,
@@ -1395,7 +1395,7 @@
          "abbr": "MEM",
          "score": 31,
          "ha": "home",
-         "winner": null,
+         "winner": false,
          "linescores": [
           0,
           0,
@@ -2137,10 +2137,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "2:18 - 2nd",
+       "detail": "1:56 - 2nd",
        "start": "2026-11-27T22:00Z",
        "period": 2,
-       "clock": "2:18",
+       "clock": "1:56",
        "teams": [
         {
          "name": "Marquette Golden Eagles",
