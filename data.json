@@ -1,5 +1,5 @@
 {
- "updated": "Nov 27, 2026, 3:19 PM PT",
+ "updated": "Nov 27, 2026, 3:21 PM PT",
  "record": {
   "w": 292,
   "l": 292,
@@ -1305,10 +1305,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "End of 3rd",
+       "detail": "13:10 - 4th",
        "start": "2026-11-27T20:00Z",
-       "period": 3,
-       "clock": "0:00",
+       "period": 4,
+       "clock": "13:10",
        "teams": [
         {
          "name": "Denver Broncos",
@@ -1318,6 +1318,7 @@
          "ha": "away",
          "winner": null,
          "linescores": [
+          0,
           0,
           0,
           0
@@ -1331,6 +1332,7 @@
          "ha": "home",
          "winner": null,
          "linescores": [
+          0,
           0,
           0,
           0
@@ -1426,10 +1428,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P2 11:48",
+       "detail": "P2 10:15",
        "start": "2026-11-27T21:00:00Z",
        "period": 2,
-       "clock": "11:48",
+       "clock": "10:15",
        "teams": [
         {
          "name": "Avalanche",
@@ -1485,10 +1487,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "12:40 - 3rd",
+       "detail": "11:51 - 3rd",
        "start": "2026-11-27T20:30Z",
        "period": 3,
-       "clock": "12:40",
+       "clock": "11:51",
        "teams": [
         {
          "name": "Temple Owls",
@@ -1581,10 +1583,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "End of 3rd",
+       "detail": "13:10 - 4th",
        "start": "2026-11-27T20:00Z",
-       "period": 3,
-       "clock": "0:00",
+       "period": 4,
+       "clock": "13:10",
        "teams": [
         {
          "name": "Denver Broncos",
@@ -1594,6 +1596,7 @@
          "ha": "away",
          "winner": null,
          "linescores": [
+          0,
           0,
           0,
           0
@@ -1607,6 +1610,7 @@
          "ha": "home",
          "winner": null,
          "linescores": [
+          0,
           0,
           0,
           0
@@ -1658,10 +1662,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "End of 3rd",
+       "detail": "13:10 - 4th",
        "start": "2026-11-27T20:00Z",
-       "period": 3,
-       "clock": "0:00",
+       "period": 4,
+       "clock": "13:10",
        "teams": [
         {
          "name": "Denver Broncos",
@@ -1671,6 +1675,7 @@
          "ha": "away",
          "winner": null,
          "linescores": [
+          0,
           0,
           0,
           0
@@ -1684,6 +1689,7 @@
          "ha": "home",
          "winner": null,
          "linescores": [
+          0,
           0,
           0,
           0
@@ -1707,10 +1713,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "End of 3rd",
+       "detail": "13:10 - 4th",
        "start": "2026-11-27T20:00Z",
-       "period": 3,
-       "clock": "0:00",
+       "period": 4,
+       "clock": "13:10",
        "teams": [
         {
          "name": "Denver Broncos",
@@ -1720,6 +1726,7 @@
          "ha": "away",
          "winner": null,
          "linescores": [
+          0,
           0,
           0,
           0
@@ -1733,6 +1740,7 @@
          "ha": "home",
          "winner": null,
          "linescores": [
+          0,
           0,
           0,
           0
@@ -2014,10 +2022,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "End of 3rd",
+       "detail": "13:10 - 4th",
        "start": "2026-11-27T20:00Z",
-       "period": 3,
-       "clock": "0:00",
+       "period": 4,
+       "clock": "13:10",
        "teams": [
         {
          "name": "Denver Broncos",
@@ -2027,6 +2035,7 @@
          "ha": "away",
          "winner": null,
          "linescores": [
+          0,
           0,
           0,
           0
@@ -2040,6 +2049,7 @@
          "ha": "home",
          "winner": null,
          "linescores": [
+          0,
           0,
           0,
           0
@@ -2082,10 +2092,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "End of 3rd",
+       "detail": "13:10 - 4th",
        "start": "2026-11-27T20:00Z",
-       "period": 3,
-       "clock": "0:00",
+       "period": 4,
+       "clock": "13:10",
        "teams": [
         {
          "name": "Denver Broncos",
@@ -2095,6 +2105,7 @@
          "ha": "away",
          "winner": null,
          "linescores": [
+          0,
           0,
           0,
           0
@@ -2108,6 +2119,7 @@
          "ha": "home",
          "winner": null,
          "linescores": [
+          0,
           0,
           0,
           0
@@ -2147,19 +2159,19 @@
       "date": "20261127",
       "snapshot": {
        "source": "espn",
-       "state": "in",
-       "detail": "0:58 - 2nd",
+       "state": "post",
+       "detail": "Final",
        "start": "2026-11-27T20:30Z",
-       "period": 2,
-       "clock": "0:58",
+       "period": null,
+       "clock": null,
        "teams": [
         {
          "name": "Colgate Raiders",
          "short": "Raiders",
          "abbr": "COLG",
-         "score": 72,
+         "score": 75,
          "ha": "away",
-         "winner": null,
+         "winner": true,
          "linescores": [
           0,
           0
@@ -2169,9 +2181,9 @@
          "name": "Hofstra Pride",
          "short": "Pride",
          "abbr": "HOF",
-         "score": 46,
+         "score": 49,
          "ha": "home",
-         "winner": null,
+         "winner": false,
          "linescores": [
           0,
           0
@@ -2269,10 +2281,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "11:42 - 1st",
+       "detail": "11:20 - 1st",
        "start": "2026-11-27T22:00Z",
        "period": 1,
-       "clock": "11:42",
+       "clock": "11:20",
        "teams": [
         {
          "name": "Marquette Golden Eagles",
@@ -2331,10 +2343,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P3 10:57",
+       "detail": "P3 10:10",
        "start": "2026-11-27T20:00:00Z",
        "period": 3,
-       "clock": "10:57",
+       "clock": "10:10",
        "teams": [
         {
          "name": "Senators",
@@ -2349,7 +2361,7 @@
          "name": "Lightning",
          "short": "TBL",
          "abbr": "TBL",
-         "score": 0,
+         "score": 1,
          "ha": "home",
          "winner": null,
          "linescores": []
@@ -2390,10 +2402,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "End of 3rd",
+       "detail": "13:10 - 4th",
        "start": "2026-11-27T20:00Z",
-       "period": 3,
-       "clock": "0:00",
+       "period": 4,
+       "clock": "13:10",
        "teams": [
         {
          "name": "Denver Broncos",
@@ -2403,6 +2415,7 @@
          "ha": "away",
          "winner": null,
          "linescores": [
+          0,
           0,
           0,
           0
@@ -2416,6 +2429,7 @@
          "ha": "home",
          "winner": null,
          "linescores": [
+          0,
           0,
           0,
           0
