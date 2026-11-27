@@ -1,5 +1,5 @@
 {
- "updated": "Nov 27, 2026, 2:59 PM PT",
+ "updated": "Nov 27, 2026, 3:05 PM PT",
  "record": {
   "w": 292,
   "l": 292,
@@ -127,64 +127,6 @@
   }
  ],
  "picks": [
-  {
-   "n": 1079,
-   "league": "NCAAB",
-   "type": "Over/Under",
-   "matchup": "West Kentucky Hilltoppers @ Illinois Fighting Illini",
-   "pick": "Under 176",
-   "odds": -110,
-   "units": 1.0,
-   "gap": null,
-   "start": "2026-11-27T15:00:00",
-   "timed": true,
-   "ticket": "single",
-   "espn": {
-    "legs": [
-     {
-      "kind": "total",
-      "side": null,
-      "ou": "U",
-      "line": 176.0,
-      "label": "U 176.0",
-      "path": "basketball/mens-college-basketball",
-      "event": "401913531",
-      "date": "20261127",
-      "snapshot": {
-       "source": "espn",
-       "state": "pre",
-       "detail": "11/27 - 6:00 PM EST",
-       "start": "2026-11-27T23:00Z",
-       "period": null,
-       "clock": null,
-       "teams": [
-        {
-         "name": "Western Kentucky Hilltoppers",
-         "short": "Hilltoppers",
-         "abbr": "WKU",
-         "score": 0,
-         "ha": "away",
-         "winner": null,
-         "linescores": []
-        },
-        {
-         "name": "Illinois Fighting Illini",
-         "short": "Fighting Illini",
-         "abbr": "ILL",
-         "score": 0,
-         "ha": "home",
-         "winner": null,
-         "linescores": []
-        }
-       ]
-      },
-      "source": "espn"
-     }
-    ],
-    "sport": "NCAAB",
-    "ticket": "single"
-   }
-  },
   {
    "n": 1077,
    "league": "NBA",
@@ -1305,10 +1247,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "6:19 - 3rd",
+       "detail": "4:50 - 3rd",
        "start": "2026-11-27T20:00Z",
        "period": 3,
-       "clock": "6:19",
+       "clock": "4:50",
        "teams": [
         {
          "name": "Denver Broncos",
@@ -1426,10 +1368,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P1 04:57",
+       "detail": "P2 20:00",
        "start": "2026-11-27T21:00:00Z",
-       "period": 1,
-       "clock": "04:57",
+       "period": 2,
+       "clock": "20:00",
        "teams": [
         {
          "name": "Avalanche",
@@ -1579,10 +1521,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "6:19 - 3rd",
+       "detail": "4:50 - 3rd",
        "start": "2026-11-27T20:00Z",
        "period": 3,
-       "clock": "6:19",
+       "clock": "4:50",
        "teams": [
         {
          "name": "Denver Broncos",
@@ -1656,10 +1598,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "6:19 - 3rd",
+       "detail": "4:50 - 3rd",
        "start": "2026-11-27T20:00Z",
        "period": 3,
-       "clock": "6:19",
+       "clock": "4:50",
        "teams": [
         {
          "name": "Denver Broncos",
@@ -1705,10 +1647,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "6:19 - 3rd",
+       "detail": "4:50 - 3rd",
        "start": "2026-11-27T20:00Z",
        "period": 3,
-       "clock": "6:19",
+       "clock": "4:50",
        "teams": [
         {
          "name": "Denver Broncos",
@@ -2012,10 +1954,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "6:19 - 3rd",
+       "detail": "4:50 - 3rd",
        "start": "2026-11-27T20:00Z",
        "period": 3,
-       "clock": "6:19",
+       "clock": "4:50",
        "teams": [
         {
          "name": "Denver Broncos",
@@ -2080,10 +2022,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "6:19 - 3rd",
+       "detail": "4:50 - 3rd",
        "start": "2026-11-27T20:00Z",
        "period": 3,
-       "clock": "6:19",
+       "clock": "4:50",
        "teams": [
         {
          "name": "Denver Broncos",
@@ -2146,10 +2088,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "8:51 - 2nd",
+       "detail": "7:46 - 2nd",
        "start": "2026-11-27T20:30Z",
        "period": 2,
-       "clock": "8:51",
+       "clock": "7:46",
        "teams": [
         {
          "name": "Colgate Raiders",
@@ -2167,13 +2109,71 @@
          "name": "Hofstra Pride",
          "short": "Pride",
          "abbr": "HOF",
-         "score": 32,
+         "score": 34,
          "ha": "home",
          "winner": null,
          "linescores": [
           0,
           0
          ]
+        }
+       ]
+      },
+      "source": "espn"
+     }
+    ],
+    "sport": "NCAAB",
+    "ticket": "single"
+   }
+  },
+  {
+   "n": 1079,
+   "league": "NCAAB",
+   "type": "Over/Under",
+   "matchup": "West Kentucky Hilltoppers @ Illinois Fighting Illini",
+   "pick": "Under 176",
+   "odds": -110,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-27T15:00:00",
+   "timed": true,
+   "ticket": "single",
+   "espn": {
+    "legs": [
+     {
+      "kind": "total",
+      "side": null,
+      "ou": "U",
+      "line": 176.0,
+      "label": "U 176.0",
+      "path": "basketball/mens-college-basketball",
+      "event": "401913531",
+      "date": "20261127",
+      "snapshot": {
+       "source": "espn",
+       "state": "pre",
+       "detail": "11/27 - 6:00 PM EST",
+       "start": "2026-11-27T23:00Z",
+       "period": null,
+       "clock": null,
+       "teams": [
+        {
+         "name": "Western Kentucky Hilltoppers",
+         "short": "Hilltoppers",
+         "abbr": "WKU",
+         "score": 0,
+         "ha": "away",
+         "winner": null,
+         "linescores": []
+        },
+        {
+         "name": "Illinois Fighting Illini",
+         "short": "Fighting Illini",
+         "abbr": "ILL",
+         "score": 0,
+         "ha": "home",
+         "winner": null,
+         "linescores": []
         }
        ]
       },
@@ -2208,20 +2208,22 @@
       "date": "20261127",
       "snapshot": {
        "source": "espn",
-       "state": "pre",
-       "detail": "11/27 - 5:00 PM EST",
+       "state": "in",
+       "detail": "18:22 - 1st",
        "start": "2026-11-27T22:00Z",
-       "period": null,
-       "clock": null,
+       "period": 1,
+       "clock": "18:22",
        "teams": [
         {
          "name": "Marquette Golden Eagles",
          "short": "Golden Eagles",
          "abbr": "MARQ",
-         "score": 0,
+         "score": 6,
          "ha": "away",
          "winner": null,
-         "linescores": []
+         "linescores": [
+          0
+         ]
         },
         {
          "name": "Texas A&M Aggies",
@@ -2230,7 +2232,9 @@
          "score": 0,
          "ha": "home",
          "winner": null,
-         "linescores": []
+         "linescores": [
+          0
+         ]
         }
        ]
       },
@@ -2267,10 +2271,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P2 01:58",
+       "detail": "P3 18:48",
        "start": "2026-11-27T20:00:00Z",
-       "period": 2,
-       "clock": "01:58",
+       "period": 3,
+       "clock": "18:48",
        "teams": [
         {
          "name": "Senators",
@@ -2326,10 +2330,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "6:19 - 3rd",
+       "detail": "4:50 - 3rd",
        "start": "2026-11-27T20:00Z",
        "period": 3,
-       "clock": "6:19",
+       "clock": "4:50",
        "teams": [
         {
          "name": "Denver Broncos",
