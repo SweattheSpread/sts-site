@@ -1,5 +1,5 @@
 {
- "updated": "Nov 27, 2026, 3:14 PM PT",
+ "updated": "Nov 27, 2026, 3:16 PM PT",
  "record": {
   "w": 292,
   "l": 292,
@@ -1426,10 +1426,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P2 13:59",
+       "detail": "P2 11:57",
        "start": "2026-11-27T21:00:00Z",
        "period": 2,
-       "clock": "13:59",
+       "clock": "11:57",
        "teams": [
         {
          "name": "Avalanche",
@@ -1485,10 +1485,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "13:11 - 3rd",
+       "detail": "12:40 - 3rd",
        "start": "2026-11-27T20:30Z",
        "period": 3,
-       "clock": "13:11",
+       "clock": "12:40",
        "teams": [
         {
          "name": "Temple Owls",
@@ -1507,7 +1507,7 @@
          "name": "Memphis Tigers",
          "short": "Tigers",
          "abbr": "MEM",
-         "score": 17,
+         "score": 24,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -2148,10 +2148,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "3:20 - 2nd",
+       "detail": "2:06 - 2nd",
        "start": "2026-11-27T20:30Z",
        "period": 2,
-       "clock": "3:20",
+       "clock": "2:06",
        "teams": [
         {
          "name": "Colgate Raiders",
@@ -2169,7 +2169,7 @@
          "name": "Hofstra Pride",
          "short": "Pride",
          "abbr": "HOF",
-         "score": 40,
+         "score": 43,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -2269,10 +2269,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "14:32 - 1st",
+       "detail": "13:31 - 1st",
        "start": "2026-11-27T22:00Z",
        "period": 1,
-       "clock": "14:32",
+       "clock": "13:31",
        "teams": [
         {
          "name": "Marquette Golden Eagles",
@@ -2331,10 +2331,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P3 13:01",
+       "detail": "P3 12:21",
        "start": "2026-11-27T20:00:00Z",
        "period": 3,
-       "clock": "13:01",
+       "clock": "12:21",
        "teams": [
         {
          "name": "Senators",
