@@ -1,5 +1,5 @@
 {
- "updated": "Nov 27, 2026, 11:54 AM PT",
+ "updated": "Nov 27, 2026, 12:03 PM PT",
  "record": {
   "w": 292,
   "l": 292,
@@ -127,338 +127,6 @@
   }
  ],
  "picks": [
-  {
-   "n": 1032,
-   "league": "NFL",
-   "type": "Moneyline",
-   "matchup": "Denver Broncos @ Pittsburgh Steelers",
-   "pick": "Pittsburgh Steelers ML",
-   "odds": 168,
-   "units": 1.0,
-   "gap": null,
-   "start": "2026-11-27T12:00:00",
-   "timed": true,
-   "ticket": "single",
-   "espn": {
-    "legs": [
-     {
-      "kind": "ml",
-      "side": "Pittsburgh Steelers",
-      "label": "Pittsburgh Steelers ML",
-      "path": "football/nfl",
-      "event": "401873083",
-      "date": "20261127",
-      "snapshot": {
-       "source": "espn",
-       "state": "pre",
-       "detail": "11/27 - 3:00 PM EST",
-       "start": "2026-11-27T20:00Z",
-       "period": null,
-       "clock": null,
-       "teams": [
-        {
-         "name": "Denver Broncos",
-         "short": "Broncos",
-         "abbr": "DEN",
-         "score": 0,
-         "ha": "away",
-         "winner": null,
-         "linescores": []
-        },
-        {
-         "name": "Pittsburgh Steelers",
-         "short": "Steelers",
-         "abbr": "PIT",
-         "score": 0,
-         "ha": "home",
-         "winner": null,
-         "linescores": []
-        }
-       ]
-      },
-      "source": "espn"
-     }
-    ],
-    "sport": "NFL",
-    "ticket": "single"
-   }
-  },
-  {
-   "n": 1063,
-   "league": "NFL",
-   "type": "Parlay",
-   "matchup": "Denver Broncos @ Pittsburgh Steelers",
-   "pick": "2-leg SGP Jonah Coleman 70+ rushing yds + Jonah Coleman anytime TD",
-   "odds": 130,
-   "units": 3.0,
-   "gap": null,
-   "start": "2026-11-27T12:00:00",
-   "timed": true,
-   "ticket": "sgp",
-   "espn": {
-    "legs": [
-     {
-      "kind": "prop",
-      "player": "2-leg SGP Jonah Coleman",
-      "ou": "O",
-      "line": 69.5,
-      "stat": "rushing yds",
-      "label": "2-leg SGP Jonah Coleman O 69.5 rushing yds",
-      "path": "football/nfl",
-      "event": "401873083",
-      "date": "20261127",
-      "snapshot": {
-       "source": "espn",
-       "state": "pre",
-       "detail": "11/27 - 3:00 PM EST",
-       "start": "2026-11-27T20:00Z",
-       "period": null,
-       "clock": null,
-       "teams": [
-        {
-         "name": "Denver Broncos",
-         "short": "Broncos",
-         "abbr": "DEN",
-         "score": 0,
-         "ha": "away",
-         "winner": null,
-         "linescores": []
-        },
-        {
-         "name": "Pittsburgh Steelers",
-         "short": "Steelers",
-         "abbr": "PIT",
-         "score": 0,
-         "ha": "home",
-         "winner": null,
-         "linescores": []
-        }
-       ]
-      },
-      "source": "espn"
-     },
-     {
-      "kind": "prop",
-      "player": "Jonah Coleman",
-      "ou": "O",
-      "line": 0.5,
-      "stat": "anytime td",
-      "label": "Jonah Coleman O 0.5 anytime td",
-      "path": "football/nfl",
-      "event": "401873083",
-      "date": "20261127",
-      "snapshot": {
-       "source": "espn",
-       "state": "pre",
-       "detail": "11/27 - 3:00 PM EST",
-       "start": "2026-11-27T20:00Z",
-       "period": null,
-       "clock": null,
-       "teams": [
-        {
-         "name": "Denver Broncos",
-         "short": "Broncos",
-         "abbr": "DEN",
-         "score": 0,
-         "ha": "away",
-         "winner": null,
-         "linescores": []
-        },
-        {
-         "name": "Pittsburgh Steelers",
-         "short": "Steelers",
-         "abbr": "PIT",
-         "score": 0,
-         "ha": "home",
-         "winner": null,
-         "linescores": []
-        }
-       ]
-      },
-      "source": "espn"
-     }
-    ],
-    "sport": "NFL",
-    "ticket": "sgp"
-   }
-  },
-  {
-   "n": 1074,
-   "league": "NFL",
-   "type": "Player Prop",
-   "matchup": "Denver Broncos @ Pittsburgh Steelers",
-   "pick": "Chris Boswell (PIT K) Over 5.5 kicking points (player prop)",
-   "odds": -122,
-   "units": 5.0,
-   "gap": null,
-   "start": "2026-11-27T12:00:00",
-   "timed": true,
-   "ticket": "single",
-   "espn": {
-    "legs": [
-     {
-      "kind": "prop",
-      "player": "Chris Boswell",
-      "ou": "O",
-      "line": 5.5,
-      "stat": "kicking points",
-      "label": "Chris Boswell O 5.5 kicking points",
-      "path": "football/nfl",
-      "event": "401873083",
-      "date": "20261127",
-      "snapshot": {
-       "source": "espn",
-       "state": "pre",
-       "detail": "11/27 - 3:00 PM EST",
-       "start": "2026-11-27T20:00Z",
-       "period": null,
-       "clock": null,
-       "teams": [
-        {
-         "name": "Denver Broncos",
-         "short": "Broncos",
-         "abbr": "DEN",
-         "score": 0,
-         "ha": "away",
-         "winner": null,
-         "linescores": []
-        },
-        {
-         "name": "Pittsburgh Steelers",
-         "short": "Steelers",
-         "abbr": "PIT",
-         "score": 0,
-         "ha": "home",
-         "winner": null,
-         "linescores": []
-        }
-       ]
-      },
-      "source": "espn"
-     }
-    ],
-    "sport": "NFL",
-    "ticket": "single"
-   }
-  },
-  {
-   "n": 1075,
-   "league": "NFL",
-   "type": "Player Prop",
-   "matchup": "Denver Broncos @ Pittsburgh Steelers",
-   "pick": "Jonah Coleman (DEN RB) Over 21.5 receiving yards (player prop)",
-   "odds": -115,
-   "units": 3.0,
-   "gap": null,
-   "start": "2026-11-27T12:00:00",
-   "timed": true,
-   "ticket": "single",
-   "espn": {
-    "legs": [
-     {
-      "kind": "prop",
-      "player": "Jonah Coleman",
-      "ou": "O",
-      "line": 21.5,
-      "stat": "receiving yards",
-      "label": "Jonah Coleman O 21.5 receiving yards",
-      "path": "football/nfl",
-      "event": "401873083",
-      "date": "20261127",
-      "snapshot": {
-       "source": "espn",
-       "state": "pre",
-       "detail": "11/27 - 3:00 PM EST",
-       "start": "2026-11-27T20:00Z",
-       "period": null,
-       "clock": null,
-       "teams": [
-        {
-         "name": "Denver Broncos",
-         "short": "Broncos",
-         "abbr": "DEN",
-         "score": 0,
-         "ha": "away",
-         "winner": null,
-         "linescores": []
-        },
-        {
-         "name": "Pittsburgh Steelers",
-         "short": "Steelers",
-         "abbr": "PIT",
-         "score": 0,
-         "ha": "home",
-         "winner": null,
-         "linescores": []
-        }
-       ]
-      },
-      "source": "espn"
-     }
-    ],
-    "sport": "NFL",
-    "ticket": "single"
-   }
-  },
-  {
-   "n": 1082,
-   "league": "NHL",
-   "type": "Spread",
-   "matchup": "Ottawa Senators @ Tampa Bay Lightning",
-   "pick": "Claude Giroux (OTT) Under 0.5 points (player prop)",
-   "odds": -120,
-   "units": 1.0,
-   "gap": null,
-   "start": "2026-11-27T12:00:00",
-   "timed": true,
-   "ticket": "single",
-   "espn": {
-    "legs": [
-     {
-      "kind": "team_total",
-      "side": "Claude Giroux",
-      "ou": "U",
-      "line": 0.5,
-      "label": "Claude Giroux U 0.5",
-      "path": "hockey/nhl",
-      "event": "401892799",
-      "date": "20261127",
-      "snapshot": {
-       "source": "nhl",
-       "state": "pre",
-       "detail": "Scheduled",
-       "start": "2026-11-27T20:00:00Z",
-       "period": null,
-       "clock": null,
-       "teams": [
-        {
-         "name": "Senators",
-         "short": "OTT",
-         "abbr": "OTT",
-         "score": 0,
-         "ha": "away",
-         "winner": null,
-         "linescores": []
-        },
-        {
-         "name": "Lightning",
-         "short": "TBL",
-         "abbr": "TBL",
-         "score": 0,
-         "ha": "home",
-         "winner": null,
-         "linescores": []
-        }
-       ],
-       "nhl_id": 2026020404
-      },
-      "source": "nhl"
-     }
-    ],
-    "sport": "NHL",
-    "ticket": "single"
-   }
-  },
   {
    "n": 1059,
    "league": "NCAAF",
@@ -1900,6 +1568,66 @@
  ],
  "awaiting": [
   {
+   "n": 1032,
+   "league": "NFL",
+   "type": "Moneyline",
+   "matchup": "Denver Broncos @ Pittsburgh Steelers",
+   "pick": "Pittsburgh Steelers ML",
+   "odds": 168,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-27T12:00:00",
+   "timed": true,
+   "ticket": "single",
+   "espn": {
+    "legs": [
+     {
+      "kind": "ml",
+      "side": "Pittsburgh Steelers",
+      "label": "Pittsburgh Steelers ML",
+      "path": "football/nfl",
+      "event": "401873083",
+      "date": "20261127",
+      "snapshot": {
+       "source": "espn",
+       "state": "in",
+       "detail": "15:00 - 1st",
+       "start": "2026-11-27T20:00Z",
+       "period": 1,
+       "clock": "15:00",
+       "teams": [
+        {
+         "name": "Denver Broncos",
+         "short": "Broncos",
+         "abbr": "DEN",
+         "score": 0,
+         "ha": "away",
+         "winner": null,
+         "linescores": [
+          0
+         ]
+        },
+        {
+         "name": "Pittsburgh Steelers",
+         "short": "Steelers",
+         "abbr": "PIT",
+         "score": 0,
+         "ha": "home",
+         "winner": null,
+         "linescores": [
+          0
+         ]
+        }
+       ]
+      },
+      "source": "espn"
+     }
+    ],
+    "sport": "NFL",
+    "ticket": "single"
+   }
+  },
+  {
    "n": 1062,
    "league": "NFL",
    "type": "Parlay",
@@ -1954,11 +1682,11 @@
       "date": "20261126",
       "snapshot": {
        "source": "espn",
-       "state": "pre",
-       "detail": "11/27 - 3:00 PM EST",
+       "state": "in",
+       "detail": "15:00 - 1st",
        "start": "2026-11-27T20:00Z",
-       "period": null,
-       "clock": null,
+       "period": 1,
+       "clock": "15:00",
        "teams": [
         {
          "name": "Denver Broncos",
@@ -1967,7 +1695,9 @@
          "score": 0,
          "ha": "away",
          "winner": null,
-         "linescores": []
+         "linescores": [
+          0
+         ]
         },
         {
          "name": "Pittsburgh Steelers",
@@ -1976,9 +1706,12 @@
          "score": 0,
          "ha": "home",
          "winner": null,
-         "linescores": []
+         "linescores": [
+          0
+         ]
         }
-       ]
+       ],
+       "stat": null
       },
       "source": "espn"
      },
@@ -1990,6 +1723,115 @@
       "stat": "anytime td",
       "label": "Jonah Coleman O 0.5 anytime td",
       "unverified": true
+     }
+    ],
+    "sport": "NFL",
+    "ticket": "sgp"
+   }
+  },
+  {
+   "n": 1063,
+   "league": "NFL",
+   "type": "Parlay",
+   "matchup": "Denver Broncos @ Pittsburgh Steelers",
+   "pick": "2-leg SGP Jonah Coleman 70+ rushing yds + Jonah Coleman anytime TD",
+   "odds": 130,
+   "units": 3.0,
+   "gap": null,
+   "start": "2026-11-27T12:00:00",
+   "timed": true,
+   "ticket": "sgp",
+   "espn": {
+    "legs": [
+     {
+      "kind": "prop",
+      "player": "2-leg SGP Jonah Coleman",
+      "ou": "O",
+      "line": 69.5,
+      "stat": "rushing yds",
+      "label": "2-leg SGP Jonah Coleman O 69.5 rushing yds",
+      "path": "football/nfl",
+      "event": "401873083",
+      "date": "20261127",
+      "snapshot": {
+       "source": "espn",
+       "state": "in",
+       "detail": "15:00 - 1st",
+       "start": "2026-11-27T20:00Z",
+       "period": 1,
+       "clock": "15:00",
+       "teams": [
+        {
+         "name": "Denver Broncos",
+         "short": "Broncos",
+         "abbr": "DEN",
+         "score": 0,
+         "ha": "away",
+         "winner": null,
+         "linescores": [
+          0
+         ]
+        },
+        {
+         "name": "Pittsburgh Steelers",
+         "short": "Steelers",
+         "abbr": "PIT",
+         "score": 0,
+         "ha": "home",
+         "winner": null,
+         "linescores": [
+          0
+         ]
+        }
+       ],
+       "stat": null
+      },
+      "source": "espn"
+     },
+     {
+      "kind": "prop",
+      "player": "Jonah Coleman",
+      "ou": "O",
+      "line": 0.5,
+      "stat": "anytime td",
+      "label": "Jonah Coleman O 0.5 anytime td",
+      "path": "football/nfl",
+      "event": "401873083",
+      "date": "20261127",
+      "snapshot": {
+       "source": "espn",
+       "state": "in",
+       "detail": "15:00 - 1st",
+       "start": "2026-11-27T20:00Z",
+       "period": 1,
+       "clock": "15:00",
+       "teams": [
+        {
+         "name": "Denver Broncos",
+         "short": "Broncos",
+         "abbr": "DEN",
+         "score": 0,
+         "ha": "away",
+         "winner": null,
+         "linescores": [
+          0
+         ]
+        },
+        {
+         "name": "Pittsburgh Steelers",
+         "short": "Steelers",
+         "abbr": "PIT",
+         "score": 0,
+         "ha": "home",
+         "winner": null,
+         "linescores": [
+          0
+         ]
+        }
+       ],
+       "stat": null
+      },
+      "source": "espn"
      }
     ],
     "sport": "NFL",
@@ -2084,19 +1926,20 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "Halftime",
+       "detail": "16:38 - 2nd",
        "start": "2026-11-27T19:00Z",
-       "period": 1,
-       "clock": "0:00",
+       "period": 2,
+       "clock": "16:38",
        "teams": [
         {
          "name": "Fresno State Bulldogs",
          "short": "Bulldogs",
          "abbr": "FRES",
-         "score": 42,
+         "score": 45,
          "ha": "away",
          "winner": null,
          "linescores": [
+          0,
           0
          ]
         },
@@ -2104,10 +1947,11 @@
          "name": "South Alabama Jaguars",
          "short": "Jaguars",
          "abbr": "USA",
-         "score": 30,
+         "score": 37,
          "ha": "home",
          "winner": null,
          "linescores": [
+          0,
           0
          ]
         }
@@ -2226,6 +2070,193 @@
      }
     ],
     "sport": "Soccer",
+    "ticket": "single"
+   }
+  },
+  {
+   "n": 1074,
+   "league": "NFL",
+   "type": "Player Prop",
+   "matchup": "Denver Broncos @ Pittsburgh Steelers",
+   "pick": "Chris Boswell (PIT K) Over 5.5 kicking points (player prop)",
+   "odds": -122,
+   "units": 5.0,
+   "gap": null,
+   "start": "2026-11-27T12:00:00",
+   "timed": true,
+   "ticket": "single",
+   "espn": {
+    "legs": [
+     {
+      "kind": "prop",
+      "player": "Chris Boswell",
+      "ou": "O",
+      "line": 5.5,
+      "stat": "kicking points",
+      "label": "Chris Boswell O 5.5 kicking points",
+      "path": "football/nfl",
+      "event": "401873083",
+      "date": "20261127",
+      "snapshot": {
+       "source": "espn",
+       "state": "in",
+       "detail": "15:00 - 1st",
+       "start": "2026-11-27T20:00Z",
+       "period": 1,
+       "clock": "15:00",
+       "teams": [
+        {
+         "name": "Denver Broncos",
+         "short": "Broncos",
+         "abbr": "DEN",
+         "score": 0,
+         "ha": "away",
+         "winner": null,
+         "linescores": [
+          0
+         ]
+        },
+        {
+         "name": "Pittsburgh Steelers",
+         "short": "Steelers",
+         "abbr": "PIT",
+         "score": 0,
+         "ha": "home",
+         "winner": null,
+         "linescores": [
+          0
+         ]
+        }
+       ],
+       "stat": null
+      },
+      "source": "espn"
+     }
+    ],
+    "sport": "NFL",
+    "ticket": "single"
+   }
+  },
+  {
+   "n": 1075,
+   "league": "NFL",
+   "type": "Player Prop",
+   "matchup": "Denver Broncos @ Pittsburgh Steelers",
+   "pick": "Jonah Coleman (DEN RB) Over 21.5 receiving yards (player prop)",
+   "odds": -115,
+   "units": 3.0,
+   "gap": null,
+   "start": "2026-11-27T12:00:00",
+   "timed": true,
+   "ticket": "single",
+   "espn": {
+    "legs": [
+     {
+      "kind": "prop",
+      "player": "Jonah Coleman",
+      "ou": "O",
+      "line": 21.5,
+      "stat": "receiving yards",
+      "label": "Jonah Coleman O 21.5 receiving yards",
+      "path": "football/nfl",
+      "event": "401873083",
+      "date": "20261127",
+      "snapshot": {
+       "source": "espn",
+       "state": "in",
+       "detail": "15:00 - 1st",
+       "start": "2026-11-27T20:00Z",
+       "period": 1,
+       "clock": "15:00",
+       "teams": [
+        {
+         "name": "Denver Broncos",
+         "short": "Broncos",
+         "abbr": "DEN",
+         "score": 0,
+         "ha": "away",
+         "winner": null,
+         "linescores": [
+          0
+         ]
+        },
+        {
+         "name": "Pittsburgh Steelers",
+         "short": "Steelers",
+         "abbr": "PIT",
+         "score": 0,
+         "ha": "home",
+         "winner": null,
+         "linescores": [
+          0
+         ]
+        }
+       ],
+       "stat": null
+      },
+      "source": "espn"
+     }
+    ],
+    "sport": "NFL",
+    "ticket": "single"
+   }
+  },
+  {
+   "n": 1082,
+   "league": "NHL",
+   "type": "Spread",
+   "matchup": "Ottawa Senators @ Tampa Bay Lightning",
+   "pick": "Claude Giroux (OTT) Under 0.5 points (player prop)",
+   "odds": -120,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-27T12:00:00",
+   "timed": true,
+   "ticket": "single",
+   "espn": {
+    "legs": [
+     {
+      "kind": "team_total",
+      "side": "Claude Giroux",
+      "ou": "U",
+      "line": 0.5,
+      "label": "Claude Giroux U 0.5",
+      "path": "hockey/nhl",
+      "event": "401892799",
+      "date": "20261127",
+      "snapshot": {
+       "source": "nhl",
+       "state": "pre",
+       "detail": "Scheduled",
+       "start": "2026-11-27T20:00:00Z",
+       "period": null,
+       "clock": null,
+       "teams": [
+        {
+         "name": "Senators",
+         "short": "OTT",
+         "abbr": "OTT",
+         "score": 0,
+         "ha": "away",
+         "winner": null,
+         "linescores": []
+        },
+        {
+         "name": "Lightning",
+         "short": "TBL",
+         "abbr": "TBL",
+         "score": 0,
+         "ha": "home",
+         "winner": null,
+         "linescores": []
+        }
+       ],
+       "nhl_id": 2026020404
+      },
+      "source": "nhl"
+     }
+    ],
+    "sport": "NHL",
     "ticket": "single"
    }
   }
