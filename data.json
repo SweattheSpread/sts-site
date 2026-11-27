@@ -1,5 +1,5 @@
 {
- "updated": "Nov 27, 2026, 4:42 AM PT",
+ "updated": "Nov 27, 2026, 6:32 AM PT",
  "record": {
   "w": 292,
   "l": 292,
@@ -11,7 +11,7 @@
   "first": "2026-10-12",
   "last": "2026-11-26"
  },
- "pending": 24,
+ "pending": 26,
  "latest": [
   {
    "n": 1065,
@@ -295,6 +295,54 @@
      }
     ],
     "sport": "NCAAB",
+    "ticket": "single"
+   }
+  },
+  {
+   "n": 1071,
+   "league": "Soccer",
+   "type": "Player Prop",
+   "matchup": "Soccer Ligue 1 Brest v Paris FC",
+   "pick": "Lassine Sinayoko (Paris FC) anytime goal",
+   "odds": 170,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-27T11:45:00",
+   "timed": true,
+   "ticket": "single",
+   "espn": {
+    "legs": [
+     {
+      "kind": "unknown",
+      "label": "Lassine Sinayoko anytime goal",
+      "unverified": true
+     }
+    ],
+    "sport": "Soccer",
+    "ticket": "single"
+   }
+  },
+  {
+   "n": 1072,
+   "league": "Soccer",
+   "type": "Player Prop",
+   "matchup": "Soccer Ligue 1 Brest v Paris FC",
+   "pick": "Ludovic Ajorque (Brest) anytime goal",
+   "odds": 250,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-27T11:45:00",
+   "timed": true,
+   "ticket": "single",
+   "espn": {
+    "legs": [
+     {
+      "kind": "unknown",
+      "label": "Ludovic Ajorque anytime goal",
+      "unverified": true
+     }
+    ],
+    "sport": "Soccer",
     "ticket": "single"
    }
   },
@@ -765,36 +813,7 @@
       "label": "Indianapolis Colts +6.5",
       "path": "football/nfl",
       "event": "401873088",
-      "date": "20261129",
-      "snapshot": {
-       "source": "espn",
-       "state": "pre",
-       "detail": "11/29 - 1:00 PM EST",
-       "start": "2026-11-29T18:00Z",
-       "period": null,
-       "clock": null,
-       "teams": [
-        {
-         "name": "New York Giants",
-         "short": "Giants",
-         "abbr": "NYG",
-         "score": 0,
-         "ha": "away",
-         "winner": null,
-         "linescores": []
-        },
-        {
-         "name": "Indianapolis Colts",
-         "short": "Colts",
-         "abbr": "IND",
-         "score": 0,
-         "ha": "home",
-         "winner": null,
-         "linescores": []
-        }
-       ]
-      },
-      "source": "espn"
+      "date": "20261129"
      }
     ],
     "sport": "NFL",

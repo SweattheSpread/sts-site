@@ -1,5 +1,5 @@
 {
- "updated": "Nov 27, 2026, 4:42 AM PT",
+ "updated": "Nov 27, 2026, 6:32 AM PT",
  "record": {
   "w": 292,
   "l": 292,
@@ -11,7 +11,7 @@
   "first": "2026-10-12",
   "last": "2026-11-26"
  },
- "pending": 24,
+ "pending": 26,
  "plays": [
   {
    "n": 334,
@@ -9688,6 +9688,38 @@
    "matchup": "Memphis Grizzlies @ Minnesota Timberwolves",
    "pick": "Jaylen Wells Over 3.5 rebounds",
    "odds": 125,
+   "units": 1.0,
+   "result": null,
+   "pl": null,
+   "pending": true
+  },
+  {
+   "n": 1071,
+   "date": "2026-11-27",
+   "day": "2026-11-27",
+   "league": "Soccer",
+   "market": "player_prop",
+   "market_label": "Player Prop",
+   "ticket": "single",
+   "matchup": "Soccer Ligue 1 Brest v Paris FC",
+   "pick": "Lassine Sinayoko (Paris FC) anytime goal",
+   "odds": 170,
+   "units": 1.0,
+   "result": null,
+   "pl": null,
+   "pending": true
+  },
+  {
+   "n": 1072,
+   "date": "2026-11-27",
+   "day": "2026-11-27",
+   "league": "Soccer",
+   "market": "player_prop",
+   "market_label": "Player Prop",
+   "ticket": "single",
+   "matchup": "Soccer Ligue 1 Brest v Paris FC",
+   "pick": "Ludovic Ajorque (Brest) anytime goal",
+   "odds": 250,
    "units": 1.0,
    "result": null,
    "pl": null,
