@@ -1,5 +1,5 @@
 {
- "updated": "Nov 26, 2026, 5:28 PM PT",
+ "updated": "Nov 26, 2026, 5:30 PM PT",
  "record": {
   "w": 283,
   "l": 287,
@@ -1327,11 +1327,11 @@
       "date": "20261126",
       "snapshot": {
        "source": "espn",
-       "state": "pre",
-       "detail": "11/26 - 8:20 PM EST",
+       "state": "in",
+       "detail": "14:53 - 1st",
        "start": "2026-11-27T01:20Z",
-       "period": null,
-       "clock": null,
+       "period": 1,
+       "clock": "14:53",
        "teams": [
         {
          "name": "Kansas City Chiefs",
@@ -1340,7 +1340,9 @@
          "score": 0,
          "ha": "away",
          "winner": null,
-         "linescores": []
+         "linescores": [
+          0
+         ]
         },
         {
          "name": "Buffalo Bills",
@@ -1349,7 +1351,9 @@
          "score": 0,
          "ha": "home",
          "winner": null,
-         "linescores": []
+         "linescores": [
+          0
+         ]
         }
        ]
       },
@@ -1451,11 +1455,11 @@
       "date": "20261126",
       "snapshot": {
        "source": "espn",
-       "state": "pre",
-       "detail": "11/26 - 8:20 PM EST",
+       "state": "in",
+       "detail": "14:53 - 1st",
        "start": "2026-11-27T01:20Z",
-       "period": null,
-       "clock": null,
+       "period": 1,
+       "clock": "14:53",
        "teams": [
         {
          "name": "Kansas City Chiefs",
@@ -1464,7 +1468,9 @@
          "score": 0,
          "ha": "away",
          "winner": null,
-         "linescores": []
+         "linescores": [
+          0
+         ]
         },
         {
          "name": "Buffalo Bills",
@@ -1473,7 +1479,9 @@
          "score": 0,
          "ha": "home",
          "winner": null,
-         "linescores": []
+         "linescores": [
+          0
+         ]
         }
        ]
       },
@@ -1713,11 +1721,11 @@
       "date": "20261126",
       "snapshot": {
        "source": "espn",
-       "state": "pre",
-       "detail": "11/26 - 8:20 PM EST",
+       "state": "in",
+       "detail": "14:53 - 1st",
        "start": "2026-11-27T01:20Z",
-       "period": null,
-       "clock": null,
+       "period": 1,
+       "clock": "14:53",
        "teams": [
         {
          "name": "Kansas City Chiefs",
@@ -1726,7 +1734,9 @@
          "score": 0,
          "ha": "away",
          "winner": null,
-         "linescores": []
+         "linescores": [
+          0
+         ]
         },
         {
          "name": "Buffalo Bills",
@@ -1735,7 +1745,9 @@
          "score": 0,
          "ha": "home",
          "winner": null,
-         "linescores": []
+         "linescores": [
+          0
+         ]
         }
        ]
       },
@@ -1771,11 +1783,11 @@
       "date": "20261126",
       "snapshot": {
        "source": "espn",
-       "state": "pre",
-       "detail": "11/26 - 8:20 PM EST",
+       "state": "in",
+       "detail": "14:53 - 1st",
        "start": "2026-11-27T01:20Z",
-       "period": null,
-       "clock": null,
+       "period": 1,
+       "clock": "14:53",
        "teams": [
         {
          "name": "Kansas City Chiefs",
@@ -1784,7 +1796,9 @@
          "score": 0,
          "ha": "away",
          "winner": null,
-         "linescores": []
+         "linescores": [
+          0
+         ]
         },
         {
          "name": "Buffalo Bills",
@@ -1793,7 +1807,9 @@
          "score": 0,
          "ha": "home",
          "winner": null,
-         "linescores": []
+         "linescores": [
+          0
+         ]
         }
        ]
       },
@@ -1830,11 +1846,11 @@
       "date": "20261126",
       "snapshot": {
        "source": "espn",
-       "state": "pre",
-       "detail": "11/26 - 8:20 PM EST",
+       "state": "in",
+       "detail": "14:53 - 1st",
        "start": "2026-11-27T01:20Z",
-       "period": null,
-       "clock": null,
+       "period": 1,
+       "clock": "14:53",
        "teams": [
         {
          "name": "Kansas City Chiefs",
@@ -1843,7 +1859,9 @@
          "score": 0,
          "ha": "away",
          "winner": null,
-         "linescores": []
+         "linescores": [
+          0
+         ]
         },
         {
          "name": "Buffalo Bills",
@@ -1852,9 +1870,12 @@
          "score": 0,
          "ha": "home",
          "winner": null,
-         "linescores": []
+         "linescores": [
+          0
+         ]
         }
-       ]
+       ],
+       "stat": null
       },
       "source": "espn"
      }
@@ -1889,11 +1910,11 @@
       "date": "20261126",
       "snapshot": {
        "source": "espn",
-       "state": "pre",
-       "detail": "11/26 - 8:20 PM EST",
+       "state": "in",
+       "detail": "14:53 - 1st",
        "start": "2026-11-27T01:20Z",
-       "period": null,
-       "clock": null,
+       "period": 1,
+       "clock": "14:53",
        "teams": [
         {
          "name": "Kansas City Chiefs",
@@ -1902,7 +1923,9 @@
          "score": 0,
          "ha": "away",
          "winner": null,
-         "linescores": []
+         "linescores": [
+          0
+         ]
         },
         {
          "name": "Buffalo Bills",
@@ -1911,9 +1934,12 @@
          "score": 0,
          "ha": "home",
          "winner": null,
-         "linescores": []
+         "linescores": [
+          0
+         ]
         }
-       ]
+       ],
+       "stat": null
       },
       "source": "espn"
      },
@@ -1929,11 +1955,11 @@
       "date": "20261126",
       "snapshot": {
        "source": "espn",
-       "state": "pre",
-       "detail": "11/26 - 8:20 PM EST",
+       "state": "in",
+       "detail": "14:53 - 1st",
        "start": "2026-11-27T01:20Z",
-       "period": null,
-       "clock": null,
+       "period": 1,
+       "clock": "14:53",
        "teams": [
         {
          "name": "Kansas City Chiefs",
@@ -1942,7 +1968,9 @@
          "score": 0,
          "ha": "away",
          "winner": null,
-         "linescores": []
+         "linescores": [
+          0
+         ]
         },
         {
          "name": "Buffalo Bills",
@@ -1951,9 +1979,12 @@
          "score": 0,
          "ha": "home",
          "winner": null,
-         "linescores": []
+         "linescores": [
+          0
+         ]
         }
-       ]
+       ],
+       "stat": null
       },
       "source": "espn"
      }
@@ -1988,11 +2019,11 @@
       "date": "20261126",
       "snapshot": {
        "source": "espn",
-       "state": "pre",
-       "detail": "11/26 - 8:20 PM EST",
+       "state": "in",
+       "detail": "14:53 - 1st",
        "start": "2026-11-27T01:20Z",
-       "period": null,
-       "clock": null,
+       "period": 1,
+       "clock": "14:53",
        "teams": [
         {
          "name": "Kansas City Chiefs",
@@ -2001,7 +2032,9 @@
          "score": 0,
          "ha": "away",
          "winner": null,
-         "linescores": []
+         "linescores": [
+          0
+         ]
         },
         {
          "name": "Buffalo Bills",
@@ -2010,9 +2043,12 @@
          "score": 0,
          "ha": "home",
          "winner": null,
-         "linescores": []
+         "linescores": [
+          0
+         ]
         }
-       ]
+       ],
+       "stat": null
       },
       "source": "espn"
      },
