@@ -1,5 +1,5 @@
 {
- "updated": "Nov 27, 2026, 4:32 PM PT",
+ "updated": "Nov 27, 2026, 4:41 PM PT",
  "record": {
   "w": 292,
   "l": 292,
@@ -127,65 +127,6 @@
   }
  ],
  "picks": [
-  {
-   "n": 1077,
-   "league": "NBA",
-   "type": "Player Prop",
-   "matchup": "Brooklyn Nets @ Toronto Raptors",
-   "pick": "Collin Murray-Boyles (TOR) Under 5.5 rebounds (player prop)",
-   "odds": -125,
-   "units": 1.0,
-   "gap": null,
-   "start": "2026-11-27T16:40:00",
-   "timed": true,
-   "ticket": "single",
-   "espn": {
-    "legs": [
-     {
-      "kind": "prop",
-      "player": "Collin Murray-Boyles",
-      "ou": "U",
-      "line": 5.5,
-      "stat": "rebounds",
-      "label": "Collin Murray-Boyles U 5.5 rebounds",
-      "path": "basketball/nba",
-      "event": "401909329",
-      "date": "20261127",
-      "snapshot": {
-       "source": "espn",
-       "state": "pre",
-       "detail": "11/27 - 7:30 PM EST",
-       "start": "2026-11-28T00:30Z",
-       "period": null,
-       "clock": null,
-       "teams": [
-        {
-         "name": "Brooklyn Nets",
-         "short": "Nets",
-         "abbr": "BKN",
-         "score": 0,
-         "ha": "away",
-         "winner": null,
-         "linescores": []
-        },
-        {
-         "name": "Toronto Raptors",
-         "short": "Raptors",
-         "abbr": "TOR",
-         "score": 0,
-         "ha": "home",
-         "winner": null,
-         "linescores": []
-        }
-       ]
-      },
-      "source": "espn"
-     }
-    ],
-    "sport": "NBA",
-    "ticket": "single"
-   }
-  },
   {
    "n": 1069,
    "league": "NHL",
@@ -1313,10 +1254,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P1 02:47",
+       "detail": "P2 17:48",
        "start": "2026-11-27T22:30:00Z",
-       "period": 1,
-       "clock": "02:47",
+       "period": 2,
+       "clock": "17:48",
        "teams": [
         {
          "name": "Rangers",
@@ -1370,16 +1311,16 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P3 04:08",
+       "detail": "P3 00:00",
        "start": "2026-11-27T21:00:00Z",
        "period": 3,
-       "clock": "04:08",
+       "clock": "00:00",
        "teams": [
         {
          "name": "Avalanche",
          "short": "COL",
          "abbr": "COL",
-         "score": 1,
+         "score": 3,
          "ha": "away",
          "winner": null,
          "linescores": []
@@ -1429,10 +1370,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "4:43 - 4th",
+       "detail": "1:49 - 4th",
        "start": "2026-11-27T20:30Z",
        "period": 4,
-       "clock": "4:43",
+       "clock": "1:49",
        "teams": [
         {
          "name": "Temple Owls",
@@ -1988,6 +1929,65 @@
    }
   },
   {
+   "n": 1077,
+   "league": "NBA",
+   "type": "Player Prop",
+   "matchup": "Brooklyn Nets @ Toronto Raptors",
+   "pick": "Collin Murray-Boyles (TOR) Under 5.5 rebounds (player prop)",
+   "odds": -125,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-27T16:40:00",
+   "timed": true,
+   "ticket": "single",
+   "espn": {
+    "legs": [
+     {
+      "kind": "prop",
+      "player": "Collin Murray-Boyles",
+      "ou": "U",
+      "line": 5.5,
+      "stat": "rebounds",
+      "label": "Collin Murray-Boyles U 5.5 rebounds",
+      "path": "basketball/nba",
+      "event": "401909329",
+      "date": "20261127",
+      "snapshot": {
+       "source": "espn",
+       "state": "pre",
+       "detail": "11/27 - 7:30 PM EST",
+       "start": "2026-11-28T00:30Z",
+       "period": null,
+       "clock": null,
+       "teams": [
+        {
+         "name": "Brooklyn Nets",
+         "short": "Nets",
+         "abbr": "BKN",
+         "score": 0,
+         "ha": "away",
+         "winner": null,
+         "linescores": []
+        },
+        {
+         "name": "Toronto Raptors",
+         "short": "Raptors",
+         "abbr": "TOR",
+         "score": 0,
+         "ha": "home",
+         "winner": null,
+         "linescores": []
+        }
+       ]
+      },
+      "source": "espn"
+     }
+    ],
+    "sport": "NBA",
+    "ticket": "single"
+   }
+  },
+  {
    "n": 1078,
    "league": "NCAAB",
    "type": "Spread",
@@ -2076,16 +2076,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "7:25 - 1st",
+       "detail": "4:16 - 1st",
        "start": "2026-11-27T23:00Z",
        "period": 1,
-       "clock": "7:25",
+       "clock": "4:16",
        "teams": [
         {
          "name": "Western Kentucky Hilltoppers",
          "short": "Hilltoppers",
          "abbr": "WKU",
-         "score": 24,
+         "score": 36,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -2096,7 +2096,7 @@
          "name": "Illinois Fighting Illini",
          "short": "Fighting Illini",
          "abbr": "ILL",
-         "score": 28,
+         "score": 38,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -2137,16 +2137,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "10:03 - 2nd",
+       "detail": "7:43 - 2nd",
        "start": "2026-11-27T22:00Z",
        "period": 2,
-       "clock": "10:03",
+       "clock": "7:43",
        "teams": [
         {
          "name": "Marquette Golden Eagles",
          "short": "Golden Eagles",
          "abbr": "MARQ",
-         "score": 66,
+         "score": 69,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -2158,7 +2158,7 @@
          "name": "Texas A&M Aggies",
          "short": "Aggies",
          "abbr": "TA&M",
-         "score": 57,
+         "score": 63,
          "ha": "home",
          "winner": null,
          "linescores": [
