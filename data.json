@@ -1,5 +1,5 @@
 {
- "updated": "Nov 27, 2026, 3:46 PM PT",
+ "updated": "Nov 27, 2026, 3:48 PM PT",
  "record": {
   "w": 292,
   "l": 292,
@@ -1371,10 +1371,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P1 15:51",
+       "detail": "P1 14:45",
        "start": "2026-11-27T22:30:00Z",
        "period": 1,
-       "clock": "15:51",
+       "clock": "14:45",
        "teams": [
         {
          "name": "Rangers",
@@ -1389,7 +1389,7 @@
          "name": "Blackhawks",
          "short": "CHI",
          "abbr": "CHI",
-         "score": 0,
+         "score": 1,
          "ha": "home",
          "winner": null,
          "linescores": []
@@ -1428,10 +1428,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P2 10:59",
+       "detail": "P2 08:58",
        "start": "2026-11-27T21:00:00Z",
        "period": 2,
-       "clock": "10:59",
+       "clock": "08:58",
        "teams": [
         {
          "name": "Avalanche",
@@ -1487,10 +1487,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "3:28 - 3rd",
+       "detail": "1:26 - 3rd",
        "start": "2026-11-27T20:30Z",
        "period": 3,
-       "clock": "3:28",
+       "clock": "1:26",
        "teams": [
         {
          "name": "Temple Owls",
@@ -1509,7 +1509,7 @@
          "name": "Memphis Tigers",
          "short": "Tigers",
          "abbr": "MEM",
-         "score": 24,
+         "score": 30,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -2281,16 +2281,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "0:58 - 1st",
+       "detail": "Halftime",
        "start": "2026-11-27T22:00Z",
        "period": 1,
-       "clock": "0:58",
+       "clock": "0:00",
        "teams": [
         {
          "name": "Marquette Golden Eagles",
          "short": "Golden Eagles",
          "abbr": "MARQ",
-         "score": 36,
+         "score": 40,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -2301,7 +2301,7 @@
          "name": "Texas A&M Aggies",
          "short": "Aggies",
          "abbr": "TA&M",
-         "score": 35,
+         "score": 37,
          "ha": "home",
          "winner": null,
          "linescores": [
