@@ -1,5 +1,5 @@
 {
- "updated": "Nov 26, 2026, 5:32 PM PT",
+ "updated": "Nov 26, 2026, 5:52 PM PT",
  "record": {
   "w": 283,
   "l": 287,
@@ -1260,11 +1260,11 @@
       "date": "20261126",
       "snapshot": {
        "source": "espn",
-       "state": "in",
-       "detail": "0:02 - 4th",
+       "state": "post",
+       "detail": "Final",
        "start": "2026-11-26T21:30Z",
-       "period": 4,
-       "clock": "0:02",
+       "period": null,
+       "clock": null,
        "teams": [
         {
          "name": "Philadelphia Eagles",
@@ -1272,7 +1272,7 @@
          "abbr": "PHI",
          "score": 39,
          "ha": "away",
-         "winner": null,
+         "winner": true,
          "linescores": [
           0,
           0,
@@ -1286,7 +1286,7 @@
          "abbr": "DAL",
          "score": 38,
          "ha": "home",
-         "winner": null,
+         "winner": false,
          "linescores": [
           0,
           0,
@@ -1328,10 +1328,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "12:29 - 1st",
+       "detail": "5:40 - 1st",
        "start": "2026-11-27T01:20Z",
        "period": 1,
-       "clock": "12:29",
+       "clock": "5:40",
        "teams": [
         {
          "name": "Kansas City Chiefs",
@@ -1389,11 +1389,11 @@
       "date": "20261126",
       "snapshot": {
        "source": "espn",
-       "state": "in",
-       "detail": "0:02 - 4th",
+       "state": "post",
+       "detail": "Final",
        "start": "2026-11-26T21:30Z",
-       "period": 4,
-       "clock": "0:02",
+       "period": null,
+       "clock": null,
        "teams": [
         {
          "name": "Philadelphia Eagles",
@@ -1401,7 +1401,7 @@
          "abbr": "PHI",
          "score": 39,
          "ha": "away",
-         "winner": null,
+         "winner": true,
          "linescores": [
           0,
           0,
@@ -1415,7 +1415,7 @@
          "abbr": "DAL",
          "score": 38,
          "ha": "home",
-         "winner": null,
+         "winner": false,
          "linescores": [
           0,
           0,
@@ -1456,10 +1456,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "12:29 - 1st",
+       "detail": "5:40 - 1st",
        "start": "2026-11-27T01:20Z",
        "period": 1,
-       "clock": "12:29",
+       "clock": "5:40",
        "teams": [
         {
          "name": "Kansas City Chiefs",
@@ -1653,11 +1653,11 @@
       "date": "20261126",
       "snapshot": {
        "source": "espn",
-       "state": "in",
-       "detail": "0:02 - 4th",
+       "state": "post",
+       "detail": "Final",
        "start": "2026-11-26T21:30Z",
-       "period": 4,
-       "clock": "0:02",
+       "period": null,
+       "clock": null,
        "teams": [
         {
          "name": "Philadelphia Eagles",
@@ -1665,7 +1665,7 @@
          "abbr": "PHI",
          "score": 39,
          "ha": "away",
-         "winner": null,
+         "winner": true,
          "linescores": [
           0,
           0,
@@ -1679,7 +1679,7 @@
          "abbr": "DAL",
          "score": 38,
          "ha": "home",
-         "winner": null,
+         "winner": false,
          "linescores": [
           0,
           0,
@@ -1722,10 +1722,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "12:29 - 1st",
+       "detail": "5:40 - 1st",
        "start": "2026-11-27T01:20Z",
        "period": 1,
-       "clock": "12:29",
+       "clock": "5:40",
        "teams": [
         {
          "name": "Kansas City Chiefs",
@@ -1784,10 +1784,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "12:29 - 1st",
+       "detail": "5:40 - 1st",
        "start": "2026-11-27T01:20Z",
        "period": 1,
-       "clock": "12:29",
+       "clock": "5:40",
        "teams": [
         {
          "name": "Kansas City Chiefs",
@@ -1847,10 +1847,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "12:29 - 1st",
+       "detail": "5:40 - 1st",
        "start": "2026-11-27T01:20Z",
        "period": 1,
-       "clock": "12:29",
+       "clock": "5:40",
        "teams": [
         {
          "name": "Kansas City Chiefs",
@@ -1911,10 +1911,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "12:29 - 1st",
+       "detail": "5:40 - 1st",
        "start": "2026-11-27T01:20Z",
        "period": 1,
-       "clock": "12:29",
+       "clock": "5:40",
        "teams": [
         {
          "name": "Kansas City Chiefs",
@@ -1956,10 +1956,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "12:29 - 1st",
+       "detail": "5:40 - 1st",
        "start": "2026-11-27T01:20Z",
        "period": 1,
-       "clock": "12:29",
+       "clock": "5:40",
        "teams": [
         {
          "name": "Kansas City Chiefs",
@@ -2020,10 +2020,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "12:29 - 1st",
+       "detail": "5:40 - 1st",
        "start": "2026-11-27T01:20Z",
        "period": 1,
-       "clock": "12:29",
+       "clock": "5:40",
        "teams": [
         {
          "name": "Kansas City Chiefs",
@@ -2206,11 +2206,11 @@
       "date": "20261126",
       "snapshot": {
        "source": "espn",
-       "state": "in",
-       "detail": "0:02 - 4th",
+       "state": "post",
+       "detail": "Final",
        "start": "2026-11-26T21:30Z",
-       "period": 4,
-       "clock": "0:02",
+       "period": null,
+       "clock": null,
        "teams": [
         {
          "name": "Philadelphia Eagles",
@@ -2218,7 +2218,7 @@
          "abbr": "PHI",
          "score": 39,
          "ha": "away",
-         "winner": null,
+         "winner": true,
          "linescores": [
           0,
           0,
@@ -2232,7 +2232,7 @@
          "abbr": "DAL",
          "score": 38,
          "ha": "home",
-         "winner": null,
+         "winner": false,
          "linescores": [
           0,
           0,
