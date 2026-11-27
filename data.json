@@ -1,5 +1,5 @@
 {
- "updated": "Nov 27, 2026, 1:06 PM PT",
+ "updated": "Nov 27, 2026, 1:08 PM PT",
  "record": {
   "w": 292,
   "l": 292,
@@ -1419,10 +1419,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "3:42 - 2nd",
+       "detail": "2:25 - 2nd",
        "start": "2026-11-27T20:00Z",
        "period": 2,
-       "clock": "3:42",
+       "clock": "2:25",
        "teams": [
         {
          "name": "Denver Broncos",
@@ -1480,11 +1480,11 @@
       "date": "20261127",
       "snapshot": {
        "source": "nhl",
-       "state": "pre",
-       "detail": "Scheduled",
+       "state": "in",
+       "detail": "P1 20:00",
        "start": "2026-11-27T21:00:00Z",
-       "period": null,
-       "clock": null,
+       "period": 1,
+       "clock": "20:00",
        "teams": [
         {
          "name": "Avalanche",
@@ -1540,10 +1540,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "2:58 - 1st",
+       "detail": "1:56 - 1st",
        "start": "2026-11-27T20:30Z",
        "period": 1,
-       "clock": "2:58",
+       "clock": "1:56",
        "teams": [
         {
          "name": "Temple Owls",
@@ -1632,10 +1632,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "3:42 - 2nd",
+       "detail": "2:25 - 2nd",
        "start": "2026-11-27T20:00Z",
        "period": 2,
-       "clock": "3:42",
+       "clock": "2:25",
        "teams": [
         {
          "name": "Denver Broncos",
@@ -1707,10 +1707,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "3:42 - 2nd",
+       "detail": "2:25 - 2nd",
        "start": "2026-11-27T20:00Z",
        "period": 2,
-       "clock": "3:42",
+       "clock": "2:25",
        "teams": [
         {
          "name": "Denver Broncos",
@@ -1754,10 +1754,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "3:42 - 2nd",
+       "detail": "2:25 - 2nd",
        "start": "2026-11-27T20:00Z",
        "period": 2,
-       "clock": "3:42",
+       "clock": "2:25",
        "teams": [
         {
          "name": "Denver Broncos",
@@ -1944,10 +1944,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "0:28 - 2nd",
+       "detail": "0:08 - 2nd",
        "start": "2026-11-27T19:00Z",
        "period": 2,
-       "clock": "0:28",
+       "clock": "0:08",
        "teams": [
         {
          "name": "Maine Black Bears",
@@ -1965,7 +1965,7 @@
          "name": "Le Moyne Dolphins",
          "short": "Dolphins",
          "abbr": "LEM",
-         "score": 73,
+         "score": 76,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -2057,10 +2057,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "3:42 - 2nd",
+       "detail": "2:25 - 2nd",
        "start": "2026-11-27T20:00Z",
        "period": 2,
-       "clock": "3:42",
+       "clock": "2:25",
        "teams": [
         {
          "name": "Denver Broncos",
@@ -2123,10 +2123,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "3:42 - 2nd",
+       "detail": "2:25 - 2nd",
        "start": "2026-11-27T20:00Z",
        "period": 2,
-       "clock": "3:42",
+       "clock": "2:25",
        "teams": [
         {
          "name": "Denver Broncos",
@@ -2187,10 +2187,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "3:58 - 1st",
+       "detail": "3:40 - 1st",
        "start": "2026-11-27T20:30Z",
        "period": 1,
-       "clock": "3:58",
+       "clock": "3:40",
        "teams": [
         {
          "name": "Colgate Raiders",
@@ -2249,10 +2249,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P2 20:00",
+       "detail": "P2 18:23",
        "start": "2026-11-27T20:00:00Z",
        "period": 2,
-       "clock": "20:00",
+       "clock": "18:23",
        "teams": [
         {
          "name": "Senators",
