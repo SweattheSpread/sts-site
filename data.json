@@ -1,5 +1,5 @@
 {
- "updated": "Nov 27, 2026, 3:57 PM PT",
+ "updated": "Nov 27, 2026, 3:59 PM PT",
  "record": {
   "w": 292,
   "l": 292,
@@ -1371,10 +1371,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P1 10:02",
+       "detail": "P1 09:24",
        "start": "2026-11-27T22:30:00Z",
        "period": 1,
-       "clock": "10:02",
+       "clock": "09:24",
        "teams": [
         {
          "name": "Rangers",
@@ -1428,10 +1428,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P3 20:00",
+       "detail": "P3 19:51",
        "start": "2026-11-27T21:00:00Z",
        "period": 3,
-       "clock": "20:00",
+       "clock": "19:51",
        "teams": [
         {
          "name": "Avalanche",
@@ -1487,10 +1487,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "14:55 - 4th",
+       "detail": "14:15 - 4th",
        "start": "2026-11-27T20:30Z",
        "period": 4,
-       "clock": "14:55",
+       "clock": "14:15",
        "teams": [
         {
          "name": "Temple Owls",
@@ -1514,6 +1514,7 @@
          "ha": "home",
          "winner": null,
          "linescores": [
+          0,
           0,
           0,
           0
