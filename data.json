@@ -1,5 +1,5 @@
 {
- "updated": "Nov 27, 2026, 4:41 PM PT",
+ "updated": "Nov 27, 2026, 4:43 PM PT",
  "record": {
   "w": 292,
   "l": 292,
@@ -1254,10 +1254,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P2 17:48",
+       "detail": "P2 16:45",
        "start": "2026-11-27T22:30:00Z",
        "period": 2,
-       "clock": "17:48",
+       "clock": "16:45",
        "teams": [
         {
          "name": "Rangers",
@@ -1311,10 +1311,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P3 00:00",
+       "detail": "P4 03:09",
        "start": "2026-11-27T21:00:00Z",
-       "period": 3,
-       "clock": "00:00",
+       "period": 4,
+       "clock": "03:09",
        "teams": [
         {
          "name": "Avalanche",
@@ -1370,10 +1370,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "1:49 - 4th",
+       "detail": "1:15 - 4th",
        "start": "2026-11-27T20:30Z",
        "period": 4,
-       "clock": "1:49",
+       "clock": "1:15",
        "teams": [
         {
          "name": "Temple Owls",
@@ -2076,10 +2076,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "4:16 - 1st",
+       "detail": "3:29 - 1st",
        "start": "2026-11-27T23:00Z",
        "period": 1,
-       "clock": "4:16",
+       "clock": "3:29",
        "teams": [
         {
          "name": "Western Kentucky Hilltoppers",
@@ -2096,7 +2096,7 @@
          "name": "Illinois Fighting Illini",
          "short": "Fighting Illini",
          "abbr": "ILL",
-         "score": 38,
+         "score": 44,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -2137,16 +2137,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "7:43 - 2nd",
+       "detail": "6:43 - 2nd",
        "start": "2026-11-27T22:00Z",
        "period": 2,
-       "clock": "7:43",
+       "clock": "6:43",
        "teams": [
         {
          "name": "Marquette Golden Eagles",
          "short": "Golden Eagles",
          "abbr": "MARQ",
-         "score": 69,
+         "score": 71,
          "ha": "away",
          "winner": null,
          "linescores": [
