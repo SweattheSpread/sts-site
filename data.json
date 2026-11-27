@@ -1,5 +1,5 @@
 {
- "updated": "Nov 27, 2026, 9:35 AM PT",
+ "updated": "Nov 27, 2026, 9:37 AM PT",
  "record": {
   "w": 292,
   "l": 292,
@@ -11,7 +11,7 @@
   "first": "2026-10-12",
   "last": "2026-11-26"
  },
- "pending": 31,
+ "pending": 34,
  "latest": [
   {
    "n": 1065,
@@ -621,6 +621,63 @@
    }
   },
   {
+   "n": 1078,
+   "league": "NCAAB",
+   "type": "Spread",
+   "matchup": "Colgate Raiders @ Hofstra Pride",
+   "pick": "Hofstra -1.5",
+   "odds": -110,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-27T12:30:00",
+   "timed": true,
+   "ticket": "single",
+   "espn": {
+    "legs": [
+     {
+      "kind": "spread",
+      "side": "Hofstra",
+      "line": -1.5,
+      "label": "Hofstra -1.5",
+      "path": "basketball/mens-college-basketball",
+      "event": "401920774",
+      "date": "20261127",
+      "snapshot": {
+       "source": "espn",
+       "state": "pre",
+       "detail": "11/27 - 3:30 PM EST",
+       "start": "2026-11-27T20:30Z",
+       "period": null,
+       "clock": null,
+       "teams": [
+        {
+         "name": "Colgate Raiders",
+         "short": "Raiders",
+         "abbr": "COLG",
+         "score": 0,
+         "ha": "away",
+         "winner": null,
+         "linescores": []
+        },
+        {
+         "name": "Hofstra Pride",
+         "short": "Pride",
+         "abbr": "HOF",
+         "score": 0,
+         "ha": "home",
+         "winner": null,
+         "linescores": []
+        }
+       ]
+      },
+      "source": "espn"
+     }
+    ],
+    "sport": "NCAAB",
+    "ticket": "single"
+   }
+  },
+  {
    "n": 1058,
    "league": "NHL",
    "type": "Moneyline",
@@ -731,6 +788,64 @@
      }
     ],
     "sport": "NHL",
+    "ticket": "single"
+   }
+  },
+  {
+   "n": 1079,
+   "league": "NCAAB",
+   "type": "Over/Under",
+   "matchup": "West Kentucky Hilltoppers @ Illinois Fighting Illini",
+   "pick": "Under 176",
+   "odds": -110,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-27T15:00:00",
+   "timed": true,
+   "ticket": "single",
+   "espn": {
+    "legs": [
+     {
+      "kind": "total",
+      "side": null,
+      "ou": "U",
+      "line": 176.0,
+      "label": "U 176.0",
+      "path": "basketball/mens-college-basketball",
+      "event": "401913531",
+      "date": "20261127",
+      "snapshot": {
+       "source": "espn",
+       "state": "pre",
+       "detail": "11/27 - 6:00 PM EST",
+       "start": "2026-11-27T23:00Z",
+       "period": null,
+       "clock": null,
+       "teams": [
+        {
+         "name": "Western Kentucky Hilltoppers",
+         "short": "Hilltoppers",
+         "abbr": "WKU",
+         "score": 0,
+         "ha": "away",
+         "winner": null,
+         "linescores": []
+        },
+        {
+         "name": "Illinois Fighting Illini",
+         "short": "Fighting Illini",
+         "abbr": "ILL",
+         "score": 0,
+         "ha": "home",
+         "winner": null,
+         "linescores": []
+        }
+       ]
+      },
+      "source": "espn"
+     }
+    ],
+    "sport": "NCAAB",
     "ticket": "single"
    }
   },
@@ -910,6 +1025,64 @@
      }
     ],
     "sport": "NHL",
+    "ticket": "single"
+   }
+  },
+  {
+   "n": 1080,
+   "league": "NCAAB",
+   "type": "Over/Under",
+   "matchup": "Miami Hurricanes vs Alabama Crimson Tide, neutral",
+   "pick": "Under 170.5",
+   "odds": -110,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-27T17:30:00",
+   "timed": true,
+   "ticket": "single",
+   "espn": {
+    "legs": [
+     {
+      "kind": "total",
+      "side": null,
+      "ou": "U",
+      "line": 170.5,
+      "label": "U 170.5",
+      "path": "basketball/mens-college-basketball",
+      "event": "401920543",
+      "date": "20261127",
+      "snapshot": {
+       "source": "espn",
+       "state": "pre",
+       "detail": "11/27 - 8:30 PM EST",
+       "start": "2026-11-28T01:30Z",
+       "period": null,
+       "clock": null,
+       "teams": [
+        {
+         "name": "Miami Hurricanes",
+         "short": "Hurricanes",
+         "abbr": "MIA",
+         "score": 0,
+         "ha": "away",
+         "winner": null,
+         "linescores": []
+        },
+        {
+         "name": "Alabama Crimson Tide",
+         "short": "Crimson Tide",
+         "abbr": "ALA",
+         "score": 0,
+         "ha": "home",
+         "winner": null,
+         "linescores": []
+        }
+       ]
+      },
+      "source": "espn"
+     }
+    ],
+    "sport": "NCAAB",
     "ticket": "single"
    }
   },
@@ -1867,16 +2040,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "4:24 - 1st",
+       "detail": "3:30 - 1st",
        "start": "2026-11-27T17:00Z",
        "period": 1,
-       "clock": "4:24",
+       "clock": "3:30",
        "teams": [
         {
          "name": "St. Thomas Tommies",
          "short": "Tommies",
          "abbr": "STMN",
-         "score": 24,
+         "score": 26,
          "ha": "away",
          "winner": null,
          "linescores": [

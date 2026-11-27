@@ -1,5 +1,5 @@
 {
- "updated": "Nov 27, 2026, 9:35 AM PT",
+ "updated": "Nov 27, 2026, 9:37 AM PT",
  "record": {
   "w": 292,
   "l": 292,
@@ -11,7 +11,7 @@
   "first": "2026-10-12",
   "last": "2026-11-26"
  },
- "pending": 31,
+ "pending": 34,
  "plays": [
   {
    "n": 334,
@@ -9784,6 +9784,54 @@
    "matchup": "Brooklyn Nets @ Toronto Raptors",
    "pick": "Collin Murray-Boyles (TOR) Under 5.5 rebounds (player prop)",
    "odds": -125,
+   "units": 1.0,
+   "result": null,
+   "pl": null,
+   "pending": true
+  },
+  {
+   "n": 1078,
+   "date": "2026-11-27",
+   "day": "2026-11-27",
+   "league": "NCAAB",
+   "market": "spread",
+   "market_label": "Spread",
+   "ticket": "single",
+   "matchup": "Colgate Raiders @ Hofstra Pride",
+   "pick": "Hofstra -1.5",
+   "odds": -110,
+   "units": 1.0,
+   "result": null,
+   "pl": null,
+   "pending": true
+  },
+  {
+   "n": 1079,
+   "date": "2026-11-27",
+   "day": "2026-11-27",
+   "league": "NCAAB",
+   "market": "total",
+   "market_label": "Total",
+   "ticket": "single",
+   "matchup": "West Kentucky Hilltoppers @ Illinois Fighting Illini",
+   "pick": "Under 176",
+   "odds": -110,
+   "units": 1.0,
+   "result": null,
+   "pl": null,
+   "pending": true
+  },
+  {
+   "n": 1080,
+   "date": "2026-11-27",
+   "day": "2026-11-27",
+   "league": "NCAAB",
+   "market": "total",
+   "market_label": "Total",
+   "ticket": "single",
+   "matchup": "Miami Hurricanes vs Alabama Crimson Tide, neutral",
+   "pick": "Under 170.5",
+   "odds": -110,
    "units": 1.0,
    "result": null,
    "pl": null,
