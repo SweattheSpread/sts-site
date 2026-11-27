@@ -1,5 +1,5 @@
 {
- "updated": "Nov 27, 2026, 11:42 AM PT",
+ "updated": "Nov 27, 2026, 11:44 AM PT",
  "record": {
   "w": 292,
   "l": 292,
@@ -2193,10 +2193,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "3:09 - 1st",
+       "detail": "2:12 - 1st",
        "start": "2026-11-27T19:00Z",
        "period": 1,
-       "clock": "3:09",
+       "clock": "2:12",
        "teams": [
         {
          "name": "Maine Black Bears",
@@ -2213,7 +2213,7 @@
          "name": "Le Moyne Dolphins",
          "short": "Dolphins",
          "abbr": "LEM",
-         "score": 25,
+         "score": 30,
          "ha": "home",
          "winner": null,
          "linescores": [
