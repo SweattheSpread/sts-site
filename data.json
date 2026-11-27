@@ -1,5 +1,5 @@
 {
- "updated": "Nov 27, 2026, 10:51 AM PT",
+ "updated": "Nov 27, 2026, 11:38 AM PT",
  "record": {
   "w": 292,
   "l": 292,
@@ -127,120 +127,6 @@
   }
  ],
  "picks": [
-  {
-   "n": 1067,
-   "league": "NCAAB",
-   "type": "Spread",
-   "matchup": "Fresno St Bulldogs @ South Alabama Jaguars",
-   "pick": "Fresno St +1",
-   "odds": -110,
-   "units": 1.0,
-   "gap": null,
-   "start": "2026-11-27T11:00:00",
-   "timed": true,
-   "ticket": "single",
-   "espn": {
-    "legs": [
-     {
-      "kind": "spread",
-      "side": "Fresno St",
-      "line": 1.0,
-      "label": "Fresno St +1",
-      "path": "basketball/mens-college-basketball",
-      "event": "401929181",
-      "date": "20261127",
-      "snapshot": {
-       "source": "espn",
-       "state": "pre",
-       "detail": "11/27 - 2:00 PM EST",
-       "start": "2026-11-27T19:00Z",
-       "period": null,
-       "clock": null,
-       "teams": [
-        {
-         "name": "South Alabama Jaguars",
-         "short": "Jaguars",
-         "abbr": "USA",
-         "score": 0,
-         "ha": "away",
-         "winner": null,
-         "linescores": []
-        },
-        {
-         "name": "Fresno State Bulldogs",
-         "short": "Bulldogs",
-         "abbr": "FRES",
-         "score": 0,
-         "ha": "home",
-         "winner": null,
-         "linescores": []
-        }
-       ]
-      },
-      "source": "espn"
-     }
-    ],
-    "sport": "NCAAB",
-    "ticket": "single"
-   }
-  },
-  {
-   "n": 1068,
-   "league": "NCAAB",
-   "type": "Spread",
-   "matchup": "Le Moyne Dolphins @ Maine Black Bears",
-   "pick": "Le Moyne +1.5",
-   "odds": -110,
-   "units": 1.0,
-   "gap": null,
-   "start": "2026-11-27T11:00:00",
-   "timed": true,
-   "ticket": "single",
-   "espn": {
-    "legs": [
-     {
-      "kind": "spread",
-      "side": "Le Moyne",
-      "line": 1.5,
-      "label": "Le Moyne +1.5",
-      "path": "basketball/mens-college-basketball",
-      "event": "401919786",
-      "date": "20261127",
-      "snapshot": {
-       "source": "espn",
-       "state": "pre",
-       "detail": "11/27 - 2:00 PM EST",
-       "start": "2026-11-27T19:00Z",
-       "period": null,
-       "clock": null,
-       "teams": [
-        {
-         "name": "Maine Black Bears",
-         "short": "Black Bears",
-         "abbr": "ME",
-         "score": 0,
-         "ha": "away",
-         "winner": null,
-         "linescores": []
-        },
-        {
-         "name": "Le Moyne Dolphins",
-         "short": "Dolphins",
-         "abbr": "LEM",
-         "score": 0,
-         "ha": "home",
-         "winner": null,
-         "linescores": []
-        }
-       ]
-      },
-      "source": "espn"
-     }
-    ],
-    "sport": "NCAAB",
-    "ticket": "single"
-   }
-  },
   {
    "n": 1071,
    "league": "Soccer",
@@ -2096,19 +1982,19 @@
       "date": "20261127",
       "snapshot": {
        "source": "espn",
-       "state": "in",
-       "detail": "1:42 - 2nd",
+       "state": "post",
+       "detail": "Final",
        "start": "2026-11-27T17:00Z",
-       "period": 2,
-       "clock": "1:42",
+       "period": null,
+       "clock": null,
        "teams": [
         {
          "name": "St. Thomas Tommies",
          "short": "Tommies",
          "abbr": "STMN",
-         "score": 63,
+         "score": 67,
          "ha": "away",
-         "winner": null,
+         "winner": false,
          "linescores": [
           0,
           0
@@ -2118,11 +2004,133 @@
          "name": "Liberty Flames",
          "short": "Flames",
          "abbr": "LIB",
-         "score": 70,
+         "score": 76,
+         "ha": "home",
+         "winner": true,
+         "linescores": [
+          0,
+          0
+         ]
+        }
+       ]
+      },
+      "source": "espn"
+     }
+    ],
+    "sport": "NCAAB",
+    "ticket": "single"
+   }
+  },
+  {
+   "n": 1067,
+   "league": "NCAAB",
+   "type": "Spread",
+   "matchup": "Fresno St Bulldogs @ South Alabama Jaguars",
+   "pick": "Fresno St +1",
+   "odds": -110,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-27T11:00:00",
+   "timed": true,
+   "ticket": "single",
+   "espn": {
+    "legs": [
+     {
+      "kind": "spread",
+      "side": "Fresno St",
+      "line": 1.0,
+      "label": "Fresno St +1",
+      "path": "basketball/mens-college-basketball",
+      "event": "401929181",
+      "date": "20261127",
+      "snapshot": {
+       "source": "espn",
+       "state": "in",
+       "detail": "3:29 - 1st",
+       "start": "2026-11-27T19:00Z",
+       "period": 1,
+       "clock": "3:29",
+       "teams": [
+        {
+         "name": "Fresno State Bulldogs",
+         "short": "Bulldogs",
+         "abbr": "FRES",
+         "score": 37,
+         "ha": "away",
+         "winner": null,
+         "linescores": [
+          0
+         ]
+        },
+        {
+         "name": "South Alabama Jaguars",
+         "short": "Jaguars",
+         "abbr": "USA",
+         "score": 23,
          "ha": "home",
          "winner": null,
          "linescores": [
-          0,
+          0
+         ]
+        }
+       ]
+      },
+      "source": "espn"
+     }
+    ],
+    "sport": "NCAAB",
+    "ticket": "single"
+   }
+  },
+  {
+   "n": 1068,
+   "league": "NCAAB",
+   "type": "Spread",
+   "matchup": "Le Moyne Dolphins @ Maine Black Bears",
+   "pick": "Le Moyne +1.5",
+   "odds": -110,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-27T11:00:00",
+   "timed": true,
+   "ticket": "single",
+   "espn": {
+    "legs": [
+     {
+      "kind": "spread",
+      "side": "Le Moyne",
+      "line": 1.5,
+      "label": "Le Moyne +1.5",
+      "path": "basketball/mens-college-basketball",
+      "event": "401919786",
+      "date": "20261127",
+      "snapshot": {
+       "source": "espn",
+       "state": "in",
+       "detail": "4:09 - 1st",
+       "start": "2026-11-27T19:00Z",
+       "period": 1,
+       "clock": "4:09",
+       "teams": [
+        {
+         "name": "Maine Black Bears",
+         "short": "Black Bears",
+         "abbr": "ME",
+         "score": 26,
+         "ha": "away",
+         "winner": null,
+         "linescores": [
+          0
+         ]
+        },
+        {
+         "name": "Le Moyne Dolphins",
+         "short": "Dolphins",
+         "abbr": "LEM",
+         "score": 22,
+         "ha": "home",
+         "winner": null,
+         "linescores": [
           0
          ]
         }
