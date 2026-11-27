@@ -1,5 +1,5 @@
 {
- "updated": "Nov 27, 2026, 1:08 PM PT",
+ "updated": "Nov 27, 2026, 2:22 PM PT",
  "record": {
   "w": 292,
   "l": 292,
@@ -127,63 +127,6 @@
   }
  ],
  "picks": [
-  {
-   "n": 1081,
-   "league": "NCAAB",
-   "type": "Spread",
-   "matchup": "Texas A&M Aggies @ Marquette Golden Eagles",
-   "pick": "Texas A&M +1.5",
-   "odds": -105,
-   "units": 1.0,
-   "gap": null,
-   "start": "2026-11-27T14:00:00",
-   "timed": true,
-   "ticket": "single",
-   "espn": {
-    "legs": [
-     {
-      "kind": "spread",
-      "side": "Texas A&M",
-      "line": 1.5,
-      "label": "Texas A&M +1.5",
-      "path": "basketball/mens-college-basketball",
-      "event": "401920810",
-      "date": "20261127",
-      "snapshot": {
-       "source": "espn",
-       "state": "pre",
-       "detail": "11/27 - 5:00 PM EST",
-       "start": "2026-11-27T22:00Z",
-       "period": null,
-       "clock": null,
-       "teams": [
-        {
-         "name": "Marquette Golden Eagles",
-         "short": "Golden Eagles",
-         "abbr": "MARQ",
-         "score": 0,
-         "ha": "away",
-         "winner": null,
-         "linescores": []
-        },
-        {
-         "name": "Texas A&M Aggies",
-         "short": "Aggies",
-         "abbr": "TA&M",
-         "score": 0,
-         "ha": "home",
-         "winner": null,
-         "linescores": []
-        }
-       ]
-      },
-      "source": "espn"
-     }
-    ],
-    "sport": "NCAAB",
-    "ticket": "single"
-   }
-  },
   {
    "n": 1057,
    "league": "NHL",
@@ -1419,10 +1362,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "2:25 - 2nd",
+       "detail": "Halftime",
        "start": "2026-11-27T20:00Z",
        "period": 2,
-       "clock": "2:25",
+       "clock": "0:00",
        "teams": [
         {
          "name": "Denver Broncos",
@@ -1440,7 +1383,7 @@
          "name": "Pittsburgh Steelers",
          "short": "Steelers",
          "abbr": "PIT",
-         "score": 14,
+         "score": 24,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -1481,10 +1424,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P1 20:00",
+       "detail": "P1 12:40",
        "start": "2026-11-27T21:00:00Z",
        "period": 1,
-       "clock": "20:00",
+       "clock": "12:40",
        "teams": [
         {
          "name": "Avalanche",
@@ -1540,10 +1483,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "1:56 - 1st",
+       "detail": "13:26 - 2nd",
        "start": "2026-11-27T20:30Z",
-       "period": 1,
-       "clock": "1:56",
+       "period": 2,
+       "clock": "13:26",
        "teams": [
         {
          "name": "Temple Owls",
@@ -1553,6 +1496,7 @@
          "ha": "away",
          "winner": null,
          "linescores": [
+          0,
           0
          ]
         },
@@ -1560,10 +1504,11 @@
          "name": "Memphis Tigers",
          "short": "Tigers",
          "abbr": "MEM",
-         "score": 7,
+         "score": 14,
          "ha": "home",
          "winner": null,
          "linescores": [
+          0,
           0
          ]
         }
@@ -1632,10 +1577,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "2:25 - 2nd",
+       "detail": "Halftime",
        "start": "2026-11-27T20:00Z",
        "period": 2,
-       "clock": "2:25",
+       "clock": "0:00",
        "teams": [
         {
          "name": "Denver Broncos",
@@ -1653,7 +1598,7 @@
          "name": "Pittsburgh Steelers",
          "short": "Steelers",
          "abbr": "PIT",
-         "score": 14,
+         "score": 24,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -1707,10 +1652,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "2:25 - 2nd",
+       "detail": "Halftime",
        "start": "2026-11-27T20:00Z",
        "period": 2,
-       "clock": "2:25",
+       "clock": "0:00",
        "teams": [
         {
          "name": "Denver Broncos",
@@ -1728,7 +1673,7 @@
          "name": "Pittsburgh Steelers",
          "short": "Steelers",
          "abbr": "PIT",
-         "score": 14,
+         "score": 24,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -1754,10 +1699,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "2:25 - 2nd",
+       "detail": "Halftime",
        "start": "2026-11-27T20:00Z",
        "period": 2,
-       "clock": "2:25",
+       "clock": "0:00",
        "teams": [
         {
          "name": "Denver Broncos",
@@ -1775,7 +1720,7 @@
          "name": "Pittsburgh Steelers",
          "short": "Steelers",
          "abbr": "PIT",
-         "score": 14,
+         "score": 24,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -1944,19 +1889,20 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "0:08 - 2nd",
+       "detail": "0:43 - OT",
        "start": "2026-11-27T19:00Z",
-       "period": 2,
-       "clock": "0:08",
+       "period": 3,
+       "clock": "0:43",
        "teams": [
         {
          "name": "Maine Black Bears",
          "short": "Black Bears",
          "abbr": "ME",
-         "score": 77,
+         "score": 85,
          "ha": "away",
          "winner": null,
          "linescores": [
+          0,
           0,
           0
          ]
@@ -1965,10 +1911,11 @@
          "name": "Le Moyne Dolphins",
          "short": "Dolphins",
          "abbr": "LEM",
-         "score": 76,
+         "score": 84,
          "ha": "home",
          "winner": null,
          "linescores": [
+          0,
           0,
           0
          ]
@@ -2057,10 +2004,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "2:25 - 2nd",
+       "detail": "Halftime",
        "start": "2026-11-27T20:00Z",
        "period": 2,
-       "clock": "2:25",
+       "clock": "0:00",
        "teams": [
         {
          "name": "Denver Broncos",
@@ -2078,7 +2025,7 @@
          "name": "Pittsburgh Steelers",
          "short": "Steelers",
          "abbr": "PIT",
-         "score": 14,
+         "score": 24,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -2123,10 +2070,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "2:25 - 2nd",
+       "detail": "Halftime",
        "start": "2026-11-27T20:00Z",
        "period": 2,
-       "clock": "2:25",
+       "clock": "0:00",
        "teams": [
         {
          "name": "Denver Broncos",
@@ -2144,7 +2091,7 @@
          "name": "Pittsburgh Steelers",
          "short": "Steelers",
          "abbr": "PIT",
-         "score": 14,
+         "score": 24,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -2187,16 +2134,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "3:40 - 1st",
+       "detail": "Halftime",
        "start": "2026-11-27T20:30Z",
        "period": 1,
-       "clock": "3:40",
+       "clock": "0:00",
        "teams": [
         {
          "name": "Colgate Raiders",
          "short": "Raiders",
          "abbr": "COLG",
-         "score": 30,
+         "score": 41,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -2207,12 +2154,69 @@
          "name": "Hofstra Pride",
          "short": "Pride",
          "abbr": "HOF",
-         "score": 16,
+         "score": 23,
          "ha": "home",
          "winner": null,
          "linescores": [
           0
          ]
+        }
+       ]
+      },
+      "source": "espn"
+     }
+    ],
+    "sport": "NCAAB",
+    "ticket": "single"
+   }
+  },
+  {
+   "n": 1081,
+   "league": "NCAAB",
+   "type": "Spread",
+   "matchup": "Texas A&M Aggies @ Marquette Golden Eagles",
+   "pick": "Texas A&M +1.5",
+   "odds": -105,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-27T14:00:00",
+   "timed": true,
+   "ticket": "single",
+   "espn": {
+    "legs": [
+     {
+      "kind": "spread",
+      "side": "Texas A&M",
+      "line": 1.5,
+      "label": "Texas A&M +1.5",
+      "path": "basketball/mens-college-basketball",
+      "event": "401920810",
+      "date": "20261127",
+      "snapshot": {
+       "source": "espn",
+       "state": "pre",
+       "detail": "11/27 - 5:00 PM EST",
+       "start": "2026-11-27T22:00Z",
+       "period": null,
+       "clock": null,
+       "teams": [
+        {
+         "name": "Marquette Golden Eagles",
+         "short": "Golden Eagles",
+         "abbr": "MARQ",
+         "score": 0,
+         "ha": "away",
+         "winner": null,
+         "linescores": []
+        },
+        {
+         "name": "Texas A&M Aggies",
+         "short": "Aggies",
+         "abbr": "TA&M",
+         "score": 0,
+         "ha": "home",
+         "winner": null,
+         "linescores": []
         }
        ]
       },
@@ -2249,16 +2253,16 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P2 18:23",
+       "detail": "P2 11:00",
        "start": "2026-11-27T20:00:00Z",
        "period": 2,
-       "clock": "18:23",
+       "clock": "11:00",
        "teams": [
         {
          "name": "Senators",
          "short": "OTT",
          "abbr": "OTT",
-         "score": 2,
+         "score": 3,
          "ha": "away",
          "winner": null,
          "linescores": []
