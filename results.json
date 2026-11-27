@@ -1,5 +1,5 @@
 {
- "updated": "Nov 27, 2026, 6:32 AM PT",
+ "updated": "Nov 27, 2026, 8:01 AM PT",
  "record": {
   "w": 292,
   "l": 292,
@@ -11,7 +11,7 @@
   "first": "2026-10-12",
   "last": "2026-11-26"
  },
- "pending": 26,
+ "pending": 28,
  "plays": [
   {
    "n": 334,
@@ -9726,6 +9726,22 @@
    "pending": true
   },
   {
+   "n": 1074,
+   "date": "2026-11-27",
+   "day": "2026-11-27",
+   "league": "NFL",
+   "market": "player_prop",
+   "market_label": "Player Prop",
+   "ticket": "single",
+   "matchup": "Denver Broncos @ Pittsburgh Steelers",
+   "pick": "Chris Boswell (PIT K) Over 5.5 kicking points (player prop)",
+   "odds": -122,
+   "units": 5.0,
+   "result": null,
+   "pl": null,
+   "pending": true
+  },
+  {
    "n": 905,
    "date": "2026-11-20",
    "day": "2026-11-29",
@@ -9895,6 +9911,22 @@
    "ticket": "single",
    "matchup": "New York Jets @ Miami Dolphins",
    "pick": "Miami Dolphins +5 -108",
+   "odds": -108,
+   "units": 1.0,
+   "result": null,
+   "pl": null,
+   "pending": true
+  },
+  {
+   "n": 1073,
+   "date": "2026-11-29",
+   "day": "2026-11-29",
+   "league": "NFL",
+   "market": "total",
+   "market_label": "Total",
+   "ticket": "single",
+   "matchup": "Tennessee Titans @ Jacksonville Jaguars",
+   "pick": "Over 48.5 -108",
    "odds": -108,
    "units": 1.0,
    "result": null,

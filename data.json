@@ -1,5 +1,5 @@
 {
- "updated": "Nov 27, 2026, 6:32 AM PT",
+ "updated": "Nov 27, 2026, 8:01 AM PT",
  "record": {
   "w": 292,
   "l": 292,
@@ -11,7 +11,7 @@
   "first": "2026-10-12",
   "last": "2026-11-26"
  },
- "pending": 26,
+ "pending": 28,
  "latest": [
   {
    "n": 1065,
@@ -502,6 +502,65 @@
    }
   },
   {
+   "n": 1074,
+   "league": "NFL",
+   "type": "Player Prop",
+   "matchup": "Denver Broncos @ Pittsburgh Steelers",
+   "pick": "Chris Boswell (PIT K) Over 5.5 kicking points (player prop)",
+   "odds": -122,
+   "units": 5.0,
+   "gap": null,
+   "start": "2026-11-27T12:00:00",
+   "timed": true,
+   "ticket": "single",
+   "espn": {
+    "legs": [
+     {
+      "kind": "prop",
+      "player": "Chris Boswell",
+      "ou": "O",
+      "line": 5.5,
+      "stat": "kicking points",
+      "label": "Chris Boswell O 5.5 kicking points",
+      "path": "football/nfl",
+      "event": "401873083",
+      "date": "20261127",
+      "snapshot": {
+       "source": "espn",
+       "state": "pre",
+       "detail": "11/27 - 3:00 PM EST",
+       "start": "2026-11-27T20:00Z",
+       "period": null,
+       "clock": null,
+       "teams": [
+        {
+         "name": "Denver Broncos",
+         "short": "Broncos",
+         "abbr": "DEN",
+         "score": 0,
+         "ha": "away",
+         "winner": null,
+         "linescores": []
+        },
+        {
+         "name": "Pittsburgh Steelers",
+         "short": "Steelers",
+         "abbr": "PIT",
+         "score": 0,
+         "ha": "home",
+         "winner": null,
+         "linescores": []
+        }
+       ]
+      },
+      "source": "espn"
+     }
+    ],
+    "sport": "NFL",
+    "ticket": "single"
+   }
+  },
+  {
    "n": 1059,
    "league": "NCAAF",
    "type": "Total",
@@ -813,7 +872,36 @@
       "label": "Indianapolis Colts +6.5",
       "path": "football/nfl",
       "event": "401873088",
-      "date": "20261129"
+      "date": "20261129",
+      "snapshot": {
+       "source": "espn",
+       "state": "pre",
+       "detail": "11/29 - 1:00 PM EST",
+       "start": "2026-11-29T18:00Z",
+       "period": null,
+       "clock": null,
+       "teams": [
+        {
+         "name": "New York Giants",
+         "short": "Giants",
+         "abbr": "NYG",
+         "score": 0,
+         "ha": "away",
+         "winner": null,
+         "linescores": []
+        },
+        {
+         "name": "Indianapolis Colts",
+         "short": "Colts",
+         "abbr": "IND",
+         "score": 0,
+         "ha": "home",
+         "winner": null,
+         "linescores": []
+        }
+       ]
+      },
+      "source": "espn"
      }
     ],
     "sport": "NFL",
@@ -1093,6 +1181,64 @@
          "name": "Miami Dolphins",
          "short": "Dolphins",
          "abbr": "MIA",
+         "score": 0,
+         "ha": "home",
+         "winner": null,
+         "linescores": []
+        }
+       ]
+      },
+      "source": "espn"
+     }
+    ],
+    "sport": "NFL",
+    "ticket": "single"
+   }
+  },
+  {
+   "n": 1073,
+   "league": "NFL",
+   "type": "Over/Under",
+   "matchup": "Tennessee Titans @ Jacksonville Jaguars",
+   "pick": "Over 48.5",
+   "odds": -108,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-29T10:00:00",
+   "timed": true,
+   "ticket": "single",
+   "espn": {
+    "legs": [
+     {
+      "kind": "total",
+      "side": null,
+      "ou": "O",
+      "line": 48.5,
+      "label": "O 48.5",
+      "path": "football/nfl",
+      "event": "401873090",
+      "date": "20261129",
+      "snapshot": {
+       "source": "espn",
+       "state": "pre",
+       "detail": "11/29 - 1:00 PM EST",
+       "start": "2026-11-29T18:00Z",
+       "period": null,
+       "clock": null,
+       "teams": [
+        {
+         "name": "Tennessee Titans",
+         "short": "Titans",
+         "abbr": "TEN",
+         "score": 0,
+         "ha": "away",
+         "winner": null,
+         "linescores": []
+        },
+        {
+         "name": "Jacksonville Jaguars",
+         "short": "Jaguars",
+         "abbr": "JAX",
          "score": 0,
          "ha": "home",
          "winner": null,
