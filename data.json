@@ -1,5 +1,5 @@
 {
- "updated": "Nov 27, 2026, 3:09 PM PT",
+ "updated": "Nov 27, 2026, 3:12 PM PT",
  "record": {
   "w": 292,
   "l": 292,
@@ -1247,10 +1247,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "2:56 - 3rd",
+       "detail": "0:50 - 3rd",
        "start": "2026-11-27T20:00Z",
        "period": 3,
-       "clock": "2:56",
+       "clock": "0:50",
        "teams": [
         {
          "name": "Denver Broncos",
@@ -1368,10 +1368,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P2 17:36",
+       "detail": "P2 15:00",
        "start": "2026-11-27T21:00:00Z",
        "period": 2,
-       "clock": "17:36",
+       "clock": "15:00",
        "teams": [
         {
          "name": "Avalanche",
@@ -1521,10 +1521,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "2:56 - 3rd",
+       "detail": "0:50 - 3rd",
        "start": "2026-11-27T20:00Z",
        "period": 3,
-       "clock": "2:56",
+       "clock": "0:50",
        "teams": [
         {
          "name": "Denver Broncos",
@@ -1598,10 +1598,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "2:56 - 3rd",
+       "detail": "0:50 - 3rd",
        "start": "2026-11-27T20:00Z",
        "period": 3,
-       "clock": "2:56",
+       "clock": "0:50",
        "teams": [
         {
          "name": "Denver Broncos",
@@ -1647,10 +1647,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "2:56 - 3rd",
+       "detail": "0:50 - 3rd",
        "start": "2026-11-27T20:00Z",
        "period": 3,
-       "clock": "2:56",
+       "clock": "0:50",
        "teams": [
         {
          "name": "Denver Broncos",
@@ -1954,10 +1954,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "2:56 - 3rd",
+       "detail": "0:50 - 3rd",
        "start": "2026-11-27T20:00Z",
        "period": 3,
-       "clock": "2:56",
+       "clock": "0:50",
        "teams": [
         {
          "name": "Denver Broncos",
@@ -2022,10 +2022,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "2:56 - 3rd",
+       "detail": "0:50 - 3rd",
        "start": "2026-11-27T20:00Z",
        "period": 3,
-       "clock": "2:56",
+       "clock": "0:50",
        "teams": [
         {
          "name": "Denver Broncos",
@@ -2088,16 +2088,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "5:43 - 2nd",
+       "detail": "3:38 - 2nd",
        "start": "2026-11-27T20:30Z",
        "period": 2,
-       "clock": "5:43",
+       "clock": "3:38",
        "teams": [
         {
          "name": "Colgate Raiders",
          "short": "Raiders",
          "abbr": "COLG",
-         "score": 66,
+         "score": 70,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -2109,7 +2109,7 @@
          "name": "Hofstra Pride",
          "short": "Pride",
          "abbr": "HOF",
-         "score": 38,
+         "score": 40,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -2209,10 +2209,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "15:45 - 1st",
+       "detail": "15:26 - 1st",
        "start": "2026-11-27T22:00Z",
        "period": 1,
-       "clock": "15:45",
+       "clock": "15:26",
        "teams": [
         {
          "name": "Marquette Golden Eagles",
@@ -2271,10 +2271,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P3 16:20",
+       "detail": "P3 13:44",
        "start": "2026-11-27T20:00:00Z",
        "period": 3,
-       "clock": "16:20",
+       "clock": "13:44",
        "teams": [
         {
          "name": "Senators",
@@ -2330,10 +2330,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "2:56 - 3rd",
+       "detail": "0:50 - 3rd",
        "start": "2026-11-27T20:00Z",
        "period": 3,
-       "clock": "2:56",
+       "clock": "0:50",
        "teams": [
         {
          "name": "Denver Broncos",
