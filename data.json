@@ -1,5 +1,5 @@
 {
- "updated": "Nov 27, 2026, 3:24 PM PT",
+ "updated": "Nov 27, 2026, 3:26 PM PT",
  "record": {
   "w": 292,
   "l": 292,
@@ -1305,10 +1305,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "12:08 - 4th",
+       "detail": "11:16 - 4th",
        "start": "2026-11-27T20:00Z",
        "period": 4,
-       "clock": "12:08",
+       "clock": "11:16",
        "teams": [
         {
          "name": "Denver Broncos",
@@ -1328,7 +1328,7 @@
          "name": "Pittsburgh Steelers",
          "short": "Steelers",
          "abbr": "PIT",
-         "score": 24,
+         "score": 27,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -1428,10 +1428,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P2 07:56",
+       "detail": "P2 07:24",
        "start": "2026-11-27T21:00:00Z",
        "period": 2,
-       "clock": "07:56",
+       "clock": "07:24",
        "teams": [
         {
          "name": "Avalanche",
@@ -1487,10 +1487,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "10:44 - 3rd",
+       "detail": "10:40 - 3rd",
        "start": "2026-11-27T20:30Z",
        "period": 3,
-       "clock": "10:44",
+       "clock": "10:40",
        "teams": [
         {
          "name": "Temple Owls",
@@ -1583,10 +1583,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "12:08 - 4th",
+       "detail": "11:16 - 4th",
        "start": "2026-11-27T20:00Z",
        "period": 4,
-       "clock": "12:08",
+       "clock": "11:16",
        "teams": [
         {
          "name": "Denver Broncos",
@@ -1606,7 +1606,7 @@
          "name": "Pittsburgh Steelers",
          "short": "Steelers",
          "abbr": "PIT",
-         "score": 24,
+         "score": 27,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -1662,10 +1662,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "12:08 - 4th",
+       "detail": "11:16 - 4th",
        "start": "2026-11-27T20:00Z",
        "period": 4,
-       "clock": "12:08",
+       "clock": "11:16",
        "teams": [
         {
          "name": "Denver Broncos",
@@ -1685,7 +1685,7 @@
          "name": "Pittsburgh Steelers",
          "short": "Steelers",
          "abbr": "PIT",
-         "score": 24,
+         "score": 27,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -1713,10 +1713,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "12:08 - 4th",
+       "detail": "11:16 - 4th",
        "start": "2026-11-27T20:00Z",
        "period": 4,
-       "clock": "12:08",
+       "clock": "11:16",
        "teams": [
         {
          "name": "Denver Broncos",
@@ -1736,7 +1736,7 @@
          "name": "Pittsburgh Steelers",
          "short": "Steelers",
          "abbr": "PIT",
-         "score": 24,
+         "score": 27,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -2022,10 +2022,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "12:08 - 4th",
+       "detail": "11:16 - 4th",
        "start": "2026-11-27T20:00Z",
        "period": 4,
-       "clock": "12:08",
+       "clock": "11:16",
        "teams": [
         {
          "name": "Denver Broncos",
@@ -2045,7 +2045,7 @@
          "name": "Pittsburgh Steelers",
          "short": "Steelers",
          "abbr": "PIT",
-         "score": 24,
+         "score": 27,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -2092,10 +2092,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "12:08 - 4th",
+       "detail": "11:16 - 4th",
        "start": "2026-11-27T20:00Z",
        "period": 4,
-       "clock": "12:08",
+       "clock": "11:16",
        "teams": [
         {
          "name": "Denver Broncos",
@@ -2115,7 +2115,7 @@
          "name": "Pittsburgh Steelers",
          "short": "Steelers",
          "abbr": "PIT",
-         "score": 24,
+         "score": 27,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -2281,16 +2281,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "10:37 - 1st",
+       "detail": "8:30 - 1st",
        "start": "2026-11-27T22:00Z",
        "period": 1,
-       "clock": "10:37",
+       "clock": "8:30",
        "teams": [
         {
          "name": "Marquette Golden Eagles",
          "short": "Golden Eagles",
          "abbr": "MARQ",
-         "score": 20,
+         "score": 22,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -2301,7 +2301,7 @@
          "name": "Texas A&M Aggies",
          "short": "Aggies",
          "abbr": "TA&M",
-         "score": 15,
+         "score": 21,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -2343,10 +2343,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P3 08:55",
+       "detail": "P3 08:13",
        "start": "2026-11-27T20:00:00Z",
        "period": 3,
-       "clock": "08:55",
+       "clock": "08:13",
        "teams": [
         {
          "name": "Senators",
@@ -2402,10 +2402,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "12:08 - 4th",
+       "detail": "11:16 - 4th",
        "start": "2026-11-27T20:00Z",
        "period": 4,
-       "clock": "12:08",
+       "clock": "11:16",
        "teams": [
         {
          "name": "Denver Broncos",
@@ -2425,7 +2425,7 @@
          "name": "Pittsburgh Steelers",
          "short": "Steelers",
          "abbr": "PIT",
-         "score": 24,
+         "score": 27,
          "ha": "home",
          "winner": null,
          "linescores": [
