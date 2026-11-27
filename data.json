@@ -1,5 +1,5 @@
 {
- "updated": "Nov 27, 2026, 10:28 AM PT",
+ "updated": "Nov 27, 2026, 10:30 AM PT",
  "record": {
   "w": 292,
   "l": 292,
@@ -11,7 +11,7 @@
   "first": "2026-10-12",
   "last": "2026-11-26"
  },
- "pending": 34,
+ "pending": 35,
  "latest": [
   {
    "n": 1065,
@@ -731,6 +731,63 @@
      }
     ],
     "sport": "NHL",
+    "ticket": "single"
+   }
+  },
+  {
+   "n": 1081,
+   "league": "NCAAB",
+   "type": "Spread",
+   "matchup": "Texas A&M Aggies @ Marquette Golden Eagles",
+   "pick": "Texas A&M +1.5",
+   "odds": -105,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-27T14:00:00",
+   "timed": true,
+   "ticket": "single",
+   "espn": {
+    "legs": [
+     {
+      "kind": "spread",
+      "side": "Texas A&M",
+      "line": 1.5,
+      "label": "Texas A&M +1.5",
+      "path": "basketball/mens-college-basketball",
+      "event": "401920810",
+      "date": "20261127",
+      "snapshot": {
+       "source": "espn",
+       "state": "pre",
+       "detail": "11/27 - 5:00 PM EST",
+       "start": "2026-11-27T22:00Z",
+       "period": null,
+       "clock": null,
+       "teams": [
+        {
+         "name": "Marquette Golden Eagles",
+         "short": "Golden Eagles",
+         "abbr": "MARQ",
+         "score": 0,
+         "ha": "away",
+         "winner": null,
+         "linescores": []
+        },
+        {
+         "name": "Texas A&M Aggies",
+         "short": "Aggies",
+         "abbr": "TA&M",
+         "score": 0,
+         "ha": "home",
+         "winner": null,
+         "linescores": []
+        }
+       ]
+      },
+      "source": "espn"
+     }
+    ],
+    "sport": "NCAAB",
     "ticket": "single"
    }
   },
@@ -2040,10 +2097,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "7:28 - 2nd",
+       "detail": "6:52 - 2nd",
        "start": "2026-11-27T17:00Z",
        "period": 2,
-       "clock": "7:28",
+       "clock": "6:52",
        "teams": [
         {
          "name": "St. Thomas Tommies",
