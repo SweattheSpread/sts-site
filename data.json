@@ -1,5 +1,5 @@
 {
- "updated": "Nov 27, 2026, 12:23 PM PT",
+ "updated": "Nov 27, 2026, 12:25 PM PT",
  "record": {
   "w": 292,
   "l": 292,
@@ -1611,7 +1611,7 @@
          "name": "Pittsburgh Steelers",
          "short": "Steelers",
          "abbr": "PIT",
-         "score": 0,
+         "score": 7,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -1703,7 +1703,7 @@
          "name": "Pittsburgh Steelers",
          "short": "Steelers",
          "abbr": "PIT",
-         "score": 0,
+         "score": 7,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -1776,7 +1776,7 @@
          "name": "Pittsburgh Steelers",
          "short": "Steelers",
          "abbr": "PIT",
-         "score": 0,
+         "score": 7,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -1821,7 +1821,7 @@
          "name": "Pittsburgh Steelers",
          "short": "Steelers",
          "abbr": "PIT",
-         "score": 0,
+         "score": 7,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -1989,10 +1989,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "11:55 - 2nd",
+       "detail": "11:32 - 2nd",
        "start": "2026-11-27T19:00Z",
        "period": 2,
-       "clock": "11:55",
+       "clock": "11:32",
        "teams": [
         {
          "name": "Maine Black Bears",
@@ -2122,7 +2122,7 @@
          "name": "Pittsburgh Steelers",
          "short": "Steelers",
          "abbr": "PIT",
-         "score": 0,
+         "score": 7,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -2186,7 +2186,7 @@
          "name": "Pittsburgh Steelers",
          "short": "Steelers",
          "abbr": "PIT",
-         "score": 0,
+         "score": 7,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -2229,10 +2229,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P1 11:04",
+       "detail": "P1 09:54",
        "start": "2026-11-27T20:00:00Z",
        "period": 1,
-       "clock": "11:04",
+       "clock": "09:54",
        "teams": [
         {
          "name": "Senators",
