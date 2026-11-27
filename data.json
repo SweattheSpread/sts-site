@@ -1,5 +1,5 @@
 {
- "updated": "Nov 27, 2026, 12:28 PM PT",
+ "updated": "Nov 27, 2026, 12:31 PM PT",
  "record": {
   "w": 292,
   "l": 292,
@@ -127,121 +127,6 @@
   }
  ],
  "picks": [
-  {
-   "n": 1059,
-   "league": "NCAAF",
-   "type": "Total",
-   "matchup": "Temple Owls @ Memphis Tigers",
-   "pick": "Under 67.5",
-   "odds": -110,
-   "units": 1.0,
-   "gap": null,
-   "start": "2026-11-27T12:30:00",
-   "timed": true,
-   "ticket": "single",
-   "espn": {
-    "legs": [
-     {
-      "kind": "total",
-      "side": null,
-      "ou": "U",
-      "line": 67.5,
-      "label": "U 67.5",
-      "path": "football/college-football",
-      "event": "401862838",
-      "date": "20261127",
-      "snapshot": {
-       "source": "espn",
-       "state": "pre",
-       "detail": "11/27 - 3:30 PM EST",
-       "start": "2026-11-27T20:30Z",
-       "period": null,
-       "clock": null,
-       "teams": [
-        {
-         "name": "Temple Owls",
-         "short": "Owls",
-         "abbr": "TEM",
-         "score": 0,
-         "ha": "away",
-         "winner": null,
-         "linescores": []
-        },
-        {
-         "name": "Memphis Tigers",
-         "short": "Tigers",
-         "abbr": "MEM",
-         "score": 0,
-         "ha": "home",
-         "winner": null,
-         "linescores": []
-        }
-       ]
-      },
-      "source": "espn"
-     }
-    ],
-    "sport": "NCAAF",
-    "ticket": "single"
-   }
-  },
-  {
-   "n": 1078,
-   "league": "NCAAB",
-   "type": "Spread",
-   "matchup": "Colgate Raiders @ Hofstra Pride",
-   "pick": "Hofstra -1.5",
-   "odds": -110,
-   "units": 1.0,
-   "gap": null,
-   "start": "2026-11-27T12:30:00",
-   "timed": true,
-   "ticket": "single",
-   "espn": {
-    "legs": [
-     {
-      "kind": "spread",
-      "side": "Hofstra",
-      "line": -1.5,
-      "label": "Hofstra -1.5",
-      "path": "basketball/mens-college-basketball",
-      "event": "401920774",
-      "date": "20261127",
-      "snapshot": {
-       "source": "espn",
-       "state": "pre",
-       "detail": "11/27 - 3:30 PM EST",
-       "start": "2026-11-27T20:30Z",
-       "period": null,
-       "clock": null,
-       "teams": [
-        {
-         "name": "Colgate Raiders",
-         "short": "Raiders",
-         "abbr": "COLG",
-         "score": 0,
-         "ha": "away",
-         "winner": null,
-         "linescores": []
-        },
-        {
-         "name": "Hofstra Pride",
-         "short": "Pride",
-         "abbr": "HOF",
-         "score": 0,
-         "ha": "home",
-         "winner": null,
-         "linescores": []
-        }
-       ]
-      },
-      "source": "espn"
-     }
-    ],
-    "sport": "NCAAB",
-    "ticket": "single"
-   }
-  },
   {
    "n": 1058,
    "league": "NHL",
@@ -1591,10 +1476,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "5:55 - 1st",
+       "detail": "4:38 - 1st",
        "start": "2026-11-27T20:00Z",
        "period": 1,
-       "clock": "5:55",
+       "clock": "4:38",
        "teams": [
         {
          "name": "Denver Broncos",
@@ -1624,6 +1509,64 @@
      }
     ],
     "sport": "NFL",
+    "ticket": "single"
+   }
+  },
+  {
+   "n": 1059,
+   "league": "NCAAF",
+   "type": "Total",
+   "matchup": "Temple Owls @ Memphis Tigers",
+   "pick": "Under 67.5",
+   "odds": -110,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-27T12:30:00",
+   "timed": true,
+   "ticket": "single",
+   "espn": {
+    "legs": [
+     {
+      "kind": "total",
+      "side": null,
+      "ou": "U",
+      "line": 67.5,
+      "label": "U 67.5",
+      "path": "football/college-football",
+      "event": "401862838",
+      "date": "20261127",
+      "snapshot": {
+       "source": "espn",
+       "state": "pre",
+       "detail": "11/27 - 3:30 PM EST",
+       "start": "2026-11-27T20:30Z",
+       "period": null,
+       "clock": null,
+       "teams": [
+        {
+         "name": "Temple Owls",
+         "short": "Owls",
+         "abbr": "TEM",
+         "score": 0,
+         "ha": "away",
+         "winner": null,
+         "linescores": []
+        },
+        {
+         "name": "Memphis Tigers",
+         "short": "Tigers",
+         "abbr": "MEM",
+         "score": 0,
+         "ha": "home",
+         "winner": null,
+         "linescores": []
+        }
+       ]
+      },
+      "source": "espn"
+     }
+    ],
+    "sport": "NCAAF",
     "ticket": "single"
    }
   },
@@ -1683,10 +1626,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "5:55 - 1st",
+       "detail": "4:38 - 1st",
        "start": "2026-11-27T20:00Z",
        "period": 1,
-       "clock": "5:55",
+       "clock": "4:38",
        "teams": [
         {
          "name": "Denver Broncos",
@@ -1756,10 +1699,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "5:55 - 1st",
+       "detail": "4:38 - 1st",
        "start": "2026-11-27T20:00Z",
        "period": 1,
-       "clock": "5:55",
+       "clock": "4:38",
        "teams": [
         {
          "name": "Denver Broncos",
@@ -1801,10 +1744,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "5:55 - 1st",
+       "detail": "4:38 - 1st",
        "start": "2026-11-27T20:00Z",
        "period": 1,
-       "clock": "5:55",
+       "clock": "4:38",
        "teams": [
         {
          "name": "Denver Broncos",
@@ -1926,16 +1869,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "6:53 - 2nd",
+       "detail": "6:33 - 2nd",
        "start": "2026-11-27T19:00Z",
        "period": 2,
-       "clock": "6:53",
+       "clock": "6:33",
        "teams": [
         {
          "name": "Fresno State Bulldogs",
          "short": "Bulldogs",
          "abbr": "FRES",
-         "score": 65,
+         "score": 67,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -1989,10 +1932,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "11:11 - 2nd",
+       "detail": "10:08 - 2nd",
        "start": "2026-11-27T19:00Z",
        "period": 2,
-       "clock": "11:11",
+       "clock": "10:08",
        "teams": [
         {
          "name": "Maine Black Bears",
@@ -2102,10 +2045,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "5:55 - 1st",
+       "detail": "4:38 - 1st",
        "start": "2026-11-27T20:00Z",
        "period": 1,
-       "clock": "5:55",
+       "clock": "4:38",
        "teams": [
         {
          "name": "Denver Broncos",
@@ -2166,10 +2109,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "5:55 - 1st",
+       "detail": "4:38 - 1st",
        "start": "2026-11-27T20:00Z",
        "period": 1,
-       "clock": "5:55",
+       "clock": "4:38",
        "teams": [
         {
          "name": "Denver Broncos",
@@ -2204,6 +2147,63 @@
    }
   },
   {
+   "n": 1078,
+   "league": "NCAAB",
+   "type": "Spread",
+   "matchup": "Colgate Raiders @ Hofstra Pride",
+   "pick": "Hofstra -1.5",
+   "odds": -110,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-27T12:30:00",
+   "timed": true,
+   "ticket": "single",
+   "espn": {
+    "legs": [
+     {
+      "kind": "spread",
+      "side": "Hofstra",
+      "line": -1.5,
+      "label": "Hofstra -1.5",
+      "path": "basketball/mens-college-basketball",
+      "event": "401920774",
+      "date": "20261127",
+      "snapshot": {
+       "source": "espn",
+       "state": "pre",
+       "detail": "11/27 - 3:30 PM EST",
+       "start": "2026-11-27T20:30Z",
+       "period": null,
+       "clock": null,
+       "teams": [
+        {
+         "name": "Colgate Raiders",
+         "short": "Raiders",
+         "abbr": "COLG",
+         "score": 0,
+         "ha": "away",
+         "winner": null,
+         "linescores": []
+        },
+        {
+         "name": "Hofstra Pride",
+         "short": "Pride",
+         "abbr": "HOF",
+         "score": 0,
+         "ha": "home",
+         "winner": null,
+         "linescores": []
+        }
+       ]
+      },
+      "source": "espn"
+     }
+    ],
+    "sport": "NCAAB",
+    "ticket": "single"
+   }
+  },
+  {
    "n": 1082,
    "league": "NHL",
    "type": "Spread",
@@ -2229,10 +2229,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P1 08:12",
+       "detail": "P1 07:18",
        "start": "2026-11-27T20:00:00Z",
        "period": 1,
-       "clock": "08:12",
+       "clock": "07:18",
        "teams": [
         {
          "name": "Senators",
