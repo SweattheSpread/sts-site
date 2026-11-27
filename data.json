@@ -1,5 +1,5 @@
 {
- "updated": "Nov 27, 2026, 12:33 PM PT",
+ "updated": "Nov 27, 2026, 12:35 PM PT",
  "record": {
   "w": 292,
   "l": 292,
@@ -1476,10 +1476,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "3:05 - 1st",
+       "detail": "1:40 - 1st",
        "start": "2026-11-27T20:00Z",
        "period": 1,
-       "clock": "3:05",
+       "clock": "1:40",
        "teams": [
         {
          "name": "Denver Broncos",
@@ -1496,7 +1496,7 @@
          "name": "Pittsburgh Steelers",
          "short": "Steelers",
          "abbr": "PIT",
-         "score": 7,
+         "score": 14,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -1626,10 +1626,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "3:05 - 1st",
+       "detail": "1:40 - 1st",
        "start": "2026-11-27T20:00Z",
        "period": 1,
-       "clock": "3:05",
+       "clock": "1:40",
        "teams": [
         {
          "name": "Denver Broncos",
@@ -1646,7 +1646,7 @@
          "name": "Pittsburgh Steelers",
          "short": "Steelers",
          "abbr": "PIT",
-         "score": 7,
+         "score": 14,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -1699,10 +1699,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "3:05 - 1st",
+       "detail": "1:40 - 1st",
        "start": "2026-11-27T20:00Z",
        "period": 1,
-       "clock": "3:05",
+       "clock": "1:40",
        "teams": [
         {
          "name": "Denver Broncos",
@@ -1719,7 +1719,7 @@
          "name": "Pittsburgh Steelers",
          "short": "Steelers",
          "abbr": "PIT",
-         "score": 7,
+         "score": 14,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -1744,10 +1744,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "3:05 - 1st",
+       "detail": "1:40 - 1st",
        "start": "2026-11-27T20:00Z",
        "period": 1,
-       "clock": "3:05",
+       "clock": "1:40",
        "teams": [
         {
          "name": "Denver Broncos",
@@ -1764,7 +1764,7 @@
          "name": "Pittsburgh Steelers",
          "short": "Steelers",
          "abbr": "PIT",
-         "score": 7,
+         "score": 14,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -1932,16 +1932,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "9:37 - 2nd",
+       "detail": "8:31 - 2nd",
        "start": "2026-11-27T19:00Z",
        "period": 2,
-       "clock": "9:37",
+       "clock": "8:31",
        "teams": [
         {
          "name": "Maine Black Bears",
          "short": "Black Bears",
          "abbr": "ME",
-         "score": 57,
+         "score": 59,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -1953,7 +1953,7 @@
          "name": "Le Moyne Dolphins",
          "short": "Dolphins",
          "abbr": "LEM",
-         "score": 47,
+         "score": 49,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -2045,10 +2045,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "3:05 - 1st",
+       "detail": "1:40 - 1st",
        "start": "2026-11-27T20:00Z",
        "period": 1,
-       "clock": "3:05",
+       "clock": "1:40",
        "teams": [
         {
          "name": "Denver Broncos",
@@ -2065,7 +2065,7 @@
          "name": "Pittsburgh Steelers",
          "short": "Steelers",
          "abbr": "PIT",
-         "score": 7,
+         "score": 14,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -2109,10 +2109,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "3:05 - 1st",
+       "detail": "1:40 - 1st",
        "start": "2026-11-27T20:00Z",
        "period": 1,
-       "clock": "3:05",
+       "clock": "1:40",
        "teams": [
         {
          "name": "Denver Broncos",
@@ -2129,7 +2129,7 @@
          "name": "Pittsburgh Steelers",
          "short": "Steelers",
          "abbr": "PIT",
-         "score": 7,
+         "score": 14,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -2229,10 +2229,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P1 06:28",
+       "detail": "P1 05:19",
        "start": "2026-11-27T20:00:00Z",
        "period": 1,
-       "clock": "06:28",
+       "clock": "05:19",
        "teams": [
         {
          "name": "Senators",
