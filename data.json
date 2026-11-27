@@ -1,18 +1,60 @@
 {
- "updated": "Nov 26, 2026, 6:09 PM PT",
+ "updated": "Nov 26, 2026, 6:11 PM PT",
  "record": {
-  "w": 283,
-  "l": 287,
+  "w": 288,
+  "l": 289,
   "p": 2,
-  "n": 572,
-  "units": 56.54,
-  "risked": 835.2,
-  "roi": 6.77,
+  "n": 579,
+  "units": 62.19,
+  "risked": 846.7,
+  "roi": 7.34,
   "first": "2026-10-12",
-  "last": "2026-11-25"
+  "last": "2026-11-26"
  },
- "pending": 33,
+ "pending": 26,
  "latest": [
+  {
+   "n": 1065,
+   "date": "2026-11-26",
+   "day": "2026-11-26",
+   "league": "NFL",
+   "type": "Team Total",
+   "matchup": "Philadelphia Eagles @ Dallas Cowboys",
+   "pick": "Philadelphia Eagles team total Over 17.5 LIVE",
+   "odds": -105,
+   "units": 3.0,
+   "result": "W",
+   "pl": 2.86,
+   "ticket": "single"
+  },
+  {
+   "n": 1064,
+   "date": "2026-11-26",
+   "day": "2026-11-26",
+   "league": "NFL",
+   "type": "Player Prop",
+   "matchup": "Chicago Bears @ Detroit Lions",
+   "pick": "Amon-Ra St. Brown (DET) Over 143.5 receiving yards LIVE",
+   "odds": -115,
+   "units": 3.0,
+   "result": "W",
+   "pl": 2.61,
+   "ticket": "single"
+  },
+  {
+   "n": 990,
+   "date": "2026-11-26",
+   "day": "2026-11-26",
+   "league": "NFL",
+   "type": "Over/Under",
+   "matchup": "Philadelphia Eagles @ Dallas Cowboys",
+   "pick": "Over 48",
+   "odds": -108,
+   "units": 1.0,
+   "result": "W",
+   "pl": 0.93,
+   "ticket": "single"
+  },
   {
    "n": 1051,
    "date": "2026-11-25",
@@ -81,48 +123,6 @@
    "units": 1.0,
    "result": "L",
    "pl": -1.0,
-   "ticket": "single"
-  },
-  {
-   "n": 1046,
-   "date": "2026-11-25",
-   "day": "2026-11-25",
-   "league": "NCAAB",
-   "type": "Over/Under",
-   "matchup": "Mississippi Valley St Delta Devils @ New Mexico Lobos",
-   "pick": "Under 152.5",
-   "odds": -110,
-   "units": 1.0,
-   "result": "L",
-   "pl": -1.0,
-   "ticket": "single"
-  },
-  {
-   "n": 1045,
-   "date": "2026-11-25",
-   "day": "2026-11-25",
-   "league": "NCAAB",
-   "type": "Spread",
-   "matchup": "Longwood Lancers @ George Mason Patriots",
-   "pick": "Longwood +16.5",
-   "odds": -110,
-   "units": 1.0,
-   "result": "L",
-   "pl": -1.0,
-   "ticket": "single"
-  },
-  {
-   "n": 1044,
-   "date": "2026-11-25",
-   "day": "2026-11-25",
-   "league": "NCAAB",
-   "type": "Over/Under",
-   "matchup": "Incarnate Word Cardinals @ Hawaii Rainbow Warriors",
-   "pick": "Over 139.5",
-   "odds": -110,
-   "units": 1.0,
-   "result": "W",
-   "pl": 0.91,
    "ticket": "single"
   }
  ],
@@ -1237,73 +1237,6 @@
    }
   },
   {
-   "n": 854,
-   "league": "NFL",
-   "type": "Spread",
-   "matchup": "Philadelphia Eagles @ Dallas Cowboys",
-   "pick": "Philadelphia Eagles +8.5 (-109)",
-   "odds": -109,
-   "units": 1.0,
-   "gap": 4.1,
-   "start": "2026-11-26T12:30:00",
-   "timed": true,
-   "ticket": "single",
-   "espn": {
-    "legs": [
-     {
-      "kind": "spread",
-      "side": "Philadelphia Eagles",
-      "line": 8.5,
-      "label": "Philadelphia Eagles +8.5",
-      "path": "football/nfl",
-      "event": "401873080",
-      "date": "20261126",
-      "snapshot": {
-       "source": "espn",
-       "state": "post",
-       "detail": "Final",
-       "start": "2026-11-26T21:30Z",
-       "period": null,
-       "clock": null,
-       "teams": [
-        {
-         "name": "Philadelphia Eagles",
-         "short": "Eagles",
-         "abbr": "PHI",
-         "score": 39,
-         "ha": "away",
-         "winner": true,
-         "linescores": [
-          0,
-          0,
-          0,
-          0
-         ]
-        },
-        {
-         "name": "Dallas Cowboys",
-         "short": "Cowboys",
-         "abbr": "DAL",
-         "score": 38,
-         "ha": "home",
-         "winner": false,
-         "linescores": [
-          0,
-          0,
-          0,
-          0
-         ]
-        }
-       ]
-      },
-      "source": "espn"
-     }
-    ],
-    "sport": "NFL",
-    "ticket": "single"
-   }
-  },
-  {
    "n": 961,
    "league": "NFL",
    "type": "Spread",
@@ -1328,10 +1261,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "14:32 - 2nd",
+       "detail": "13:53 - 2nd",
        "start": "2026-11-27T01:20Z",
        "period": 2,
-       "clock": "14:32",
+       "clock": "13:53",
        "teams": [
         {
          "name": "Kansas City Chiefs",
@@ -1353,74 +1286,6 @@
          "ha": "home",
          "winner": null,
          "linescores": [
-          0,
-          0
-         ]
-        }
-       ]
-      },
-      "source": "espn"
-     }
-    ],
-    "sport": "NFL",
-    "ticket": "single"
-   }
-  },
-  {
-   "n": 990,
-   "league": "NFL",
-   "type": "Over/Under",
-   "matchup": "Philadelphia Eagles @ Dallas Cowboys",
-   "pick": "Over 48",
-   "odds": -108,
-   "units": 1.0,
-   "gap": null,
-   "start": "2026-11-26T13:30:00",
-   "timed": true,
-   "ticket": "single",
-   "espn": {
-    "legs": [
-     {
-      "kind": "total",
-      "side": null,
-      "ou": "O",
-      "line": 48.0,
-      "label": "O 48.0",
-      "path": "football/nfl",
-      "event": "401873080",
-      "date": "20261126",
-      "snapshot": {
-       "source": "espn",
-       "state": "post",
-       "detail": "Final",
-       "start": "2026-11-26T21:30Z",
-       "period": null,
-       "clock": null,
-       "teams": [
-        {
-         "name": "Philadelphia Eagles",
-         "short": "Eagles",
-         "abbr": "PHI",
-         "score": 39,
-         "ha": "away",
-         "winner": true,
-         "linescores": [
-          0,
-          0,
-          0,
-          0
-         ]
-        },
-        {
-         "name": "Dallas Cowboys",
-         "short": "Cowboys",
-         "abbr": "DAL",
-         "score": 38,
-         "ha": "home",
-         "winner": false,
-         "linescores": [
-          0,
-          0,
           0,
           0
          ]
@@ -1458,10 +1323,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "14:32 - 2nd",
+       "detail": "13:53 - 2nd",
        "start": "2026-11-27T01:20Z",
        "period": 2,
-       "clock": "14:32",
+       "clock": "13:53",
        "teams": [
         {
          "name": "Kansas City Chiefs",
@@ -1483,210 +1348,6 @@
          "ha": "home",
          "winner": null,
          "linescores": [
-          0,
-          0
-         ]
-        }
-       ]
-      },
-      "source": "espn"
-     }
-    ],
-    "sport": "NFL",
-    "ticket": "single"
-   }
-  },
-  {
-   "n": 1008,
-   "league": "NFL",
-   "type": "Player prop",
-   "matchup": "Chicago Bears @ Detroit Lions",
-   "pick": "Jameson Williams longest reception Over 23.5",
-   "odds": -120,
-   "units": 1.0,
-   "gap": null,
-   "start": "2026-11-26T10:00:00",
-   "timed": true,
-   "ticket": "single",
-   "espn": {
-    "legs": [
-     {
-      "kind": "team_total",
-      "side": "Jameson Williams longest reception",
-      "ou": "O",
-      "line": 23.5,
-      "label": "Jameson Williams longest reception O 23.5",
-      "path": "football/nfl",
-      "event": "401873081",
-      "date": "20261126",
-      "snapshot": {
-       "source": "espn",
-       "state": "post",
-       "detail": "Final",
-       "start": "2026-11-26T18:00Z",
-       "period": null,
-       "clock": null,
-       "teams": [
-        {
-         "name": "Chicago Bears",
-         "short": "Bears",
-         "abbr": "CHI",
-         "score": 39,
-         "ha": "away",
-         "winner": true,
-         "linescores": [
-          0,
-          0,
-          0,
-          0
-         ]
-        },
-        {
-         "name": "Detroit Lions",
-         "short": "Lions",
-         "abbr": "DET",
-         "score": 35,
-         "ha": "home",
-         "winner": false,
-         "linescores": [
-          0,
-          0,
-          0,
-          0
-         ]
-        }
-       ]
-      },
-      "source": "espn"
-     }
-    ],
-    "sport": "NFL",
-    "ticket": "single"
-   }
-  },
-  {
-   "n": 1009,
-   "league": "NFL",
-   "type": "Player prop",
-   "matchup": "Chicago Bears @ Detroit Lions",
-   "pick": "Zavion Thomas longest reception Over 7.5",
-   "odds": -115,
-   "units": 1.5,
-   "gap": null,
-   "start": "2026-11-26T10:00:00",
-   "timed": true,
-   "ticket": "single",
-   "espn": {
-    "legs": [
-     {
-      "kind": "team_total",
-      "side": "Zavion Thomas longest reception",
-      "ou": "O",
-      "line": 7.5,
-      "label": "Zavion Thomas longest reception O 7.5",
-      "path": "football/nfl",
-      "event": "401873081",
-      "date": "20261126",
-      "snapshot": {
-       "source": "espn",
-       "state": "post",
-       "detail": "Final",
-       "start": "2026-11-26T18:00Z",
-       "period": null,
-       "clock": null,
-       "teams": [
-        {
-         "name": "Chicago Bears",
-         "short": "Bears",
-         "abbr": "CHI",
-         "score": 39,
-         "ha": "away",
-         "winner": true,
-         "linescores": [
-          0,
-          0,
-          0,
-          0
-         ]
-        },
-        {
-         "name": "Detroit Lions",
-         "short": "Lions",
-         "abbr": "DET",
-         "score": 35,
-         "ha": "home",
-         "winner": false,
-         "linescores": [
-          0,
-          0,
-          0,
-          0
-         ]
-        }
-       ]
-      },
-      "source": "espn"
-     }
-    ],
-    "sport": "NFL",
-    "ticket": "single"
-   }
-  },
-  {
-   "n": 1010,
-   "league": "NFL",
-   "type": "Player prop",
-   "matchup": "Philadelphia Eagles @ Dallas Cowboys",
-   "pick": "Ryan Flournoy longest reception Over 15.5",
-   "odds": -105,
-   "units": 1.0,
-   "gap": null,
-   "start": "2026-11-26T13:30:00",
-   "timed": true,
-   "ticket": "single",
-   "espn": {
-    "legs": [
-     {
-      "kind": "team_total",
-      "side": "Ryan Flournoy longest reception",
-      "ou": "O",
-      "line": 15.5,
-      "label": "Ryan Flournoy longest reception O 15.5",
-      "path": "football/nfl",
-      "event": "401873080",
-      "date": "20261126",
-      "snapshot": {
-       "source": "espn",
-       "state": "post",
-       "detail": "Final",
-       "start": "2026-11-26T21:30Z",
-       "period": null,
-       "clock": null,
-       "teams": [
-        {
-         "name": "Philadelphia Eagles",
-         "short": "Eagles",
-         "abbr": "PHI",
-         "score": 39,
-         "ha": "away",
-         "winner": true,
-         "linescores": [
-          0,
-          0,
-          0,
-          0
-         ]
-        },
-        {
-         "name": "Dallas Cowboys",
-         "short": "Cowboys",
-         "abbr": "DAL",
-         "score": 38,
-         "ha": "home",
-         "winner": false,
-         "linescores": [
-          0,
-          0,
           0,
           0
          ]
@@ -1726,10 +1387,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "14:32 - 2nd",
+       "detail": "13:53 - 2nd",
        "start": "2026-11-27T01:20Z",
        "period": 2,
-       "clock": "14:32",
+       "clock": "13:53",
        "teams": [
         {
          "name": "Kansas City Chiefs",
@@ -1790,10 +1451,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "14:32 - 2nd",
+       "detail": "13:53 - 2nd",
        "start": "2026-11-27T01:20Z",
        "period": 2,
-       "clock": "14:32",
+       "clock": "13:53",
        "teams": [
         {
          "name": "Kansas City Chiefs",
@@ -1855,10 +1516,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "14:32 - 2nd",
+       "detail": "13:53 - 2nd",
        "start": "2026-11-27T01:20Z",
        "period": 2,
-       "clock": "14:32",
+       "clock": "13:53",
        "teams": [
         {
          "name": "Kansas City Chiefs",
@@ -1921,10 +1582,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "14:32 - 2nd",
+       "detail": "13:53 - 2nd",
        "start": "2026-11-27T01:20Z",
        "period": 2,
-       "clock": "14:32",
+       "clock": "13:53",
        "teams": [
         {
          "name": "Kansas City Chiefs",
@@ -1968,10 +1629,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "14:32 - 2nd",
+       "detail": "13:53 - 2nd",
        "start": "2026-11-27T01:20Z",
        "period": 2,
-       "clock": "14:32",
+       "clock": "13:53",
        "teams": [
         {
          "name": "Kansas City Chiefs",
@@ -2034,10 +1695,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "14:32 - 2nd",
+       "detail": "13:53 - 2nd",
        "start": "2026-11-27T01:20Z",
        "period": 2,
-       "clock": "14:32",
+       "clock": "13:53",
        "teams": [
         {
          "name": "Kansas City Chiefs",
@@ -2138,131 +1799,6 @@
     ],
     "sport": "NFL",
     "ticket": "sgp"
-   }
-  },
-  {
-   "n": 1064,
-   "league": "NFL",
-   "type": "Player Prop",
-   "matchup": "Chicago Bears @ Detroit Lions",
-   "pick": "Amon-Ra St. Brown (DET) Over 143.5 receiving yards LIVE",
-   "odds": -115,
-   "units": 3.0,
-   "gap": null,
-   "start": "2026-11-26T10:00:00",
-   "timed": true,
-   "ticket": "single",
-   "espn": {
-    "legs": [
-     {
-      "kind": "prop",
-      "player": "Amon-Ra St. Brown",
-      "ou": "O",
-      "line": 143.5,
-      "stat": "receiving yards live",
-      "label": "Amon-Ra St. Brown O 143.5 receiving yards live",
-      "date": "20261126",
-      "unverified": true,
-      "reason": "Player not found in this game",
-      "snapshot": {
-       "source": "odds-api",
-       "state": "post",
-       "detail": "Final",
-       "start": "2026-11-26T18:02:55Z",
-       "teams": [
-        {
-         "name": "Chicago Bears",
-         "short": "Chicago Bears",
-         "abbr": "",
-         "score": 39,
-         "ha": "away",
-         "winner": true,
-         "linescores": []
-        },
-        {
-         "name": "Detroit Lions",
-         "short": "Detroit Lions",
-         "abbr": "",
-         "score": 35,
-         "ha": "home",
-         "winner": false,
-         "linescores": []
-        }
-       ]
-      },
-      "source": "odds-api"
-     }
-    ],
-    "sport": "NFL",
-    "ticket": "single"
-   }
-  },
-  {
-   "n": 1065,
-   "league": "NFL",
-   "type": "Team Total",
-   "matchup": "Philadelphia Eagles @ Dallas Cowboys",
-   "pick": "Philadelphia Eagles team total Over 17.5 LIVE",
-   "odds": -105,
-   "units": 3.0,
-   "gap": null,
-   "start": "2026-11-26T13:30:00",
-   "timed": true,
-   "ticket": "single",
-   "espn": {
-    "legs": [
-     {
-      "kind": "team_total",
-      "side": "Philadelphia Eagles",
-      "ou": "O",
-      "line": 17.5,
-      "label": "Philadelphia Eagles O 17.5",
-      "path": "football/nfl",
-      "event": "401873080",
-      "date": "20261126",
-      "snapshot": {
-       "source": "espn",
-       "state": "post",
-       "detail": "Final",
-       "start": "2026-11-26T21:30Z",
-       "period": null,
-       "clock": null,
-       "teams": [
-        {
-         "name": "Philadelphia Eagles",
-         "short": "Eagles",
-         "abbr": "PHI",
-         "score": 39,
-         "ha": "away",
-         "winner": true,
-         "linescores": [
-          0,
-          0,
-          0,
-          0
-         ]
-        },
-        {
-         "name": "Dallas Cowboys",
-         "short": "Cowboys",
-         "abbr": "DAL",
-         "score": 38,
-         "ha": "home",
-         "winner": false,
-         "linescores": [
-          0,
-          0,
-          0,
-          0
-         ]
-        }
-       ]
-      },
-      "source": "espn"
-     }
-    ],
-    "sport": "NFL",
-    "ticket": "single"
    }
   }
  ],
@@ -2442,6 +1978,10 @@
   "2026-11-25": {
    "u": -6.21,
    "n": 23
+  },
+  "2026-11-26": {
+   "u": 5.65,
+   "n": 7
   }
  }
 }

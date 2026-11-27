@@ -1,17 +1,17 @@
 {
- "updated": "Nov 26, 2026, 6:09 PM PT",
+ "updated": "Nov 26, 2026, 6:11 PM PT",
  "record": {
-  "w": 283,
-  "l": 287,
+  "w": 288,
+  "l": 289,
   "p": 2,
-  "n": 572,
-  "units": 56.54,
-  "risked": 835.2,
-  "roi": 6.77,
+  "n": 579,
+  "units": 62.19,
+  "risked": 846.7,
+  "roi": 7.34,
   "first": "2026-10-12",
-  "last": "2026-11-25"
+  "last": "2026-11-26"
  },
- "pending": 34,
+ "pending": 27,
  "plays": [
   {
    "n": 334,
@@ -9305,9 +9305,9 @@
    "pick": "Philadelphia Eagles +8.5 (-109)",
    "odds": -109,
    "units": 1.0,
-   "result": null,
-   "pl": null,
-   "pending": true
+   "result": "W",
+   "pl": 0.92,
+   "pending": false
   },
   {
    "n": 961,
@@ -9337,9 +9337,9 @@
    "pick": "Over 48 -108",
    "odds": -108,
    "units": 1.0,
-   "result": null,
-   "pl": null,
-   "pending": true
+   "result": "W",
+   "pl": 0.93,
+   "pending": false
   },
   {
    "n": 991,
@@ -9369,9 +9369,9 @@
    "pick": "Jameson Williams longest reception Over 23.5",
    "odds": -120,
    "units": 1.0,
-   "result": null,
-   "pl": null,
-   "pending": true
+   "result": "W",
+   "pl": 0.83,
+   "pending": false
   },
   {
    "n": 1009,
@@ -9385,9 +9385,9 @@
    "pick": "Zavion Thomas longest reception Over 7.5",
    "odds": -115,
    "units": 1.5,
-   "result": null,
-   "pl": null,
-   "pending": true
+   "result": "L",
+   "pl": -1.5,
+   "pending": false
   },
   {
    "n": 1010,
@@ -9401,9 +9401,9 @@
    "pick": "Ryan Flournoy longest reception Over 15.5",
    "odds": -105,
    "units": 1.0,
-   "result": null,
-   "pl": null,
-   "pending": true
+   "result": "L",
+   "pl": -1.0,
+   "pending": false
   },
   {
    "n": 1012,
@@ -9513,9 +9513,9 @@
    "pick": "Amon-Ra St. Brown (DET) Over 143.5 receiving yards LIVE",
    "odds": -115,
    "units": 3.0,
-   "result": null,
-   "pl": null,
-   "pending": true
+   "result": "W",
+   "pl": 2.61,
+   "pending": false
   },
   {
    "n": 1065,
@@ -9529,9 +9529,9 @@
    "pick": "Philadelphia Eagles team total Over 17.5 LIVE",
    "odds": -105,
    "units": 3.0,
-   "result": null,
-   "pl": null,
-   "pending": true
+   "result": "W",
+   "pl": 2.86,
+   "pending": false
   },
   {
    "n": 1032,
