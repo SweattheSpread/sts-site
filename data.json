@@ -1,5 +1,5 @@
 {
- "updated": "Nov 27, 2026, 2:29 PM PT",
+ "updated": "Nov 27, 2026, 2:31 PM PT",
  "record": {
   "w": 292,
   "l": 292,
@@ -127,63 +127,6 @@
   }
  ],
  "picks": [
-  {
-   "n": 1057,
-   "league": "NHL",
-   "type": "Moneyline",
-   "matchup": "New York Rangers @ Chicago Blackhawks",
-   "pick": "New York Rangers ML",
-   "odds": -172,
-   "units": 1.0,
-   "gap": null,
-   "start": "2026-11-27T14:30:00",
-   "timed": true,
-   "ticket": "single",
-   "espn": {
-    "legs": [
-     {
-      "kind": "ml",
-      "side": "New York Rangers",
-      "label": "New York Rangers ML",
-      "path": "hockey/nhl",
-      "event": "401892806",
-      "date": "20261127",
-      "snapshot": {
-       "source": "nhl",
-       "state": "pre",
-       "detail": "Scheduled",
-       "start": "2026-11-27T22:30:00Z",
-       "period": null,
-       "clock": null,
-       "teams": [
-        {
-         "name": "Rangers",
-         "short": "NYR",
-         "abbr": "NYR",
-         "score": 0,
-         "ha": "away",
-         "winner": null,
-         "linescores": []
-        },
-        {
-         "name": "Blackhawks",
-         "short": "CHI",
-         "abbr": "CHI",
-         "score": 0,
-         "ha": "home",
-         "winner": null,
-         "linescores": []
-        }
-       ],
-       "nhl_id": 2026020411
-      },
-      "source": "nhl"
-     }
-    ],
-    "sport": "NHL",
-    "ticket": "single"
-   }
-  },
   {
    "n": 1079,
    "league": "NCAAB",
@@ -1401,6 +1344,63 @@
    }
   },
   {
+   "n": 1057,
+   "league": "NHL",
+   "type": "Moneyline",
+   "matchup": "New York Rangers @ Chicago Blackhawks",
+   "pick": "New York Rangers ML",
+   "odds": -172,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-27T14:30:00",
+   "timed": true,
+   "ticket": "single",
+   "espn": {
+    "legs": [
+     {
+      "kind": "ml",
+      "side": "New York Rangers",
+      "label": "New York Rangers ML",
+      "path": "hockey/nhl",
+      "event": "401892806",
+      "date": "20261127",
+      "snapshot": {
+       "source": "nhl",
+       "state": "pre",
+       "detail": "Scheduled",
+       "start": "2026-11-27T22:30:00Z",
+       "period": null,
+       "clock": null,
+       "teams": [
+        {
+         "name": "Rangers",
+         "short": "NYR",
+         "abbr": "NYR",
+         "score": 0,
+         "ha": "away",
+         "winner": null,
+         "linescores": []
+        },
+        {
+         "name": "Blackhawks",
+         "short": "CHI",
+         "abbr": "CHI",
+         "score": 0,
+         "ha": "home",
+         "winner": null,
+         "linescores": []
+        }
+       ],
+       "nhl_id": 2026020411
+      },
+      "source": "nhl"
+     }
+    ],
+    "sport": "NHL",
+    "ticket": "single"
+   }
+  },
+  {
    "n": 1058,
    "league": "NHL",
    "type": "Moneyline",
@@ -1424,10 +1424,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P1 09:21",
+       "detail": "P1 08:05",
        "start": "2026-11-27T21:00:00Z",
        "period": 1,
-       "clock": "09:21",
+       "clock": "08:05",
        "teams": [
         {
          "name": "Avalanche",
@@ -1483,10 +1483,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "8:20 - 2nd",
+       "detail": "7:15 - 2nd",
        "start": "2026-11-27T20:30Z",
        "period": 2,
-       "clock": "8:20",
+       "clock": "7:15",
        "teams": [
         {
          "name": "Temple Owls",
@@ -1889,16 +1889,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "0:17 - OT",
+       "detail": "0:00 - OT",
        "start": "2026-11-27T19:00Z",
        "period": 3,
-       "clock": "0:17",
+       "clock": "0:00",
        "teams": [
         {
          "name": "Maine Black Bears",
          "short": "Black Bears",
          "abbr": "ME",
-         "score": 85,
+         "score": 90,
          "ha": "away",
          "winner": null,
          "linescores": [
