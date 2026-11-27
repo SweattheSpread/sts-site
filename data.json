@@ -1,5 +1,5 @@
 {
- "updated": "Nov 27, 2026, 10:49 AM PT",
+ "updated": "Nov 27, 2026, 10:51 AM PT",
  "record": {
   "w": 292,
   "l": 292,
@@ -2097,16 +2097,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "2:02 - 2nd",
+       "detail": "1:42 - 2nd",
        "start": "2026-11-27T17:00Z",
        "period": 2,
-       "clock": "2:02",
+       "clock": "1:42",
        "teams": [
         {
          "name": "St. Thomas Tommies",
          "short": "Tommies",
          "abbr": "STMN",
-         "score": 60,
+         "score": 63,
          "ha": "away",
          "winner": null,
          "linescores": [
