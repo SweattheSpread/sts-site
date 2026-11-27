@@ -1,5 +1,5 @@
 {
- "updated": "Nov 27, 2026, 12:20 AM PT",
+ "updated": "Nov 27, 2026, 1:16 AM PT",
  "record": {
   "w": 292,
   "l": 292,
@@ -11,7 +11,7 @@
   "first": "2026-10-12",
   "last": "2026-11-26"
  },
- "pending": 19,
+ "pending": 22,
  "plays": [
   {
    "n": 334,
@@ -9609,6 +9609,54 @@
    "pick": "2-leg SGP Jonah Coleman 70+ rushing yds + Jonah Coleman anytime TD",
    "odds": 130,
    "units": 3.0,
+   "result": null,
+   "pl": null,
+   "pending": true
+  },
+  {
+   "n": 1066,
+   "date": "2026-11-27",
+   "day": "2026-11-27",
+   "league": "NCAAB",
+   "market": "spread",
+   "market_label": "Spread",
+   "ticket": "single",
+   "matchup": "Liberty Flames @ St. Thomas (MN) Tommies",
+   "pick": "St. Thomas (MN) +1.5",
+   "odds": -115,
+   "units": 1.0,
+   "result": null,
+   "pl": null,
+   "pending": true
+  },
+  {
+   "n": 1067,
+   "date": "2026-11-27",
+   "day": "2026-11-27",
+   "league": "NCAAB",
+   "market": "spread",
+   "market_label": "Spread",
+   "ticket": "single",
+   "matchup": "Fresno St Bulldogs @ South Alabama Jaguars",
+   "pick": "Fresno St +1",
+   "odds": -110,
+   "units": 1.0,
+   "result": null,
+   "pl": null,
+   "pending": true
+  },
+  {
+   "n": 1068,
+   "date": "2026-11-27",
+   "day": "2026-11-27",
+   "league": "NCAAB",
+   "market": "spread",
+   "market_label": "Spread",
+   "ticket": "single",
+   "matchup": "Le Moyne Dolphins @ Maine Black Bears",
+   "pick": "Le Moyne +1.5",
+   "odds": -110,
+   "units": 1.0,
    "result": null,
    "pl": null,
    "pending": true
