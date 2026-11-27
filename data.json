@@ -1,5 +1,5 @@
 {
- "updated": "Nov 27, 2026, 4:56 PM PT",
+ "updated": "Nov 27, 2026, 4:58 PM PT",
  "record": {
   "w": 292,
   "l": 292,
@@ -1254,10 +1254,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P2 10:38",
+       "detail": "P2 08:38",
        "start": "2026-11-27T22:30:00Z",
        "period": 2,
-       "clock": "10:38",
+       "clock": "08:38",
        "teams": [
         {
          "name": "Rangers",
@@ -2076,7 +2076,7 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "0:00 - 1st",
+       "detail": "Halftime",
        "start": "2026-11-27T23:00Z",
        "period": 1,
        "clock": "0:00",
