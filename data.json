@@ -1,5 +1,5 @@
 {
- "updated": "Nov 27, 2026, 12:55 PM PT",
+ "updated": "Nov 27, 2026, 12:57 PM PT",
  "record": {
   "w": 292,
   "l": 292,
@@ -1476,10 +1476,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "9:42 - 2nd",
+       "detail": "7:49 - 2nd",
        "start": "2026-11-27T20:00Z",
        "period": 2,
-       "clock": "9:42",
+       "clock": "7:49",
        "teams": [
         {
          "name": "Denver Broncos",
@@ -1632,10 +1632,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "9:42 - 2nd",
+       "detail": "7:49 - 2nd",
        "start": "2026-11-27T20:00Z",
        "period": 2,
-       "clock": "9:42",
+       "clock": "7:49",
        "teams": [
         {
          "name": "Denver Broncos",
@@ -1707,10 +1707,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "9:42 - 2nd",
+       "detail": "7:49 - 2nd",
        "start": "2026-11-27T20:00Z",
        "period": 2,
-       "clock": "9:42",
+       "clock": "7:49",
        "teams": [
         {
          "name": "Denver Broncos",
@@ -1754,10 +1754,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "9:42 - 2nd",
+       "detail": "7:49 - 2nd",
        "start": "2026-11-27T20:00Z",
        "period": 2,
-       "clock": "9:42",
+       "clock": "7:49",
        "teams": [
         {
          "name": "Denver Broncos",
@@ -1944,16 +1944,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "3:27 - 2nd",
+       "detail": "2:14 - 2nd",
        "start": "2026-11-27T19:00Z",
        "period": 2,
-       "clock": "3:27",
+       "clock": "2:14",
        "teams": [
         {
          "name": "Maine Black Bears",
          "short": "Black Bears",
          "abbr": "ME",
-         "score": 66,
+         "score": 70,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -1965,7 +1965,7 @@
          "name": "Le Moyne Dolphins",
          "short": "Dolphins",
          "abbr": "LEM",
-         "score": 67,
+         "score": 71,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -2057,10 +2057,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "9:42 - 2nd",
+       "detail": "7:49 - 2nd",
        "start": "2026-11-27T20:00Z",
        "period": 2,
-       "clock": "9:42",
+       "clock": "7:49",
        "teams": [
         {
          "name": "Denver Broncos",
@@ -2123,10 +2123,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "9:42 - 2nd",
+       "detail": "7:49 - 2nd",
        "start": "2026-11-27T20:00Z",
        "period": 2,
-       "clock": "9:42",
+       "clock": "7:49",
        "teams": [
         {
          "name": "Denver Broncos",
@@ -2187,16 +2187,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "9:29 - 1st",
+       "detail": "7:27 - 1st",
        "start": "2026-11-27T20:30Z",
        "period": 1,
-       "clock": "9:29",
+       "clock": "7:27",
        "teams": [
         {
          "name": "Colgate Raiders",
          "short": "Raiders",
          "abbr": "COLG",
-         "score": 24,
+         "score": 28,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -2207,7 +2207,7 @@
          "name": "Hofstra Pride",
          "short": "Pride",
          "abbr": "HOF",
-         "score": 12,
+         "score": 16,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -2249,10 +2249,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P1 07:18",
+       "detail": "P1 05:15",
        "start": "2026-11-27T20:00:00Z",
        "period": 1,
-       "clock": "07:18",
+       "clock": "05:15",
        "teams": [
         {
          "name": "Senators",
