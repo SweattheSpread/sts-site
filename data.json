@@ -1,5 +1,5 @@
 {
- "updated": "Nov 27, 2026, 3:26 PM PT",
+ "updated": "Nov 27, 2026, 3:28 PM PT",
  "record": {
   "w": 292,
   "l": 292,
@@ -1428,10 +1428,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P2 07:24",
+       "detail": "P2 06:54",
        "start": "2026-11-27T21:00:00Z",
        "period": 2,
-       "clock": "07:24",
+       "clock": "06:54",
        "teams": [
         {
          "name": "Avalanche",
@@ -1487,16 +1487,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "10:40 - 3rd",
+       "detail": "10:35 - 3rd",
        "start": "2026-11-27T20:30Z",
        "period": 3,
-       "clock": "10:40",
+       "clock": "10:35",
        "teams": [
         {
          "name": "Temple Owls",
          "short": "Owls",
          "abbr": "TEM",
-         "score": 7,
+         "score": 14,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -2281,10 +2281,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "8:30 - 1st",
+       "detail": "7:30 - 1st",
        "start": "2026-11-27T22:00Z",
        "period": 1,
-       "clock": "8:30",
+       "clock": "7:30",
        "teams": [
         {
          "name": "Marquette Golden Eagles",
@@ -2301,7 +2301,7 @@
          "name": "Texas A&M Aggies",
          "short": "Aggies",
          "abbr": "TA&M",
-         "score": 21,
+         "score": 24,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -2343,10 +2343,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P3 08:13",
+       "detail": "P3 06:11",
        "start": "2026-11-27T20:00:00Z",
        "period": 3,
-       "clock": "08:13",
+       "clock": "06:11",
        "teams": [
         {
          "name": "Senators",
