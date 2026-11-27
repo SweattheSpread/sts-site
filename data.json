@@ -1,5 +1,5 @@
 {
- "updated": "Nov 27, 2026, 12:59 PM PT",
+ "updated": "Nov 27, 2026, 1:01 PM PT",
  "record": {
   "w": 292,
   "l": 292,
@@ -127,63 +127,6 @@
   }
  ],
  "picks": [
-  {
-   "n": 1058,
-   "league": "NHL",
-   "type": "Moneyline",
-   "matchup": "Colorado Avalanche @ Minnesota Wild",
-   "pick": "Colorado Avalanche ML",
-   "odds": 108,
-   "units": 1.0,
-   "gap": null,
-   "start": "2026-11-27T13:00:00",
-   "timed": true,
-   "ticket": "single",
-   "espn": {
-    "legs": [
-     {
-      "kind": "ml",
-      "side": "Colorado Avalanche",
-      "label": "Colorado Avalanche ML",
-      "path": "hockey/nhl",
-      "event": "401892803",
-      "date": "20261127",
-      "snapshot": {
-       "source": "nhl",
-       "state": "pre",
-       "detail": "Scheduled",
-       "start": "2026-11-27T21:00:00Z",
-       "period": null,
-       "clock": null,
-       "teams": [
-        {
-         "name": "Avalanche",
-         "short": "COL",
-         "abbr": "COL",
-         "score": 0,
-         "ha": "away",
-         "winner": null,
-         "linescores": []
-        },
-        {
-         "name": "Wild",
-         "short": "MIN",
-         "abbr": "MIN",
-         "score": 0,
-         "ha": "home",
-         "winner": null,
-         "linescores": []
-        }
-       ],
-       "nhl_id": 2026020408
-      },
-      "source": "nhl"
-     }
-    ],
-    "sport": "NHL",
-    "ticket": "single"
-   }
-  },
   {
    "n": 1081,
    "league": "NCAAB",
@@ -1476,16 +1419,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "5:16 - 2nd",
+       "detail": "5:06 - 2nd",
        "start": "2026-11-27T20:00Z",
        "period": 2,
-       "clock": "5:16",
+       "clock": "5:06",
        "teams": [
         {
          "name": "Denver Broncos",
          "short": "Broncos",
          "abbr": "DEN",
-         "score": 2,
+         "score": 5,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -1515,6 +1458,63 @@
    }
   },
   {
+   "n": 1058,
+   "league": "NHL",
+   "type": "Moneyline",
+   "matchup": "Colorado Avalanche @ Minnesota Wild",
+   "pick": "Colorado Avalanche ML",
+   "odds": 108,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-27T13:00:00",
+   "timed": true,
+   "ticket": "single",
+   "espn": {
+    "legs": [
+     {
+      "kind": "ml",
+      "side": "Colorado Avalanche",
+      "label": "Colorado Avalanche ML",
+      "path": "hockey/nhl",
+      "event": "401892803",
+      "date": "20261127",
+      "snapshot": {
+       "source": "nhl",
+       "state": "pre",
+       "detail": "Scheduled",
+       "start": "2026-11-27T21:00:00Z",
+       "period": null,
+       "clock": null,
+       "teams": [
+        {
+         "name": "Avalanche",
+         "short": "COL",
+         "abbr": "COL",
+         "score": 0,
+         "ha": "away",
+         "winner": null,
+         "linescores": []
+        },
+        {
+         "name": "Wild",
+         "short": "MIN",
+         "abbr": "MIN",
+         "score": 0,
+         "ha": "home",
+         "winner": null,
+         "linescores": []
+        }
+       ],
+       "nhl_id": 2026020408
+      },
+      "source": "nhl"
+     }
+    ],
+    "sport": "NHL",
+    "ticket": "single"
+   }
+  },
+  {
    "n": 1059,
    "league": "NCAAF",
    "type": "Total",
@@ -1540,16 +1540,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "5:32 - 1st",
+       "detail": "4:15 - 1st",
        "start": "2026-11-27T20:30Z",
        "period": 1,
-       "clock": "5:32",
+       "clock": "4:15",
        "teams": [
         {
          "name": "Temple Owls",
          "short": "Owls",
          "abbr": "TEM",
-         "score": 0,
+         "score": 6,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -1632,16 +1632,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "5:16 - 2nd",
+       "detail": "5:06 - 2nd",
        "start": "2026-11-27T20:00Z",
        "period": 2,
-       "clock": "5:16",
+       "clock": "5:06",
        "teams": [
         {
          "name": "Denver Broncos",
          "short": "Broncos",
          "abbr": "DEN",
-         "score": 2,
+         "score": 5,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -1707,16 +1707,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "5:16 - 2nd",
+       "detail": "5:06 - 2nd",
        "start": "2026-11-27T20:00Z",
        "period": 2,
-       "clock": "5:16",
+       "clock": "5:06",
        "teams": [
         {
          "name": "Denver Broncos",
          "short": "Broncos",
          "abbr": "DEN",
-         "score": 2,
+         "score": 5,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -1754,16 +1754,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "5:16 - 2nd",
+       "detail": "5:06 - 2nd",
        "start": "2026-11-27T20:00Z",
        "period": 2,
-       "clock": "5:16",
+       "clock": "5:06",
        "teams": [
         {
          "name": "Denver Broncos",
          "short": "Broncos",
          "abbr": "DEN",
-         "score": 2,
+         "score": 5,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -1944,16 +1944,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "0:54 - 2nd",
+       "detail": "0:39 - 2nd",
        "start": "2026-11-27T19:00Z",
        "period": 2,
-       "clock": "0:54",
+       "clock": "0:39",
        "teams": [
         {
          "name": "Maine Black Bears",
          "short": "Black Bears",
          "abbr": "ME",
-         "score": 73,
+         "score": 76,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -1965,7 +1965,7 @@
          "name": "Le Moyne Dolphins",
          "short": "Dolphins",
          "abbr": "LEM",
-         "score": 72,
+         "score": 73,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -2057,16 +2057,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "5:16 - 2nd",
+       "detail": "5:06 - 2nd",
        "start": "2026-11-27T20:00Z",
        "period": 2,
-       "clock": "5:16",
+       "clock": "5:06",
        "teams": [
         {
          "name": "Denver Broncos",
          "short": "Broncos",
          "abbr": "DEN",
-         "score": 2,
+         "score": 5,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -2123,16 +2123,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "5:16 - 2nd",
+       "detail": "5:06 - 2nd",
        "start": "2026-11-27T20:00Z",
        "period": 2,
-       "clock": "5:16",
+       "clock": "5:06",
        "teams": [
         {
          "name": "Denver Broncos",
          "short": "Broncos",
          "abbr": "DEN",
-         "score": 2,
+         "score": 5,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -2187,16 +2187,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "6:56 - 1st",
+       "detail": "5:47 - 1st",
        "start": "2026-11-27T20:30Z",
        "period": 1,
-       "clock": "6:56",
+       "clock": "5:47",
        "teams": [
         {
          "name": "Colgate Raiders",
          "short": "Raiders",
          "abbr": "COLG",
-         "score": 28,
+         "score": 30,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -2249,10 +2249,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P1 03:00",
+       "detail": "P1 00:31",
        "start": "2026-11-27T20:00:00Z",
        "period": 1,
-       "clock": "03:00",
+       "clock": "00:31",
        "teams": [
         {
          "name": "Senators",
