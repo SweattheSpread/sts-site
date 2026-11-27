@@ -1,5 +1,5 @@
 {
- "updated": "Nov 27, 2026, 3:52 PM PT",
+ "updated": "Nov 27, 2026, 3:55 PM PT",
  "record": {
   "w": 292,
   "l": 292,
@@ -1304,11 +1304,11 @@
       "date": "20261127",
       "snapshot": {
        "source": "espn",
-       "state": "in",
-       "detail": "1:15 - 4th",
+       "state": "post",
+       "detail": "Final",
        "start": "2026-11-27T20:00Z",
-       "period": 4,
-       "clock": "1:15",
+       "period": null,
+       "clock": null,
        "teams": [
         {
          "name": "Denver Broncos",
@@ -1316,7 +1316,7 @@
          "abbr": "DEN",
          "score": 5,
          "ha": "away",
-         "winner": null,
+         "winner": false,
          "linescores": [
           0,
           0,
@@ -1330,7 +1330,7 @@
          "abbr": "PIT",
          "score": 27,
          "ha": "home",
-         "winner": null,
+         "winner": true,
          "linescores": [
           0,
           0,
@@ -1371,10 +1371,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P1 12:01",
+       "detail": "P1 10:42",
        "start": "2026-11-27T22:30:00Z",
        "period": 1,
-       "clock": "12:01",
+       "clock": "10:42",
        "teams": [
         {
          "name": "Rangers",
@@ -1428,10 +1428,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P2 04:45",
+       "detail": "P2 02:21",
        "start": "2026-11-27T21:00:00Z",
        "period": 2,
-       "clock": "04:45",
+       "clock": "02:21",
        "teams": [
         {
          "name": "Avalanche",
@@ -1487,10 +1487,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "0:06 - 3rd",
+       "detail": "End of 3rd",
        "start": "2026-11-27T20:30Z",
        "period": 3,
-       "clock": "0:06",
+       "clock": "0:00",
        "teams": [
         {
          "name": "Temple Owls",
@@ -1577,49 +1577,9 @@
       "line": 0.5,
       "stat": "anytime td",
       "label": "Emmett Johnson O 0.5 anytime td",
-      "path": "football/nfl",
-      "event": "401873083",
       "date": "20261126",
-      "snapshot": {
-       "source": "espn",
-       "state": "in",
-       "detail": "1:15 - 4th",
-       "start": "2026-11-27T20:00Z",
-       "period": 4,
-       "clock": "1:15",
-       "teams": [
-        {
-         "name": "Denver Broncos",
-         "short": "Broncos",
-         "abbr": "DEN",
-         "score": 5,
-         "ha": "away",
-         "winner": null,
-         "linescores": [
-          0,
-          0,
-          0,
-          0
-         ]
-        },
-        {
-         "name": "Pittsburgh Steelers",
-         "short": "Steelers",
-         "abbr": "PIT",
-         "score": 27,
-         "ha": "home",
-         "winner": null,
-         "linescores": [
-          0,
-          0,
-          0,
-          0
-         ]
-        }
-       ],
-       "stat": null
-      },
-      "source": "espn"
+      "unverified": true,
+      "reason": "Player not found in this game"
      },
      {
       "kind": "prop",
@@ -1656,49 +1616,36 @@
       "line": 69.5,
       "stat": "rushing yds",
       "label": "2-leg SGP Jonah Coleman O 69.5 rushing yds",
-      "path": "football/nfl",
-      "event": "401873083",
       "date": "20261127",
+      "unverified": true,
+      "reason": "Player not found in this game",
       "snapshot": {
-       "source": "espn",
-       "state": "in",
-       "detail": "1:15 - 4th",
-       "start": "2026-11-27T20:00Z",
-       "period": 4,
-       "clock": "1:15",
+       "source": "odds-api",
+       "state": "post",
+       "detail": "Final",
+       "start": "2026-11-27T20:02:36Z",
        "teams": [
         {
          "name": "Denver Broncos",
-         "short": "Broncos",
-         "abbr": "DEN",
+         "short": "Denver Broncos",
+         "abbr": "",
          "score": 5,
          "ha": "away",
-         "winner": null,
-         "linescores": [
-          0,
-          0,
-          0,
-          0
-         ]
+         "winner": false,
+         "linescores": []
         },
         {
          "name": "Pittsburgh Steelers",
-         "short": "Steelers",
-         "abbr": "PIT",
+         "short": "Pittsburgh Steelers",
+         "abbr": "",
          "score": 27,
          "ha": "home",
-         "winner": null,
-         "linescores": [
-          0,
-          0,
-          0,
-          0
-         ]
+         "winner": true,
+         "linescores": []
         }
-       ],
-       "stat": null
+       ]
       },
-      "source": "espn"
+      "source": "odds-api"
      },
      {
       "kind": "prop",
@@ -1707,49 +1654,36 @@
       "line": 0.5,
       "stat": "anytime td",
       "label": "Jonah Coleman O 0.5 anytime td",
-      "path": "football/nfl",
-      "event": "401873083",
       "date": "20261127",
+      "unverified": true,
+      "reason": "Player not found in this game",
       "snapshot": {
-       "source": "espn",
-       "state": "in",
-       "detail": "1:15 - 4th",
-       "start": "2026-11-27T20:00Z",
-       "period": 4,
-       "clock": "1:15",
+       "source": "odds-api",
+       "state": "post",
+       "detail": "Final",
+       "start": "2026-11-27T20:02:36Z",
        "teams": [
         {
          "name": "Denver Broncos",
-         "short": "Broncos",
-         "abbr": "DEN",
+         "short": "Denver Broncos",
+         "abbr": "",
          "score": 5,
          "ha": "away",
-         "winner": null,
-         "linescores": [
-          0,
-          0,
-          0,
-          0
-         ]
+         "winner": false,
+         "linescores": []
         },
         {
          "name": "Pittsburgh Steelers",
-         "short": "Steelers",
-         "abbr": "PIT",
+         "short": "Pittsburgh Steelers",
+         "abbr": "",
          "score": 27,
          "ha": "home",
-         "winner": null,
-         "linescores": [
-          0,
-          0,
-          0,
-          0
-         ]
+         "winner": true,
+         "linescores": []
         }
-       ],
-       "stat": null
+       ]
       },
-      "source": "espn"
+      "source": "odds-api"
      }
     ],
     "sport": "NFL",
@@ -2016,49 +1950,36 @@
       "line": 5.5,
       "stat": "kicking points",
       "label": "Chris Boswell O 5.5 kicking points",
-      "path": "football/nfl",
-      "event": "401873083",
       "date": "20261127",
+      "unverified": true,
+      "reason": "Player not found in this game",
       "snapshot": {
-       "source": "espn",
-       "state": "in",
-       "detail": "1:15 - 4th",
-       "start": "2026-11-27T20:00Z",
-       "period": 4,
-       "clock": "1:15",
+       "source": "odds-api",
+       "state": "post",
+       "detail": "Final",
+       "start": "2026-11-27T20:02:36Z",
        "teams": [
         {
          "name": "Denver Broncos",
-         "short": "Broncos",
-         "abbr": "DEN",
+         "short": "Denver Broncos",
+         "abbr": "",
          "score": 5,
          "ha": "away",
-         "winner": null,
-         "linescores": [
-          0,
-          0,
-          0,
-          0
-         ]
+         "winner": false,
+         "linescores": []
         },
         {
          "name": "Pittsburgh Steelers",
-         "short": "Steelers",
-         "abbr": "PIT",
+         "short": "Pittsburgh Steelers",
+         "abbr": "",
          "score": 27,
          "ha": "home",
-         "winner": null,
-         "linescores": [
-          0,
-          0,
-          0,
-          0
-         ]
+         "winner": true,
+         "linescores": []
         }
-       ],
-       "stat": null
+       ]
       },
-      "source": "espn"
+      "source": "odds-api"
      }
     ],
     "sport": "NFL",
@@ -2086,49 +2007,36 @@
       "line": 21.5,
       "stat": "receiving yards",
       "label": "Jonah Coleman O 21.5 receiving yards",
-      "path": "football/nfl",
-      "event": "401873083",
       "date": "20261127",
+      "unverified": true,
+      "reason": "Player not found in this game",
       "snapshot": {
-       "source": "espn",
-       "state": "in",
-       "detail": "1:15 - 4th",
-       "start": "2026-11-27T20:00Z",
-       "period": 4,
-       "clock": "1:15",
+       "source": "odds-api",
+       "state": "post",
+       "detail": "Final",
+       "start": "2026-11-27T20:02:36Z",
        "teams": [
         {
          "name": "Denver Broncos",
-         "short": "Broncos",
-         "abbr": "DEN",
+         "short": "Denver Broncos",
+         "abbr": "",
          "score": 5,
          "ha": "away",
-         "winner": null,
-         "linescores": [
-          0,
-          0,
-          0,
-          0
-         ]
+         "winner": false,
+         "linescores": []
         },
         {
          "name": "Pittsburgh Steelers",
-         "short": "Steelers",
-         "abbr": "PIT",
+         "short": "Pittsburgh Steelers",
+         "abbr": "",
          "score": 27,
          "ha": "home",
-         "winner": null,
-         "linescores": [
-          0,
-          0,
-          0,
-          0
-         ]
+         "winner": true,
+         "linescores": []
         }
-       ],
-       "stat": null
+       ]
       },
-      "source": "espn"
+      "source": "odds-api"
      }
     ],
     "sport": "NFL",
@@ -2401,11 +2309,11 @@
       "date": "20261127",
       "snapshot": {
        "source": "espn",
-       "state": "in",
-       "detail": "1:15 - 4th",
+       "state": "post",
+       "detail": "Final",
        "start": "2026-11-27T20:00Z",
-       "period": 4,
-       "clock": "1:15",
+       "period": null,
+       "clock": null,
        "teams": [
         {
          "name": "Denver Broncos",
@@ -2413,7 +2321,7 @@
          "abbr": "DEN",
          "score": 5,
          "ha": "away",
-         "winner": null,
+         "winner": false,
          "linescores": [
           0,
           0,
@@ -2427,7 +2335,7 @@
          "abbr": "PIT",
          "score": 27,
          "ha": "home",
-         "winner": null,
+         "winner": true,
          "linescores": [
           0,
           0,
