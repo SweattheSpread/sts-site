@@ -1,5 +1,5 @@
 {
- "updated": "Nov 27, 2026, 8:01 AM PT",
+ "updated": "Nov 27, 2026, 8:26 AM PT",
  "record": {
   "w": 292,
   "l": 292,
@@ -11,7 +11,7 @@
   "first": "2026-10-12",
   "last": "2026-11-26"
  },
- "pending": 28,
+ "pending": 29,
  "plays": [
   {
    "n": 334,
@@ -9737,6 +9737,22 @@
    "pick": "Chris Boswell (PIT K) Over 5.5 kicking points (player prop)",
    "odds": -122,
    "units": 5.0,
+   "result": null,
+   "pl": null,
+   "pending": true
+  },
+  {
+   "n": 1075,
+   "date": "2026-11-27",
+   "day": "2026-11-27",
+   "league": "NFL",
+   "market": "player_prop",
+   "market_label": "Player Prop",
+   "ticket": "single",
+   "matchup": "Denver Broncos @ Pittsburgh Steelers",
+   "pick": "Jonah Coleman (DEN RB) Over 21.5 receiving yards (player prop)",
+   "odds": -115,
+   "units": 3.0,
    "result": null,
    "pl": null,
    "pending": true

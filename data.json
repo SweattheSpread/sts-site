@@ -1,5 +1,5 @@
 {
- "updated": "Nov 27, 2026, 8:01 AM PT",
+ "updated": "Nov 27, 2026, 8:26 AM PT",
  "record": {
   "w": 292,
   "l": 292,
@@ -11,7 +11,7 @@
   "first": "2026-10-12",
   "last": "2026-11-26"
  },
- "pending": 28,
+ "pending": 29,
  "latest": [
   {
    "n": 1065,
@@ -522,6 +522,65 @@
       "line": 5.5,
       "stat": "kicking points",
       "label": "Chris Boswell O 5.5 kicking points",
+      "path": "football/nfl",
+      "event": "401873083",
+      "date": "20261127",
+      "snapshot": {
+       "source": "espn",
+       "state": "pre",
+       "detail": "11/27 - 3:00 PM EST",
+       "start": "2026-11-27T20:00Z",
+       "period": null,
+       "clock": null,
+       "teams": [
+        {
+         "name": "Denver Broncos",
+         "short": "Broncos",
+         "abbr": "DEN",
+         "score": 0,
+         "ha": "away",
+         "winner": null,
+         "linescores": []
+        },
+        {
+         "name": "Pittsburgh Steelers",
+         "short": "Steelers",
+         "abbr": "PIT",
+         "score": 0,
+         "ha": "home",
+         "winner": null,
+         "linescores": []
+        }
+       ]
+      },
+      "source": "espn"
+     }
+    ],
+    "sport": "NFL",
+    "ticket": "single"
+   }
+  },
+  {
+   "n": 1075,
+   "league": "NFL",
+   "type": "Player Prop",
+   "matchup": "Denver Broncos @ Pittsburgh Steelers",
+   "pick": "Jonah Coleman (DEN RB) Over 21.5 receiving yards (player prop)",
+   "odds": -115,
+   "units": 3.0,
+   "gap": null,
+   "start": "2026-11-27T12:00:00",
+   "timed": true,
+   "ticket": "single",
+   "espn": {
+    "legs": [
+     {
+      "kind": "prop",
+      "player": "Jonah Coleman",
+      "ou": "O",
+      "line": 21.5,
+      "stat": "receiving yards",
+      "label": "Jonah Coleman O 21.5 receiving yards",
       "path": "football/nfl",
       "event": "401873083",
       "date": "20261127",
