@@ -1,128 +1,128 @@
 {
- "updated": "Nov 27, 2026, 10:12 PM PT",
+ "updated": "Nov 28, 2026, 12:40 AM PT",
  "record": {
-  "w": 293,
-  "l": 292,
+  "w": 301,
+  "l": 305,
   "p": 3,
-  "n": 588,
-  "units": 70.58,
-  "risked": 860.7,
-  "roi": 8.2,
+  "n": 609,
+  "units": 66.79,
+  "risked": 891.7,
+  "roi": 7.49,
   "first": "2026-10-12",
   "last": "2026-11-27"
  },
- "pending": 39,
+ "pending": 18,
  "latest": [
   {
-   "n": 1032,
+   "n": 1086,
+   "date": "2026-11-27",
+   "day": "2026-11-27",
+   "league": "NBA",
+   "type": "Player Prop",
+   "matchup": "Denver Nuggets @ Utah Jazz",
+   "pick": "Keyonte George (UTA) Under 6.5 assists (player prop)",
+   "odds": 140,
+   "units": 1.0,
+   "result": "W",
+   "pl": 1.4,
+   "ticket": "single"
+  },
+  {
+   "n": 1085,
+   "date": "2026-11-27",
+   "day": "2026-11-27",
+   "league": "NBA",
+   "type": "Spread",
+   "matchup": "Miami Heat @ New York Knicks",
+   "pick": "Andrew Wiggins (MIA) Over 7.5 points (player prop)",
+   "odds": -105,
+   "units": 1.0,
+   "result": "L",
+   "pl": -1.0,
+   "ticket": "single"
+  },
+  {
+   "n": 1084,
    "date": "2026-11-27",
    "day": "2026-11-27",
    "league": "NFL",
-   "type": "Moneyline",
+   "type": "Total",
    "matchup": "Denver Broncos @ Pittsburgh Steelers",
-   "pick": "Pittsburgh Steelers ML",
-   "odds": 168,
+   "pick": "Over 47.5 total points LIVE",
+   "odds": -118,
+   "units": 3.0,
+   "result": "L",
+   "pl": -3.0,
+   "ticket": "single"
+  },
+  {
+   "n": 1083,
+   "date": "2026-11-27",
+   "day": "2026-11-27",
+   "league": "NBA",
+   "type": "Spread",
+   "matchup": "New Orleans Pelicans @ Los Angeles Clippers",
+   "pick": "Brook Lopez (LAC) Over 4.5 rebounds (player prop)",
+   "odds": 125,
    "units": 1.0,
    "result": "W",
-   "pl": 1.68,
+   "pl": 1.25,
    "ticket": "single"
   },
   {
-   "n": 1065,
-   "date": "2026-11-26",
-   "day": "2026-11-26",
-   "league": "NFL",
-   "type": "Team Total",
-   "matchup": "Philadelphia Eagles @ Dallas Cowboys",
-   "pick": "Philadelphia Eagles team total Over 17.5 LIVE",
-   "odds": -105,
-   "units": 3.0,
-   "result": "W",
-   "pl": 2.86,
+   "n": 1082,
+   "date": "2026-11-27",
+   "day": "2026-11-27",
+   "league": "NHL",
+   "type": "Spread",
+   "matchup": "Ottawa Senators @ Tampa Bay Lightning",
+   "pick": "Claude Giroux (OTT) Under 0.5 points (player prop)",
+   "odds": -120,
+   "units": 1.0,
+   "result": "L",
+   "pl": -1.0,
    "ticket": "single"
   },
   {
-   "n": 1064,
-   "date": "2026-11-26",
-   "day": "2026-11-26",
-   "league": "NFL",
-   "type": "Player Prop",
-   "matchup": "Chicago Bears @ Detroit Lions",
-   "pick": "Amon-Ra St. Brown (DET) Over 143.5 receiving yards LIVE",
-   "odds": -115,
-   "units": 3.0,
-   "result": "W",
-   "pl": 2.61,
-   "ticket": "single"
-  },
-  {
-   "n": 1061,
-   "date": "2026-11-26",
-   "day": "2026-11-26",
-   "league": "NFL",
-   "type": "Parlay",
-   "matchup": "Kansas City Chiefs @ Buffalo Bills",
-   "pick": "2-leg parlay James Cook anytime TD + Emmett Johnson anytime TD",
-   "odds": 221,
-   "units": 1.5,
-   "result": "W",
-   "pl": 3.31,
-   "ticket": "parlay"
-  },
-  {
-   "n": 1060,
-   "date": "2026-11-26",
-   "day": "2026-11-26",
-   "league": "NFL",
-   "type": "Player Prop",
-   "matchup": "Kansas City Chiefs @ Buffalo Bills",
-   "pick": "James Cook Over 86.5 rushing yards (player prop)",
-   "odds": -110,
-   "units": 5.0,
-   "result": "W",
-   "pl": 4.55,
-   "ticket": "single"
-  },
-  {
-   "n": 1052,
-   "date": "2026-11-26",
-   "day": "2026-11-26",
+   "n": 1081,
+   "date": "2026-11-27",
+   "day": "2026-11-27",
    "league": "NCAAB",
    "type": "Spread",
-   "matchup": "DePaul Blue Demons vs Pittsburgh Panthers",
-   "pick": "DePaul +1",
+   "matchup": "Texas A&M Aggies @ Marquette Golden Eagles",
+   "pick": "Texas A&M +1.5",
+   "odds": -105,
+   "units": 1.0,
+   "result": "W",
+   "pl": 0.95,
+   "ticket": "single"
+  },
+  {
+   "n": 1080,
+   "date": "2026-11-27",
+   "day": "2026-11-27",
+   "league": "NCAAB",
+   "type": "Over/Under",
+   "matchup": "Miami Hurricanes vs Alabama Crimson Tide, neutral",
+   "pick": "Under 170.5",
+   "odds": -110,
+   "units": 1.0,
+   "result": "W",
+   "pl": 0.91,
+   "ticket": "single"
+  },
+  {
+   "n": 1079,
+   "date": "2026-11-27",
+   "day": "2026-11-27",
+   "league": "NCAAB",
+   "type": "Over/Under",
+   "matchup": "West Kentucky Hilltoppers @ Illinois Fighting Illini",
+   "pick": "Under 176",
    "odds": -110,
    "units": 1.0,
    "result": "L",
    "pl": -1.0,
-   "ticket": "single"
-  },
-  {
-   "n": 1012,
-   "date": "2026-11-26",
-   "day": "2026-11-26",
-   "league": "NFL",
-   "type": "Over/Under",
-   "matchup": "Kansas City Chiefs @ Buffalo Bills",
-   "pick": "Over 47.5",
-   "odds": -109,
-   "units": 1.0,
-   "result": "L",
-   "pl": -1.0,
-   "ticket": "single"
-  },
-  {
-   "n": 991,
-   "date": "2026-11-26",
-   "day": "2026-11-26",
-   "league": "NFL",
-   "type": "Moneyline",
-   "matchup": "Kansas City Chiefs @ Buffalo Bills",
-   "pick": "Buffalo Bills ML",
-   "odds": -154,
-   "units": 1.0,
-   "result": "W",
-   "pl": 0.65,
    "ticket": "single"
   }
  ],
@@ -901,188 +901,6 @@
  ],
  "awaiting": [
   {
-   "n": 1057,
-   "league": "NHL",
-   "type": "Moneyline",
-   "matchup": "New York Rangers @ Chicago Blackhawks",
-   "pick": "New York Rangers ML",
-   "odds": -172,
-   "units": 1.0,
-   "gap": null,
-   "start": "2026-11-27T14:30:00",
-   "timed": true,
-   "ticket": "single",
-   "espn": {
-    "legs": [
-     {
-      "kind": "ml",
-      "side": "New York Rangers",
-      "label": "New York Rangers ML",
-      "path": "hockey/nhl",
-      "event": "401892806",
-      "date": "20261127",
-      "snapshot": {
-       "source": "nhl",
-       "state": "post",
-       "detail": "Final",
-       "start": "2026-11-27T22:30:00Z",
-       "period": 3,
-       "clock": "00:00",
-       "teams": [
-        {
-         "name": "Rangers",
-         "short": "NYR",
-         "abbr": "NYR",
-         "score": 1,
-         "ha": "away",
-         "winner": false,
-         "linescores": []
-        },
-        {
-         "name": "Blackhawks",
-         "short": "CHI",
-         "abbr": "CHI",
-         "score": 2,
-         "ha": "home",
-         "winner": true,
-         "linescores": []
-        }
-       ],
-       "nhl_id": 2026020411
-      },
-      "source": "nhl"
-     }
-    ],
-    "sport": "NHL",
-    "ticket": "single"
-   }
-  },
-  {
-   "n": 1058,
-   "league": "NHL",
-   "type": "Moneyline",
-   "matchup": "Colorado Avalanche @ Minnesota Wild",
-   "pick": "Colorado Avalanche ML",
-   "odds": 108,
-   "units": 1.0,
-   "gap": null,
-   "start": "2026-11-27T13:00:00",
-   "timed": true,
-   "ticket": "single",
-   "espn": {
-    "legs": [
-     {
-      "kind": "ml",
-      "side": "Colorado Avalanche",
-      "label": "Colorado Avalanche ML",
-      "path": "hockey/nhl",
-      "event": "401892803",
-      "date": "20261127",
-      "snapshot": {
-       "source": "nhl",
-       "state": "post",
-       "detail": "Final/SO",
-       "start": "2026-11-27T21:00:00Z",
-       "period": 5,
-       "clock": "00:00",
-       "teams": [
-        {
-         "name": "Avalanche",
-         "short": "COL",
-         "abbr": "COL",
-         "score": 4,
-         "ha": "away",
-         "winner": true,
-         "linescores": []
-        },
-        {
-         "name": "Wild",
-         "short": "MIN",
-         "abbr": "MIN",
-         "score": 3,
-         "ha": "home",
-         "winner": false,
-         "linescores": []
-        }
-       ],
-       "nhl_id": 2026020408
-      },
-      "source": "nhl"
-     }
-    ],
-    "sport": "NHL",
-    "ticket": "single"
-   }
-  },
-  {
-   "n": 1059,
-   "league": "NCAAF",
-   "type": "Total",
-   "matchup": "Temple Owls @ Memphis Tigers",
-   "pick": "Under 67.5",
-   "odds": -110,
-   "units": 1.0,
-   "gap": null,
-   "start": "2026-11-27T12:30:00",
-   "timed": true,
-   "ticket": "single",
-   "espn": {
-    "legs": [
-     {
-      "kind": "total",
-      "side": null,
-      "ou": "U",
-      "line": 67.5,
-      "label": "U 67.5",
-      "path": "football/college-football",
-      "event": "401862838",
-      "date": "20261127",
-      "snapshot": {
-       "source": "espn",
-       "state": "post",
-       "detail": "Final",
-       "start": "2026-11-27T20:30Z",
-       "period": null,
-       "clock": null,
-       "teams": [
-        {
-         "name": "Temple Owls",
-         "short": "Owls",
-         "abbr": "TEM",
-         "score": 35,
-         "ha": "away",
-         "winner": true,
-         "linescores": [
-          0,
-          0,
-          0,
-          0
-         ]
-        },
-        {
-         "name": "Memphis Tigers",
-         "short": "Tigers",
-         "abbr": "MEM",
-         "score": 31,
-         "ha": "home",
-         "winner": false,
-         "linescores": [
-          0,
-          0,
-          0,
-          0
-         ]
-        }
-       ]
-      },
-      "source": "espn"
-     }
-    ],
-    "sport": "NCAAF",
-    "ticket": "single"
-   }
-  },
-  {
    "n": 1062,
    "league": "NFL",
    "type": "Parlay",
@@ -1144,101 +962,6 @@
       "stat": "anytime td",
       "label": "Jonah Coleman O 0.5 anytime td",
       "unverified": true
-     }
-    ],
-    "sport": "NFL",
-    "ticket": "sgp"
-   }
-  },
-  {
-   "n": 1063,
-   "league": "NFL",
-   "type": "Parlay",
-   "matchup": "Denver Broncos @ Pittsburgh Steelers",
-   "pick": "2-leg SGP Jonah Coleman 70+ rushing yds + Jonah Coleman anytime TD",
-   "odds": 130,
-   "units": 3.0,
-   "gap": null,
-   "start": "2026-11-27T12:00:00",
-   "timed": true,
-   "ticket": "sgp",
-   "espn": {
-    "legs": [
-     {
-      "kind": "prop",
-      "player": "2-leg SGP Jonah Coleman",
-      "ou": "O",
-      "line": 69.5,
-      "stat": "rushing yds",
-      "label": "2-leg SGP Jonah Coleman O 69.5 rushing yds",
-      "date": "20261127",
-      "unverified": true,
-      "reason": "Player not found in this game",
-      "snapshot": {
-       "source": "odds-api",
-       "state": "post",
-       "detail": "Final",
-       "start": "2026-11-27T20:02:36Z",
-       "teams": [
-        {
-         "name": "Denver Broncos",
-         "short": "Denver Broncos",
-         "abbr": "",
-         "score": 5,
-         "ha": "away",
-         "winner": false,
-         "linescores": []
-        },
-        {
-         "name": "Pittsburgh Steelers",
-         "short": "Pittsburgh Steelers",
-         "abbr": "",
-         "score": 27,
-         "ha": "home",
-         "winner": true,
-         "linescores": []
-        }
-       ]
-      },
-      "source": "odds-api"
-     },
-     {
-      "kind": "prop",
-      "player": "Jonah Coleman",
-      "ou": "O",
-      "line": 0.5,
-      "stat": "anytime td",
-      "label": "Jonah Coleman O 0.5 anytime td",
-      "date": "20261127",
-      "unverified": true,
-      "reason": "Player not found in this game",
-      "snapshot": {
-       "source": "odds-api",
-       "state": "post",
-       "detail": "Final",
-       "start": "2026-11-27T20:02:36Z",
-       "teams": [
-        {
-         "name": "Denver Broncos",
-         "short": "Denver Broncos",
-         "abbr": "",
-         "score": 5,
-         "ha": "away",
-         "winner": false,
-         "linescores": []
-        },
-        {
-         "name": "Pittsburgh Steelers",
-         "short": "Pittsburgh Steelers",
-         "abbr": "",
-         "score": 27,
-         "ha": "home",
-         "winner": true,
-         "linescores": []
-        }
-       ]
-      },
-      "source": "odds-api"
      }
     ],
     "sport": "NFL",
@@ -1435,1018 +1158,6 @@
     "sport": "NCAAB",
     "ticket": "single"
    }
-  },
-  {
-   "n": 1069,
-   "league": "NHL",
-   "type": "Player Prop",
-   "matchup": "Seattle Kraken @ Edmonton Oilers",
-   "pick": "Connor McDavid Over 1.5 points",
-   "odds": 100,
-   "units": 1.0,
-   "gap": null,
-   "start": "2026-11-27T17:00:00",
-   "timed": true,
-   "ticket": "single",
-   "espn": {
-    "legs": [
-     {
-      "kind": "prop",
-      "player": "Connor McDavid",
-      "ou": "O",
-      "line": 1.5,
-      "stat": "points",
-      "label": "Connor McDavid O 1.5 points",
-      "path": "hockey/nhl",
-      "event": "401892809",
-      "date": "20261127",
-      "snapshot": {
-       "source": "nhl",
-       "state": "post",
-       "detail": "Final",
-       "start": "2026-11-28T01:00:00Z",
-       "period": 3,
-       "clock": "00:00",
-       "teams": [
-        {
-         "name": "Kraken",
-         "short": "SEA",
-         "abbr": "SEA",
-         "score": 4,
-         "ha": "away",
-         "winner": true,
-         "linescores": []
-        },
-        {
-         "name": "Oilers",
-         "short": "EDM",
-         "abbr": "EDM",
-         "score": 2,
-         "ha": "home",
-         "winner": false,
-         "linescores": []
-        }
-       ],
-       "nhl_id": 2026020414,
-       "stat": {
-        "v": 1,
-        "name": "C. McDavid"
-       }
-      },
-      "source": "nhl"
-     }
-    ],
-    "sport": "NHL",
-    "ticket": "single"
-   }
-  },
-  {
-   "n": 1070,
-   "league": "NBA",
-   "type": "Player Prop",
-   "matchup": "Memphis Grizzlies @ Minnesota Timberwolves",
-   "pick": "Jaylen Wells Over 3.5 rebounds",
-   "odds": 125,
-   "units": 1.0,
-   "gap": null,
-   "start": "2026-11-27T17:40:00",
-   "timed": true,
-   "ticket": "single",
-   "espn": {
-    "legs": [
-     {
-      "kind": "prop",
-      "player": "Jaylen Wells",
-      "ou": "O",
-      "line": 3.5,
-      "stat": "rebounds",
-      "label": "Jaylen Wells O 3.5 rebounds",
-      "path": "basketball/nba",
-      "event": "401909331",
-      "date": "20261127",
-      "snapshot": {
-       "source": "espn",
-       "state": "post",
-       "detail": "Final",
-       "start": "2026-11-28T01:30Z",
-       "period": null,
-       "clock": null,
-       "teams": [
-        {
-         "name": "Memphis Grizzlies",
-         "short": "Grizzlies",
-         "abbr": "MEM",
-         "score": 114,
-         "ha": "away",
-         "winner": true,
-         "linescores": [
-          0,
-          0,
-          0,
-          0
-         ]
-        },
-        {
-         "name": "Minnesota Timberwolves",
-         "short": "Timberwolves",
-         "abbr": "MIN",
-         "score": 109,
-         "ha": "home",
-         "winner": false,
-         "linescores": [
-          0,
-          0,
-          0,
-          0
-         ]
-        }
-       ],
-       "stat": {
-        "v": 3,
-        "name": "Jaylen Wells"
-       }
-      },
-      "source": "espn"
-     }
-    ],
-    "sport": "NBA",
-    "ticket": "single"
-   }
-  },
-  {
-   "n": 1071,
-   "league": "Soccer",
-   "type": "Player Prop",
-   "matchup": "Soccer Ligue 1 Brest v Paris FC",
-   "pick": "Lassine Sinayoko (Paris FC) anytime goal",
-   "odds": 170,
-   "units": 1.0,
-   "gap": null,
-   "start": "2026-11-27T11:45:00",
-   "timed": true,
-   "ticket": "single",
-   "espn": {
-    "legs": [
-     {
-      "kind": "unknown",
-      "label": "Lassine Sinayoko anytime goal",
-      "unverified": true
-     }
-    ],
-    "sport": "Soccer",
-    "ticket": "single"
-   }
-  },
-  {
-   "n": 1072,
-   "league": "Soccer",
-   "type": "Player Prop",
-   "matchup": "Soccer Ligue 1 Brest v Paris FC",
-   "pick": "Ludovic Ajorque (Brest) anytime goal",
-   "odds": 250,
-   "units": 1.0,
-   "gap": null,
-   "start": "2026-11-27T11:45:00",
-   "timed": true,
-   "ticket": "single",
-   "espn": {
-    "legs": [
-     {
-      "kind": "unknown",
-      "label": "Ludovic Ajorque anytime goal",
-      "unverified": true
-     }
-    ],
-    "sport": "Soccer",
-    "ticket": "single"
-   }
-  },
-  {
-   "n": 1074,
-   "league": "NFL",
-   "type": "Player Prop",
-   "matchup": "Denver Broncos @ Pittsburgh Steelers",
-   "pick": "Chris Boswell (PIT K) Over 5.5 kicking points (player prop)",
-   "odds": -122,
-   "units": 5.0,
-   "gap": null,
-   "start": "2026-11-27T12:00:00",
-   "timed": true,
-   "ticket": "single",
-   "espn": {
-    "legs": [
-     {
-      "kind": "prop",
-      "player": "Chris Boswell",
-      "ou": "O",
-      "line": 5.5,
-      "stat": "kicking points",
-      "label": "Chris Boswell O 5.5 kicking points",
-      "date": "20261127",
-      "unverified": true,
-      "reason": "Player not found in this game",
-      "snapshot": {
-       "source": "odds-api",
-       "state": "post",
-       "detail": "Final",
-       "start": "2026-11-27T20:02:36Z",
-       "teams": [
-        {
-         "name": "Denver Broncos",
-         "short": "Denver Broncos",
-         "abbr": "",
-         "score": 5,
-         "ha": "away",
-         "winner": false,
-         "linescores": []
-        },
-        {
-         "name": "Pittsburgh Steelers",
-         "short": "Pittsburgh Steelers",
-         "abbr": "",
-         "score": 27,
-         "ha": "home",
-         "winner": true,
-         "linescores": []
-        }
-       ]
-      },
-      "source": "odds-api"
-     }
-    ],
-    "sport": "NFL",
-    "ticket": "single"
-   }
-  },
-  {
-   "n": 1075,
-   "league": "NFL",
-   "type": "Player Prop",
-   "matchup": "Denver Broncos @ Pittsburgh Steelers",
-   "pick": "Jonah Coleman (DEN RB) Over 21.5 receiving yards (player prop)",
-   "odds": -115,
-   "units": 3.0,
-   "gap": null,
-   "start": "2026-11-27T12:00:00",
-   "timed": true,
-   "ticket": "single",
-   "espn": {
-    "legs": [
-     {
-      "kind": "prop",
-      "player": "Jonah Coleman",
-      "ou": "O",
-      "line": 21.5,
-      "stat": "receiving yards",
-      "label": "Jonah Coleman O 21.5 receiving yards",
-      "date": "20261127",
-      "unverified": true,
-      "reason": "Player not found in this game",
-      "snapshot": {
-       "source": "odds-api",
-       "state": "post",
-       "detail": "Final",
-       "start": "2026-11-27T20:02:36Z",
-       "teams": [
-        {
-         "name": "Denver Broncos",
-         "short": "Denver Broncos",
-         "abbr": "",
-         "score": 5,
-         "ha": "away",
-         "winner": false,
-         "linescores": []
-        },
-        {
-         "name": "Pittsburgh Steelers",
-         "short": "Pittsburgh Steelers",
-         "abbr": "",
-         "score": 27,
-         "ha": "home",
-         "winner": true,
-         "linescores": []
-        }
-       ]
-      },
-      "source": "odds-api"
-     }
-    ],
-    "sport": "NFL",
-    "ticket": "single"
-   }
-  },
-  {
-   "n": 1076,
-   "league": "NHL",
-   "type": "Player Prop",
-   "matchup": "Seattle Kraken @ Edmonton Oilers",
-   "pick": "Ryan Nugent-Hopkins (EDM) Under 0.5 points (player prop)",
-   "odds": 130,
-   "units": 1.0,
-   "gap": null,
-   "start": "2026-11-27T17:00:00",
-   "timed": true,
-   "ticket": "single",
-   "espn": {
-    "legs": [
-     {
-      "kind": "prop",
-      "player": "Ryan Nugent-Hopkins",
-      "ou": "U",
-      "line": 0.5,
-      "stat": "points",
-      "label": "Ryan Nugent-Hopkins U 0.5 points",
-      "path": "hockey/nhl",
-      "event": "401892809",
-      "date": "20261127",
-      "snapshot": {
-       "source": "nhl",
-       "state": "post",
-       "detail": "Final",
-       "start": "2026-11-28T01:00:00Z",
-       "period": 3,
-       "clock": "00:00",
-       "teams": [
-        {
-         "name": "Kraken",
-         "short": "SEA",
-         "abbr": "SEA",
-         "score": 4,
-         "ha": "away",
-         "winner": true,
-         "linescores": []
-        },
-        {
-         "name": "Oilers",
-         "short": "EDM",
-         "abbr": "EDM",
-         "score": 2,
-         "ha": "home",
-         "winner": false,
-         "linescores": []
-        }
-       ],
-       "nhl_id": 2026020414,
-       "stat": {
-        "v": 1,
-        "name": "R. Nugent-Hopkins"
-       }
-      },
-      "source": "nhl"
-     }
-    ],
-    "sport": "NHL",
-    "ticket": "single"
-   }
-  },
-  {
-   "n": 1077,
-   "league": "NBA",
-   "type": "Player Prop",
-   "matchup": "Brooklyn Nets @ Toronto Raptors",
-   "pick": "Collin Murray-Boyles (TOR) Under 5.5 rebounds (player prop)",
-   "odds": -125,
-   "units": 1.0,
-   "gap": null,
-   "start": "2026-11-27T16:40:00",
-   "timed": true,
-   "ticket": "single",
-   "espn": {
-    "legs": [
-     {
-      "kind": "prop",
-      "player": "Collin Murray-Boyles",
-      "ou": "U",
-      "line": 5.5,
-      "stat": "rebounds",
-      "label": "Collin Murray-Boyles U 5.5 rebounds",
-      "path": "basketball/nba",
-      "event": "401909329",
-      "date": "20261127",
-      "snapshot": {
-       "source": "espn",
-       "state": "post",
-       "detail": "Final",
-       "start": "2026-11-28T00:30Z",
-       "period": null,
-       "clock": null,
-       "teams": [
-        {
-         "name": "Brooklyn Nets",
-         "short": "Nets",
-         "abbr": "BKN",
-         "score": 100,
-         "ha": "away",
-         "winner": false,
-         "linescores": [
-          0,
-          0,
-          0,
-          0
-         ]
-        },
-        {
-         "name": "Toronto Raptors",
-         "short": "Raptors",
-         "abbr": "TOR",
-         "score": 124,
-         "ha": "home",
-         "winner": true,
-         "linescores": [
-          0,
-          0,
-          0,
-          0
-         ]
-        }
-       ],
-       "stat": {
-        "v": 7,
-        "name": "Collin Murray-Boyles"
-       }
-      },
-      "source": "espn"
-     }
-    ],
-    "sport": "NBA",
-    "ticket": "single"
-   }
-  },
-  {
-   "n": 1078,
-   "league": "NCAAB",
-   "type": "Spread",
-   "matchup": "Colgate Raiders @ Hofstra Pride",
-   "pick": "Hofstra -1.5",
-   "odds": -110,
-   "units": 1.0,
-   "gap": null,
-   "start": "2026-11-27T12:30:00",
-   "timed": true,
-   "ticket": "single",
-   "espn": {
-    "legs": [
-     {
-      "kind": "spread",
-      "side": "Hofstra",
-      "line": -1.5,
-      "label": "Hofstra -1.5",
-      "path": "basketball/mens-college-basketball",
-      "event": "401920774",
-      "date": "20261127",
-      "snapshot": {
-       "source": "espn",
-       "state": "post",
-       "detail": "Final",
-       "start": "2026-11-27T20:30Z",
-       "period": null,
-       "clock": null,
-       "teams": [
-        {
-         "name": "Colgate Raiders",
-         "short": "Raiders",
-         "abbr": "COLG",
-         "score": 75,
-         "ha": "away",
-         "winner": true,
-         "linescores": [
-          0,
-          0
-         ]
-        },
-        {
-         "name": "Hofstra Pride",
-         "short": "Pride",
-         "abbr": "HOF",
-         "score": 49,
-         "ha": "home",
-         "winner": false,
-         "linescores": [
-          0,
-          0
-         ]
-        }
-       ]
-      },
-      "source": "espn"
-     }
-    ],
-    "sport": "NCAAB",
-    "ticket": "single"
-   }
-  },
-  {
-   "n": 1079,
-   "league": "NCAAB",
-   "type": "Over/Under",
-   "matchup": "West Kentucky Hilltoppers @ Illinois Fighting Illini",
-   "pick": "Under 176",
-   "odds": -110,
-   "units": 1.0,
-   "gap": null,
-   "start": "2026-11-27T15:00:00",
-   "timed": true,
-   "ticket": "single",
-   "espn": {
-    "legs": [
-     {
-      "kind": "total",
-      "side": null,
-      "ou": "U",
-      "line": 176.0,
-      "label": "U 176.0",
-      "path": "basketball/mens-college-basketball",
-      "event": "401913531",
-      "date": "20261127",
-      "snapshot": {
-       "source": "espn",
-       "state": "post",
-       "detail": "Final",
-       "start": "2026-11-27T23:00Z",
-       "period": null,
-       "clock": null,
-       "teams": [
-        {
-         "name": "Western Kentucky Hilltoppers",
-         "short": "Hilltoppers",
-         "abbr": "WKU",
-         "score": 76,
-         "ha": "away",
-         "winner": false,
-         "linescores": [
-          0,
-          0
-         ]
-        },
-        {
-         "name": "Illinois Fighting Illini",
-         "short": "Fighting Illini",
-         "abbr": "ILL",
-         "score": 116,
-         "ha": "home",
-         "winner": true,
-         "linescores": [
-          0,
-          0
-         ]
-        }
-       ]
-      },
-      "source": "espn"
-     }
-    ],
-    "sport": "NCAAB",
-    "ticket": "single"
-   }
-  },
-  {
-   "n": 1080,
-   "league": "NCAAB",
-   "type": "Over/Under",
-   "matchup": "Miami Hurricanes vs Alabama Crimson Tide, neutral",
-   "pick": "Under 170.5",
-   "odds": -110,
-   "units": 1.0,
-   "gap": null,
-   "start": "2026-11-27T17:30:00",
-   "timed": true,
-   "ticket": "single",
-   "espn": {
-    "legs": [
-     {
-      "kind": "total",
-      "side": null,
-      "ou": "U",
-      "line": 170.5,
-      "label": "U 170.5",
-      "path": "basketball/mens-college-basketball",
-      "event": "401920543",
-      "date": "20261127",
-      "snapshot": {
-       "source": "espn",
-       "state": "post",
-       "detail": "Final",
-       "start": "2026-11-28T01:30Z",
-       "period": null,
-       "clock": null,
-       "teams": [
-        {
-         "name": "Miami Hurricanes",
-         "short": "Hurricanes",
-         "abbr": "MIA",
-         "score": 87,
-         "ha": "away",
-         "winner": true,
-         "linescores": [
-          0,
-          0
-         ]
-        },
-        {
-         "name": "Alabama Crimson Tide",
-         "short": "Crimson Tide",
-         "abbr": "ALA",
-         "score": 81,
-         "ha": "home",
-         "winner": false,
-         "linescores": [
-          0,
-          0
-         ]
-        }
-       ]
-      },
-      "source": "espn"
-     }
-    ],
-    "sport": "NCAAB",
-    "ticket": "single"
-   }
-  },
-  {
-   "n": 1081,
-   "league": "NCAAB",
-   "type": "Spread",
-   "matchup": "Texas A&M Aggies @ Marquette Golden Eagles",
-   "pick": "Texas A&M +1.5",
-   "odds": -105,
-   "units": 1.0,
-   "gap": null,
-   "start": "2026-11-27T14:00:00",
-   "timed": true,
-   "ticket": "single",
-   "espn": {
-    "legs": [
-     {
-      "kind": "spread",
-      "side": "Texas A&M",
-      "line": 1.5,
-      "label": "Texas A&M +1.5",
-      "path": "basketball/mens-college-basketball",
-      "event": "401920810",
-      "date": "20261127",
-      "snapshot": {
-       "source": "espn",
-       "state": "post",
-       "detail": "Final",
-       "start": "2026-11-27T22:00Z",
-       "period": null,
-       "clock": null,
-       "teams": [
-        {
-         "name": "Marquette Golden Eagles",
-         "short": "Golden Eagles",
-         "abbr": "MARQ",
-         "score": 76,
-         "ha": "away",
-         "winner": false,
-         "linescores": [
-          0,
-          0
-         ]
-        },
-        {
-         "name": "Texas A&M Aggies",
-         "short": "Aggies",
-         "abbr": "TA&M",
-         "score": 78,
-         "ha": "home",
-         "winner": true,
-         "linescores": [
-          0,
-          0
-         ]
-        }
-       ]
-      },
-      "source": "espn"
-     }
-    ],
-    "sport": "NCAAB",
-    "ticket": "single"
-   }
-  },
-  {
-   "n": 1082,
-   "league": "NHL",
-   "type": "Spread",
-   "matchup": "Ottawa Senators @ Tampa Bay Lightning",
-   "pick": "Claude Giroux (OTT) Under 0.5 points (player prop)",
-   "odds": -120,
-   "units": 1.0,
-   "gap": null,
-   "start": "2026-11-27T12:00:00",
-   "timed": true,
-   "ticket": "single",
-   "espn": {
-    "legs": [
-     {
-      "kind": "team_total",
-      "side": "Claude Giroux",
-      "ou": "U",
-      "line": 0.5,
-      "label": "Claude Giroux U 0.5",
-      "path": "hockey/nhl",
-      "event": "401892799",
-      "date": "20261127",
-      "snapshot": {
-       "source": "nhl",
-       "state": "post",
-       "detail": "Final",
-       "start": "2026-11-27T20:00:00Z",
-       "period": 3,
-       "clock": "00:00",
-       "teams": [
-        {
-         "name": "Senators",
-         "short": "OTT",
-         "abbr": "OTT",
-         "score": 6,
-         "ha": "away",
-         "winner": true,
-         "linescores": []
-        },
-        {
-         "name": "Lightning",
-         "short": "TBL",
-         "abbr": "TBL",
-         "score": 2,
-         "ha": "home",
-         "winner": false,
-         "linescores": []
-        }
-       ],
-       "nhl_id": 2026020404
-      },
-      "source": "nhl"
-     }
-    ],
-    "sport": "NHL",
-    "ticket": "single"
-   }
-  },
-  {
-   "n": 1083,
-   "league": "NBA",
-   "type": "Spread",
-   "matchup": "New Orleans Pelicans @ Los Angeles Clippers",
-   "pick": "Brook Lopez (LAC) Over 4.5 rebounds (player prop)",
-   "odds": 125,
-   "units": 1.0,
-   "gap": null,
-   "start": "2026-11-27T18:40:00",
-   "timed": true,
-   "ticket": "single",
-   "espn": {
-    "legs": [
-     {
-      "kind": "team_total",
-      "side": "Brook Lopez",
-      "ou": "O",
-      "line": 4.5,
-      "label": "Brook Lopez O 4.5",
-      "unverified": true,
-      "snapshot": {
-       "source": "odds-api",
-       "state": "post",
-       "detail": "Final",
-       "start": "2026-11-28T02:41:00Z",
-       "teams": [
-        {
-         "name": "New Orleans Pelicans",
-         "short": "New Orleans Pelicans",
-         "abbr": "",
-         "score": 105,
-         "ha": "away",
-         "winner": true,
-         "linescores": []
-        },
-        {
-         "name": "Los Angeles Clippers",
-         "short": "Los Angeles Clippers",
-         "abbr": "",
-         "score": 104,
-         "ha": "home",
-         "winner": false,
-         "linescores": []
-        }
-       ]
-      },
-      "source": "odds-api"
-     }
-    ],
-    "sport": "NBA",
-    "ticket": "single"
-   }
-  },
-  {
-   "n": 1084,
-   "league": "NFL",
-   "type": "Total",
-   "matchup": "Denver Broncos @ Pittsburgh Steelers",
-   "pick": "Over 47.5 total points LIVE",
-   "odds": -118,
-   "units": 3.0,
-   "gap": null,
-   "start": "2026-11-27T12:00:00",
-   "timed": true,
-   "ticket": "single",
-   "espn": {
-    "legs": [
-     {
-      "kind": "total",
-      "side": null,
-      "ou": "O",
-      "line": 47.5,
-      "label": "O 47.5",
-      "path": "football/nfl",
-      "event": "401873083",
-      "date": "20261127",
-      "snapshot": {
-       "source": "espn",
-       "state": "post",
-       "detail": "Final",
-       "start": "2026-11-27T20:00Z",
-       "period": null,
-       "clock": null,
-       "teams": [
-        {
-         "name": "Denver Broncos",
-         "short": "Broncos",
-         "abbr": "DEN",
-         "score": 5,
-         "ha": "away",
-         "winner": false,
-         "linescores": [
-          0,
-          0,
-          0,
-          0
-         ]
-        },
-        {
-         "name": "Pittsburgh Steelers",
-         "short": "Steelers",
-         "abbr": "PIT",
-         "score": 27,
-         "ha": "home",
-         "winner": true,
-         "linescores": [
-          0,
-          0,
-          0,
-          0
-         ]
-        }
-       ]
-      },
-      "source": "espn"
-     }
-    ],
-    "sport": "NFL",
-    "ticket": "single"
-   }
-  },
-  {
-   "n": 1085,
-   "league": "NBA",
-   "type": "Spread",
-   "matchup": "Miami Heat @ New York Knicks",
-   "pick": "Andrew Wiggins (MIA) Over 7.5 points (player prop)",
-   "odds": -105,
-   "units": 1.0,
-   "gap": null,
-   "start": "2026-11-27T16:10:00",
-   "timed": true,
-   "ticket": "single",
-   "espn": {
-    "legs": [
-     {
-      "kind": "team_total",
-      "side": "Andrew Wiggins",
-      "ou": "O",
-      "line": 7.5,
-      "label": "Andrew Wiggins O 7.5",
-      "path": "basketball/nba",
-      "event": "401909326",
-      "date": "20261127",
-      "snapshot": {
-       "source": "espn",
-       "state": "post",
-       "detail": "Final",
-       "start": "2026-11-28T00:00Z",
-       "period": null,
-       "clock": null,
-       "teams": [
-        {
-         "name": "Miami Heat",
-         "short": "Heat",
-         "abbr": "MIA",
-         "score": 108,
-         "ha": "away",
-         "winner": true,
-         "linescores": [
-          0,
-          0,
-          0,
-          0
-         ]
-        },
-        {
-         "name": "New York Knicks",
-         "short": "Knicks",
-         "abbr": "NY",
-         "score": 105,
-         "ha": "home",
-         "winner": false,
-         "linescores": [
-          0,
-          0,
-          0,
-          0
-         ]
-        }
-       ]
-      },
-      "source": "espn"
-     }
-    ],
-    "sport": "NBA",
-    "ticket": "single"
-   }
-  },
-  {
-   "n": 1086,
-   "league": "NBA",
-   "type": "Player Prop",
-   "matchup": "Denver Nuggets @ Utah Jazz",
-   "pick": "Keyonte George (UTA) Under 6.5 assists (player prop)",
-   "odds": 140,
-   "units": 1.0,
-   "gap": null,
-   "start": "2026-11-27T18:40:00",
-   "timed": true,
-   "ticket": "single",
-   "espn": {
-    "legs": [
-     {
-      "kind": "prop",
-      "player": "Keyonte George",
-      "ou": "U",
-      "line": 6.5,
-      "stat": "assists",
-      "label": "Keyonte George U 6.5 assists",
-      "path": "basketball/nba",
-      "event": "401909334",
-      "date": "20261127",
-      "snapshot": {
-       "source": "espn",
-       "state": "post",
-       "detail": "Final",
-       "start": "2026-11-28T02:30Z",
-       "period": null,
-       "clock": null,
-       "teams": [
-        {
-         "name": "Denver Nuggets",
-         "short": "Nuggets",
-         "abbr": "DEN",
-         "score": 120,
-         "ha": "away",
-         "winner": true,
-         "linescores": [
-          0,
-          0,
-          0,
-          0
-         ]
-        },
-        {
-         "name": "Utah Jazz",
-         "short": "Jazz",
-         "abbr": "UTAH",
-         "score": 107,
-         "ha": "home",
-         "winner": false,
-         "linescores": [
-          0,
-          0,
-          0,
-          0
-         ]
-        }
-       ],
-       "stat": {
-        "v": 4,
-        "name": "Keyonte George"
-       }
-      },
-      "source": "espn"
-     }
-    ],
-    "sport": "NBA",
-    "ticket": "single"
-   }
   }
  ],
  "daily": {
@@ -2631,8 +1342,8 @@
    "n": 15
   },
   "2026-11-27": {
-   "u": 1.68,
-   "n": 1
+   "u": -2.11,
+   "n": 22
   }
  }
 }

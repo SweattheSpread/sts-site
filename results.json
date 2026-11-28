@@ -1,17 +1,17 @@
 {
- "updated": "Nov 27, 2026, 10:12 PM PT",
+ "updated": "Nov 28, 2026, 12:40 AM PT",
  "record": {
-  "w": 293,
-  "l": 292,
+  "w": 301,
+  "l": 305,
   "p": 3,
-  "n": 588,
-  "units": 70.58,
-  "risked": 860.7,
-  "roi": 8.2,
+  "n": 609,
+  "units": 66.79,
+  "risked": 891.7,
+  "roi": 7.49,
   "first": "2026-10-12",
   "last": "2026-11-27"
  },
- "pending": 39,
+ "pending": 18,
  "plays": [
   {
    "n": 334,
@@ -9561,9 +9561,9 @@
    "pick": "New York Rangers ML -172",
    "odds": -172,
    "units": 1.0,
-   "result": null,
-   "pl": null,
-   "pending": true
+   "result": "L",
+   "pl": -1.0,
+   "pending": false
   },
   {
    "n": 1058,
@@ -9577,9 +9577,9 @@
    "pick": "Colorado Avalanche ML +108",
    "odds": 108,
    "units": 1.0,
-   "result": null,
-   "pl": null,
-   "pending": true
+   "result": "W",
+   "pl": 1.08,
+   "pending": false
   },
   {
    "n": 1059,
@@ -9593,9 +9593,9 @@
    "pick": "Under 67.5 -110",
    "odds": -110,
    "units": 1.0,
-   "result": null,
-   "pl": null,
-   "pending": true
+   "result": "W",
+   "pl": 0.91,
+   "pending": false
   },
   {
    "n": 1063,
@@ -9609,9 +9609,9 @@
    "pick": "2-leg SGP Jonah Coleman 70+ rushing yds + Jonah Coleman anytime TD",
    "odds": 130,
    "units": 3.0,
-   "result": null,
-   "pl": null,
-   "pending": true
+   "result": "L",
+   "pl": -3.0,
+   "pending": false
   },
   {
    "n": 1066,
@@ -9673,9 +9673,9 @@
    "pick": "Connor McDavid Over 1.5 points",
    "odds": 100,
    "units": 1.0,
-   "result": null,
-   "pl": null,
-   "pending": true
+   "result": "L",
+   "pl": -1.0,
+   "pending": false
   },
   {
    "n": 1070,
@@ -9689,9 +9689,9 @@
    "pick": "Jaylen Wells Over 3.5 rebounds",
    "odds": 125,
    "units": 1.0,
-   "result": null,
-   "pl": null,
-   "pending": true
+   "result": "L",
+   "pl": -1.0,
+   "pending": false
   },
   {
    "n": 1071,
@@ -9705,9 +9705,9 @@
    "pick": "Lassine Sinayoko (Paris FC) anytime goal",
    "odds": 170,
    "units": 1.0,
-   "result": null,
-   "pl": null,
-   "pending": true
+   "result": "L",
+   "pl": -1.0,
+   "pending": false
   },
   {
    "n": 1072,
@@ -9721,9 +9721,9 @@
    "pick": "Ludovic Ajorque (Brest) anytime goal",
    "odds": 250,
    "units": 1.0,
-   "result": null,
-   "pl": null,
-   "pending": true
+   "result": "L",
+   "pl": -1.0,
+   "pending": false
   },
   {
    "n": 1074,
@@ -9737,9 +9737,9 @@
    "pick": "Chris Boswell (PIT K) Over 5.5 kicking points (player prop)",
    "odds": -122,
    "units": 5.0,
-   "result": null,
-   "pl": null,
-   "pending": true
+   "result": "W",
+   "pl": 4.1,
+   "pending": false
   },
   {
    "n": 1075,
@@ -9753,9 +9753,9 @@
    "pick": "Jonah Coleman (DEN RB) Over 21.5 receiving yards (player prop)",
    "odds": -115,
    "units": 3.0,
-   "result": null,
-   "pl": null,
-   "pending": true
+   "result": "W",
+   "pl": 2.61,
+   "pending": false
   },
   {
    "n": 1076,
@@ -9769,9 +9769,9 @@
    "pick": "Ryan Nugent-Hopkins (EDM) Under 0.5 points (player prop)",
    "odds": 130,
    "units": 1.0,
-   "result": null,
-   "pl": null,
-   "pending": true
+   "result": "L",
+   "pl": -1.0,
+   "pending": false
   },
   {
    "n": 1077,
@@ -9785,9 +9785,9 @@
    "pick": "Collin Murray-Boyles (TOR) Under 5.5 rebounds (player prop)",
    "odds": -125,
    "units": 1.0,
-   "result": null,
-   "pl": null,
-   "pending": true
+   "result": "L",
+   "pl": -1.0,
+   "pending": false
   },
   {
    "n": 1078,
@@ -9801,9 +9801,9 @@
    "pick": "Hofstra -1.5",
    "odds": -110,
    "units": 1.0,
-   "result": null,
-   "pl": null,
-   "pending": true
+   "result": "L",
+   "pl": -1.0,
+   "pending": false
   },
   {
    "n": 1079,
@@ -9817,9 +9817,9 @@
    "pick": "Under 176",
    "odds": -110,
    "units": 1.0,
-   "result": null,
-   "pl": null,
-   "pending": true
+   "result": "L",
+   "pl": -1.0,
+   "pending": false
   },
   {
    "n": 1080,
@@ -9833,9 +9833,9 @@
    "pick": "Under 170.5",
    "odds": -110,
    "units": 1.0,
-   "result": null,
-   "pl": null,
-   "pending": true
+   "result": "W",
+   "pl": 0.91,
+   "pending": false
   },
   {
    "n": 1081,
@@ -9849,9 +9849,9 @@
    "pick": "Texas A&M +1.5",
    "odds": -105,
    "units": 1.0,
-   "result": null,
-   "pl": null,
-   "pending": true
+   "result": "W",
+   "pl": 0.95,
+   "pending": false
   },
   {
    "n": 1082,
@@ -9865,9 +9865,9 @@
    "pick": "Claude Giroux (OTT) Under 0.5 points (player prop)",
    "odds": -120,
    "units": 1.0,
-   "result": null,
-   "pl": null,
-   "pending": true
+   "result": "L",
+   "pl": -1.0,
+   "pending": false
   },
   {
    "n": 1083,
@@ -9881,9 +9881,9 @@
    "pick": "Brook Lopez (LAC) Over 4.5 rebounds (player prop)",
    "odds": 125,
    "units": 1.0,
-   "result": null,
-   "pl": null,
-   "pending": true
+   "result": "W",
+   "pl": 1.25,
+   "pending": false
   },
   {
    "n": 1084,
@@ -9897,9 +9897,9 @@
    "pick": "Over 47.5 total points LIVE",
    "odds": -118,
    "units": 3.0,
-   "result": null,
-   "pl": null,
-   "pending": true
+   "result": "L",
+   "pl": -3.0,
+   "pending": false
   },
   {
    "n": 1085,
@@ -9913,9 +9913,9 @@
    "pick": "Andrew Wiggins (MIA) Over 7.5 points (player prop)",
    "odds": -105,
    "units": 1.0,
-   "result": null,
-   "pl": null,
-   "pending": true
+   "result": "L",
+   "pl": -1.0,
+   "pending": false
   },
   {
    "n": 1086,
@@ -9929,9 +9929,9 @@
    "pick": "Keyonte George (UTA) Under 6.5 assists (player prop)",
    "odds": 140,
    "units": 1.0,
-   "result": null,
-   "pl": null,
-   "pending": true
+   "result": "W",
+   "pl": 1.4,
+   "pending": false
   },
   {
    "n": 905,
