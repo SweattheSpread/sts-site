@@ -1,5 +1,5 @@
 {
- "updated": "Nov 28, 2026, 1:11 PM PT",
+ "updated": "Nov 28, 2026, 1:16 PM PT",
  "record": {
   "w": 301,
   "l": 305,
@@ -11,7 +11,7 @@
   "first": "2026-10-12",
   "last": "2026-11-27"
  },
- "pending": 25,
+ "pending": 29,
  "latest": [
   {
    "n": 1086,
@@ -127,6 +127,64 @@
   }
  ],
  "picks": [
+  {
+   "n": 1101,
+   "league": "NCAAB",
+   "type": "Over/Under",
+   "matchup": "South Alabama Jaguars @ South Dakota State Jackrabbits",
+   "pick": "Over 137.5",
+   "odds": -110,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-28T15:00:00",
+   "timed": true,
+   "ticket": "single",
+   "espn": {
+    "legs": [
+     {
+      "kind": "total",
+      "side": null,
+      "ou": "O",
+      "line": 137.5,
+      "label": "O 137.5",
+      "path": "basketball/mens-college-basketball",
+      "event": "401929413",
+      "date": "20261128",
+      "snapshot": {
+       "source": "espn",
+       "state": "pre",
+       "detail": "11/28 - 6:00 PM EST",
+       "start": "2026-11-28T23:00Z",
+       "period": null,
+       "clock": null,
+       "teams": [
+        {
+         "name": "South Alabama Jaguars",
+         "short": "Jaguars",
+         "abbr": "USA",
+         "score": 0,
+         "ha": "away",
+         "winner": null,
+         "linescores": []
+        },
+        {
+         "name": "South Dakota State Jackrabbits",
+         "short": "Jackrabbits",
+         "abbr": "SDST",
+         "score": 0,
+         "ha": "home",
+         "winner": null,
+         "linescores": []
+        }
+       ]
+      },
+      "source": "espn"
+     }
+    ],
+    "sport": "NCAAB",
+    "ticket": "single"
+   }
+  },
   {
    "n": 1094,
    "league": "NCAAF",
@@ -301,6 +359,285 @@
     ],
     "sport": "NHL",
     "ticket": "single"
+   }
+  },
+  {
+   "n": 1098,
+   "league": "NHL",
+   "type": "Parlay",
+   "matchup": "2-leg parlay Colorado Avalanche ML + Carolina Hurricanes ML",
+   "pick": "Ottawa Senators @ Carolina Hurricanes + San Jose Sharks @ Colorado Avalanche",
+   "odds": 101,
+   "units": 3.0,
+   "gap": null,
+   "start": "2026-11-28T16:10:00",
+   "timed": true,
+   "ticket": "parlay",
+   "espn": {
+    "legs": [
+     {
+      "kind": "unknown",
+      "label": "Ottawa Senators @ Carolina Hurricanes",
+      "path": "hockey/nhl",
+      "event": "401892816",
+      "date": "20261128",
+      "snapshot": {
+       "source": "nhl",
+       "state": "pre",
+       "detail": "Scheduled",
+       "start": "2026-11-29T00:00:00Z",
+       "period": null,
+       "clock": null,
+       "teams": [
+        {
+         "name": "Senators",
+         "short": "OTT",
+         "abbr": "OTT",
+         "score": 0,
+         "ha": "away",
+         "winner": null,
+         "linescores": []
+        },
+        {
+         "name": "Hurricanes",
+         "short": "CAR",
+         "abbr": "CAR",
+         "score": 0,
+         "ha": "home",
+         "winner": null,
+         "linescores": []
+        }
+       ],
+       "nhl_id": 2026020421
+      },
+      "source": "nhl"
+     },
+     {
+      "kind": "unknown",
+      "label": "San Jose Sharks @ Colorado Avalanche",
+      "path": "hockey/nhl",
+      "event": "401892820",
+      "date": "20261128",
+      "snapshot": {
+       "source": "nhl",
+       "state": "pre",
+       "detail": "Scheduled",
+       "start": "2026-11-29T00:00:00Z",
+       "period": null,
+       "clock": null,
+       "teams": [
+        {
+         "name": "Senators",
+         "short": "OTT",
+         "abbr": "OTT",
+         "score": 0,
+         "ha": "away",
+         "winner": null,
+         "linescores": []
+        },
+        {
+         "name": "Hurricanes",
+         "short": "CAR",
+         "abbr": "CAR",
+         "score": 0,
+         "ha": "home",
+         "winner": null,
+         "linescores": []
+        }
+       ],
+       "nhl_id": 2026020421
+      },
+      "source": "nhl"
+     }
+    ],
+    "sport": "NHL",
+    "ticket": "parlay"
+   }
+  },
+  {
+   "n": 1099,
+   "league": "NHL",
+   "type": "Parlay",
+   "matchup": "2-leg parlay Colorado Avalanche to win in regulation + Carolina Hurricanes to win in regulation (60-min 3-way moneyline, OT/SO does not count)",
+   "pick": "Ottawa Senators @ Carolina Hurricanes + San Jose Sharks @ Colorado Avalanche",
+   "odds": 187,
+   "units": 1.5,
+   "gap": null,
+   "start": "2026-11-28T16:10:00",
+   "timed": true,
+   "ticket": "parlay",
+   "espn": {
+    "legs": [
+     {
+      "kind": "unknown",
+      "label": "Ottawa Senators @ Carolina Hurricanes",
+      "path": "hockey/nhl",
+      "event": "401892816",
+      "date": "20261128",
+      "snapshot": {
+       "source": "nhl",
+       "state": "pre",
+       "detail": "Scheduled",
+       "start": "2026-11-29T00:00:00Z",
+       "period": null,
+       "clock": null,
+       "teams": [
+        {
+         "name": "Senators",
+         "short": "OTT",
+         "abbr": "OTT",
+         "score": 0,
+         "ha": "away",
+         "winner": null,
+         "linescores": []
+        },
+        {
+         "name": "Hurricanes",
+         "short": "CAR",
+         "abbr": "CAR",
+         "score": 0,
+         "ha": "home",
+         "winner": null,
+         "linescores": []
+        }
+       ],
+       "nhl_id": 2026020421
+      },
+      "source": "nhl"
+     },
+     {
+      "kind": "unknown",
+      "label": "San Jose Sharks @ Colorado Avalanche",
+      "path": "hockey/nhl",
+      "event": "401892820",
+      "date": "20261128",
+      "snapshot": {
+       "source": "nhl",
+       "state": "pre",
+       "detail": "Scheduled",
+       "start": "2026-11-29T00:00:00Z",
+       "period": null,
+       "clock": null,
+       "teams": [
+        {
+         "name": "Senators",
+         "short": "OTT",
+         "abbr": "OTT",
+         "score": 0,
+         "ha": "away",
+         "winner": null,
+         "linescores": []
+        },
+        {
+         "name": "Hurricanes",
+         "short": "CAR",
+         "abbr": "CAR",
+         "score": 0,
+         "ha": "home",
+         "winner": null,
+         "linescores": []
+        }
+       ],
+       "nhl_id": 2026020421
+      },
+      "source": "nhl"
+     }
+    ],
+    "sport": "NHL",
+    "ticket": "parlay"
+   }
+  },
+  {
+   "n": 1100,
+   "league": "NHL",
+   "type": "Parlay",
+   "matchup": "2-leg parlay Colorado Avalanche -1.5 (puck line) + Carolina Hurricanes -1.5 (puck line)",
+   "pick": "Ottawa Senators @ Carolina Hurricanes + San Jose Sharks @ Colorado Avalanche",
+   "odds": 300,
+   "units": 0.5,
+   "gap": null,
+   "start": "2026-11-28T16:10:00",
+   "timed": true,
+   "ticket": "parlay",
+   "espn": {
+    "legs": [
+     {
+      "kind": "unknown",
+      "label": "Ottawa Senators @ Carolina Hurricanes",
+      "path": "hockey/nhl",
+      "event": "401892816",
+      "date": "20261128",
+      "snapshot": {
+       "source": "nhl",
+       "state": "pre",
+       "detail": "Scheduled",
+       "start": "2026-11-29T00:00:00Z",
+       "period": null,
+       "clock": null,
+       "teams": [
+        {
+         "name": "Senators",
+         "short": "OTT",
+         "abbr": "OTT",
+         "score": 0,
+         "ha": "away",
+         "winner": null,
+         "linescores": []
+        },
+        {
+         "name": "Hurricanes",
+         "short": "CAR",
+         "abbr": "CAR",
+         "score": 0,
+         "ha": "home",
+         "winner": null,
+         "linescores": []
+        }
+       ],
+       "nhl_id": 2026020421
+      },
+      "source": "nhl"
+     },
+     {
+      "kind": "unknown",
+      "label": "San Jose Sharks @ Colorado Avalanche",
+      "path": "hockey/nhl",
+      "event": "401892820",
+      "date": "20261128",
+      "snapshot": {
+       "source": "nhl",
+       "state": "pre",
+       "detail": "Scheduled",
+       "start": "2026-11-29T00:00:00Z",
+       "period": null,
+       "clock": null,
+       "teams": [
+        {
+         "name": "Senators",
+         "short": "OTT",
+         "abbr": "OTT",
+         "score": 0,
+         "ha": "away",
+         "winner": null,
+         "linescores": []
+        },
+        {
+         "name": "Hurricanes",
+         "short": "CAR",
+         "abbr": "CAR",
+         "score": 0,
+         "ha": "home",
+         "winner": null,
+         "linescores": []
+        }
+       ],
+       "nhl_id": 2026020421
+      },
+      "source": "nhl"
+     }
+    ],
+    "sport": "NHL",
+    "ticket": "parlay"
    }
   },
   {
@@ -1454,19 +1791,20 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "Halftime",
+       "detail": "18:21 - 2nd",
        "start": "2026-11-28T19:00Z",
-       "period": 1,
-       "clock": "0:00",
+       "period": 2,
+       "clock": "18:21",
        "teams": [
         {
          "name": "Georgia Southern Eagles",
          "short": "Eagles",
          "abbr": "GASO",
-         "score": 37,
+         "score": 39,
          "ha": "away",
          "winner": null,
          "linescores": [
+          0,
           0
          ]
         },
@@ -1474,10 +1812,11 @@
          "name": "UNC Asheville Bulldogs",
          "short": "Bulldogs",
          "abbr": "UNCA",
-         "score": 46,
+         "score": 49,
          "ha": "home",
          "winner": null,
          "linescores": [
+          0,
           0
          ]
         }
