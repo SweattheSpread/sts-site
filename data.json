@@ -1,5 +1,5 @@
 {
- "updated": "Nov 28, 2026, 2:01 PM PT",
+ "updated": "Nov 28, 2026, 2:03 PM PT",
  "record": {
   "w": 301,
   "l": 305,
@@ -1791,16 +1791,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "3:49 - 2nd",
+       "detail": "3:32 - 2nd",
        "start": "2026-11-28T19:00Z",
        "period": 2,
-       "clock": "3:49",
+       "clock": "3:32",
        "teams": [
         {
          "name": "Georgia Southern Eagles",
          "short": "Eagles",
          "abbr": "GASO",
-         "score": 76,
+         "score": 78,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -1812,7 +1812,7 @@
          "name": "UNC Asheville Bulldogs",
          "short": "Bulldogs",
          "abbr": "UNCA",
-         "score": 78,
+         "score": 80,
          "ha": "home",
          "winner": null,
          "linescores": [
