@@ -1,5 +1,5 @@
 {
- "updated": "Nov 28, 2026, 10:47 AM PT",
+ "updated": "Nov 28, 2026, 10:51 AM PT",
  "record": {
   "w": 301,
   "l": 305,
@@ -1447,10 +1447,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "15:00 - 2nd",
+       "detail": "13:29 - 2nd",
        "start": "2026-11-28T17:00Z",
        "period": 2,
-       "clock": "15:00",
+       "clock": "13:29",
        "teams": [
         {
          "name": "Michigan Wolverines",
@@ -1468,7 +1468,7 @@
          "name": "Ohio State Buckeyes",
          "short": "Buckeyes",
          "abbr": "OSU",
-         "score": 7,
+         "score": 14,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -1493,10 +1493,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "15:00 - 2nd",
+       "detail": "13:29 - 2nd",
        "start": "2026-11-28T17:00Z",
        "period": 2,
-       "clock": "15:00",
+       "clock": "13:29",
        "teams": [
         {
          "name": "Michigan Wolverines",
@@ -1514,7 +1514,7 @@
          "name": "Ohio State Buckeyes",
          "short": "Buckeyes",
          "abbr": "OSU",
-         "score": 7,
+         "score": 14,
          "ha": "home",
          "winner": null,
          "linescores": [
