@@ -1,5 +1,5 @@
 {
- "updated": "Nov 28, 2026, 1:24 PM PT",
+ "updated": "Nov 28, 2026, 1:26 PM PT",
  "record": {
   "w": 301,
   "l": 305,
@@ -1791,16 +1791,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "15:23 - 2nd",
+       "detail": "14:24 - 2nd",
        "start": "2026-11-28T19:00Z",
        "period": 2,
-       "clock": "15:23",
+       "clock": "14:24",
        "teams": [
         {
          "name": "Georgia Southern Eagles",
          "short": "Eagles",
          "abbr": "GASO",
-         "score": 45,
+         "score": 48,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -1812,7 +1812,7 @@
          "name": "UNC Asheville Bulldogs",
          "short": "Bulldogs",
          "abbr": "UNCA",
-         "score": 53,
+         "score": 56,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -1855,10 +1855,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "1:53 - 4th",
+       "detail": "1:45 - 4th",
        "start": "2026-11-28T17:00Z",
        "period": 4,
-       "clock": "1:53",
+       "clock": "1:45",
        "teams": [
         {
          "name": "Michigan Wolverines",
@@ -1878,7 +1878,7 @@
          "name": "Ohio State Buckeyes",
          "short": "Buckeyes",
          "abbr": "OSU",
-         "score": 38,
+         "score": 45,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -1905,10 +1905,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "1:53 - 4th",
+       "detail": "1:45 - 4th",
        "start": "2026-11-28T17:00Z",
        "period": 4,
-       "clock": "1:53",
+       "clock": "1:45",
        "teams": [
         {
          "name": "Michigan Wolverines",
@@ -1928,7 +1928,7 @@
          "name": "Ohio State Buckeyes",
          "short": "Buckeyes",
          "abbr": "OSU",
-         "score": 38,
+         "score": 45,
          "ha": "home",
          "winner": null,
          "linescores": [
