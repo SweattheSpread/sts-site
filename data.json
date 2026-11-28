@@ -1,5 +1,5 @@
 {
- "updated": "Nov 27, 2026, 6:37 PM PT",
+ "updated": "Nov 27, 2026, 6:50 PM PT",
  "record": {
   "w": 292,
   "l": 292,
@@ -127,92 +127,6 @@
   }
  ],
  "picks": [
-  {
-   "n": 1083,
-   "league": "NBA",
-   "type": "Spread",
-   "matchup": "New Orleans Pelicans @ Los Angeles Clippers",
-   "pick": "Brook Lopez (LAC) Over 4.5 rebounds (player prop)",
-   "odds": 125,
-   "units": 1.0,
-   "gap": null,
-   "start": "2026-11-27T18:40:00",
-   "timed": true,
-   "ticket": "single",
-   "espn": {
-    "legs": [
-     {
-      "kind": "team_total",
-      "side": "Brook Lopez",
-      "ou": "O",
-      "line": 4.5,
-      "label": "Brook Lopez O 4.5",
-      "unverified": true
-     }
-    ],
-    "sport": "NBA",
-    "ticket": "single"
-   }
-  },
-  {
-   "n": 1086,
-   "league": "NBA",
-   "type": "Player Prop",
-   "matchup": "Denver Nuggets @ Utah Jazz",
-   "pick": "Keyonte George (UTA) Under 6.5 assists (player prop)",
-   "odds": 140,
-   "units": 1.0,
-   "gap": null,
-   "start": "2026-11-27T18:40:00",
-   "timed": true,
-   "ticket": "single",
-   "espn": {
-    "legs": [
-     {
-      "kind": "prop",
-      "player": "Keyonte George",
-      "ou": "U",
-      "line": 6.5,
-      "stat": "assists",
-      "label": "Keyonte George U 6.5 assists",
-      "path": "basketball/nba",
-      "event": "401909334",
-      "date": "20261127",
-      "snapshot": {
-       "source": "espn",
-       "state": "pre",
-       "detail": "11/27 - 9:30 PM EST",
-       "start": "2026-11-28T02:30Z",
-       "period": null,
-       "clock": null,
-       "teams": [
-        {
-         "name": "Denver Nuggets",
-         "short": "Nuggets",
-         "abbr": "DEN",
-         "score": 0,
-         "ha": "away",
-         "winner": null,
-         "linescores": []
-        },
-        {
-         "name": "Utah Jazz",
-         "short": "Jazz",
-         "abbr": "UTAH",
-         "score": 0,
-         "ha": "home",
-         "winner": null,
-         "linescores": []
-        }
-       ]
-      },
-      "source": "espn"
-     }
-    ],
-    "sport": "NBA",
-    "ticket": "single"
-   }
-  },
   {
    "n": 983,
    "league": "NFL",
@@ -1615,10 +1529,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P1 05:59",
+       "detail": "P1 00:00",
        "start": "2026-11-28T01:00:00Z",
        "period": 1,
-       "clock": "05:59",
+       "clock": "00:00",
        "teams": [
         {
          "name": "Kraken",
@@ -1678,31 +1592,39 @@
       "date": "20261127",
       "snapshot": {
        "source": "espn",
-       "state": "pre",
-       "detail": "11/27 - 8:30 PM EST",
+       "state": "in",
+       "detail": "6:36 - 1st",
        "start": "2026-11-28T01:30Z",
-       "period": null,
-       "clock": null,
+       "period": 1,
+       "clock": "6:36",
        "teams": [
         {
          "name": "Memphis Grizzlies",
          "short": "Grizzlies",
          "abbr": "MEM",
-         "score": 0,
+         "score": 10,
          "ha": "away",
          "winner": null,
-         "linescores": []
+         "linescores": [
+          0
+         ]
         },
         {
          "name": "Minnesota Timberwolves",
          "short": "Timberwolves",
          "abbr": "MIN",
-         "score": 0,
+         "score": 9,
          "ha": "home",
          "winner": null,
-         "linescores": []
+         "linescores": [
+          0
+         ]
         }
-       ]
+       ],
+       "stat": {
+        "v": 1,
+        "name": "Jaylen Wells"
+       }
       },
       "source": "espn"
      }
@@ -1900,10 +1822,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P1 05:59",
+       "detail": "P1 00:00",
        "start": "2026-11-28T01:00:00Z",
        "period": 1,
-       "clock": "05:59",
+       "clock": "00:00",
        "teams": [
         {
          "name": "Kraken",
@@ -1964,16 +1886,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "1:44 - 2nd",
+       "detail": "Halftime",
        "start": "2026-11-28T00:30Z",
        "period": 2,
-       "clock": "1:44",
+       "clock": "0.0",
        "teams": [
         {
          "name": "Brooklyn Nets",
          "short": "Nets",
          "abbr": "BKN",
-         "score": 49,
+         "score": 55,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -1985,7 +1907,7 @@
          "name": "Toronto Raptors",
          "short": "Raptors",
          "abbr": "TOR",
-         "score": 59,
+         "score": 63,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -2159,16 +2081,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "17:06 - 1st",
+       "detail": "11:44 - 1st",
        "start": "2026-11-28T01:30Z",
        "period": 1,
-       "clock": "17:06",
+       "clock": "11:44",
        "teams": [
         {
          "name": "Miami Hurricanes",
          "short": "Hurricanes",
          "abbr": "MIA",
-         "score": 4,
+         "score": 19,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -2179,7 +2101,7 @@
          "name": "Alabama Crimson Tide",
          "short": "Crimson Tide",
          "abbr": "ALA",
-         "score": 2,
+         "score": 12,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -2318,6 +2240,33 @@
    }
   },
   {
+   "n": 1083,
+   "league": "NBA",
+   "type": "Spread",
+   "matchup": "New Orleans Pelicans @ Los Angeles Clippers",
+   "pick": "Brook Lopez (LAC) Over 4.5 rebounds (player prop)",
+   "odds": 125,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-27T18:40:00",
+   "timed": true,
+   "ticket": "single",
+   "espn": {
+    "legs": [
+     {
+      "kind": "team_total",
+      "side": "Brook Lopez",
+      "ou": "O",
+      "line": 4.5,
+      "label": "Brook Lopez O 4.5",
+      "unverified": true
+     }
+    ],
+    "sport": "NBA",
+    "ticket": "single"
+   }
+  },
+  {
    "n": 1084,
    "league": "NFL",
    "type": "Total",
@@ -2411,16 +2360,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "8:03 - 3rd",
+       "detail": "2:49 - 3rd",
        "start": "2026-11-28T00:00Z",
        "period": 3,
-       "clock": "8:03",
+       "clock": "2:49",
        "teams": [
         {
          "name": "Miami Heat",
          "short": "Heat",
          "abbr": "MIA",
-         "score": 65,
+         "score": 79,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -2433,7 +2382,7 @@
          "name": "New York Knicks",
          "short": "Knicks",
          "abbr": "NY",
-         "score": 56,
+         "score": 70,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -2441,6 +2390,65 @@
           0,
           0
          ]
+        }
+       ]
+      },
+      "source": "espn"
+     }
+    ],
+    "sport": "NBA",
+    "ticket": "single"
+   }
+  },
+  {
+   "n": 1086,
+   "league": "NBA",
+   "type": "Player Prop",
+   "matchup": "Denver Nuggets @ Utah Jazz",
+   "pick": "Keyonte George (UTA) Under 6.5 assists (player prop)",
+   "odds": 140,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-27T18:40:00",
+   "timed": true,
+   "ticket": "single",
+   "espn": {
+    "legs": [
+     {
+      "kind": "prop",
+      "player": "Keyonte George",
+      "ou": "U",
+      "line": 6.5,
+      "stat": "assists",
+      "label": "Keyonte George U 6.5 assists",
+      "path": "basketball/nba",
+      "event": "401909334",
+      "date": "20261127",
+      "snapshot": {
+       "source": "espn",
+       "state": "pre",
+       "detail": "11/27 - 9:30 PM EST",
+       "start": "2026-11-28T02:30Z",
+       "period": null,
+       "clock": null,
+       "teams": [
+        {
+         "name": "Denver Nuggets",
+         "short": "Nuggets",
+         "abbr": "DEN",
+         "score": 0,
+         "ha": "away",
+         "winner": null,
+         "linescores": []
+        },
+        {
+         "name": "Utah Jazz",
+         "short": "Jazz",
+         "abbr": "UTAH",
+         "score": 0,
+         "ha": "home",
+         "winner": null,
+         "linescores": []
         }
        ]
       },
