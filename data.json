@@ -1,5 +1,5 @@
 {
- "updated": "Nov 28, 2026, 9:28 AM PT",
+ "updated": "Nov 28, 2026, 9:30 AM PT",
  "record": {
   "w": 301,
   "l": 305,
@@ -11,7 +11,7 @@
   "first": "2026-10-12",
   "last": "2026-11-27"
  },
- "pending": 23,
+ "pending": 24,
  "latest": [
   {
    "n": 1086,
@@ -1420,7 +1420,106 @@
    }
   }
  ],
- "awaiting": [],
+ "awaiting": [
+  {
+   "n": 1096,
+   "league": "NCAAF",
+   "type": "Parlay",
+   "matchup": "Michigan Wolverines @ Ohio State Buckeyes",
+   "pick": "2-leg same-game parlay Jeremiah Smith (OSU) Over 109.5 receiving yards + Jeremiah Smith anytime TD",
+   "odds": 152,
+   "units": 5.0,
+   "gap": null,
+   "start": "2026-11-28T09:00:00",
+   "timed": true,
+   "ticket": "sgp",
+   "espn": {
+    "legs": [
+     {
+      "kind": "team_total",
+      "side": "2-leg same-game parlay Jeremiah Smith",
+      "ou": "O",
+      "line": 109.5,
+      "label": "2-leg same-game parlay Jeremiah Smith O 109.5",
+      "path": "football/college-football",
+      "event": "401858540",
+      "date": "20261128",
+      "snapshot": {
+       "source": "espn",
+       "state": "pre",
+       "detail": "11/28 - 12:00 PM EST",
+       "start": "2026-11-28T17:00Z",
+       "period": null,
+       "clock": null,
+       "teams": [
+        {
+         "name": "Michigan Wolverines",
+         "short": "Wolverines",
+         "abbr": "MICH",
+         "score": 0,
+         "ha": "away",
+         "winner": null,
+         "linescores": []
+        },
+        {
+         "name": "Ohio State Buckeyes",
+         "short": "Buckeyes",
+         "abbr": "OSU",
+         "score": 0,
+         "ha": "home",
+         "winner": null,
+         "linescores": []
+        }
+       ]
+      },
+      "source": "espn"
+     },
+     {
+      "kind": "prop",
+      "player": "Jeremiah Smith",
+      "ou": "O",
+      "line": 0.5,
+      "stat": "anytime td",
+      "label": "Jeremiah Smith O 0.5 anytime td",
+      "path": "football/college-football",
+      "event": "401858540",
+      "date": "20261128",
+      "snapshot": {
+       "source": "espn",
+       "state": "pre",
+       "detail": "11/28 - 12:00 PM EST",
+       "start": "2026-11-28T17:00Z",
+       "period": null,
+       "clock": null,
+       "teams": [
+        {
+         "name": "Michigan Wolverines",
+         "short": "Wolverines",
+         "abbr": "MICH",
+         "score": 0,
+         "ha": "away",
+         "winner": null,
+         "linescores": []
+        },
+        {
+         "name": "Ohio State Buckeyes",
+         "short": "Buckeyes",
+         "abbr": "OSU",
+         "score": 0,
+         "ha": "home",
+         "winner": null,
+         "linescores": []
+        }
+       ]
+      },
+      "source": "espn"
+     }
+    ],
+    "sport": "NCAAF",
+    "ticket": "sgp"
+   }
+  }
+ ],
  "daily": {
   "2026-10-12": {
    "u": 5.67,
