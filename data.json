@@ -1,5 +1,5 @@
 {
- "updated": "Nov 28, 2026, 1:29 PM PT",
+ "updated": "Nov 28, 2026, 1:31 PM PT",
  "record": {
   "w": 301,
   "l": 305,
@@ -1791,10 +1791,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "13:47 - 2nd",
+       "detail": "12:46 - 2nd",
        "start": "2026-11-28T19:00Z",
        "period": 2,
-       "clock": "13:47",
+       "clock": "12:46",
        "teams": [
         {
          "name": "Georgia Southern Eagles",
@@ -1812,7 +1812,7 @@
          "name": "UNC Asheville Bulldogs",
          "short": "Bulldogs",
          "abbr": "UNCA",
-         "score": 58,
+         "score": 62,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -1854,11 +1854,11 @@
       "date": "20261128",
       "snapshot": {
        "source": "espn",
-       "state": "in",
-       "detail": "1:45 - 4th",
+       "state": "post",
+       "detail": "Final",
        "start": "2026-11-28T17:00Z",
-       "period": 4,
-       "clock": "1:45",
+       "period": null,
+       "clock": null,
        "teams": [
         {
          "name": "Michigan Wolverines",
@@ -1866,7 +1866,7 @@
          "abbr": "MICH",
          "score": 0,
          "ha": "away",
-         "winner": null,
+         "winner": false,
          "linescores": [
           0,
           0,
@@ -1880,7 +1880,7 @@
          "abbr": "OSU",
          "score": 45,
          "ha": "home",
-         "winner": null,
+         "winner": true,
          "linescores": [
           0,
           0,
@@ -1899,49 +1899,36 @@
       "line": 0.5,
       "stat": "anytime td",
       "label": "Jeremiah Smith O 0.5 anytime td",
-      "path": "football/college-football",
-      "event": "401858540",
       "date": "20261128",
+      "unverified": true,
+      "reason": "Player not found in this game",
       "snapshot": {
-       "source": "espn",
+       "source": "odds-api",
        "state": "in",
-       "detail": "1:45 - 4th",
-       "start": "2026-11-28T17:00Z",
-       "period": 4,
-       "clock": "1:45",
+       "detail": "Live",
+       "start": "2026-11-28T17:14:43Z",
        "teams": [
         {
          "name": "Michigan Wolverines",
-         "short": "Wolverines",
-         "abbr": "MICH",
+         "short": "Michigan Wolverines",
+         "abbr": "",
          "score": 0,
          "ha": "away",
          "winner": null,
-         "linescores": [
-          0,
-          0,
-          0,
-          0
-         ]
+         "linescores": []
         },
         {
          "name": "Ohio State Buckeyes",
-         "short": "Buckeyes",
-         "abbr": "OSU",
+         "short": "Ohio State Buckeyes",
+         "abbr": "",
          "score": 45,
          "ha": "home",
          "winner": null,
-         "linescores": [
-          0,
-          0,
-          0,
-          0
-         ]
+         "linescores": []
         }
-       ],
-       "stat": null
+       ]
       },
-      "source": "espn"
+      "source": "odds-api"
      }
     ],
     "sport": "NCAAF",
