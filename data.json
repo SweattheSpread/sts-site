@@ -1,5 +1,5 @@
 {
- "updated": "Nov 27, 2026, 5:57 PM PT",
+ "updated": "Nov 27, 2026, 5:59 PM PT",
  "record": {
   "w": 292,
   "l": 292,
@@ -1076,10 +1076,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P3 06:16",
+       "detail": "P3 03:59",
        "start": "2026-11-27T22:30:00Z",
        "period": 3,
-       "clock": "06:16",
+       "clock": "03:59",
        "teams": [
         {
          "name": "Rangers",
@@ -1956,16 +1956,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "6:51 - 1st",
+       "detail": "6:14 - 1st",
        "start": "2026-11-28T00:30Z",
        "period": 1,
-       "clock": "6:51",
+       "clock": "6:14",
        "teams": [
         {
          "name": "Brooklyn Nets",
          "short": "Nets",
          "abbr": "BKN",
-         "score": 13,
+         "score": 15,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -1976,7 +1976,7 @@
          "name": "Toronto Raptors",
          "short": "Raptors",
          "abbr": "TOR",
-         "score": 17,
+         "score": 20,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -2082,16 +2082,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "2:18 - 2nd",
+       "detail": "1:57 - 2nd",
        "start": "2026-11-27T23:00Z",
        "period": 2,
-       "clock": "2:18",
+       "clock": "1:57",
        "teams": [
         {
          "name": "Western Kentucky Hilltoppers",
          "short": "Hilltoppers",
          "abbr": "WKU",
-         "score": 72,
+         "score": 73,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -2394,16 +2394,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "5:23 - 2nd",
+       "detail": "4:18 - 2nd",
        "start": "2026-11-28T00:00Z",
        "period": 2,
-       "clock": "5:23",
+       "clock": "4:18",
        "teams": [
         {
          "name": "Miami Heat",
          "short": "Heat",
          "abbr": "MIA",
-         "score": 48,
+         "score": 52,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -2415,7 +2415,7 @@
          "name": "New York Knicks",
          "short": "Knicks",
          "abbr": "NY",
-         "score": 29,
+         "score": 31,
          "ha": "home",
          "winner": null,
          "linescores": [
