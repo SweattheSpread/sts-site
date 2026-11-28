@@ -1,5 +1,5 @@
 {
- "updated": "Nov 27, 2026, 5:52 PM PT",
+ "updated": "Nov 27, 2026, 5:54 PM PT",
  "record": {
   "w": 292,
   "l": 292,
@@ -1076,10 +1076,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P3 08:58",
+       "detail": "P3 07:37",
        "start": "2026-11-27T22:30:00Z",
        "period": 3,
-       "clock": "08:58",
+       "clock": "07:37",
        "teams": [
         {
          "name": "Rangers",
@@ -1956,16 +1956,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "7:53 - 1st",
+       "detail": "7:24 - 1st",
        "start": "2026-11-28T00:30Z",
        "period": 1,
-       "clock": "7:53",
+       "clock": "7:24",
        "teams": [
         {
          "name": "Brooklyn Nets",
          "short": "Nets",
          "abbr": "BKN",
-         "score": 11,
+         "score": 13,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -1976,7 +1976,7 @@
          "name": "Toronto Raptors",
          "short": "Raptors",
          "abbr": "TOR",
-         "score": 10,
+         "score": 12,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -2082,16 +2082,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "4:07 - 2nd",
+       "detail": "3:04 - 2nd",
        "start": "2026-11-27T23:00Z",
        "period": 2,
-       "clock": "4:07",
+       "clock": "3:04",
        "teams": [
         {
          "name": "Western Kentucky Hilltoppers",
          "short": "Hilltoppers",
          "abbr": "WKU",
-         "score": 70,
+         "score": 72,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -2103,7 +2103,7 @@
          "name": "Illinois Fighting Illini",
          "short": "Fighting Illini",
          "abbr": "ILL",
-         "score": 105,
+         "score": 109,
          "ha": "home",
          "winner": null,
          "linescores": [
