@@ -1,5 +1,5 @@
 {
- "updated": "Nov 28, 2026, 12:29 PM PT",
+ "updated": "Nov 28, 2026, 12:39 PM PT",
  "record": {
   "w": 301,
   "l": 305,
@@ -1332,16 +1332,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "9:53 - 2nd",
+       "detail": "7:03 - 2nd",
        "start": "2026-11-28T18:00Z",
        "period": 2,
-       "clock": "9:53",
+       "clock": "7:03",
        "teams": [
         {
          "name": "Hampton Pirates",
          "short": "Pirates",
          "abbr": "HAMP",
-         "score": 47,
+         "score": 51,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -1353,7 +1353,7 @@
          "name": "Radford Highlanders",
          "short": "Highlanders",
          "abbr": "RAD",
-         "score": 56,
+         "score": 63,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -1395,16 +1395,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "10:40 - 1st",
+       "detail": "7:37 - 1st",
        "start": "2026-11-28T19:00Z",
        "period": 1,
-       "clock": "10:40",
+       "clock": "7:37",
        "teams": [
         {
          "name": "Georgia Southern Eagles",
          "short": "Eagles",
          "abbr": "GASO",
-         "score": 21,
+         "score": 23,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -1415,7 +1415,7 @@
          "name": "UNC Asheville Bulldogs",
          "short": "Bulldogs",
          "abbr": "UNCA",
-         "score": 17,
+         "score": 25,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -1457,10 +1457,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "4:25 - 3rd",
+       "detail": "1:13 - 3rd",
        "start": "2026-11-28T17:00Z",
        "period": 3,
-       "clock": "4:25",
+       "clock": "1:13",
        "teams": [
         {
          "name": "Michigan Wolverines",
@@ -1479,7 +1479,7 @@
          "name": "Ohio State Buckeyes",
          "short": "Buckeyes",
          "abbr": "OSU",
-         "score": 24,
+         "score": 31,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -1505,10 +1505,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "4:25 - 3rd",
+       "detail": "1:13 - 3rd",
        "start": "2026-11-28T17:00Z",
        "period": 3,
-       "clock": "4:25",
+       "clock": "1:13",
        "teams": [
         {
          "name": "Michigan Wolverines",
@@ -1527,7 +1527,7 @@
          "name": "Ohio State Buckeyes",
          "short": "Buckeyes",
          "abbr": "OSU",
-         "score": 24,
+         "score": 31,
          "ha": "home",
          "winner": null,
          "linescores": [
