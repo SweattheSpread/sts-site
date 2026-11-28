@@ -1,5 +1,5 @@
 {
- "updated": "Nov 28, 2026, 9:24 AM PT",
+ "updated": "Nov 28, 2026, 9:28 AM PT",
  "record": {
   "w": 301,
   "l": 305,
@@ -11,7 +11,7 @@
   "first": "2026-10-12",
   "last": "2026-11-27"
  },
- "pending": 22,
+ "pending": 23,
  "latest": [
   {
    "n": 1086,
@@ -259,6 +259,64 @@
       "ou": "O",
       "line": 37.5,
       "label": "Indiana Hoosiers O 37.5",
+      "path": "football/college-football",
+      "event": "401858538",
+      "date": "20261128",
+      "snapshot": {
+       "source": "espn",
+       "state": "pre",
+       "detail": "11/28 - 7:00 PM EST",
+       "start": "2026-11-29T00:00Z",
+       "period": null,
+       "clock": null,
+       "teams": [
+        {
+         "name": "Purdue Boilermakers",
+         "short": "Boilermakers",
+         "abbr": "PUR",
+         "score": 0,
+         "ha": "away",
+         "winner": null,
+         "linescores": []
+        },
+        {
+         "name": "Indiana Hoosiers",
+         "short": "Hoosiers",
+         "abbr": "IU",
+         "score": 0,
+         "ha": "home",
+         "winner": null,
+         "linescores": []
+        }
+       ]
+      },
+      "source": "espn"
+     }
+    ],
+    "sport": "NCAAF",
+    "ticket": "single"
+   }
+  },
+  {
+   "n": 1095,
+   "league": "NCAAF",
+   "type": "Spread",
+   "matchup": "Purdue Boilermakers @ Indiana Hoosiers",
+   "pick": "Indiana Hoosiers 1st half -13.5",
+   "odds": -112,
+   "units": 3.0,
+   "gap": null,
+   "start": "2026-11-28T16:00:00",
+   "timed": true,
+   "ticket": "single",
+   "espn": {
+    "legs": [
+     {
+      "kind": "spread",
+      "side": "Indiana Hoosiers",
+      "line": -13.5,
+      "scope": "1H",
+      "label": "Indiana Hoosiers -13.5",
       "path": "football/college-football",
       "event": "401858538",
       "date": "20261128",

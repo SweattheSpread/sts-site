@@ -1,5 +1,5 @@
 {
- "updated": "Nov 28, 2026, 9:24 AM PT",
+ "updated": "Nov 28, 2026, 9:28 AM PT",
  "record": {
   "w": 301,
   "l": 305,
@@ -11,7 +11,7 @@
   "first": "2026-10-12",
   "last": "2026-11-27"
  },
- "pending": 22,
+ "pending": 23,
  "plays": [
   {
    "n": 334,
@@ -9961,6 +9961,22 @@
    "pick": "Indiana Hoosiers team total Over 37.5 -120",
    "odds": -120,
    "units": 1.0,
+   "result": null,
+   "pl": null,
+   "pending": true
+  },
+  {
+   "n": 1095,
+   "date": "2026-11-28",
+   "day": "2026-11-28",
+   "league": "NCAAF",
+   "market": "spread",
+   "market_label": "Spread",
+   "ticket": "single",
+   "matchup": "Purdue Boilermakers @ Indiana Hoosiers",
+   "pick": "Indiana Hoosiers 1st half -13.5 -112",
+   "odds": -112,
+   "units": 3.0,
    "result": null,
    "pl": null,
    "pending": true
