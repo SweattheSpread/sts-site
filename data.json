@@ -1,5 +1,5 @@
 {
- "updated": "Nov 27, 2026, 6:18 PM PT",
+ "updated": "Nov 27, 2026, 6:20 PM PT",
  "record": {
   "w": 292,
   "l": 292,
@@ -1615,10 +1615,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P1 15:42",
+       "detail": "P1 13:02",
        "start": "2026-11-28T01:00:00Z",
        "period": 1,
-       "clock": "15:42",
+       "clock": "13:02",
        "teams": [
         {
          "name": "Kraken",
@@ -1900,10 +1900,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P1 15:42",
+       "detail": "P1 13:02",
        "start": "2026-11-28T01:00:00Z",
        "period": 1,
-       "clock": "15:42",
+       "clock": "13:02",
        "teams": [
         {
          "name": "Kraken",
@@ -1964,16 +1964,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "8:30 - 2nd",
+       "detail": "7:19 - 2nd",
        "start": "2026-11-28T00:30Z",
        "period": 2,
-       "clock": "8:30",
+       "clock": "7:19",
        "teams": [
         {
          "name": "Brooklyn Nets",
          "short": "Nets",
          "abbr": "BKN",
-         "score": 34,
+         "score": 37,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -1985,7 +1985,7 @@
          "name": "Toronto Raptors",
          "short": "Raptors",
          "abbr": "TOR",
-         "score": 38,
+         "score": 45,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -1995,7 +1995,7 @@
         }
        ],
        "stat": {
-        "v": 3,
+        "v": 4,
         "name": "Collin Murray-Boyles"
        }
       },
