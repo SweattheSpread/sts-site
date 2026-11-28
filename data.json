@@ -1,5 +1,5 @@
 {
- "updated": "Nov 28, 2026, 12:05 PM PT",
+ "updated": "Nov 28, 2026, 12:07 PM PT",
  "record": {
   "w": 301,
   "l": 305,
@@ -1332,16 +1332,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "18:53 - 2nd",
+       "detail": "17:43 - 2nd",
        "start": "2026-11-28T18:00Z",
        "period": 2,
-       "clock": "18:53",
+       "clock": "17:43",
        "teams": [
         {
          "name": "Hampton Pirates",
          "short": "Pirates",
          "abbr": "HAMP",
-         "score": 38,
+         "score": 40,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -1353,7 +1353,7 @@
          "name": "Radford Highlanders",
          "short": "Highlanders",
          "abbr": "RAD",
-         "score": 40,
+         "score": 41,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -1395,16 +1395,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "19:11 - 1st",
+       "detail": "17:39 - 1st",
        "start": "2026-11-28T19:00Z",
        "period": 1,
-       "clock": "19:11",
+       "clock": "17:39",
        "teams": [
         {
          "name": "Georgia Southern Eagles",
          "short": "Eagles",
          "abbr": "GASO",
-         "score": 5,
+         "score": 8,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -1415,7 +1415,7 @@
          "name": "UNC Asheville Bulldogs",
          "short": "Bulldogs",
          "abbr": "UNCA",
-         "score": 0,
+         "score": 1,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -1457,10 +1457,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "15:00 - 3rd",
+       "detail": "14:04 - 3rd",
        "start": "2026-11-28T17:00Z",
        "period": 3,
-       "clock": "15:00",
+       "clock": "14:04",
        "teams": [
         {
          "name": "Michigan Wolverines",
@@ -1505,10 +1505,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "15:00 - 3rd",
+       "detail": "14:04 - 3rd",
        "start": "2026-11-28T17:00Z",
        "period": 3,
-       "clock": "15:00",
+       "clock": "14:04",
        "teams": [
         {
          "name": "Michigan Wolverines",
