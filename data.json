@@ -1,5 +1,5 @@
 {
- "updated": "Nov 28, 2026, 11:08 AM PT",
+ "updated": "Nov 28, 2026, 11:21 AM PT",
  "record": {
   "w": 301,
   "l": 305,
@@ -1332,16 +1332,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "17:50 - 1st",
+       "detail": "11:36 - 1st",
        "start": "2026-11-28T18:00Z",
        "period": 1,
-       "clock": "17:50",
+       "clock": "11:36",
        "teams": [
         {
          "name": "Hampton Pirates",
          "short": "Pirates",
          "abbr": "HAMP",
-         "score": 10,
+         "score": 25,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -1352,7 +1352,7 @@
          "name": "Radford Highlanders",
          "short": "Highlanders",
          "abbr": "RAD",
-         "score": 2,
+         "score": 15,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -1451,10 +1451,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "8:25 - 2nd",
+       "detail": "5:22 - 2nd",
        "start": "2026-11-28T17:00Z",
        "period": 2,
-       "clock": "8:25",
+       "clock": "5:22",
        "teams": [
         {
          "name": "Michigan Wolverines",
@@ -1472,7 +1472,7 @@
          "name": "Ohio State Buckeyes",
          "short": "Buckeyes",
          "abbr": "OSU",
-         "score": 14,
+         "score": 21,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -1497,10 +1497,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "8:25 - 2nd",
+       "detail": "5:22 - 2nd",
        "start": "2026-11-28T17:00Z",
        "period": 2,
-       "clock": "8:25",
+       "clock": "5:22",
        "teams": [
         {
          "name": "Michigan Wolverines",
@@ -1518,7 +1518,7 @@
          "name": "Ohio State Buckeyes",
          "short": "Buckeyes",
          "abbr": "OSU",
-         "score": 14,
+         "score": 21,
          "ha": "home",
          "winner": null,
          "linescores": [
