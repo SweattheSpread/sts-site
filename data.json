@@ -1,5 +1,5 @@
 {
- "updated": "Nov 28, 2026, 12:07 PM PT",
+ "updated": "Nov 28, 2026, 12:09 PM PT",
  "record": {
   "w": 301,
   "l": 305,
@@ -1332,16 +1332,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "17:43 - 2nd",
+       "detail": "16:30 - 2nd",
        "start": "2026-11-28T18:00Z",
        "period": 2,
-       "clock": "17:43",
+       "clock": "16:30",
        "teams": [
         {
          "name": "Hampton Pirates",
          "short": "Pirates",
          "abbr": "HAMP",
-         "score": 40,
+         "score": 42,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -1353,7 +1353,7 @@
          "name": "Radford Highlanders",
          "short": "Highlanders",
          "abbr": "RAD",
-         "score": 41,
+         "score": 44,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -1395,10 +1395,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "17:39 - 1st",
+       "detail": "16:33 - 1st",
        "start": "2026-11-28T19:00Z",
        "period": 1,
-       "clock": "17:39",
+       "clock": "16:33",
        "teams": [
         {
          "name": "Georgia Southern Eagles",
@@ -1415,7 +1415,7 @@
          "name": "UNC Asheville Bulldogs",
          "short": "Bulldogs",
          "abbr": "UNCA",
-         "score": 1,
+         "score": 4,
          "ha": "home",
          "winner": null,
          "linescores": [
