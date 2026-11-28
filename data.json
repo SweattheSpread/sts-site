@@ -1,18 +1,32 @@
 {
- "updated": "Nov 27, 2026, 9:01 PM PT",
+ "updated": "Nov 27, 2026, 9:04 PM PT",
  "record": {
-  "w": 292,
+  "w": 293,
   "l": 292,
   "p": 3,
-  "n": 587,
-  "units": 68.9,
-  "risked": 859.7,
-  "roi": 8.01,
+  "n": 588,
+  "units": 70.58,
+  "risked": 860.7,
+  "roi": 8.2,
   "first": "2026-10-12",
-  "last": "2026-11-26"
+  "last": "2026-11-27"
  },
- "pending": 40,
+ "pending": 39,
  "latest": [
+  {
+   "n": 1032,
+   "date": "2026-11-27",
+   "day": "2026-11-27",
+   "league": "NFL",
+   "type": "Moneyline",
+   "matchup": "Denver Broncos @ Pittsburgh Steelers",
+   "pick": "Pittsburgh Steelers ML",
+   "odds": 168,
+   "units": 1.0,
+   "result": "W",
+   "pl": 1.68,
+   "ticket": "single"
+  },
   {
    "n": 1065,
    "date": "2026-11-26",
@@ -109,20 +123,6 @@
    "units": 1.0,
    "result": "W",
    "pl": 0.65,
-   "ticket": "single"
-  },
-  {
-   "n": 990,
-   "date": "2026-11-26",
-   "day": "2026-11-26",
-   "league": "NFL",
-   "type": "Over/Under",
-   "matchup": "Philadelphia Eagles @ Dallas Cowboys",
-   "pick": "Over 48",
-   "odds": -108,
-   "units": 1.0,
-   "result": "W",
-   "pl": 0.93,
    "ticket": "single"
   }
  ],
@@ -900,72 +900,6 @@
   }
  ],
  "awaiting": [
-  {
-   "n": 1032,
-   "league": "NFL",
-   "type": "Moneyline",
-   "matchup": "Denver Broncos @ Pittsburgh Steelers",
-   "pick": "Pittsburgh Steelers ML",
-   "odds": 168,
-   "units": 1.0,
-   "gap": null,
-   "start": "2026-11-27T12:00:00",
-   "timed": true,
-   "ticket": "single",
-   "espn": {
-    "legs": [
-     {
-      "kind": "ml",
-      "side": "Pittsburgh Steelers",
-      "label": "Pittsburgh Steelers ML",
-      "path": "football/nfl",
-      "event": "401873083",
-      "date": "20261127",
-      "snapshot": {
-       "source": "espn",
-       "state": "post",
-       "detail": "Final",
-       "start": "2026-11-27T20:00Z",
-       "period": null,
-       "clock": null,
-       "teams": [
-        {
-         "name": "Denver Broncos",
-         "short": "Broncos",
-         "abbr": "DEN",
-         "score": 5,
-         "ha": "away",
-         "winner": false,
-         "linescores": [
-          0,
-          0,
-          0,
-          0
-         ]
-        },
-        {
-         "name": "Pittsburgh Steelers",
-         "short": "Steelers",
-         "abbr": "PIT",
-         "score": 27,
-         "ha": "home",
-         "winner": true,
-         "linescores": [
-          0,
-          0,
-          0,
-          0
-         ]
-        }
-       ]
-      },
-      "source": "espn"
-     }
-    ],
-    "sport": "NFL",
-    "ticket": "single"
-   }
-  },
   {
    "n": 1057,
    "league": "NHL",
@@ -2282,7 +2216,7 @@
          "name": "New Orleans Pelicans",
          "short": "New Orleans Pelicans",
          "abbr": "",
-         "score": 64,
+         "score": 66,
          "ha": "away",
          "winner": null,
          "linescores": []
@@ -2291,7 +2225,7 @@
          "name": "Los Angeles Clippers",
          "short": "Los Angeles Clippers",
          "abbr": "",
-         "score": 59,
+         "score": 61,
          "ha": "home",
          "winner": null,
          "linescores": []
@@ -2468,10 +2402,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "5:23 - 3rd",
+       "detail": "3:39 - 3rd",
        "start": "2026-11-28T02:30Z",
        "period": 3,
-       "clock": "5:23",
+       "clock": "3:39",
        "teams": [
         {
          "name": "Denver Nuggets",
@@ -2490,7 +2424,7 @@
          "name": "Utah Jazz",
          "short": "Jazz",
          "abbr": "UTAH",
-         "score": 74,
+         "score": 78,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -2693,6 +2627,10 @@
   "2026-11-26": {
    "u": 12.36,
    "n": 15
+  },
+  "2026-11-27": {
+   "u": 1.68,
+   "n": 1
   }
  }
 }

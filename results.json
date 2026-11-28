@@ -1,17 +1,17 @@
 {
- "updated": "Nov 27, 2026, 9:01 PM PT",
+ "updated": "Nov 27, 2026, 9:04 PM PT",
  "record": {
-  "w": 292,
+  "w": 293,
   "l": 292,
   "p": 3,
-  "n": 587,
-  "units": 68.9,
-  "risked": 859.7,
-  "roi": 8.01,
+  "n": 588,
+  "units": 70.58,
+  "risked": 860.7,
+  "roi": 8.2,
   "first": "2026-10-12",
-  "last": "2026-11-26"
+  "last": "2026-11-27"
  },
- "pending": 40,
+ "pending": 39,
  "plays": [
   {
    "n": 334,
@@ -9545,9 +9545,9 @@
    "pick": "Pittsburgh Steelers ML +168",
    "odds": 168,
    "units": 1.0,
-   "result": null,
-   "pl": null,
-   "pending": true
+   "result": "W",
+   "pl": 1.68,
+   "pending": false
   },
   {
    "n": 1057,
