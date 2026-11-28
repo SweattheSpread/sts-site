@@ -1,5 +1,5 @@
 {
- "updated": "Nov 28, 2026, 2:17 PM PT",
+ "updated": "Nov 28, 2026, 2:21 PM PT",
  "record": {
   "w": 301,
   "l": 305,
@@ -1849,11 +1849,11 @@
       "date": "20261128",
       "snapshot": {
        "source": "espn",
-       "state": "in",
-       "detail": "End of 2nd",
+       "state": "post",
+       "detail": "Final",
        "start": "2026-11-28T19:00Z",
-       "period": 2,
-       "clock": "0:00",
+       "period": null,
+       "clock": null,
        "teams": [
         {
          "name": "Georgia Southern Eagles",
@@ -1861,7 +1861,7 @@
          "abbr": "GASO",
          "score": 84,
          "ha": "away",
-         "winner": null,
+         "winner": false,
          "linescores": [
           0,
           0
@@ -1873,7 +1873,7 @@
          "abbr": "UNCA",
          "score": 91,
          "ha": "home",
-         "winner": null,
+         "winner": true,
          "linescores": [
           0,
           0

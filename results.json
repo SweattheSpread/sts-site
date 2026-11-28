@@ -1,5 +1,5 @@
 {
- "updated": "Nov 28, 2026, 2:17 PM PT",
+ "updated": "Nov 28, 2026, 2:21 PM PT",
  "record": {
   "w": 301,
   "l": 305,
@@ -11,7 +11,7 @@
   "first": "2026-10-12",
   "last": "2026-11-27"
  },
- "pending": 30,
+ "pending": 31,
  "plays": [
   {
    "n": 334,
@@ -10089,6 +10089,22 @@
    "pick": "Myles Turner Over 6.5 rebounds (player prop)",
    "odds": 110,
    "units": 1.0,
+   "result": null,
+   "pl": null,
+   "pending": true
+  },
+  {
+   "n": 1103,
+   "date": "2026-11-28",
+   "day": "2026-11-28",
+   "league": "NCAAF",
+   "market": "spread",
+   "market_label": "Spread",
+   "ticket": "single",
+   "matchup": "Tulane Green Wave @ South Florida Bulls",
+   "pick": "Tulane +7.5 LIVE",
+   "odds": -115,
+   "units": 3.0,
    "result": null,
    "pl": null,
    "pending": true
