@@ -1,5 +1,5 @@
 {
- "updated": "Nov 28, 2026, 2:03 PM PT",
+ "updated": "Nov 28, 2026, 2:05 PM PT",
  "record": {
   "w": 301,
   "l": 305,
@@ -11,7 +11,7 @@
   "first": "2026-10-12",
   "last": "2026-11-27"
  },
- "pending": 29,
+ "pending": 30,
  "plays": [
   {
    "n": 334,
@@ -10072,6 +10072,22 @@
    "matchup": "South Alabama Jaguars @ South Dakota State Jackrabbits",
    "pick": "Over 137.5 -110",
    "odds": -110,
+   "units": 1.0,
+   "result": null,
+   "pl": null,
+   "pending": true
+  },
+  {
+   "n": 1102,
+   "date": "2026-11-28",
+   "day": "2026-11-28",
+   "league": "NBA",
+   "market": "player_prop",
+   "market_label": "Player Prop",
+   "ticket": "single",
+   "matchup": "Oklahoma City Thunder @ Milwaukee Bucks",
+   "pick": "Myles Turner Over 6.5 rebounds (player prop)",
+   "odds": 110,
    "units": 1.0,
    "result": null,
    "pl": null,
