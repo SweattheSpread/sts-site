@@ -1,5 +1,5 @@
 {
- "updated": "Nov 28, 2026, 12:03 PM PT",
+ "updated": "Nov 28, 2026, 12:05 PM PT",
  "record": {
   "w": 301,
   "l": 305,
@@ -1332,19 +1332,20 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "Halftime",
+       "detail": "18:53 - 2nd",
        "start": "2026-11-28T18:00Z",
-       "period": 1,
-       "clock": "0:00",
+       "period": 2,
+       "clock": "18:53",
        "teams": [
         {
          "name": "Hampton Pirates",
          "short": "Pirates",
          "abbr": "HAMP",
-         "score": 36,
+         "score": 38,
          "ha": "away",
          "winner": null,
          "linescores": [
+          0,
           0
          ]
         },
@@ -1352,10 +1353,11 @@
          "name": "Radford Highlanders",
          "short": "Highlanders",
          "abbr": "RAD",
-         "score": 38,
+         "score": 40,
          "ha": "home",
          "winner": null,
          "linescores": [
+          0,
           0
          ]
         }
@@ -1393,16 +1395,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "19:49 - 1st",
+       "detail": "19:11 - 1st",
        "start": "2026-11-28T19:00Z",
        "period": 1,
-       "clock": "19:49",
+       "clock": "19:11",
        "teams": [
         {
          "name": "Georgia Southern Eagles",
          "short": "Eagles",
          "abbr": "GASO",
-         "score": 2,
+         "score": 5,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -1455,10 +1457,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "Halftime",
+       "detail": "15:00 - 3rd",
        "start": "2026-11-28T17:00Z",
-       "period": 2,
-       "clock": "0:00",
+       "period": 3,
+       "clock": "15:00",
        "teams": [
         {
          "name": "Michigan Wolverines",
@@ -1468,6 +1470,7 @@
          "ha": "away",
          "winner": null,
          "linescores": [
+          0,
           0,
           0
          ]
@@ -1480,6 +1483,7 @@
          "ha": "home",
          "winner": null,
          "linescores": [
+          0,
           0,
           0
          ]
@@ -1501,10 +1505,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "Halftime",
+       "detail": "15:00 - 3rd",
        "start": "2026-11-28T17:00Z",
-       "period": 2,
-       "clock": "0:00",
+       "period": 3,
+       "clock": "15:00",
        "teams": [
         {
          "name": "Michigan Wolverines",
@@ -1514,6 +1518,7 @@
          "ha": "away",
          "winner": null,
          "linescores": [
+          0,
           0,
           0
          ]
@@ -1526,6 +1531,7 @@
          "ha": "home",
          "winner": null,
          "linescores": [
+          0,
           0,
           0
          ]
