@@ -1,5 +1,5 @@
 {
- "updated": "Nov 27, 2026, 9:18 PM PT",
+ "updated": "Nov 27, 2026, 9:34 PM PT",
  "record": {
   "w": 293,
   "l": 292,
@@ -2216,7 +2216,7 @@
          "name": "New Orleans Pelicans",
          "short": "New Orleans Pelicans",
          "abbr": "",
-         "score": 77,
+         "score": 90,
          "ha": "away",
          "winner": null,
          "linescores": []
@@ -2225,7 +2225,7 @@
          "name": "Los Angeles Clippers",
          "short": "Los Angeles Clippers",
          "abbr": "",
-         "score": 77,
+         "score": 85,
          "ha": "home",
          "winner": null,
          "linescores": []
@@ -2402,16 +2402,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "End of 3rd",
+       "detail": "5:53 - 4th",
        "start": "2026-11-28T02:30Z",
-       "period": 3,
-       "clock": "0.0",
+       "period": 4,
+       "clock": "5:53",
        "teams": [
         {
          "name": "Denver Nuggets",
          "short": "Nuggets",
          "abbr": "DEN",
-         "score": 85,
+         "score": 97,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -2425,7 +2425,7 @@
          "name": "Utah Jazz",
          "short": "Jazz",
          "abbr": "UTAH",
-         "score": 85,
+         "score": 102,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -2437,7 +2437,7 @@
         }
        ],
        "stat": {
-        "v": 1,
+        "v": 4,
         "name": "Keyonte George"
        }
       },
