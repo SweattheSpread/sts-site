@@ -1,5 +1,5 @@
 {
- "updated": "Nov 28, 2026, 2:20 AM PT",
+ "updated": "Nov 28, 2026, 4:38 AM PT",
  "record": {
   "w": 301,
   "l": 306,
@@ -11,7 +11,7 @@
   "first": "2026-10-12",
   "last": "2026-11-27"
  },
- "pending": 19,
+ "pending": 21,
  "plays": [
   {
    "n": 334,
@@ -10158,6 +10158,22 @@
    "pending": true
   },
   {
+   "n": 1090,
+   "date": "2026-11-28",
+   "day": "2026-11-29",
+   "league": "NFL",
+   "market": "player_prop",
+   "market_label": "Player Prop",
+   "ticket": "single",
+   "matchup": "Tennessee Titans @ Jacksonville Jaguars",
+   "pick": "Elic Ayomanor longest reception OVER 14.5",
+   "odds": -111,
+   "units": 1.0,
+   "result": null,
+   "pl": null,
+   "pending": true
+  },
+  {
    "n": 1054,
    "date": "2026-11-30",
    "day": "2026-11-30",
@@ -10185,6 +10201,22 @@
    "pick": "Los Angeles Rams +1.5 spread at -109",
    "odds": -109,
    "units": 1.0,
+   "result": null,
+   "pl": null,
+   "pending": true
+  },
+  {
+   "n": 1089,
+   "date": "2026-11-28",
+   "day": "2026-12-06",
+   "league": "NFL",
+   "market": "spread",
+   "market_label": "Spread",
+   "ticket": "single",
+   "matchup": "Buffalo Bills @ New England Patriots",
+   "pick": "New England Patriots +13.5",
+   "odds": -110,
+   "units": 1.5,
    "result": null,
    "pl": null,
    "pending": true

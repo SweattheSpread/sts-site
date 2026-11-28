@@ -1,5 +1,5 @@
 {
- "updated": "Nov 28, 2026, 2:20 AM PT",
+ "updated": "Nov 28, 2026, 4:38 AM PT",
  "record": {
   "w": 301,
   "l": 306,
@@ -11,7 +11,7 @@
   "first": "2026-10-12",
   "last": "2026-11-27"
  },
- "pending": 19,
+ "pending": 21,
  "latest": [
   {
    "n": 1086,
@@ -642,6 +642,64 @@
    }
   },
   {
+   "n": 1090,
+   "league": "NFL",
+   "type": "Player Prop",
+   "matchup": "Tennessee Titans @ Jacksonville Jaguars",
+   "pick": "Elic Ayomanor longest reception OVER 14.5",
+   "odds": -111,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-29T10:00:00",
+   "timed": true,
+   "ticket": "single",
+   "espn": {
+    "legs": [
+     {
+      "kind": "team_total",
+      "side": "Elic Ayomanor longest reception",
+      "ou": "O",
+      "line": 14.5,
+      "label": "Elic Ayomanor longest reception O 14.5",
+      "path": "football/nfl",
+      "event": "401873090",
+      "date": "20261129",
+      "snapshot": {
+       "source": "espn",
+       "state": "pre",
+       "detail": "11/29 - 1:00 PM EST",
+       "start": "2026-11-29T18:00Z",
+       "period": null,
+       "clock": null,
+       "teams": [
+        {
+         "name": "Tennessee Titans",
+         "short": "Titans",
+         "abbr": "TEN",
+         "score": 0,
+         "ha": "away",
+         "winner": null,
+         "linescores": []
+        },
+        {
+         "name": "Jacksonville Jaguars",
+         "short": "Jaguars",
+         "abbr": "JAX",
+         "score": 0,
+         "ha": "home",
+         "winner": null,
+         "linescores": []
+        }
+       ]
+      },
+      "source": "espn"
+     }
+    ],
+    "sport": "NFL",
+    "ticket": "single"
+   }
+  },
+  {
    "n": 905,
    "league": "NFL",
    "type": "Spread",
@@ -1004,6 +1062,63 @@
       "line": 1.5,
       "label": "Los Angeles Rams +1.5",
       "unverified": true
+     }
+    ],
+    "sport": "NFL",
+    "ticket": "single"
+   }
+  },
+  {
+   "n": 1089,
+   "league": "NFL",
+   "type": "Spread",
+   "matchup": "Buffalo Bills @ New England Patriots",
+   "pick": "New England Patriots +13.5",
+   "odds": -110,
+   "units": 1.5,
+   "gap": null,
+   "start": "2026-12-06T13:25:00",
+   "timed": true,
+   "ticket": "single",
+   "espn": {
+    "legs": [
+     {
+      "kind": "spread",
+      "side": "New England Patriots",
+      "line": 13.5,
+      "label": "New England Patriots +13.5",
+      "path": "football/nfl",
+      "event": "401873105",
+      "date": "20261206",
+      "snapshot": {
+       "source": "espn",
+       "state": "pre",
+       "detail": "12/6 - 4:25 PM EST",
+       "start": "2026-12-06T21:25Z",
+       "period": null,
+       "clock": null,
+       "teams": [
+        {
+         "name": "Buffalo Bills",
+         "short": "Bills",
+         "abbr": "BUF",
+         "score": 0,
+         "ha": "away",
+         "winner": null,
+         "linescores": []
+        },
+        {
+         "name": "New England Patriots",
+         "short": "Patriots",
+         "abbr": "NE",
+         "score": 0,
+         "ha": "home",
+         "winner": null,
+         "linescores": []
+        }
+       ]
+      },
+      "source": "espn"
      }
     ],
     "sport": "NFL",
