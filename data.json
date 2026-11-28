@@ -1,5 +1,5 @@
 {
- "updated": "Nov 27, 2026, 6:06 PM PT",
+ "updated": "Nov 27, 2026, 6:16 PM PT",
  "record": {
   "w": 292,
   "l": 292,
@@ -1075,11 +1075,11 @@
       "date": "20261127",
       "snapshot": {
        "source": "nhl",
-       "state": "in",
-       "detail": "P3 00:28",
+       "state": "post",
+       "detail": "Final",
        "start": "2026-11-27T22:30:00Z",
        "period": 3,
-       "clock": "00:28",
+       "clock": "00:00",
        "teams": [
         {
          "name": "Rangers",
@@ -1087,7 +1087,7 @@
          "abbr": "NYR",
          "score": 1,
          "ha": "away",
-         "winner": null,
+         "winner": false,
          "linescores": []
         },
         {
@@ -1096,7 +1096,7 @@
          "abbr": "CHI",
          "score": 2,
          "ha": "home",
-         "winner": null,
+         "winner": true,
          "linescores": []
         }
        ],
@@ -1614,11 +1614,11 @@
       "date": "20261127",
       "snapshot": {
        "source": "nhl",
-       "state": "pre",
-       "detail": "Scheduled",
+       "state": "in",
+       "detail": "P1 16:32",
        "start": "2026-11-28T01:00:00Z",
-       "period": null,
-       "clock": null,
+       "period": 1,
+       "clock": "16:32",
        "teams": [
         {
          "name": "Kraken",
@@ -1639,7 +1639,11 @@
          "linescores": []
         }
        ],
-       "nhl_id": 2026020414
+       "nhl_id": 2026020414,
+       "stat": {
+        "v": 0,
+        "name": "C. McDavid"
+       }
       },
       "source": "nhl"
      }
@@ -1895,11 +1899,11 @@
       "date": "20261127",
       "snapshot": {
        "source": "nhl",
-       "state": "pre",
-       "detail": "Scheduled",
+       "state": "in",
+       "detail": "P1 16:32",
        "start": "2026-11-28T01:00:00Z",
-       "period": null,
-       "clock": null,
+       "period": 1,
+       "clock": "16:32",
        "teams": [
         {
          "name": "Kraken",
@@ -1920,7 +1924,11 @@
          "linescores": []
         }
        ],
-       "nhl_id": 2026020414
+       "nhl_id": 2026020414,
+       "stat": {
+        "v": 0,
+        "name": "R. Nugent-Hopkins"
+       }
       },
       "source": "nhl"
      }
@@ -1956,19 +1964,20 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "1:52 - 1st",
+       "detail": "9:53 - 2nd",
        "start": "2026-11-28T00:30Z",
-       "period": 1,
-       "clock": "1:52",
+       "period": 2,
+       "clock": "9:53",
        "teams": [
         {
          "name": "Brooklyn Nets",
          "short": "Nets",
          "abbr": "BKN",
-         "score": 21,
+         "score": 29,
          "ha": "away",
          "winner": null,
          "linescores": [
+          0,
           0
          ]
         },
@@ -1976,16 +1985,17 @@
          "name": "Toronto Raptors",
          "short": "Raptors",
          "abbr": "TOR",
-         "score": 26,
+         "score": 33,
          "ha": "home",
          "winner": null,
          "linescores": [
+          0,
           0
          ]
         }
        ],
        "stat": {
-        "v": 0,
+        "v": 3,
         "name": "Collin Murray-Boyles"
        }
       },
@@ -2397,16 +2407,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "2:00 - 2nd",
+       "detail": "Halftime",
        "start": "2026-11-28T00:00Z",
        "period": 2,
-       "clock": "2:00",
+       "clock": "0.1",
        "teams": [
         {
          "name": "Miami Heat",
          "short": "Heat",
          "abbr": "MIA",
-         "score": 58,
+         "score": 60,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -2418,7 +2428,7 @@
          "name": "New York Knicks",
          "short": "Knicks",
          "abbr": "NY",
-         "score": 35,
+         "score": 44,
          "ha": "home",
          "winner": null,
          "linescores": [
