@@ -1,5 +1,5 @@
 {
- "updated": "Nov 27, 2026, 9:55 PM PT",
+ "updated": "Nov 27, 2026, 10:12 PM PT",
  "record": {
   "w": 293,
   "l": 292,
@@ -2208,26 +2208,26 @@
       "unverified": true,
       "snapshot": {
        "source": "odds-api",
-       "state": "in",
-       "detail": "Live",
+       "state": "post",
+       "detail": "Final",
        "start": "2026-11-28T02:41:00Z",
        "teams": [
         {
          "name": "New Orleans Pelicans",
          "short": "New Orleans Pelicans",
          "abbr": "",
-         "score": 104,
+         "score": 105,
          "ha": "away",
-         "winner": null,
+         "winner": true,
          "linescores": []
         },
         {
          "name": "Los Angeles Clippers",
          "short": "Los Angeles Clippers",
          "abbr": "",
-         "score": 101,
+         "score": 104,
          "ha": "home",
-         "winner": null,
+         "winner": false,
          "linescores": []
         }
        ]
