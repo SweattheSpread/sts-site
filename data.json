@@ -1,5 +1,5 @@
 {
- "updated": "Nov 27, 2026, 9:06 PM PT",
+ "updated": "Nov 27, 2026, 9:09 PM PT",
  "record": {
   "w": 293,
   "l": 292,
@@ -2216,7 +2216,7 @@
          "name": "New Orleans Pelicans",
          "short": "New Orleans Pelicans",
          "abbr": "",
-         "score": 68,
+         "score": 70,
          "ha": "away",
          "winner": null,
          "linescores": []
@@ -2225,7 +2225,7 @@
          "name": "Los Angeles Clippers",
          "short": "Los Angeles Clippers",
          "abbr": "",
-         "score": 63,
+         "score": 65,
          "ha": "home",
          "winner": null,
          "linescores": []
@@ -2402,16 +2402,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "3:39 - 3rd",
+       "detail": "2:43 - 3rd",
        "start": "2026-11-28T02:30Z",
        "period": 3,
-       "clock": "3:39",
+       "clock": "2:43",
        "teams": [
         {
          "name": "Denver Nuggets",
          "short": "Nuggets",
          "abbr": "DEN",
-         "score": 72,
+         "score": 75,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -2424,7 +2424,7 @@
          "name": "Utah Jazz",
          "short": "Jazz",
          "abbr": "UTAH",
-         "score": 78,
+         "score": 81,
          "ha": "home",
          "winner": null,
          "linescores": [
