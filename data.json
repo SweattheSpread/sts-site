@@ -1,5 +1,5 @@
 {
- "updated": "Nov 28, 2026, 1:05 PM PT",
+ "updated": "Nov 28, 2026, 1:07 PM PT",
  "record": {
   "w": 301,
   "l": 305,
@@ -1390,11 +1390,11 @@
       "date": "20261128",
       "snapshot": {
        "source": "espn",
-       "state": "in",
-       "detail": "End of 2nd",
+       "state": "post",
+       "detail": "Final",
        "start": "2026-11-28T18:00Z",
-       "period": 2,
-       "clock": "0:00",
+       "period": null,
+       "clock": null,
        "teams": [
         {
          "name": "Hampton Pirates",
@@ -1402,7 +1402,7 @@
          "abbr": "HAMP",
          "score": 54,
          "ha": "away",
-         "winner": null,
+         "winner": false,
          "linescores": [
           0,
           0
@@ -1414,7 +1414,7 @@
          "abbr": "RAD",
          "score": 74,
          "ha": "home",
-         "winner": null,
+         "winner": true,
          "linescores": [
           0,
           0
