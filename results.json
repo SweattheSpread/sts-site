@@ -1,17 +1,17 @@
 {
- "updated": "Nov 28, 2026, 5:44 AM PT",
+ "updated": "Nov 28, 2026, 6:55 AM PT",
  "record": {
   "w": 301,
-  "l": 306,
+  "l": 305,
   "p": 3,
-  "n": 610,
-  "units": 65.79,
-  "risked": 892.7,
-  "roi": 7.37,
+  "n": 609,
+  "units": 66.79,
+  "risked": 891.7,
+  "roi": 7.49,
   "first": "2026-10-12",
   "last": "2026-11-27"
  },
- "pending": 22,
+ "pending": 19,
  "plays": [
   {
    "n": 334,
@@ -9614,54 +9614,6 @@
    "pending": false
   },
   {
-   "n": 1066,
-   "date": "2026-11-27",
-   "day": "2026-11-27",
-   "league": "NCAAB",
-   "market": "spread",
-   "market_label": "Spread",
-   "ticket": "single",
-   "matchup": "Liberty Flames @ St. Thomas (MN) Tommies",
-   "pick": "St. Thomas (MN) +1.5",
-   "odds": -115,
-   "units": 1.0,
-   "result": null,
-   "pl": null,
-   "pending": true
-  },
-  {
-   "n": 1067,
-   "date": "2026-11-27",
-   "day": "2026-11-27",
-   "league": "NCAAB",
-   "market": "spread",
-   "market_label": "Spread",
-   "ticket": "single",
-   "matchup": "Fresno St Bulldogs @ South Alabama Jaguars",
-   "pick": "Fresno St +1",
-   "odds": -110,
-   "units": 1.0,
-   "result": null,
-   "pl": null,
-   "pending": true
-  },
-  {
-   "n": 1068,
-   "date": "2026-11-27",
-   "day": "2026-11-27",
-   "league": "NCAAB",
-   "market": "spread",
-   "market_label": "Spread",
-   "ticket": "single",
-   "matchup": "Le Moyne Dolphins @ Maine Black Bears",
-   "pick": "Le Moyne +1.5",
-   "odds": -110,
-   "units": 1.0,
-   "result": null,
-   "pl": null,
-   "pending": true
-  },
-  {
    "n": 1069,
    "date": "2026-11-27",
    "day": "2026-11-27",
@@ -9851,22 +9803,6 @@
    "units": 1.0,
    "result": "W",
    "pl": 0.95,
-   "pending": false
-  },
-  {
-   "n": 1082,
-   "date": "2026-11-27",
-   "day": "2026-11-27",
-   "league": "NHL",
-   "market": "spread",
-   "market_label": "Spread",
-   "ticket": "single",
-   "matchup": "Ottawa Senators @ Tampa Bay Lightning",
-   "pick": "Claude Giroux (OTT) Under 0.5 points (player prop)",
-   "odds": -120,
-   "units": 1.0,
-   "result": "L",
-   "pl": -1.0,
    "pending": false
   },
   {
