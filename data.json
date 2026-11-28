@@ -1,5 +1,5 @@
 {
- "updated": "Nov 28, 2026, 1:22 PM PT",
+ "updated": "Nov 28, 2026, 1:24 PM PT",
  "record": {
   "w": 301,
   "l": 305,
@@ -1791,16 +1791,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "16:01 - 2nd",
+       "detail": "15:23 - 2nd",
        "start": "2026-11-28T19:00Z",
        "period": 2,
-       "clock": "16:01",
+       "clock": "15:23",
        "teams": [
         {
          "name": "Georgia Southern Eagles",
          "short": "Eagles",
          "abbr": "GASO",
-         "score": 42,
+         "score": 45,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -1855,10 +1855,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "2:00 - 4th",
+       "detail": "1:53 - 4th",
        "start": "2026-11-28T17:00Z",
        "period": 4,
-       "clock": "2:00",
+       "clock": "1:53",
        "teams": [
         {
          "name": "Michigan Wolverines",
@@ -1905,10 +1905,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "2:00 - 4th",
+       "detail": "1:53 - 4th",
        "start": "2026-11-28T17:00Z",
        "period": 4,
-       "clock": "2:00",
+       "clock": "1:53",
        "teams": [
         {
          "name": "Michigan Wolverines",
