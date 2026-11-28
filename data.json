@@ -1,5 +1,5 @@
 {
- "updated": "Nov 28, 2026, 12:09 PM PT",
+ "updated": "Nov 28, 2026, 12:11 PM PT",
  "record": {
   "w": 301,
   "l": 305,
@@ -1332,10 +1332,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "16:30 - 2nd",
+       "detail": "15:47 - 2nd",
        "start": "2026-11-28T18:00Z",
        "period": 2,
-       "clock": "16:30",
+       "clock": "15:47",
        "teams": [
         {
          "name": "Hampton Pirates",
@@ -1395,16 +1395,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "16:33 - 1st",
+       "detail": "16:07 - 1st",
        "start": "2026-11-28T19:00Z",
        "period": 1,
-       "clock": "16:33",
+       "clock": "16:07",
        "teams": [
         {
          "name": "Georgia Southern Eagles",
          "short": "Eagles",
          "abbr": "GASO",
-         "score": 8,
+         "score": 10,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -1415,7 +1415,7 @@
          "name": "UNC Asheville Bulldogs",
          "short": "Bulldogs",
          "abbr": "UNCA",
-         "score": 4,
+         "score": 8,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -1457,10 +1457,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "14:04 - 3rd",
+       "detail": "11:07 - 3rd",
        "start": "2026-11-28T17:00Z",
        "period": 3,
-       "clock": "14:04",
+       "clock": "11:07",
        "teams": [
         {
          "name": "Michigan Wolverines",
@@ -1505,10 +1505,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "14:04 - 3rd",
+       "detail": "11:07 - 3rd",
        "start": "2026-11-28T17:00Z",
        "period": 3,
-       "clock": "14:04",
+       "clock": "11:07",
        "teams": [
         {
          "name": "Michigan Wolverines",
