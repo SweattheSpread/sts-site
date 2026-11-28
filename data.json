@@ -1,5 +1,5 @@
 {
- "updated": "Nov 27, 2026, 7:58 PM PT",
+ "updated": "Nov 27, 2026, 8:00 PM PT",
  "record": {
   "w": 292,
   "l": 292,
@@ -1529,10 +1529,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P2 05:12",
+       "detail": "P2 02:58",
        "start": "2026-11-28T01:00:00Z",
        "period": 2,
-       "clock": "05:12",
+       "clock": "02:58",
        "teams": [
         {
          "name": "Kraken",
@@ -1593,10 +1593,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "8:18 - 3rd",
+       "detail": "5:50 - 3rd",
        "start": "2026-11-28T01:30Z",
        "period": 3,
-       "clock": "8:18",
+       "clock": "5:50",
        "teams": [
         {
          "name": "Memphis Grizzlies",
@@ -1615,7 +1615,7 @@
          "name": "Minnesota Timberwolves",
          "short": "Timberwolves",
          "abbr": "MIN",
-         "score": 64,
+         "score": 69,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -1826,10 +1826,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P2 05:12",
+       "detail": "P2 02:58",
        "start": "2026-11-28T01:00:00Z",
        "period": 2,
-       "clock": "05:12",
+       "clock": "02:58",
        "teams": [
         {
          "name": "Kraken",
@@ -1890,16 +1890,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "2:34 - 4th",
+       "detail": "44.1 - 4th",
        "start": "2026-11-28T00:30Z",
        "period": 4,
-       "clock": "2:34",
+       "clock": "44.1",
        "teams": [
         {
          "name": "Brooklyn Nets",
          "short": "Nets",
          "abbr": "BKN",
-         "score": 96,
+         "score": 100,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -1913,7 +1913,7 @@
          "name": "Toronto Raptors",
          "short": "Raptors",
          "abbr": "TOR",
-         "score": 117,
+         "score": 124,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -2280,7 +2280,7 @@
          "name": "New Orleans Pelicans",
          "short": "New Orleans Pelicans",
          "abbr": "",
-         "score": 16,
+         "score": 19,
          "ha": "away",
          "winner": null,
          "linescores": []
