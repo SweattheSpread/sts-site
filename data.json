@@ -1,5 +1,5 @@
 {
- "updated": "Nov 28, 2026, 12:59 PM PT",
+ "updated": "Nov 28, 2026, 1:01 PM PT",
  "record": {
   "w": 301,
   "l": 305,
@@ -1332,10 +1332,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "0:42 - 2nd",
+       "detail": "End of 2nd",
        "start": "2026-11-28T18:00Z",
        "period": 2,
-       "clock": "0:42",
+       "clock": "0:00",
        "teams": [
         {
          "name": "Hampton Pirates",
@@ -1480,7 +1480,7 @@
          "name": "Ohio State Buckeyes",
          "short": "Buckeyes",
          "abbr": "OSU",
-         "score": 31,
+         "score": 37,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -1530,7 +1530,7 @@
          "name": "Ohio State Buckeyes",
          "short": "Buckeyes",
          "abbr": "OSU",
-         "score": 31,
+         "score": 37,
          "ha": "home",
          "winner": null,
          "linescores": [
