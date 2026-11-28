@@ -1,5 +1,5 @@
 {
- "updated": "Nov 27, 2026, 5:35 PM PT",
+ "updated": "Nov 27, 2026, 5:38 PM PT",
  "record": {
   "w": 292,
   "l": 292,
@@ -1135,10 +1135,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P3 17:44",
+       "detail": "P3 15:27",
        "start": "2026-11-27T22:30:00Z",
        "period": 3,
-       "clock": "17:44",
+       "clock": "15:27",
        "teams": [
         {
          "name": "Rangers",
@@ -2389,16 +2389,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "1:44 - 1st",
+       "detail": "End of 1st",
        "start": "2026-11-28T00:00Z",
        "period": 1,
-       "clock": "1:44",
+       "clock": "0.1",
        "teams": [
         {
          "name": "Miami Heat",
          "short": "Heat",
          "abbr": "MIA",
-         "score": 25,
+         "score": 31,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -2409,7 +2409,7 @@
          "name": "New York Knicks",
          "short": "Knicks",
          "abbr": "NY",
-         "score": 17,
+         "score": 21,
          "ha": "home",
          "winner": null,
          "linescores": [
