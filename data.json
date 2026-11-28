@@ -1,5 +1,5 @@
 {
- "updated": "Nov 27, 2026, 7:20 PM PT",
+ "updated": "Nov 27, 2026, 7:50 PM PT",
  "record": {
   "w": 292,
   "l": 292,
@@ -1529,10 +1529,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P2 11:23",
+       "detail": "P2 13:11",
        "start": "2026-11-28T01:00:00Z",
        "period": 2,
-       "clock": "11:23",
+       "clock": "13:11",
        "teams": [
         {
          "name": "Kraken",
@@ -1547,7 +1547,7 @@
          "name": "Oilers",
          "short": "EDM",
          "abbr": "EDM",
-         "score": 1,
+         "score": 2,
          "ha": "home",
          "winner": null,
          "linescores": []
@@ -1593,19 +1593,20 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "6:41 - 2nd",
+       "detail": "11:48 - 3rd",
        "start": "2026-11-28T01:30Z",
-       "period": 2,
-       "clock": "6:41",
+       "period": 3,
+       "clock": "11:48",
        "teams": [
         {
          "name": "Memphis Grizzlies",
          "short": "Grizzlies",
          "abbr": "MEM",
-         "score": 47,
+         "score": 61,
          "ha": "away",
          "winner": null,
          "linescores": [
+          0,
           0,
           0
          ]
@@ -1614,17 +1615,18 @@
          "name": "Minnesota Timberwolves",
          "short": "Timberwolves",
          "abbr": "MIN",
-         "score": 37,
+         "score": 50,
          "ha": "home",
          "winner": null,
          "linescores": [
+          0,
           0,
           0
          ]
         }
        ],
        "stat": {
-        "v": 1,
+        "v": 2,
         "name": "Jaylen Wells"
        }
       },
@@ -1824,10 +1826,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P2 11:23",
+       "detail": "P2 13:11",
        "start": "2026-11-28T01:00:00Z",
        "period": 2,
-       "clock": "11:23",
+       "clock": "13:11",
        "teams": [
         {
          "name": "Kraken",
@@ -1842,7 +1844,7 @@
          "name": "Oilers",
          "short": "EDM",
          "abbr": "EDM",
-         "score": 1,
+         "score": 2,
          "ha": "home",
          "winner": null,
          "linescores": []
@@ -1888,19 +1890,20 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "2:46 - 3rd",
+       "detail": "4:56 - 4th",
        "start": "2026-11-28T00:30Z",
-       "period": 3,
-       "clock": "2:46",
+       "period": 4,
+       "clock": "4:56",
        "teams": [
         {
          "name": "Brooklyn Nets",
          "short": "Nets",
          "abbr": "BKN",
-         "score": 74,
+         "score": 91,
          "ha": "away",
          "winner": null,
          "linescores": [
+          0,
           0,
           0,
           0
@@ -1910,10 +1913,11 @@
          "name": "Toronto Raptors",
          "short": "Raptors",
          "abbr": "TOR",
-         "score": 91,
+         "score": 113,
          "ha": "home",
          "winner": null,
          "linescores": [
+          0,
           0,
           0,
           0
@@ -1921,7 +1925,7 @@
         }
        ],
        "stat": {
-        "v": 4,
+        "v": 7,
         "name": "Collin Murray-Boyles"
        }
       },
@@ -2085,19 +2089,20 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "1:42 - 1st",
+       "detail": "15:05 - 2nd",
        "start": "2026-11-28T01:30Z",
-       "period": 1,
-       "clock": "1:42",
+       "period": 2,
+       "clock": "15:05",
        "teams": [
         {
          "name": "Miami Hurricanes",
          "short": "Hurricanes",
          "abbr": "MIA",
-         "score": 47,
+         "score": 60,
          "ha": "away",
          "winner": null,
          "linescores": [
+          0,
           0
          ]
         },
@@ -2105,10 +2110,11 @@
          "name": "Alabama Crimson Tide",
          "short": "Crimson Tide",
          "abbr": "ALA",
-         "score": 39,
+         "score": 53,
          "ha": "home",
          "winner": null,
          "linescores": [
+          0,
           0
          ]
         }
@@ -2263,7 +2269,34 @@
       "ou": "O",
       "line": 4.5,
       "label": "Brook Lopez O 4.5",
-      "unverified": true
+      "unverified": true,
+      "snapshot": {
+       "source": "odds-api",
+       "state": "in",
+       "detail": "Live",
+       "start": "2026-11-28T02:41:00Z",
+       "teams": [
+        {
+         "name": "New Orleans Pelicans",
+         "short": "New Orleans Pelicans",
+         "abbr": "",
+         "score": 6,
+         "ha": "away",
+         "winner": null,
+         "linescores": []
+        },
+        {
+         "name": "Los Angeles Clippers",
+         "short": "Los Angeles Clippers",
+         "abbr": "",
+         "score": 17,
+         "ha": "home",
+         "winner": null,
+         "linescores": []
+        }
+       ]
+      },
+      "source": "odds-api"
      }
     ],
     "sport": "NBA",
@@ -2363,19 +2396,19 @@
       "date": "20261127",
       "snapshot": {
        "source": "espn",
-       "state": "in",
-       "detail": "5:43 - 4th",
+       "state": "post",
+       "detail": "Final",
        "start": "2026-11-28T00:00Z",
-       "period": 4,
-       "clock": "5:43",
+       "period": null,
+       "clock": null,
        "teams": [
         {
          "name": "Miami Heat",
          "short": "Heat",
          "abbr": "MIA",
-         "score": 93,
+         "score": 108,
          "ha": "away",
-         "winner": null,
+         "winner": true,
          "linescores": [
           0,
           0,
@@ -2387,9 +2420,9 @@
          "name": "New York Knicks",
          "short": "Knicks",
          "abbr": "NY",
-         "score": 93,
+         "score": 105,
          "ha": "home",
-         "winner": null,
+         "winner": false,
          "linescores": [
           0,
           0,
@@ -2432,31 +2465,39 @@
       "date": "20261127",
       "snapshot": {
        "source": "espn",
-       "state": "pre",
-       "detail": "11/27 - 9:30 PM EST",
+       "state": "in",
+       "detail": "6:55 - 1st",
        "start": "2026-11-28T02:30Z",
-       "period": null,
-       "clock": null,
+       "period": 1,
+       "clock": "6:55",
        "teams": [
         {
          "name": "Denver Nuggets",
          "short": "Nuggets",
          "abbr": "DEN",
-         "score": 0,
+         "score": 11,
          "ha": "away",
          "winner": null,
-         "linescores": []
+         "linescores": [
+          0
+         ]
         },
         {
          "name": "Utah Jazz",
          "short": "Jazz",
          "abbr": "UTAH",
-         "score": 0,
+         "score": 7,
          "ha": "home",
          "winner": null,
-         "linescores": []
+         "linescores": [
+          0
+         ]
         }
-       ]
+       ],
+       "stat": {
+        "v": 0,
+        "name": "Keyonte George"
+       }
       },
       "source": "espn"
      }
