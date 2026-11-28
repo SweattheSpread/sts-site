@@ -1,5 +1,5 @@
 {
- "updated": "Nov 27, 2026, 5:06 PM PT",
+ "updated": "Nov 27, 2026, 5:08 PM PT",
  "record": {
   "w": 292,
   "l": 292,
@@ -1134,10 +1134,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P2 03:10",
+       "detail": "P2 02:38",
        "start": "2026-11-27T22:30:00Z",
        "period": 2,
-       "clock": "03:10",
+       "clock": "02:38",
        "teams": [
         {
          "name": "Rangers",
@@ -2137,10 +2137,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "0:18 - 2nd",
+       "detail": "0:15 - 2nd",
        "start": "2026-11-27T22:00Z",
        "period": 2,
-       "clock": "0:18",
+       "clock": "0:15",
        "teams": [
         {
          "name": "Marquette Golden Eagles",
@@ -2158,7 +2158,7 @@
          "name": "Texas A&M Aggies",
          "short": "Aggies",
          "abbr": "TA&M",
-         "score": 74,
+         "score": 76,
          "ha": "home",
          "winner": null,
          "linescores": [
