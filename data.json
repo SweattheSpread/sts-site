@@ -1,5 +1,5 @@
 {
- "updated": "Nov 28, 2026, 6:58 AM PT",
+ "updated": "Nov 28, 2026, 8:31 AM PT",
  "record": {
   "w": 301,
   "l": 305,
@@ -11,7 +11,7 @@
   "first": "2026-10-12",
   "last": "2026-11-27"
  },
- "pending": 19,
+ "pending": 20,
  "latest": [
   {
    "n": 1086,
@@ -236,6 +236,66 @@
      }
     ],
     "sport": "NCAAB",
+    "ticket": "single"
+   }
+  },
+  {
+   "n": 1092,
+   "league": "NHL",
+   "type": "Player Prop",
+   "matchup": "Toronto Maple Leafs @ Pittsburgh Penguins",
+   "pick": "Tommy Novak (TOR) Under 0.5 points (player prop)",
+   "odds": 120,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-28T16:10:00",
+   "timed": true,
+   "ticket": "single",
+   "espn": {
+    "legs": [
+     {
+      "kind": "prop",
+      "player": "Tommy Novak",
+      "ou": "U",
+      "line": 0.5,
+      "stat": "points",
+      "label": "Tommy Novak U 0.5 points",
+      "path": "hockey/nhl",
+      "event": "401892815",
+      "date": "20261128",
+      "snapshot": {
+       "source": "nhl",
+       "state": "pre",
+       "detail": "Scheduled",
+       "start": "2026-11-29T00:00:00Z",
+       "period": null,
+       "clock": null,
+       "teams": [
+        {
+         "name": "Maple Leafs",
+         "short": "TOR",
+         "abbr": "TOR",
+         "score": 0,
+         "ha": "away",
+         "winner": null,
+         "linescores": []
+        },
+        {
+         "name": "Penguins",
+         "short": "PIT",
+         "abbr": "PIT",
+         "score": 0,
+         "ha": "home",
+         "winner": null,
+         "linescores": []
+        }
+       ],
+       "nhl_id": 2026020420
+      },
+      "source": "nhl"
+     }
+    ],
+    "sport": "NHL",
     "ticket": "single"
    }
   },
