@@ -1,5 +1,5 @@
 {
- "updated": "Nov 28, 2026, 2:21 PM PT",
+ "updated": "Nov 28, 2026, 2:24 PM PT",
  "record": {
   "w": 301,
   "l": 305,
@@ -11,7 +11,7 @@
   "first": "2026-10-12",
   "last": "2026-11-27"
  },
- "pending": 30,
+ "pending": 31,
  "latest": [
   {
    "n": 1086,
@@ -1992,6 +1992,69 @@
     ],
     "sport": "NCAAF",
     "ticket": "sgp"
+   }
+  },
+  {
+   "n": 1103,
+   "league": "NCAAF",
+   "type": "Spread",
+   "matchup": "Tulane Green Wave @ South Florida Bulls",
+   "pick": "Tulane +7.5 LIVE",
+   "odds": -115,
+   "units": 3.0,
+   "gap": null,
+   "start": "2026-11-28T12:30:00",
+   "timed": true,
+   "ticket": "single",
+   "espn": {
+    "legs": [
+     {
+      "kind": "spread",
+      "side": "Tulane",
+      "line": 7.5,
+      "label": "Tulane +7.5",
+      "path": "football/college-football",
+      "event": "401862839",
+      "date": "20261128",
+      "snapshot": {
+       "source": "espn",
+       "state": "in",
+       "detail": "12:34 - 2nd",
+       "start": "2026-11-28T20:30Z",
+       "period": 2,
+       "clock": "12:34",
+       "teams": [
+        {
+         "name": "Tulane Green Wave",
+         "short": "Green Wave",
+         "abbr": "TULN",
+         "score": 7,
+         "ha": "away",
+         "winner": null,
+         "linescores": [
+          0,
+          0
+         ]
+        },
+        {
+         "name": "South Florida Bulls",
+         "short": "Bulls",
+         "abbr": "USF",
+         "score": 10,
+         "ha": "home",
+         "winner": null,
+         "linescores": [
+          0,
+          0
+         ]
+        }
+       ]
+      },
+      "source": "espn"
+     }
+    ],
+    "sport": "NCAAF",
+    "ticket": "single"
    }
   }
  ],
