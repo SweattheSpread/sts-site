@@ -1,5 +1,5 @@
 {
- "updated": "Nov 27, 2026, 5:04 PM PT",
+ "updated": "Nov 27, 2026, 5:06 PM PT",
  "record": {
   "w": 292,
   "l": 292,
@@ -1134,10 +1134,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P2 05:27",
+       "detail": "P2 03:10",
        "start": "2026-11-27T22:30:00Z",
        "period": 2,
-       "clock": "05:27",
+       "clock": "03:10",
        "teams": [
         {
          "name": "Rangers",
@@ -2137,10 +2137,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "0:20 - 2nd",
+       "detail": "0:18 - 2nd",
        "start": "2026-11-27T22:00Z",
        "period": 2,
-       "clock": "0:20",
+       "clock": "0:18",
        "teams": [
         {
          "name": "Marquette Golden Eagles",
