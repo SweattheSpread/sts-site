@@ -1,5 +1,5 @@
 {
- "updated": "Nov 28, 2026, 12:47 PM PT",
+ "updated": "Nov 28, 2026, 12:52 PM PT",
  "record": {
   "w": 301,
   "l": 305,
@@ -1332,10 +1332,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "4:17 - 2nd",
+       "detail": "3:17 - 2nd",
        "start": "2026-11-28T18:00Z",
        "period": 2,
-       "clock": "4:17",
+       "clock": "3:17",
        "teams": [
         {
          "name": "Hampton Pirates",
@@ -1353,7 +1353,7 @@
          "name": "Radford Highlanders",
          "short": "Highlanders",
          "abbr": "RAD",
-         "score": 67,
+         "score": 69,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -1395,16 +1395,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "3:15 - 1st",
+       "detail": "2:13 - 1st",
        "start": "2026-11-28T19:00Z",
        "period": 1,
-       "clock": "3:15",
+       "clock": "2:13",
        "teams": [
         {
          "name": "Georgia Southern Eagles",
          "short": "Eagles",
          "abbr": "GASO",
-         "score": 28,
+         "score": 30,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -1415,7 +1415,7 @@
          "name": "UNC Asheville Bulldogs",
          "short": "Bulldogs",
          "abbr": "UNCA",
-         "score": 34,
+         "score": 39,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -1457,10 +1457,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "14:54 - 4th",
+       "detail": "13:06 - 4th",
        "start": "2026-11-28T17:00Z",
        "period": 4,
-       "clock": "14:54",
+       "clock": "13:06",
        "teams": [
         {
          "name": "Michigan Wolverines",
@@ -1507,10 +1507,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "14:54 - 4th",
+       "detail": "13:06 - 4th",
        "start": "2026-11-28T17:00Z",
        "period": 4,
-       "clock": "14:54",
+       "clock": "13:06",
        "teams": [
         {
          "name": "Michigan Wolverines",
