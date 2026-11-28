@@ -1,5 +1,5 @@
 {
- "updated": "Nov 27, 2026, 7:01 PM PT",
+ "updated": "Nov 27, 2026, 7:05 PM PT",
  "record": {
   "w": 292,
   "l": 292,
@@ -1529,10 +1529,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P1 05:04",
+       "detail": "P1 01:02",
        "start": "2026-11-28T01:00:00Z",
        "period": 1,
-       "clock": "05:04",
+       "clock": "01:02",
        "teams": [
         {
          "name": "Kraken",
@@ -1593,16 +1593,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "2:11 - 1st",
+       "detail": "33.3 - 1st",
        "start": "2026-11-28T01:30Z",
        "period": 1,
-       "clock": "2:11",
+       "clock": "33.3",
        "teams": [
         {
          "name": "Memphis Grizzlies",
          "short": "Grizzlies",
          "abbr": "MEM",
-         "score": 27,
+         "score": 30,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -1613,7 +1613,7 @@
          "name": "Minnesota Timberwolves",
          "short": "Timberwolves",
          "abbr": "MIN",
-         "score": 19,
+         "score": 25,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -1822,10 +1822,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P1 05:04",
+       "detail": "P1 01:02",
        "start": "2026-11-28T01:00:00Z",
        "period": 1,
-       "clock": "05:04",
+       "clock": "01:02",
        "teams": [
         {
          "name": "Kraken",
@@ -1886,16 +1886,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "10:08 - 3rd",
+       "detail": "8:41 - 3rd",
        "start": "2026-11-28T00:30Z",
        "period": 3,
-       "clock": "10:08",
+       "clock": "8:41",
        "teams": [
         {
          "name": "Brooklyn Nets",
          "short": "Nets",
          "abbr": "BKN",
-         "score": 57,
+         "score": 64,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -1908,7 +1908,7 @@
          "name": "Toronto Raptors",
          "short": "Raptors",
          "abbr": "TOR",
-         "score": 70,
+         "score": 72,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -2083,16 +2083,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "7:43 - 1st",
+       "detail": "5:28 - 1st",
        "start": "2026-11-28T01:30Z",
        "period": 1,
-       "clock": "7:43",
+       "clock": "5:28",
        "teams": [
         {
          "name": "Miami Hurricanes",
          "short": "Hurricanes",
          "abbr": "MIA",
-         "score": 32,
+         "score": 37,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -2103,7 +2103,7 @@
          "name": "Alabama Crimson Tide",
          "short": "Crimson Tide",
          "abbr": "ALA",
-         "score": 27,
+         "score": 30,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -2362,16 +2362,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "11:05 - 4th",
+       "detail": "9:16 - 4th",
        "start": "2026-11-28T00:00Z",
        "period": 4,
-       "clock": "11:05",
+       "clock": "9:16",
        "teams": [
         {
          "name": "Miami Heat",
          "short": "Heat",
          "abbr": "MIA",
-         "score": 88,
+         "score": 89,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -2385,7 +2385,7 @@
          "name": "New York Knicks",
          "short": "Knicks",
          "abbr": "NY",
-         "score": 79,
+         "score": 83,
          "ha": "home",
          "winner": null,
          "linescores": [
