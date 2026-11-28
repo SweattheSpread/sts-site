@@ -1,17 +1,17 @@
 {
- "updated": "Nov 28, 2026, 12:40 AM PT",
+ "updated": "Nov 28, 2026, 12:41 AM PT",
  "record": {
   "w": 301,
-  "l": 305,
+  "l": 306,
   "p": 3,
-  "n": 609,
-  "units": 66.79,
-  "risked": 891.7,
-  "roi": 7.49,
+  "n": 610,
+  "units": 65.79,
+  "risked": 892.7,
+  "roi": 7.37,
   "first": "2026-10-12",
   "last": "2026-11-27"
  },
- "pending": 18,
+ "pending": 17,
  "latest": [
   {
    "n": 1086,
@@ -901,74 +901,6 @@
  ],
  "awaiting": [
   {
-   "n": 1062,
-   "league": "NFL",
-   "type": "Parlay",
-   "matchup": "6-leg parlay of two same-game parlays",
-   "pick": "(1) Kansas City Chiefs @ Buffalo Bills SGP +500: Emmett Johnson 70+ rushing yds, James Cook 80+ rushing yds, James Cook anytime TD, Emmett Johnson anytime TD; (2) Denver Broncos @ Pittsburgh Steelers SGP +130: Jonah Coleman 70+ rushing yds, Jonah Coleman anytime TD",
-   "odds": 1280,
-   "units": 1.0,
-   "gap": null,
-   "start": "2026-11-26T17:20:00",
-   "timed": true,
-   "ticket": "sgp",
-   "espn": {
-    "legs": [
-     {
-      "kind": "prop",
-      "player": "Kansas City Chiefs @ Buffalo Bills SGP +500: Emmett Johnson",
-      "ou": "O",
-      "line": 69.5,
-      "stat": "rushing yds",
-      "label": "Kansas City Chiefs @ Buffalo Bills SGP +500: Emmett Johnson O 69.5 rushing yds",
-      "date": "20261126",
-      "unverified": true,
-      "reason": "Player not found in this game"
-     },
-     {
-      "kind": "prop",
-      "player": "James Cook",
-      "ou": "O",
-      "line": 79.5,
-      "stat": "rushing yds",
-      "label": "James Cook O 79.5 rushing yds",
-      "unverified": true
-     },
-     {
-      "kind": "prop",
-      "player": "James Cook",
-      "ou": "O",
-      "line": 0.5,
-      "stat": "anytime td",
-      "label": "James Cook O 0.5 anytime td",
-      "unverified": true
-     },
-     {
-      "kind": "prop",
-      "player": "Emmett Johnson",
-      "ou": "O",
-      "line": 0.5,
-      "stat": "anytime td",
-      "label": "Emmett Johnson O 0.5 anytime td",
-      "date": "20261126",
-      "unverified": true,
-      "reason": "Player not found in this game"
-     },
-     {
-      "kind": "prop",
-      "player": "Jonah Coleman",
-      "ou": "O",
-      "line": 0.5,
-      "stat": "anytime td",
-      "label": "Jonah Coleman O 0.5 anytime td",
-      "unverified": true
-     }
-    ],
-    "sport": "NFL",
-    "ticket": "sgp"
-   }
-  },
-  {
    "n": 1066,
    "league": "NCAAB",
    "type": "Spread",
@@ -1338,8 +1270,8 @@
    "n": 23
   },
   "2026-11-26": {
-   "u": 12.36,
-   "n": 15
+   "u": 11.36,
+   "n": 16
   },
   "2026-11-27": {
    "u": -2.11,
