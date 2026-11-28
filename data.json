@@ -1,5 +1,5 @@
 {
- "updated": "Nov 27, 2026, 7:13 PM PT",
+ "updated": "Nov 27, 2026, 7:15 PM PT",
  "record": {
   "w": 292,
   "l": 292,
@@ -1529,10 +1529,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P2 15:57",
+       "detail": "P2 14:43",
        "start": "2026-11-28T01:00:00Z",
        "period": 2,
-       "clock": "15:57",
+       "clock": "14:43",
        "teams": [
         {
          "name": "Kraken",
@@ -1547,7 +1547,7 @@
          "name": "Oilers",
          "short": "EDM",
          "abbr": "EDM",
-         "score": 0,
+         "score": 1,
          "ha": "home",
          "winner": null,
          "linescores": []
@@ -1555,7 +1555,7 @@
        ],
        "nhl_id": 2026020414,
        "stat": {
-        "v": 0,
+        "v": 1,
         "name": "C. McDavid"
        }
       },
@@ -1593,16 +1593,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "9:46 - 2nd",
+       "detail": "8:54 - 2nd",
        "start": "2026-11-28T01:30Z",
        "period": 2,
-       "clock": "9:46",
+       "clock": "8:54",
        "teams": [
         {
          "name": "Memphis Grizzlies",
          "short": "Grizzlies",
          "abbr": "MEM",
-         "score": 41,
+         "score": 43,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -1614,7 +1614,7 @@
          "name": "Minnesota Timberwolves",
          "short": "Timberwolves",
          "abbr": "MIN",
-         "score": 29,
+         "score": 30,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -1824,10 +1824,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P2 15:57",
+       "detail": "P2 14:43",
        "start": "2026-11-28T01:00:00Z",
        "period": 2,
-       "clock": "15:57",
+       "clock": "14:43",
        "teams": [
         {
          "name": "Kraken",
@@ -1842,7 +1842,7 @@
          "name": "Oilers",
          "short": "EDM",
          "abbr": "EDM",
-         "score": 0,
+         "score": 1,
          "ha": "home",
          "winner": null,
          "linescores": []
@@ -1850,7 +1850,7 @@
        ],
        "nhl_id": 2026020414,
        "stat": {
-        "v": 0,
+        "v": 1,
         "name": "R. Nugent-Hopkins"
        }
       },
@@ -1888,16 +1888,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "5:44 - 3rd",
+       "detail": "4:45 - 3rd",
        "start": "2026-11-28T00:30Z",
        "period": 3,
-       "clock": "5:44",
+       "clock": "4:45",
        "teams": [
         {
          "name": "Brooklyn Nets",
          "short": "Nets",
          "abbr": "BKN",
-         "score": 67,
+         "score": 69,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -1910,7 +1910,7 @@
          "name": "Toronto Raptors",
          "short": "Raptors",
          "abbr": "TOR",
-         "score": 82,
+         "score": 87,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -2085,10 +2085,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "3:19 - 1st",
+       "detail": "3:09 - 1st",
        "start": "2026-11-28T01:30Z",
        "period": 1,
-       "clock": "3:19",
+       "clock": "3:09",
        "teams": [
         {
          "name": "Miami Hurricanes",
