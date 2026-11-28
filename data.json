@@ -1,5 +1,5 @@
 {
- "updated": "Nov 27, 2026, 6:23 PM PT",
+ "updated": "Nov 27, 2026, 6:26 PM PT",
  "record": {
   "w": 292,
   "l": 292,
@@ -1615,10 +1615,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P1 12:24",
+       "detail": "P1 11:28",
        "start": "2026-11-28T01:00:00Z",
        "period": 1,
-       "clock": "12:24",
+       "clock": "11:28",
        "teams": [
         {
          "name": "Kraken",
@@ -1900,10 +1900,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P1 12:24",
+       "detail": "P1 11:28",
        "start": "2026-11-28T01:00:00Z",
        "period": 1,
-       "clock": "12:24",
+       "clock": "11:28",
        "teams": [
         {
          "name": "Kraken",
@@ -1964,16 +1964,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "7:19 - 2nd",
+       "detail": "6:12 - 2nd",
        "start": "2026-11-28T00:30Z",
        "period": 2,
-       "clock": "7:19",
+       "clock": "6:12",
        "teams": [
         {
          "name": "Brooklyn Nets",
          "short": "Nets",
          "abbr": "BKN",
-         "score": 37,
+         "score": 40,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -1985,7 +1985,7 @@
          "name": "Toronto Raptors",
          "short": "Raptors",
          "abbr": "TOR",
-         "score": 45,
+         "score": 46,
          "ha": "home",
          "winner": null,
          "linescores": [
