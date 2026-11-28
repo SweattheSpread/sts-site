@@ -1,5 +1,5 @@
 {
- "updated": "Nov 27, 2026, 5:38 PM PT",
+ "updated": "Nov 27, 2026, 5:40 PM PT",
  "record": {
   "w": 292,
   "l": 292,
@@ -127,65 +127,6 @@
   }
  ],
  "picks": [
-  {
-   "n": 1070,
-   "league": "NBA",
-   "type": "Player Prop",
-   "matchup": "Memphis Grizzlies @ Minnesota Timberwolves",
-   "pick": "Jaylen Wells Over 3.5 rebounds",
-   "odds": 125,
-   "units": 1.0,
-   "gap": null,
-   "start": "2026-11-27T17:40:00",
-   "timed": true,
-   "ticket": "single",
-   "espn": {
-    "legs": [
-     {
-      "kind": "prop",
-      "player": "Jaylen Wells",
-      "ou": "O",
-      "line": 3.5,
-      "stat": "rebounds",
-      "label": "Jaylen Wells O 3.5 rebounds",
-      "path": "basketball/nba",
-      "event": "401909331",
-      "date": "20261127",
-      "snapshot": {
-       "source": "espn",
-       "state": "pre",
-       "detail": "11/27 - 8:30 PM EST",
-       "start": "2026-11-28T01:30Z",
-       "period": null,
-       "clock": null,
-       "teams": [
-        {
-         "name": "Memphis Grizzlies",
-         "short": "Grizzlies",
-         "abbr": "MEM",
-         "score": 0,
-         "ha": "away",
-         "winner": null,
-         "linescores": []
-        },
-        {
-         "name": "Minnesota Timberwolves",
-         "short": "Timberwolves",
-         "abbr": "MIN",
-         "score": 0,
-         "ha": "home",
-         "winner": null,
-         "linescores": []
-        }
-       ]
-      },
-      "source": "espn"
-     }
-    ],
-    "sport": "NBA",
-    "ticket": "single"
-   }
-  },
   {
    "n": 1083,
    "league": "NBA",
@@ -1135,10 +1076,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P3 15:27",
+       "detail": "P3 13:53",
        "start": "2026-11-27T22:30:00Z",
        "period": 3,
-       "clock": "15:27",
+       "clock": "13:53",
        "teams": [
         {
          "name": "Rangers",
@@ -1708,6 +1649,65 @@
    }
   },
   {
+   "n": 1070,
+   "league": "NBA",
+   "type": "Player Prop",
+   "matchup": "Memphis Grizzlies @ Minnesota Timberwolves",
+   "pick": "Jaylen Wells Over 3.5 rebounds",
+   "odds": 125,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-27T17:40:00",
+   "timed": true,
+   "ticket": "single",
+   "espn": {
+    "legs": [
+     {
+      "kind": "prop",
+      "player": "Jaylen Wells",
+      "ou": "O",
+      "line": 3.5,
+      "stat": "rebounds",
+      "label": "Jaylen Wells O 3.5 rebounds",
+      "path": "basketball/nba",
+      "event": "401909331",
+      "date": "20261127",
+      "snapshot": {
+       "source": "espn",
+       "state": "pre",
+       "detail": "11/27 - 8:30 PM EST",
+       "start": "2026-11-28T01:30Z",
+       "period": null,
+       "clock": null,
+       "teams": [
+        {
+         "name": "Memphis Grizzlies",
+         "short": "Grizzlies",
+         "abbr": "MEM",
+         "score": 0,
+         "ha": "away",
+         "winner": null,
+         "linescores": []
+        },
+        {
+         "name": "Minnesota Timberwolves",
+         "short": "Timberwolves",
+         "abbr": "MIN",
+         "score": 0,
+         "ha": "home",
+         "winner": null,
+         "linescores": []
+        }
+       ]
+      },
+      "source": "espn"
+     }
+    ],
+    "sport": "NBA",
+    "ticket": "single"
+   }
+  },
+  {
    "n": 1071,
    "league": "Soccer",
    "type": "Player Prop",
@@ -2077,10 +2077,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "10:31 - 2nd",
+       "detail": "9:19 - 2nd",
        "start": "2026-11-27T23:00Z",
        "period": 2,
-       "clock": "10:31",
+       "clock": "9:19",
        "teams": [
         {
          "name": "Western Kentucky Hilltoppers",
@@ -2098,7 +2098,7 @@
          "name": "Illinois Fighting Illini",
          "short": "Fighting Illini",
          "abbr": "ILL",
-         "score": 86,
+         "score": 89,
          "ha": "home",
          "winner": null,
          "linescores": [
