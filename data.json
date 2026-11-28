@@ -1,5 +1,5 @@
 {
- "updated": "Nov 28, 2026, 12:41 PM PT",
+ "updated": "Nov 28, 2026, 12:43 PM PT",
  "record": {
   "w": 301,
   "l": 305,
@@ -1332,10 +1332,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "6:22 - 2nd",
+       "detail": "5:35 - 2nd",
        "start": "2026-11-28T18:00Z",
        "period": 2,
-       "clock": "6:22",
+       "clock": "5:35",
        "teams": [
         {
          "name": "Hampton Pirates",
@@ -1353,7 +1353,7 @@
          "name": "Radford Highlanders",
          "short": "Highlanders",
          "abbr": "RAD",
-         "score": 64,
+         "score": 67,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -1395,10 +1395,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "5:39 - 1st",
+       "detail": "5:17 - 1st",
        "start": "2026-11-28T19:00Z",
        "period": 1,
-       "clock": "5:39",
+       "clock": "5:17",
        "teams": [
         {
          "name": "Georgia Southern Eagles",
@@ -1457,10 +1457,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "1:13 - 3rd",
+       "detail": "15:00 - 4th",
        "start": "2026-11-28T17:00Z",
-       "period": 3,
-       "clock": "1:13",
+       "period": 4,
+       "clock": "15:00",
        "teams": [
         {
          "name": "Michigan Wolverines",
@@ -1470,6 +1470,7 @@
          "ha": "away",
          "winner": null,
          "linescores": [
+          0,
           0,
           0,
           0
@@ -1483,6 +1484,7 @@
          "ha": "home",
          "winner": null,
          "linescores": [
+          0,
           0,
           0,
           0
@@ -1505,10 +1507,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "1:13 - 3rd",
+       "detail": "15:00 - 4th",
        "start": "2026-11-28T17:00Z",
-       "period": 3,
-       "clock": "1:13",
+       "period": 4,
+       "clock": "15:00",
        "teams": [
         {
          "name": "Michigan Wolverines",
@@ -1518,6 +1520,7 @@
          "ha": "away",
          "winner": null,
          "linescores": [
+          0,
           0,
           0,
           0
@@ -1531,6 +1534,7 @@
          "ha": "home",
          "winner": null,
          "linescores": [
+          0,
           0,
           0,
           0
