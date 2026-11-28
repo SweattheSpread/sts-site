@@ -1,5 +1,5 @@
 {
- "updated": "Nov 28, 2026, 1:24 AM PT",
+ "updated": "Nov 28, 2026, 2:20 AM PT",
  "record": {
   "w": 301,
   "l": 306,
@@ -11,7 +11,7 @@
   "first": "2026-10-12",
   "last": "2026-11-27"
  },
- "pending": 17,
+ "pending": 19,
  "plays": [
   {
    "n": 334,
@@ -9932,6 +9932,38 @@
    "result": "W",
    "pl": 1.4,
    "pending": false
+  },
+  {
+   "n": 1087,
+   "date": "2026-11-28",
+   "day": "2026-11-28",
+   "league": "NCAAB",
+   "market": "ml",
+   "market_label": "Moneyline",
+   "ticket": "single",
+   "matchup": "Radford Highlanders @ Hampton Pirates",
+   "pick": "Radford Highlanders moneyline",
+   "odds": -130,
+   "units": 1.0,
+   "result": null,
+   "pl": null,
+   "pending": true
+  },
+  {
+   "n": 1088,
+   "date": "2026-11-28",
+   "day": "2026-11-28",
+   "league": "NCAAB",
+   "market": "spread",
+   "market_label": "Spread",
+   "ticket": "single",
+   "matchup": "Georgia Southern Eagles @ UNC Asheville Bulldogs",
+   "pick": "UNC Asheville +1.5",
+   "odds": -110,
+   "units": 1.0,
+   "result": null,
+   "pl": null,
+   "pending": true
   },
   {
    "n": 905,

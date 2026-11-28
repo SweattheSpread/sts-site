@@ -1,5 +1,5 @@
 {
- "updated": "Nov 28, 2026, 1:24 AM PT",
+ "updated": "Nov 28, 2026, 2:20 AM PT",
  "record": {
   "w": 301,
   "l": 306,
@@ -11,7 +11,7 @@
   "first": "2026-10-12",
   "last": "2026-11-27"
  },
- "pending": 17,
+ "pending": 19,
  "latest": [
   {
    "n": 1086,
@@ -127,6 +127,118 @@
   }
  ],
  "picks": [
+  {
+   "n": 1087,
+   "league": "NCAAB",
+   "type": "Moneyline",
+   "matchup": "Radford Highlanders @ Hampton Pirates",
+   "pick": "Radford Highlanders moneyline",
+   "odds": -130,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-28T10:00:00",
+   "timed": true,
+   "ticket": "single",
+   "espn": {
+    "legs": [
+     {
+      "kind": "unknown",
+      "label": "Radford Highlanders moneyline",
+      "path": "basketball/mens-college-basketball",
+      "event": "401921414",
+      "date": "20261128",
+      "snapshot": {
+       "source": "espn",
+       "state": "pre",
+       "detail": "11/28 - 1:00 PM EST",
+       "start": "2026-11-28T18:00Z",
+       "period": null,
+       "clock": null,
+       "teams": [
+        {
+         "name": "Hampton Pirates",
+         "short": "Pirates",
+         "abbr": "HAMP",
+         "score": 0,
+         "ha": "away",
+         "winner": null,
+         "linescores": []
+        },
+        {
+         "name": "Radford Highlanders",
+         "short": "Highlanders",
+         "abbr": "RAD",
+         "score": 0,
+         "ha": "home",
+         "winner": null,
+         "linescores": []
+        }
+       ]
+      },
+      "source": "espn"
+     }
+    ],
+    "sport": "NCAAB",
+    "ticket": "single"
+   }
+  },
+  {
+   "n": 1088,
+   "league": "NCAAB",
+   "type": "Spread",
+   "matchup": "Georgia Southern Eagles @ UNC Asheville Bulldogs",
+   "pick": "UNC Asheville +1.5",
+   "odds": -110,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-28T11:00:00",
+   "timed": true,
+   "ticket": "single",
+   "espn": {
+    "legs": [
+     {
+      "kind": "spread",
+      "side": "UNC Asheville",
+      "line": 1.5,
+      "label": "UNC Asheville +1.5",
+      "path": "basketball/mens-college-basketball",
+      "event": "401921031",
+      "date": "20261128",
+      "snapshot": {
+       "source": "espn",
+       "state": "pre",
+       "detail": "11/28 - 2:00 PM EST",
+       "start": "2026-11-28T19:00Z",
+       "period": null,
+       "clock": null,
+       "teams": [
+        {
+         "name": "Georgia Southern Eagles",
+         "short": "Eagles",
+         "abbr": "GASO",
+         "score": 0,
+         "ha": "away",
+         "winner": null,
+         "linescores": []
+        },
+        {
+         "name": "UNC Asheville Bulldogs",
+         "short": "Bulldogs",
+         "abbr": "UNCA",
+         "score": 0,
+         "ha": "home",
+         "winner": null,
+         "linescores": []
+        }
+       ]
+      },
+      "source": "espn"
+     }
+    ],
+    "sport": "NCAAB",
+    "ticket": "single"
+   }
+  },
   {
    "n": 983,
    "league": "NFL",
