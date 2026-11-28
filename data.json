@@ -1,5 +1,5 @@
 {
- "updated": "Nov 27, 2026, 9:34 PM PT",
+ "updated": "Nov 27, 2026, 9:38 PM PT",
  "record": {
   "w": 293,
   "l": 292,
@@ -2225,7 +2225,7 @@
          "name": "Los Angeles Clippers",
          "short": "Los Angeles Clippers",
          "abbr": "",
-         "score": 85,
+         "score": 87,
          "ha": "home",
          "winner": null,
          "linescores": []
@@ -2402,16 +2402,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "5:53 - 4th",
+       "detail": "5:01 - 4th",
        "start": "2026-11-28T02:30Z",
        "period": 4,
-       "clock": "5:53",
+       "clock": "5:01",
        "teams": [
         {
          "name": "Denver Nuggets",
          "short": "Nuggets",
          "abbr": "DEN",
-         "score": 97,
+         "score": 101,
          "ha": "away",
          "winner": null,
          "linescores": [
