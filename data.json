@@ -1,5 +1,5 @@
 {
- "updated": "Nov 28, 2026, 8:31 AM PT",
+ "updated": "Nov 28, 2026, 9:11 AM PT",
  "record": {
   "w": 301,
   "l": 305,
@@ -11,7 +11,7 @@
   "first": "2026-10-12",
   "last": "2026-11-27"
  },
- "pending": 20,
+ "pending": 21,
  "latest": [
   {
    "n": 1086,
@@ -296,6 +296,64 @@
      }
     ],
     "sport": "NHL",
+    "ticket": "single"
+   }
+  },
+  {
+   "n": 1093,
+   "league": "NCAAF",
+   "type": "Over/Under",
+   "matchup": "Pittsburgh Panthers @ California Golden Bears",
+   "pick": "Over 46",
+   "odds": -110,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-28T16:30:00",
+   "timed": true,
+   "ticket": "single",
+   "espn": {
+    "legs": [
+     {
+      "kind": "total",
+      "side": null,
+      "ou": "O",
+      "line": 46.0,
+      "label": "O 46.0",
+      "path": "football/college-football",
+      "event": "401858315",
+      "date": "20261128",
+      "snapshot": {
+       "source": "espn",
+       "state": "pre",
+       "detail": "11/28 - 7:30 PM EST",
+       "start": "2026-11-29T00:30Z",
+       "period": null,
+       "clock": null,
+       "teams": [
+        {
+         "name": "Pittsburgh Panthers",
+         "short": "Panthers",
+         "abbr": "PITT",
+         "score": 0,
+         "ha": "away",
+         "winner": null,
+         "linescores": []
+        },
+        {
+         "name": "California Golden Bears",
+         "short": "Golden Bears",
+         "abbr": "CAL",
+         "score": 0,
+         "ha": "home",
+         "winner": null,
+         "linescores": []
+        }
+       ]
+      },
+      "source": "espn"
+     }
+    ],
+    "sport": "NCAAF",
     "ticket": "single"
    }
   },

@@ -1,5 +1,5 @@
 {
- "updated": "Nov 28, 2026, 8:31 AM PT",
+ "updated": "Nov 28, 2026, 9:11 AM PT",
  "record": {
   "w": 301,
   "l": 305,
@@ -11,7 +11,7 @@
   "first": "2026-10-12",
   "last": "2026-11-27"
  },
- "pending": 20,
+ "pending": 21,
  "plays": [
   {
    "n": 334,
@@ -9928,6 +9928,22 @@
    "matchup": "Toronto Maple Leafs @ Pittsburgh Penguins",
    "pick": "Tommy Novak (TOR) Under 0.5 points (player prop)",
    "odds": 120,
+   "units": 1.0,
+   "result": null,
+   "pl": null,
+   "pending": true
+  },
+  {
+   "n": 1093,
+   "date": "2026-11-28",
+   "day": "2026-11-28",
+   "league": "NCAAF",
+   "market": "total",
+   "market_label": "Total",
+   "ticket": "single",
+   "matchup": "Pittsburgh Panthers @ California Golden Bears",
+   "pick": "Over 46 -110",
+   "odds": -110,
    "units": 1.0,
    "result": null,
    "pl": null,
