@@ -1,5 +1,5 @@
 {
- "updated": "Nov 28, 2026, 11:25 AM PT",
+ "updated": "Nov 28, 2026, 11:27 AM PT",
  "record": {
   "w": 301,
   "l": 305,
@@ -1332,10 +1332,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "8:20 - 1st",
+       "detail": "7:03 - 1st",
        "start": "2026-11-28T18:00Z",
        "period": 1,
-       "clock": "8:20",
+       "clock": "7:03",
        "teams": [
         {
          "name": "Hampton Pirates",
@@ -1352,7 +1352,7 @@
          "name": "Radford Highlanders",
          "short": "Highlanders",
          "abbr": "RAD",
-         "score": 20,
+         "score": 22,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -1451,10 +1451,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "3:09 - 2nd",
+       "detail": "2:21 - 2nd",
        "start": "2026-11-28T17:00Z",
        "period": 2,
-       "clock": "3:09",
+       "clock": "2:21",
        "teams": [
         {
          "name": "Michigan Wolverines",
@@ -1497,10 +1497,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "3:09 - 2nd",
+       "detail": "2:21 - 2nd",
        "start": "2026-11-28T17:00Z",
        "period": 2,
-       "clock": "3:09",
+       "clock": "2:21",
        "teams": [
         {
          "name": "Michigan Wolverines",
