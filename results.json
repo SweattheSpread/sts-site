@@ -1,5 +1,5 @@
 {
- "updated": "Nov 28, 2026, 4:38 AM PT",
+ "updated": "Nov 28, 2026, 5:44 AM PT",
  "record": {
   "w": 301,
   "l": 306,
@@ -11,7 +11,7 @@
   "first": "2026-10-12",
   "last": "2026-11-27"
  },
- "pending": 21,
+ "pending": 22,
  "plays": [
   {
    "n": 334,
@@ -9960,6 +9960,22 @@
    "matchup": "Georgia Southern Eagles @ UNC Asheville Bulldogs",
    "pick": "UNC Asheville +1.5",
    "odds": -110,
+   "units": 1.0,
+   "result": null,
+   "pl": null,
+   "pending": true
+  },
+  {
+   "n": 1091,
+   "date": "2026-11-28",
+   "day": "2026-11-28",
+   "league": "NHL",
+   "market": "player_prop",
+   "market_label": "Player Prop",
+   "ticket": "single",
+   "matchup": "Anaheim Ducks @ Los Angeles Kings",
+   "pick": "Adrian Kempe (LAK) Over 2.5 shots on goal (player prop)",
+   "odds": -105,
    "units": 1.0,
    "result": null,
    "pl": null,

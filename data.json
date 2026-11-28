@@ -1,5 +1,5 @@
 {
- "updated": "Nov 28, 2026, 4:38 AM PT",
+ "updated": "Nov 28, 2026, 5:44 AM PT",
  "record": {
   "w": 301,
   "l": 306,
@@ -11,7 +11,7 @@
   "first": "2026-10-12",
   "last": "2026-11-27"
  },
- "pending": 21,
+ "pending": 22,
  "latest": [
   {
    "n": 1086,
@@ -236,6 +236,66 @@
      }
     ],
     "sport": "NCAAB",
+    "ticket": "single"
+   }
+  },
+  {
+   "n": 1091,
+   "league": "NHL",
+   "type": "Player Prop",
+   "matchup": "Anaheim Ducks @ Los Angeles Kings",
+   "pick": "Adrian Kempe (LAK) Over 2.5 shots on goal (player prop)",
+   "odds": -105,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-28T18:10:00",
+   "timed": true,
+   "ticket": "single",
+   "espn": {
+    "legs": [
+     {
+      "kind": "prop",
+      "player": "Adrian Kempe",
+      "ou": "O",
+      "line": 2.5,
+      "stat": "shots on goal",
+      "label": "Adrian Kempe O 2.5 shots on goal",
+      "path": "hockey/nhl",
+      "event": "401892821",
+      "date": "20261128",
+      "snapshot": {
+       "source": "nhl",
+       "state": "pre",
+       "detail": "Scheduled",
+       "start": "2026-11-29T02:00:00Z",
+       "period": null,
+       "clock": null,
+       "teams": [
+        {
+         "name": "Ducks",
+         "short": "ANA",
+         "abbr": "ANA",
+         "score": 0,
+         "ha": "away",
+         "winner": null,
+         "linescores": []
+        },
+        {
+         "name": "Kings",
+         "short": "LAK",
+         "abbr": "LAK",
+         "score": 0,
+         "ha": "home",
+         "winner": null,
+         "linescores": []
+        }
+       ],
+       "nhl_id": 2026020426
+      },
+      "source": "nhl"
+     }
+    ],
+    "sport": "NHL",
     "ticket": "single"
    }
   },
