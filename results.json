@@ -1,5 +1,5 @@
 {
- "updated": "Nov 27, 2026, 5:26 PM PT",
+ "updated": "Nov 27, 2026, 5:28 PM PT",
  "record": {
   "w": 292,
   "l": 292,
@@ -11,7 +11,7 @@
   "first": "2026-10-12",
   "last": "2026-11-26"
  },
- "pending": 39,
+ "pending": 40,
  "plays": [
   {
    "n": 334,
@@ -9912,6 +9912,22 @@
    "matchup": "Miami Heat @ New York Knicks",
    "pick": "Andrew Wiggins (MIA) Over 7.5 points (player prop)",
    "odds": -105,
+   "units": 1.0,
+   "result": null,
+   "pl": null,
+   "pending": true
+  },
+  {
+   "n": 1086,
+   "date": "2026-11-27",
+   "day": "2026-11-27",
+   "league": "NBA",
+   "market": "player_prop",
+   "market_label": "Player Prop",
+   "ticket": "single",
+   "matchup": "Denver Nuggets @ Utah Jazz",
+   "pick": "Keyonte George (UTA) Under 6.5 assists (player prop)",
+   "odds": 140,
    "units": 1.0,
    "result": null,
    "pl": null,

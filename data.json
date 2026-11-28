@@ -1,5 +1,5 @@
 {
- "updated": "Nov 27, 2026, 5:26 PM PT",
+ "updated": "Nov 27, 2026, 5:28 PM PT",
  "record": {
   "w": 292,
   "l": 292,
@@ -11,7 +11,7 @@
   "first": "2026-10-12",
   "last": "2026-11-26"
  },
- "pending": 39,
+ "pending": 40,
  "latest": [
   {
    "n": 1065,
@@ -265,6 +265,65 @@
       "line": 4.5,
       "label": "Brook Lopez O 4.5",
       "unverified": true
+     }
+    ],
+    "sport": "NBA",
+    "ticket": "single"
+   }
+  },
+  {
+   "n": 1086,
+   "league": "NBA",
+   "type": "Player Prop",
+   "matchup": "Denver Nuggets @ Utah Jazz",
+   "pick": "Keyonte George (UTA) Under 6.5 assists (player prop)",
+   "odds": 140,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-27T18:40:00",
+   "timed": true,
+   "ticket": "single",
+   "espn": {
+    "legs": [
+     {
+      "kind": "prop",
+      "player": "Keyonte George",
+      "ou": "U",
+      "line": 6.5,
+      "stat": "assists",
+      "label": "Keyonte George U 6.5 assists",
+      "path": "basketball/nba",
+      "event": "401909334",
+      "date": "20261127",
+      "snapshot": {
+       "source": "espn",
+       "state": "pre",
+       "detail": "11/27 - 9:30 PM EST",
+       "start": "2026-11-28T02:30Z",
+       "period": null,
+       "clock": null,
+       "teams": [
+        {
+         "name": "Denver Nuggets",
+         "short": "Nuggets",
+         "abbr": "DEN",
+         "score": 0,
+         "ha": "away",
+         "winner": null,
+         "linescores": []
+        },
+        {
+         "name": "Utah Jazz",
+         "short": "Jazz",
+         "abbr": "UTAH",
+         "score": 0,
+         "ha": "home",
+         "winner": null,
+         "linescores": []
+        }
+       ]
+      },
+      "source": "espn"
      }
     ],
     "sport": "NBA",
@@ -1134,10 +1193,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P2 03:57",
+       "detail": "P2 01:40",
        "start": "2026-11-27T22:30:00Z",
        "period": 2,
-       "clock": "03:57",
+       "clock": "01:40",
        "teams": [
         {
          "name": "Rangers",
@@ -2076,10 +2135,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "13:49 - 2nd",
+       "detail": "12:54 - 2nd",
        "start": "2026-11-27T23:00Z",
        "period": 2,
-       "clock": "13:49",
+       "clock": "12:54",
        "teams": [
         {
          "name": "Western Kentucky Hilltoppers",
@@ -2097,7 +2156,7 @@
          "name": "Illinois Fighting Illini",
          "short": "Fighting Illini",
          "abbr": "ILL",
-         "score": 75,
+         "score": 77,
          "ha": "home",
          "winner": null,
          "linescores": [
