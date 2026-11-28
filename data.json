@@ -1,5 +1,5 @@
 {
- "updated": "Nov 28, 2026, 10:42 AM PT",
+ "updated": "Nov 28, 2026, 10:44 AM PT",
  "record": {
   "w": 301,
   "l": 305,
@@ -1447,10 +1447,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "2:25 - 1st",
+       "detail": "15:00 - 2nd",
        "start": "2026-11-28T17:00Z",
-       "period": 1,
-       "clock": "2:25",
+       "period": 2,
+       "clock": "15:00",
        "teams": [
         {
          "name": "Michigan Wolverines",
@@ -1460,6 +1460,7 @@
          "ha": "away",
          "winner": null,
          "linescores": [
+          0,
           0
          ]
         },
@@ -1471,6 +1472,7 @@
          "ha": "home",
          "winner": null,
          "linescores": [
+          0,
           0
          ]
         }
@@ -1491,10 +1493,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "2:25 - 1st",
+       "detail": "15:00 - 2nd",
        "start": "2026-11-28T17:00Z",
-       "period": 1,
-       "clock": "2:25",
+       "period": 2,
+       "clock": "15:00",
        "teams": [
         {
          "name": "Michigan Wolverines",
@@ -1504,6 +1506,7 @@
          "ha": "away",
          "winner": null,
          "linescores": [
+          0,
           0
          ]
         },
@@ -1515,6 +1518,7 @@
          "ha": "home",
          "winner": null,
          "linescores": [
+          0,
           0
          ]
         }
