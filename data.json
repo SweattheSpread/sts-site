@@ -1,5 +1,5 @@
 {
- "updated": "Nov 28, 2026, 9:45 AM PT",
+ "updated": "Nov 28, 2026, 10:17 AM PT",
  "record": {
   "w": 301,
   "l": 305,
@@ -127,61 +127,6 @@
   }
  ],
  "picks": [
-  {
-   "n": 1087,
-   "league": "NCAAB",
-   "type": "Moneyline",
-   "matchup": "Radford Highlanders @ Hampton Pirates",
-   "pick": "Radford Highlanders moneyline",
-   "odds": -130,
-   "units": 1.0,
-   "gap": null,
-   "start": "2026-11-28T10:00:00",
-   "timed": true,
-   "ticket": "single",
-   "espn": {
-    "legs": [
-     {
-      "kind": "unknown",
-      "label": "Radford Highlanders moneyline",
-      "path": "basketball/mens-college-basketball",
-      "event": "401921414",
-      "date": "20261128",
-      "snapshot": {
-       "source": "espn",
-       "state": "pre",
-       "detail": "11/28 - 1:00 PM EST",
-       "start": "2026-11-28T18:00Z",
-       "period": null,
-       "clock": null,
-       "teams": [
-        {
-         "name": "Hampton Pirates",
-         "short": "Pirates",
-         "abbr": "HAMP",
-         "score": 0,
-         "ha": "away",
-         "winner": null,
-         "linescores": []
-        },
-        {
-         "name": "Radford Highlanders",
-         "short": "Highlanders",
-         "abbr": "RAD",
-         "score": 0,
-         "ha": "home",
-         "winner": null,
-         "linescores": []
-        }
-       ]
-      },
-      "source": "espn"
-     }
-    ],
-    "sport": "NCAAB",
-    "ticket": "single"
-   }
-  },
   {
    "n": 1088,
    "league": "NCAAB",
@@ -1422,6 +1367,61 @@
  ],
  "awaiting": [
   {
+   "n": 1087,
+   "league": "NCAAB",
+   "type": "Moneyline",
+   "matchup": "Radford Highlanders @ Hampton Pirates",
+   "pick": "Radford Highlanders moneyline",
+   "odds": -130,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-28T10:00:00",
+   "timed": true,
+   "ticket": "single",
+   "espn": {
+    "legs": [
+     {
+      "kind": "unknown",
+      "label": "Radford Highlanders moneyline",
+      "path": "basketball/mens-college-basketball",
+      "event": "401921414",
+      "date": "20261128",
+      "snapshot": {
+       "source": "espn",
+       "state": "pre",
+       "detail": "11/28 - 1:00 PM EST",
+       "start": "2026-11-28T18:00Z",
+       "period": null,
+       "clock": null,
+       "teams": [
+        {
+         "name": "Hampton Pirates",
+         "short": "Pirates",
+         "abbr": "HAMP",
+         "score": 0,
+         "ha": "away",
+         "winner": null,
+         "linescores": []
+        },
+        {
+         "name": "Radford Highlanders",
+         "short": "Highlanders",
+         "abbr": "RAD",
+         "score": 0,
+         "ha": "home",
+         "winner": null,
+         "linescores": []
+        }
+       ]
+      },
+      "source": "espn"
+     }
+    ],
+    "sport": "NCAAB",
+    "ticket": "single"
+   }
+  },
+  {
    "n": 1096,
    "league": "NCAAF",
    "type": "Parlay",
@@ -1446,11 +1446,11 @@
       "date": "20261128",
       "snapshot": {
        "source": "espn",
-       "state": "pre",
-       "detail": "11/28 - 12:00 PM EST",
+       "state": "in",
+       "detail": "15:00 - 1st",
        "start": "2026-11-28T17:00Z",
-       "period": null,
-       "clock": null,
+       "period": 1,
+       "clock": "15:00",
        "teams": [
         {
          "name": "Michigan Wolverines",
@@ -1459,7 +1459,9 @@
          "score": 0,
          "ha": "away",
          "winner": null,
-         "linescores": []
+         "linescores": [
+          0
+         ]
         },
         {
          "name": "Ohio State Buckeyes",
@@ -1468,7 +1470,9 @@
          "score": 0,
          "ha": "home",
          "winner": null,
-         "linescores": []
+         "linescores": [
+          0
+         ]
         }
        ]
       },
@@ -1486,11 +1490,11 @@
       "date": "20261128",
       "snapshot": {
        "source": "espn",
-       "state": "pre",
-       "detail": "11/28 - 12:00 PM EST",
+       "state": "in",
+       "detail": "15:00 - 1st",
        "start": "2026-11-28T17:00Z",
-       "period": null,
-       "clock": null,
+       "period": 1,
+       "clock": "15:00",
        "teams": [
         {
          "name": "Michigan Wolverines",
@@ -1499,7 +1503,9 @@
          "score": 0,
          "ha": "away",
          "winner": null,
-         "linescores": []
+         "linescores": [
+          0
+         ]
         },
         {
          "name": "Ohio State Buckeyes",
@@ -1508,9 +1514,12 @@
          "score": 0,
          "ha": "home",
          "winner": null,
-         "linescores": []
+         "linescores": [
+          0
+         ]
         }
-       ]
+       ],
+       "stat": null
       },
       "source": "espn"
      }
