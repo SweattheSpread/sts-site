@@ -1,5 +1,5 @@
 {
- "updated": "Nov 27, 2026, 5:54 PM PT",
+ "updated": "Nov 27, 2026, 5:57 PM PT",
  "record": {
   "w": 292,
   "l": 292,
@@ -1076,10 +1076,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P3 07:37",
+       "detail": "P3 06:16",
        "start": "2026-11-27T22:30:00Z",
        "period": 3,
-       "clock": "07:37",
+       "clock": "06:16",
        "teams": [
         {
          "name": "Rangers",
@@ -1956,10 +1956,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "7:24 - 1st",
+       "detail": "6:51 - 1st",
        "start": "2026-11-28T00:30Z",
        "period": 1,
-       "clock": "7:24",
+       "clock": "6:51",
        "teams": [
         {
          "name": "Brooklyn Nets",
@@ -1976,7 +1976,7 @@
          "name": "Toronto Raptors",
          "short": "Raptors",
          "abbr": "TOR",
-         "score": 12,
+         "score": 17,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -2082,10 +2082,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "3:04 - 2nd",
+       "detail": "2:18 - 2nd",
        "start": "2026-11-27T23:00Z",
        "period": 2,
-       "clock": "3:04",
+       "clock": "2:18",
        "teams": [
         {
          "name": "Western Kentucky Hilltoppers",
@@ -2103,7 +2103,7 @@
          "name": "Illinois Fighting Illini",
          "short": "Fighting Illini",
          "abbr": "ILL",
-         "score": 109,
+         "score": 114,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -2394,10 +2394,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "6:39 - 2nd",
+       "detail": "5:23 - 2nd",
        "start": "2026-11-28T00:00Z",
        "period": 2,
-       "clock": "6:39",
+       "clock": "5:23",
        "teams": [
         {
          "name": "Miami Heat",
@@ -2415,7 +2415,7 @@
          "name": "New York Knicks",
          "short": "Knicks",
          "abbr": "NY",
-         "score": 27,
+         "score": 29,
          "ha": "home",
          "winner": null,
          "linescores": [
