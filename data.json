@@ -1,5 +1,5 @@
 {
- "updated": "Nov 28, 2026, 11:04 AM PT",
+ "updated": "Nov 28, 2026, 11:06 AM PT",
  "record": {
   "w": 301,
   "l": 305,
@@ -1331,20 +1331,22 @@
       "date": "20261128",
       "snapshot": {
        "source": "espn",
-       "state": "pre",
-       "detail": "11/28 - 1:00 PM EST",
+       "state": "in",
+       "detail": "18:35 - 1st",
        "start": "2026-11-28T18:00Z",
-       "period": null,
-       "clock": null,
+       "period": 1,
+       "clock": "18:35",
        "teams": [
         {
          "name": "Hampton Pirates",
          "short": "Pirates",
          "abbr": "HAMP",
-         "score": 0,
+         "score": 5,
          "ha": "away",
          "winner": null,
-         "linescores": []
+         "linescores": [
+          0
+         ]
         },
         {
          "name": "Radford Highlanders",
@@ -1353,7 +1355,9 @@
          "score": 0,
          "ha": "home",
          "winner": null,
-         "linescores": []
+         "linescores": [
+          0
+         ]
         }
        ]
       },
@@ -1447,10 +1451,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "10:55 - 2nd",
+       "detail": "9:04 - 2nd",
        "start": "2026-11-28T17:00Z",
        "period": 2,
-       "clock": "10:55",
+       "clock": "9:04",
        "teams": [
         {
          "name": "Michigan Wolverines",
@@ -1493,10 +1497,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "10:55 - 2nd",
+       "detail": "9:04 - 2nd",
        "start": "2026-11-28T17:00Z",
        "period": 2,
-       "clock": "10:55",
+       "clock": "9:04",
        "teams": [
         {
          "name": "Michigan Wolverines",
