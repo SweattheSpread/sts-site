@@ -1,5 +1,5 @@
 {
- "updated": "Nov 27, 2026, 5:28 PM PT",
+ "updated": "Nov 27, 2026, 5:30 PM PT",
  "record": {
   "w": 292,
   "l": 292,
@@ -127,64 +127,6 @@
   }
  ],
  "picks": [
-  {
-   "n": 1080,
-   "league": "NCAAB",
-   "type": "Over/Under",
-   "matchup": "Miami Hurricanes vs Alabama Crimson Tide, neutral",
-   "pick": "Under 170.5",
-   "odds": -110,
-   "units": 1.0,
-   "gap": null,
-   "start": "2026-11-27T17:30:00",
-   "timed": true,
-   "ticket": "single",
-   "espn": {
-    "legs": [
-     {
-      "kind": "total",
-      "side": null,
-      "ou": "U",
-      "line": 170.5,
-      "label": "U 170.5",
-      "path": "basketball/mens-college-basketball",
-      "event": "401920543",
-      "date": "20261127",
-      "snapshot": {
-       "source": "espn",
-       "state": "pre",
-       "detail": "11/27 - 8:30 PM EST",
-       "start": "2026-11-28T01:30Z",
-       "period": null,
-       "clock": null,
-       "teams": [
-        {
-         "name": "Miami Hurricanes",
-         "short": "Hurricanes",
-         "abbr": "MIA",
-         "score": 0,
-         "ha": "away",
-         "winner": null,
-         "linescores": []
-        },
-        {
-         "name": "Alabama Crimson Tide",
-         "short": "Crimson Tide",
-         "abbr": "ALA",
-         "score": 0,
-         "ha": "home",
-         "winner": null,
-         "linescores": []
-        }
-       ]
-      },
-      "source": "espn"
-     }
-    ],
-    "sport": "NCAAB",
-    "ticket": "single"
-   }
-  },
   {
    "n": 1070,
    "league": "NBA",
@@ -1193,10 +1135,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P2 01:40",
+       "detail": "P3 20:00",
        "start": "2026-11-27T22:30:00Z",
-       "period": 2,
-       "clock": "01:40",
+       "period": 3,
+       "clock": "20:00",
        "teams": [
         {
          "name": "Rangers",
@@ -2174,6 +2116,64 @@
    }
   },
   {
+   "n": 1080,
+   "league": "NCAAB",
+   "type": "Over/Under",
+   "matchup": "Miami Hurricanes vs Alabama Crimson Tide, neutral",
+   "pick": "Under 170.5",
+   "odds": -110,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-27T17:30:00",
+   "timed": true,
+   "ticket": "single",
+   "espn": {
+    "legs": [
+     {
+      "kind": "total",
+      "side": null,
+      "ou": "U",
+      "line": 170.5,
+      "label": "U 170.5",
+      "path": "basketball/mens-college-basketball",
+      "event": "401920543",
+      "date": "20261127",
+      "snapshot": {
+       "source": "espn",
+       "state": "pre",
+       "detail": "11/27 - 8:30 PM EST",
+       "start": "2026-11-28T01:30Z",
+       "period": null,
+       "clock": null,
+       "teams": [
+        {
+         "name": "Miami Hurricanes",
+         "short": "Hurricanes",
+         "abbr": "MIA",
+         "score": 0,
+         "ha": "away",
+         "winner": null,
+         "linescores": []
+        },
+        {
+         "name": "Alabama Crimson Tide",
+         "short": "Crimson Tide",
+         "abbr": "ALA",
+         "score": 0,
+         "ha": "home",
+         "winner": null,
+         "linescores": []
+        }
+       ]
+      },
+      "source": "espn"
+     }
+    ],
+    "sport": "NCAAB",
+    "ticket": "single"
+   }
+  },
+  {
    "n": 1081,
    "league": "NCAAB",
    "type": "Spread",
@@ -2389,16 +2389,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "5:22 - 1st",
+       "detail": "4:04 - 1st",
        "start": "2026-11-28T00:00Z",
        "period": 1,
-       "clock": "5:22",
+       "clock": "4:04",
        "teams": [
         {
          "name": "Miami Heat",
          "short": "Heat",
          "abbr": "MIA",
-         "score": 15,
+         "score": 21,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -2409,7 +2409,7 @@
          "name": "New York Knicks",
          "short": "Knicks",
          "abbr": "NY",
-         "score": 11,
+         "score": 16,
          "ha": "home",
          "winner": null,
          "linescores": [
