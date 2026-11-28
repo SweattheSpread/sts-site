@@ -1,5 +1,5 @@
 {
- "updated": "Nov 27, 2026, 8:52 PM PT",
+ "updated": "Nov 27, 2026, 8:54 PM PT",
  "record": {
   "w": 292,
   "l": 292,
@@ -1592,11 +1592,11 @@
       "date": "20261127",
       "snapshot": {
        "source": "espn",
-       "state": "in",
-       "detail": "End of 4th",
+       "state": "post",
+       "detail": "Final",
        "start": "2026-11-28T01:30Z",
-       "period": 4,
-       "clock": "0.1",
+       "period": null,
+       "clock": null,
        "teams": [
         {
          "name": "Memphis Grizzlies",
@@ -1604,7 +1604,7 @@
          "abbr": "MEM",
          "score": 114,
          "ha": "away",
-         "winner": null,
+         "winner": true,
          "linescores": [
           0,
           0,
@@ -1618,7 +1618,7 @@
          "abbr": "MIN",
          "score": 109,
          "ha": "home",
-         "winner": null,
+         "winner": false,
          "linescores": [
           0,
           0,
@@ -2282,7 +2282,7 @@
          "name": "New Orleans Pelicans",
          "short": "New Orleans Pelicans",
          "abbr": "",
-         "score": 54,
+         "score": 56,
          "ha": "away",
          "winner": null,
          "linescores": []
@@ -2291,7 +2291,7 @@
          "name": "Los Angeles Clippers",
          "short": "Los Angeles Clippers",
          "abbr": "",
-         "score": 50,
+         "score": 52,
          "ha": "home",
          "winner": null,
          "linescores": []
@@ -2468,16 +2468,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "9:08 - 3rd",
+       "detail": "8:13 - 3rd",
        "start": "2026-11-28T02:30Z",
        "period": 3,
-       "clock": "9:08",
+       "clock": "8:13",
        "teams": [
         {
          "name": "Denver Nuggets",
          "short": "Nuggets",
          "abbr": "DEN",
-         "score": 60,
+         "score": 64,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -2490,7 +2490,7 @@
          "name": "Utah Jazz",
          "short": "Jazz",
          "abbr": "UTAH",
-         "score": 64,
+         "score": 66,
          "ha": "home",
          "winner": null,
          "linescores": [
