@@ -1,5 +1,5 @@
 {
- "updated": "Nov 27, 2026, 5:50 PM PT",
+ "updated": "Nov 27, 2026, 5:52 PM PT",
  "record": {
   "w": 292,
   "l": 292,
@@ -1076,10 +1076,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P3 09:38",
+       "detail": "P3 08:58",
        "start": "2026-11-27T22:30:00Z",
        "period": 3,
-       "clock": "09:38",
+       "clock": "08:58",
        "teams": [
         {
          "name": "Rangers",
@@ -1956,16 +1956,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "9:00 - 1st",
+       "detail": "7:53 - 1st",
        "start": "2026-11-28T00:30Z",
        "period": 1,
-       "clock": "9:00",
+       "clock": "7:53",
        "teams": [
         {
          "name": "Brooklyn Nets",
          "short": "Nets",
          "abbr": "BKN",
-         "score": 9,
+         "score": 11,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -1976,7 +1976,7 @@
          "name": "Toronto Raptors",
          "short": "Raptors",
          "abbr": "TOR",
-         "score": 6,
+         "score": 10,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -2082,16 +2082,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "5:16 - 2nd",
+       "detail": "4:07 - 2nd",
        "start": "2026-11-27T23:00Z",
        "period": 2,
-       "clock": "5:16",
+       "clock": "4:07",
        "teams": [
         {
          "name": "Western Kentucky Hilltoppers",
          "short": "Hilltoppers",
          "abbr": "WKU",
-         "score": 67,
+         "score": 70,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -2103,7 +2103,7 @@
          "name": "Illinois Fighting Illini",
          "short": "Fighting Illini",
          "abbr": "ILL",
-         "score": 103,
+         "score": 105,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -2394,16 +2394,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "7:06 - 2nd",
+       "detail": "6:39 - 2nd",
        "start": "2026-11-28T00:00Z",
        "period": 2,
-       "clock": "7:06",
+       "clock": "6:39",
        "teams": [
         {
          "name": "Miami Heat",
          "short": "Heat",
          "abbr": "MIA",
-         "score": 43,
+         "score": 48,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -2415,7 +2415,7 @@
          "name": "New York Knicks",
          "short": "Knicks",
          "abbr": "NY",
-         "score": 25,
+         "score": 27,
          "ha": "home",
          "winner": null,
          "linescores": [
