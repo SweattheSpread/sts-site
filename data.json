@@ -1,5 +1,5 @@
 {
- "updated": "Nov 28, 2026, 1:01 PM PT",
+ "updated": "Nov 28, 2026, 1:03 PM PT",
  "record": {
   "w": 301,
   "l": 305,
@@ -11,7 +11,7 @@
   "first": "2026-10-12",
   "last": "2026-11-27"
  },
- "pending": 24,
+ "pending": 25,
  "latest": [
   {
    "n": 1086,
@@ -358,6 +358,65 @@
      }
     ],
     "sport": "NCAAF",
+    "ticket": "single"
+   }
+  },
+  {
+   "n": 1097,
+   "league": "NBA",
+   "type": "Player Prop",
+   "matchup": "Philadelphia 76ers @ Houston Rockets",
+   "pick": "Jabari Walker Under 6.5 rebounds (player prop)",
+   "odds": 100,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-28T17:40:00",
+   "timed": true,
+   "ticket": "single",
+   "espn": {
+    "legs": [
+     {
+      "kind": "prop",
+      "player": "Jabari Walker",
+      "ou": "U",
+      "line": 6.5,
+      "stat": "rebounds",
+      "label": "Jabari Walker U 6.5 rebounds",
+      "path": "basketball/nba",
+      "event": "401910050",
+      "date": "20261128",
+      "snapshot": {
+       "source": "espn",
+       "state": "pre",
+       "detail": "11/28 - 8:30 PM EST",
+       "start": "2026-11-29T01:30Z",
+       "period": null,
+       "clock": null,
+       "teams": [
+        {
+         "name": "Philadelphia 76ers",
+         "short": "76ers",
+         "abbr": "PHI",
+         "score": 0,
+         "ha": "away",
+         "winner": null,
+         "linescores": []
+        },
+        {
+         "name": "Houston Rockets",
+         "short": "Rockets",
+         "abbr": "HOU",
+         "score": 0,
+         "ha": "home",
+         "winner": null,
+         "linescores": []
+        }
+       ]
+      },
+      "source": "espn"
+     }
+    ],
+    "sport": "NBA",
     "ticket": "single"
    }
   },
@@ -1457,10 +1516,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "11:35 - 4th",
+       "detail": "9:00 - 4th",
        "start": "2026-11-28T17:00Z",
        "period": 4,
-       "clock": "11:35",
+       "clock": "9:00",
        "teams": [
         {
          "name": "Michigan Wolverines",
@@ -1480,7 +1539,7 @@
          "name": "Ohio State Buckeyes",
          "short": "Buckeyes",
          "abbr": "OSU",
-         "score": 37,
+         "score": 38,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -1507,10 +1566,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "11:35 - 4th",
+       "detail": "9:00 - 4th",
        "start": "2026-11-28T17:00Z",
        "period": 4,
-       "clock": "11:35",
+       "clock": "9:00",
        "teams": [
         {
          "name": "Michigan Wolverines",
@@ -1530,7 +1589,7 @@
          "name": "Ohio State Buckeyes",
          "short": "Buckeyes",
          "abbr": "OSU",
-         "score": 37,
+         "score": 38,
          "ha": "home",
          "winner": null,
          "linescores": [
