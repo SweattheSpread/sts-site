@@ -1,5 +1,5 @@
 {
- "updated": "Nov 27, 2026, 4:58 PM PT",
+ "updated": "Nov 27, 2026, 5:00 PM PT",
  "record": {
   "w": 292,
   "l": 292,
@@ -127,126 +127,6 @@
   }
  ],
  "picks": [
-  {
-   "n": 1069,
-   "league": "NHL",
-   "type": "Player Prop",
-   "matchup": "Seattle Kraken @ Edmonton Oilers",
-   "pick": "Connor McDavid Over 1.5 points",
-   "odds": 100,
-   "units": 1.0,
-   "gap": null,
-   "start": "2026-11-27T17:00:00",
-   "timed": true,
-   "ticket": "single",
-   "espn": {
-    "legs": [
-     {
-      "kind": "prop",
-      "player": "Connor McDavid",
-      "ou": "O",
-      "line": 1.5,
-      "stat": "points",
-      "label": "Connor McDavid O 1.5 points",
-      "path": "hockey/nhl",
-      "event": "401892809",
-      "date": "20261127",
-      "snapshot": {
-       "source": "nhl",
-       "state": "pre",
-       "detail": "Scheduled",
-       "start": "2026-11-28T01:00:00Z",
-       "period": null,
-       "clock": null,
-       "teams": [
-        {
-         "name": "Kraken",
-         "short": "SEA",
-         "abbr": "SEA",
-         "score": 0,
-         "ha": "away",
-         "winner": null,
-         "linescores": []
-        },
-        {
-         "name": "Oilers",
-         "short": "EDM",
-         "abbr": "EDM",
-         "score": 0,
-         "ha": "home",
-         "winner": null,
-         "linescores": []
-        }
-       ],
-       "nhl_id": 2026020414
-      },
-      "source": "nhl"
-     }
-    ],
-    "sport": "NHL",
-    "ticket": "single"
-   }
-  },
-  {
-   "n": 1076,
-   "league": "NHL",
-   "type": "Player Prop",
-   "matchup": "Seattle Kraken @ Edmonton Oilers",
-   "pick": "Ryan Nugent-Hopkins (EDM) Under 0.5 points (player prop)",
-   "odds": 130,
-   "units": 1.0,
-   "gap": null,
-   "start": "2026-11-27T17:00:00",
-   "timed": true,
-   "ticket": "single",
-   "espn": {
-    "legs": [
-     {
-      "kind": "prop",
-      "player": "Ryan Nugent-Hopkins",
-      "ou": "U",
-      "line": 0.5,
-      "stat": "points",
-      "label": "Ryan Nugent-Hopkins U 0.5 points",
-      "path": "hockey/nhl",
-      "event": "401892809",
-      "date": "20261127",
-      "snapshot": {
-       "source": "nhl",
-       "state": "pre",
-       "detail": "Scheduled",
-       "start": "2026-11-28T01:00:00Z",
-       "period": null,
-       "clock": null,
-       "teams": [
-        {
-         "name": "Kraken",
-         "short": "SEA",
-         "abbr": "SEA",
-         "score": 0,
-         "ha": "away",
-         "winner": null,
-         "linescores": []
-        },
-        {
-         "name": "Oilers",
-         "short": "EDM",
-         "abbr": "EDM",
-         "score": 0,
-         "ha": "home",
-         "winner": null,
-         "linescores": []
-        }
-       ],
-       "nhl_id": 2026020414
-      },
-      "source": "nhl"
-     }
-    ],
-    "sport": "NHL",
-    "ticket": "single"
-   }
-  },
   {
    "n": 1080,
    "league": "NCAAB",
@@ -1254,10 +1134,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P2 08:38",
+       "detail": "P2 06:41",
        "start": "2026-11-27T22:30:00Z",
        "period": 2,
-       "clock": "08:38",
+       "clock": "06:41",
        "teams": [
         {
          "name": "Rangers",
@@ -1767,6 +1647,66 @@
    }
   },
   {
+   "n": 1069,
+   "league": "NHL",
+   "type": "Player Prop",
+   "matchup": "Seattle Kraken @ Edmonton Oilers",
+   "pick": "Connor McDavid Over 1.5 points",
+   "odds": 100,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-27T17:00:00",
+   "timed": true,
+   "ticket": "single",
+   "espn": {
+    "legs": [
+     {
+      "kind": "prop",
+      "player": "Connor McDavid",
+      "ou": "O",
+      "line": 1.5,
+      "stat": "points",
+      "label": "Connor McDavid O 1.5 points",
+      "path": "hockey/nhl",
+      "event": "401892809",
+      "date": "20261127",
+      "snapshot": {
+       "source": "nhl",
+       "state": "pre",
+       "detail": "Scheduled",
+       "start": "2026-11-28T01:00:00Z",
+       "period": null,
+       "clock": null,
+       "teams": [
+        {
+         "name": "Kraken",
+         "short": "SEA",
+         "abbr": "SEA",
+         "score": 0,
+         "ha": "away",
+         "winner": null,
+         "linescores": []
+        },
+        {
+         "name": "Oilers",
+         "short": "EDM",
+         "abbr": "EDM",
+         "score": 0,
+         "ha": "home",
+         "winner": null,
+         "linescores": []
+        }
+       ],
+       "nhl_id": 2026020414
+      },
+      "source": "nhl"
+     }
+    ],
+    "sport": "NHL",
+    "ticket": "single"
+   }
+  },
+  {
    "n": 1071,
    "league": "Soccer",
    "type": "Player Prop",
@@ -1925,6 +1865,66 @@
      }
     ],
     "sport": "NFL",
+    "ticket": "single"
+   }
+  },
+  {
+   "n": 1076,
+   "league": "NHL",
+   "type": "Player Prop",
+   "matchup": "Seattle Kraken @ Edmonton Oilers",
+   "pick": "Ryan Nugent-Hopkins (EDM) Under 0.5 points (player prop)",
+   "odds": 130,
+   "units": 1.0,
+   "gap": null,
+   "start": "2026-11-27T17:00:00",
+   "timed": true,
+   "ticket": "single",
+   "espn": {
+    "legs": [
+     {
+      "kind": "prop",
+      "player": "Ryan Nugent-Hopkins",
+      "ou": "U",
+      "line": 0.5,
+      "stat": "points",
+      "label": "Ryan Nugent-Hopkins U 0.5 points",
+      "path": "hockey/nhl",
+      "event": "401892809",
+      "date": "20261127",
+      "snapshot": {
+       "source": "nhl",
+       "state": "pre",
+       "detail": "Scheduled",
+       "start": "2026-11-28T01:00:00Z",
+       "period": null,
+       "clock": null,
+       "teams": [
+        {
+         "name": "Kraken",
+         "short": "SEA",
+         "abbr": "SEA",
+         "score": 0,
+         "ha": "away",
+         "winner": null,
+         "linescores": []
+        },
+        {
+         "name": "Oilers",
+         "short": "EDM",
+         "abbr": "EDM",
+         "score": 0,
+         "ha": "home",
+         "winner": null,
+         "linescores": []
+        }
+       ],
+       "nhl_id": 2026020414
+      },
+      "source": "nhl"
+     }
+    ],
+    "sport": "NHL",
     "ticket": "single"
    }
   },
@@ -2137,10 +2137,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "1:56 - 2nd",
+       "detail": "1:36 - 2nd",
        "start": "2026-11-27T22:00Z",
        "period": 2,
-       "clock": "1:56",
+       "clock": "1:36",
        "teams": [
         {
          "name": "Marquette Golden Eagles",
@@ -2158,7 +2158,7 @@
          "name": "Texas A&M Aggies",
          "short": "Aggies",
          "abbr": "TA&M",
-         "score": 72,
+         "score": 73,
          "ha": "home",
          "winner": null,
          "linescores": [
