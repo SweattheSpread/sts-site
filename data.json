@@ -1,5 +1,5 @@
 {
- "updated": "Nov 27, 2026, 6:20 PM PT",
+ "updated": "Nov 27, 2026, 6:23 PM PT",
  "record": {
   "w": 292,
   "l": 292,
@@ -1615,10 +1615,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P1 13:02",
+       "detail": "P1 12:24",
        "start": "2026-11-28T01:00:00Z",
        "period": 1,
-       "clock": "13:02",
+       "clock": "12:24",
        "teams": [
         {
          "name": "Kraken",
@@ -1900,10 +1900,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P1 13:02",
+       "detail": "P1 12:24",
        "start": "2026-11-28T01:00:00Z",
        "period": 1,
-       "clock": "13:02",
+       "clock": "12:24",
        "teams": [
         {
          "name": "Kraken",
