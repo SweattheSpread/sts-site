@@ -1,5 +1,5 @@
 {
- "updated": "Nov 27, 2026, 9:38 PM PT",
+ "updated": "Nov 27, 2026, 9:40 PM PT",
  "record": {
   "w": 293,
   "l": 292,
@@ -1103,9 +1103,9 @@
       "line": 69.5,
       "stat": "rushing yds",
       "label": "Kansas City Chiefs @ Buffalo Bills SGP +500: Emmett Johnson O 69.5 rushing yds",
-      "date": "20261126",
-      "unverified": true,
-      "reason": "Player not found in this game"
+      "path": "football/nfl",
+      "event": "401873082",
+      "date": "20261126"
      },
      {
       "kind": "prop",
@@ -2216,7 +2216,7 @@
          "name": "New Orleans Pelicans",
          "short": "New Orleans Pelicans",
          "abbr": "",
-         "score": 90,
+         "score": 100,
          "ha": "away",
          "winner": null,
          "linescores": []
@@ -2225,7 +2225,7 @@
          "name": "Los Angeles Clippers",
          "short": "Los Angeles Clippers",
          "abbr": "",
-         "score": 87,
+         "score": 94,
          "ha": "home",
          "winner": null,
          "linescores": []
@@ -2402,16 +2402,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "5:01 - 4th",
+       "detail": "16.5 - 4th",
        "start": "2026-11-28T02:30Z",
        "period": 4,
-       "clock": "5:01",
+       "clock": "16.5",
        "teams": [
         {
          "name": "Denver Nuggets",
          "short": "Nuggets",
          "abbr": "DEN",
-         "score": 101,
+         "score": 118,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -2425,7 +2425,7 @@
          "name": "Utah Jazz",
          "short": "Jazz",
          "abbr": "UTAH",
-         "score": 102,
+         "score": 107,
          "ha": "home",
          "winner": null,
          "linescores": [
