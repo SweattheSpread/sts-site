@@ -1,5 +1,5 @@
 {
- "updated": "Nov 28, 2026, 1:31 PM PT",
+ "updated": "Nov 28, 2026, 1:33 PM PT",
  "record": {
   "w": 301,
   "l": 305,
@@ -1791,10 +1791,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "12:46 - 2nd",
+       "detail": "12:06 - 2nd",
        "start": "2026-11-28T19:00Z",
        "period": 2,
-       "clock": "12:46",
+       "clock": "12:06",
        "teams": [
         {
          "name": "Georgia Southern Eagles",
@@ -1904,8 +1904,8 @@
       "reason": "Player not found in this game",
       "snapshot": {
        "source": "odds-api",
-       "state": "in",
-       "detail": "Live",
+       "state": "post",
+       "detail": "Final",
        "start": "2026-11-28T17:14:43Z",
        "teams": [
         {
@@ -1914,7 +1914,7 @@
          "abbr": "",
          "score": 0,
          "ha": "away",
-         "winner": null,
+         "winner": false,
          "linescores": []
         },
         {
@@ -1923,7 +1923,7 @@
          "abbr": "",
          "score": 45,
          "ha": "home",
-         "winner": null,
+         "winner": true,
          "linescores": []
         }
        ]
