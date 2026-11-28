@@ -1,5 +1,5 @@
 {
- "updated": "Nov 27, 2026, 8:14 PM PT",
+ "updated": "Nov 27, 2026, 8:16 PM PT",
  "record": {
   "w": 292,
   "l": 292,
@@ -1529,10 +1529,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P3 14:15",
+       "detail": "P3 12:57",
        "start": "2026-11-28T01:00:00Z",
        "period": 3,
-       "clock": "14:15",
+       "clock": "12:57",
        "teams": [
         {
          "name": "Kraken",
@@ -1593,10 +1593,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "8.7 - 3rd",
+       "detail": "End of 3rd",
        "start": "2026-11-28T01:30Z",
        "period": 3,
-       "clock": "8.7",
+       "clock": "0.0",
        "teams": [
         {
          "name": "Memphis Grizzlies",
@@ -1826,10 +1826,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P3 14:15",
+       "detail": "P3 12:57",
        "start": "2026-11-28T01:00:00Z",
        "period": 3,
-       "clock": "14:15",
+       "clock": "12:57",
        "teams": [
         {
          "name": "Kraken",
@@ -2089,10 +2089,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "7:32 - 2nd",
+       "detail": "6:54 - 2nd",
        "start": "2026-11-28T01:30Z",
        "period": 2,
-       "clock": "7:32",
+       "clock": "6:54",
        "teams": [
         {
          "name": "Miami Hurricanes",
@@ -2110,7 +2110,7 @@
          "name": "Alabama Crimson Tide",
          "short": "Crimson Tide",
          "abbr": "ALA",
-         "score": 67,
+         "score": 68,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -2289,7 +2289,7 @@
          "name": "Los Angeles Clippers",
          "short": "Los Angeles Clippers",
          "abbr": "",
-         "score": 31,
+         "score": 34,
          "ha": "home",
          "winner": null,
          "linescores": []
