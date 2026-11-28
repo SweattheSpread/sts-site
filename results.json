@@ -1,5 +1,5 @@
 {
- "updated": "Nov 28, 2026, 2:45 PM PT",
+ "updated": "Nov 28, 2026, 2:47 PM PT",
  "record": {
   "w": 301,
   "l": 305,
@@ -11,7 +11,7 @@
   "first": "2026-10-12",
   "last": "2026-11-27"
  },
- "pending": 31,
+ "pending": 32,
  "plays": [
   {
    "n": 334,
@@ -10105,6 +10105,22 @@
    "pick": "Tulane +7.5 LIVE",
    "odds": -115,
    "units": 3.0,
+   "result": null,
+   "pl": null,
+   "pending": true
+  },
+  {
+   "n": 1104,
+   "date": "2026-11-28",
+   "day": "2026-11-28",
+   "league": "NCAAF",
+   "market": "team_total",
+   "market_label": "Team Total",
+   "ticket": "single",
+   "matchup": "USC Trojans @ UCLA Bruins",
+   "pick": "USC Trojans team total Over 42.5 LIVE",
+   "odds": -104,
+   "units": 5.0,
    "result": null,
    "pl": null,
    "pending": true

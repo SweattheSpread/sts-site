@@ -1,5 +1,5 @@
 {
- "updated": "Nov 28, 2026, 2:45 PM PT",
+ "updated": "Nov 28, 2026, 2:47 PM PT",
  "record": {
   "w": 301,
   "l": 305,
@@ -11,7 +11,7 @@
   "first": "2026-10-12",
   "last": "2026-11-27"
  },
- "pending": 31,
+ "pending": 32,
  "latest": [
   {
    "n": 1086,
@@ -2019,10 +2019,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "5:28 - 2nd",
+       "detail": "4:58 - 2nd",
        "start": "2026-11-28T20:30Z",
        "period": 2,
-       "clock": "5:28",
+       "clock": "4:58",
        "teams": [
         {
          "name": "Tulane Green Wave",
@@ -2041,6 +2041,70 @@
          "short": "Bulls",
          "abbr": "USF",
          "score": 10,
+         "ha": "home",
+         "winner": null,
+         "linescores": [
+          0,
+          0
+         ]
+        }
+       ]
+      },
+      "source": "espn"
+     }
+    ],
+    "sport": "NCAAF",
+    "ticket": "single"
+   }
+  },
+  {
+   "n": 1104,
+   "league": "NCAAF",
+   "type": "Team Total",
+   "matchup": "USC Trojans @ UCLA Bruins",
+   "pick": "USC Trojans team total Over 42.5 LIVE",
+   "odds": -104,
+   "units": 5.0,
+   "gap": null,
+   "start": "2026-11-28T12:30:00",
+   "timed": true,
+   "ticket": "single",
+   "espn": {
+    "legs": [
+     {
+      "kind": "team_total",
+      "side": "USC Trojans",
+      "ou": "O",
+      "line": 42.5,
+      "label": "USC Trojans O 42.5",
+      "path": "football/college-football",
+      "event": "401858543",
+      "date": "20261128",
+      "snapshot": {
+       "source": "espn",
+       "state": "in",
+       "detail": "6:58 - 2nd",
+       "start": "2026-11-28T20:30Z",
+       "period": 2,
+       "clock": "6:58",
+       "teams": [
+        {
+         "name": "USC Trojans",
+         "short": "Trojans",
+         "abbr": "USC",
+         "score": 28,
+         "ha": "away",
+         "winner": null,
+         "linescores": [
+          0,
+          0
+         ]
+        },
+        {
+         "name": "UCLA Bruins",
+         "short": "Bruins",
+         "abbr": "UCLA",
+         "score": 3,
          "ha": "home",
          "winner": null,
          "linescores": [
