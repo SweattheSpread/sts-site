@@ -1,5 +1,5 @@
 {
- "updated": "Nov 27, 2026, 9:16 PM PT",
+ "updated": "Nov 27, 2026, 9:18 PM PT",
  "record": {
   "w": 293,
   "l": 292,
@@ -2216,7 +2216,7 @@
          "name": "New Orleans Pelicans",
          "short": "New Orleans Pelicans",
          "abbr": "",
-         "score": 74,
+         "score": 77,
          "ha": "away",
          "winner": null,
          "linescores": []
@@ -2225,7 +2225,7 @@
          "name": "Los Angeles Clippers",
          "short": "Los Angeles Clippers",
          "abbr": "",
-         "score": 72,
+         "score": 77,
          "ha": "home",
          "winner": null,
          "linescores": []
@@ -2417,6 +2417,7 @@
          "linescores": [
           0,
           0,
+          0,
           0
          ]
         },
@@ -2428,6 +2429,7 @@
          "ha": "home",
          "winner": null,
          "linescores": [
+          0,
           0,
           0,
           0
