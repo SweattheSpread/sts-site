@@ -1,5 +1,5 @@
 {
- "updated": "Nov 27, 2026, 6:28 PM PT",
+ "updated": "Nov 27, 2026, 6:30 PM PT",
  "record": {
   "w": 292,
   "l": 292,
@@ -1615,10 +1615,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P1 10:34",
+       "detail": "P1 09:00",
        "start": "2026-11-28T01:00:00Z",
        "period": 1,
-       "clock": "10:34",
+       "clock": "09:00",
        "teams": [
         {
          "name": "Kraken",
@@ -1900,10 +1900,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P1 10:34",
+       "detail": "P1 09:00",
        "start": "2026-11-28T01:00:00Z",
        "period": 1,
-       "clock": "10:34",
+       "clock": "09:00",
        "teams": [
         {
          "name": "Kraken",
@@ -1964,10 +1964,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "6:12 - 2nd",
+       "detail": "5:28 - 2nd",
        "start": "2026-11-28T00:30Z",
        "period": 2,
-       "clock": "6:12",
+       "clock": "5:28",
        "teams": [
         {
          "name": "Brooklyn Nets",
@@ -1985,7 +1985,7 @@
          "name": "Toronto Raptors",
          "short": "Raptors",
          "abbr": "TOR",
-         "score": 46,
+         "score": 51,
          "ha": "home",
          "winner": null,
          "linescores": [
@@ -2407,10 +2407,10 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "11:27 - 3rd",
+       "detail": "10:05 - 3rd",
        "start": "2026-11-28T00:00Z",
        "period": 3,
-       "clock": "11:27",
+       "clock": "10:05",
        "teams": [
         {
          "name": "Miami Heat",
@@ -2429,7 +2429,7 @@
          "name": "New York Knicks",
          "short": "Knicks",
          "abbr": "NY",
-         "score": 47,
+         "score": 51,
          "ha": "home",
          "winner": null,
          "linescores": [
