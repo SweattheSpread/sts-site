@@ -1,5 +1,5 @@
 {
- "updated": "Nov 27, 2026, 5:19 PM PT",
+ "updated": "Nov 27, 2026, 5:21 PM PT",
  "record": {
   "w": 292,
   "l": 292,
@@ -1134,10 +1134,10 @@
       "snapshot": {
        "source": "nhl",
        "state": "in",
-       "detail": "P2 11:11",
+       "detail": "P2 08:54",
        "start": "2026-11-27T22:30:00Z",
        "period": 2,
-       "clock": "11:11",
+       "clock": "08:54",
        "teams": [
         {
          "name": "Rangers",
@@ -2076,16 +2076,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "16:00 - 2nd",
+       "detail": "15:37 - 2nd",
        "start": "2026-11-27T23:00Z",
        "period": 2,
-       "clock": "16:00",
+       "clock": "15:37",
        "teams": [
         {
          "name": "Western Kentucky Hilltoppers",
          "short": "Hilltoppers",
          "abbr": "WKU",
-         "score": 55,
+         "score": 57,
          "ha": "away",
          "winner": null,
          "linescores": [
@@ -2330,16 +2330,16 @@
       "snapshot": {
        "source": "espn",
        "state": "in",
-       "detail": "7:45 - 1st",
+       "detail": "7:03 - 1st",
        "start": "2026-11-28T00:00Z",
        "period": 1,
-       "clock": "7:45",
+       "clock": "7:03",
        "teams": [
         {
          "name": "Miami Heat",
          "short": "Heat",
          "abbr": "MIA",
-         "score": 13,
+         "score": 15,
          "ha": "away",
          "winner": null,
          "linescores": [
